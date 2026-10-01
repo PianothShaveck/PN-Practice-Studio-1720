@@ -1,0 +1,433 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T18:04:18.116829+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/b-final-recheck-input/pharmacology-03.json",
+  "sourceSha256": "fd3a21d27f8d87239ce936cb091871501618acbfb0b8466a0300cc04cbb26c7d",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-pharmacology-051",
+      "x-pharmacology-052",
+      "x-pharmacology-053",
+      "x-pharmacology-054",
+      "x-pharmacology-055",
+      "x-pharmacology-056",
+      "x-pharmacology-057",
+      "x-pharmacology-058",
+      "x-pharmacology-059",
+      "x-pharmacology-060",
+      "x-pharmacology-061",
+      "x-pharmacology-062",
+      "x-pharmacology-063",
+      "x-pharmacology-064",
+      "x-pharmacology-065",
+      "x-pharmacology-066",
+      "x-pharmacology-067",
+      "x-pharmacology-068",
+      "x-pharmacology-069",
+      "x-pharmacology-070",
+      "x-pharmacology-071",
+      "x-pharmacology-072",
+      "x-pharmacology-073",
+      "x-pharmacology-074",
+      "x-pharmacology-075"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Full reread of all25 frozen current items and the prior snapshot-validation report, including all clinical content, keys and metadata. Not a hash-only or metadata carry-forward.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "ids": [
+        "x-pharmacology-053"
+      ],
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/761497s000lbl.pdf",
+      "checked": true,
+      "accessMode": "primary regulatory label search excerpt",
+      "note": "Retrieved current insulin-pen warning that sharing remains unsafe even if needles are changed; no product-specific dosing used."
+    },
+    {
+      "ids": [
+        "x-pharmacology-064"
+      ],
+      "url": "https://medlineplus.gov/druginfo/meds/a682464.html",
+      "checked": true,
+      "accessMode": "primary drug-information search excerpt",
+      "note": "Retrieved immediate-call advice for sore throat and fever during methimazole."
+    },
+    {
+      "ids": [
+        "x-pharmacology-057"
+      ],
+      "url": "https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/safety-reviews/summary-safety-review-sglt2-inhibitors-canagliflozin-dapagliflozin-empagliflozin.html",
+      "checked": true,
+      "note": "Subsequently opened full Health Canada safety review: ketoacidosis can occur with normal or modest glucose; respiratory/GI symptoms warrant immediate assessment regardless of glucose."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-pharmacology-051",
+      "status": "pass",
+      "assessment": "The urgent teaching misconception is basal omission in type1diabetes during illness. Food choice, mealtime adjustments and recovery activity are relevant but do not correct continuing basal insulin need; sick-day plan avoids arbitrary dosing.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f80cdc1e5fb7b70cd6354a0e1a77e1d94d36c4d569d66ee2b25682c4e1c6bca7"
+    },
+    {
+      "id": "x-pharmacology-052",
+      "status": "revise",
+      "assessment": "Lipohypertrophy assessment/healthy-site rotation is appropriate. Two alternatives announce their incompleteness with only/without a plan. Make them straightforward competing interventions.",
+      "issues": [
+        "Lipohypertrophy assessment/healthy-site rotation is appropriate. Two alternatives announce their incompleteness with only/without a plan. Make them straightforward competing interventions."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Assess injection sites and teach rotation into healthy tissue",
+            "Request a higher insulin dose for the persistent high readings",
+            "Rotate daily between the abdomen, upper arms and thighs",
+            "Teach deeper injections into the same lump"
+          ],
+          "why": [
+            "Lipohypertrophy can cause unpredictable absorption and needs correction before assuming dose failure.",
+            "Increasing insulin before correcting unpredictable absorption can cause hypoglycaemia when injections move into healthy tissue.",
+            "Frequent changes between body regions may add absorption variation; a consistent site-rotation plan within suitable healthy tissue is needed.",
+            "Changing depth does not restore normal absorption in damaged tissue."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "75ec8e9a89375c5e477ab54376b546faebcfd36cf713658abde6b269abb03688"
+    },
+    {
+      "id": "x-pharmacology-053",
+      "status": "pass",
+      "assessment": "Changing needles does not make a shared insulin pen safe because internal blood contamination is possible. Known infection status, same dose and external cleaning do not resolve the risk; foundation label matches demand.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "024684fe70789d230c9c2f8874703d35b65d2f270b185bed147e292540ae581b"
+    },
+    {
+      "id": "x-pharmacology-054",
+      "status": "revise",
+      "assessment": "Device-specific reteaching/return demonstration is sound; the verbal alternative advertises lack of observation. Replace it with a plausible incomplete understanding check.",
+      "issues": [
+        "Device-specific reteaching/return demonstration is sound; the verbal alternative advertises lack of observation. Replace it with a plausible incomplete understanding check."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Explain the new pen instructions and ask the client to repeat the prescribed dose",
+            "Use the old syringe markings while following the new pen label",
+            "Reteach dosing with the prescribed pen and return demonstration",
+            "Convert to the old syringe volume using the previous label"
+          ],
+          "why": [
+            "Repeating the dose checks recall but does not establish the ability to use the unfamiliar concentrated-insulin device correctly.",
+            "The syringe markings may not correspond to the concentrated pen product.",
+            "Observed device-specific technique helps prevent a concentration-related dosing error.",
+            "Old volume instructions may deliver the wrong amount of concentrated insulin."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "95b87d556e29d3962f46dd919b55c100b7339f1bc3948f1e3f3d96fc8a1bb360"
+    },
+    {
+      "id": "x-pharmacology-055",
+      "status": "pass",
+      "assessment": "Current shakiness after missed lunch on gliclazide with a meter available calls for immediate measurement and the supplied low-glucose plan. Rest, routine snack with delayed testing and tomorrow’s regimen change do not assess the present risk.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f32e1f266e8d33df98f90e198484e182f2095ce1519be45069d3b5c8a4f76b07"
+    },
+    {
+      "id": "x-pharmacology-056",
+      "status": "pass",
+      "assessment": "Dehydration and new AKI change metformin safety even at an unchanged chronic dose. Prompt review before administration avoids accumulation risk; neither food nor an arbitrary half-dose resolves it.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ca3781d993602f13305cf72b2f99b1f059fbee5b07505b614abf5bb81df1706b"
+    },
+    {
+      "id": "x-pharmacology-057",
+      "status": "revise",
+      "assessment": "The SGLT2-DKA key is supported despite modest glucose. Remove the explicit missing-ketone cue from the routine glucose-recheck alternative.",
+      "issues": [
+        "The SGLT2-DKA key is supported despite modest glucose. Remove the explicit missing-ketone cue from the routine glucose-recheck alternative."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Repeat capillary glucose in one hour to decide whether emergency assessment is needed",
+            "Urgently assess for ketones and acid-base disturbance",
+            "Use the glucose value to exclude a diabetic emergency",
+            "Hydrate while arranging routine sick-day telephone review later"
+          ],
+          "why": [
+            "Glucose may understate SGLT2-associated ketoacidosis; persistent vomiting, abdominal pain and deep breathing warrant urgent assessment now.",
+            "SGLT2-associated ketoacidosis can be serious even when glucose is only moderately elevated.",
+            "Moderate glucose does not exclude ketoacidosis with this medication and symptom pattern.",
+            "Persistent vomiting and deep breathing require more urgent assessment."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "913bab4072e4206c6fed6ae06147978a810d25a40c1b3f8487d36ae2624cff9b"
+    },
+    {
+      "id": "x-pharmacology-058",
+      "status": "revise",
+      "assessment": "Changed severe persistent pain needs assessment before further semaglutide. Wrong choices use explicit only/without-reporting qualifiers rather than believable routine-intolerance plans.",
+      "issues": [
+        "Changed severe persistent pain needs assessment before further semaglutide. Wrong choices use explicit only/without-reporting qualifiers rather than believable routine-intolerance plans."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Use small frequent drinks and judge the response by whether nausea settles",
+            "Request a smaller dose at the next routine medication review",
+            "Arrange prompt clinical assessment before further dosing",
+            "Apply the previous mild-nausea plan and reassess tomorrow"
+          ],
+          "why": [
+            "Nausea relief does not exclude a serious cause of continuing severe upper-abdominal pain.",
+            "A routine dose discussion is too delayed for persistent severe pain with repeated vomiting.",
+            "Severe persistent pain differs from earlier mild nausea and requires evaluation.",
+            "The changed severity makes routine delayed self-management insufficient."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "fd0b86ab7840b53a8db7f0ca7a570982cdb4b1c3a04c280e9704a70380ec9299"
+    },
+    {
+      "id": "x-pharmacology-059",
+      "status": "pass",
+      "assessment": "New hyperglycaemia after prednisone can be medication related without proving permanent diabetes. Prior normal values or thirst alone do not authorize independent steroid reduction; key accurately frames increased monitoring need.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "05c0c5d67674b36f00bcfbcd98a4934fb5866f37dec376ec0835c3e98c8a7dd2"
+    },
+    {
+      "id": "x-pharmacology-060",
+      "status": "pass",
+      "assessment": "Dose return demonstration and low-glucose response knowledge support independent insulin use. Agreement without demonstration, cap-colour identification and unavailable assistance do not establish readiness.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0e14b8e2310a57d8b7233224852313e8b85689ca25aa88c4469e825d5c728205"
+    },
+    {
+      "id": "x-pharmacology-061",
+      "status": "revise",
+      "assessment": "Prolonged prednisone requires individualized discontinuation review. Option0 expressly advertises no review; use inappropriate reuse of a prior short-course plan.",
+      "issues": [
+        "Prolonged prednisone requires individualized discontinuation review. Option0 expressly advertises no review; use inappropriate reuse of a prior short-course plan."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Reuse the taper schedule provided for a previous brief course of prednisone",
+            "Arrange a prescriber-directed taper and discuss adrenal suppression",
+            "Stop when the current package is finished regardless of dose",
+            "Alternate full doses and no doses based on daily symptoms"
+          ],
+          "why": [
+            "A schedule for a brief course may not account for months of adrenal suppression or the current underlying disease.",
+            "Prolonged therapy can suppress endogenous cortisol, making abrupt withdrawal hazardous.",
+            "Package completion does not establish a safe discontinuation schedule.",
+            "An improvised schedule does not address adrenal recovery reliably."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "b9e259b938f01adad113535b3874172a0fe929419402067a760fcfda36c1defa"
+    },
+    {
+      "id": "x-pharmacology-062",
+      "status": "pass",
+      "assessment": "Consistent levothyroxine timing and separation from iron address variable absorption. Higher dose before correcting technique, varying food exposure and separation only on blood-test days do not; foundation label is appropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1cf1503e56c38df07ea15bc226a2c26a2b99e0cbc68d6a81d3b668c37bfb068c"
+    },
+    {
+      "id": "x-pharmacology-063",
+      "status": "revise",
+      "assessment": "Adrenergic symptoms after levothyroxine escalation justify thyroid/cardiovascular review. Remove the explicit nonreporting cue from the timing distractor.",
+      "issues": [
+        "Adrenergic symptoms after levothyroxine escalation justify thyroid/cardiovascular review. Remove the explicit nonreporting cue from the timing distractor."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Move the levothyroxine dose to bedtime to reduce daytime symptoms",
+            "Reassure that symptoms reflect adjustment and keep routine follow-up",
+            "Provide relaxation teaching and defer thyroid review unless anxiety persists",
+            "Report symptoms for thyroid and cardiovascular assessment"
+          ],
+          "why": [
+            "Timing changes do not evaluate or correct possible excessive hormone exposure after a dose increase.",
+            "The adrenergic symptom cluster after a dose increase warrants earlier review.",
+            "Relaxation alone does not address possible excessive hormone replacement.",
+            "The temporal pattern suggests possible overreplacement requiring review."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "b5ee79361908374796a7a934fa1c54b8e7f36b225b2fef549c8be67db3f626e0"
+    },
+    {
+      "id": "x-pharmacology-064",
+      "status": "revise",
+      "assessment": "Fever/sore throat on methimazole correctly require prompt team assessment for marrow toxicity. The thyroid-monitoring alternative declares that the fever is ignored; replace with a plausible misplaced monitoring focus.",
+      "issues": [
+        "Fever/sore throat on methimazole correctly require prompt team assessment for marrow toxicity. The thyroid-monitoring alternative declares that the fever is ignored; replace with a plausible misplaced monitoring focus."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Promptly contact the treatment team for assessment and blood-count guidance",
+            "Use cold remedies and report only if symptoms persist a week",
+            "Arrange a thyroid-function test and use its result to decide about review",
+            "Treat it as an allergy solely because fever followed treatment"
+          ],
+          "why": [
+            "Agranulocytosis is uncommon but serious and must be considered.",
+            "Delayed assessment may miss a serious drug-associated infection risk.",
+            "Thyroid hormone control does not assess neutrophil suppression or infection risk; these symptoms need prompt review and blood-count guidance.",
+            "Fever and sore throat require evaluation rather than an assumed mechanism."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "d7e50b9b7a0610b0fe815c4255d309dcd62c46b5aa038d904e55bf6f2af98b0d"
+    },
+    {
+      "id": "x-pharmacology-065",
+      "status": "pass",
+      "assessment": "Inability to remain upright changes oral alendronate suitability because of oesophageal injury risk. Crushing, food or bedtime administration do not replace positioning requirements; clarification is appropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c2b499c3da6b6b9b14e8b4dded6db7014cefe01ddf27437f750bb0953e5dd08b"
+    },
+    {
+      "id": "x-pharmacology-066",
+      "status": "pass",
+      "assessment": "Excess water intake with reduced urine, weight gain and confusion during desmopressin supports retention/hyponatraemia rather than osmotic loss or inadequate ADH effect. Parallel interpretations use the supplied trajectory.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "733b5066cc0fcffe84c90cde1c346a8d982512f4651ed292ace10ca1f4c1851d"
+    },
+    {
+      "id": "x-pharmacology-067",
+      "status": "pass",
+      "assessment": "Vomiting prevents oral hydrocortisone absorption during increased illness demand in adrenal insufficiency. Urgent emergency replacement planning is appropriate; food trials, routine waiting or salt/water alone cannot replace glucocorticoids.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e7d6843564dda8245c2170460570ded9b2bc6b47b65c215d3efb6d2426c0686f"
+    },
+    {
+      "id": "x-pharmacology-068",
+      "status": "pass",
+      "assessment": "Monitoring during and after exercise plus readily available rapid carbohydrate addresses immediate and delayed lows. A meal does not guarantee protection, symptoms should not be exercised through, and basal omission risks deficiency.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "22013e0c121e55fab32aee1f6432f4c2804aee3d45c488eee6d730ca5959d1a0"
+    },
+    {
+      "id": "x-pharmacology-069",
+      "status": "revise",
+      "assessment": "The individualized time-zone plan and accessible supplies are correct. The wrong timing/dosing choices explicitly advertise omitted assessment with without/only.",
+      "issues": [
+        "The individualized time-zone plan and accessible supplies are correct. The wrong timing/dosing choices explicitly advertise omitted assessment with without/only."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Keep basal and mealtime doses on the home clock throughout the trip",
+            "Pack all insulin with ice directly against the cartridges",
+            "Adjust mealtime doses after arrival according to appetite at each meal",
+            "Obtain an individualized dosing and monitoring schedule",
+            "Carry accessible supplies and hypoglycemia treatment"
+          ],
+          "why": [
+            "Maintaining every home-clock dose may mismatch changed meal times and dose intervals; an individualized travel plan is needed.",
+            "Freezing can damage insulin and make it unreliable.",
+            "Appetite alone does not establish carbohydrate intake, glucose status or the appropriate dose intervals across time zones.",
+            "Time changes can alter intervals between doses and meals.",
+            "Lost checked luggage should not interrupt essential treatment."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "b964273602af433b3098762792b08bf2193f70a447855b4edc248bfc89648180"
+    },
+    {
+      "id": "x-pharmacology-070",
+      "status": "pass",
+      "assessment": "Prescribed glucagon rescue plus emergency help and continued assessment is appropriate for severe hypoglycaemia. Unsafe swallowing, partly discharging a single-use device and abandoning monitoring after arousal are meaningful rescue misconceptions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b9aabce04b308e3d9ee7ebdc3c958f8afbdce7a2b93a393924b90390243dfb61"
+    },
+    {
+      "id": "x-pharmacology-071",
+      "status": "pass",
+      "assessment": "Unexpected particles in normally clear insulin after heat exposure call for replacement. A normal glucose value cannot verify potency, and recooling or dose compensation cannot reliably reverse unknown damage.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b9ab18ad1b115be69fbfaf7f66638637c396fcb5158edd9fd9618d492174c6f6"
+    },
+    {
+      "id": "x-pharmacology-072",
+      "status": "pass",
+      "assessment": "Pump interruption with rising glucose can progress to insulin deficiency before symptoms. Directed glucose/ketone checks and the backup plan are appropriate; an unverified malfunctioning delivery path cannot be assumed to deliver a correction.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a23f0819e88da351138bfa78084368cc995e3a68059a4118e91d6a3a1d0160e4"
+    },
+    {
+      "id": "x-pharmacology-073",
+      "status": "pass",
+      "assessment": "Falling tachycardia/tremor without hypothyroid features supports balanced response. Infection warning symptoms, excessive suppression and anxiety improvement without physiological change do not establish the intended benefit.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6c430055062b9fb23ea7c2a04e1f86d163ccbec350801f2484d68adbeab630aa"
+    },
+    {
+      "id": "x-pharmacology-074",
+      "status": "revise",
+      "assessment": "The unlisted correction-scale range requires authorized escalation. The alternative explicitly says it will leave the result unreported; use a plausible timing error.",
+      "issues": [
+        "The unlisted correction-scale range requires authorized escalation. The alternative explicitly says it will leave the result unreported; use a plausible timing error."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Use the highest listed dose as the final plan",
+            "Repeat the glucose after the meal before contacting the prescriber",
+            "Contact the authorized prescriber or follow the escalation instruction",
+            "Extend the scale by repeating its last numerical increment"
+          ],
+          "why": [
+            "That dose may be insufficient or inappropriate for the unlisted range.",
+            "A later value does not replace current clarification of a result outside the authorized dosing scale.",
+            "The incomplete scale does not authorize extrapolation to an unlisted range.",
+            "A pattern in listed doses is not a prescription for higher values."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "c6c44623d0c772e061b2758845b5c29f6aec54791fadaab7fe7221dd681beced"
+    },
+    {
+      "id": "x-pharmacology-075",
+      "status": "pass",
+      "assessment": "New infection symptoms and melena/light-headedness require prompt assessment during chronic steroids, unlike improved mobility or mild isolated appetite/sleep changes. The prompt distinguishes urgent assessment from routine review rather than asserting mild effects are never reportable.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ffefc6a1928947e0f84c7da4626aa45756ed43f58bf2c1d5bc9c91cd80271e05"
+    }
+  ],
+  "activeSourceFile": "authoring/b/pharmacology-03.json",
+  "reviewerTask": "/root/review_legacy"
+}

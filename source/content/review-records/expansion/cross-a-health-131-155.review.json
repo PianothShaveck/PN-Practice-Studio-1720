@@ -1,0 +1,337 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewerTask": "/root/author_management_safety",
+  "reviewedAt": "2026-10-01T17:46:39.207935+00:00",
+  "sourceFile": "bank-expansion/reviews/expansion/cross-a-health-snapshot.json",
+  "coverage": {
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-health-131",
+      "x-health-132",
+      "x-health-133",
+      "x-health-134",
+      "x-health-135",
+      "x-health-136",
+      "x-health-137",
+      "x-health-138",
+      "x-health-139",
+      "x-health-140",
+      "x-health-141",
+      "x-health-142",
+      "x-health-143",
+      "x-health-144",
+      "x-health-145",
+      "x-health-146",
+      "x-health-147",
+      "x-health-148",
+      "x-health-149",
+      "x-health-150",
+      "x-health-151",
+      "x-health-152",
+      "x-health-153",
+      "x-health-154",
+      "x-health-155"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Read every supplied field and reasoned through each key, distractor, rationale, objective and difficulty. Targeted primary-source checks are recorded separately; a reference alone was not treated as validation.",
+  "limitations": [
+    "Not external clinician or psychometric validation",
+    "Source verification is targeted; general educational and communication principles were reviewed for internal and clinical coherence."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-health-131",
+      "status": "revise",
+      "assessment": "Client-directed coordination is correct, but forced either-or choice and assumed ceremony are extreme foils; the provincial label has no clinical function.",
+      "issues": [
+        "Client-directed coordination is correct, but forced either-or choice and assumed ceremony are extreme foils; the provincial label has no clinical function."
+      ],
+      "proposedChanges": [
+        "Remove the unnecessary province label. Compare asking about the requested healing practice, seeking a medication interaction review, offering an Elder referral and arranging a family meeting; frame first clarification with client preferences not yet known."
+      ],
+      "reviewedItemSha256": "29bf8dbe28281ae707627d7ee46ee768ebc5385aa6767b48d48eac780b4a071d"
+    },
+    {
+      "id": "x-health-132",
+      "status": "revise",
+      "assessment": "Cooling access and check-ins fit the heat-risk situation, but peak-heat exercise and waiting for illness are conspicuous errors.",
+      "issues": [
+        "Cooling access and check-ins fit the heat-risk situation, but peak-heat exercise and waiting for illness are conspicuous errors."
+      ],
+      "proposedChanges": [
+        "Compare available cooling transport, opening windows, fan use and monitoring. Add a forecast and concrete access barrier so the practical cooling plan is decisive; keep key and distractors similar in scope."
+      ],
+      "reviewedItemSha256": "fae13b4496e0bb53b4e418259060df323bb1007685418f2ec34065aa728f2ff7"
+    },
+    {
+      "id": "x-health-133",
+      "status": "pass",
+      "assessment": "The chronic respiratory risk and poor air quality require adapting activity using current exposure advice and the individualized plan. Faster walking, a shorter exposed route and an extended blanket suspension are distinguishable alternatives with coherent rationales.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3794eb0746935b6d8dd8a5efeba03972d5ed19d45c149b1feee2e4aa5e6fc588"
+    },
+    {
+      "id": "x-health-134",
+      "status": "revise",
+      "assessment": "Noise-related ringing merits assessment and exposure protection, but all wrong options explicitly delay or ignore the occupational hazard.",
+      "issues": [
+        "Noise-related ringing merits assessment and exposure protection, but all wrong options explicitly delay or ignore the occupational hazard."
+      ],
+      "proposedChanges": [
+        "Use credible alternatives such as changing earplug type, requesting quieter duties, reviewing hearing and fitted protection, and arranging an annual test. Include the exposure history and explain why symptom review and effective protection are needed now."
+      ],
+      "reviewedItemSha256": "417b147cb00b3ac3a634c7d2a54a457882fa0a2e119cbbffb74d5f829c099e1f"
+    },
+    {
+      "id": "x-health-135",
+      "status": "revise",
+      "assessment": "Product-specific storage planning is sound, but freezing every medication and discarding labels to lighten luggage are cartoon distractors.",
+      "issues": [
+        "Product-specific storage planning is sound, but freezing every medication and discarding labels to lighten luggage are cartoon distractors."
+      ],
+      "proposedChanges": [
+        "Provide a hypothetical product storage instruction and actual travel conditions. Test suitable transport container, direct contact with ice, hotel refrigeration reliability and original identifying packaging as practical decisions."
+      ],
+      "reviewedItemSha256": "c9aee9c3563b245d0b67660b6bfbe2950db8517888a0f0f43640f94644166d5c"
+    },
+    {
+      "id": "x-health-136",
+      "status": "revise",
+      "assessment": "Interaction review is correct, but larger-dose trial and stopping prescriptions make it the only reasonable nursing advice.",
+      "issues": [
+        "Interaction review is correct, but larger-dose trial and stopping prescriptions make it the only reasonable nursing advice."
+      ],
+      "proposedChanges": [
+        "Compare checking product ingredients against the medication list, selecting a licensed product, starting at the label dose and spacing it from prescriptions. Explain why a licence or spacing does not establish individual compatibility."
+      ],
+      "reviewedItemSha256": "848a191995166e6007ee799919439d5657605d56fd9f341d655a71128d97c1f1"
+    },
+    {
+      "id": "x-health-137",
+      "status": "revise",
+      "assessment": "Symptom-scenario practice is correct but substantially repeats health112 and is contrasted with irrelevant faster-number recall.",
+      "issues": [
+        "Symptom-scenario practice is correct but substantially repeats health112 and is contrasted with irrelevant faster-number recall."
+      ],
+      "proposedChanges": [
+        "Make this a distinct concrete emergency preparedness task: the client knows who to call but must choose between emergency response and a scheduled service for actual symptoms. Alternatively test transfer of learning through a specific scenario with plausible teaching alternatives."
+      ],
+      "reviewedItemSha256": "3fee0d3328b057960760cb2af93f94c081dd443873ffdd6f7e847e8fa772dee3"
+    },
+    {
+      "id": "x-health-138",
+      "status": "revise",
+      "assessment": "Coordinated fasting planning is sound, but hunger-based dosing and imposed abandonment are caricatures; challenge label is unjustified.",
+      "issues": [
+        "Coordinated fasting planning is sound, but hunger-based dosing and imposed abandonment are caricatures; challenge label is unjustified."
+      ],
+      "proposedChanges": [
+        "Use realistic competing medication/monitoring plans requiring clinician coordination rather than self-prescribed doses. Name a relevant therapy and prior risk if useful, retain individualized pre-fast planning, and label application."
+      ],
+      "reviewedItemSha256": "00aab727f465a45f6b264229c2b270fdfeb0f27b2b0f22c0ae10ea3d396faa37"
+    },
+    {
+      "id": "x-health-139",
+      "status": "revise",
+      "assessment": "Matching nutrition to a microwave and refrigerator is useful, but skipping meals and motivation lectures are implausible options.",
+      "issues": [
+        "Matching nutrition to a microwave and refrigerator is useful, but skipping meals and motivation lectures are implausible options."
+      ],
+      "proposedChanges": [
+        "Present comparable actual meal/preparation plans using available equipment and storage. Explain which can be implemented safely and affordably; avoid a generic comprehensive plan key."
+      ],
+      "reviewedItemSha256": "e36e873ad53c318784d9d5d4e0a2673a942234112643b665e9166524dda6d034"
+    },
+    {
+      "id": "x-health-140",
+      "status": "pass",
+      "assessment": "The options distinguish meaningful symptom/activity, intervention-response and functional patterns from a false inference about missing data. Rationales make the limit of an incomplete log explicit; the objective is useful interpretation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "cd319a0070ed9cfd2456038241b53b750d47da5741b8104ad0b93ad5a9efbd62"
+    },
+    {
+      "id": "x-health-141",
+      "status": "revise",
+      "assessment": "Respecting a capable informed refusal is correct, but cancelling all future prevention and substituting family permission are extreme distractors.",
+      "issues": [
+        "Respecting a capable informed refusal is correct, but cancelling all future prevention and substituting family permission are extreme distractors."
+      ],
+      "proposedChanges": [
+        "Compare documenting the decision with a route to revisit, arranging another counselling visit, offering family discussion with permission and scheduling the test provisionally. Include that questions have been answered and the decision is informed."
+      ],
+      "reviewedItemSha256": "99b52bb591ee76bbf57481f05b86040a902eb35a3a95ac2752f47cf2b873edfc"
+    },
+    {
+      "id": "x-health-142",
+      "status": "revise",
+      "assessment": "Diagnostic follow-up after an abnormal stool screen is appropriate and the misconceptions are recognizable, but the key is conspicuously longer and the only procedural response.",
+      "issues": [
+        "Diagnostic follow-up after an abnormal stool screen is appropriate and the misconceptions are recognizable, but the key is conspicuously longer and the only procedural response."
+      ],
+      "proposedChanges": [
+        "Shorten the key to a parallel explanation such as The abnormal result needs diagnostic follow-up. Name FIT if that is the intended pathway and add a current Canadian screening-program source supporting no repeat FIT to clear a positive result."
+      ],
+      "reviewedItemSha256": "dc57c6c5e199d402bf0968c0117916d7888a2de7e7723d02647f862be6a98a37"
+    },
+    {
+      "id": "x-health-143",
+      "status": "revise",
+      "assessment": "Integrated survivorship and primary care is correct, but stopping unrelated prevention and waiting for every new concern are implausible absolutes.",
+      "issues": [
+        "Integrated survivorship and primary care is correct, but stopping unrelated prevention and waiting for every new concern are implausible absolutes."
+      ],
+      "proposedChanges": [
+        "Use a specific survivorship transition with an upcoming primary-care need. Compare coordinated surveillance/primary-care appointments with oncology-only follow-up, deferring routine screening until a scheduled oncology visit, and duplicate specialist testing."
+      ],
+      "reviewedItemSha256": "6f31dd6d990ee0e776d9350bb1ea4629f66c8c758f28917a1f786ebe1171a966"
+    },
+    {
+      "id": "x-health-144",
+      "status": "revise",
+      "assessment": "Contextual practice addresses low self-efficacy, but permanent family takeover and removal of monitoring are caricatures; closely resembles116.",
+      "issues": [
+        "Contextual practice addresses low self-efficacy, but permanent family takeover and removal of monitoring are caricatures; closely resembles116."
+      ],
+      "proposedChanges": [
+        "Give a distinct monitor problem such as interpreting an error message at home after technically correct use. Compare supervised scenario practice with another demonstration, manufacturer instructions and family training; explain the specific missing confidence/response skill."
+      ],
+      "reviewedItemSha256": "ee338d964a137ed08db624e5be8f5d1dfa721e625c4cb7afe8d12ed99e8cd661"
+    },
+    {
+      "id": "x-health-145",
+      "status": "revise",
+      "assessment": "Flexible outreach and accessible contact are correct, but only/assume qualifiers advertise wrong choices.",
+      "issues": [
+        "Flexible outreach and accessible contact are correct, but only/assume qualifiers advertise wrong choices."
+      ],
+      "proposedChanges": [
+        "State the client lacks a stable address and uses a shared phone at an agreed time. Give actual proposed contact routes and outreach schedules so feasibility determines choices without labeling assumptions."
+      ],
+      "reviewedItemSha256": "20e7ad4a30f750a2ac6e4698dc68a15ad350eb4be3497c100743887fbb2cf6b9"
+    },
+    {
+      "id": "x-health-146",
+      "status": "revise",
+      "assessment": "Brief sessions matched to energy are appropriate; option3 explicitly announces missing assessment and options2/3 exaggerate the alternatives.",
+      "issues": [
+        "Brief sessions matched to energy are appropriate; option3 explicitly announces missing assessment and options2/3 exaggerate the alternatives."
+      ],
+      "proposedChanges": [
+        "Give the client actual fatigue timing and necessary skills. Compare plausible schedules of similar duration with rest, after-care teaching and written preparation; remove without-checking wording."
+      ],
+      "reviewedItemSha256": "f8f2a704ed583b8bd3164c2a137b6ceb84199c0c40148d22bd0f386d4ec7bf43"
+    },
+    {
+      "id": "x-health-147",
+      "status": "revise",
+      "assessment": "Client-centred family involvement is correct but permanent exclusion and teaching only the relative are exaggerated extremes.",
+      "issues": [
+        "Client-centred family involvement is correct but permanent exclusion and teaching only the relative are exaggerated extremes."
+      ],
+      "proposedChanges": [
+        "Compare redirecting questions to the client with agreed family support, asking relative to demonstrate first, offering separate teaching sessions and providing shared written material. The client desire to self-manage should determine the first step."
+      ],
+      "reviewedItemSha256": "84e8d2f4c0a93421300e04f1ed5ae89f9879cf20ff15c05ed4fee1e4649bdeb0"
+    },
+    {
+      "id": "x-health-148",
+      "status": "revise",
+      "assessment": "Reassessment after vision change is essential, but dose estimation from memory and waiting for error are implausible options.",
+      "issues": [
+        "Reassessment after vision change is essential, but dose estimation from memory and waiting for error are implausible options."
+      ],
+      "proposedChanges": [
+        "Compare observed technique with an adapted device, larger-print instructions, refresher teaching and adding family assistance. Explain that actual current performance must be established before choosing support."
+      ],
+      "reviewedItemSha256": "114b992c5c808b0a9bde86f3b142fffe069a212152922e5a0c7093c3b3bddd9a"
+    },
+    {
+      "id": "x-health-149",
+      "status": "revise",
+      "assessment": "Accessible valued activity is an appropriate goal, but delaying all goals and unadapted targets advertise the key.",
+      "issues": [
+        "Accessible valued activity is an appropriate goal, but delaying all goals and unadapted targets advertise the key."
+      ],
+      "proposedChanges": [
+        "Present actual gardening plans suited to differing abilities, such as raised beds, seated potting, transport support and walking endurance sessions. Add functional cues to select the plan that matches the stated goal."
+      ],
+      "reviewedItemSha256": "629fe490d2b8b99efc9cd155da64678465d0b7c6f699a180d8980e894b9a742f"
+    },
+    {
+      "id": "x-health-150",
+      "status": "revise",
+      "assessment": "Supply and location questions are useful, but sole-evaluation and identical-household routines are obvious nonkeys.",
+      "issues": [
+        "Supply and location questions are useful, but sole-evaluation and identical-household routines are obvious nonkeys."
+      ],
+      "proposedChanges": [
+        "Use a concrete task and proposed readiness questions about supplies, workspace, support availability and return demonstration. Include plausible but insufficient administrative questions without labeling them sole evaluation."
+      ],
+      "reviewedItemSha256": "933e8fec17bb8c6b64aefe440b1ae632999f33226f4fb0b4c42e3d3a04b809a5"
+    },
+    {
+      "id": "x-health-151",
+      "status": "revise",
+      "assessment": "Basic-resource support fits changed circumstances, but abandoning all contact and adding instructions without discussion are caricatures.",
+      "issues": [
+        "Basic-resource support fits changed circumstances, but abandoning all contact and adding instructions without discussion are caricatures."
+      ],
+      "proposedChanges": [
+        "Specify urgency of food/heating needs and compare credible resource referrals, medication review, exercise modification and diet education. Keep the priority action concrete rather than broadly covering all care."
+      ],
+      "reviewedItemSha256": "f574eb8fb5ffc74547fc57a7493f7d8a52f6098150d0a337cded13f3a4ac6b2b"
+    },
+    {
+      "id": "x-health-152",
+      "status": "revise",
+      "assessment": "Linking gradual activity to valued play is appropriate, but insisted gym, weight-only and peer-comparison alternatives are weak professional decisions.",
+      "issues": [
+        "Linking gradual activity to valued play is appropriate, but insisted gym, weight-only and peer-comparison alternatives are weak professional decisions."
+      ],
+      "proposedChanges": [
+        "Compare feasible activity goals: brief active play, a structured class, step tracking and resistance sessions. Include preferences and baseline ability to make a jointly selected graded activity most useful."
+      ],
+      "reviewedItemSha256": "abff2c3dc7dbae51e425de2f2f0bfd0d6942020f25ccc2be37112b2879640779"
+    },
+    {
+      "id": "x-health-153",
+      "status": "revise",
+      "assessment": "Safe contact preferences matter, but image reception is irrelevant and detailed-results-without-discussion is explicitly self-disqualifying.",
+      "issues": [
+        "Safe contact preferences matter, but image reception is irrelevant and detailed-results-without-discussion is explicitly self-disqualifying."
+      ],
+      "proposedChanges": [
+        "State a shared phone or lock-screen concern. Compare confirming safe wording/channel, using the chart number, sending a generic reminder and routing through an agreed relative; distinguish consent from technical capability."
+      ],
+      "reviewedItemSha256": "5ad2e4e41518be6025e35a7bced5ee233a9d8573d5712554bae560563380ee4f"
+    },
+    {
+      "id": "x-health-154",
+      "status": "revise",
+      "assessment": "Improved stamina is a meaningful outcome, but all distractors assert total failure, stopping benefit or weight-only success.",
+      "issues": [
+        "Improved stamina is a meaningful outcome, but all distractors assert total failure, stopping benefit or weight-only success."
+      ],
+      "proposedChanges": [
+        "Compare interpreting this as functional improvement, needing longer trend data for weight, changing the exercise intensity, or reviewing nutrition. Phrase the task around whether the stated stamina goal was met, keeping interpretations parallel."
+      ],
+      "reviewedItemSha256": "1ec5dc3ecb61341e30a9275fc601d511f52b14db005e78581d6b7a2a8cce9dae"
+    },
+    {
+      "id": "x-health-155",
+      "status": "revise",
+      "assessment": "Indoor alternatives, cues and periodic review support maintenance, but waiting until winter ends is an easily rejected sole nonkey.",
+      "issues": [
+        "Indoor alternatives, cues and periodic review support maintenance, but waiting until winter ends is an easily rejected sole nonkey."
+      ],
+      "proposedChanges": [
+        "Use specific weather barriers and competing plans, e.g accessible indoor route, usual time cue, combining missed walks into one long weekend session and a feasible review schedule. Explain why compensation may be less sustainable than regular adapted activity."
+      ],
+      "reviewedItemSha256": "4cadbb5ed6d488814250de602cd29e89fc37c56892fde2aaaa4547f5bee4898e"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:23:21.775207+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/a-management-02-recheck.json",
+  "sourceSha256": "91b5b038a8f077b2fd21f7cb591cc2c2ddf20ccea8e28de48160f4e27b414327",
+  "coverage": {
+    "sourceItems": 50,
+    "reviewedItems": 9,
+    "reviewedIds": [
+      "x-management-052",
+      "x-management-057",
+      "x-management-066",
+      "x-management-069",
+      "x-management-072",
+      "x-management-081",
+      "x-management-084",
+      "x-management-089",
+      "x-management-090"
+    ],
+    "unreviewedIds": [
+      "x-management-051",
+      "x-management-053",
+      "x-management-054",
+      "x-management-055",
+      "x-management-056",
+      "x-management-058",
+      "x-management-059",
+      "x-management-060",
+      "x-management-061",
+      "x-management-062",
+      "x-management-063",
+      "x-management-064",
+      "x-management-065",
+      "x-management-067",
+      "x-management-068",
+      "x-management-070",
+      "x-management-071",
+      "x-management-073",
+      "x-management-074",
+      "x-management-075",
+      "x-management-076",
+      "x-management-077",
+      "x-management-078",
+      "x-management-079",
+      "x-management-080",
+      "x-management-082",
+      "x-management-083",
+      "x-management-085",
+      "x-management-086",
+      "x-management-087",
+      "x-management-088",
+      "x-management-091",
+      "x-management-092",
+      "x-management-093",
+      "x-management-094",
+      "x-management-095",
+      "x-management-096",
+      "x-management-097",
+      "x-management-098",
+      "x-management-099",
+      "x-management-100"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-management-052",
+      "status": "revise",
+      "assessment": "Conflict management is now clinically correct, but the key is conspicuously comprehensive/long.",
+      "issues": [
+        "Conflict management is now clinically correct, but the key is conspicuously comprehensive/long."
+      ],
+      "proposedChanges": [
+        "Shorten key to Resolve the financial conflict and offer impartial options. Keep current explanation that disclosure alone is insufficient."
+      ],
+      "reviewedItemSha256": "df7be8e9dc6c3096f556ac6e2ef374e108db5fdeb701c0da1022779b4ea63984"
+    },
+    {
+      "id": "x-management-057",
+      "status": "pass",
+      "assessment": "The revised distractor separates unrelated topic from prolonged displacement of client needs; responsibility remains with the nurse.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "048ac0fa5f0b2a15fe18036576d4740b9b745118f85db8ae19dece557c1bb78a"
+    },
+    {
+      "id": "x-management-066",
+      "status": "pass",
+      "assessment": "Leaflet-only accommodation is a credible token response; collaboration is clearly needed to integrate the client's work-access goal.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "db5a951169ded78c690c7fa2ad3f4d84779e15acf5425870a822f9c1cc21ca98"
+    },
+    {
+      "id": "x-management-069",
+      "status": "revise",
+      "assessment": "Correct evidence principle, but three distractors advertise defects through before checking, solely and before clinical review.",
+      "issues": [
+        "Correct evidence principle, but three distractors advertise defects through before checking, solely and before clinical review."
+      ],
+      "proposedChanges": [
+        "Use plain competing actions: Trial the free sample on a similar wound; Continue using the familiar dressing; Ask the client which brochure option they prefer. Explain evidence/authorization and suitability gaps in rationales, not option qualifiers."
+      ],
+      "reviewedItemSha256": "c99ebe160378084fb93216689dc1dc52f1d8e54910d859b5e8af82fd3d4cb252"
+    },
+    {
+      "id": "x-management-072",
+      "status": "pass",
+      "assessment": "The alternatives now represent common weak evaluation choices: no incident, designer-only feedback and speed alone. Broader review is justified.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d8c63b7a1f3460477e19689e20062ed3a0a4fac2ee94a9a75f0b1a660a13da61"
+    },
+    {
+      "id": "x-management-081",
+      "status": "revise",
+      "assessment": "Foundation classification is appropriate, but care provider is ambiguous: a qualified colleague could assess while the nurse coordinates response.",
+      "issues": [
+        "Foundation classification is appropriate, but care provider is ambiguous: a qualified colleague could assess while the nurse coordinates response."
+      ],
+      "proposedChanges": [
+        "Identify the alternative helper explicitly as an unregulated care provider, and remove before assessing from option0. If comparing client priorities, use parallel client assessments rather than an unspecified delegation option."
+      ],
+      "reviewedItemSha256": "19a032bc632d8be906dbfd82bc635b8725115722959dc76d0e534005016bd812"
+    },
+    {
+      "id": "x-management-084",
+      "status": "revise",
+      "assessment": "Key is a noun while alternatives are actions; the stem asks which client first but answers do not consistently respond.",
+      "issues": [
+        "Key is a noun while alternatives are actions; the stem asks which client first but answers do not consistently respond."
+      ],
+      "proposedChanges": [
+        "Ask Which action should the nurse take first? and make the key Assess the client's tracheostomy and breathing now. Replace option0 with Deliver the requested blanket, preserving the competing routine task; explain priority rather than advertising delay."
+      ],
+      "reviewedItemSha256": "b8aff3d9d555dc36b4d8d6f6f948a6299ce280c7dbf4584b9dc438d0cab6a315"
+    },
+    {
+      "id": "x-management-089",
+      "status": "revise",
+      "assessment": "Both revised distractors explicitly disclose the omission with without-checking/involving clauses.",
+      "issues": [
+        "Both revised distractors explicitly disclose the omission with without-checking/involving clauses."
+      ],
+      "proposedChanges": [
+        "Use The latest dated resuscitation form; The family's preferred document; A clarified plan reflecting current wishes and valid orders; Both forms retained for the emergency team. Use an appropriately phrased question so options are parallel and explain the deficiencies in rationales. Reclassify application unless adding true complexity."
+      ],
+      "reviewedItemSha256": "800493f14ffaa8bb4b8f5732db26095dbf677cec2e55989d175a1e512127afc9"
+    },
+    {
+      "id": "x-management-090",
+      "status": "pass",
+      "assessment": "Foundation no-CPR versus broader treatment-goals distinction is defensible; revised symptom-care alternative demonstrates a common overrestriction misconception. This is deliberately foundational, not advanced clinical reasoning.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "baca3d5db4995e2fd40d8e247b942ea3d08a3efc24611d8631653cfe70099c9b"
+    }
+  ],
+  "activeSourceFile": "authoring/a/management-02.json",
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

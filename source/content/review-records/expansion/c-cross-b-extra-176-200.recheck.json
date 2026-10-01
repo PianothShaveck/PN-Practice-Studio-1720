@@ -1,0 +1,376 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewerTask": "/root/author_risk_basic",
+  "reviewedAt": "2026-10-01T18:13:38.981802+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/b-extra/questions.json",
+  "coverage": {
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-adaptation-176",
+      "x-adaptation-177",
+      "x-adaptation-178",
+      "x-adaptation-179",
+      "x-adaptation-180",
+      "x-adaptation-181",
+      "x-adaptation-182",
+      "x-adaptation-183",
+      "x-adaptation-184",
+      "x-adaptation-185",
+      "x-adaptation-186",
+      "x-adaptation-187",
+      "x-adaptation-188",
+      "x-adaptation-189",
+      "x-adaptation-190",
+      "x-adaptation-191",
+      "x-adaptation-192",
+      "x-adaptation-193",
+      "x-adaptation-194",
+      "x-adaptation-195",
+      "x-adaptation-196",
+      "x-adaptation-197",
+      "x-adaptation-198",
+      "x-adaptation-199",
+      "x-adaptation-200"
+    ],
+    "unreviewedIds": [],
+    "unchangedPriorPasses": 4,
+    "changedItemsRead": 21
+  },
+  "method": "Read original reviewer findings then every current field of all25 items, including the updated183/186 source mappings. Individually reasoned keys, distractors, rationale alignment and case distinctions. Four prior passes remain unchanged;21 revisions were read in full.",
+  "limitations": [
+    "Independent AI review, not qualified clinician or psychometric validation.",
+    "Targeted primary-source retrieval supports the specified claims, not every source or every alternative.",
+    "Difficulty labels are not psychometrically measured."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/umbilical-cord-prolapse-in-late-pregnancy/",
+      "claims": "Opened turn248view0: emergency recognition, knee-chest pressure relief and skilled presenting-part elevation; supports183 while Canadian competence remains explicitly defined in the scenario."
+    },
+    {
+      "url": "https://cps.ca/en/documents/position/newborns-at-risk-for-low-blood-glucose",
+      "claims": "Opened turn248view1 and focused passage turn251view0: symptomatic low glucose needs immediate treatment; IV glucose and possible temporizing gel while establishing IV. Supports185 without prescribing a new dose."
+    },
+    {
+      "url": "https://www.aafp.org/afp/2015/1201/p994",
+      "claims": "Opened turn248view3 and Other Support passage turn251view2: oral feeding withheld in significant neonatal tachypnoea to reduce aspiration risk. Source is2015; scenario186 also has grunting/recession, not a universal isolated-rate rule."
+    },
+    {
+      "url": "https://cps.ca/en/documents/position/current-recommendations-for-management-of-paediatric-diabetic-ketoacidosis",
+      "claims": "Opened turn248view2 and Table4 passage turn251view1: decreasing consciousness after improvement, worsening headache, vomiting, hypertension and bradycardia are cerebral-injury warning signs; supports200."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-adaptation-176",
+      "status": "pass",
+      "assessment": "Emergency help and the wider haemorrhage response are already active. The narrow task is an intervention directed at a boggy uterus; massage differs from relevant bladder assessment, loss quantification and trauma assessment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "af146c8bd93114776ac571266c94da36c5b9e6093f9c4ec8ff012f22f9dad010",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-177",
+      "status": "pass",
+      "assessment": "Persistent bright bleeding with a firm midline uterus requires another-source assessment rather than reassurance or further atony-focused massage. The case distinguishes tone from overall haemorrhage control.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "356641c9cc897f289874a280912af9ef415badefb7a38abf0fe9d84903050b5b",
+      "priorReviewStatus": "pass",
+      "unchangedFromPriorReview": true
+    },
+    {
+      "id": "x-adaptation-178",
+      "status": "pass",
+      "assessment": "Emergency assistance, injury prevention and feasible lateral positioning/airway support are correct immediate seizure actions. Mouth insertion and forceful restraint are recognizable first-aid errors; foundation classification is appropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5239a63ccfac2db5e57179723b464a5349fb0a64ab9689880f3f97a85b89f15b",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-179",
+      "status": "pass",
+      "assessment": "Retaining the fluid trial plus improved urine and postural tolerance support meaningful recovery beyond nausea relief. All alternatives now describe clinical responses rather than administration completion.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a69a4867771635658ba49c5d8516461ea69bddceaedd3a29eaeafac2ef1a73b5",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-180",
+      "status": "pass",
+      "assessment": "Late-pregnancy bleeding with placental location unknown makes a digital vaginal examination unsafe before the obstetric plan. Vital signs/loss quantification, ultrasound preparation and fetal assessment are relevant nonprovocative actions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2731b974bf41ec571be7ee46d8faf7f94273bd8194db4290183f8169ca9a9b6f",
+      "priorReviewStatus": "pass",
+      "unchangedFromPriorReview": true
+    },
+    {
+      "id": "x-adaptation-181",
+      "status": "pass",
+      "assessment": "A tense painful uterus with shock despite limited external blood supports possible concealed abruption. The interpretation is provisional and prioritizes circulation rather than relying on pad loss alone.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "bcc089406b3bfc62c2fc2fd2e411685bd7a32b1b5ede9b4a51db12b75284c9d3",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-182",
+      "status": "pass",
+      "assessment": "Positive pregnancy test without established intrauterine location, unilateral pain, shoulder-tip pain and near-syncope require exclusion of ectopic bleeding. The question appropriately asks a concern requiring emergency investigation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "abaf579261cba0780538dfe97ba760eb72d8ed21bcbe36ef176c3ed1e82f6050",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-183",
+      "status": "revise",
+      "assessment": "The pressure-relief principle and trained role are safe, but the stem states knee-chest and then asks the learner to select knee-chest; cord-length and postponed repositioning remain weak alternatives. Retain authorization while asking a genuine positioning choice.",
+      "issues": [
+        "The pressure-relief principle and trained role are safe, but the stem states knee-chest and then asks the learner to select knee-chest; cord-length and postponed repositioning remain weak alternatives. Retain authorization while asking a genuine positioning choice."
+      ],
+      "proposedChanges": {
+        "stem": "Following rupture of membranes, a cord loop is visible and the fetal heart rate falls. The obstetric emergency response is activated. A qualified clinician is preparing manual elevation of the presenting part. The nurse is trained and authorized to provide emergency positioning. Which position should the nurse assist the client into to reduce pressure on the cord?",
+        "options": [
+          "High Fowler’s position with the knees gently flexed",
+          "Knee-chest position with the client supported safely",
+          "Flat supine position with both legs supported",
+          "Lithotomy position to provide access to the perineum"
+        ],
+        "why": [
+          "An upright position can increase downward pressure and is not the appropriate pressure-relief position in this situation.",
+          "Knee-chest positioning can reduce pressure from the presenting part while the obstetric team provides definitive care.",
+          "Flat supine positioning does not use gravity to relieve the cord compression described.",
+          "Access for examination is different from relieving cord pressure; follow the emergency positioning and obstetric plan."
+        ]
+      },
+      "reviewedItemSha256": "c399317df3180cc6d305679a7d7b65b434c3e988901eee83b5ef3e28f2638c38",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-184",
+      "status": "pass",
+      "assessment": "Unilateral progressive swelling, severe perineal pressure and tachycardia despite scant lochia and a firm fundus coherently suggest a concealed haematoma. The new task is distinct from fundal atony or bladder displacement.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "90fa246cb4efe771e1a9b0bde6c771b0ed00ab6dbf90c74d5fe4563e7060df0d",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-185",
+      "status": "pass",
+      "assessment": "Symptomatic newborn glucose1.7mmol/L meets the supplied urgent IV treatment pathway. Confirmation must not delay treatment; the rationale correctly permits protocol-directed interim gel rather than falsely excluding it. CPS source was independently retrieved.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a8fe827ec81b124eed963948fef53704ecc22609cfa241afea1dd051f23db37b",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-186",
+      "status": "pass",
+      "assessment": "Rate78 with grunting/recession makes the scheduled oral feed unsafe pending immediate respiratory and route review. The added AAFP source directly addresses withholding oral feeds during neonatal respiratory distress; it is applied with the whole clinical picture.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9e90f49f35e1e9fe87004984122b46e2f8f1b88f68a7d1a7005c4fc2dca54c06",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-187",
+      "status": "pass",
+      "assessment": "Central tongue cyanosis and recurrent feeding-related distress warrant cardiopulmonary assessment. Brief peripheral cooling with pink central colour and comfortable feeding is meaningfully different.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "dd4ece3ace38fa11b3f515ecd3c2a8fa5260b1d11d0a316899571fa9676e3db7",
+      "priorReviewStatus": "pass",
+      "unchangedFromPriorReview": true
+    },
+    {
+      "id": "x-adaptation-188",
+      "status": "revise",
+      "assessment": "Fluid/electrolyte correction is the correct stabilization explanation. The revised set still contains appetite restoration and spontaneous muscle maturation, neither a credible competing perioperative rationale; replace with actual fasting/preparation/nutrition explanations.",
+      "issues": [
+        "Fluid/electrolyte correction is the correct stabilization explanation. The revised set still contains appetite restoration and spontaneous muscle maturation, neither a credible competing perioperative rationale; replace with actual fasting/preparation/nutrition explanations."
+      ],
+      "proposedChanges": {
+        "options": [
+          "The team is completing the required fasting interval to reduce aspiration risk",
+          "Fluid and electrolyte abnormalities need correction to reduce anaesthetic risk",
+          "A sustained improvement in body weight is needed before the operative repair",
+          "Routine surgical and anaesthetic preparations need to be completed before repair"
+        ],
+        "why": [
+          "Fasting precautions are relevant, but they do not correct the dehydration and vomiting-related abnormalities that require stabilization.",
+          "Dehydration and electrolyte or acid-base disturbances must be corrected before surgery because they affect perioperative safety.",
+          "Nutrition matters, but restoring body weight is not the immediate stabilization endpoint for this dehydrated infant.",
+          "Preparation is necessary, but the stated clinical reason for delaying anaesthesia is physiological correction rather than routine arrangements."
+        ]
+      },
+      "reviewedItemSha256": "052ef9b10ad3f0c75c5137f94f229b99d0244dde43191642f6c48cf9ebe9132a",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-189",
+      "status": "pass",
+      "assessment": "Discrete severe colicky episodes with pallor and vomiting can occur despite apparently comfortable intervals. This supports urgent intermittent-obstruction assessment rather than assuming colic, reflux or gastroenteritis.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b6753abb21c9fa00faad79edc6622df9d522afc77a43f0b6de3efcabbca73860",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-190",
+      "status": "pass",
+      "assessment": "The replacement evaluates a prescribed NG plan from improved urine/mucosal hydration without overload signs, rather than duplicating initial oral-feeding safety. Delivered volume or a single feed does not substitute for sustained physiological response.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e9c405da795d41eb3dbb1a2bec8f5eb576714fac3cdbab660249192d8c7be7ae",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-191",
+      "status": "pass",
+      "assessment": "Improved nasal airflow and fewer feeding respiratory pauses evaluate benefit. Less noise, faster feeding or larger mucus yield are not favourable if respiratory function worsens or fails to improve.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0c95d0b427c0f10bd732f399e3b8a97739eb2a17967e66b6ea4107e9b0e0f8bc",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-192",
+      "status": "pass",
+      "assessment": "Room-air oxygenation, improved effort, adequate intake and a workable caregiver plan support usual discharge. Quieter wheeze with lethargy and a persisting oxygen requirement do not meet that pattern; separate home-oxygen pathways are acknowledged.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fb52863817345c8489cbe5a0125b0d7dadbdf9539301641cd9ec3ce47904922e",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-193",
+      "status": "pass",
+      "assessment": "The child is distressed by separation, making parent-held upright observation the least disruptive immediate respiratory assessment. Weighing, supine examination and other observations are feasible later or in adapted stages.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1058ed5129f6bc27f545084236574a0311bf2ae53ad79a1d58b840a8c702a6f3",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-194",
+      "status": "pass",
+      "assessment": "Quiet stridor with poor air entry and drowsiness indicates possible exhaustion rather than improvement. The response integrates air movement and consciousness instead of treating sound volume as the endpoint.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0224c32492f949a68ba7acf594432c1449381824fba72b30fcc9d29559635f95",
+      "priorReviewStatus": "pass",
+      "unchangedFromPriorReview": true
+    },
+    {
+      "id": "x-adaptation-195",
+      "status": "revise",
+      "assessment": "Temporary epinephrine benefit is the correct reason for recurrence observation. Complete steroid elimination and retrospective anxiety attribution remain implausible alternatives; compare real observation purposes with case-specific limitations.",
+      "issues": [
+        "Temporary epinephrine benefit is the correct reason for recurrence observation. Complete steroid elimination and retrospective anxiety attribution remain implausible alternatives; compare real observation purposes with case-specific limitations."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Observation tracks the response as the prescribed corticosteroid begins to act",
+          "Observation checks whether swallowing and oral intake have returned to the usual level",
+          "Epinephrine relief can fade, so breathing must remain improved as its effect wears off",
+          "Observation checks for persistent medicine-related tachycardia or tremor"
+        ],
+        "why": [
+          "Corticosteroid response contributes to care, but the specific reason immediate relief is insufficient is the short-lived effect of epinephrine.",
+          "Intake matters for discharge readiness, but adequate swallowing alone does not establish sustained airway improvement after this drug.",
+          "Nebulized epinephrine can provide temporary improvement; reassess for recurrence as its effect fades under the observation plan.",
+          "Adverse-effect assessment is relevant, but it does not replace the main need to confirm sustained respiratory improvement."
+        ]
+      },
+      "reviewedItemSha256": "a8e67d1b87fe9a6e7dae166a54e2928678926cd47982629dbe565c34180c6e73",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-196",
+      "status": "pass",
+      "assessment": "The child is kept comfortable while another member can act, so expert bedside airway activation is the requested priority. History, culture equipment and radiography are relevant subsequent tasks and should not precede threatened-airway support.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ff4bcbbd358bb274375a8d2fb10e9db8298875c97e49bfffc1f6142c7940c53c",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-197",
+      "status": "pass",
+      "assessment": "Mild dehydration without shock permits another oral trial using smaller frequent measured portions. Flavour change or a longer pause followed by the same large volume fails to address the identified delivery problem; total targets are not independently reduced.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "22cc786b54223ad4f0c8a3e19c6835b672ab7ec46c1e0fd64761f09f2564b7f0",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-198",
+      "status": "revise",
+      "assessment": "The temporary pain relief followed by diffuse tenderness and systemic deterioration supports possible perforation. The keyed interpretation is substantially longer and repeats the entire decisive pattern; shorten it and keep the explanation in its rationale.",
+      "issues": [
+        "The temporary pain relief followed by diffuse tenderness and systemic deterioration supports possible perforation. The keyed interpretation is substantially longer and repeats the entire decisive pattern; shorten it and keep the explanation in its rationale."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Resolving appendiceal inflammation explains the temporary pain relief",
+          "Possible perforation is causing more widespread peritoneal inflammation",
+          "Normal fluctuation of localized appendicitis pain explains the pattern",
+          "Reduced muscle guarding indicates recovery despite the higher temperature"
+        ],
+        "why": [
+          "The later objective deterioration contradicts uncomplicated improvement.",
+          "Transient relief followed by diffuse tenderness and systemic change requires urgent reassessment for a complication; it is not a definitive diagnosis from symptoms alone.",
+          "Loss of localization with worsening systemic signs should not be normalized as simple fluctuation.",
+          "A possible change in guarding must be interpreted with the entire worsening pattern."
+        ]
+      },
+      "reviewedItemSha256": "e00d15de53db15a37644205e56e688da7efb6dcbbd27e1c993f02134d04f2859",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-199",
+      "status": "pass",
+      "assessment": "Abrupt unilateral testicular pain with vomiting revealed on private history requires time-critical torsion exclusion. Lack of trauma/preceding urinary symptoms makes contusion or infection less supported without declaring a final diagnosis.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c339786bf2013a7462bd9e27982f6d4e43ed1be21a9f47cd5c2584fd3d622338",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-200",
+      "status": "pass",
+      "assessment": "After initial improvement, renewed headache/vomiting and decreasing responsiveness with relative bradycardia and rising BP match cerebral-injury warning signs. Glucose12 argues against hypoglycaemia as the supplied explanation. CPS warning-sign table independently checked.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "19aa044e7d174eddd74514e9149a43579ef726b9cece1bc65673e6793a4b9eb8",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    }
+  ]
+}

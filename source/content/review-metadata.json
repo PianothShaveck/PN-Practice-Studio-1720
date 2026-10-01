@@ -1,0 +1,20 @@
+{
+  "version": "2026-10-01.2",
+  "date": "2026-10-01",
+  "count": 1720,
+  "newItems": 1600,
+  "legacyItems": 120,
+  "independentAiScreened": 1720,
+  "qualifiedClinicalValidation": false,
+  "reviewScope": "Every item screened for answer defensibility, educational usefulness and wording. Source checks are targeted and documented; not every claim independently source-verified.",
+  "perCategory": {
+    "management": 220,
+    "safety": 214,
+    "health": 214,
+    "psychosocial": 214,
+    "basic": 214,
+    "pharmacology": 216,
+    "risk": 214,
+    "adaptation": 214
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewerTask": "/root/author_management_safety",
+  "reviewedAt": "2026-10-01T18:31:47.419331+00:00",
+  "sourceFile": "bank-expansion/reviews/expansion/cross-a-psych-final-three-snapshot.json",
+  "coverage": {
+    "reviewedItems": 3,
+    "reviewedIds": [
+      "x-psychosocial-127",
+      "x-psychosocial-130",
+      "x-psychosocial-136"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Full reread of saved revised items including every option, key, rationale and metadata; reasoned through the case discriminator and the previously reported issue. Previously passed included items were also reread; no automated editorial acceptance.",
+  "limitations": [
+    "Not external clinician or psychometric validation",
+    "Source verification is targeted; prior reports document checks and newly supplied author references are not presumed independently verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-psychosocial-127",
+      "status": "pass",
+      "assessment": "All alternatives now concern plausible exposure/tolerance reasoning; clearing previous doses does not preserve tolerance, so the old amount can be more dangerous after abstinence.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "04d47307314127326f327405a14f46533ea195d782c9fae5791337eac3a9f942"
+    },
+    {
+      "id": "x-psychosocial-130",
+      "status": "pass",
+      "assessment": "Full item reread confirms only requested rate spacing changed; withdrawal pattern and hydration priority remain clinically defensible with plausible competitors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "80e8c10f1b701976686d7303a7c0d1ac9913f9bee92b5a64b82272eabcb0370b"
+    },
+    {
+      "id": "x-psychosocial-136",
+      "status": "pass",
+      "assessment": "Full item reread confirms corrected time spacing; attempted stopping limits still directly assess the disputed ability to control gaming.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fc62d8d375649f9b6487cfce5f22da331a27cb2202e882bfd524f1effd07aa9e"
+    }
+  ]
+}

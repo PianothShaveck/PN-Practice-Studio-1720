@@ -1,0 +1,103 @@
+{
+  "reviewer": "Independent AI re-review by root, not b001–100 author",
+  "reviewerTask": "/root",
+  "reviewedAt": "2026-10-01T18:22:50.916106+00:00",
+  "sourceFile": "authoring/b/questions.json",
+  "coverage": {
+    "reviewedItems": 8,
+    "reviewedIds": [
+      "x-adaptation-057",
+      "x-adaptation-069",
+      "x-adaptation-073",
+      "x-adaptation-075",
+      "x-adaptation-076",
+      "x-adaptation-080",
+      "x-adaptation-090",
+      "x-adaptation-100"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Full reading of eight revised items following first50 reading; explicit content comparison for two metadata-only changes.",
+  "limitations": [
+    "Not qualified clinical or psychometric validation.",
+    "Targeted primary-source checks, not complete clinical fact verification."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.nanosweb.org/transientvisualloss/",
+      "claim": "Transient visual loss can require urgent assessment even after recovery.",
+      "method": "Official society page opened and relevant urgency passage searched/read."
+    },
+    {
+      "url": "https://www.ukkidney.org/sites/default/files/FINAL%20VERSION%20-%20UKKA%20CLINICAL%20PRACTICE%20GUIDELINE%20-%20MANAGEMENT%20OF%20HYPERKALAEMIA%20IN%20ADULTS%20-%20191223_0.pdf",
+      "claim": "IV calcium improves ECG by antagonizing hyperkalaemic cardiac effects temporarily and does not lower potassium.",
+      "method": "Opened current UKKA2023 PDF; page73 rationale read."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-adaptation-057",
+      "status": "pass",
+      "assessment": "Compared the complete item; only foundation label changed. Rescue threshold, airway support and key remain coherent.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "adf7e5159f50fdf1f82b99c9a763c7705718c31cac7f267fccd3c3a48fc434c6"
+    },
+    {
+      "id": "x-adaptation-069",
+      "status": "pass",
+      "assessment": "Compared the complete item; foundation label now accurately describes direct CSF-leak safety knowledge. No clinical content changed.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b5bb9fdb90069fa201f1b1050cf335e038f8c5e242d26c535d2f9f6a0a09fe1c"
+    },
+    {
+      "id": "x-adaptation-073",
+      "status": "pass",
+      "assessment": "Same defensible transient monocular-loss scenario; targeted NANOS source replaces the unrelated retinal-detachment-only reference.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3d996f94ab61de402231e5e8acc586f3df8bcdaca7d333fe47a7f485baf0b5e6"
+    },
+    {
+      "id": "x-adaptation-075",
+      "status": "pass",
+      "assessment": "Full rewritten interpretation task read: flashes/floaters with progressive monocular field shadow justify urgent exclusion of retinal detachment among meaningful ocular alternatives.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "938039b1cfbceee61d1f1017e92eb647718f212344626526a1a5965befe15fbe"
+    },
+    {
+      "id": "x-adaptation-076",
+      "status": "pass",
+      "assessment": "Entire replacement read: QRS improvement with persistently high potassium distinguishes temporary calcium cardiac stabilization from redistribution/excretion. UKKA guideline mechanism independently opened and checked; distinct from legacy risk02 escalation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e69f85a5cdb051bc20eded0e953b5cb987204edd464d7e9fa664a587cf3c3852"
+    },
+    {
+      "id": "x-adaptation-080",
+      "status": "pass",
+      "assessment": "Read revised stem/options/rationales: demonstrated magnesium depletion explains refractory potassium without explicitly negating every alternative exposure.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1e1af84889d365e4331ee2eb4b944a786195cd8e2af4520e9187c217da84e483"
+    },
+    {
+      "id": "x-adaptation-090",
+      "status": "pass",
+      "assessment": "Read complete case; unqualified septic shock is now a meaningful competing concern, while failed steroid replacement and electrolyte pattern most strongly support adrenal crisis; coexistence is retained in rationale.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e472c8553c8343eab24075967aaa17c06284970c5d661746e0415f46b79b8b70"
+    },
+    {
+      "id": "x-adaptation-100",
+      "status": "pass",
+      "assessment": "Read revised mechanism comparisons and explanations; potassium rebound and delayed hypoglycaemia are distinguished from elimination/binding and a falsely persistent shift.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "eab8dc27416f89995ef753bd8eaf75e10ab44876cf88d4c580dda07648945e27"
+    }
+  ]
+}

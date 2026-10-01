@@ -1,0 +1,623 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:11:17.969638+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/risk-001-025.json",
+  "sourceSha256": "78f19f1ad2cdfc5aa4cac2f3b88de51ecfe72bb2207240835e85a53a1c5adf7a",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-risk-001",
+      "x-risk-002",
+      "x-risk-003",
+      "x-risk-004",
+      "x-risk-005",
+      "x-risk-006",
+      "x-risk-007",
+      "x-risk-008",
+      "x-risk-009",
+      "x-risk-010",
+      "x-risk-011",
+      "x-risk-012",
+      "x-risk-013",
+      "x-risk-014",
+      "x-risk-015",
+      "x-risk-016",
+      "x-risk-017",
+      "x-risk-018",
+      "x-risk-019",
+      "x-risk-020",
+      "x-risk-021",
+      "x-risk-022",
+      "x-risk-023",
+      "x-risk-024",
+      "x-risk-025"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.fda.gov/medical-devices/home-health-and-consumer-devices/home-healthcare-medical-devices-blood-glucose-meters-getting-most-out-your-meter",
+      "checked": true,
+      "ids": [
+        "x-risk-004"
+      ],
+      "note": "FDA primary guidance retrieved: even small food/sugar residue affects capillary measurements; wash/dry hands."
+    },
+    {
+      "url": "https://professionaleducation.blood.ca/en/transfusion/clinical-guide/platelet-transfusion-alloimmunization-and-management-platelet",
+      "checked": true,
+      "ids": [
+        "x-risk-007"
+      ],
+      "note": "CBS primary guidance retrieved: surgical bleeding risk rises at low platelets; procedure/context affect thresholds, so review rather than universal transfusion advice is appropriate."
+    },
+    {
+      "url": "https://emergencycarebc.ca/clinical_resource/clinical-summary/hyponatremia-diagnosis-and-treatment/",
+      "checked": true,
+      "ids": [
+        "x-risk-010"
+      ],
+      "note": "BC emergency guidance retrieved: sodium below 125 with altered mental status is concerning and needs urgent clinical assessment; no correction rate prescribed by item."
+    },
+    {
+      "url": "https://emergencycarebc.ca/clinical_resource/clinical-summary/hyperkalemia-diagnosis-and-treatment/",
+      "checked": true,
+      "ids": [
+        "x-risk-011"
+      ],
+      "note": "BC emergency guidance retrieved: suspected hyperkalaemia includes ECG/monitoring and lab redraw; hemolysis does not license dismissal."
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33125793/",
+      "checked": true,
+      "ids": [
+        "x-risk-015"
+      ],
+      "note": "ASPEN position-paper abstract retrieved: albumin/prealbumin reflect inflammation and should not substitute for malnutrition assessment."
+    },
+    {
+      "url": "https://www.sccm.org/clinical-resources/guidelines/guidelines/surviving-sepsis-campaign-international-guidelines-for-management-of-sepsis-and-septic-shock-2026",
+      "checked": true,
+      "ids": [
+        "x-risk-021"
+      ],
+      "note": "Primary sepsis guidance retrieved during legacy review for immediate treatment priority; full culture timing recommendation not separately opened in this batch."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-risk-001",
+      "status": "pass",
+      "assessment": "The visibly undersized cuff is a concrete measurement defect in an otherwise comfortable client; correct-size repeat is the best available first step. The item does not say to ignore symptoms or persistent severe values.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "45ae15ae3be439f5fad80280452b0773805a5a9f20c42794b39fe6ed561e62a6"
+    },
+    {
+      "id": "x-risk-002",
+      "status": "revise",
+      "assessment": "Full-minute assessment of an irregular pulse is correct, but skin temperature cannot quantify pulse and is irrelevant filler.",
+      "issues": [
+        "Full-minute assessment of an irregular pulse is correct, but skin temperature cannot quantify pulse and is irrelevant filler."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Repeat only after the next scheduled round",
+            "Use the automated blood-pressure machine’s displayed pulse rate as the complete rhythm assessment",
+            "Count the apical pulse for a full minute",
+            "Multiply a ten-second count by six"
+          ],
+          "why": [
+            "Symptoms and a new irregularity need timely assessment.",
+            "An automated displayed rate does not replace assessment of a symptomatic irregular rhythm.",
+            "A full assessment better characterizes an irregular rhythm.",
+            "A brief sample may misrepresent an irregular rate."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "c5d6965eba57360f3d2132ba62a604f45cf05596f91eeeccc78590945d857a35"
+    },
+    {
+      "id": "x-risk-003",
+      "status": "pass",
+      "assessment": "Rate/depth/alertness together assess ventilation more directly than pain relief, a short count or saturation alone. Supplemental oxygen can leave saturation reassuring despite hypoventilation. Clear assessment objective, not a complete emergency-management algorithm.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0dcb36fe03f2e306477a7f0143554ae7e5ebffca829608624b73acbcef29da61"
+    },
+    {
+      "id": "x-risk-004",
+      "status": "pass",
+      "assessment": "Recent fruit handling is a specific contamination cue; washed/dried repeat is appropriate for a well client before acting on an unexpected result. Primary FDA advice and fruit-peeling study support this mechanism.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d516a701838822f5ff9b3e3dbdba8b2e235d58a78b8dee7a610e016f19f012ce"
+    },
+    {
+      "id": "x-risk-005",
+      "status": "revise",
+      "assessment": "Comparable-weight conditions are sound; disregarding all weights for admission is a conspicuous overreaction.",
+      "issues": [
+        "Comparable-weight conditions are sound; disregarding all weights for admission is a conspicuous overreaction."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Average both measurements immediately",
+            "Assume fluid overload without assessment",
+            "Convert today’s weight by subtracting a standard clothing allowance without reweighing",
+            "Repeat under comparable measurement conditions"
+          ],
+          "why": [
+            "Averaging does not correct incompatible conditions.",
+            "Measurement differences may explain some of the apparent change.",
+            "An assumed clothing correction does not account for scale differences or actual clothing weight.",
+            "Standardization helps distinguish real change from measurement variation."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "7551ff2a01ee8f055cfd48667cca26bfb2054dc9385a7affd2741033543d703c"
+    },
+    {
+      "id": "x-risk-006",
+      "status": "revise",
+      "assessment": "Output reconciliation is correct, but an independent bolus is a weak out-of-scope distraction.",
+      "issues": [
+        "Output reconciliation is correct, but an independent bolus is a weak out-of-scope distraction."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Label the charted absence as oliguria and request treatment before checking the reported voids",
+            "Enter estimated volumes from memory",
+            "Clarify and assess the missing output",
+            "Report confirmed anuria from the chart"
+          ],
+          "why": [
+            "Assess and reconcile the conflicting information before presenting absent output as confirmed.",
+            "Unmeasured voids should not be documented as measured amounts.",
+            "Incomplete recording may mimic reduced renal output.",
+            "The chart conflicts with reported voiding and needs verification."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "facc3ff0561e8b448d4843e16279c042be5419dad912737f59ce2ce49433452a"
+    },
+    {
+      "id": "x-risk-007",
+      "status": "pass",
+      "assessment": "Platelets48 before an invasive procedure warrant procedural-team review. The key appropriately escalates rather than prescribing a universal transfusion threshold, which depends on procedure and context.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7e94bd662adc6d5faff44ad19b00ee25a7e89f39ce2737a80c0aa0de3cde0413"
+    },
+    {
+      "id": "x-risk-008",
+      "status": "revise",
+      "assessment": "Symptomatic substantial postoperative haemoglobin fall is important, but iron snack and walking are implausible alternatives.",
+      "issues": [
+        "Symptomatic substantial postoperative haemoglobin fall is important, but iron snack and walking are implausible alternatives."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Assess for bleeding and promptly escalate",
+            "Attribute the fall to IV-fluid dilution and continue routine observation without assessing symptoms",
+            "Repeat the blood sample before checking circulation because a laboratory error is possible",
+            "Hold the next anticoagulant dose and wait for the next routine review without contacting the team"
+          ],
+          "why": [
+            "The symptomatic decline needs evaluation for blood loss.",
+            "Dilution can affect the value, but new dizziness with this decline needs assessment for bleeding/perfusion.",
+            "Confirmation may be appropriate, but should not delay assessing a symptomatic client.",
+            "Medication decisions do not replace prompt evaluation of possible acute bleeding."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "e46b10224b2ddec337fddfe2770acd874a7f320a49ab4198cfad5c2063a9a982"
+    },
+    {
+      "id": "x-risk-009",
+      "status": "revise",
+      "assessment": "Renal trend context is correct but bedtime is unrelated and makes the SATA answer trivial.",
+      "issues": [
+        "Renal trend context is correct but bedtime is unrelated and makes the SATA answer trivial."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Recent medicines and contrast exposure",
+            "Report only the latest creatinine number without the prior value or collection date",
+            "Report only the usual daily fluid prescription without checking actual intake and losses",
+            "Recent urine output and fluid balance"
+          ],
+          "why": [
+            "Potential renal stressors guide further assessment.",
+            "The magnitude and timing of change are clinically important.",
+            "The intended prescription does not establish the recent fluid balance or urine response.",
+            "These help characterize the acute renal change."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "00fda253f4fed2e881653d68cfa478d867d2db5ace679fe05395a3be6ae51867"
+    },
+    {
+      "id": "x-risk-010",
+      "status": "revise",
+      "assessment": "Hyponatraemia with confusion warrants urgent assessment; salty food and plain water are weak options that bypass realistic nursing choices.",
+      "issues": [
+        "Hyponatraemia with confusion warrants urgent assessment; salty food and plain water are weak options that bypass realistic nursing choices."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Request a repeat sodium before checking neurological status because the first value may be erroneous",
+            "Repeat the orientation check after a rest period before reporting the sodium result",
+            "Promptly assess neurological status and escalate",
+            "Apply a fluid restriction without reporting the new confusion or clarifying the cause"
+          ],
+          "why": [
+            "Verification must not delay assessment of a symptomatic electrolyte abnormality.",
+            "A new neurological change with sodium 122 needs prompt evaluation, not normalization.",
+            "Neurological change with marked hyponatraemia needs urgent review.",
+            "Treatment depends on clinical cause and symptoms; a unilateral restriction does not replace urgent assessment/escalation."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "06666ffb3fd1b0bfe48aff12531a61e7f9e46b7196675ede3ddcbf0c0d0b0e03"
+    },
+    {
+      "id": "x-risk-011",
+      "status": "revise",
+      "assessment": "The stem omits the potassium value, so the urgent/critical framing is imprecise. Supply a clinically important result and avoid next-week/normal-filing caricatures.",
+      "issues": [
+        "The stem omits the potassium value, so the urgent/critical framing is imprecise. Supply a clinically important result and avoid next-week/normal-filing caricatures."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Wait for the routine morning laboratory draw because haemolysis usually raises potassium",
+            "Assess and urgently arrange verification with the team",
+            "Remove the result from the handover because it is haemolysed",
+            "Treat the value as definitive without noting haemolysis"
+          ],
+          "why": [
+            "A possible artefact does not exclude dangerous true hyperkalaemia.",
+            "Haemolysis may distort potassium, but true elevation must be excluded.",
+            "The result and specimen-quality issue both need timely communication and verification.",
+            "Sample quality may alter treatment decisions."
+          ],
+          "stem": "A stable adult has potassium 6.7 mmol/L (reference 3.5–5.0) in a sample labelled significantly haemolysed. Which action is most appropriate?"
+        }
+      ],
+      "reviewedItemSha256": "11131d21b2a7ecfbd83e708a240d5829322e27b4c5845602ad91970689254d0f"
+    },
+    {
+      "id": "x-risk-012",
+      "status": "pass",
+      "assessment": "Mild postoperative white-cell elevation alone does not diagnose infection; trend and full assessment are appropriate. The key avoids both antibiotic reflex and an absolute fever rule.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4a223822f8354eb9be7d028f4108b15608705f776cbe76769df73869a410bbfa"
+    },
+    {
+      "id": "x-risk-013",
+      "status": "revise",
+      "assessment": "Target-based INR interpretation is correct; pulse-only effectiveness assessment is an unrelated distractor.",
+      "issues": [
+        "Target-based INR interpretation is correct; pulse-only effectiveness assessment is an unrelated distractor."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Compare only with the laboratory's healthy-person range",
+            "Assume every elevated INR indicates active haemorrhage",
+            "Compare with the previous INR only, without checking the current prescribed target",
+            "Compare it with that target and bleeding findings"
+          ],
+          "why": [
+            "The intended therapeutic range differs from untreated values.",
+            "An elevated result indicates risk, not proof of bleeding.",
+            "A previous value may also be outside target; compare with the current therapeutic plan and clinical bleeding findings.",
+            "The individual target and symptoms guide escalation."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "eb012e2cc8527771273778f9b22d14eb719b986d7a91fde20a217be38876201c"
+    },
+    {
+      "id": "x-risk-014",
+      "status": "revise",
+      "assessment": "Two options are the same dietary-history delay, weakening discrimination.",
+      "issues": [
+        "Two options are the same dietary-history delay, weakening discrimination."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Test leg strength in detail before checking the pulse and rhythm",
+            "Assess oral intake and gastric losses before obtaining current cardiac findings",
+            "Cardiac rate and rhythm with escalation",
+            "Repeat assessment of bowel motility"
+          ],
+          "why": [
+            "Confirming the weakness does not take priority over the potential cardiac conduction complication.",
+            "Loss history matters, but cardiac assessment should not be postponed in this symptomatic low-potassium case.",
+            "Potassium depletion can disturb cardiac conduction.",
+            "Ileus can accompany depletion, but cardiac conduction effects take priority."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "9be6a349d2f9d9bfc15d3defe4cf8adafc0346c8bf6f1aaed9c08854c54df85b"
+    },
+    {
+      "id": "x-risk-015",
+      "status": "pass",
+      "assessment": "Albumin affected by inflammation/fluid state should not be used alone to diagnose malnutrition. Broader assessment is the only defensible interpretation; ASPEN explicitly supports the limitation. Foundation/application boundary is acceptable.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "53bfa7322fce067acd57ee071410067a500359ecb7dfaff3d6323bb116e36fb2"
+    },
+    {
+      "id": "x-risk-016",
+      "status": "revise",
+      "assessment": "Recollection after contaminated sampling is correct; isolation based only on mixed flora is not a plausible competing choice.",
+      "issues": [
+        "Recollection after contaminated sampling is correct; isolation based only on mixed flora is not a plausible competing choice."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Discuss recollection using the ordered clean method",
+            "Assume several simultaneous infections",
+            "Use whichever organism has the highest colony count without reviewing collection quality",
+            "Discard symptoms because the sample is poor"
+          ],
+          "why": [
+            "Contamination limits interpretation of the original sample.",
+            "Mixed organisms can reflect collection contamination.",
+            "A mixed contaminated specimen may not support reliable organism-specific interpretation; clinical context and recollection matter.",
+            "Symptoms still require assessment despite an unreliable specimen."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "55eb7c2aa2b7b60800b162240c1bda99639169ddf20068fdf5fe65e30882f023"
+    },
+    {
+      "id": "x-risk-017",
+      "status": "revise",
+      "assessment": "Laboratory-guided restart is correct, but adding water is an implausible specimen substitution.",
+      "issues": [
+        "Laboratory-guided restart is correct, but adding water is an implausible specimen substitution."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Collect the next void separately and add it after the planned 24-hour endpoint",
+            "Extend collection by an arbitrary hour",
+            "Send the collection without noting the omission",
+            "Notify the laboratory and follow restart instructions"
+          ],
+          "why": [
+            "An extra later void does not reliably replace analytes from a missed interval; obtain laboratory guidance.",
+            "An extra hour does not reliably replace the missed sample.",
+            "The laboratory needs the limitation to interpret validity.",
+            "An incomplete timed sample may invalidate the result."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "97bcd341dd363aef2507088ea338327023755263ac0abf89041d606fed21bddb"
+    },
+    {
+      "id": "x-risk-018",
+      "status": "revise",
+      "assessment": "Toilet urine and a used jug are glaring contamination errors; use more realistic clean-catch misconceptions.",
+      "issues": [
+        "Toilet urine and a used jug are glaring contamination errors; use more realistic clean-catch misconceptions."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Catch the first urine immediately to avoid losing organisms from the sample",
+            "Rest the open lid inner-surface down on the bedside table while collecting",
+            "Begin voiding before collecting the sample",
+            "Avoid touching the inside of the container"
+          ],
+          "why": [
+            "The requested midstream sample begins after initial voiding.",
+            "Contact with the surface can contaminate the lid and specimen container.",
+            "Midstream collection reduces contamination from initial urethral washout.",
+            "Contact can introduce organisms into the specimen."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "c08aeb149829c8169c6329f248a5b70660e52bda3251460bb2107dccabaa1ff6"
+    },
+    {
+      "id": "x-risk-019",
+      "status": "revise",
+      "assessment": "Deep cough/recollection is correct; adding water to a culture is a cartoon action.",
+      "issues": [
+        "Deep cough/recollection is correct; adding water to a culture is a cartoon action."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Collect immediately after mouthwash without checking instructions",
+            "Coach a deep cough and recollect as ordered",
+            "Send it as adequate because volume is sufficient",
+            "Pool several saliva samples until the requested volume is reached"
+          ],
+          "why": [
+            "Some collection preparations may affect specimen quality.",
+            "A lower-respiratory sample is needed for the requested test.",
+            "Volume does not establish respiratory specimen quality.",
+            "Increasing saliva volume does not turn it into a lower-respiratory specimen."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "0d2ed46a7c9b25fa9f1633847645ec4e6964d3496bcd9542e8178513398b1275"
+    },
+    {
+      "id": "x-risk-020",
+      "status": "revise",
+      "assessment": "Method-specific instructions are useful, but a container from last year is implausible.",
+      "issues": [
+        "Method-specific instructions are useful, but a container from last year is implausible."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Follow the current kit's specific instructions",
+            "Apply every restriction from the old kit",
+            "Collect during visible rectal bleeding without checking guidance",
+            "Transfer a specimen into a standard urine container because all stool tests use the same preservative"
+          ],
+          "why": [
+            "Collection and dietary requirements vary by test method.",
+            "Unneeded restrictions can confuse or impair completion.",
+            "Active bleeding may affect interpretation and requires appropriate advice.",
+            "Collection device and preservative depend on the specific stool test; follow its current instructions."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "f0715863fa062ec5028ef4a7cb15401689326333661620c6175036e876e25087"
+    },
+    {
+      "id": "x-risk-021",
+      "status": "revise",
+      "assessment": "Cultures before promptly available antibiotics is correct; cancelling because fever falls is simplistic.",
+      "issues": [
+        "Cultures before promptly available antibiotics is correct; cancelling because fever falls is simplistic."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Wait for the next fever peak",
+            "Start the antibiotic and collect cultures at the next routine phlebotomy visit",
+            "Delay antibiotics until preliminary culture results are available",
+            "Collect cultures before antibiotics without delaying urgent care"
+          ],
+          "why": [
+            "Waiting can delay needed antimicrobial treatment.",
+            "When collection is promptly possible without treatment delay, pretreatment sampling improves yield.",
+            "Cultures should not delay urgent antimicrobial treatment while results are awaited.",
+            "Pre-treatment sampling improves yield while preserving timely treatment."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "4514f07608b1b6070dcb5e8c13aa816b47c79dcccc24e609028cda87fdfcb05c"
+    },
+    {
+      "id": "x-risk-022",
+      "status": "revise",
+      "assessment": "Identity resolution is correct, but asking whether a lab value feels familiar is unrelated filler.",
+      "issues": [
+        "Identity resolution is correct, but asking whether a lab value feels familiar is unrelated filler."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Copy it into the chart and clarify later",
+            "Ask the sending unit to confirm the name alone before accepting the result",
+            "Resolve the identification discrepancy",
+            "Accept it because names match"
+          ],
+          "why": [
+            "Incorrect attribution can trigger unsafe decisions.",
+            "One matching identifier does not resolve the conflicting date of birth.",
+            "Treatment requires confirmation that the result belongs to this client.",
+            "Names alone do not reliably establish identity."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "a047faaa47802e7f6f079e726098357c41542c01cd47d390983983bc7690d32b"
+    },
+    {
+      "id": "x-risk-023",
+      "status": "revise",
+      "assessment": "Named responsibility/contact is sound; next-year follow-up is implausibly delayed.",
+      "issues": [
+        "Named responsibility/contact is sound; next-year follow-up is implausibly delayed."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Document the pending test without assigning anyone to review the result",
+            "Confirm who will review and communicate it",
+            "Give the client a clear follow-up contact",
+            "Assume no telephone call means a normal result"
+          ],
+          "why": [
+            "Recording a pending result does not establish accountable follow-up.",
+            "Named responsibility prevents results being overlooked.",
+            "The client needs a route if no result arrives.",
+            "Silence does not establish that the result was reviewed."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "bd288e43bfed6487bc4b68ba344f2602436e18ed7c5734623c9521878048dabd"
+    },
+    {
+      "id": "x-risk-024",
+      "status": "revise",
+      "assessment": "Storage-specific review is correct; a larger container cannot plausibly correct delay.",
+      "issues": [
+        "Storage-specific review is correct; a larger container cannot plausibly correct delay."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Check laboratory time and storage requirements",
+            "Send it later without noting the delay",
+            "Freeze it without laboratory guidance",
+            "Refrigerate the sample now and omit documenting how long it remained at room temperature"
+          ],
+          "why": [
+            "Delay can alter results and may require recollection.",
+            "Unreported delay prevents assessment of specimen suitability.",
+            "Unapproved storage can damage specimen integrity.",
+            "Later cooling does not undo the delay; the laboratory needs the time/storage history."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "62be89d898d7c67718f6551875a80c6ab9549445ac386535bd64460e5633f583"
+    },
+    {
+      "id": "x-risk-025",
+      "status": "revise",
+      "assessment": "Trend plus clinical context is correct; explicitly unrelated history is an obvious negative.",
+      "issues": [
+        "Trend plus clinical context is correct; explicitly unrelated history is an obvious negative."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Current symptoms and relevant treatment",
+            "Only that the computer highlighted the number",
+            "Begin with a long chronological admission summary before stating the critical new result",
+            "Previous value and collection times"
+          ],
+          "why": [
+            "Clinical context helps establish urgency and likely causes.",
+            "A flag alone omits essential clinical information.",
+            "Lead with the actionable change and relevant context; a long history can delay urgent communication.",
+            "The magnitude and speed of change influence interpretation."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "d0e7effc835193ef8353054f812eaaa4042e3ef72d160b9c869c6775befa633f"
+    }
+  ],
+  "reviewerTask": "/root/review_legacy"
+}

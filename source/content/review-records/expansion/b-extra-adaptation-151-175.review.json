@@ -1,0 +1,321 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:59:59.322201+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/b-extra-adaptation-151-175.json",
+  "sourceSha256": "3a3d95157bc5e740d78048bf91fbb881da87a89e763bead077afb5338e6d6f36",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-adaptation-151",
+      "x-adaptation-152",
+      "x-adaptation-153",
+      "x-adaptation-154",
+      "x-adaptation-155",
+      "x-adaptation-156",
+      "x-adaptation-157",
+      "x-adaptation-158",
+      "x-adaptation-159",
+      "x-adaptation-160",
+      "x-adaptation-161",
+      "x-adaptation-162",
+      "x-adaptation-163",
+      "x-adaptation-164",
+      "x-adaptation-165",
+      "x-adaptation-166",
+      "x-adaptation-167",
+      "x-adaptation-168",
+      "x-adaptation-169",
+      "x-adaptation-170",
+      "x-adaptation-171",
+      "x-adaptation-172",
+      "x-adaptation-173",
+      "x-adaptation-174",
+      "x-adaptation-175"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-adaptation-151",
+      "status": "pass",
+      "assessment": "Electrical mechanism with brief loss of consciousness supports internal/cardiac assessment despite small surface injury; this is a useful surface-versus-depth misconception.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e3232bf9110d30704fa4fdade1ab792e1f5f7d24aaee14c31b4ff21d226da42d"
+    },
+    {
+      "id": "x-adaptation-152",
+      "status": "pass",
+      "assessment": "The substance-specific instructions and PPE distinguish safe decontamination from familiar neutralization/covering errors; no universal irrigation rule is asserted.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5de0202cb49aac5f0e7ef867e499842bd870e5f41e35e2b1ddc0e384451331ab"
+    },
+    {
+      "id": "x-adaptation-153",
+      "status": "pass",
+      "assessment": "Foundational local burn cooling item addresses recognizable ice, butter and whole-body cooling misconceptions while protecting a child from hypothermia.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f33b28b82b53e842a473dd0983eab1c2ab92c83a1a7de0afc039dffcacbfb845"
+    },
+    {
+      "id": "x-adaptation-154",
+      "status": "pass",
+      "assessment": "Persistent low urine with verified catheter patency and new respiratory congestion test both inadequate perfusion and poor fluid tolerance rather than automatic fluid escalation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "beb977f09ce808c8d54071d240a8e6793549d4335aa8cb40266aadabacaad8a2"
+    },
+    {
+      "id": "x-adaptation-155",
+      "status": "revise",
+      "assessment": "Chest-wall restriction is a useful concern, but tighter dressing and oral fluid are weak alternatives against worsening ventilation.",
+      "issues": [
+        "Chest-wall restriction is a useful concern, but tighter dressing and oral fluid are weak alternatives against worsening ventilation."
+      ],
+      "proposedChanges": [
+        "Use parallel causes or relevant assessment findings: restrictive eschar, bronchospasm, retained secretions, or airway oedema with enough data to distinguish; application is more appropriate than challenge for simple recognition."
+      ],
+      "reviewedItemSha256": "79998c8353a0df4b53270de2beba5f7364a217e911c70cb2df3994bc393a79e0"
+    },
+    {
+      "id": "x-adaptation-156",
+      "status": "pass",
+      "assessment": "Staged exposure and active warming are coherent burn-care measures; evaporation and airflow alternatives test specific heat-loss mechanisms.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "57a9f12affe694ec71358b4c0ada1b05c9ee4afd7eec0dec3d55eac3faa2713b"
+    },
+    {
+      "id": "x-adaptation-157",
+      "status": "revise",
+      "assessment": "Pain-versus-depth concept is useful, but already-healed interpretation of a fresh leathery burn is implausible.",
+      "issues": [
+        "Pain-versus-depth concept is useful, but already-healed interpretation of a fresh leathery burn is implausible."
+      ],
+      "proposedChanges": [
+        "Replace with a credible depth-assessment misconception, or ask to compare documented tissue features and priorities rather than offering an obviously temporally impossible explanation."
+      ],
+      "reviewedItemSha256": "586964b38112a1ed37d60ce567d73574467c49aeb6268cb022d2612df8903318"
+    },
+    {
+      "id": "x-adaptation-158",
+      "status": "revise",
+      "assessment": "Supporting prescribed rehab is sound, but forceful beyond-prescription stretching is a giveaway.",
+      "issues": [
+        "Supporting prescribed rehab is sound, but forceful beyond-prescription stretching is a giveaway."
+      ],
+      "proposedChanges": [
+        "Use plausible modification proposals such as shorter sessions, longer splint periods, prescribed analgesia timing, or therapist technique review; avoid independently prescribing a changed regimen."
+      ],
+      "reviewedItemSha256": "9705cf57c5e7dce8b4b85187286e40841a0dbe5c0126e711474a5d79610eceae"
+    },
+    {
+      "id": "x-adaptation-159",
+      "status": "revise",
+      "assessment": "The fat-embolism pattern is meaningful, but sleep and dermatology-review alternatives are remote from new hypoxaemia.",
+      "issues": [
+        "The fat-embolism pattern is meaningful, but sleep and dermatology-review alternatives are remote from new hypoxaemia."
+      ],
+      "proposedChanges": [
+        "Ask which clinical concern should be highlighted, comparing fat embolism, pulmonary thromboembolism, opioid-related hypoventilation and pneumonia using the timing/petechiae data."
+      ],
+      "reviewedItemSha256": "e5d3b8bcbca7e589f9dcc34938a54f4df26f4dfc29c95c1225d66aaca47c51c6"
+    },
+    {
+      "id": "x-adaptation-160",
+      "status": "revise",
+      "assessment": "Preserved pulse does not exclude compartment syndrome, but exercise-before-review and analgesia-until-sleep are conspicuous errors.",
+      "issues": [
+        "Preserved pulse does not exclude compartment syndrome, but exercise-before-review and analgesia-until-sleep are conspicuous errors."
+      ],
+      "proposedChanges": [
+        "Use parallel interpretations or plain relevant assessment actions; retain the specific stretch-pain/sensory pattern and avoid another generic urgent-call item."
+      ],
+      "reviewedItemSha256": "40cd7e94818f1d01516ce02068491278784d5930b31c31f3aa2f62d69332eb84"
+    },
+    {
+      "id": "x-adaptation-161",
+      "status": "revise",
+      "assessment": "New alignment change requires protection, but walking to test, rotating back and completing the transfer make every alternative cartoon unsafe.",
+      "issues": [
+        "New alignment change requires protection, but walking to test, rotating back and completing the transfer make every alternative cartoon unsafe."
+      ],
+      "proposedChanges": [
+        "Ask which findings distinguish suspected dislocation from postoperative pain, or compare supported-position, analgesia, neurovascular-assessment and urgent-contact actions with a clear first-physical-action boundary."
+      ],
+      "reviewedItemSha256": "8b15d43a72fd5b3e8f82aba8432fa01b4493282a01e4498fc2f5390bed6d9d28"
+    },
+    {
+      "id": "x-adaptation-162",
+      "status": "pass",
+      "assessment": "Observed weight-on-floor and changed positioning directly explain ineffective traction; restoring the prescribed mechanical setup is distinct from changing the force.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "19782b101b289111a4f1e7ec4ee8faddaa22912e1f436e5c1fd3073ac717c6da"
+    },
+    {
+      "id": "x-adaptation-163",
+      "status": "revise",
+      "assessment": "Infection plus loosening is relevant, but tightening hardware and next-week review make the key obvious.",
+      "issues": [
+        "Infection plus loosening is relevant, but tightening hardware and next-week review make the key obvious."
+      ],
+      "proposedChanges": [
+        "Use parallel clinical concerns or credible initial actions such as assessing drainage, checking neurovascular status, following current site-care orders, and requesting fixation review."
+      ],
+      "reviewedItemSha256": "d63fee5a21ca3fd8e793c88a7478115249508a3030fa03b90103094f0f752822"
+    },
+    {
+      "id": "x-adaptation-164",
+      "status": "revise",
+      "assessment": "Treatment endpoint teaching is correct but mostly generic antimicrobial adherence; saving leftovers and taking on painful days are weak.",
+      "issues": [
+        "Treatment endpoint teaching is correct but mostly generic antimicrobial adherence; saving leftovers and taking on painful days are weak."
+      ],
+      "proposedChanges": [
+        "Create a bone-infection-specific follow-up problem involving symptom improvement with a remaining prescribed course and an adverse effect or administration barrier, requiring appropriate review rather than generic adherence repetition."
+      ],
+      "reviewedItemSha256": "88754aebf6a332093b106a8e9fee8c649ebfd6a74a18179ed125194c88e459e3"
+    },
+    {
+      "id": "x-adaptation-165",
+      "status": "revise",
+      "assessment": "Febrile non-weight-bearing child requires review, but exercise/sprain-delay/routine-physio alternatives are weak.",
+      "issues": [
+        "Febrile non-weight-bearing child requires review, but exercise/sprain-delay/routine-physio alternatives are weak."
+      ],
+      "proposedChanges": [
+        "Use parallel concerns such as septic arthritis, transient synovitis, minor injury and osteomyelitis, with sufficient findings and a question about the concern requiring exclusion rather than independent diagnosis."
+      ],
+      "reviewedItemSha256": "2f1581f25b48c1734137a50d6472e3c510ef483543d9a2eceb43360b1853cced"
+    },
+    {
+      "id": "x-adaptation-166",
+      "status": "revise",
+      "assessment": "New motor/sensory deficit is meaningful; discharge delay and wound-pain normalization telegraph wrong answers.",
+      "issues": [
+        "New motor/sensory deficit is meaningful; discharge delay and wound-pain normalization telegraph wrong answers."
+      ],
+      "proposedChanges": [
+        "Use focused neurovascular findings or a comparison of nerve compression, pain-limited movement and deconditioning; preserve documented baseline change."
+      ],
+      "reviewedItemSha256": "65322b8007be40b24993b9df616c9fd512fed970e261de8e03e6100c4ab9d149"
+    },
+    {
+      "id": "x-adaptation-167",
+      "status": "revise",
+      "assessment": "This substantially duplicates current x-basic-179 phantom-pain acknowledgement and assessment.",
+      "issues": [
+        "This substantially duplicates current x-basic-179 phantom-pain acknowledgement and assessment."
+      ],
+      "proposedChanges": [
+        "Replace with a distinct task such as evaluating response to an established phantom-pain plan or distinguishing a new residual-limb problem during prosthesis use; do not repeat recognition-and-validation."
+      ],
+      "reviewedItemSha256": "743cc51dc75df82d85727aa4e207346a67f6d67734e89809704c7bf6ed63e26e"
+    },
+    {
+      "id": "x-adaptation-168",
+      "status": "revise",
+      "assessment": "The new perfusion findings should override phantom-pain anchoring, but heating-pad-before-contact adds a conspicuous unsafe option.",
+      "issues": [
+        "The new perfusion findings should override phantom-pain anchoring, but heating-pad-before-contact adds a conspicuous unsafe option."
+      ],
+      "proposedChanges": [
+        "Use a plausible residual-limb assessment or existing pain-plan action in place of heating; remove artificial before/after delays and explain the tissue evidence."
+      ],
+      "reviewedItemSha256": "91bf67c48d797b1c27825711814fe53c9c6711603c5cae8c764e15109d99d8be"
+    },
+    {
+      "id": "x-adaptation-169",
+      "status": "revise",
+      "assessment": "Step count and appointment count are unrelated filler, so no neurovascular reasoning is required.",
+      "issues": [
+        "Step count and appointment count are unrelated filler, so no neurovascular reasoning is required."
+      ],
+      "proposedChanges": [
+        "Use plausible limb-assessment alternatives such as local bruising/tenderness and proximal range of motion; ask specifically for distal neurovascular comparisons, or give pre/post findings requiring interpretation."
+      ],
+      "reviewedItemSha256": "84df4674b1281299bc41d49a9a20ca0bb330fbbfaaded55bf6483b375ca64ba9"
+    },
+    {
+      "id": "x-adaptation-170",
+      "status": "revise",
+      "assessment": "Walker-part names and a signed sheet despite no transfer are weak process distractors.",
+      "issues": [
+        "Walker-part names and a signed sheet despite no transfer are weak process distractors."
+      ],
+      "proposedChanges": [
+        "Compare concrete functional changes such as assistance level, balance, pain tolerance, speed, fatigue or distance; define the safe-transfer goal clearly enough that only the intended outcomes satisfy it."
+      ],
+      "reviewedItemSha256": "9ff135214130fbb053dd2f8d11d5b88608308abcaa6f39abe32dfcb58f95275a"
+    },
+    {
+      "id": "x-adaptation-171",
+      "status": "revise",
+      "assessment": "Heat-stroke response is correct, but large oral drinks despite stated swallowing impairment and a distant walk make alternatives too easy.",
+      "issues": [
+        "Heat-stroke response is correct, but large oral drinks despite stated swallowing impairment and a distant walk make alternatives too easy."
+      ],
+      "proposedChanges": [
+        "Compare plausible first-aid plans including local cooling methods, cooling during emergency activation, or shaded rest with close reassessment; preserve rapid cooling and emergency response without unnecessary bundled-key length."
+      ],
+      "reviewedItemSha256": "41ab47ef6c1fc91c079c62bf48236b54dfae338f955d4624f2bebba31433c6e6"
+    },
+    {
+      "id": "x-adaptation-172",
+      "status": "pass",
+      "assessment": "Stopping shivering despite continued wet/cold exposure plus neurological change supports worsening hypothermia; the interpretation corrects a recognizable false-recovery cue.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "466563dd868bdee7ed79ac66e748c7d503d0d131fb5fd12794a05f887f27ca8c"
+    },
+    {
+      "id": "x-adaptation-173",
+      "status": "pass",
+      "assessment": "Rubbing and uncontrolled direct heat are common harmful rewarming misconceptions; controlled rewarming with no refreezing risk and protection are explicitly contextualized.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "27f5e18f9fdb86c08cd4afc5cdddaa261c2239fd9528414eae149b89aaabc7bb"
+    },
+    {
+      "id": "x-adaptation-174",
+      "status": "revise",
+      "assessment": "Respiratory symptoms after submersion need evaluation, but large meal and face-down draining are weak choices against increasing fatigue.",
+      "issues": [
+        "Respiratory symptoms after submersion need evaluation, but large meal and face-down draining are weak choices against increasing fatigue."
+      ],
+      "proposedChanges": [
+        "Use competing interpretations of persistent cough/tachypnoea after submersion or concrete monitoring/escalation plans, avoiding unsafe folklore as the bulk of the option set."
+      ],
+      "reviewedItemSha256": "bf329eb53f662c6ab812b7176c64528d1e13c84ce47ad4f04550208439fa917a"
+    },
+    {
+      "id": "x-adaptation-175",
+      "status": "revise",
+      "assessment": "Incomplete physiological recovery is correct, but anxiety and discharge-with-confusion alternatives are weak.",
+      "issues": [
+        "Incomplete physiological recovery is correct, but anxiety and discharge-with-confusion alternatives are weak."
+      ],
+      "proposedChanges": [
+        "Ask which trend best demonstrates recovery using core temperature, cognition, pulse and urine/perfusion data; distinguish skin cooling from systemic response with comparable data clusters."
+      ],
+      "reviewedItemSha256": "142efbb2fca9189bfcaa3fd87ba4827ebd61f294c5a42c4ee42649c9e353ae36"
+    }
+  ],
+  "activeSourceFile": "authoring/b-extra/adaptation-151-175.json",
+  "crossBankCheck": "Read current authoring/c/questions.json x-basic-179 for phantom-pain overlap with167; no exhaustive cross-bank semantic search claimed.",
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

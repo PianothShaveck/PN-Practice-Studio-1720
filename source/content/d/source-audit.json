@@ -1,0 +1,644 @@
+[
+  {
+    "sourceId": "d-pregnancy",
+    "url": "https://www.canada.ca/en/public-health/services/health-promotion/healthy-pregnancy/healthy-pregnancy-guide.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Prenatal nutrition, substance exposure, activity, prenatal care and postpartum preparation"
+    ],
+    "notes": "Retrieved with web search/open on 2026-10-01. Topic anchor; not clinical validation of authored questions."
+  },
+  {
+    "sourceId": "d-pregnancy-vax",
+    "url": "https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-4-immunization-pregnancy-breastfeeding.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Pregnancy-specific vaccine review and newborn protection; schedules must follow current guidance"
+    ],
+    "notes": "Retrieved with web search/open on 2026-10-01. Topic anchor; not clinical validation of authored questions."
+  },
+  {
+    "sourceId": "d-rubella",
+    "url": "https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-4-active-vaccines/page-20-rubella-vaccine.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Preconception rubella immunity and waiting at least four weeks after vaccination before conception"
+    ],
+    "notes": "Retrieved with web search/open on 2026-10-01. Topic anchor; not clinical validation of authored questions."
+  },
+  {
+    "sourceId": "d-infant",
+    "url": "https://www.canada.ca/en/health-canada/services/canada-food-guide/resources/nutrition-healthy-term-infants/nutrition-healthy-term-infants-recommendations-birth-six-months.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Infant milk feeding, breastfeeding support, formula, supplementation and growth assessment"
+    ],
+    "notes": "Retrieved with web search/open on 2026-10-01. Topic anchor; not clinical validation of authored questions."
+  },
+  {
+    "sourceId": "d-infant6",
+    "url": "https://www.canada.ca/en/health-canada/services/canada-food-guide/resources/nutrition-healthy-term-infants/nutrition-healthy-term-infants-recommendations-birth-six-months/6-24-months.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Complementary feeding, iron-rich foods, textures, responsive feeding and honey avoidance"
+    ],
+    "notes": "Retrieved with web search/open on 2026-10-01. Topic anchor; not clinical validation of authored questions."
+  },
+  {
+    "sourceId": "d-development",
+    "url": "https://caringforkids.cps.ca/handouts/behavior-and-development/your_childs_development",
+    "accessed": true,
+    "supportedTopics": [
+      "Developmental domains, milestones, corrected age and developmental surveillance"
+    ],
+    "notes": "Retrieved with web search/open on 2026-10-01. Topic anchor; not clinical validation of authored questions."
+  },
+  {
+    "sourceId": "d-brain",
+    "url": "https://caringforkids.cps.ca/handouts/behavior-and-development/your_babys_brain",
+    "accessed": true,
+    "supportedTopics": [
+      "Responsive caregiving, attachment, everyday play and family supports"
+    ],
+    "notes": "Retrieved with web search/open on 2026-10-01. Topic anchor; not clinical validation of authored questions."
+  },
+  {
+    "sourceId": "d-oral",
+    "url": "https://www.canada.ca/en/public-health/topics/oral-health/caring-your-teeth-mouth/children.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Primary teeth, brushing assistance, early decay changes and dietary prevention"
+    ],
+    "notes": "Retrieved with web search/open on 2026-10-01. Topic anchor; not clinical validation of authored questions."
+  },
+  {
+    "sourceId": "d-vax",
+    "url": "https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-2-vaccine-safety/page-3-contraindications-precautions-concerns.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Pre-vaccination assessment, prior reactions, minor illness and vaccine-specific precautions"
+    ],
+    "notes": "Retrieved with web search/open on 2026-10-01. Topic anchor; not clinical validation of authored questions."
+  },
+  {
+    "sourceId": "d-adult-vax",
+    "url": "https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-2-immunization-of-adults.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Adult immunization review, exposure risks, catch-up assessment and access"
+    ],
+    "notes": "Retrieved with web search/open on 2026-10-01. Topic anchor; not clinical validation of authored questions."
+  },
+  {
+    "sourceId": "d-nutrition",
+    "url": "https://www.canada.ca/en/health-canada/services/food-guide/eating-support/cooking/make-healthy-meals-plate.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Varied nutritious food, labels and practical food choices"
+    ],
+    "notes": "Retrieved with web search/open on 2026-10-01. Topic anchor; not clinical validation of authored questions."
+  },
+  {
+    "sourceId": "d-fundamentals",
+    "url": "https://openstax.org/books/fundamentals-nursing/pages/4-3-health-promotion-and-illness-prevention",
+    "accessed": true,
+    "supportedTopics": [
+      "General health promotion, prevention, health literacy and social determinants; broad conceptual reference, not verification of every disease-specific teaching point"
+    ],
+    "notes": "Retrieved with web search/open on 2026-10-01. Topic anchor; not clinical validation of authored questions."
+  },
+  {
+    "sourceId": "d-culture",
+    "url": "https://www.bccnm.ca/RN/PracticeStandards/Pages/CulturalSafetyHumility.aspx",
+    "accessed": true,
+    "supportedTopics": [
+      "Client-defined culturally safe care, local community knowledge, anti-racist practice and self-reflection; page states applicability to nurses and midwives"
+    ],
+    "notes": "Retrieved with web search/open on 2026-10-01. Topic anchor; not clinical validation of authored questions."
+  },
+  {
+    "sourceId": "d-communication",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/3-1-therapeutic-communication-and-relationships",
+    "accessed": true,
+    "supportedTopics": [
+      "Therapeutic communication, self-awareness and relationship focus"
+    ],
+    "notes": "Retrieved with web search/open on 2026-10-01. Topic anchor; not clinical validation of authored questions."
+  },
+  {
+    "sourceId": "d-trauma",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/6-5-trauma-informed-care",
+    "accessed": true,
+    "supportedTopics": [
+      "Choice, trust, safety, collaboration and avoiding retraumatization"
+    ],
+    "notes": "Retrieved with web search/open on 2026-10-01. Topic anchor; not clinical validation of authored questions."
+  },
+  {
+    "sourceId": "d-anxiety",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/17-2-anxiety-related-disorders",
+    "accessed": true,
+    "supportedTopics": [
+      "Anxiety assessment, functional effects and nursing support"
+    ],
+    "notes": "Retrieved with web search/open on 2026-10-01. Topic anchor; not clinical validation of authored questions."
+  },
+  {
+    "sourceId": "d-ocd",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/17-3-obsessive-compulsive-and-related-disorders",
+    "accessed": true,
+    "supportedTopics": [
+      "Obsessions, compulsions, functional impairment and coordinated treatment support"
+    ],
+    "notes": "Retrieved with web search/open on 2026-10-01. Topic anchor; not clinical validation of authored questions."
+  },
+  {
+    "sourceId": "d-ptsd",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/17-4-trauma-induced-and-stress-related-disorders",
+    "accessed": true,
+    "supportedTopics": [
+      "Trauma symptoms, grounding, dissociation and psychosocial care"
+    ],
+    "notes": "Retrieved with web search/open on 2026-10-01. Topic anchor; not clinical validation of authored questions."
+  },
+  {
+    "sourceId": "d-suicide",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/16-3-self-harm-and-suicide",
+    "accessed": true,
+    "supportedTopics": [
+      "Suicide-risk assessment, safety planning and self-harm; local observation policies apply"
+    ],
+    "notes": "Retrieved with web search/open on 2026-10-01. Topic anchor; not clinical validation of authored questions."
+  },
+  {
+    "sourceId": "d-crisis-ca",
+    "url": "https://988.ca/",
+    "accessed": true,
+    "supportedTopics": [
+      "Call/text 9-8-8 for crisis support; emergency services for immediate safety risk"
+    ],
+    "notes": "Retrieved with web search/open on 2026-10-01. Topic anchor; not clinical validation of authored questions."
+  },
+  {
+    "sourceId": "d-bipolar",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/16-4-bipolar-disorders",
+    "accessed": true,
+    "supportedTopics": [
+      "Mania, sleep reduction, impulsivity, mood recurrence and nursing support"
+    ],
+    "notes": "Retrieved with web search/open on 2026-10-01. Topic anchor; not clinical validation of authored questions."
+  },
+  {
+    "sourceId": "d-psychosis",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/15-1-schizophrenia",
+    "accessed": true,
+    "supportedTopics": [
+      "Psychosis symptoms, communication, functional needs and recovery support"
+    ],
+    "notes": "Retrieved with web search/open on 2026-10-01. Topic anchor; not clinical validation of authored questions."
+  },
+  {
+    "sourceId": "d-eating",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/20-2-anorexia-nervosa",
+    "accessed": true,
+    "supportedTopics": [
+      "Eating-disorder assessment, physical instability and supportive coordinated care"
+    ],
+    "notes": "Retrieved with web search/open on 2026-10-01. Topic anchor; not clinical validation of authored questions."
+  },
+  {
+    "sourceId": "unused-depression-failed",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/16-2-depressive-disorders",
+    "accessed": false,
+    "supportedTopics": [],
+    "notes": "Open returned internal error; not used as a source."
+  },
+  {
+    "sourceId": "d-depression",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/16-1-depressive-disorders",
+    "accessed": true,
+    "supportedTopics": [
+      "Depression across life stages, function, mood assessment and recovery"
+    ],
+    "notes": "Retrieved by web open on 2026-10-01; topic anchor, not clinical validation."
+  },
+  {
+    "sourceId": "d-alcohol",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/19-2-alcohol-use-disorder",
+    "accessed": true,
+    "supportedTopics": [
+      "Alcohol use assessment, withdrawal risks and recovery; no US consumption thresholds applied"
+    ],
+    "notes": "Retrieved by web open on 2026-10-01; topic anchor, not clinical validation."
+  },
+  {
+    "sourceId": "d-substance",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/19-1-substance-use-disorders",
+    "accessed": true,
+    "supportedTopics": [
+      "Substance-use assessment, concurrent mental-health conditions and recovery"
+    ],
+    "notes": "Retrieved by web open on 2026-10-01; topic anchor, not clinical validation."
+  },
+  {
+    "sourceId": "d-grief",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/9-2-grief-and-loss",
+    "accessed": true,
+    "supportedTopics": [
+      "Bereavement, family responses, spiritual care and psychosocial support"
+    ],
+    "notes": "Retrieved by web open on 2026-10-01; topic anchor, not clinical validation."
+  },
+  {
+    "sourceId": "d-delirium",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/14-2-delirium",
+    "accessed": true,
+    "supportedTopics": [
+      "Acute cognitive changes and assessment"
+    ],
+    "notes": "Retrieved by web open on 2026-10-01; topic anchor, not clinical validation."
+  },
+  {
+    "sourceId": "d-dementia",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/14-3-dementia",
+    "accessed": true,
+    "supportedTopics": [
+      "Cognitive disability, communication, distress and family support"
+    ],
+    "notes": "Retrieved by web open on 2026-10-01; topic anchor, not clinical validation."
+  },
+  {
+    "sourceId": "d-autism",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/23-3-autism-spectrum-disorder",
+    "accessed": true,
+    "supportedTopics": [
+      "Communication, sensory needs and individualized neurodevelopmental care"
+    ],
+    "notes": "Retrieved by web open on 2026-10-01; topic anchor, not clinical validation."
+  },
+  {
+    "sourceId": "d-family",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/6-2-family-dynamics",
+    "accessed": true,
+    "supportedTopics": [
+      "Family assessment, roles, coping and supports"
+    ],
+    "notes": "Retrieved by web open on 2026-10-01; topic anchor, not clinical validation."
+  },
+  {
+    "sourceId": "d-alcohol-ca",
+    "url": "https://www.camh.ca/en/professionals/treating-conditions-and-disorders/alcohol-use/alcohol-use---treatment/treatment---managing-alcohol-withdrawal",
+    "accessed": true,
+    "supportedTopics": [
+      "Withdrawal history, recurrence risk, autonomic signs and timely assessment"
+    ],
+    "notes": "Actually retrieved with web open on 2026-10-01; no dosing regimen authored."
+  },
+  {
+    "sourceId": "d-naloxone",
+    "url": "https://www.canada.ca/en/health-canada/services/opioids/naloxone.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Temporary opioid reversal, emergency response and continued monitoring"
+    ],
+    "notes": "Actually retrieved with web open on 2026-10-01; no dosing regimen authored."
+  },
+  {
+    "sourceId": "d-opioid-ca",
+    "url": "https://www.canada.ca/en/health-canada/services/opioids/overdose.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Overdose risk, tolerance changes and prevention"
+    ],
+    "notes": "Actually retrieved with web open on 2026-10-01; no dosing regimen authored."
+  },
+  {
+    "sourceId": "d-toxic-supply",
+    "url": "https://www.canada.ca/en/health-canada/services/opioids/overdose-crisis-toxic-illegal-drug-supply.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Unknown drug contents, combined substance risks and limits of naloxone"
+    ],
+    "notes": "Actually retrieved with web open on 2026-10-01; no dosing regimen authored."
+  },
+  {
+    "sourceId": "d-iron",
+    "url": "https://www.canada.ca/en/health-canada/services/nutrients/iron.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Vitamin C enhances absorption of plant-food iron; tea, coffee and calcium supplements around meals can reduce absorption."
+    ],
+    "notes": "Retrieved in authoritative web-search result on 2026-10-01; supports revised x-health-089."
+  },
+  {
+    "sourceId": "d-retina",
+    "url": "https://www.diabetes.ca/living-with-diabetes/managing-complications/eye-damage-diabetic-retinopathy",
+    "accessed": true,
+    "supportedTopics": [
+      "Retinal damage can be unnoticed; regular diabetic eye assessment supports early detection."
+    ],
+    "notes": "Retrieved with primary-source web search/open on2026-10-01 during independent review revision. Does not establish clinical validation."
+  },
+  {
+    "sourceId": "d-hf-weight",
+    "url": "https://myhealth.alberta.ca/Health/Pages/conditions.aspx?hwid=custom.ab_heartfailure_weightchart_inst",
+    "accessed": true,
+    "supportedTopics": [
+      "Daily morning weights after voiding before breakfast in consistent clothing; individualized reporting plan retained."
+    ],
+    "notes": "Retrieved with primary-source web search/open on2026-10-01 during independent review revision. Does not establish clinical validation."
+  },
+  {
+    "sourceId": "d-bp-measure",
+    "url": "https://hypertension.ca/how-do-i-monitor-my-bp/",
+    "accessed": true,
+    "supportedTopics": [
+      "Seated quiet rest and proper positioning before repeat blood-pressure measurement."
+    ],
+    "notes": "Retrieved with primary-source web search/open on2026-10-01 during independent review revision. Does not establish clinical validation."
+  },
+  {
+    "sourceId": "d-heat",
+    "url": "https://www.canada.ca/en/health-canada/services/climate-change-health/extreme-heat/how-protect-yourself.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Plan access to cooling and visits before severe heat; fans do not replace cooling in extreme heat."
+    ],
+    "notes": "Primary guidance retrieved with web search/open on2026-10-01 during review revision; targeted support, not clinician validation. FIT and allergy-plan PDF content retrieved by search excerpt."
+  },
+  {
+    "sourceId": "d-hearing",
+    "url": "https://www.ccohs.ca/oshanswers/phys_agents/noise/audiometric_testing.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Occupational hearing assessment and counselling on hearing-protection selection, use and maintenance."
+    ],
+    "notes": "Primary guidance retrieved with web search/open on2026-10-01 during review revision; targeted support, not clinician validation. FIT and allergy-plan PDF content retrieved by search excerpt."
+  },
+  {
+    "sourceId": "d-fasting",
+    "url": "https://www.diabetes.ca/for-professionals/health-care-provider-tools/ramadan-and-diabetes",
+    "accessed": true,
+    "supportedTopics": [
+      "Individual pre-fast risk assessment and treatment planning; no universal dose change authored."
+    ],
+    "notes": "Primary guidance retrieved with web search/open on2026-10-01 during review revision; targeted support, not clinician validation. FIT and allergy-plan PDF content retrieved by search excerpt."
+  },
+  {
+    "sourceId": "d-fit",
+    "url": "https://www.bccancer.bc.ca/screening/Documents/Abnormal-FIT-Fact-Sheet-English.pdf",
+    "accessed": true,
+    "supportedTopics": [
+      "Abnormal FIT requires follow-up and should not be repeated hoping to clear the abnormal result."
+    ],
+    "notes": "Primary guidance retrieved with web search/open on2026-10-01 during review revision; targeted support, not clinician validation. FIT and allergy-plan PDF content retrieved by search excerpt."
+  },
+  {
+    "sourceId": "d-allergy-plan",
+    "url": "https://foodallergycanada.ca/wp-content/uploads/Anaphylaxis_Emergency_Plan_with_EpiPen_instructions_May2020_a.pdf",
+    "accessed": true,
+    "supportedTopics": [
+      "Prompt access to prescribed epinephrine supports ability to enact the anaphylaxis plan."
+    ],
+    "notes": "Primary guidance retrieved with web search/open on2026-10-01 during review revision; targeted support, not clinician validation. FIT and allergy-plan PDF content retrieved by search excerpt."
+  },
+  {
+    "sourceId": "d-fish",
+    "url": "https://www.canada.ca/en/health-canada/services/food-nutrition/food-safety/chemical-contaminants/environmental-contaminants/mercury/mercury-fish.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Pregnancy fish-species selection balances nutrition with mercury exposure; sport-fish advisories are location-specific."
+    ],
+    "notes": "Primary source retrieved with web search/open on2026-10-01 during independent review revisions."
+  },
+  {
+    "sourceId": "d-concussion",
+    "url": "https://parachute.ca/wp-content/uploads/2019/06/Return-to-Sport-Strategy.pdf",
+    "accessed": true,
+    "supportedTopics": [
+      "Stepwise return after concussion and medical clearance before higher-risk stages; no fixed recovery duration authored."
+    ],
+    "notes": "Primary source retrieved with web search/open on2026-10-01 during independent review revisions."
+  },
+  {
+    "sourceId": "d-jaundice",
+    "url": "https://caringforkids.cps.ca/handouts/pregnancy-and-babies/jaundice_in_newborns",
+    "accessed": true,
+    "supportedTopics": [
+      "Jaundice with excessive sleepiness and feeding difficulty requires assessment."
+    ],
+    "notes": "Primary-source search retrieval on2026-10-01 for targeted independent-review corrections."
+  },
+  {
+    "sourceId": "d-child-fever",
+    "url": "https://caringforkids.cps.ca/handouts/health-conditions-and-treatments/fever_and_temperature_taking",
+    "accessed": true,
+    "supportedTopics": [
+      "Age and clinical condition matter alongside temperature when evaluating a febrile child."
+    ],
+    "notes": "Primary-source search retrieval on2026-10-01 for targeted independent-review corrections."
+  },
+  {
+    "sourceId": "d-safe-sleep",
+    "url": "https://www.canada.ca/en/health-canada/services/safe-sleep/safe-sleep-tips.html",
+    "accessed": true,
+    "supportedTopics": [
+      "A clear firm flat infant sleep surface without pillows or soft objects."
+    ],
+    "notes": "Primary guidance retrieved during independent safety review on2026-10-01 and applied as direct anchor to health198 caregiver teaching."
+  },
+  {
+    "sourceId": "d-screen-results",
+    "url": "https://www.bccancer.bc.ca/screening/breast/how-it-works/understanding-your-results",
+    "accessed": true,
+    "notes": "Opened primary page and verified access through provider, screening service or online route. Notification policies vary; item does not assert a universal mailing timeline or no-news rule.",
+    "accessedDate": "2026-10-01",
+    "supportedTopics": [
+      "Routes to obtain a screening result"
+    ]
+  },
+  {
+    "sourceId": "d-cognitive-adaptation",
+    "url": "https://www.camh.ca/en/professionals/professionals--projects/cognitive-adaptation-training/strategizing",
+    "accessed": true,
+    "notes": "Primary search retrieval confirms environmental supports and targeted activities; CAMH manual also identifies memory/attention supports. Concrete scenario prompts are original applications, not quoted protocols.",
+    "accessedDate": "2026-10-01",
+    "supportedTopics": [
+      "Environmental supports for memory and attention difficulties"
+    ]
+  },
+  {
+    "sourceId": "d-autism",
+    "url": "https://www.nice.org.uk/guidance/cg142/chapter/recommendations",
+    "accessed": true,
+    "notes": "Primary search retrieval verifies concrete structured approach; full page open returned403. No UK capacity-law guidance imported into Canadian item185.",
+    "accessedDate": "2026-10-01",
+    "supportedTopics": [
+      "Concrete structured communication and individual accommodations"
+    ]
+  },
+  {
+    "sourceId": "d-thought-assessment",
+    "url": "https://openstax.org/books/clinical-nursing-skills/pages/20-1-mental-health-assessment",
+    "accessed": true,
+    "notes": "Opened and inspected thought-process definitions. Dialogue is original; no US legal rules or diagnostic criteria imported.",
+    "accessedDate": "2026-10-01",
+    "supportedTopics": [
+      "Tangential versus circumstantial thought and thought blocking"
+    ]
+  },
+  {
+    "sourceId": "d-dehydration",
+    "url": "https://myhealth.alberta.ca/Health/Pages/conditions.aspx?hwid=std120726&lang=en-ca",
+    "accessed": true,
+    "notes": "Opened primary provincial health page and verified little/no urine for12hours plus severe standing dizziness as emergency features. No fluid dose or autonomous IV regimen authored.",
+    "accessedDate": "2026-10-01",
+    "supportedTopics": [
+      "Severe dehydration and emergency indicators"
+    ]
+  },
+  {
+    "sourceId": "d-supervised-consumption",
+    "url": "https://www.canada.ca/en/health-canada/services/substance-use/supervised-consumption-sites/explained.html",
+    "accessed": true,
+    "notes": "Primary page opened and relevant service description inspected. Item129 supplies hypothetical local availability and requires verification of the actual response plan; no guarantee of rescue or current phone number authored.",
+    "accessedDate": "2026-10-01",
+    "supportedTopics": [
+      "Trained staff and emergency response at supervised services; site hours and availability vary"
+    ]
+  },
+  {
+    "sourceId": "d-nors",
+    "url": "https://www.nors.ca/about",
+    "accessed": true,
+    "notes": "Primary page opened and relevant service description inspected. Item129 supplies hypothetical local availability and requires verification of the actual response plan; no guarantee of rescue or current phone number authored.",
+    "accessedDate": "2026-10-01",
+    "supportedTopics": [
+      "Virtual overdose response as an option for people otherwise using alone"
+    ]
+  },
+  {
+    "sourceId": "d-perinatal-loss",
+    "url": "https://www.canada.ca/en/public-health/services/publications/healthy-living/maternity-newborn-care-guidelines-chapter-7.html",
+    "accessed": true,
+    "notes": "Retrieved by independent reviewer /root/author_risk_basic as a primary search-result excerpt; author read the recorded evidence and reason-checked the proposed application. No claim of full-page retrieval by author. Report c-cross-d-psychosocial-151-175.review.json.",
+    "accessedDate": "2026-10-01",
+    "supportedTopics": [
+      "Individual preferences, memories and support after perinatal loss"
+    ]
+  },
+  {
+    "sourceId": "d-ipv-safety",
+    "url": "https://www.canada.ca/en/public-health/services/health-promotion/stop-family-violence/plan-your-safety.html",
+    "accessed": true,
+    "notes": "Retrieved by independent reviewer /root/author_risk_basic as a primary search-result excerpt; author read the recorded evidence and reason-checked the proposed application. No claim of full-page retrieval by author. Report c-cross-d-psychosocial-151-175.review.json.",
+    "accessedDate": "2026-10-01",
+    "supportedTopics": [
+      "Safety planning even when not planning to leave"
+    ]
+  },
+  {
+    "sourceId": "d-tech-safety",
+    "url": "https://techsafety.ca/resources/toolkits/technology-safety-plan-tip-sheet/",
+    "accessed": true,
+    "notes": "Retrieved by independent reviewer /root/author_risk_basic as a primary search-result excerpt; author read the recorded evidence and reason-checked the proposed application. No claim of full-page retrieval by author. Report c-cross-d-psychosocial-151-175.review.json.",
+    "accessedDate": "2026-10-01",
+    "supportedTopics": [
+      "Safer devices and individualized planning for monitored technology"
+    ]
+  },
+  {
+    "sourceId": "d-family-violence",
+    "url": "https://www.canada.ca/en/public-health/services/health-promotion/stop-family-violence/family-violence.html",
+    "accessed": true,
+    "notes": "Retrieved by independent reviewer /root/author_risk_basic as a primary search-result excerpt; author read the recorded evidence and reason-checked the proposed application. No claim of full-page retrieval by author. Report c-cross-d-psychosocial-151-175.review.json.",
+    "accessedDate": "2026-10-01",
+    "supportedTopics": [
+      "Economic abuse, coercive control and obstructed access to health care"
+    ]
+  },
+  {
+    "sourceId": "d-eating-nice",
+    "url": "https://www.nice.org.uk/guidance/ng69/chapter/recommendations",
+    "accessed": true,
+    "notes": "Retrieved by independent reviewer /root/author_risk_basic as a primary search-result excerpt; author read the recorded evidence and reason-checked the proposed application. No claim of full-page retrieval by author. Report c-cross-d-psychosocial-176-200.review.json.",
+    "accessedDate": "2026-10-01",
+    "supportedTopics": [
+      "Medical instability across body sizes, coordinated eating-disorder care, binge eating and nutritional rehabilitation"
+    ]
+  },
+  {
+    "sourceId": "d-attention-support",
+    "url": "https://www.nice.org.uk/guidance/ng87/chapter/recommendations",
+    "accessed": true,
+    "notes": "Retrieved by independent reviewer /root/author_risk_basic as a primary search-result excerpt; author read the recorded evidence and reason-checked the proposed application. No claim of full-page retrieval by author. Report c-cross-d-psychosocial-176-200.review.json.",
+    "accessedDate": "2026-10-01",
+    "supportedTopics": [
+      "Environmental modifications, reduced distraction and shorter periods of focus"
+    ]
+  },
+  {
+    "sourceId": "d-boundaries-ca",
+    "url": "https://www.cno.org/standards-learning/practice-support/practice-support-faqs/communicating-with-clients-online?l=en-ca",
+    "accessed": true,
+    "notes": "Retrieved by independent reviewer /root/author_risk_basic as a primary search-result excerpt; author read the recorded evidence and reason-checked the proposed application. No claim of full-page retrieval by author. Report c-cross-d-psychosocial-176-200.review.json.",
+    "accessedDate": "2026-10-01",
+    "supportedTopics": [
+      "Professional boundaries and personal social-media contacts"
+    ]
+  },
+  {
+    "sourceId": "d-spiritual",
+    "url": "https://openstax.org/books/fundamentals-nursing/pages/35-2-applications-of-spirituality-to-health-care",
+    "accessed": true,
+    "notes": "Retrieved by independent reviewer /root/author_risk_basic as a primary search-result excerpt; author read the recorded evidence and reason-checked the proposed application. No claim of full-page retrieval by author. Report c-cross-d-psychosocial-176-200.review.json.",
+    "accessedDate": "2026-10-01",
+    "supportedTopics": [
+      "Open-ended spiritual assessment and client-defined support"
+    ]
+  },
+  {
+    "sourceId": "d-boundaries-ca",
+    "url": "https://www.cno.org/standards-learning/practice-support/practice-support-faqs/communicating-with-clients-online?l=en-ca",
+    "accessed": true,
+    "accessedDate": "2026-10-01",
+    "supportedTopics": [
+      "Professional boundaries and personal social-media contacts"
+    ],
+    "accessMode": "primary full page opened by reviewer",
+    "notes": "Reviewer /root/author_risk_basic opened CNO page and inspected personal contact boundaries; source report correspondence records turn287view2."
+  },
+  {
+    "sourceId": "d-spiritual",
+    "url": "https://openstax.org/books/fundamentals-nursing/pages/35-2-applications-of-spirituality-to-health-care",
+    "accessed": true,
+    "accessedDate": "2026-10-01",
+    "supportedTopics": [
+      "Open-ended spiritual assessment and client-defined support"
+    ],
+    "accessMode": "primary full page opened by reviewer",
+    "notes": "Reviewer /root/author_risk_basic opened chapter and inspected client-defined spiritual preferences and resource facilitation; correspondence records turn287view3."
+  },
+  {
+    "sourceId": "d-eating-nice",
+    "url": "https://www.nice.org.uk/guidance/ng69/chapter/recommendations",
+    "accessed": true,
+    "accessedDate": "2026-10-01",
+    "supportedTopics": [
+      "Medical instability across body sizes, coordinated eating-disorder care, binge eating and nutritional rehabilitation"
+    ],
+    "accessMode": "search-result excerpt; full-page open blocked403",
+    "notes": "Reviewer obtained primary search excerpts; later full-page open returned403. This does not imply complete guideline review."
+  },
+  {
+    "sourceId": "d-attention-support",
+    "url": "https://www.nice.org.uk/guidance/ng87/chapter/recommendations",
+    "accessed": true,
+    "accessedDate": "2026-10-01",
+    "supportedTopics": [
+      "Environmental modifications, reduced distraction and shorter periods of focus"
+    ],
+    "accessMode": "search-result excerpt; full-page open blocked403",
+    "notes": "Reviewer obtained primary search excerpts; later full-page open returned403. This does not imply complete guideline review."
+  }
+]

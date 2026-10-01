@@ -1,0 +1,354 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewerTask": "/root/author_management_safety",
+  "reviewedAt": "2026-10-01T18:19:28.256629+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-a-psych-reviewed-snapshot.json",
+  "coverage": {
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-psychosocial-126",
+      "x-psychosocial-127",
+      "x-psychosocial-128",
+      "x-psychosocial-129",
+      "x-psychosocial-130",
+      "x-psychosocial-131",
+      "x-psychosocial-132",
+      "x-psychosocial-133",
+      "x-psychosocial-134",
+      "x-psychosocial-135",
+      "x-psychosocial-136",
+      "x-psychosocial-137",
+      "x-psychosocial-138",
+      "x-psychosocial-139",
+      "x-psychosocial-140",
+      "x-psychosocial-141",
+      "x-psychosocial-142",
+      "x-psychosocial-143",
+      "x-psychosocial-144",
+      "x-psychosocial-145",
+      "x-psychosocial-146",
+      "x-psychosocial-147",
+      "x-psychosocial-148",
+      "x-psychosocial-149",
+      "x-psychosocial-150"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Read every stem, option, key, rationale, takeaway and metadata. Reasoned through the clinical decision, plausible competitors, scenario discrimination, duplication and answer cues. Source checks below are targeted, not blanket validation.",
+  "limitations": [
+    "Not external clinician or psychometric validation",
+    "Source verification is targeted; the source registry alone does not validate an item."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.canada.ca/en/health-canada/services/opioids/naloxone.html",
+      "checked": "Primary search result explicitly confirms temporary naloxone action, emergency help and continued assistance; supports126–128 principles. Not a check of all overdose-prevention interventions."
+    },
+    {
+      "url": "https://www.camh.ca/en/health-info/mental-illness-and-addiction-index/cannabis",
+      "checked": "Primary CAMH search result confirms stronger THC doses can produce anxiety, paranoia and panic; supports the exposure association in132."
+    },
+    {
+      "url": "https://www.camh.ca/en/health-info/mental-illness-and-addiction-index/problem-gambling",
+      "checked": "Primary CAMH search result identifies harms to daily activity, mental/physical health, relationships and finances; supports functional assessment principle135–137."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-psychosocial-126",
+      "status": "revise",
+      "assessment": "Temporary reversal and emergency follow-up are important, but permanent removal and prescription-only use are obvious nonkeys; this is basic knowledge, not an applied case.",
+      "issues": [
+        "Temporary reversal and emergency follow-up are important, but permanent removal and prescription-only use are obvious nonkeys; this is basic knowledge, not an applied case."
+      ],
+      "proposedChanges": [
+        "Give a family teach-back after a person initially improves. Compare realistic plans for emergency help/continued observation, home observation after awakening, pharmacist advice and recurrence-based help-seeking. Mark foundation if simply recalling temporary action; keep options similar in length."
+      ],
+      "reviewedItemSha256": "7ab89c2825fbfd46a4dba3a45629a53e62d27e0342d4199614ded5c91f7946bb"
+    },
+    {
+      "id": "x-psychosocial-127",
+      "status": "revise",
+      "assessment": "Loss of tolerance is clinically important, but three absolutes make the lengthy comprehensive key uniquely reasonable.",
+      "issues": [
+        "Loss of tolerance is clinically important, but three absolutes make the lengthy comprehensive key uniquely reasonable."
+      ],
+      "proposedChanges": [
+        "Keep the weeks of abstinence and prior-use question. Use realistic competing explanations about tolerance, previous experience and supply variability, avoiding guarantees or only/always cues. Keep the correct explanation concise; do not imply any nonprescribed amount can be assured safe."
+      ],
+      "reviewedItemSha256": "a59b7975c6e1d86dde07d3ed5be7579530152554944cc717dcb065d37f6e90b2"
+    },
+    {
+      "id": "x-psychosocial-128",
+      "status": "revise",
+      "assessment": "Suspected opioid poisoning warrants naloxone, but waiting for proof, substituting naloxone for emergency help and reversing every substance are caricatures.",
+      "issues": [
+        "Suspected opioid poisoning warrants naloxone, but waiting for proof, substituting naloxone for emergency help and reversing every substance are caricatures."
+      ],
+      "proposedChanges": [
+        "Use an actual unresponsive person with slow breathing and uncertain reported exposure, emergency help activated and a kit available. Compare prompt kit use with credible alternatives such as waiting for more exposure history, toxicology advice or repeated reassessment. Account for emergency breathing support; use application difficulty rather than challenge."
+      ],
+      "reviewedItemSha256": "0b55101d79a877b086fe67fc0f801048fbac352dedf28ee9915d2f552d952759"
+    },
+    {
+      "id": "x-psychosocial-129",
+      "status": "revise",
+      "assessment": "The general overdose-prevention list largely repeats126–128; familiar packaging and an abstinence promise are weak nonkeys.",
+      "issues": [
+        "The general overdose-prevention list largely repeats126–128; familiar packaging and an abstinence promise are weak nonkeys."
+      ],
+      "proposedChanges": [
+        "Make the distinct objective a usable overdose-response plan for a client who uses alone and has no nearby responder. Assess which concrete service/contact arrangements address that gap, with locally available options and a primary harm-reduction source. Preserve suitable SATA with plausible plans rather than a broad list of three good principles."
+      ],
+      "reviewedItemSha256": "678f5c537e86a6fc0483d192188ad4c1082ca4ab676119ecb1d25a4e42396022"
+    },
+    {
+      "id": "x-psychosocial-130",
+      "status": "revise",
+      "assessment": "Symptoms fit opioid withdrawal and physical needs require care, but misconduct, assuming overdose and counselling gates are not credible assessment alternatives.",
+      "issues": [
+        "Symptoms fit opioid withdrawal and physical needs require care, but misconduct, assuming overdose and counselling gates are not credible assessment alternatives."
+      ],
+      "proposedChanges": [
+        "Add relevant vital signs, intake and timing after interrupted use. Compare symptom/withdrawal assessment and authorized support with infection-focused evaluation, overdose-focused monitoring or immediate counselling; explain how the actual pattern determines the next action. Avoid a uniquely comprehensive key."
+      ],
+      "reviewedItemSha256": "27c3ec8bc3ea1d8a88bd7227a061bdcdfe46757344e5ab3a29c40d657c3331e6"
+    },
+    {
+      "id": "x-psychosocial-131",
+      "status": "revise",
+      "assessment": "Chest pain and overheating after stimulant use warrant emergency assessment, but vigorous movement and waiting for sleep trivialize the priority.",
+      "issues": [
+        "Chest pain and overheating after stimulant use warrant emergency assessment, but vigorous movement and waiting for sleep trivialize the priority."
+      ],
+      "proposedChanges": [
+        "Use actual acute observations and compare emergency clinical response with credible competing actions such as calming conversation, oral fluids/cooling support or collecting an exposure history. Explain why supportive measures cannot delay urgent assessment; shorten the key and use application difficulty."
+      ],
+      "reviewedItemSha256": "a56439a2c0d2dc4e1aac2605ddbbf2befdeeb438b371b82b87d4f2389069c9bc"
+    },
+    {
+      "id": "x-psychosocial-132",
+      "status": "revise",
+      "assessment": "Acute anxiety/paranoia after cannabis merits assessment, but legalization reassurance, debating every statement and another dose are implausible.",
+      "issues": [
+        "Acute anxiety/paranoia after cannabis merits assessment, but legalization reassurance, debating every statement and another dose are implausible."
+      ],
+      "proposedChanges": [
+        "Supply duration, exposure uncertainty and current physical observations. Compare calm physical/safety assessment with reassurance, grounding or discharge teaching; establish why initial assessment is needed before choosing a purely anxiety-focused plan."
+      ],
+      "reviewedItemSha256": "140230b62699cf5ff9c8647b320585f889d4813e1f4ddfa7b1a612e4d0429dd6"
+    },
+    {
+      "id": "x-psychosocial-133",
+      "status": "revise",
+      "assessment": "Integrated concurrent-disorder care is appropriate, but permanent abstinence, complete resolution and an explicit communication omission give away the answer.",
+      "issues": [
+        "Integrated concurrent-disorder care is appropriate, but permanent abstinence, complete resolution and an explicit communication omission give away the answer."
+      ],
+      "proposedChanges": [
+        "Show a concrete conflict between two service plans or appointments for depression and drinking. Offer plausible sequence/coordination plans without absolute gates or advertised omissions; the interaction should make shared assessment necessary."
+      ],
+      "reviewedItemSha256": "44d9f8653be5a8615d10bdb7c91f6ac678673e1f00d342a7891ca37b4bf1fbfb"
+    },
+    {
+      "id": "x-psychosocial-134",
+      "status": "revise",
+      "assessment": "Positive recovery indicators are valid, but agreeing with every opinion and avoiding appointments are too easy to reject; similar outcome list appears in144.",
+      "issues": [
+        "Positive recovery indicators are valid, but agreeing with every opinion and avoiding appointments are too easy to reject; similar outcome list appears in144."
+      ],
+      "proposedChanges": [
+        "Provide specific agreed substance-use goals and actual follow-up observations. Ask which findings demonstrate those outcomes, contrasting observed behaviour with referral issuance, intention or attendance that does not establish the targeted result. Distinguish substance-use goals from144 community participation."
+      ],
+      "reviewedItemSha256": "00bb5d8635eb52064d27359780bc011cef471bfe1676daefe766868e11bd440e"
+    },
+    {
+      "id": "x-psychosocial-135",
+      "status": "revise",
+      "assessment": "Safety assessment is appropriate in gambling distress, but winning strategies and recouping debt through gambling are filler beside an all-inclusive key.",
+      "issues": [
+        "Safety assessment is appropriate in gambling distress, but winning strategies and recouping debt through gambling are filler beside an all-inclusive key."
+      ],
+      "proposedChanges": [
+        "Add a statement indicating hopelessness or immediate threat and compare direct safety inquiry with debt amount, gambling pattern and family-support assessment. The cue should determine the first inquiry; keep all options parallel and clinically relevant."
+      ],
+      "reviewedItemSha256": "237556dba1077b42b74285e48ca4c0e8593aa174cdb2051c4d80bd9eab985186"
+    },
+    {
+      "id": "x-psychosocial-136",
+      "status": "revise",
+      "assessment": "Functional impact matters, but game popularity and device price are unrelated filler.",
+      "issues": [
+        "Functional impact matters, but game popularity and device price are unrelated filler."
+      ],
+      "proposedChanges": [
+        "Supply the student’s actual sleep/class pattern and compare relevant questions about control, mood, sleep timing and social use. Ask which finding best establishes impaired control/function or which targeted assessment follows the stated uncertainty."
+      ],
+      "reviewedItemSha256": "a27183dde1c938d722c548dc279c57658185c3443736160d195ed07e8a78cd7f"
+    },
+    {
+      "id": "x-psychosocial-137",
+      "status": "revise",
+      "assessment": "Exploring family support/boundaries is sound, but paying everything, ending every relationship and interest-rate-only focus are extremes.",
+      "issues": [
+        "Exploring family support/boundaries is sound, but paying everything, ending every relationship and interest-rate-only focus are extremes."
+      ],
+      "proposedChanges": [
+        "Give repeated requests and a parent’s concrete concern. Compare realistic support choices such as attending treatment together, a further loan, taking over finances or making repayment plans. Clarify the parent’s goal and preserve their decision-making rather than imposing a universal cutoff."
+      ],
+      "reviewedItemSha256": "460b8ef8a1e73b328f9605596edbfea47e989364d8804c727b0f11b05fb49de3"
+    },
+    {
+      "id": "x-psychosocial-138",
+      "status": "revise",
+      "assessment": "Tailoring peer support is appropriate, but insisting one group works, declaring low motivation and stopping discussion are all extreme.",
+      "issues": [
+        "Tailoring peer support is appropriate, but insisting one group works, declaring low motivation and stopping discussion are all extreme."
+      ],
+      "proposedChanges": [
+        "Specify what did not fit, such as timing, format or spiritual language. Compare realistic alternative resources and adaptation plans; the client’s stated preference/access should discriminate the most suitable next offer."
+      ],
+      "reviewedItemSha256": "e1e7c921372492464c1c4d95ecaa78af4c972de30c092776033451dfc12c99bf"
+    },
+    {
+      "id": "x-psychosocial-139",
+      "status": "revise",
+      "assessment": "The key covers operational follow-up, but option2 also is something requiring clarification under the current broad stem; cravings promise is filler.",
+      "issues": [
+        "The key covers operational follow-up, but option2 also is something requiring clarification under the current broad stem; cravings promise is filler."
+      ],
+      "proposedChanges": [
+        "Give actual discharge arrangements and ask which concrete gaps must be resolved. Replace whether-statements with findings: unconfirmed appointment, unavailable transport or prescription access versus verified arrangements. Use a stem that makes keyed gaps unambiguous and nonkeys genuine completed safeguards."
+      ],
+      "reviewedItemSha256": "dfc57c66eaafd990b4ef6ebdd528176eefd641a9b7fcd774c89d6bf7c05c2619"
+    },
+    {
+      "id": "x-psychosocial-140",
+      "status": "revise",
+      "assessment": "A valued garden goal supports recovery, but staff convenience and complete symptom elimination are obvious nonkeys; generic goal selection resembles108/144.",
+      "issues": [
+        "A valued garden goal supports recovery, but staff convenience and complete symptom elimination are obvious nonkeys; generic goal selection resembles108/144."
+      ],
+      "proposedChanges": [
+        "Make this a graded activity-planning decision with current stamina, residual symptoms or practical support needs. Compare concrete gardening plans that differ in pacing/support and fit the observed capabilities."
+      ],
+      "reviewedItemSha256": "178379dff29f216fabe6e7ac6336fd193bbd6bab7f7c561a56a5d5ee66b4f047"
+    },
+    {
+      "id": "x-psychosocial-141",
+      "status": "revise",
+      "assessment": "Employment/disclosure support is appropriate, but every-coworker disclosure, perfect confidence and nurse-selected employer are caricatures.",
+      "issues": [
+        "Employment/disclosure support is appropriate, but every-coworker disclosure, perfect confidence and nurse-selected employer are caricatures."
+      ],
+      "proposedChanges": [
+        "Give a specific work task, accommodation concern or question about diagnosis disclosure. Compare plausible consultation/information approaches that preserve informed choice; avoid inventing province-specific legal rules."
+      ],
+      "reviewedItemSha256": "bbdd1eb18fb7365c8f0fc7089341fa9d281dc623b822681251a62938cc01c92d"
+    },
+    {
+      "id": "x-psychosocial-142",
+      "status": "revise",
+      "assessment": "Self-stigma warrants strengths/function exploration, but agreeing with diagnostic determinism, relatives judging worth and an explicit omission qualifier make the answer obvious.",
+      "issues": [
+        "Self-stigma warrants strengths/function exploration, but agreeing with diagnostic determinism, relatives judging worth and an explicit omission qualifier make the answer obvious."
+      ],
+      "proposedChanges": [
+        "Use actual nurse response quotations contrasting exploration of parenting tasks/supports with general reassurance, advice and comparison to other parents. State any real functional concern so the key does not promise there are no parenting needs."
+      ],
+      "reviewedItemSha256": "c1d824a6a88b6921f11f3cf37ca4029de2faade2476dfd59a32af45182865eb4"
+    },
+    {
+      "id": "x-psychosocial-143",
+      "status": "revise",
+      "assessment": "Treatment burden deserves collaborative review, but independently changing all treatment and family override are implausible.",
+      "issues": [
+        "Treatment burden deserves collaborative review, but independently changing all treatment and family override are implausible."
+      ],
+      "proposedChanges": [
+        "Specify the burden, stable symptoms and client’s goal. Compare credible actions such as documenting a review request, helping prepare benefit/burden questions, teaching adherence and seeking a feasible appointment format; ask for the step that meaningfully supports shared review now."
+      ],
+      "reviewedItemSha256": "9db23daf53474147f87cbac283c40212418a5c7f4c8bec0b3c3c4cf15ea41406"
+    },
+    {
+      "id": "x-psychosocial-144",
+      "status": "revise",
+      "assessment": "The recovery outcome list overlaps108/134 and contrasts positives with total agreement and pamphlet counts as sole outcome.",
+      "issues": [
+        "The recovery outcome list overlaps108/134 and contrasts positives with total agreement and pamphlet counts as sole outcome."
+      ],
+      "proposedChanges": [
+        "Use actual community participation/housing goals and outcome evidence. Select observations demonstrating progress versus completed service processes or stated intentions; keep this about mental-health community participation rather than substance-use metrics."
+      ],
+      "reviewedItemSha256": "e906b8ca927c020849019e3f25cc57370be937a584a97da6b5d2bb5a4e218563"
+    },
+    {
+      "id": "x-psychosocial-145",
+      "status": "revise",
+      "assessment": "Anniversary grief can occur despite good functioning, but unreal recovery, cancelling every ritual and fixed timetables are caricatures.",
+      "issues": [
+        "Anniversary grief can occur despite good functioning, but unreal recovery, cancelling every ritual and fixed timetables are caricatures."
+      ],
+      "proposedChanges": [
+        "Use comparable therapeutic responses about the anniversary: exploring meaning/support versus general reassurance, distraction or recommending a new routine. The sustained functioning cue should discourage automatic pathologizing without dismissing distress."
+      ],
+      "reviewedItemSha256": "79486323704c173ea34615cb0f615b7690ab89b698381a9f089f24792d053a52"
+    },
+    {
+      "id": "x-psychosocial-146",
+      "status": "revise",
+      "assessment": "The response recognizes anticipatory grief, but saving feelings until death and assuming abandonment are implausible; the difficulty is closer to foundation.",
+      "issues": [
+        "The response recognizes anticipatory grief, but saving feelings until death and assuming abandonment are implausible; the difficulty is closer to foundation."
+      ],
+      "proposedChanges": [
+        "Use realistic caregiver-support responses distinguishing grief about present losses from fatigue, practical burden or future fears. If the task is primarily recognizing anticipatory grief, mark foundation. Keep the compassionate key comparable in length."
+      ],
+      "reviewedItemSha256": "ef555eb51ddb31c531036b2444dd483ce011c1c73a5918974fe1ee6afa0a1bea"
+    },
+    {
+      "id": "x-psychosocial-147",
+      "status": "revise",
+      "assessment": "Different grief expression is valid, but necessarily avoiding grief, identical coping and ranking the loss make the key obvious.",
+      "issues": [
+        "Different grief expression is valid, but necessarily avoiding grief, identical coping and ranking the loss make the key obvious."
+      ],
+      "proposedChanges": [
+        "Use realistic family-support plans such as separate preferred supports, shared scheduled conversations or a mutual remembrance activity. Give each parent’s preferences and ask which plan best respects both while maintaining connection."
+      ],
+      "reviewedItemSha256": "cdcf44bfe843597993aa449a6f9f2956082af9a5b4fd875152a58b8532b5a35e"
+    },
+    {
+      "id": "x-psychosocial-148",
+      "status": "revise",
+      "assessment": "Clear death language is appropriate, but an entire organ-failure sequence and changing the topic are exaggerated beside a long key.",
+      "issues": [
+        "Clear death language is appropriate, but an entire organ-failure sequence and changing the topic are exaggerated beside a long key."
+      ],
+      "proposedChanges": [
+        "Specify the child’s age and use actual concise explanations. Compare clear irreversible body-death wording with plausible euphemisms or partial explanations; make all responses similar in grammar and length. Foundation is acceptable if simply recognizing clear language."
+      ],
+      "reviewedItemSha256": "5a68543833b51511baead3ab9995ce9689e362686e17bd70745d094f5e060f85"
+    },
+    {
+      "id": "x-psychosocial-149",
+      "status": "pass",
+      "assessment": "The SATA distinguishes sustained loss of function and suicidal intent from tears and culturally meaningful mourning. All observations concern grief assessment; the key appropriately identifies support/safety needs without imposing a fixed timetable.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "65d0a1975206252220402db4fdb552484a04f81d26f4d64a22de47e6430da2b8"
+    },
+    {
+      "id": "x-psychosocial-150",
+      "status": "revise",
+      "assessment": "Acknowledging an unrecognized loss is sound, but legal-status-only support, enforced silence and family permission are implausible.",
+      "issues": [
+        "Acknowledging an unrecognized loss is sound, but legal-status-only support, enforced silence and family permission are implausible."
+      ],
+      "proposedChanges": [
+        "Use comparable therapeutic response quotes: explore the relationship’s meaning, encourage existing family support, suggest private remembrance or offer general reassurance. The client’s isolation should identify the first validating response rather than make other options overt rejection."
+      ],
+      "reviewedItemSha256": "d4b0f2a71a8df64ff18ac18960ff6fc745807dcd762faa72c6f248a6e8176438"
+    }
+  ]
+}

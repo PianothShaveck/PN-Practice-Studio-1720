@@ -1,0 +1,333 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewerTask": "/root/author_management_safety",
+  "reviewedAt": "2026-10-01T17:50:04.880069+00:00",
+  "sourceFile": "bank-expansion/reviews/expansion/cross-a-health-snapshot.json",
+  "coverage": {
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-health-156",
+      "x-health-157",
+      "x-health-158",
+      "x-health-159",
+      "x-health-160",
+      "x-health-161",
+      "x-health-162",
+      "x-health-163",
+      "x-health-164",
+      "x-health-165",
+      "x-health-166",
+      "x-health-167",
+      "x-health-168",
+      "x-health-169",
+      "x-health-170",
+      "x-health-171",
+      "x-health-172",
+      "x-health-173",
+      "x-health-174",
+      "x-health-175",
+      "x-health-176",
+      "x-health-177",
+      "x-health-178",
+      "x-health-179",
+      "x-health-180"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Read every supplied field and reasoned through each key, distractor, rationale, objective and difficulty. Targeted primary-source checks are recorded separately; a reference alone was not treated as validation.",
+  "limitations": [
+    "Not external clinician or psychometric validation",
+    "Source verification is targeted; general educational and communication principles were reviewed for internal and clinical coherence."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-health-156",
+      "status": "revise",
+      "assessment": "Nonfood ingestion warrants nutritional and exposure assessment, but three nonkeys announce ignoring the relevant behaviour through only/without wording.",
+      "issues": [
+        "Nonfood ingestion warrants nutritional and exposure assessment, but three nonkeys announce ignoring the relevant behaviour through only/without wording."
+      ],
+      "proposedChanges": [
+        "State plausible actions directly: discuss food alternatives, review overall dietary intake, explore substances/amounts with clinical assessment, or offer culturally appropriate nutrition support. Explain why clay ingestion and ice craving require specific assessment."
+      ],
+      "reviewedItemSha256": "ff0d0cd87cc825f04f5896f52b8332f87e1cedbd270d74d2153adb9727cefa75"
+    },
+    {
+      "id": "x-health-157",
+      "status": "revise",
+      "assessment": "Species-specific lower-mercury advice is correct; price selection is an irrelevant foil.",
+      "issues": [
+        "Species-specific lower-mercury advice is correct; price selection is an irrelevant foil."
+      ],
+      "proposedChanges": [
+        "Replace price with a realistic misconception such as choosing locally caught fish without checking local advisories, phrased as the action itself. Shorten the key and use a directly relevant Canadian fish/mercury source; label foundation if no further clinical decision is added."
+      ],
+      "reviewedItemSha256": "a41e65422989997ba723a13f2d1c6ac174050125098ef70d35b95e1f1be729fc"
+    },
+    {
+      "id": "x-health-158",
+      "status": "revise",
+      "assessment": "Combined ingredient review is correct but package colour, retail location and testimonials are implausible nursing assessments.",
+      "issues": [
+        "Combined ingredient review is correct but package colour, retail location and testimonials are implausible nursing assessments."
+      ],
+      "proposedChanges": [
+        "Compare total nutrient amounts, symptom/deficiency history, product licensing and administration timing. State the client already has a prenatal product, making duplication the first product-specific assessment."
+      ],
+      "reviewedItemSha256": "bc65e7403f37ddda04fcd5f4b1eb77d9c1843e2c2068ad7048d4a882dc4ddad3"
+    },
+    {
+      "id": "x-health-159",
+      "status": "revise",
+      "assessment": "Poor fluid tolerance with orthostasis and reduced urine supports prompt assessment, but a larger meal and several-day recording are weak alternatives.",
+      "issues": [
+        "Poor fluid tolerance with orthostasis and reduced urine supports prompt assessment, but a larger meal and several-day recording are weak alternatives."
+      ],
+      "proposedChanges": [
+        "Compare prompt clinical assessment with small frequent fluid trials, an antiemetic-plan review, and same-day telephone follow-up. Clarify persistent inability to retain fluids so home strategies are insufficient. Keep the key similar in length."
+      ],
+      "reviewedItemSha256": "edb96f68f3521a2b35fbd9bcf2f7ba2e08df60c950f337a0aa0f75d3c22fb66c"
+    },
+    {
+      "id": "x-health-160",
+      "status": "revise",
+      "assessment": "Medication, obstetric history and mood concerns are appropriate; month-long symptoms threshold is arbitrary and the generic SATA is foundational.",
+      "issues": [
+        "Medication, obstetric history and mood concerns are appropriate; month-long symptoms threshold is arbitrary and the generic SATA is foundational."
+      ],
+      "proposedChanges": [
+        "Use a concrete upcoming visit and actual new concerns/exposures. Replace the arbitrary month requirement with a realistic but incomplete preparation choice; ensure correct answers are not just every broad health topic."
+      ],
+      "reviewedItemSha256": "3dabd0b4f447383c6144f242f7f181ea291d724683afd04188624ea4ad278535"
+    },
+    {
+      "id": "x-health-161",
+      "status": "revise",
+      "assessment": "Advance expression/storage/break planning is appropriate but the key uniquely contains a full plan against immediate weaning and rigid timing.",
+      "issues": [
+        "Advance expression/storage/break planning is appropriate but the key uniquely contains a full plan against immediate weaning and rigid timing."
+      ],
+      "proposedChanges": [
+        "Give actual workplace constraints and compare practising expression and arranging feasible breaks, changing feeding times, building a stored supply, and arranging caregiver feeds. Make the objective transition planning rather than choosing the only flexible response."
+      ],
+      "reviewedItemSha256": "bf02c870a093c8d803fd3d70b21f0cdaed8a9764f2d55a169fe764b63c2f777b"
+    },
+    {
+      "id": "x-health-162",
+      "status": "revise",
+      "assessment": "Medication-specific lactation advice is sound; dangerous-all-medicines and using a friend experience are conspicuous errors.",
+      "issues": [
+        "Medication-specific lactation advice is sound; dangerous-all-medicines and using a friend experience are conspicuous errors."
+      ],
+      "proposedChanges": [
+        "Compare checking the specific medicine and infant factors, timing feeds around the next dose, expressing/discarding temporarily and discussing an alternative drug. The stem should give no emergency indication that would make a delay unsafe."
+      ],
+      "reviewedItemSha256": "3b730f215326fa168b8c98f14774f0a1d6d2a3601222300d4e431deefa206a3b"
+    },
+    {
+      "id": "x-health-163",
+      "status": "revise",
+      "assessment": "Gradual weaning is a useful choice, and fluid restriction/binding are recognizable outdated advice; the abrupt-cessation option is spoiled by avoid-all-assessment cueing.",
+      "issues": [
+        "Gradual weaning is a useful choice, and fluid restriction/binding are recognizable outdated advice; the abrupt-cessation option is spoiled by avoid-all-assessment cueing."
+      ],
+      "proposedChanges": [
+        "Remove the explicit avoid-all-breast-assessment phrase. Keep the abrupt cessation alternative focused on replacing feeds together and make all explanations comparable."
+      ],
+      "reviewedItemSha256": "739fed318cc0fc2d834fd7d6677b4fbb681a8a3f37146858397ac2a69131dcda"
+    },
+    {
+      "id": "x-health-164",
+      "status": "revise",
+      "assessment": "Vitamin D counselling is appropriate, but juice replacement and advertising-driven supplements are implausible nursing alternatives.",
+      "issues": [
+        "Vitamin D counselling is appropriate, but juice replacement and advertising-driven supplements are implausible nursing alternatives."
+      ],
+      "proposedChanges": [
+        "Use a clear healthy breastfed infant context and compare vitamin D guidance, relying on maternal supplementation, relying on sun exposure and waiting for complementary foods. Verify the actual Canadian advice if a dose is added; avoid dosing merely for difficulty."
+      ],
+      "reviewedItemSha256": "aa40ff98d804ee3901703d2029aaa7c8857339e679919226f371f3d2a2dbb099"
+    },
+    {
+      "id": "x-health-165",
+      "status": "revise",
+      "assessment": "Individualized allergy assessment and reaction teaching are correct, but indefinite elimination without review advertises the nonkey.",
+      "issues": [
+        "Individualized allergy assessment and reaction teaching are correct, but indefinite elimination without review advertises the nonkey."
+      ],
+      "proposedChanges": [
+        "Replace with a plausible blanket-delay recommendation phrased directly, and explain why the infant own risk factors and current introduction guidance matter. Add infant age/developmental readiness if the item begins specifying introduction timing."
+      ],
+      "reviewedItemSha256": "d64cca5d0abe5fd9fc3c5f4dbfbfd939f01973c91e85affeaf6b2461d04f818b"
+    },
+    {
+      "id": "x-health-166",
+      "status": "revise",
+      "assessment": "The key accurately distinguishes ordinary plant beverages from infant formula; the item is direct foundational nutrition knowledge, not application.",
+      "issues": [
+        "The key accurately distinguishes ordinary plant beverages from infant formula; the item is direct foundational nutrition knowledge, not application."
+      ],
+      "proposedChanges": [
+        "Label foundation. Consider replacing taste acceptance with a plausible claim about fortified oat beverages meeting infant needs; retain the requirement for infant-appropriate nutrition and offer access support in teaching."
+      ],
+      "reviewedItemSha256": "026bfefc41079a15926217a1a28e06bf3e916552b9433381f5352936ac6a06fe"
+    },
+    {
+      "id": "x-health-167",
+      "status": "revise",
+      "assessment": "Meal structure and cup practice address milk displacement, but waiting for all teeth and withholding all fluids are extreme foils.",
+      "issues": [
+        "Meal structure and cup practice address milk displacement, but waiting for all teeth and withholding all fluids are extreme foils."
+      ],
+      "proposedChanges": [
+        "Compare reducing grazing bottle access, using smaller frequent bottles, serving milk before meals and introducing a spill-proof cup for continuous sipping. Give toddler age and intake pattern to distinguish structured meals/cup development."
+      ],
+      "reviewedItemSha256": "b2b440ed5501345aa520343b630b31ddae68b5f632c53ca3e70571acb775d9ca"
+    },
+    {
+      "id": "x-health-168",
+      "status": "revise",
+      "assessment": "Water between meals targets repeated sugar exposure; waiting for adult teeth before brushing is unrelated caricature content.",
+      "issues": [
+        "Water between meals targets repeated sugar exposure; waiting for adult teeth before brushing is unrelated caricature content."
+      ],
+      "proposedChanges": [
+        "Replace the last option with brushing immediately after the afternoon drink period or switching to juice, plausible attempts that do not remove repeated exposure as directly."
+      ],
+      "reviewedItemSha256": "3b977fdb7a7c7d78f22281660db27dc86653369f8b414dfc6111dc5e408e81e8"
+    },
+    {
+      "id": "x-health-169",
+      "status": "pass",
+      "assessment": "The honest foundation item explains functional importance of primary teeth and why decay is not harmless until tooth replacement. Rationales support the key across eating, speech and space maintenance.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ce9bfe739e425a645b808be8e4e099813d9f3dac52729edb27977e1580c5e5b3"
+    },
+    {
+      "id": "x-health-170",
+      "status": "revise",
+      "assessment": "Awake movement and responsive interaction are sound, but most-waking-hours seat restraint is an exaggerated sole nonkey in a generic list.",
+      "issues": [
+        "Awake movement and responsive interaction are sound, but most-waking-hours seat restraint is an exaggerated sole nonkey in a generic list."
+      ],
+      "proposedChanges": [
+        "Give an infant with limited floor-play opportunities and specific proposed short activities. Compare a seat-based activity with supervised reaching/tummy time in terms of motor opportunity, avoiding an exaggerated duration."
+      ],
+      "reviewedItemSha256": "065a43571c85a562c09b808d4a132104e0cec6e024525c0ef6e74a76d99cf3b7"
+    },
+    {
+      "id": "x-health-171",
+      "status": "pass",
+      "assessment": "Turning away, yawning and fussing are discriminating disengagement cues. A calming break is appropriate; added stimulation, rapid toy changes and persistence are recognizable caregiver responses with clear case-specific limits.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b01905eae24b1197f7c0be6e09ab35febc3c7fa1441c65597d030578a4c8773a"
+    },
+    {
+      "id": "x-health-172",
+      "status": "pass",
+      "assessment": "Fatigue and difficult departure are concrete triggers. A predictable brief transition cue and timing adjustment directly address them; inconsistent negotiation, complex explanation at peak distress and avoidance are distinguishable parenting approaches.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "688d70d96cc261a5191fd1f91bf42d6507de3d60ebdb841e3046ad799b771773"
+    },
+    {
+      "id": "x-health-173",
+      "status": "revise",
+      "assessment": "Familiar routine and individual attention fit sibling adjustment, but immediate independence and removal of comforts are conspicuously harsh alternatives.",
+      "issues": [
+        "Familiar routine and individual attention fit sibling adjustment, but immediate independence and removal of comforts are conspicuously harsh alternatives."
+      ],
+      "proposedChanges": [
+        "Compare protected individual time with involving the child in baby care, offering new independent activities and using praise for mature behaviour. Explain why connection and routine specifically address new clinginess."
+      ],
+      "reviewedItemSha256": "f3ceea0ad2bf6f7fd8ecb333c7e1db3d39335342efee791cd6cc2d942c62b372"
+    },
+    {
+      "id": "x-health-174",
+      "status": "revise",
+      "assessment": "Direct explanation and privacy support child participation, but ignoring the child and saying clinicians need no permission are implausible professional responses.",
+      "issues": [
+        "Direct explanation and privacy support child participation, but ignoring the child and saying clinicians need no permission are implausible professional responses."
+      ],
+      "proposedChanges": [
+        "Compare explaining the examination step with demonstrating equipment, asking the caregiver to explain, or completing the parent discussion first. Include the child actual question and need for developmentally appropriate assent/privacy."
+      ],
+      "reviewedItemSha256": "664e469a17489a773fb56a53a791a105cccac2c71107d520d191417a1e65b0f3"
+    },
+    {
+      "id": "x-health-175",
+      "status": "revise",
+      "assessment": "Individualized school plans and help-seeking are appropriate; automatic exclusion from every activity is a caricature sole nonkey.",
+      "issues": [
+        "Individualized school plans and help-seeking are appropriate; automatic exclusion from every activity is a caricature sole nonkey."
+      ],
+      "proposedChanges": [
+        "Use a named chronic condition and an actual school activity. Present proposed support arrangements with plausible limits, such as staff plan, symptom response, child help-seeking and unnecessary broad restriction stated concretely."
+      ],
+      "reviewedItemSha256": "8d2465748082ee97a7c5225503384581a08ec18bc287fbde6efd85569cbe7cba"
+    },
+    {
+      "id": "x-health-176",
+      "status": "revise",
+      "assessment": "Nightly loud snoring with restless sleep and daytime changes warrants assessment, but rewarding quiet sleep is implausible and later bedtime is weak.",
+      "issues": [
+        "Nightly loud snoring with restless sleep and daytime changes warrants assessment, but rewarding quiet sleep is implausible and later bedtime is weak."
+      ],
+      "proposedChanges": [
+        "Compare clinical sleep assessment with a sleep diary, bedtime-routine changes and environmental allergy review. Explain why the combined nocturnal/daytime pattern needs assessment rather than routine sleep-hygiene advice alone."
+      ],
+      "reviewedItemSha256": "3ab075682f64515157670068f4812a2815f5a095398bb2a5cc0778fa3d171485"
+    },
+    {
+      "id": "x-health-177",
+      "status": "revise",
+      "assessment": "Graduated return and clearance are correct; skipping all school for a month is an unrelated extreme.",
+      "issues": [
+        "Graduated return and clearance are correct; skipping all school for a month is an unrelated extreme."
+      ],
+      "proposedChanges": [
+        "Use plausible return options such as noncontact practice first, full play once symptoms improve, staged clinician plan and rest until all schoolwork is completed. Add an authoritative current Canadian concussion source and avoid fixed timelines."
+      ],
+      "reviewedItemSha256": "c03cb00d5a1c718a3ead1e2b5fc63358f3be8cf720d7736d9eddc92a5e6e226a"
+    },
+    {
+      "id": "x-health-178",
+      "status": "revise",
+      "assessment": "Adolescent participation is appropriate, but signature-only and weigh-ins before purpose are explicit missing-process cues.",
+      "issues": [
+        "Adolescent participation is appropriate, but signature-only and weigh-ins before purpose are explicit missing-process cues."
+      ],
+      "proposedChanges": [
+        "Compare a private discussion of adolescent goals with reviewing the parent menu, arranging joint family education and measuring baseline nutrition status. The first action should establish the adolescent perspective without caricatures."
+      ],
+      "reviewedItemSha256": "99cb2c7e0810ffe52a0b78a189a70c88f4c9da3e02f28d8882cf658ae39fdbd3"
+    },
+    {
+      "id": "x-health-179",
+      "status": "revise",
+      "assessment": "Practical puberty preparation is correct; fertility treatment and avoiding school are implausible answers to this concern.",
+      "issues": [
+        "Practical puberty preparation is correct; fertility treatment and avoiding school are implausible answers to this concern."
+      ],
+      "proposedChanges": [
+        "Compare preparing supplies and a school contact with reviewing cycle timing, explaining reproductive anatomy and discussing symptom relief. Keep the immediate school-readiness objective and comparable option length."
+      ],
+      "reviewedItemSha256": "6705f6ae8533d8785cfbef7295097856a965356e772dbfd4667372e91bbd4eae"
+    },
+    {
+      "id": "x-health-180",
+      "status": "revise",
+      "assessment": "As written, asking whether likes prove advice works can itself help a teenager critically evaluate information; the supposed nonkey is a useful reflective question, despite its intended false answer.",
+      "issues": [
+        "As written, asking whether likes prove advice works can itself help a teenager critically evaluate information; the supposed nonkey is a useful reflective question, despite its intended false answer."
+      ],
+      "proposedChanges": [
+        "Rephrase choices as evidence or actions: checking author expertise, checking evidence/date, accepting popularity as validation, and assessing commercial interest. Add a concrete online claim if retaining application difficulty."
+      ],
+      "reviewedItemSha256": "3c2184cd7bdb67d15add46180d6de60b33d8ff6769071c7d7eaa777fc56a4128"
+    }
+  ]
+}

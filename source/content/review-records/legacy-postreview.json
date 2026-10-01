@@ -1,0 +1,1382 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewerTask": "/root/author_risk_basic",
+  "reviewedAt": "2026-10-01T17:50:29.889545+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/legacy-revised.json",
+  "coverage": {
+    "reviewedItems": 120,
+    "reviewedIds": [
+      "management-01",
+      "management-02",
+      "management-03",
+      "management-04",
+      "management-05",
+      "management-06",
+      "management-07",
+      "management-08",
+      "management-09",
+      "management-10",
+      "management-11",
+      "management-12",
+      "safety-01",
+      "safety-02",
+      "safety-03",
+      "safety-04",
+      "safety-05",
+      "safety-06",
+      "safety-07",
+      "safety-08",
+      "safety-09",
+      "safety-10",
+      "safety-11",
+      "safety-12",
+      "health-01",
+      "health-02",
+      "health-03",
+      "health-04",
+      "health-05",
+      "health-06",
+      "health-07",
+      "health-08",
+      "health-09",
+      "health-10",
+      "health-11",
+      "health-12",
+      "psychosocial-01",
+      "psychosocial-02",
+      "psychosocial-03",
+      "psychosocial-04",
+      "psychosocial-05",
+      "psychosocial-06",
+      "psychosocial-07",
+      "psychosocial-08",
+      "psychosocial-09",
+      "psychosocial-10",
+      "psychosocial-11",
+      "psychosocial-12",
+      "basic-01",
+      "basic-02",
+      "basic-03",
+      "basic-04",
+      "basic-05",
+      "basic-06",
+      "basic-07",
+      "basic-08",
+      "basic-09",
+      "basic-10",
+      "basic-11",
+      "basic-12",
+      "pharmacology-01",
+      "pharmacology-02",
+      "pharmacology-03",
+      "pharmacology-04",
+      "pharmacology-05",
+      "pharmacology-06",
+      "pharmacology-07",
+      "pharmacology-08",
+      "pharmacology-09",
+      "pharmacology-10",
+      "pharmacology-11",
+      "pharmacology-12",
+      "risk-01",
+      "risk-02",
+      "risk-03",
+      "risk-04",
+      "risk-05",
+      "risk-06",
+      "risk-07",
+      "risk-08",
+      "risk-09",
+      "risk-10",
+      "risk-11",
+      "risk-12",
+      "adaptation-01",
+      "adaptation-02",
+      "adaptation-03",
+      "adaptation-04",
+      "adaptation-05",
+      "adaptation-06",
+      "adaptation-07",
+      "adaptation-08",
+      "adaptation-09",
+      "adaptation-10",
+      "adaptation-11",
+      "adaptation-12",
+      "management-13",
+      "management-14",
+      "management-15",
+      "management-16",
+      "management-17",
+      "management-18",
+      "management-19",
+      "management-20",
+      "pharmacology-13",
+      "pharmacology-14",
+      "pharmacology-15",
+      "pharmacology-16",
+      "safety-13",
+      "safety-14",
+      "health-13",
+      "health-14",
+      "psychosocial-13",
+      "psychosocial-14",
+      "basic-13",
+      "basic-14",
+      "risk-13",
+      "risk-14",
+      "adaptation-13",
+      "adaptation-14"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Read every revised legacy stem, alternative, key, rationale, takeaway, exhibit and reference ID. Reasoned through clinical priority, consent/scope, realistic alternatives, cues and calculation alignment individually. Primary-source checks targeted to volatile/high-stakes claims; pass rows reflect content assessment, not exhaustive page verification. Proposed patches require author acceptance and a subsequent exact-hash reread.",
+  "limitations": [
+    "Not external clinician or psychometric validation",
+    "Source verification is targeted; broad pre-existing nursing/regulator source IDs are not claimed as page-level validation of every item",
+    "No protected exam item comparison",
+    "Many legacy items are intentionally foundational; they should not be presented as uniformly advanced reasoning"
+  ],
+  "sourceChecks": [
+    {
+      "items": [
+        "adaptation-05",
+        "adaptation-09"
+      ],
+      "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support",
+      "accessed": true,
+      "method": "Opened and searched 2025 AHA primary guideline",
+      "evidenceRefs": [
+        "turn185view0",
+        "turn185view3",
+        "turn185view4"
+      ],
+      "finding": "No definite pulse within 10 seconds supportsCPR; responsive severe adult choking uses five back blows then five abdominal thrusts, with stated special circumstances."
+    },
+    {
+      "items": [
+        "pharmacology-06"
+      ],
+      "url": "https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-2-vaccine-safety/page-4-early-vaccine-reactions-including-anaphylaxis.html",
+      "accessed": true,
+      "method": "Primary PHAC search excerpt retrieved",
+      "evidenceRefs": [
+        "turn183search1"
+      ],
+      "finding": "Prompt intramuscular epinephrine is first-line; adjuncts do not replace it. Proposed revision tests this distinction."
+    },
+    {
+      "items": [
+        "pharmacology-14"
+      ],
+      "url": "https://cps.ca/en/documents/position/acute-otitis-media",
+      "accessed": true,
+      "method": "Opened CPS guidance",
+      "evidenceRefs": [
+        "turn185view2"
+      ],
+      "finding": "45–60 mg/kg/day in three doses and five-day treatment for most≥2-year-olds with uncomplicated AOM support the supplied scenario; arithmetic independently recomputed."
+    },
+    {
+      "items": [
+        "adaptation-01",
+        "adaptation-11",
+        "adaptation-13"
+      ],
+      "url": "https://www.diabetes.ca/for-professionals/full-guidelines/chapter-14",
+      "accessed": true,
+      "method": "Opened DiabetesCanada chapter and found treatment recommendations",
+      "evidenceRefs": [
+        "turn185view1",
+        "turn189view0",
+        "turn189view1"
+      ],
+      "finding": "Adult mild/moderate 15 g carbohydrate with 15-minute check; unconscious unsafe swallowing uses a nonoral authorized pathway. No new specific emergency dose added."
+    },
+    {
+      "items": [
+        "management-02",
+        "management-16",
+        "management-18",
+        "risk-06"
+      ],
+      "url": "https://cno.org/Assets/CNO/Documents/Standard-and-Learning/Practice-Standards/41020_consent.pdf",
+      "accessed": true,
+      "method": "Primary CNO search excerpt retrieved",
+      "evidenceRefs": [
+        "turn188search0",
+        "turn188search8"
+      ],
+      "finding": "Capable clients decide; consent remains voluntary and withdrawable. No province-specific substitute-decision hierarchy is tested."
+    },
+    {
+      "items": [
+        "psychosocial-11"
+      ],
+      "url": "https://www.bccnm.ca/RN/PracticeStandards/pages/boundaries.aspx",
+      "accessed": true,
+      "method": "Regulator search excerpt retrieved; RN page used as supporting cross-nursing boundary principle, not anLPN-specific scope rule",
+      "evidenceRefs": [
+        "turn188search1"
+      ],
+      "finding": "Significant gifts should be returned or redirected; expensive contingent gift in the item is clearly distinct from a token cultural gift."
+    },
+    {
+      "items": [
+        "risk-02"
+      ],
+      "url": "https://www.ukkidney.org/sites/default/files/FINAL%20VERSION%20-%20UKKA%20CLINICAL%20PRACTICE%20GUIDELINE%20-%20MANAGEMENT%20OF%20HYPERKALAEMIA%20IN%20ADULTS%20-%20191223_0.pdf",
+      "accessed": true,
+      "method": "Primary professional guideline search excerpt; related hospital algorithm retrieved",
+      "evidenceRefs": [
+        "turn188search2",
+        "turn188search14"
+      ],
+      "finding": "Urgent ECG for potassium≥6.0; monitoring depends on severity and clinical/ECG context. Item does not prescribe a replacement or potassium-lowering drug dose."
+    },
+    {
+      "items": [
+        "pharmacology-05"
+      ],
+      "url": "https://www.safetyandquality.gov.au/sites/default/files/resources/attachments/high-risk-medication-alert-intravenous-potassium-chloride-2003.pdf",
+      "accessed": true,
+      "method": "Government safety alert search excerpt retrieved",
+      "evidenceRefs": [
+        "turn188search11"
+      ],
+      "finding": "Concentrated IV potassium injection is a severe medication-safety hazard; controlled appropriate infusion is distinct from direct push."
+    },
+    {
+      "items": [
+        "health-01",
+        "health-08",
+        "management-10"
+      ],
+      "url": "https://www.ahrq.gov/patient-safety/reports/engage/teachback.html",
+      "accessed": true,
+      "method": "Government patient-safety source retrieved during this review session",
+      "evidenceRefs": [
+        "turn165search1"
+      ],
+      "finding": "Teach-back and usable understanding support demonstration/reconciliation rather than signatures as comprehension checks."
+    }
+  ],
+  "items": [
+    {
+      "id": "management-01",
+      "status": "pass",
+      "assessment": "New postoperative stridor is a specific immediate airway threat; stable pain, retention and nausea still receive appropriate later care.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b096bc8a5f4a91888ef94dd9434a1d5a61efc9aabbd63a6ae68088d1a0948d77"
+    },
+    {
+      "id": "management-02",
+      "status": "pass",
+      "assessment": "The capable adult can decline. The key preserves autonomy while exploring an addressable barrier and communicating the decision.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5285de42e79412263b82d95dedc5c757b5fa396e3999a36693bf59ff3e6bad8f"
+    },
+    {
+      "id": "management-03",
+      "status": "pass",
+      "assessment": "Stable established bathing is the predictable task; deciding PRN medication, new dizziness assistance or a new aid’s safety requires assessment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3db55c04845dd29a0b6b64ebe9fef4e5b972d8a15e8ca1c9693705f659fe1139"
+    },
+    {
+      "id": "management-04",
+      "status": "pass",
+      "assessment": "The options distinguish employee access from an authorized care purpose; limited chart content and indirect colleague disclosure remain unauthorized.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "49a373a5a0be9231c06e4b32f84689b8356449ea16df99c6d4c810952546ede7"
+    },
+    {
+      "id": "management-05",
+      "status": "revise",
+      "assessment": "The competence principle and key are correct, but another inexperienced checker and uncoordinated transfer of the whole caseload are weak competitors. Use plausible shortcuts involving prior experience, manuals and informal demonstration.",
+      "issues": [
+        "Two alternatives are implausibly weak and advertise the key; compare realistic competence shortcuts."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Explain the competence gap and arrange a qualified practitioner or supervised learning plan",
+            "Use the written procedure because experience with a similar procedure should transfer",
+            "Ask a colleague for a brief demonstration and then perform the first attempt independently",
+            "Accept the assignment because a qualified colleague is available elsewhere on the unit"
+          ],
+          "why": [
+            "The stable situation permits a plan that provides competent care while addressing the nurse’s learning needs.",
+            "Related experience and written steps do not establish competence with the unfamiliar procedure.",
+            "A brief demonstration may support learning but does not establish readiness for an independent first attempt.",
+            "A colleague’s presence elsewhere does not by itself provide the planned supervision or competence needed."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "68a643a96804fc0f534b1f6cec64460ee00fe22cec78fdc11b87289d53769eb3"
+    },
+    {
+      "id": "management-06",
+      "status": "pass",
+      "assessment": "The handover SATA correctly selects current findings, relevant treatment/history and an explicit request; it excludes delaying urgent content and asserting an unconfirmed diagnosis.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "41dbdd34a569db1b5998fbe5963a2df4c490893fc4140b5f9a3ddf526d8864fb"
+    },
+    {
+      "id": "management-07",
+      "status": "pass",
+      "assessment": "The approved audit-preserving correction is defensible; a separate unexplained number or another person’s login would obscure accountability.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e18ce6541cfab67da7fa35a9fec6eec389834061c2b227ba184284a07f9b31e6"
+    },
+    {
+      "id": "management-08",
+      "status": "pass",
+      "assessment": "A nonurgent invasive procedure allows qualified interpretation and confirmation of understanding; translated paperwork alone is insufficient.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9ad2dd53d932ebb604c8f528caa2d9edeafb7c5196e89671f3f41c4badb2c39c"
+    },
+    {
+      "id": "management-09",
+      "status": "pass",
+      "assessment": "A collateral report of sudden confusion justifies prompt bedside assessment; preliminary family/chart/checklist work should not delay it.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a9b3d4808e976f3c75187ae6536cba8456a1e893addeea7b23847e39d45cb507"
+    },
+    {
+      "id": "management-10",
+      "status": "pass",
+      "assessment": "The explicit intention to combine replacement and old antihypertensives makes reconciliation plus teach-back the targeted response.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5135c03d68b46bb1a0fcf068af0ba59c2abdde09c838251a8317b6cfa57701c5"
+    },
+    {
+      "id": "management-11",
+      "status": "pass",
+      "assessment": "Specific workload escalation, qualified help and a clear record preserve continuity; an assumed handoff or private notebook alone does not.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9fa359731888d4e11d548b30704a3ff7ee018454a3562d9d39ef3bfc61cb75ba"
+    },
+    {
+      "id": "management-12",
+      "status": "pass",
+      "assessment": "The open invitation to define safety responds to current discrimination-related fear without imposing a community stereotype or institutional reassurance.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "94d8fe5fcfb6a3a2dd3a4c7db27af26a6fa283e5e716aaea2a454b6b55dc2470"
+    },
+    {
+      "id": "safety-01",
+      "status": "pass",
+      "assessment": "The stem excludes visible soil and organism-specific exceptions, making immediate post-glove hand hygiene the unambiguous foundational key.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f38ccb962cf851d735c5e4ab28e04b21145a767dfa8bc99256006e2a3c66ecb4"
+    },
+    {
+      "id": "safety-02",
+      "status": "pass",
+      "assessment": "The SATA separates aseptic hand hygiene, exposure-based PPE and equipment cleaning from vial sharing and contaminated-to-clean glove reuse.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2fdefdd68f523823373ee475f332b989008e6ca2edf6d5626d77f2810ea3901e"
+    },
+    {
+      "id": "safety-03",
+      "status": "pass",
+      "assessment": "After washing the puncture, timely occupational exposure assessment takes priority over forms or source-result waiting.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1de2f1fee19e4ca06288ae646926362f171f14bc766f532b279c2aa06e355706"
+    },
+    {
+      "id": "safety-04",
+      "status": "pass",
+      "assessment": "Symptomatic standing creates an immediate fall hazard; safe sitting/lying precedes cause investigation or further standing measurements.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6b18600c68a336542cb3997eb553beea4892ef8f8cb180c0b773e7812c89bf81"
+    },
+    {
+      "id": "safety-05",
+      "status": "pass",
+      "assessment": "Suspected infectious pulmonary TB supports airborne isolation before confirmation; positive-pressure protection and droplet placement are inappropriate alternatives.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "748df2a89de6ec10472297ea8134898bc8854f984d7bfb692f083f7dd62b2aa0"
+    },
+    {
+      "id": "safety-06",
+      "status": "pass",
+      "assessment": "Direct nonsterile contact with the field centre compromises the setup; changing gloves or covering it does not restore sterility.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9dd4c77fb1fe63b82da08bf96e43b8853ec6f854a0fc4053ec14f1cab9945132"
+    },
+    {
+      "id": "safety-07",
+      "status": "pass",
+      "assessment": "The oxygen teaching keys address fire, secured cylinders and prescribed use; the negatives describe recognizable storage and flow-adjustment errors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0ff6f67b374603c9bf8e5e0c17ddc0cb9c7dd6bfba8f5e8c2ff9572abc88acf5"
+    },
+    {
+      "id": "safety-08",
+      "status": "pass",
+      "assessment": "Two approved person identifiers provide a stronger match than location, repeated name or a leading yes/no question.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "58bdcd500e11967744cf6cd94658c8e9624b404fb430b086eca67bbc5573ce04"
+    },
+    {
+      "id": "safety-09",
+      "status": "pass",
+      "assessment": "A lit clear route and accessible aid directly address foreseeable toileting activity; alarms or reminders alone do not remove hazards.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "923a09af00028c02944490e8548db167eaabf5bf393775a8a38415046e9841e2"
+    },
+    {
+      "id": "safety-10",
+      "status": "pass",
+      "assessment": "An unreadable syringe cannot be identified by volume or another person’s uncertain memory; obtaining an identified preparation is appropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1a7c70116f29ee3de41615eada2d81437afe8681fd962d1d2867538079148e51"
+    },
+    {
+      "id": "safety-11",
+      "status": "pass",
+      "assessment": "The near miss reveals a shared storage hazard requiring reporting and coordinated system change, rather than individual vigilance alone.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "75bf7f2b59e57cc85051eb66c986f0eeeaab16fef7ac26e58ba586d40cddeafe"
+    },
+    {
+      "id": "safety-12",
+      "status": "pass",
+      "assessment": "Approved disinfection and wet contact time address reuse risk; premature drying, visible cleaning alone and waiting for organism confirmation do not.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7bfdcb4dd97380d66058300b4be4f1230d142009438c45ae4a7b98292075cfb2"
+    },
+    {
+      "id": "health-01",
+      "status": "pass",
+      "assessment": "Demonstration evaluates device handling and coordination that side-effect recall, prior years of use or verbal steps cannot establish.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0a99d1c71e41eeee001d92addfe2c541cc8bfb898935febb1e8f71342f94eeab"
+    },
+    {
+      "id": "health-02",
+      "status": "pass",
+      "assessment": "Severe postoperative pain limits learning; treating it and reassessing readiness is better than immediate teaching after analgesia or treating family teaching as completion.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "998b19241bee82b417ea6bd2883824cbc997349f01f9c175c339408cb529f05d"
+    },
+    {
+      "id": "health-03",
+      "status": "pass",
+      "assessment": "The infant scenario supports supine, clear, firm flat separate sleep; positioning aids, incline and loose bedding are credible safety misconceptions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c11f7bee7971bf51f0c78788f4c57153a71afa4560989f7349c8989bb01cbfb5"
+    },
+    {
+      "id": "health-04",
+      "status": "pass",
+      "assessment": "Preconception folate timing addresses very early neural development; iron deficiency and later pregnancy recognition do not explain that timing.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f8b5023cd4ad0d349c27d74fe6faa3c7536f98c00927f2b5fca77cd4fb69d348"
+    },
+    {
+      "id": "health-05",
+      "status": "pass",
+      "assessment": "Eliciting the parent’s specific concern enables balanced current vaccine information; automatic delay and one-sided reassurance do not resolve the concern.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3f3eadfc26a76d2cb69bbfc9738ef4134c7d02f4a5037a86c1ead63ac261b8e3"
+    },
+    {
+      "id": "health-06",
+      "status": "pass",
+      "assessment": "Daily inspection, shoe checks and early wound reporting match sensory loss; prolonged soaking and local heat create avoidable injury risk.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f5539c0f7a555adbcacaa9c02f2e2758631e7df34c7662f18461d28e976bcaf2"
+    },
+    {
+      "id": "health-07",
+      "status": "pass",
+      "assessment": "Exploring previous barriers and useful strategies supports a tailored quit attempt without requiring complete confidence first.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3b17aad86961a58fb5655cf899f631f992303433a0ee3dce8bb6aee6723f170f"
+    },
+    {
+      "id": "health-08",
+      "status": "revise",
+      "assessment": "The correct education adaptations are useful, but the claim that added detail prevents questions creates a bad-intent cue. Replace it with a plausible information-overload error.",
+      "issues": [
+        "The purpose of preventing questions creates an unnecessary bad-intent cue."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Use plain language and short sections",
+            "Provide a longer written explanation of every step to cover the possible questions",
+            "Discuss the most important actions and use teach-back",
+            "Offer suitable pictures or demonstrations",
+            "Ask the client to sign the instructions as the main check of understanding"
+          ],
+          "why": [
+            "Clear language and manageable sections reduce the stated reading barrier.",
+            "More written content may increase burden without making the essential actions accessible.",
+            "Prioritizing and checking the client’s explanation tests usable understanding.",
+            "A suitable visual or practical approach can reduce reliance on difficult written material.",
+            "A signature does not demonstrate that the client can follow the plan."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "48ec53b61d5d75b3125bdc7ccc8fea7a022d4664953bf1ac8a0c70e7b735915c"
+    },
+    {
+      "id": "health-09",
+      "status": "pass",
+      "assessment": "Noise reduction, facing the client and preferred supports improve access before judging comprehension; exaggerated speech and volume alone may not.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "87f8dd8baaedb2c0aed89d84e901523a60b944a91f424547b507cadeaedd1ae3"
+    },
+    {
+      "id": "health-10",
+      "status": "pass",
+      "assessment": "Marked lethargy plus oliguria is a meaningful paediatric deterioration pattern compared with preserved drinking, interaction and urine output.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9b40530a479d897cbc29116736504d6b3f62b329eca9938c479b1fd4c4cbd029"
+    },
+    {
+      "id": "health-11",
+      "status": "pass",
+      "assessment": "A new persistent breast lump needs diagnostic assessment independently of routine screening or a recent normal screen.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4bdb704327d6b6e772568b4bef06c3c54807aca7665ab9029c39d2e563564028"
+    },
+    {
+      "id": "health-12",
+      "status": "pass",
+      "assessment": "Severe headache, visual symptoms and upper abdominal pain at 32 weeks justify urgent maternity assessment without delaying for a pharmacy BP or rest trial.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "97711e660463c0cb045910963e168a09d1620c88c14ef00540cc5a0bce4a6658"
+    },
+    {
+      "id": "psychosocial-01",
+      "status": "pass",
+      "assessment": "Presence and an open invitation address the current emotion before information or comparison with another person’s recovery.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d37dbda19e636a15bfeda2758224db6438157c0062c34d5bdb1615ff0e98c91f"
+    },
+    {
+      "id": "psychosocial-02",
+      "status": "pass",
+      "assessment": "Hopelessness warrants direct suicide assessment including intent, plan and means; protective factors do not exclude current risk.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "dc5cc58026a1c05f140a3ec5b23b8237b2588a31cad5789db5ade32b3cfd06ed"
+    },
+    {
+      "id": "psychosocial-03",
+      "status": "pass",
+      "assessment": "A command to harm makes content, intent and immediate safety assessment the priority over history, distraction or reality statements alone.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5a406a6de9568ceb83c26258522ebc41b9fe0c01d1b2b9b683a5ea951ae44339"
+    },
+    {
+      "id": "psychosocial-04",
+      "status": "pass",
+      "assessment": "Acute distress and limited processing capacity justify calm short communication with physical safety assessment; paper-bag rebreathing is not an appropriate unassessed response.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7a04f1911d8ec6f2e6ea5acf161fe1abd0204adb3a9179efa36a62f31b4893a7"
+    },
+    {
+      "id": "psychosocial-05",
+      "status": "pass",
+      "assessment": "The reply avoids a fixed grief timetable and explores impact on function and support, making it clinically more useful than generic reassurance.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b788abce4370aa463faaf075ea80105266695cdcf380a3693316bc6bb4532610"
+    },
+    {
+      "id": "psychosocial-06",
+      "status": "pass",
+      "assessment": "The key acknowledges distress while maintaining reality; arguing broadcasting facts or accepting private messages would not provide equivalent support.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "200ce7403742d2760b476c8f1513882d767c65212b135a8b219952abeb626a2a"
+    },
+    {
+      "id": "psychosocial-07",
+      "status": "pass",
+      "assessment": "Calm choices, space and reduced stimulation are coherent de-escalation measures; crowding and simultaneous staff directions can increase perceived threat.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "19bdfa48dfb454488cd64efb0c91ff7a38555c1735c42fce536337d5300be607"
+    },
+    {
+      "id": "psychosocial-08",
+      "status": "pass",
+      "assessment": "Abrupt alcohol cessation with tremor, sweating and agitation calls for prompt withdrawal assessment and protocol-directed escalation even without prior seizures.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "64b08a7ea33e52f5df8bfcba009587874a21f5a03a25a828d6b91fc5c5c58291"
+    },
+    {
+      "id": "psychosocial-09",
+      "status": "pass",
+      "assessment": "Permission, privacy and reasonable choices apply without requiring a trauma narrative; an admission signature does not override a request to pause.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "21721f35713416ef8475dd56dd5f17173084c271d18475f1a0983cb6f7e4a352"
+    },
+    {
+      "id": "psychosocial-10",
+      "status": "pass",
+      "assessment": "Repeated requests to go home may express distress or unmet needs; familiar comfort is preferable to repeated factual correction or a false promise.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1652b5bda5b5760806f23f4e9d8bf1b5a43ebdee79824ad839feddf8bae583d4"
+    },
+    {
+      "id": "psychosocial-11",
+      "status": "pass",
+      "assessment": "An expensive gift contingent on extra attention creates a clear boundary concern; documentation or delayed acceptance does not remove it.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b07091dfa154edcb77a2e0349465b66c9e8c8347195f9f1904f523d3685b4b47"
+    },
+    {
+      "id": "psychosocial-12",
+      "status": "pass",
+      "assessment": "A safe routine private conversation permits assessment without confronting the partner or exposing help-seeking through visible materials.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "98c0c5035f6be8d7e7be086958e0a191d79ce38abae318dcb0c2923092401482"
+    },
+    {
+      "id": "basic-01",
+      "status": "pass",
+      "assessment": "Post-stroke repeated cough and wet voice during drinking justify stopping oral exposure and reassessing rather than independently choosing a new consistency.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3e9ddb2eb3ea9b09ec593e79cd3cab352fb2f8dc456f54b29dd781438d990361"
+    },
+    {
+      "id": "basic-02",
+      "status": "pass",
+      "assessment": "The immobility, incontinence and low intake cues support individualized pressure, moisture and nutrition measures; neither massage nor a mattress alone is sufficient.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "773e122d58a609177eecd67b73918dbdf4273ac08866b377f47909773a4f4bd7"
+    },
+    {
+      "id": "basic-03",
+      "status": "pass",
+      "assessment": "The foundational independence objective is clear: preserve demonstrated upper-body ability while assisting the lower-body task that is not manageable.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c722ac49afc6ec4e2421c24511d2fd04818a0865118afef64a6d8e9e5fd5049c"
+    },
+    {
+      "id": "basic-04",
+      "status": "pass",
+      "assessment": "A calm appearance does not negate an alert client’s pain report; location, quality, function and associated findings complete the assessment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3834b454425f86e0eaa2fce4692331f12e95e61bb42d9e973ea5a1fc19db1c24"
+    },
+    {
+      "id": "basic-05",
+      "status": "pass",
+      "assessment": "Pain relief, function and adverse effects should be evaluated at a route-appropriate interval; satisfaction or a later dose time alone is insufficient.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "42d61d23ac5ac3327854b0ce0554c51f727ee736221c2f18a031f91913eddf79"
+    },
+    {
+      "id": "basic-06",
+      "status": "pass",
+      "assessment": "The stated absence of fluid/diet restrictions supports suitable fluids, fibre, activity and toileting, with rationales preserving individual tolerance.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d908f4729afac3e53cd914f9b8003f00bd38d8a3b8bb3764d055b2fb1caefc27"
+    },
+    {
+      "id": "basic-07",
+      "status": "pass",
+      "assessment": "Dependent closed unobstructed drainage is correctly selected; routine disconnection or clamping introduces avoidable contamination or flow problems.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "11a6b52160535470fbb5eb45e7c47569b795974875679a4b2e8e0582a402b897"
+    },
+    {
+      "id": "basic-08",
+      "status": "pass",
+      "assessment": "Unreliable weight bearing requires an assessed lift/assistance plan; additional people or yesterday’s pivot method does not establish safety now.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2186648bd8e7d9f94c940e3374bdc8c79777ac3adb3c0f44f4c31fe393dd4eeb"
+    },
+    {
+      "id": "basic-09",
+      "status": "pass",
+      "assessment": "Avoidable disruption is a specific modifiable cause; suitable care clustering preserves necessary monitoring and preferences.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ff82f2194c7cb258010ebf2038bab44b1457ea5b8a328336b607393242e4c8e5"
+    },
+    {
+      "id": "basic-10",
+      "status": "pass",
+      "assessment": "Reduced alertness calls for airway-aware positioning and suction-assisted protocol care; oral hygiene is still needed with controlled fluid exposure.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5889eeccbfce14081401742496d3161f2901fb2c6533fc24bffae92c550ccf97"
+    },
+    {
+      "id": "basic-11",
+      "status": "pass",
+      "assessment": "Fatigue and low appetite warrant individualized assessment and nutrient-dense small meals; scheduling exertion immediately beforehand may worsen intake.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e953685d93d493804373bc2889873bad0f6fd2036d62e3de56613bb383c7a6ce"
+    },
+    {
+      "id": "basic-12",
+      "status": "pass",
+      "assessment": "Unsafe swallowing at end of life makes gentle mouth and lip care appropriate; oral fluid targets or IV fluid do not substitute for direct comfort care.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6a34fab7a9fe0a4e0a2558c0c5c0e64b731bfeb065dd92d0c3b4561bb2cd54b6"
+    },
+    {
+      "id": "pharmacology-01",
+      "status": "pass",
+      "assessment": "Conflicting home/admission lists require clarification before uncertain administration; neither source can be assumed to represent the intended current regimen.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e37303534fbb6b1a60c6c2283339ea0a40a7e940cd6f71ce101f61af3c2e82e0"
+    },
+    {
+      "id": "pharmacology-02",
+      "status": "pass",
+      "assessment": "A delayed meal changes mealtime insulin coordination; the key keeps glucose assessment, carbohydrate availability and the actual prescription linked.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d8d64f56e71a1da52fb16f3da62770e094387fd935a044b49a3017c17280c17c"
+    },
+    {
+      "id": "pharmacology-03",
+      "status": "pass",
+      "assessment": "Consistent vitaminK intake and INR follow-up are appropriate; complete avoidance and unsupervised dose adjustment are recognizable misconceptions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "285ce78a202ce46e844457dcc2c52a8c2fd8c9bfd02073ed30d746342fe4b882"
+    },
+    {
+      "id": "pharmacology-04",
+      "status": "pass",
+      "assessment": "Reduced arousability and slow shallow respirations after opioid indicate an immediate ventilation problem requiring urgent help and authorized reversal.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "075871940ce9ea4e22c1ae36b2e0a2be393f5a4ec51654cb2557b8e2804b286c"
+    },
+    {
+      "id": "pharmacology-05",
+      "status": "pass",
+      "assessment": "Concentrated potassium by direct IV push is an unsafe route regardless of slow speed, double check or low serum level; clarify before administration.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "422de38a6eef33186b733d71b854b1858371fd884389ef57757c8c5effe6b2ca"
+    },
+    {
+      "id": "pharmacology-06",
+      "status": "revise",
+      "assessment": "The emergency key is clinically correct but markedly longer than all competitors. Move already-completed stopping/calling into the stem and compare plausible anaphylaxis medicines to test first-line treatment.",
+      "issues": [
+        "Move already-completed emergency steps into the stem and compare plausible first-line/adjunct medicines to remove the longest-answer cue."
+      ],
+      "proposedChanges": [
+        {
+          "stem": "Soon after an IV antibiotic begins, a client develops wheezing, facial swelling and hypotension. The infusion has been stopped and emergency help summoned. Which medicine should the nurse give first under the authorized anaphylaxis protocol?",
+          "options": [
+            "The protocol antihistamine for the facial swelling",
+            "Intramuscular epinephrine for the systemic reaction",
+            "The protocol inhaled bronchodilator for wheezing",
+            "The protocol corticosteroid for the allergic response"
+          ],
+          "why": [
+            "An antihistamine does not treat life-threatening airway swelling or shock and should not delay epinephrine.",
+            "Prompt IM epinephrine is first-line treatment for anaphylaxis; continue airway/circulatory support and emergency care.",
+            "A bronchodilator may be an adjunct for bronchospasm but does not replace epinephrine for multisystem anaphylaxis.",
+            "Corticosteroids do not provide the rapid first-line reversal needed for this acute respiratory and circulatory reaction."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "0943435e4436af996acf29adc22d8c2de55e84e7b02e5649b56c244ca141fb07"
+    },
+    {
+      "id": "pharmacology-07",
+      "status": "pass",
+      "assessment": "Missing dose, allergy conflict and unclear route are genuine unresolved administration checks; verified complete information does not itself need clarification.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6e073f5961d7dc89b0c19a1931046ba50b318c908a7b2e4039c910b99e6d010e"
+    },
+    {
+      "id": "pharmacology-08",
+      "status": "pass",
+      "assessment": "Cool swelling during nonvesicant infusion supports stopping exposure and protocol-based site assessment; a pump without an alarm does not exclude infiltration.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6ef7b37963449ce96b2dfbd1d672fd47b9c757904b218e21dc0f5477cbbd7255"
+    },
+    {
+      "id": "pharmacology-09",
+      "status": "pass",
+      "assessment": "This is useful foundational notation:0.5 mg has the required leading zero and no unnecessary trailing zero; all alternatives encode a decimal-safety error.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "aec76c69affdba947c0045f4fb78c71eab84a08997dab3f553b8921142d60edf"
+    },
+    {
+      "id": "pharmacology-10",
+      "status": "pass",
+      "assessment": "Extended-release manipulation is product-specific; the key appropriately seeks a verified alternative and avoids an unsupported blanket substitution.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2a2fba170786c63f584383ece59672735fe392a6877ce24793fe95206d084985"
+    },
+    {
+      "id": "pharmacology-11",
+      "status": "revise",
+      "assessment": "Potassium is the relevant loop-diuretic risk, but ALT/INR/A 1 c barely compete in this scenario. Use renal/electrolyte and anaemia measurements with specific rationales.",
+      "issues": [
+        "The original competing tests are unrelated to the immediate diuretic assessment; use realistic laboratory alternatives."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Serum potassium",
+            "Serum sodium",
+            "Serum creatinine",
+            "Hemoglobin"
+          ],
+          "why": [
+            "Loop-diuretic potassium loss can directly contribute to both weakness and dysrhythmia, making this a priority result alongside clinical assessment.",
+            "Sodium is relevant to fluid/electrolyte assessment but is less directly linked than potassium to the new palpitation pattern.",
+            "Renal function helps evaluate treatment tolerance, but potassium more directly addresses a potential electrolyte-related rhythm problem.",
+            "Anaemia can cause weakness and palpitations, but the loop-diuretic exposure specifically raises concern for potassium depletion."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "c26f72a1ad7da130bfea2e7c8c8b7bbf301ff66d28f2fe5d5c630de774bde3b5"
+    },
+    {
+      "id": "pharmacology-12",
+      "status": "pass",
+      "assessment": "Home teaching covers purpose, schedule, adverse effects and interaction review; signatures and prescription-only histories miss usable understanding and OTC exposure.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4549a997324bb474e281a8c76892e4aa3b5b17d2f078d59da82ca6e5da0d8e14"
+    },
+    {
+      "id": "risk-01",
+      "status": "pass",
+      "assessment": "The exhibit coherently combines tachycardia, hypotension and oliguria; the key responds to perfusion deterioration instead of treating one measure in isolation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "28ef090b865bf35a2647da4740232776b9f6c4ccde71e753edc30f384e973d7c"
+    },
+    {
+      "id": "risk-02",
+      "status": "revise",
+      "assessment": "Potassium 6.4 warrants urgent assessment/ECG and situational monitoring. The current key is much longer than every alternative; shorten it while preserving conditional monitoring and use plausible competing verification/medication steps.",
+      "issues": [
+        "The key has a pronounced length/completeness cue; preserve urgent ECG and context-dependent monitoring in a shorter parallel response."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Repeat the sample and await confirmation before requesting a cardiac assessment",
+            "Assess, notify the clinician and arrange urgent ECG and monitoring as indicated",
+            "Review potassium intake and the next supplement dose before deciding on urgency",
+            "Obtain routine observations and use the next scheduled sample to evaluate the trend"
+          ],
+          "why": [
+            "Possible pseudohyperkalaemia can be investigated while prompt assessment and notification proceed; it must not delay care.",
+            "A potassium of 6.4 mmol/L needs urgent assessment and ECG; ongoing monitoring depends on the clinical findings, trend and protocol.",
+            "Medication and intake review may contribute to management but do not replace urgent assessment of this value.",
+            "Routine delayed follow-up is inadequate for a potentially dangerous potassium elevation."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "0c3539dc390fe77aa953740f84351c05234449d0f04bcbc846ea96ff05930e7c"
+    },
+    {
+      "id": "risk-03",
+      "status": "pass",
+      "assessment": "The unwitnessed fall needs threat/injury assessment before routine lifting, with the explicit environmental-danger exception preserved.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f86a193f1ee94d35e3c54b9438341fc88a8c35f9f8cf778e77ffd815c526c74f"
+    },
+    {
+      "id": "risk-04",
+      "status": "pass",
+      "assessment": "Prescribed respiratory exercises, safe early mobility and analgesia address preventable postoperative complications; no-pain bed rest is not a universal prerequisite.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9a197b7b4a6f874ccf8864980f7ea152b5c7badd1b63018a7f228c814b7d7513"
+    },
+    {
+      "id": "risk-05",
+      "status": "pass",
+      "assessment": "Worsening cast pain despite analgesia with numb toes warrants urgent neurovascular assessment/review rather than waiting for another comfort trial.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0ac39127e83d0e2602c6d8e9be18e90a712ec4d0e42f6eb72ffae0a0ca74498e"
+    },
+    {
+      "id": "risk-06",
+      "status": "pass",
+      "assessment": "A expressed lack of understanding before a nonurgent procedure requires consent clarification before sedation or further paperwork.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5b87e29b84b5b3e547025dd9601cff7a94f3b4796253c746f7b240007ff42044"
+    },
+    {
+      "id": "risk-07",
+      "status": "pass",
+      "assessment": "Anticoagulation plus head impact and worsening headache needs urgent assessment; INR and visible bruising cannot safely exclude intracranial bleeding.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3cd69d2df5b48e5fac2cddf60fd0d4041374b94de9e5f49dcbb92c6ef84e85d5"
+    },
+    {
+      "id": "risk-08",
+      "status": "pass",
+      "assessment": "The positive keys provide convergent fluid accumulation trends; the alternatives describe depletion or isolated nonspecific observations.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8f180fca96e90794508049b9162d1f888d891b6e040e3c2a6395fc942088dfad"
+    },
+    {
+      "id": "risk-09",
+      "status": "pass",
+      "assessment": "Spreading local inflammatory signs with purulent drainage require systemic assessment and prompt communication rather than waiting for culture.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "dc020873b62141224e2563acf7f6922805f2fe1870ff84cf02ff9ae5149dba35"
+    },
+    {
+      "id": "risk-10",
+      "status": "pass",
+      "assessment": "Chills, back pain and dyspnoea shortly after transfusion justify immediate cessation and reaction-protocol activation while assessing the client.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f49e88d490897989a4a5196615b651cc793cc14de2512ea1fb7824e7a2c51766"
+    },
+    {
+      "id": "risk-11",
+      "status": "pass",
+      "assessment": "Last-known-well time has a distinct time-sensitive role; it may precede recognition or documentation and should be sought while help is activated.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d1c9c6f4878daaab3d8b5f82cf50e69fdc4064284a2f0ef59045d328bbb677e7"
+    },
+    {
+      "id": "risk-12",
+      "status": "revise",
+      "assessment": "The key safely combines client assessment and signal verification, but its length and the alternatives’ declared omissions give it away. Comparable actions can retain urgent response to 82 percent without treating an alert appearance as reassuring.",
+      "issues": [
+        "The current correct option is much longer and the others explicitly omit assessment; use parallel plausible actions."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Warm the hand and repeat the reading at the next routine observation round",
+            "Apply prescribed oxygen and judge response from whether the client appears more comfortable",
+            "Assess immediately and verify a reliable signal while arranging support as indicated",
+            "Increase the long-term oxygen prescription on the basis of the initial saturation"
+          ],
+          "why": [
+            "A reading of 82 percent needs immediate assessment and verification rather than a routine delay.",
+            "Comfortable appearance does not establish adequate oxygenation; verify the measurement and clinical response.",
+            "Cold-site poor perfusion can distort a reading, but severe true hypoxaemia must be addressed promptly even when distress is not obvious.",
+            "An isolated potentially unreliable value does not authorize an unsupported long-term prescription change."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "66ae0571ad30547b365534c2699fb683c4248253f9b16628d6862c572a4e2c44"
+    },
+    {
+      "id": "adaptation-01",
+      "status": "pass",
+      "assessment": "Adult mild symptoms, glucose 3.5 and safe swallowing support 15 g fast carbohydrate with 15-minute reassessment; the exact dose is supported by DiabetesCanada.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "16b9ff8617efd025e82c1b275a87e64bd55daf72b9c5889849a71ad7b423b3db"
+    },
+    {
+      "id": "adaptation-02",
+      "status": "pass",
+      "assessment": "During tonic-clonic seizure, injury protection, timing and protocol airway support are appropriate; forceful restraint or mouth insertion are recognized harmful errors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "20ca17df2fd0d77993ff457cc643908462702753be05399f3ddf46d3e7df89cb"
+    },
+    {
+      "id": "adaptation-03",
+      "status": "pass",
+      "assessment": "Suspected infection with confusion, tachypnoea and 84/48 pressure signals urgent organ/circulatory compromise without waiting for cultures.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f8dfce2e17612bdf16a774c17fff421787e6a301b8a8c6b97169e477eb1e771c"
+    },
+    {
+      "id": "adaptation-04",
+      "status": "pass",
+      "assessment": "Crushing chest discomfort with sweating and dyspnoea warrants immediate pathway activation; antacid response or absent risk factors cannot safely exclude emergency disease.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "32293da0aae1b407f1cc400039c71da9c2e4dd59a8d35d52b34fb844fd08fc83"
+    },
+    {
+      "id": "adaptation-05",
+      "status": "pass",
+      "assessment": "No definite pulse within 10 seconds with gasping meets healthcare-provider CPR action criteria; current 2025 AHA guidance supports prompt CPR and AED.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3efb917b3806b49f8307b8faa646128b4b25ece459d4ba96970dfd1de338f727"
+    },
+    {
+      "id": "adaptation-06",
+      "status": "pass",
+      "assessment": "Severe supine dyspnoea with pink frothy sputum supports urgent respiratory/circulatory response and tolerated positioning rather than unassessed fluid or delayed oral treatment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e0ba76a347d70eaa9aa7691051f7ecff6bb9327000e32f3ea9551b377128876d"
+    },
+    {
+      "id": "adaptation-07",
+      "status": "pass",
+      "assessment": "Sudden postoperative dyspnoea, pleuritic pain and tachycardia warrants urgent assessment/support and reduced exertion; the key does not prematurely diagnose PE.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9e1568cf9d5a454e9140398b9181d7c3aa5012c027b232967f6ac9cf393ef004"
+    },
+    {
+      "id": "adaptation-08",
+      "status": "pass",
+      "assessment": "Rapid postpartum loss with pallor/dizziness makes emergency activation and circulatory support prior to quantification, bladder work or old lab review.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "50e32f59efd381b97ea219b2a45ab3b59767d505de5a8da75cd344a3053068bb"
+    },
+    {
+      "id": "adaptation-09",
+      "status": "pass",
+      "assessment": "The revised 2025 AHA choking sequence is correct for the explicitly responsive nonpregnant adult whose abdomen can be encircled; switch to CPR if unresponsive.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5d67873c1d82261cb66852bb1883b60deea73ca09bc14e2ddbed0c65b3ad5312"
+    },
+    {
+      "id": "adaptation-10",
+      "status": "pass",
+      "assessment": "Oliguria, postural tachycardia and hypotensive weakness are appropriate clusters; isolated mild dryness or a normal pressure do not establish significant depletion.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "834229d7fcebc2dc8a44ed8cae5f1e58b21e5a80e5c4f5d9f7400231457e84d1"
+    },
+    {
+      "id": "adaptation-11",
+      "status": "pass",
+      "assessment": "Unresponsiveness with glucose 2.1 makes oral/buccal treatment unsafe; urgent nonoral authorized treatment and airway support are appropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "878b4345703c0c15970f09095a9a0c18356a541727ddcbd9ad4ace1adf1ec10f"
+    },
+    {
+      "id": "adaptation-12",
+      "status": "pass",
+      "assessment": "Speech-limiting breathlessness, accessory use and new confusion are meaningful deterioration signs, distinct from baseline exertion recovery and normal effort.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f1229efded08629880cee86afbcc0d1b76ffe48dc369838987d5116e4fbd76f9"
+    },
+    {
+      "id": "management-13",
+      "status": "pass",
+      "assessment": "Anticoagulation plus head trauma and severe headache/vomiting establishes urgent risk relative to stable COPD, education and planned analgesia.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2d4101e36961ecefd487798cb6cadc693f51ded0ee056422bcc9a6343a3f9cf9"
+    },
+    {
+      "id": "management-14",
+      "status": "pass",
+      "assessment": "A previously safe assignment needs reassessment after new weakness and near-fall; staff experience does not resolve changed client capacity.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d638a1ef5d775211c541249aa8dceafedf62acfa5c23b3e6dfc7744eaa7b376f"
+    },
+    {
+      "id": "management-15",
+      "status": "pass",
+      "assessment": "Continuing deterioration after an inadequate initial response justifies active support and escalation rather than asynchronous routine follow-up.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ee86966a4085b65487be80c8b430332822f43acc6ca2fb6267a1ff52180879ce"
+    },
+    {
+      "id": "management-16",
+      "status": "pass",
+      "assessment": "The capable client’s refusal is treatment-specific; family preference does not authorize transfusion or justify withholding accepted symptom care.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9af19d2f56eaebedfdc73377542117e13e909059c61f3553dab87b2c2fe8ec4d"
+    },
+    {
+      "id": "management-17",
+      "status": "revise",
+      "assessment": "The key records pain change and current safety, but it is much longer and more factual than every alternative. Comparable realistic notes would test documentation judgment more fairly.",
+      "issues": [
+        "The key is uniquely detailed and much longer; use comparable notes and make the safety objective explicit."
+      ],
+      "proposedChanges": [
+        {
+          "stem": "Which progress note most clearly communicates both analgesic response and current safety after an IV analgesic?",
+          "options": [
+            "Thirty minutes after IV analgesic, client resting with eyes closed; pulse 84/min and BP 124/72 mm Hg; no further medicine requested",
+            "Thirty minutes after IV analgesic, client reports pain 3/10; temperature 36.8°C and dressing dry; plans to walk after lunch",
+            "Thirty minutes after IV analgesic, client reports pain decreased from 8/10 to 3/10; alert, respirations 16/min",
+            "Before IV analgesic, pain 8/10, alert and respirations 16/min; thirty minutes later, reports pain 3/10 and is sleeping"
+          ],
+          "why": [
+            "Resting and absence of a request do not directly quantify pain relief or establish current arousability and respiratory status.",
+            "The current pain report is useful, but wound and temperature findings do not provide the relevant sedation/respiratory reassessment.",
+            "This links the intervention interval to reported change and current alertness and respirations.",
+            "The earlier safety findings do not establish current respiratory status or whether the sleeping client is readily arousable."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "5bdc3ce6a1ac844ecfcab21916044575d7aecd760a0896324e3456145574d1fb"
+    },
+    {
+      "id": "management-18",
+      "status": "pass",
+      "assessment": "The correct response preserves ongoing voluntary consent; booking, paperwork and opened equipment do not make it irrevocable.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "141cfaea77900b7d1188af43e9b6f8f063510bb3c93e239d3a6e4cc18227d894"
+    },
+    {
+      "id": "management-19",
+      "status": "pass",
+      "assessment": "An unclear telephone dose must be verified with the prescriber and full read-back under policy, not inferred from recollection.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "169c1b80a966a732512eb57c6b3319984d63a6447b4cc22c7d50abb4caf7fc1c"
+    },
+    {
+      "id": "management-20",
+      "status": "pass",
+      "assessment": "Alert available clients direct disclosure permissions; normal results, transport assistance and emergency-contact listing do not establish consent.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3025236d96fe6de884af8f13e00e211f90c1625bcaa043585805fd11ce57ba1f"
+    },
+    {
+      "id": "pharmacology-13",
+      "status": "pass",
+      "assessment": "Independently recomputed 0.25 mg ÷0.5 mg/tablet=0.5 tablet. The verified order and approved splitting keep arithmetic distinct from prescribing decisions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ab84c54055b6d1bd307b623d6497f534049d014f648d2eed8c9c9e5fc9c3c075"
+    },
+    {
+      "id": "pharmacology-14",
+      "status": "pass",
+      "assessment": "Independently recomputed 45 mg/kg/day ×20 kg ÷3=300 mg/dose. CPS supports this three-dose regimen and five days for uncomplicated disease in most children aged≥2 years.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "246aefca6714801423519ce54554bd3d86211af0ec3708a97206a0e25504172d"
+    },
+    {
+      "id": "pharmacology-15",
+      "status": "pass",
+      "assessment": "Pulse 48 with dizziness meets the explicit hold parameter below 55; withhold, assess and report rather than inventing a half dose.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4f13fa83a11f539bcae85f3d8a09d4a571f954de47bb598481eab15ac0de25bc"
+    },
+    {
+      "id": "pharmacology-16",
+      "status": "pass",
+      "assessment": "Suspected vesicant extravasation requires stopping, avoiding flush and retaining access initially for agent-specific management; heat choice cannot be assumed for all agents.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2266d8ed0203e82a1d20de2aecafe07f68efa8b0eb77dca7b38c7ccd1d73199e"
+    },
+    {
+      "id": "safety-13",
+      "status": "pass",
+      "assessment": "Anticipated wound-irrigation splash warrants appropriate clothing and face/eye barriers; ordinary spectacles or a mask alone leave exposure routes.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e0e9ddef3bb0d4dd5890441b019f38ce182ea5671a4cf5a75fc4c56870da2461"
+    },
+    {
+      "id": "safety-14",
+      "status": "revise",
+      "assessment": "The toileting-plan key is sound, but removing a walking aid and documenting noncompliance are giveaway alternatives. Use plausible plans that fail to match urgent timing or access.",
+      "issues": [
+        "Removing an aid and documenting noncompliance are giveaway distractors; compare plausible prevention plans."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Repeat call-bell practice and add a reminder sign beside the bed",
+            "Assess toileting patterns and arrange timely assistance with accessible equipment",
+            "Add a bed-exit alarm and keep the existing assistance schedule",
+            "Offer a larger absorbent product and continue toileting at the established round times"
+          ],
+          "why": [
+            "The client already understands the call bell; more reminders do not address urgency or the timing of assistance.",
+            "The revised plan targets the activity and access problem that led to getting up alone.",
+            "An alarm may alert staff after movement begins but does not resolve predictable urgency or equipment access.",
+            "Containment may be useful, but it does not replace timely toileting assistance for the identified urgent need."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "b4161f02c618e946e86fe75f5df6263d3b457a3e6f80450c17a984ed42946112"
+    },
+    {
+      "id": "health-13",
+      "status": "pass",
+      "assessment": "The named prescribed fluticasone/salbutamol regimen makes controller/reliever teaching specific and avoids claiming all inhaler plans use identical roles.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "35ae058f72d9a6fc225e2a02687402238ebebc553357225573622b93dee83637"
+    },
+    {
+      "id": "health-14",
+      "status": "pass",
+      "assessment": "Incorrect cuff fit and immediately post-exertion readings undermine measurement quality; averaging or selectively retaining values does not correct that bias.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "565503cc3fe377371f75b99dc53c63d1fcc75953e5b6a17da35dc4605379c90d"
+    },
+    {
+      "id": "psychosocial-13",
+      "status": "pass",
+      "assessment": "An imminent plan with collected pills needs immediate protective support and continued presence; a promise or later call does not establish safety.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6736b2f3bb8cb6d5c6b321c071f1452ec3d9f6d31ce64b755e29223c1737019c"
+    },
+    {
+      "id": "psychosocial-14",
+      "status": "pass",
+      "assessment": "Acute fluctuating inattention over stable dementia supports assessment for delirium and reversible contributors rather than diagnostic overshadowing.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "cee9942e494750eb931daab604a3d6922c14783ac6aea3f120f73b9787648f2b"
+    },
+    {
+      "id": "basic-13",
+      "status": "revise",
+      "assessment": "The key appropriately links analgesia and function, but cancel-all and insist-before-analgesia choices are conspicuous extremes. Use credible alternatives about substituting exercises, shortening walking or inferring function from relief.",
+      "issues": [
+        "All-or-nothing activity and analgesia distractors are too obvious; compare realistic approaches to the unmet functional goal."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Substitute bed exercises for today’s walking session and retain the same pain plan",
+            "Assess the barriers, provide prescribed relief and reassess graded walking with the client",
+            "Shorten the walking distance and attempt it before the prescribed analgesic takes effect",
+            "Give the prescribed analgesic and record the mobility goal as achieved if pain improves"
+          ],
+          "why": [
+            "Bed exercises may be appropriate temporarily, but automatically substituting them leaves the modifiable pain barrier and walking goal unresolved.",
+            "This addresses the limiting symptom, respects participation and evaluates what activity becomes safely achievable.",
+            "A shorter distance may help, but attempting it before agreed relief is effective does not address the reason for refusal.",
+            "Improved pain is not proof that safe walking or the functional goal has been achieved."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "e806a9a4e726eff21b88b8acd09990e79aa31b2b5f73f2f56ecc1f60d1563e8f"
+    },
+    {
+      "id": "basic-14",
+      "status": "pass",
+      "assessment": "Persistent nonblanching sacral redness warrants offloading and prevention-plan reassessment; the takeaway appropriately notes assessment beyond colour in darker skin.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "989915aaf44a29eb4fb05aa47abc7864227b641616164fd8fa29efd73f4434f0"
+    },
+    {
+      "id": "risk-13",
+      "status": "pass",
+      "assessment": "New resting dyspnoea below the prescribed oxygen target outranks stable baseline swelling, weight and meal teaching.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6aaddc2ee320ca4d02abcaaa845779716f58f0d11785a0b811bc345b22663469"
+    },
+    {
+      "id": "risk-14",
+      "status": "pass",
+      "assessment": "Melena with dizziness on anticoagulation requires immediate circulation assessment and escalation; iron use and scheduled tests cannot dismiss it.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f44997bd0b21f88d2afe262dca03e4a6c18e93fb02c6d30ecdb9a9c4e2136030"
+    },
+    {
+      "id": "adaptation-13",
+      "status": "pass",
+      "assessment": "Loss of safe swallowing during preparation invalidates the oral route and requires the authorized nonoral emergency pathway without delay.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6c8f4928ef8088f679314064a50bf8a43a27dd7f178d3a7a43f5f460c8610287"
+    },
+    {
+      "id": "adaptation-14",
+      "status": "pass",
+      "assessment": "New acute dyspnoea supersedes routine oral medication administration; prompt airway/breathing/circulation assessment and help are warranted.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "78af75ed4be569d5847aae869cb00dabe4ecc5c2fd6b1005417d010bdc6aebcc"
+    }
+  ]
+}

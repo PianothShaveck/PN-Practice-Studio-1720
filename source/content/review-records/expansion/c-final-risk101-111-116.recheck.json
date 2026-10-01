@@ -1,0 +1,75 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:45:48.074751+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/risk-101-125.json",
+  "sourceSha256": "8bd1325506f547eaf082bb96113645379bd9616866a3d61fdc57a7a0e9f83033",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 3,
+    "reviewedIds": [
+      "x-risk-101",
+      "x-risk-111",
+      "x-risk-116"
+    ],
+    "unreviewedIds": [
+      "x-risk-102",
+      "x-risk-103",
+      "x-risk-104",
+      "x-risk-105",
+      "x-risk-106",
+      "x-risk-107",
+      "x-risk-108",
+      "x-risk-109",
+      "x-risk-110",
+      "x-risk-112",
+      "x-risk-113",
+      "x-risk-114",
+      "x-risk-115",
+      "x-risk-117",
+      "x-risk-118",
+      "x-risk-119",
+      "x-risk-120",
+      "x-risk-121",
+      "x-risk-122",
+      "x-risk-123",
+      "x-risk-124",
+      "x-risk-125"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-risk-101",
+      "status": "pass",
+      "assessment": "Current item reread: stable noisy tracing with poor electrode contact warrants patient/contact assessment. ECG-specific reference now accompanies focused assessment; no treatment should rest on an unverified artefact.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7e3be58417bf91cef78c63b13834329250bccda622e021a3cc1963e4e25ef747"
+    },
+    {
+      "id": "x-risk-111",
+      "status": "pass",
+      "assessment": "Current item reread: keep urine/water out of stool culture and avoid attempts to undo contamination. New fecal-culture reference was independently retrieved and directly states separation requirements.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "65b7c79f4323113c2c40dd16b90ecaf77f75a4f781e4fc1aece26bb9f8886fbc"
+    },
+    {
+      "id": "x-risk-116",
+      "status": "pass",
+      "assessment": "Current item reread: personal best/action-plan zones are the correct individualized comparison. Peak-flow-specific source replaces generic assessment; predicted value and exacerbation average are meaningful but different references.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9c5f048d3e78761bba81fd528eab020f4d8ce064b1708e0afbb19a1d82cd5d20"
+    }
+  ],
+  "reviewerTask": "/root/review_legacy"
+}

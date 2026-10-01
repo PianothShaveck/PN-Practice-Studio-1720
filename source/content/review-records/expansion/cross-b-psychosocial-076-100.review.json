@@ -1,0 +1,543 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T18:18:28.259979+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/cross-b-psychosocial-all.json",
+  "sourceSha256": "fa2be5061cbaf86ead0e0a6b4411bad15e0bef679829126b644cd50009a7bee6",
+  "coverage": {
+    "sourceItems": 200,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-psychosocial-076",
+      "x-psychosocial-077",
+      "x-psychosocial-078",
+      "x-psychosocial-079",
+      "x-psychosocial-080",
+      "x-psychosocial-081",
+      "x-psychosocial-082",
+      "x-psychosocial-083",
+      "x-psychosocial-084",
+      "x-psychosocial-085",
+      "x-psychosocial-086",
+      "x-psychosocial-087",
+      "x-psychosocial-088",
+      "x-psychosocial-089",
+      "x-psychosocial-090",
+      "x-psychosocial-091",
+      "x-psychosocial-092",
+      "x-psychosocial-093",
+      "x-psychosocial-094",
+      "x-psychosocial-095",
+      "x-psychosocial-096",
+      "x-psychosocial-097",
+      "x-psychosocial-098",
+      "x-psychosocial-099",
+      "x-psychosocial-100"
+    ],
+    "unreviewedIds": [
+      "x-psychosocial-001",
+      "x-psychosocial-002",
+      "x-psychosocial-003",
+      "x-psychosocial-004",
+      "x-psychosocial-005",
+      "x-psychosocial-006",
+      "x-psychosocial-007",
+      "x-psychosocial-008",
+      "x-psychosocial-009",
+      "x-psychosocial-010",
+      "x-psychosocial-011",
+      "x-psychosocial-012",
+      "x-psychosocial-013",
+      "x-psychosocial-014",
+      "x-psychosocial-015",
+      "x-psychosocial-016",
+      "x-psychosocial-017",
+      "x-psychosocial-018",
+      "x-psychosocial-019",
+      "x-psychosocial-020",
+      "x-psychosocial-021",
+      "x-psychosocial-022",
+      "x-psychosocial-023",
+      "x-psychosocial-024",
+      "x-psychosocial-025",
+      "x-psychosocial-026",
+      "x-psychosocial-027",
+      "x-psychosocial-028",
+      "x-psychosocial-029",
+      "x-psychosocial-030",
+      "x-psychosocial-031",
+      "x-psychosocial-032",
+      "x-psychosocial-033",
+      "x-psychosocial-034",
+      "x-psychosocial-035",
+      "x-psychosocial-036",
+      "x-psychosocial-037",
+      "x-psychosocial-038",
+      "x-psychosocial-039",
+      "x-psychosocial-040",
+      "x-psychosocial-041",
+      "x-psychosocial-042",
+      "x-psychosocial-043",
+      "x-psychosocial-044",
+      "x-psychosocial-045",
+      "x-psychosocial-046",
+      "x-psychosocial-047",
+      "x-psychosocial-048",
+      "x-psychosocial-049",
+      "x-psychosocial-050",
+      "x-psychosocial-051",
+      "x-psychosocial-052",
+      "x-psychosocial-053",
+      "x-psychosocial-054",
+      "x-psychosocial-055",
+      "x-psychosocial-056",
+      "x-psychosocial-057",
+      "x-psychosocial-058",
+      "x-psychosocial-059",
+      "x-psychosocial-060",
+      "x-psychosocial-061",
+      "x-psychosocial-062",
+      "x-psychosocial-063",
+      "x-psychosocial-064",
+      "x-psychosocial-065",
+      "x-psychosocial-066",
+      "x-psychosocial-067",
+      "x-psychosocial-068",
+      "x-psychosocial-069",
+      "x-psychosocial-070",
+      "x-psychosocial-071",
+      "x-psychosocial-072",
+      "x-psychosocial-073",
+      "x-psychosocial-074",
+      "x-psychosocial-075",
+      "x-psychosocial-101",
+      "x-psychosocial-102",
+      "x-psychosocial-103",
+      "x-psychosocial-104",
+      "x-psychosocial-105",
+      "x-psychosocial-106",
+      "x-psychosocial-107",
+      "x-psychosocial-108",
+      "x-psychosocial-109",
+      "x-psychosocial-110",
+      "x-psychosocial-111",
+      "x-psychosocial-112",
+      "x-psychosocial-113",
+      "x-psychosocial-114",
+      "x-psychosocial-115",
+      "x-psychosocial-116",
+      "x-psychosocial-117",
+      "x-psychosocial-118",
+      "x-psychosocial-119",
+      "x-psychosocial-120",
+      "x-psychosocial-121",
+      "x-psychosocial-122",
+      "x-psychosocial-123",
+      "x-psychosocial-124",
+      "x-psychosocial-125",
+      "x-psychosocial-126",
+      "x-psychosocial-127",
+      "x-psychosocial-128",
+      "x-psychosocial-129",
+      "x-psychosocial-130",
+      "x-psychosocial-131",
+      "x-psychosocial-132",
+      "x-psychosocial-133",
+      "x-psychosocial-134",
+      "x-psychosocial-135",
+      "x-psychosocial-136",
+      "x-psychosocial-137",
+      "x-psychosocial-138",
+      "x-psychosocial-139",
+      "x-psychosocial-140",
+      "x-psychosocial-141",
+      "x-psychosocial-142",
+      "x-psychosocial-143",
+      "x-psychosocial-144",
+      "x-psychosocial-145",
+      "x-psychosocial-146",
+      "x-psychosocial-147",
+      "x-psychosocial-148",
+      "x-psychosocial-149",
+      "x-psychosocial-150",
+      "x-psychosocial-151",
+      "x-psychosocial-152",
+      "x-psychosocial-153",
+      "x-psychosocial-154",
+      "x-psychosocial-155",
+      "x-psychosocial-156",
+      "x-psychosocial-157",
+      "x-psychosocial-158",
+      "x-psychosocial-159",
+      "x-psychosocial-160",
+      "x-psychosocial-161",
+      "x-psychosocial-162",
+      "x-psychosocial-163",
+      "x-psychosocial-164",
+      "x-psychosocial-165",
+      "x-psychosocial-166",
+      "x-psychosocial-167",
+      "x-psychosocial-168",
+      "x-psychosocial-169",
+      "x-psychosocial-170",
+      "x-psychosocial-171",
+      "x-psychosocial-172",
+      "x-psychosocial-173",
+      "x-psychosocial-174",
+      "x-psychosocial-175",
+      "x-psychosocial-176",
+      "x-psychosocial-177",
+      "x-psychosocial-178",
+      "x-psychosocial-179",
+      "x-psychosocial-180",
+      "x-psychosocial-181",
+      "x-psychosocial-182",
+      "x-psychosocial-183",
+      "x-psychosocial-184",
+      "x-psychosocial-185",
+      "x-psychosocial-186",
+      "x-psychosocial-187",
+      "x-psychosocial-188",
+      "x-psychosocial-189",
+      "x-psychosocial-190",
+      "x-psychosocial-191",
+      "x-psychosocial-192",
+      "x-psychosocial-193",
+      "x-psychosocial-194",
+      "x-psychosocial-195",
+      "x-psychosocial-196",
+      "x-psychosocial-197",
+      "x-psychosocial-198",
+      "x-psychosocial-199",
+      "x-psychosocial-200"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://988.ca/",
+      "checked": "Official Canadian service retrieved call/text availability24/7 and emergency911 distinction; supports077.",
+      "retrieval": "turn270search3"
+    },
+    {
+      "url": "https://www.camh.ca/en/health-info/mental-illness-and-addiction-index/bipolar-disorder",
+      "checked": "Primary CAMH retrieved symptom list includes decreased need for sleep, grandiosity, distractibility and risky judgment; supports080/091, not individual distractor quality.",
+      "retrieval": "turn270search1"
+    },
+    {
+      "url": "https://www.camh.ca/en/professionals/treating-conditions-and-disorders/bipolar-disorder/bipolar-disorder-screening-and-assessment",
+      "checked": "Primary CAMH rapid assessment guidance prioritizes safety in possible mania; supports the clinical concern in090.",
+      "retrieval": "turn270search13"
+    }
+  ],
+  "items": [
+    {
+      "id": "x-psychosocial-076",
+      "status": "revise",
+      "assessment": "Concrete sibling roles are useful, but guarantees, ending follow-up and concealing every concern are implausible alternatives, leaving one comprehensive answer.",
+      "issues": [
+        "Concrete sibling roles are useful, but guarantees, ending follow-up and concealing every concern are implausible alternatives, leaving one comprehensive answer."
+      ],
+      "proposedChanges": [
+        "Give an actual agreed role and verify whether the sibling can recognize a warning sign, perform the chosen action and reach help. Compare relevant role clarifications rather than impossible guarantees; avoid repeating071's resource feasibility unchanged."
+      ],
+      "reviewedItemSha256": "e85b461180ec1f1179973fda472f6428761211c8fefb80a70142a745f2a24660"
+    },
+    {
+      "id": "x-psychosocial-077",
+      "status": "revise",
+      "assessment": "Canada's988 access, emergency response and accessible formats are appropriate; generic service recognition is foundational and waiting for office hours before any service is exaggerated.",
+      "issues": [
+        "Canada's988 access, emergency response and accessible formats are appropriate; generic service recognition is foundational and waiting for office hours before any service is exaggerated."
+      ],
+      "proposedChanges": [
+        "Label foundation and replace the false choice with a credible crisis/emergency confusion, such as using988 in place of emergency services during an immediate life-threatening event. Explain that988 support does not replace an emergency response."
+      ],
+      "reviewedItemSha256": "2e93f5ae6bd790615ade7080572b05a216928cf63739adf2c0fbc829a54864fd"
+    },
+    {
+      "id": "x-psychosocial-078",
+      "status": "revise",
+      "assessment": "Intoxication requires immediate protection and physical care plus reassessment, but before-any-safety, solely-alcohol and focus-only-paperwork explicitly announce wrong choices.",
+      "issues": [
+        "Intoxication requires immediate protection and physical care plus reassessment, but before-any-safety, solely-alcohol and focus-only-paperwork explicitly announce wrong choices."
+      ],
+      "proposedChanges": [
+        "Supply level of alertness/physical stability and compare current observation and medical/safety assessment with sobriety-based reassessment, practical housing intervention or supportive counselling. Keep the key concise and explain why protection starts before a complete interview is feasible."
+      ],
+      "reviewedItemSha256": "05951d59b088347fd96329fa4079d7cebeb42a273544c673236f12e4f881c5d5"
+    },
+    {
+      "id": "x-psychosocial-079",
+      "status": "revise",
+      "assessment": "Evidence and actions belong in risk documentation, but without-information and only-score are overt omission cues, and attention-seeking is an obvious label.",
+      "issues": [
+        "Evidence and actions belong in risk documentation, but without-information and only-score are overt omission cues, and attention-seeking is an obvious label."
+      ],
+      "proposedChanges": [
+        "Use short realistic competing chart entries based on supplied assessment facts. The strongest entry should accurately state current evidence and action rather than simply being the longest list of ideal elements."
+      ],
+      "reviewedItemSha256": "ffc5ee38416d896c3b1d59ca2a11e6e341eef7817826063199a9796bdbc02735"
+    },
+    {
+      "id": "x-psychosocial-080",
+      "status": "revise",
+      "assessment": "Reduced sleep and impulsive spending need early review, but encouraging purchases and waiting for psychosis are cartoon wrong.",
+      "issues": [
+        "Reduced sleep and impulsive spending need early review, but encouraging purchases and waiting for psychosis are cartoon wrong."
+      ],
+      "proposedChanges": [
+        "Compare a timely team review with sleep-hygiene coaching, scheduling a routine mood visit, or starting a mood diary; include a patient-specific relapse pattern or functional consequence to justify prompt review."
+      ],
+      "reviewedItemSha256": "302b5ae5f5fc214a576408303f03a89779f83756f6528cf815d7167f79964e19"
+    },
+    {
+      "id": "x-psychosocial-081",
+      "status": "revise",
+      "assessment": "Small accessible intake supports fit pacing, but removing snacks and discussion-exclusively are overtly deficient and the key is generic.",
+      "issues": [
+        "Small accessible intake supports fit pacing, but removing snacks and discussion-exclusively are overtly deficient and the key is generic."
+      ],
+      "proposedChanges": [
+        "Use actual meal options and comparable nursing delivery plans, such as a brief supported sandwich/snack and drink versus a full plated meal in the dining room, delaying until group lunch or offering a menu. Specify safe swallowing and intake deficit if relevant."
+      ],
+      "reviewedItemSha256": "61c8ea639f263a698e4a1c59bd2ff50c552c368b8a2e9380bccf95d1b00745d2"
+    },
+    {
+      "id": "x-psychosocial-082",
+      "status": "revise",
+      "assessment": "Low evening stimulation, sleep monitoring and predictable brief contact are appropriate; generic care-plan selection is foundational.",
+      "issues": [
+        "Low evening stimulation, sleep monitoring and predictable brief contact are appropriate; generic care-plan selection is foundational."
+      ],
+      "proposedChanges": [
+        "Label foundation or supply an actual evening plan to interpret. A stimulating late-night activity as a means of tiring the client is a recognizable misconception and can remain without exaggerated phrasing."
+      ],
+      "reviewedItemSha256": "e6a0a6d25a9d0728f7234b97596f5b5ffe54929a9b6726a7464bdd0d30da7534"
+    },
+    {
+      "id": "x-psychosocial-083",
+      "status": "revise",
+      "assessment": "Brief consistent boundaries are defensible, but ignoring until complaint and renegotiating privacy each time are weak, and the key alone supplies an appropriate alternative.",
+      "issues": [
+        "Brief consistent boundaries are defensible, but ignoring until complaint and renegotiating privacy each time are weak, and the key alone supplies an appropriate alternative."
+      ],
+      "proposedChanges": [
+        "Use actual concise dialogue or concrete responses: direct to own room with a brief privacy limit, explain the other client's distress, offer a scheduled visit, or review rules in a group. Avoid equating respectful limits with punitive restriction."
+      ],
+      "reviewedItemSha256": "36a3cdda29ee86f587bb8b7574613da8ff22a3362225bf3d6fd45c15fd19cf04"
+    },
+    {
+      "id": "x-psychosocial-084",
+      "status": "revise",
+      "assessment": "Postponing a high-impact purchase for appropriate support is sound; independently controlling finances and asking another client for investment advice are implausible.",
+      "issues": [
+        "Postponing a high-impact purchase for appropriate support is sound; independently controlling finances and asking another client for investment advice are implausible."
+      ],
+      "proposedChanges": [
+        "Compare plausible autonomy-supporting steps such as encouraging a24-hour pause and assessment, offering a budgeting worksheet, contacting a chosen supporter with permission or providing purchase information. Supply known urgency/capacity context; do not assume bipolar diagnosis itself removes financial capacity. Application fits the current task."
+      ],
+      "reviewedItemSha256": "d4820b0529af1461f4a797be77fc87b9629acb492c55cbaf47d8cf9b1ede17a5"
+    },
+    {
+      "id": "x-psychosocial-085",
+      "status": "revise",
+      "assessment": "Concise redirection fits pressured distractible speech, but several questions together and multiple abstract themes advertise overload, while key is uniquely comprehensive.",
+      "issues": [
+        "Concise redirection fits pressured distractible speech, but several questions together and multiple abstract themes advertise overload, while key is uniquely comprehensive."
+      ],
+      "proposedChanges": [
+        "Use parallel conversational strategies such as one concrete question with topic redirection, written history completion, client-led uninterrupted narrative or repeating the last question. Explain the specific present attention limitation."
+      ],
+      "reviewedItemSha256": "883ae792683e05741317926ec51555cdaf485d2bafe9d20b904d60821dd22152"
+    },
+    {
+      "id": "x-psychosocial-086",
+      "status": "revise",
+      "assessment": "The family relapse-prevention objective is useful and should be retained, but unrelated terms and guaranteed-no-relapse/every-happy-mood distractors are filler.",
+      "issues": [
+        "The family relapse-prevention objective is useful and should be retained, but unrelated terms and guaranteed-no-relapse/every-happy-mood distractors are filler."
+      ],
+      "proposedChanges": [
+        "Supply this client's early warning pattern and an agreed contact threshold, then ask the family to apply it to concrete observed changes. Keep distinct from088's self-tracking. Root assigned replacement of duplicate113 to another reviewer."
+      ],
+      "reviewedItemSha256": "1ecc5911de4f61c3af911ba073947fae3f4663f71e30dd697ac7f1e6b74a7f7b"
+    },
+    {
+      "id": "x-psychosocial-087",
+      "status": "revise",
+      "assessment": "Improved sleep, attention and intake are meaningful while more impulsive spending is adverse; the generic trend-recognition task is foundational.",
+      "issues": [
+        "Improved sleep, attention and intake are meaningful while more impulsive spending is adverse; the generic trend-recognition task is foundational."
+      ],
+      "proposedChanges": [
+        "Use foundation, or add baseline/current observations that require actual comparison for application."
+      ],
+      "reviewedItemSha256": "ccc603d3dad8b169f646c55da59b9f7b06f2ab4b6f15daf3263268f1924eaf74"
+    },
+    {
+      "id": "x-psychosocial-088",
+      "status": "revise",
+      "assessment": "Tracking sleep/mood/activity/context is sound; only-positive-days, sole-weight and without-client-input make the comprehensive key trivial.",
+      "issues": [
+        "Tracking sleep/mood/activity/context is sound; only-positive-days, sole-weight and without-client-input make the comprehensive key trivial."
+      ],
+      "proposedChanges": [
+        "Use comparable brief diary formats, each containing clinically relevant fields but only the key linking daily sleep and activation to mood over time. State which recurrence pattern the client aims to recognize."
+      ],
+      "reviewedItemSha256": "5f2d2e92f5c78000f66e4643a69c661b390e3f5a73e9031b7dc35243c5686b8f"
+    },
+    {
+      "id": "x-psychosocial-089",
+      "status": "revise",
+      "assessment": "Maintenance goals warrant shared review, but certain-relapse-tomorrow and only-hospital-costs are implausible.",
+      "issues": [
+        "Maintenance goals warrant shared review, but certain-relapse-tomorrow and only-hospital-costs are implausible."
+      ],
+      "proposedChanges": [
+        "Use respectful actual responses about early-warning monitoring, spacing appointments, symptom-triggered return or medication follow-up. Explore the client's reason for stopping and test why maintenance remains useful during stability."
+      ],
+      "reviewedItemSha256": "d888c73af19c4d6da0ac43ea3e7ddc5c4dc9c2f9b701557de5df9607b7ac83db"
+    },
+    {
+      "id": "x-psychosocial-090",
+      "status": "revise",
+      "assessment": "Hopelessness with activation warrants timely safety assessment; assuming-low-risk and focus-only-sleep are explicit giveaways, and the key bundles all appropriate care.",
+      "issues": [
+        "Hopelessness with activation warrants timely safety assessment; assuming-low-risk and focus-only-sleep are explicit giveaways, and the key bundles all appropriate care."
+      ],
+      "proposedChanges": [
+        "Use concrete competing next assessments, such as current suicidal thoughts/intent, sleep duration, recent purchases or medication adherence, with physical stability specified. Explain why combined agitation and hopelessness makes direct safety inquiry the priority."
+      ],
+      "reviewedItemSha256": "f530cbb092baef74c6d615c977dd154aca963b0088a8ee528d4d32f7d46c556d"
+    },
+    {
+      "id": "x-psychosocial-091",
+      "status": "revise",
+      "assessment": "The key repeats the stem's entire manic cluster while the other choices introduce irrelevant bedtime preferences or dreams. This overlaps080 unless the reduced-need-versus-insomnia distinction is tested.",
+      "issues": [
+        "The key repeats the stem's entire manic cluster while the other choices introduce irrelevant bedtime preferences or dreams. This overlaps080 unless the reduced-need-versus-insomnia distinction is tested."
+      ],
+      "proposedChanges": [
+        "Use parallel interpretations such as insomnia with daytime exhaustion, reduced sleep need with activation, delayed sleep phase or anxiety-driven sleep loss. Actual rested energy and grandiosity should distinguish them; do not label benign unrelated facts as competing case findings."
+      ],
+      "reviewedItemSha256": "dfadaf925ad036e4ae21e0fd9ccb85a29804d0c74bdc1bd8b29b37d772325dc1"
+    },
+    {
+      "id": "x-psychosocial-092",
+      "status": "revise",
+      "assessment": "Respectful limits and redirection protect peers, but public humiliation, ignoring and group confrontation are overtly inappropriate.",
+      "issues": [
+        "Respectful limits and redirection protect peers, but public humiliation, ignoring and group confrontation are overtly inappropriate."
+      ],
+      "proposedChanges": [
+        "Use specific competing nurse statements or plans that vary in timing/focus, such as brief private limit and redirection, extended explanation of impact, offering an activity change or asking peers to state preferences. State current safety and avoid a key that simply bundles all good actions."
+      ],
+      "reviewedItemSha256": "dda3474485a162cc4d565671951c80b754a23f90720c04993e85df6c3c6fe821"
+    },
+    {
+      "id": "x-psychosocial-093",
+      "status": "revise",
+      "assessment": "Simple supported activity and rest fit residual distractibility, but the tournament is exaggerated and the question mixes activities with rest planning.",
+      "issues": [
+        "Simple supported activity and rest fit residual distractibility, but the tournament is exaggerated and the question mixes activities with rest planning."
+      ],
+      "proposedChanges": [
+        "Ask which elements fit an activity plan and use a credible moderately complex competitive game as the distractor. Label foundation unless specific functional capacity and activity choices are supplied."
+      ],
+      "reviewedItemSha256": "6658dff231e2f85b65fd78a45fcee76874a1de07b70c0b557feca7ffa9f43e47"
+    },
+    {
+      "id": "x-psychosocial-094",
+      "status": "revise",
+      "assessment": "Acceptable sealed food supports nutrition without affirming delusion, but waiting until belief disappears and agreeing contamination make the answer obvious and comprehensive.",
+      "issues": [
+        "Acceptable sealed food supports nutrition without affirming delusion, but waiting until belief disappears and agreeing contamination make the answer obvious and comprehensive."
+      ],
+      "proposedChanges": [
+        "Compare concrete meal strategies such as sealed portions the client opens, staff tasting a meal, a familiar-person-delivered meal or explaining kitchen checks. Include availability/intake cues so one immediate approach is clearly most feasible; avoid endorsing poisoning."
+      ],
+      "reviewedItemSha256": "b4f0b144282743b85857604d2079ad56c4ade4ab1eeb663d3eb92d156bc53bb1"
+    },
+    {
+      "id": "x-psychosocial-095",
+      "status": "revise",
+      "assessment": "Allowing time fits thought blocking, but rapid multiple topic changes and interpreting silence as agreement are weak distractors.",
+      "issues": [
+        "Allowing time fits thought blocking, but rapid multiple topic changes and interpreting silence as agreement are weak distractors."
+      ],
+      "proposedChanges": [
+        "Use credible alternatives such as repeating the last question, offering a written prompt, finishing the likely sentence or allowing a pause and checking readiness. Distinguish from007's globally slowed depression responses by the sudden interruption."
+      ],
+      "reviewedItemSha256": "5caa3873ec95af3fc2e633bc40c158a4a9beadc92e8f786219366e6361772092"
+    },
+    {
+      "id": "x-psychosocial-096",
+      "status": "revise",
+      "assessment": "This repeats005's unfamiliar-word clarification objective and has weak alternatives. Changing the diagnosis label does not make a distinct question.",
+      "issues": [
+        "This repeats005's unfamiliar-word clarification objective and has weak alternatives. Changing the diagnosis label does not make a distinct question."
+      ],
+      "proposedChanges": [
+        "Replace with a distinct thought-form assessment objective, for example differentiating tangential answers that never reach the requested information from circumstantial speech that eventually answers, pressured topic shifts or thought blocking. Use a brief original dialogue, parallel interpretations and an appropriate primary/open-textbook source."
+      ],
+      "reviewedItemSha256": "24c3fa54e82e29d17ac1851b85f258123bb0535c6fb260c44fb8188ec43a22a0"
+    },
+    {
+      "id": "x-psychosocial-097",
+      "status": "revise",
+      "assessment": "Structured support is appropriate, but labeling unwillingness and withdrawing effective prompts are weak, and the key repeats the stem then adds general assessment.",
+      "issues": [
+        "Structured support is appropriate, but labeling unwillingness and withdrawing effective prompts are weak, and the key repeats the stem then adds general assessment."
+      ],
+      "proposedChanges": [
+        "Use an actual hygiene sequence to select the next graded support level after a prompt works, or ask which new symptom would trigger assessment of medication effects/depression. Keep distinct from048's depression initiation task and avoid making only the key respectful."
+      ],
+      "reviewedItemSha256": "cc323681f1b16fce9c568f665088e22fa477c0bf800fd9515bf7c7993fbedce7"
+    },
+    {
+      "id": "x-psychosocial-098",
+      "status": "revise",
+      "assessment": "Content/commands/behavioural effect matter, but proving-unreality and definitely-ignoring questions are overtly leading and make SATA trivial.",
+      "issues": [
+        "Content/commands/behavioural effect matter, but proving-unreality and definitely-ignoring questions are overtly leading and make SATA trivial."
+      ],
+      "proposedChanges": [
+        "Narrow to immediate safety assessment with actual voice content, then use parallel questions about command, intent/ability to resist, onset, triggers and support. Key only the questions matching the specific task; do not mark otherwise relevant history questions globally wrong. Foundation if kept generic."
+      ],
+      "reviewedItemSha256": "2fcdfdc0d8c29effb413ecef0f6ba04e1ea14dae960dcd7eec32837bf5d4b07b"
+    },
+    {
+      "id": "x-psychosocial-099",
+      "status": "revise",
+      "assessment": "Individualized coping is sound, but every-client, stop-mentioning and regardless-of-preference are obvious errors; the key just repeats preferred strategy.",
+      "issues": [
+        "Individualized coping is sound, but every-client, stop-mentioning and regardless-of-preference are obvious errors; the key just repeats preferred strategy."
+      ],
+      "proposedChanges": [
+        "Use the selected quiet music in a specific setting and compare observable follow-up findings or reasonable adjustments. Test whether distress/function improve and safety remains assessed rather than merely endorsing preference."
+      ],
+      "reviewedItemSha256": "e975710e0304ba8ec01e27fdaa981354e106ec80b449b2a8331eb699073d6433"
+    },
+    {
+      "id": "x-psychosocial-100",
+      "status": "revise",
+      "assessment": "New abdominal pain/vomiting needs physical assessment, but before-checking and psychiatric-review delay are giveaway choices; generic diagnostic-overshadowing repeats017.",
+      "issues": [
+        "New abdominal pain/vomiting needs physical assessment, but before-checking and psychiatric-review delay are giveaway choices; generic diagnostic-overshadowing repeats017."
+      ],
+      "proposedChanges": [
+        "Use a specific physical assessment priority in a client with psychosis, such as current bowel history and distension with a relevant medicine, hydration/perfusion or an escalation threshold. Coordinate to avoid repeating pharmacology111 clozapine bowel-hypomotility; choose another distinct physical concern with current primary evidence."
+      ],
+      "reviewedItemSha256": "838af99a36de04fe5d975a21e65ce1bf6c242ebc7f755b6dbe7ec363fb9cf7d6"
+    }
+  ],
+  "reviewerTask": "/root/author_pharm_adaptation",
+  "activeSourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/d/questions.json"
+}

@@ -1,0 +1,116 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:45:48.075197+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/risk-126-150.json",
+  "sourceSha256": "219f4f987c8d1d058d33315331985ca66193ea2aa5eb23b676421551e99b7e81",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 5,
+    "reviewedIds": [
+      "x-risk-127",
+      "x-risk-145",
+      "x-risk-147",
+      "x-risk-148",
+      "x-risk-149"
+    ],
+    "unreviewedIds": [
+      "x-risk-126",
+      "x-risk-128",
+      "x-risk-129",
+      "x-risk-130",
+      "x-risk-131",
+      "x-risk-132",
+      "x-risk-133",
+      "x-risk-134",
+      "x-risk-135",
+      "x-risk-136",
+      "x-risk-137",
+      "x-risk-138",
+      "x-risk-139",
+      "x-risk-140",
+      "x-risk-141",
+      "x-risk-142",
+      "x-risk-143",
+      "x-risk-144",
+      "x-risk-146",
+      "x-risk-150"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://dchft.nhs.uk/leaflets/post-hip-replacement-symptom-checker/",
+      "checked": true,
+      "ids": [
+        "x-risk-127"
+      ],
+      "note": "Primary NHS page opened: acute groin/thigh pain and loss of weight bearing after hip replacement can indicate dislocation needing urgent medical input."
+    },
+    {
+      "url": "https://www.uhn.ca/PatientsFamilies/Health_Information/Health_Topics/Documents/Managing_Your_Pain_with_Peripheral_Nerve_Block.pdf",
+      "checked": true,
+      "ids": [
+        "x-risk-145"
+      ],
+      "note": "Primary Canadian provider PDF opened: weakness/heaviness/numbness and postural BP drop may accompany a peripheral nerve block."
+    },
+    {
+      "url": "https://www.uhn.ca/Surgery/General_Surgery/Thyroid_Surgery/Pages/default.aspx",
+      "checked": true,
+      "ids": [
+        "x-risk-147"
+      ],
+      "note": "Primary Canadian surgery page opened and searched for swallowing/neck swelling warning context; reference relevance accepted, not a complete airway-management protocol."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-risk-127",
+      "status": "pass",
+      "assessment": "Current item reread: stop/support/urgent help for sudden pain and altered leg position after hip replacement. Newly cited NHS hip-symptom checker independently opened and supports urgent response for possible dislocation; no attempted reduction is taught.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8529c827c00a90240e02e3d9833f1f4b3ed1b5552f14fa9c4e11e2eb7369722b"
+    },
+    {
+      "id": "x-risk-145",
+      "status": "pass",
+      "assessment": "Current item reread: residual regional block requires current motor/sensory assessment plus prescribed mobility plan. UHN nerve-block PDF independently opened documents leg weakness/numbness; prior NHS block guidance supports assisted mobilization. Regional reference resolves wound/general-anaesthesia mismatch.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "34508ac2e218a9a5ca8c8d168f2eee01f85f65f5f6b3442f11c32ccf11d4752e"
+    },
+    {
+      "id": "x-risk-147",
+      "status": "pass",
+      "assessment": "Current item reread: increasing neck swelling/new saliva-swallowing difficulty require immediate assessment even if dressing is dry. Thyroid/neck-surgery reference now matches; primary UHN page opened for warning-sign context.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "16e48f3a4611915e5cababc5fef9e60c86a827462d7e4fde260009c78ddcfe02"
+    },
+    {
+      "id": "x-risk-148",
+      "status": "pass",
+      "assessment": "Current item reread: stable negative-pressure leak alarm requires seal/tubing/device-guided assessment; silencing or increasing prescribed pressure does not restore a seal. NPWT-specific reference now directly matches.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "96075c0796d70fba2ea140f261b4a40e5cd96a5f1848be2d2825581239cd2ab2"
+    },
+    {
+      "id": "x-risk-149",
+      "status": "pass",
+      "assessment": "Current item reread: resolve packing discrepancy before repacking; do not document expected count or explore blindly. Wound packing-specific chapter replaces general wound assessment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f17d81aff39a5b7520025101d99ab8381c42ead0e353a9e003e301851c1366ce"
+    }
+  ],
+  "reviewerTask": "/root/review_legacy"
+}

@@ -1,0 +1,530 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T16:53:15.897294+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/a/management-01.json",
+  "sourceSha256": "8943048f96c75cf39570c4441a2a0cbedad99fa59d8ba480ad36885156ed47be",
+  "coverage": {
+    "sourceItems": 50,
+    "reviewedItems": 50,
+    "reviewedIds": [
+      "x-management-001",
+      "x-management-002",
+      "x-management-003",
+      "x-management-004",
+      "x-management-005",
+      "x-management-006",
+      "x-management-007",
+      "x-management-008",
+      "x-management-009",
+      "x-management-010",
+      "x-management-011",
+      "x-management-012",
+      "x-management-013",
+      "x-management-014",
+      "x-management-015",
+      "x-management-016",
+      "x-management-017",
+      "x-management-018",
+      "x-management-019",
+      "x-management-020",
+      "x-management-021",
+      "x-management-022",
+      "x-management-023",
+      "x-management-024",
+      "x-management-025",
+      "x-management-026",
+      "x-management-027",
+      "x-management-028",
+      "x-management-029",
+      "x-management-030",
+      "x-management-031",
+      "x-management-032",
+      "x-management-033",
+      "x-management-034",
+      "x-management-035",
+      "x-management-036",
+      "x-management-037",
+      "x-management-038",
+      "x-management-039",
+      "x-management-040",
+      "x-management-041",
+      "x-management-042",
+      "x-management-043",
+      "x-management-044",
+      "x-management-045",
+      "x-management-046",
+      "x-management-047",
+      "x-management-048",
+      "x-management-049",
+      "x-management-050"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.cpso.on.ca/physicians/policies-guidance/policies/consent-to-treatment/guide-to-the-health-care-consent-act",
+      "authority": "College of Physicians and Surgeons of Ontario",
+      "supports": [
+        "x-management-001,002,009: capacity is decision/time specific; capable minor directly consents",
+        "x-management-007: most recent applicable capable wish expressed at age 16 or older"
+      ],
+      "scope": "Consent-rule support only."
+    },
+    {
+      "url": "https://www.cno.org/standards-learning/practice-support/practice-support-faqs/designated-recorder-and-co-signing",
+      "authority": "College of Nurses of Ontario",
+      "supports": [
+        "x-management-022: providers document own care; co-signing blurs accountability"
+      ],
+      "scope": "Specific attribution support."
+    },
+    {
+      "url": "https://www.cno.org/Assets/CNO/Documents/Standard-and-Learning/Practice-Standards/41001_documentation.pdf",
+      "authority": "College of Nurses of Ontario",
+      "supports": [
+        "Current documentation standard effective February 1, 2026"
+      ],
+      "scope": "Regulator framework; not every item-specific privacy rule independently source verified."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-management-001",
+      "status": "pass",
+      "assessment": "Decision-specific understanding supports capable consent despite dementia; Ontario context avoids universalizing consent law.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "696954083de92c5e5b8c1fc06104495f635bdd0d543875a2a845f83c1070629a"
+    },
+    {
+      "id": "x-management-002",
+      "status": "pass",
+      "assessment": "Capable adolescent decision is defensible in Ontario without automatic parental signature; primary regulator guidance supports the distinction.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f49aab2cf8215f96d118565d1e4ad9c5cba010007c189790f343d32c3628f33d"
+    },
+    {
+      "id": "x-management-003",
+      "status": "pass",
+      "assessment": "Missing discussion plus impaired understanding warrants pausing elective care; checklist and family signature do not cure the consent gap.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2c3f5859009724cffee649a0b3b6f7ea73184bd66aa40d612702b9a0ab1fc722"
+    },
+    {
+      "id": "x-management-004",
+      "status": "pass",
+      "assessment": "Threat to withhold food directly raises coercion and safety concerns; teaching more benefits cannot restore voluntariness.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a075e7f7dc21574460707562f8179cd78fc4efaf1b834372666f04fc15ea715f"
+    },
+    {
+      "id": "x-management-005",
+      "status": "pass",
+      "assessment": "Materially more extensive elective treatment requires consent addressing the actual intervention; same diagnosis is insufficient.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c22976d8be9bfa6c866c0cab47dc836f00e46474d78ec654bea25825a16f707f"
+    },
+    {
+      "id": "x-management-006",
+      "status": "pass",
+      "assessment": "Hearing optimization distinguishes communication difficulty from incapacity; orientation alone is not decision-specific understanding.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4ee073f6874b12dcd02e6ea3c6110ed9aad3cfd5085b62f75b2747dc65dc85e4"
+    },
+    {
+      "id": "x-management-007",
+      "status": "revise",
+      "assessment": "Key aligns with Ontario law, but the legal rule for binding prior wishes includes expression while capable at age 16 or older; the item omits the age condition.",
+      "issues": [
+        "Key aligns with Ontario law, but the legal rule for binding prior wishes includes expression while capable at age 16 or older; the item omits the age condition."
+      ],
+      "proposedChanges": [
+        "Specify an adult client and that the applicable wish was expressed while capable at age 40, or explicitly age 16 or older. Explain that a most recent applicable capable wish at or after 16 guides the substitute, rather than personal preference."
+      ],
+      "reviewedItemSha256": "581f9de3af162c87d221b9bbf875143564c5a8dc148e8206e39bb654046c8349"
+    },
+    {
+      "id": "x-management-008",
+      "status": "pass",
+      "assessment": "Property authority does not establish treatment authority; verify lawful substitute pathway instead of assuming a new document is needed.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5850fd3e717acde51aa5996cb33130bc411618268321989b82e7d4b54dee9f4d"
+    },
+    {
+      "id": "x-management-009",
+      "status": "revise",
+      "assessment": "Reassessment after regained capacity is sound; requiring a new power of attorney before speaking to a client is an implausible legal distraction.",
+      "issues": [
+        "Reassessment after regained capacity is sound; requiring a new power of attorney before speaking to a client is an implausible legal distraction."
+      ],
+      "proposedChanges": [
+        "Replace option 3 with: Continue substitute consent until a fixed annual capacity review. Explain that changed capacity calls for timely reassessment rather than waiting for a calendar review."
+      ],
+      "reviewedItemSha256": "7c70af382cebe008728e7c7ce0151c63ba358e981700accc7f83f269720008c7"
+    },
+    {
+      "id": "x-management-010",
+      "status": "pass",
+      "assessment": "Alternatives, deliberation time and clarification support informed choice; signature before missing information is premature.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ad373a6807993b7e54db6224f458c7cdd8fbb34f76a3edf61d27cabb1e467136"
+    },
+    {
+      "id": "x-management-011",
+      "status": "pass",
+      "assessment": "Private setting addresses contextual disclosure risk; omitting name or speaking briefly does not protect confidentiality.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9b9eb4d5162b9df9c076c841121a0758fa58a6097f9b8e3fcf4f5d52f98bd64c"
+    },
+    {
+      "id": "x-management-012",
+      "status": "pass",
+      "assessment": "Prompt breach response best coordinates containment and required notification; item does not claim client notification is unnecessary.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3859c762fb3103dfdf77469f0efa71f57b9bdf593cfcfc3c3d60a214d2dabe52"
+    },
+    {
+      "id": "x-management-013",
+      "status": "pass",
+      "assessment": "Authorized secure process is the defensible response; consent or personal encryption alone does not establish approved handling.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fa489defa0d1b7e8eed6d88edb2dce6cd205eb2de5f45fd8e34efcaec6306d77"
+    },
+    {
+      "id": "x-management-014",
+      "status": "pass",
+      "assessment": "Individual authorized access preserves attribution while allowing formal downtime/support pathways.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "00f9531992078502b3cd6e1a18d5bed4dae4dbe5016b2e9254e83467e49b2f80"
+    },
+    {
+      "id": "x-management-015",
+      "status": "pass",
+      "assessment": "Minimal callback message respects limited permission; current authorized recipient and channel cannot be assumed.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b6e2aa5f38a896db4ab28bde051a2895d8699632bede4fdd78a39508f3e3f6a6"
+    },
+    {
+      "id": "x-management-016",
+      "status": "pass",
+      "assessment": "Approved confidential disposal is appropriate; work bag, open desk and ordinary recycling do not establish secure retention/disposal.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "380c585437d81c36b7ebcd46aacc982484e89025f637017642a08268a3c3f3be"
+    },
+    {
+      "id": "x-management-017",
+      "status": "pass",
+      "assessment": "Research interest and confidentiality promise do not establish access; exact dates/rare diagnoses may remain identifying.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b3f3f21ceea719f26b16d14dde46961abd16c4ead152d5c1f2ca4362c127ab84"
+    },
+    {
+      "id": "x-management-018",
+      "status": "pass",
+      "assessment": "Private transfer of sensitive information balances client preference with necessary handover.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e6c71a57a48bfaee3010b68814fd3c3dd82af0f76425ded1fa5571eb82cab2e0"
+    },
+    {
+      "id": "x-management-019",
+      "status": "pass",
+      "assessment": "Explicit disclosure limits and recipient identity should be clarified and documented; general update permission is not full-record permission.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d9620b0f55d1f7189ca8f62474707d40157b7ba01fab5ddd9ea67ab166c60ec7"
+    },
+    {
+      "id": "x-management-020",
+      "status": "pass",
+      "assessment": "Rare-event context can identify a client even on private professional accounts; key identifies the primary privacy mechanism.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c9a3ded3b3d786ce00a1c5a8083b0b68a4d160b60a8a3e56ce633b4ff6eeff53"
+    },
+    {
+      "id": "x-management-021",
+      "status": "pass",
+      "assessment": "Late-entry designation with event and entry times preserves accurate chronology and authorship.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "bcb585ccda68ad20e1363f9dd95b45d1c71827607d66530788e1966c4f5a6246"
+    },
+    {
+      "id": "x-management-022",
+      "status": "pass",
+      "assessment": "No emergency/designated-recorder context is present; asking the actual provider to document supports accurate attribution and aligns with current CNO guidance.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a682f161c8b81734fdaf4d2ac95928f04fc9c9f0f76ac93555388b454fafd6c7"
+    },
+    {
+      "id": "x-management-023",
+      "status": "pass",
+      "assessment": "Actual completed care rather than precharted assumptions is the defensible documentation rule; believable workflow shortcuts are distinguished.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "19f5f3961df573449ef35c50d235827ae813f462ca116fe40ccf10c19f2079f8"
+    },
+    {
+      "id": "x-management-024",
+      "status": "pass",
+      "assessment": "Client words plus assessment preserve specific threat and timing; broad labels or intervention-only notes omit actionable context.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3ac53307c4d63a3dcef14a9dfa9c5a8372a0c99393d87706317dee8a844ba233"
+    },
+    {
+      "id": "x-management-025",
+      "status": "revise",
+      "assessment": "Allergy clarification/update key is sound. Waiting a week with reported anaphylaxis is a cartoonishly delayed alternative.",
+      "issues": [
+        "Allergy clarification/update key is sound. Waiting a week with reported anaphylaxis is a cartoonishly delayed alternative."
+      ],
+      "proposedChanges": [
+        "Replace option 0 with: Retain the no-allergy alert until old hospital records arrive. Explain that the credible new severe-reaction history requires prompt clarification and active alert action while corroborating records are sought."
+      ],
+      "reviewedItemSha256": "bd865bf24253911da3b617ea59613adf6028654b3e01b2049eb14889dd999723"
+    },
+    {
+      "id": "x-management-026",
+      "status": "pass",
+      "assessment": "Approved downtime pathway protects continuity and reconciliation; personal app or memory does not constitute the authorized record.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2c708e515c1dc05527fec5094e6a76b9eaab0362de4dd901edff8274a7eade80"
+    },
+    {
+      "id": "x-management-027",
+      "status": "pass",
+      "assessment": "Findings, contact/response and follow-up capture escalation; character judgment is inappropriate documentation. This is primarily foundation difficulty.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "266d11513c9989cdf1b437b76b3efd0b2994589b6b3cadcb42b506219fd6353a"
+    },
+    {
+      "id": "x-management-028",
+      "status": "pass",
+      "assessment": "Specific cancelled transport and rescheduling request support care planning without unsupported motive or blame.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1fb61dc720de8a6094c21459c2d6700efa3f5d577deb920efdc32645907ec993"
+    },
+    {
+      "id": "x-management-029",
+      "status": "pass",
+      "assessment": "Verified approved correction is appropriate for demographic error; old contact approval and personal-sheet-only amendment do not correct the active record.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "db17b8093c9127d38f165d1ac9ac35f0179ee853e8b8a856e50985c90dc68490"
+    },
+    {
+      "id": "x-management-030",
+      "status": "pass",
+      "assessment": "Clarification prevents acting on ambiguous treatment notation; prior actions and common specialty meanings cannot confirm author intent.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ad2f321c499a0e798131c289b66803e3d5c01c8100d7f7ce21148802776c2309"
+    },
+    {
+      "id": "x-management-031",
+      "status": "pass",
+      "assessment": "Task-specific timing/content/report method enable nursing interpretation; an unregulated worker should not independently revise fluid plan.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "04933cfefaf14e7b4b3b452a7200f9a13fbcb2dd14e3181d3e5c2df78fc12a17"
+    },
+    {
+      "id": "x-management-032",
+      "status": "revise",
+      "assessment": "Verified competence/support is sound, but observing a first transfer while assisting can be legitimate supervised learning, so option 2 is not unequivocally inappropriate.",
+      "issues": [
+        "Verified competence/support is sound, but observing a first transfer while assisting can be legitimate supervised learning, so option 2 is not unequivocally inappropriate."
+      ],
+      "proposedChanges": [
+        "Change option 2 to: Assign the worker to lead the transfer after watching a brief demonstration, without a supervised competence check. Explain that observation alone does not establish safe operation."
+      ],
+      "reviewedItemSha256": "1d19bdf773d7b4f6da9f5aec3aeef5f542503b9d35dbf59268e2be218d3797be"
+    },
+    {
+      "id": "x-management-033",
+      "status": "revise",
+      "assessment": "Evaluation key is correct, but repeating an entire meal assistance personally is an implausible action after the meal.",
+      "issues": [
+        "Evaluation key is correct, but repeating an entire meal assistance personally is an implausible action after the meal."
+      ],
+      "proposedChanges": [
+        "Replace option 0 with: Check only that the task box was signed as completed. Explain that completion alone does not establish intake or the client response required by the plan."
+      ],
+      "reviewedItemSha256": "a6783d41f780ec540cd19bd8da3c49effd17fa7fd33b10fb9f70551af1e5f7ad"
+    },
+    {
+      "id": "x-management-034",
+      "status": "pass",
+      "assessment": "Required procedure competence outweighs staff seniority, geography and equal client numbers; appropriate assignment reasoning.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1a094d23f2dd8ac227d7bf9e9b38fd67ebd339123af7324a11c8436bd195fc29"
+    },
+    {
+      "id": "x-management-035",
+      "status": "pass",
+      "assessment": "Conflicting current fluid instructions need a coordinated plan; recency and prior-day practice do not resolve intent.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3af429a7044e8aba72ce0cdc8e164489dc390e93efe72d8db63eba62639fcad4"
+    },
+    {
+      "id": "x-management-036",
+      "status": "pass",
+      "assessment": "Accepted qualified coverage is needed for timed reassessment; charting a due time alone does not transfer responsibility.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2a74e835e85517480571b3f209938673ce56d8e39028a332e4b3ff209f3c8328"
+    },
+    {
+      "id": "x-management-037",
+      "status": "pass",
+      "assessment": "Legal scope does not alone establish individual competence; identifying limits and safe collaboration/division preserve care. BC-specific source should remain attached.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d3f5a13e7b5b93f90fdf4f486b6674f987987f3d4e7b6c5025793aec25f4b243"
+    },
+    {
+      "id": "x-management-038",
+      "status": "pass",
+      "assessment": "Immediate safe correction is appropriate before threatened contamination reaches the client; delayed evaluation is insufficient.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5dbcc19af5363b760ac0d4ce0652b177f140bc99d1b76223713e7e969084aecf"
+    },
+    {
+      "id": "x-management-039",
+      "status": "pass",
+      "assessment": "Uncertain task completion calls for current need verification and assessment, not assumed completion or blind delay.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "916f16f459976bb7d9c45778a003a6a54a604eef9b6be8aebe19caf0d72eefaf"
+    },
+    {
+      "id": "x-management-040",
+      "status": "pass",
+      "assessment": "Concrete report threshold and timeframe are more actionable than vague attentiveness or waiting for symptoms.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "da60c012ad2a4d7497edbfe337a36693743ed9cc53348ae6bc747a20fa0112a9"
+    },
+    {
+      "id": "x-management-041",
+      "status": "revise",
+      "assessment": "Pending culture ownership, current mobility help and treatment changes are sound; unrelated staffing disagreement is easy filler.",
+      "issues": [
+        "Pending culture ownership, current mobility help and treatment changes are sound; unrelated staffing disagreement is easy filler."
+      ],
+      "proposedChanges": [
+        "Replace option 2 with: The previous transfer-assistance level as the sole mobility description. Explain that the receiving team needs updated restrictions and current assistance, not a superseded baseline alone."
+      ],
+      "reviewedItemSha256": "1eb998748d8d68880d51559909f3f476a1708db22bd7a4f7ee0b044536cf9851"
+    },
+    {
+      "id": "x-management-042",
+      "status": "pass",
+      "assessment": "Repeated coughing with each sip changes immediate swallowing safety priority; stopping current exposure and escalation precede chronic calorie review.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "83f0c044d6ac796af3ee2e92ec1b597f59429f2dd5b5ee4f04481e8b4073f747"
+    },
+    {
+      "id": "x-management-043",
+      "status": "pass",
+      "assessment": "Essential walker gap needs a safe equipment/discharge plan; temporary doorway help does not establish ongoing home mobility.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a6a2b964bc1eac30e987a74423750522b75e00c97d695616828e7f179b359980"
+    },
+    {
+      "id": "x-management-044",
+      "status": "pass",
+      "assessment": "Caregiver inability calls for exploration and alternate supports; more teaching alone does not establish willingness or capacity.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "bbf61ed4c0435618a0ed12cc82826a75ab6ee369a0836d722a478cefc00666ed"
+    },
+    {
+      "id": "x-management-045",
+      "status": "pass",
+      "assessment": "Named result-review and communication responsibility prevents transition gaps better than forwarding or a pending-test label alone.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b9d44eba3524f9e713494ba3f80da967fc1494403f7c1245dbbe3d0d31853b34"
+    },
+    {
+      "id": "x-management-046",
+      "status": "pass",
+      "assessment": "Accessible arrangement directly responds to transport barrier; reminders and importance teaching do not supply access.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b2a658da03f71cea6868acc8e0b35441a8d3d4520ef609999fd8398e4f32fa1d"
+    },
+    {
+      "id": "x-management-047",
+      "status": "pass",
+      "assessment": "Failure to describe worsening-symptom action requires focused reteaching and reassessment; reading aloud is not functional understanding.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1325a726f9b5c0d5a50be2c609e7fad373d1a32edcd2165a76368a9ceb9e08d1"
+    },
+    {
+      "id": "x-management-048",
+      "status": "pass",
+      "assessment": "Capable client goals should inform team choices; family or clinician ranking alone cannot substitute for participation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "bb05c82dc992492c6a624fe690a083d623c5b813e5b5d08ee5c0f07125e9ced5"
+    },
+    {
+      "id": "x-management-049",
+      "status": "pass",
+      "assessment": "Meal-dependent treatment plus food insecurity supports assessing access, social supports and team notification; timing advice alone is insufficient.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d8542aff8b3b9db010f3b14944fe133476d7528d50d285341701ba8c66b11647"
+    },
+    {
+      "id": "x-management-050",
+      "status": "revise",
+      "assessment": "The stem quotes the correct response almost verbatim, making the item a reading-match exercise rather than application of return precautions.",
+      "issues": [
+        "The stem quotes the correct response almost verbatim, making the item a reading-match exercise rather than application of return precautions."
+      ],
+      "proposedChanges": [
+        "Remove the explicit action from the stem. Describe a new home symptom, such as sudden severe breathlessness at rest with difficulty speaking full sentences, then ask which action reflects appropriate use of discharge return precautions. Preserve emergency contact as the key and distinguish from routine follow-up."
+      ],
+      "reviewedItemSha256": "5815e16c5c9d2da3a20c9e52ba51c6d65e1b2b6ee031520535feed9ced349e55"
+    }
+  ],
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

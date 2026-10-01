@@ -1,0 +1,192 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:37:05.875791+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/risk-101-125.json",
+  "sourceSha256": "194c6e450d7644512ef7f24f9754807f2ad688f714a46a42e9d6134ef233859b",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 17,
+    "reviewedIds": [
+      "x-risk-101",
+      "x-risk-103",
+      "x-risk-104",
+      "x-risk-105",
+      "x-risk-107",
+      "x-risk-108",
+      "x-risk-109",
+      "x-risk-111",
+      "x-risk-112",
+      "x-risk-114",
+      "x-risk-115",
+      "x-risk-116",
+      "x-risk-117",
+      "x-risk-119",
+      "x-risk-121",
+      "x-risk-122",
+      "x-risk-124"
+    ],
+    "unreviewedIds": [
+      "x-risk-102",
+      "x-risk-106",
+      "x-risk-110",
+      "x-risk-113",
+      "x-risk-118",
+      "x-risk-120",
+      "x-risk-123",
+      "x-risk-125"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-risk-101",
+      "status": "pass",
+      "assessment": "Stable condition and visibly loose damp electrodes support assessment/contact correction before treating a noisy trace as a confirmed rhythm. Relevant artefact mechanism retained.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e48af97591363410da93bc0ef32f7be380a8e092156a9d9f2a10eb489f6e7a0c"
+    },
+    {
+      "id": "x-risk-103",
+      "status": "pass",
+      "assessment": "Actual collection/dose timing is essential; an immediate postdose redraw does not become a predose trough. New therapeutic-monitoring source is topic-relevant.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1587347180cd37b74cf8d8b5ca1909ea96234fd2ce364ad17648c411a0960554"
+    },
+    {
+      "id": "x-risk-104",
+      "status": "pass",
+      "assessment": "A verified alternate method is appropriate after failed QC; repeated faulty readings or agreement with an expected value cannot establish accuracy.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6a0d534897313c3b10bdd5656e799e74f0230f20cfc3f6a42f1d52be9109854e"
+    },
+    {
+      "id": "x-risk-105",
+      "status": "pass",
+      "assessment": "The revised key explicitly addresses instability while obtaining confirmation and rationale prohibits delaying emergency treatment. Poor-perfusion sampling concerns are supported by FDA guidance already checked.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0157bb95cf6e9dad8267d9668536438a85f2c1b2e7d627caa06e43ba554b9caa"
+    },
+    {
+      "id": "x-risk-107",
+      "status": "pass",
+      "assessment": "Early scheduling does not resolve medication/fasting coordination; individualized clarification remains the best action without universal medication omission.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "07bb34f48b20c7d5634b7419ec83ed8a1b17abaab3b8a3ef2a63bf62113d4f4d"
+    },
+    {
+      "id": "x-risk-108",
+      "status": "pass",
+      "assessment": "Persistent oozing requires effective pressure and bleeding/circulation reassessment; elapsed time or tighter unassessed dressing does not establish haemostasis. Primary ABG source supports pressure monitoring.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "92f8ab3232946218c6fb37585c6f730c532920e8fa207b882a48be623e8f213a"
+    },
+    {
+      "id": "x-risk-109",
+      "status": "pass",
+      "assessment": "All choices describe oxygen information; actual concurrent device/setting is the relevant support context. Historical or later support can mislead blood-gas interpretation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f1b3aaa55c00769fff62e93d9f483901630576ae7d46017aa19d9d8ab06674e1"
+    },
+    {
+      "id": "x-risk-111",
+      "status": "revise",
+      "assessment": "Collection technique is now sound with plausible contamination workarounds. Current refs were changed to c-stool-test, which is faecal occult blood testing; add a stool-culture-specific source so the requested diagnostic test is supported.",
+      "issues": [
+        "Collection technique is now sound with plausible contamination workarounds. Current refs were changed to c-stool-test, which is faecal occult blood testing; add a stool-culture-specific source so the requested diagnostic test is supported."
+      ],
+      "proposedChanges": [
+        "Retain current text and map to a primary stool-culture collection source (for example MedlinePlus stool culture), with accurate access note."
+      ],
+      "reviewedItemSha256": "6fc6bf8418f4326c10ec59d83de56590c9a216181a89e2e5fd42d1e6ed358914"
+    },
+    {
+      "id": "x-risk-112",
+      "status": "pass",
+      "assessment": "Unknown tissue preservative requires laboratory/procedural clarification; another biopsy’s medium or a universal formalin assumption can compromise testing. No unsupported universal preservation method is taught.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "961c73da3c022aed439bd40674176ebf7c51b18d28694795b378753cebcc3816"
+    },
+    {
+      "id": "x-risk-114",
+      "status": "pass",
+      "assessment": "Position/timing and symptoms directly link pressure values to postural tolerance. Exercise history and the count of daily readings are not substitutes. Revised vitals/focused-assessment refs are topic-relevant.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "377f9f421e695466409d029aa01e06470a9c22f015c2826bfdb26863eaefaf20"
+    },
+    {
+      "id": "x-risk-115",
+      "status": "pass",
+      "assessment": "Test-specific medication instructions govern spirometry, not another client’s interval or extra bronchodilator use. Current lung-function source is more appropriate than a generic preparation page.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c1da2a3399a6e6cdcaa86878b63e21a98c1cb382ed5291eb1e0217b3a4b5013c"
+    },
+    {
+      "id": "x-risk-116",
+      "status": "pass",
+      "assessment": "Personal best/action zones are the individualized reference; predicted values and exacerbation averages are plausible but different baselines. Consistent technique still matters.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5ae9633c6cd9d1d3288a90508ddb72f48fa6ee5e45365e299043589bad392066"
+    },
+    {
+      "id": "x-risk-117",
+      "status": "pass",
+      "assessment": "Replacement scenario and metadata now coherently test unauthorized antiseizure interruption before EEG. Assessment/team notification is safer than independent catch-up dosing or continuing the interruption. Primary EEG instructions were independently checked.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "50b4437bd84408a7235f9a1a24cc113bc448d4157793b74752c4a54e1a52be1c"
+    },
+    {
+      "id": "x-risk-119",
+      "status": "pass",
+      "assessment": "Laboratory-specific reference interval plus clinical trend is appropriate; units/method differences cannot be resolved by numerical comparison or automatic old flags. Foundation interpretation item, without a fixed numeric rule.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4ecb1915a9603ebde3f9ed00c268f3eca35724bb838c085edc3f2082180c7763"
+    },
+    {
+      "id": "x-risk-121",
+      "status": "pass",
+      "assessment": "Bacteriuria alone does not establish symptomatic infection or justify automatic replacement/antibiotics. Reporting symptoms and catheter context is appropriately scoped and avoids claiming all bacteriuria is untreated.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4090ec706da57f26849dc3aebae301913bec724c87f2467400e74a9dee97c7d5"
+    },
+    {
+      "id": "x-risk-122",
+      "status": "pass",
+      "assessment": "Progressive local pain/swelling differs from normal contrast warmth; stop injection and apply protocol. A slower continuing injection is now a realistic unsafe alternative.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4595762a8a5b07cfa65ceb8710b840533181dfc613139220dbf5ad6cdbaaaec5"
+    },
+    {
+      "id": "x-risk-124",
+      "status": "pass",
+      "assessment": "Consistent technique/equipment and intervening treatments improve trend interpretation. Undocumented site changes or mixed-site averaging conceal relevant variability.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b684b30535dc6704bc479599769cded70a0a765d3c2e6fd27b04e90c7c95e0e7"
+    }
+  ],
+  "reviewScope": "All seventeen revised items read with updated options, rationales and references; prior unchanged passes not relabelled. Source relevance review is not full source validation.",
+  "reviewerTask": "/root/review_legacy"
+}

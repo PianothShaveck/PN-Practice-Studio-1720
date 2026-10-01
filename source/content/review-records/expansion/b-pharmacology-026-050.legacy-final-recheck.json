@@ -1,0 +1,444 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T18:01:54.018964+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/b-final-recheck-input/pharmacology-02.json",
+  "sourceSha256": "6b9fcbdb9989263410c6036a11b47a3195272188c26a369bc83cd1d0f1bc3941",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-pharmacology-026",
+      "x-pharmacology-027",
+      "x-pharmacology-028",
+      "x-pharmacology-029",
+      "x-pharmacology-030",
+      "x-pharmacology-031",
+      "x-pharmacology-032",
+      "x-pharmacology-033",
+      "x-pharmacology-034",
+      "x-pharmacology-035",
+      "x-pharmacology-036",
+      "x-pharmacology-037",
+      "x-pharmacology-038",
+      "x-pharmacology-039",
+      "x-pharmacology-040",
+      "x-pharmacology-041",
+      "x-pharmacology-042",
+      "x-pharmacology-043",
+      "x-pharmacology-044",
+      "x-pharmacology-045",
+      "x-pharmacology-046",
+      "x-pharmacology-047",
+      "x-pharmacology-048",
+      "x-pharmacology-049",
+      "x-pharmacology-050"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Read all25 current complete items and prior findings, including keys, explanations, takeaway and metadata. Rechecks are anchored to a frozen snapshot; all status decisions are manually reasoned.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "ids": [
+        "x-pharmacology-031"
+      ],
+      "url": "https://pdf.hres.ca/dpd_pm/00036567.PDF",
+      "checked": true,
+      "accessMode": "primary regulatory product-monograph search excerpt",
+      "note": "Retrieved explicit nitrate/PDE5 contraindication and severe-hypotension risk; no exact washout interval or dose advice imported."
+    },
+    {
+      "ids": [
+        "x-pharmacology-037"
+      ],
+      "url": "https://thrombosiscanada.ca/clinical_guides/pdfs/HEPARININDUCEDTHROMBOCYTOPENIA_46.pdf",
+      "checked": true,
+      "accessMode": "primary guideline search excerpt",
+      "note": "Recent retrieved guide explicitly requires stopping all heparin exposure in suspected/confirmed HIT and specialist management; the item stays within protocol escalation."
+    },
+    {
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK594995/",
+      "checked": false,
+      "note": "Attempted opening the category textbook reference; browser verification wall returned. Did not claim new full-page verification."
+    },
+    {
+      "ids": [
+        "x-pharmacology-038"
+      ],
+      "url": "https://www.nice.org.uk/guidance/ng232/chapter/Recommendations",
+      "checked": false,
+      "note": "Direct retrieval returned internal error; do not treat this attempted retrieval as source validation."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-pharmacology-026",
+      "status": "pass",
+      "assessment": "Tongue swelling/voice change during ramipril use threatens airway even without rash or after months of treatment; emergency response precedes oral therapy or future-dose planning.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c7c93bd2a120cbdb82f81a4c5632f99a1e640eb8021fb83d4cd86f033f6ff00c"
+    },
+    {
+      "id": "x-pharmacology-027",
+      "status": "pass",
+      "assessment": "Stable pulmonary observations and onset after ACE inhibitor initiation support medication review. A dry cough alone does not establish infection or congestion; foundation label is appropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "267cdbb098c24d55e82451953182c47d74c3d700c5255819f43bd4cea63ed58a"
+    },
+    {
+      "id": "x-pharmacology-028",
+      "status": "pass",
+      "assessment": "Potassium4.8 before a new concentrated potassium source cannot predict safety with spironolactone. Dose spacing does not remove potassium retention, and annual follow-up would not address the proposed change.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "65e76e71e21e93d04a0ffe5988d61eddb659ad5ef6305a141fc9c2db74c288f6"
+    },
+    {
+      "id": "x-pharmacology-029",
+      "status": "pass",
+      "assessment": "New bradycardia, gastrointestinal/visual symptoms and renal decline form a coherent digoxin-toxicity concern. Withholding pending urgent rhythm/toxicity assessment fits scope and the current deterioration; last week’s level cannot exclude it.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "88a38438d63d36f2fe8ceaa942df14dc9f2ed266a00af3bbeb89656275b94e29"
+    },
+    {
+      "id": "x-pharmacology-030",
+      "status": "pass",
+      "assessment": "Muscle pain/weakness plus dark urine on statin therapy require prompt muscle/renal assessment. Lipid testing, food administration and exercise do not address this potentially serious adverse-effect pattern.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "58b3e08dcf12e330e0e54218ba12c02798745284b4e27dca99f1e7ebb2642deb"
+    },
+    {
+      "id": "x-pharmacology-031",
+      "status": "pass",
+      "assessment": "Same-day sildenafil exposure contraindicates nitrate despite an acceptable initial pressure. Urgent chest-pain review supplies a safe alternative plan; no unverified washout interval or partial dose is prescribed.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "171d6bd4255c6dcd054a6bdff130d853821d510cb04483f47610d6e06ef709e6"
+    },
+    {
+      "id": "x-pharmacology-032",
+      "status": "pass",
+      "assessment": "Reduced oedema with stable standing pressure and less breathlessness at equal activity demonstrate benefit. Orthostatic faintness, rising oxygen requirement and potassium depletion prevent classifying diuresis alone as success.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "21789834522d3774b44f1dd43120c5f9919a20a1a43c54e8b4c28505a078d62d"
+    },
+    {
+      "id": "x-pharmacology-033",
+      "status": "pass",
+      "assessment": "Confusion with sodium124 is symptomatic marked hyponatraemia needing urgent assessment before further thiazide. Extra free water or dosing based solely on pressure could worsen the problem.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "eda6b11af98d05a2bf3397523a6c980f7c56b9882f669c3d4f1eaa938902b193"
+    },
+    {
+      "id": "x-pharmacology-034",
+      "status": "pass",
+      "assessment": "Controlled angina may reflect metoprolol efficacy and does not justify abrupt withdrawal or an improvised taper/PRN schedule. Foundation label is appropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e08ff8d2bd9f7b715d5cd789ea6a9aabd2eac9a214c0fd781e147079b8d64a76"
+    },
+    {
+      "id": "x-pharmacology-035",
+      "status": "revise",
+      "assessment": "The correct immediate safety/review actions are sound, but the hydration option explicitly announces absent safety checks and the permanent-withdrawal option is cartoonish. Replace them with concrete, plausible premature actions.",
+      "issues": [
+        "The correct immediate safety/review actions are sound, but the hydration option explicitly announces absent safety checks and the permanent-withdrawal option is cartoonish. Replace them with concrete, plausible premature actions."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Help the client sit or lie safely and reassess symptoms",
+            "Report the positional readings for regimen review",
+            "Reassure because the supine pressure is normal",
+            "Give a large glass of water and repeat the standing measurement immediately",
+            "Give the next scheduled dose if the supine pressure has returned to baseline"
+          ],
+          "why": [
+            "Positioning limits immediate fall risk during symptomatic pressure reduction.",
+            "The measurable symptomatic change can guide treatment adjustment.",
+            "A normal supine reading does not explain away postural instability.",
+            "A fluid trial does not take priority over safe positioning in a symptomatic client; fluid suitability and reassessment timing require the clinical context.",
+            "Supine recovery does not resolve the symptomatic postural fall or replace review of the regimen."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "915535b21bd18840a548ff186711e6fcae619560daeeea5c8b3c8775bd5e9430"
+    },
+    {
+      "id": "x-pharmacology-036",
+      "status": "pass",
+      "assessment": "Earlier planned timing directly addresses nocturia from22:00furosemide while retaining prescribed treatment; reduced dose, daytime restriction and ad hoc symptom dosing change other aspects of care.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "cc2d3de64798d9da09cbd28a25ced8de708f1cb2c4a15e528c14e84f15f2e46d"
+    },
+    {
+      "id": "x-pharmacology-037",
+      "status": "pass",
+      "assessment": "Day-six platelet fall>50% with new thrombosis is a coherent HIT pattern. Stop heparin/escalate under protocol rather than reduce its dose or await routine review. Targeted Thrombosis Canada evidence corroborates stopping all exposure.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b29f7fb383fbdaeb50b2eeb2f7da388653b456305c43672aa60a040f5c12851c"
+    },
+    {
+      "id": "x-pharmacology-038",
+      "status": "revise",
+      "assessment": "Urgent anticoagulated head-injury assessment is correct, but “consider the injury managed” makes option1 an overtly careless caricature. Replace it with a realistic delayed-review plan.",
+      "issues": [
+        "Urgent anticoagulated head-injury assessment is correct, but “consider the injury managed” makes option1 an overtly careless caricature. Replace it with a realistic delayed-review plan."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Check INR before deciding whether assessment is needed",
+            "Hold the next apixaban dose and arrange review at tomorrow’s clinic",
+            "Arrange urgent head-injury assessment and follow the escalation pathway",
+            "Continue usual checks unless a headache develops"
+          ],
+          "why": [
+            "INR does not reliably measure apixaban's anticoagulant effect.",
+            "A dose decision does not evaluate possible intracranial injury, and delaying assessment is not justified by initially normal neurological findings.",
+            "Early normal findings do not exclude anticoagulant-associated intracranial bleeding.",
+            "Waiting for symptoms may delay recognition of occult bleeding."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "fd9ee77e76fcda74ee8583f2bd25f32f14011ed1a5244ae38d4b3e6d06fca3bf"
+    },
+    {
+      "id": "x-pharmacology-039",
+      "status": "pass",
+      "assessment": "Melena with dizziness during clopidogrel use calls for circulation assessment and urgent bleeding review, rather than a screening test, constipation advice or delayed administration/reporting.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7c8a7b743a55e5b7d92d6b74bfa42861d47d9104801801db95ef1be6c5599493"
+    },
+    {
+      "id": "x-pharmacology-040",
+      "status": "revise",
+      "assessment": "The clinical key appropriately integrates drug, renal function and procedure. Asking the client to choose between bleeding and clotting is an implausibly unsupported alternative; use a generic interruption-schedule error.",
+      "issues": [
+        "The clinical key appropriately integrates drug, renal function and procedure. Asking the client to choose between bleeding and clotting is an implausibly unsupported alternative; use a generic interruption-schedule error."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Obtain a plan incorporating the drug, renal function and procedure",
+            "Use the interruption schedule from a different anticoagulant",
+            "Continue because the latest INR is normal",
+            "Apply the standard24-hour interruption in the clinic’s general preparation handout"
+          ],
+          "why": [
+            "These factors affect interruption and restart decisions.",
+            "Drug-specific elimination and bleeding risk differ.",
+            "A normal INR does not establish absent direct-anticoagulant effect.",
+            "A generic interval may not account for this drug, new renal decline and the procedure’s bleeding risk; an individualized plan is required."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "2647a57ecbe2a874c4e3f14e686f00a8569f76a864417965276f66d23a75d394"
+    },
+    {
+      "id": "x-pharmacology-041",
+      "status": "pass",
+      "assessment": "Soft oral care and checking nonprescription NSAIDs are appropriate bleeding precautions. Automatic doubling, INR-directed dosing for unspecified anticoagulant and interruption for every bruise are recognizable anticoagulation misconceptions; the key does not supply a universal missed-dose schedule.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ee64f6878fa38e6482a86089010d42f477ef819ce34527dae13f7472daa6a5cf"
+    },
+    {
+      "id": "x-pharmacology-042",
+      "status": "revise",
+      "assessment": "Both monitoring distractors use “only,” signalling incompleteness instead of requiring comparison of monitoring plans.",
+      "issues": [
+        "Both monitoring distractors use “only,” signalling incompleteness instead of requiring comparison of monitoring plans."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Keep a daily record of visible bruises to guide follow-up",
+            "Arrange a safety review when the prescribed dose is changed",
+            "Bleeding, kidney function and medication changes still need review",
+            "Ask for weekly INR tests to confirm effectiveness"
+          ],
+          "why": [
+            "Bruise tracking may help, but important bleeding can be internal and other exposure-related risks still need follow-up.",
+            "Dose changes matter, but renal function, bleeding and interactions can change at an unchanged dose.",
+            "Absence of routine INR titration does not eliminate safety monitoring.",
+            "INR is not used to routinely titrate apixaban."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "fe34958e338d040c8d48b322953d4391b68128fc3fc1c57d58e17f178792fd7c"
+    },
+    {
+      "id": "x-pharmacology-043",
+      "status": "pass",
+      "assessment": "Pressure78/44 with faintness after nitrate is acute circulatory instability despite less chest pain. Rapid confirmation may accompany response but should not postpone escalation; another dose or routine-interval reassessment is inappropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d78a94219b19c3124d19a5a58c347bbedd7e5e7d1ac8c185ff7ed358aa16e3f2"
+    },
+    {
+      "id": "x-pharmacology-044",
+      "status": "revise",
+      "assessment": "The intended volume interpretation is sound, but “no further assessment” overtly flags the negative option. Use a competing physiological interpretation.",
+      "issues": [
+        "The intended volume interpretation is sound, but “no further assessment” overtly flags the negative option. Use a competing physiological interpretation."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Possible intravascular depletion despite reduced edema",
+            "Persistent fluid overload because some ankle edema remains",
+            "Expected fluid mobilization with adequately preserved circulating volume",
+            "A need to increase diuretic frequency"
+          ],
+          "why": [
+            "Improved congestion can coexist with excessive circulating-volume loss.",
+            "Residual peripheral edema does not exclude depleted circulating volume.",
+            "Dry mouth and symptomatic postural change argue against assuming that circulating volume remains adequate merely because lung sounds cleared.",
+            "More diuresis may worsen the symptoms of depletion."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "83659358173ea622f198b1be676ae5425e9824193dcc94fb30d60114799d7eda"
+    },
+    {
+      "id": "x-pharmacology-045",
+      "status": "revise",
+      "assessment": "New amlodipine-related oedema is plausibly supported, but permanent medication cessation is a weak extreme. Use a plausible symptom-management plan that delays needed medication review.",
+      "issues": [
+        "New amlodipine-related oedema is plausibly supported, but permanent medication cessation is a weak extreme. Use a plausible symptom-management plan that delays needed medication review."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Delay reporting until breathlessness develops",
+            "Assess and report possible medication-related peripheral edema",
+            "Request an automatic diuretic increase for heart failure",
+            "Start leg elevation and compression and reassess at the next routine visit"
+          ],
+          "why": [
+            "A medication adverse effect can warrant review before respiratory compromise.",
+            "The timing and absence of pulmonary symptoms support reviewing amlodipine.",
+            "The assessment does not establish systemic congestion as the cause.",
+            "Local measures may be considered, but a new dose-related change should be assessed and communicated rather than managed as established benign oedema."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "ec856ad98f1bb720748ee41d2d33283be41c7350bff2dec23624e1d209e8cf52"
+    },
+    {
+      "id": "x-pharmacology-046",
+      "status": "pass",
+      "assessment": "Diltiazem and metoprolol both slow rate/conduction; near-syncope at42/min requires withholding pending urgent assessment. Selecting one on class name or recency does not resolve the combined risk.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "60b13d9da347492621cc8b718c263259ffb6de343adec14c2f62d430d102d6d4"
+    },
+    {
+      "id": "x-pharmacology-047",
+      "status": "revise",
+      "assessment": "Every wrong option is marked by “only,” and serum sodium is genuinely relevant to the stated diuretic combination. Rebuild as parallel monitoring pairs that test which adverse-effect domains are routinely targeted, and label the recall demand honestly.",
+      "issues": [
+        "Every wrong option is marked by “only,” and serum sodium is genuinely relevant to the stated diuretic combination. Rebuild as parallel monitoring pairs that test which adverse-effect domains are routinely targeted, and label the recall demand honestly."
+      ],
+      "proposedChanges": [
+        {
+          "stem": "A client has started ramipril while continuing prescribed hydrochlorothiazide. Which pairs should be included in the planned medication-safety follow-up? Select all that apply.",
+          "options": [
+            "Creatinine and serum potassium trends",
+            "Prothrombin time and INR trends",
+            "Hearing acuity and vestibular function",
+            "Serum amylase and lipase trends",
+            "Blood pressure and postural symptoms"
+          ],
+          "why": [
+            "Renal function and potassium can change after ACE inhibitor initiation, particularly when volume status is changing.",
+            "These measure coagulation and are not routine indicators of the stated ACE inhibitor effects.",
+            "These assessments target possible ototoxicity in other treatment contexts, rather than the stated ACE inhibitor effects.",
+            "Pancreatic enzymes do not monitor the stated renal, potassium or haemodynamic effects.",
+            "Combined therapy can produce clinically important hypotension, including symptomatic postural changes."
+          ],
+          "difficulty": "foundation",
+          "reasoningSkill": "recognition"
+        }
+      ],
+      "reviewedItemSha256": "c6cc504bfa6f043a35b9a5d8427b9c1d94fee4f73c8bf80be123e5cffc0a6eb5"
+    },
+    {
+      "id": "x-pharmacology-048",
+      "status": "revise",
+      "assessment": "Some alternatives are actions rather than explanations, and one says chest symptoms need no action. Use parallel explanations of the planned interval to remove that giveaway.",
+      "issues": [
+        "Some alternatives are actions rather than explanations, and one says chest symptoms need no action. Use parallel explanations of the planned interval to remove that giveaway."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "The interval helps preserve the response to subsequent nitrate exposure",
+            "The interval is mainly intended to let the previous application site recover",
+            "The interval makes up for slower nitrate absorption while the client is asleep",
+            "The interval compensates for the kidneys retaining nitrate between applications"
+          ],
+          "why": [
+            "Continuous nitrate exposure can produce tolerance, so a prescribed nitrate-free interval helps maintain responsiveness.",
+            "Skin-site rotation and skin assessment matter, but preventing tolerance is the main purpose of the prescribed nitrate-free interval.",
+            "The interval is not prescribed because normal sleep makes nitrate absorption too slow.",
+            "The standard planned interval addresses tolerance, not an assumed renal-clearance problem."
+          ],
+          "difficulty": "foundation"
+        }
+      ],
+      "reviewedItemSha256": "58ed7bac21a325041a442d925fc8b4802b7363e6c57246ad01ec88c987f1d364"
+    },
+    {
+      "id": "x-pharmacology-049",
+      "status": "pass",
+      "assessment": "An undocumented warfarin/DOAC transition creates both overlap and omission risks. Clarifying intended treatment before uncertain doses avoids arbitrary interruptions or selection by prior use.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "83e1100178f8c80c44f2a3a6ce455ca5b883d384c1697b85b7de9350a0cc43ab"
+    },
+    {
+      "id": "x-pharmacology-050",
+      "status": "revise",
+      "assessment": "The schedule intervention fits the identified barrier, but alternatives advertise omission with “without discussing” and “only.” Remove these cues while retaining plausible incomplete responses.",
+      "issues": [
+        "The schedule intervention fits the identified barrier, but alternatives advertise omission with “without discussing” and “only.” Remove these cues while retaining plausible incomplete responses."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Arrange financial assistance as the first step",
+            "Set a reminder alarm for the same clock time each day",
+            "Develop a feasible prescribed schedule with the client and team",
+            "Review how consistent therapy reduces the long-term risk of stroke"
+          ],
+          "why": [
+            "Cost is not the barrier reported in this scenario.",
+            "A fixed reminder may not make the prescribed schedule feasible across changing sleep and work periods; the schedule itself needs discussion.",
+            "This directly addresses the identified timing barrier.",
+            "The client already understands treatment purpose; repeating benefits does not directly resolve the reported scheduling barrier."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "2cb993f12628bc795ff2e7f9d7a455984a08379f8c4722f06df453f5c212abf1"
+    }
+  ],
+  "activeSourceFile": "authoring/b/pharmacology-02.json",
+  "reviewerTask": "/root/review_legacy"
+}

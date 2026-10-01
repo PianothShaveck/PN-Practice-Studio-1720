@@ -1,0 +1,809 @@
+[
+  {
+    "id": "x-psychosocial-001",
+    "cat": "psychosocial",
+    "title": "Clarifying a vague concern",
+    "stem": "A client awaiting biopsy results says, \"I cannot deal with what comes next.\" What response best clarifies the concern?",
+    "type": "single",
+    "options": [
+      "Which part of what comes next feels hardest right now?",
+      "What has your physician explained about the possible results?",
+      "Which coping strategy helped during your last health concern?",
+      "Would you like to discuss support available after diagnosis?"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "The statement is ambiguous; a focused open question lets the client identify the immediate meaning and concern.",
+      "Information already received is relevant but may not reveal what the client means by being unable to cope.",
+      "Past coping can be explored after understanding the current difficulty.",
+      "Available support may help, but first clarify the particular concern rather than assuming it relates to a diagnosis."
+    ],
+    "takeaway": "Clarify the client's meaning before offering reassurance or solutions.",
+    "refs": [
+      "d-communication"
+    ],
+    "exhibit": null,
+    "subtopic": "Therapeutic clarification",
+    "learningObjective": "Clarify the client's meaning before offering reassurance or solutions.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-002",
+    "cat": "psychosocial",
+    "title": "Observing inconsistent cues",
+    "stem": "A client says the upcoming operation is 'fine' while trembling and avoiding discussion. What should the nurse say?",
+    "type": "single",
+    "options": [
+      "'You should not be frightened.'",
+      "'I notice your hands shaking; how are you feeling about tomorrow?'",
+      "'Your consent form shows you are comfortable.'",
+      "'We can discuss it after surgery.'"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Telling the client how to feel discourages disclosure.",
+      "A neutral observation invites clarification without assuming emotion.",
+      "Consent does not establish absence of anxiety.",
+      "Delay misses a current opportunity for support."
+    ],
+    "takeaway": "Explore discrepancies between verbal and nonverbal communication.",
+    "refs": [
+      "d-communication"
+    ],
+    "exhibit": null,
+    "subtopic": "Therapeutic observation",
+    "learningObjective": "Explore discrepancies between verbal and nonverbal communication.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-003",
+    "cat": "psychosocial",
+    "title": "Responding to anger about waiting",
+    "stem": "A client says, \"No one cares; I have waited all morning.\" No threats are present, and the nurse does not yet know what help the client needs. What is the best response?",
+    "type": "single",
+    "options": [
+      "The team is working through the morning appointments.",
+      "I can check how much longer the wait will be.",
+      "This wait sounds frustrating. What help do you need now?",
+      "I can explain how to raise concerns with the manager."
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "A queue explanation does not establish whether a current care need has gone unmet.",
+      "An estimate may help later, but the immediate need should first be clarified.",
+      "Acknowledging the experience and inviting the specific need supports a practical current response.",
+      "The complaint process can be offered, but does not replace responding to the present concern."
+    ],
+    "takeaway": "Acknowledge frustration before clarifying what assistance is needed.",
+    "refs": [
+      "d-communication"
+    ],
+    "exhibit": null,
+    "subtopic": "Therapeutic response to anger",
+    "learningObjective": "Acknowledge frustration before clarifying what assistance is needed.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-004",
+    "cat": "psychosocial",
+    "title": "Avoiding premature advice",
+    "stem": "A capable client is deciding whether to tell an adult child about a diagnosis and asks, \"What would you do?\" What response best supports the client's decision?",
+    "type": "single",
+    "options": [
+      "I would usually suggest telling a close family member.",
+      "Family disclosure often helps people obtain practical support.",
+      "Would you like me to ask your child to visit?",
+      "What concerns you about telling your child?"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "The nurse's preferred choice may not fit this relationship or the client's priorities.",
+      "General benefits may be useful, but the client's specific concern has not yet been explored.",
+      "Inviting the child may move toward disclosure before the client has decided what they want.",
+      "Exploring the client's concerns supports their own decision about benefits, risks and preferences."
+    ],
+    "takeaway": "Support decision-making without substituting the nurse's personal choice.",
+    "refs": [
+      "d-communication"
+    ],
+    "exhibit": null,
+    "subtopic": "Therapeutic decision support",
+    "learningObjective": "Support decision-making without substituting the nurse's personal choice.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-005",
+    "cat": "psychosocial",
+    "title": "Checking shared understanding",
+    "stem": "During a sensitive interview, a client uses an unfamiliar expression and says the nurse's first interpretation was wrong. Which actions help establish the intended meaning? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Use the expression's most common dictionary meaning",
+      "Ask the client to explain the expression in their own words",
+      "Offer a likely interpretation and begin planning from it",
+      "Summarize the clarified meaning and invite correction"
+    ],
+    "answer": [
+      1,
+      3
+    ],
+    "why": [
+      "A common definition may not reflect this client's personal or cultural meaning.",
+      "The client's explanation provides direct evidence of the intended meaning.",
+      "A plausible guess should not become the basis for planning before the client verifies it.",
+      "Checking the revised understanding reduces the chance of carrying the earlier error forward."
+    ],
+    "takeaway": "Verify meaning rather than assuming shared understanding.",
+    "refs": [
+      "d-communication"
+    ],
+    "exhibit": null,
+    "subtopic": "Therapeutic communication accuracy",
+    "learningObjective": "Verify meaning rather than assuming shared understanding.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-006",
+    "cat": "psychosocial",
+    "title": "A client declines conversation",
+    "stem": "A client newly diagnosed with cancer says, 'I do not want to talk now.' They show no immediate safety concern. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Continue questioning to prevent avoidance",
+      "Respect the request and agree how to reconnect later",
+      "Ask relatives to persuade the client immediately",
+      "Document refusal of all psychosocial support"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Continued pressure can undermine trust.",
+      "Respect and a planned return preserve access to support.",
+      "Immediate persuasion may disregard the client's expressed boundary.",
+      "Declining now does not mean rejecting future support."
+    ],
+    "takeaway": "Respect temporary limits while keeping support available.",
+    "refs": [
+      "d-communication"
+    ],
+    "exhibit": null,
+    "subtopic": "Therapeutic pacing",
+    "learningObjective": "Respect temporary limits while keeping support available.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-007",
+    "cat": "psychosocial",
+    "title": "Supporting slowed responses",
+    "stem": "A client with depression pauses for a long time before answering but remains attentive, says they want to continue, and shows no fatigue. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Offer a written questionnaire to replace the conversation",
+      "Invite a support person to help supply the history",
+      "Use one clear question and allow time for the answer",
+      "Arrange a shorter interview later in the day"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Writing may help some clients, but the present client is willing and able to engage with a slower pace.",
+      "Another person is not needed to replace the client's own account simply because responses are slow.",
+      "Patient pacing supports the demonstrated ability to participate without adding pressure.",
+      "A later session may be useful for fatigue, which is not the limiting factor described."
+    ],
+    "takeaway": "Adapt interview pace to the client's processing speed.",
+    "refs": [
+      "d-communication"
+    ],
+    "exhibit": null,
+    "subtopic": "Communication adaptation",
+    "learningObjective": "Adapt interview pace to the client's processing speed.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-008",
+    "cat": "psychosocial",
+    "title": "Naming emotion tentatively",
+    "stem": "After discussing job loss, a client looks away and clenches their hands. Which response best checks emotion without assuming it?",
+    "type": "single",
+    "options": [
+      "'You seem upset; what is happening for you?'",
+      "'You are clearly angry at your employer.'",
+      "'At least you have more free time.'",
+      "'You should start job searching today.'"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Tentative observation allows the client to confirm or correct meaning.",
+      "A fixed interpretation may mislabel the emotion.",
+      "Positive reframing may minimize a painful loss.",
+      "Immediate advice bypasses assessment of current needs."
+    ],
+    "takeaway": "Offer tentative observations and invite the client's interpretation.",
+    "refs": [
+      "d-communication"
+    ],
+    "exhibit": null,
+    "subtopic": "Emotional exploration",
+    "learningObjective": "Offer tentative observations and invite the client's interpretation.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-009",
+    "cat": "psychosocial",
+    "title": "Maintaining therapeutic focus",
+    "stem": "During discussion of a separation, a client asks for details of the nurse's divorce and says, \"Then I can do what you did.\" What is the best response?",
+    "type": "single",
+    "options": [
+      "I can tell you briefly which decision worked best for me.",
+      "I can answer your questions about how my divorce ended.",
+      "Would a support group help you compare other people's choices?",
+      "Our situations may differ. What decision are you facing?"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "The client is seeking a model to copy; personal advice risks displacing their own needs and judgment.",
+      "Detailed personal information shifts the therapeutic conversation toward the nurse's experience.",
+      "A group may be useful later, but does not first clarify the decision the client is struggling with.",
+      "A respectful boundary and return to the client's situation support individualized decision-making."
+    ],
+    "takeaway": "Limit self-disclosure to preserve the therapeutic focus.",
+    "refs": [
+      "d-communication"
+    ],
+    "exhibit": null,
+    "subtopic": "Professional relationship",
+    "learningObjective": "Limit self-disclosure to preserve the therapeutic focus.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-010",
+    "cat": "psychosocial",
+    "title": "Communicating through an interpreter",
+    "stem": "During a mental-health interview, which practices support the client's participation? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Address the client directly",
+      "Allow extra time for interpretation",
+      "Ask a child relative to interpret trauma details",
+      "Clarify confidentiality and the interpreter's role"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "why": [
+      "Direct engagement maintains the therapeutic relationship.",
+      "Interpretation needs time for accuracy and emotional processing.",
+      "A child may lack skills and face inappropriate emotional burden.",
+      "Role clarity supports trust and informed participation."
+    ],
+    "takeaway": "Use qualified interpretation with clear roles during sensitive interviews.",
+    "refs": [
+      "d-communication"
+    ],
+    "exhibit": null,
+    "subtopic": "Accessible psychosocial assessment",
+    "learningObjective": "Use qualified interpretation with clear roles during sensitive interviews.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-011",
+    "cat": "psychosocial",
+    "title": "Ending a therapeutic meeting",
+    "stem": "A client becomes distressed when the nurse abruptly announces the session is over, saying they did not know how much time remained. What change best addresses this in future meetings?",
+    "type": "single",
+    "options": [
+      "Keep the session length consistent across appointments",
+      "Give an ending reminder and confirm the next contact",
+      "Offer another short session when distress begins",
+      "Provide a written session summary at departure"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Consistent length helps, but the client also needs an understandable transition cue during the meeting.",
+      "Advance notice and continuity information allow preparation for the ending that triggered distress.",
+      "Extra contact may occasionally be needed, but does not establish predictable closure.",
+      "A summary may support recall but arrives after the abrupt ending has already occurred."
+    ],
+    "takeaway": "Prepare clients for endings and clarify the next contact.",
+    "refs": [
+      "d-communication"
+    ],
+    "exhibit": null,
+    "subtopic": "Therapeutic termination",
+    "learningObjective": "Prepare clients for endings and clarify the next contact.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-012",
+    "cat": "psychosocial",
+    "title": "A repeated request for reassurance",
+    "stem": "A client repeatedly asks whether staff are annoyed with them. Reassurance helps briefly, but the nurse does not know what brings the worry back. What is the best next response?",
+    "type": "single",
+    "options": [
+      "Reassure the client again that staff want to help",
+      "Guide a brief breathing exercise when worry returns",
+      "Ask what happens just before the worry returns",
+      "Arrange a regular time for reassurance check-ins"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Repeating reassurance may relieve distress briefly but has not revealed the recurring trigger.",
+      "A coping exercise may help after the nurse understands the pattern and what the client needs.",
+      "Exploring the preceding event can identify the concern and guide a more useful response.",
+      "Predictable contact may be helpful, but the specific trigger remains unexplored."
+    ],
+    "takeaway": "Explore triggers when reassurance does not provide lasting relief.",
+    "refs": [
+      "d-communication"
+    ],
+    "exhibit": null,
+    "subtopic": "Therapeutic assessment",
+    "learningObjective": "Explore triggers when reassurance does not provide lasting relief.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-013",
+    "cat": "psychosocial",
+    "title": "Validating without agreeing",
+    "stem": "A tearful client says, \"My sibling cannot visit. They never cared about me.\" Which response best acknowledges the client's immediate feeling?",
+    "type": "single",
+    "options": [
+      "It sounds painful to feel unsupported today.",
+      "Would you like help calling your sibling now?",
+      "What reasons might have prevented the visit?",
+      "You told me your sibling supported you last month."
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "This names the present hurt without confirming an unassessed judgment about the sibling.",
+      "A call may help later, but first responding to the emotion supports feeling understood.",
+      "Exploring reasons shifts toward explanation before acknowledging the current distress.",
+      "Previous support may offer perspective, but an immediate counterexample can feel dismissive of the present pain."
+    ],
+    "takeaway": "Validate feelings without endorsing unverified conclusions.",
+    "refs": [
+      "d-communication"
+    ],
+    "exhibit": null,
+    "subtopic": "Emotional validation",
+    "learningObjective": "Validate feelings without endorsing unverified conclusions.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-014",
+    "cat": "psychosocial",
+    "title": "Exploring strengths in crisis",
+    "stem": "A client overwhelmed by housing problems says, \"Nothing I do works.\" Which question best assesses an existing coping strength?",
+    "type": "single",
+    "options": [
+      "When does the current housing deadline fall?",
+      "Which relatives could offer practical assistance?",
+      "Which expense is most urgent this week?",
+      "What helped you through a previous difficult situation?"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "The deadline clarifies urgency rather than an existing coping skill.",
+      "Potential support is relevant, but this question identifies resources rather than a strategy the client has used successfully.",
+      "Financial priorities guide practical planning but do not reveal prior effective coping.",
+      "Previous successful responses can identify skills and resources the client may use again."
+    ],
+    "takeaway": "Identify previous coping strengths when a client feels powerless.",
+    "refs": [
+      "d-communication"
+    ],
+    "exhibit": null,
+    "subtopic": "Strengths-based care",
+    "learningObjective": "Identify previous coping strengths when a client feels powerless.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-015",
+    "cat": "psychosocial",
+    "title": "Repairing a communication error",
+    "stem": "Which actions help repair an interview after the nurse realizes a client's statement was misunderstood? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Acknowledge the misunderstanding",
+      "Invite clarification of the client's intended meaning",
+      "Apologize and move to the next interview topic",
+      "Reflect the corrected meaning back to the client"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "why": [
+      "Honest acknowledgment can support trust.",
+      "The client should establish what they meant.",
+      "An apology alone leaves the information error unresolved if the discussion moves on.",
+      "Reflection verifies that the revised understanding is accurate."
+    ],
+    "takeaway": "Repair misunderstandings openly and verify the corrected meaning.",
+    "refs": [
+      "d-communication"
+    ],
+    "exhibit": null,
+    "subtopic": "Therapeutic repair",
+    "learningObjective": "Repair misunderstandings openly and verify the corrected meaning.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-016",
+    "cat": "psychosocial",
+    "title": "Anxiety before a procedure",
+    "stem": "A client awaiting a procedure can discuss worries and concentrate, but repeatedly asks what will happen during it. Which intervention best fits the current need?",
+    "type": "single",
+    "options": [
+      "Give a short explanation and check the client's questions",
+      "Provide the full written procedure-information leaflet",
+      "Begin a relaxation exercise before discussing the procedure",
+      "Ask about a prescribed as-needed anxiety medicine"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "The client can engage and is seeking procedural clarity, so focused information directly addresses the uncertainty.",
+      "Written information may supplement teaching, but a full leaflet may not answer the specific repeated questions.",
+      "Relaxation may help, but should not replace answering the information need when the client can participate.",
+      "Medication may be appropriate in some circumstances, but current findings support a focused communication intervention."
+    ],
+    "takeaway": "Match information complexity to the client's ability to process anxiety.",
+    "refs": [
+      "d-anxiety"
+    ],
+    "exhibit": null,
+    "subtopic": "Anxiety support",
+    "learningObjective": "Match information complexity to the client's ability to process anxiety.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-017",
+    "cat": "psychosocial",
+    "title": "Unexpected chest symptoms",
+    "stem": "A client with a history of panic reports new chest pressure and sweating unlike their usual episodes. What should the nurse do first?",
+    "type": "single",
+    "options": [
+      "Compare the sensation with earlier panic episodes",
+      "Assess physical status and activate timely clinical evaluation",
+      "Coach the breathing technique used for past panic",
+      "Offer the prescribed as-needed anxiety medicine"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "History is relevant, but should not delay urgent assessment of new potentially physical symptoms.",
+      "A psychiatric diagnosis does not exclude acute physical illness; the changed symptom pattern requires prompt assessment and escalation.",
+      "Calm support can accompany assessment, but breathing practice alone would risk attributing the presentation to panic.",
+      "An anxiety medicine does not evaluate the new chest symptoms and could delay recognition of illness."
+    ],
+    "takeaway": "Assess new physical symptoms without diagnostic overshadowing.",
+    "refs": [
+      "d-anxiety"
+    ],
+    "exhibit": null,
+    "subtopic": "Anxiety and physical assessment",
+    "learningObjective": "Assess new physical symptoms without diagnostic overshadowing.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-018",
+    "cat": "psychosocial",
+    "title": "After a panic episode",
+    "stem": "A client's acute panic has settled and concentration has returned. Which next step most directly develops a response to future episodes?",
+    "type": "single",
+    "options": [
+      "Arrange additional reassurance visits with the nurse",
+      "Reduce the client's exposure to the immediate stressor",
+      "Review early cues and rehearse a chosen coping response",
+      "Review whether prescribed medicines were taken consistently"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Additional contact can support the client, but does not directly practise their own early response.",
+      "Temporary stress reduction may help, but does not build a response for unavoidable future anxiety.",
+      "With concentration restored, the client can connect early signs with a practised action.",
+      "Medication use is relevant, but the stated goal is to develop a practical coping response."
+    ],
+    "takeaway": "Review panic triggers and coping after the client regains focus.",
+    "refs": [
+      "d-anxiety"
+    ],
+    "exhibit": null,
+    "subtopic": "Anxiety self-management",
+    "learningObjective": "Review panic triggers and coping after the client regains focus.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-019",
+    "cat": "psychosocial",
+    "title": "Generalized worry and function",
+    "stem": "A client with persistent worry has begun missing work. The nurse has reviewed worry themes, duration and physical symptoms. Which further assessment most directly guides support for the new impairment?",
+    "type": "single",
+    "options": [
+      "Effects on daily tasks and coping attempts at work",
+      "Relatives' histories of anxiety and treatment",
+      "Situations that first triggered worry years ago",
+      "The probability of each feared event occurring"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Current functional effects and attempted responses show where support and treatment goals are needed now.",
+      "Family history can inform assessment, but does not describe how the present work difficulty can be addressed.",
+      "Historical triggers may be relevant, but current functioning is the newly identified problem.",
+      "Testing feared probabilities may be a later therapeutic strategy; it does not establish the practical effect on current roles."
+    ],
+    "takeaway": "Assess how anxiety affects function and what sustains it.",
+    "refs": [
+      "d-anxiety"
+    ],
+    "exhibit": null,
+    "subtopic": "Anxiety assessment",
+    "learningObjective": "Assess how anxiety affects function and what sustains it.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-020",
+    "cat": "psychosocial",
+    "title": "Preparing for graded exposure",
+    "stem": "A client's agreed phobia plan starts with standing near a closed lift for two minutes using a coping skill. After one minute, the client reports tolerable anxiety and wants to complete the step. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Offer a short lift ride while the client feels willing",
+      "Explain the lift's safety features for the remaining minute",
+      "End the practice now because anxiety is still present",
+      "Support completion of the current step and review the response"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Advancing to a different step is not required simply because the client is willing to continue the current one.",
+      "Technical reassurance does not replace practising the selected coping response during exposure.",
+      "Tolerable anxiety does not necessarily require stopping a collaborative graded exercise.",
+      "The client is tolerating and consents to the planned step; completing it provides information for the treatment team's next decision."
+    ],
+    "takeaway": "Support agreed gradual exposure without improvising coercive challenges.",
+    "refs": [
+      "d-anxiety"
+    ],
+    "exhibit": null,
+    "subtopic": "Phobia support",
+    "learningObjective": "Support agreed gradual exposure without improvising coercive challenges.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-021",
+    "cat": "psychosocial",
+    "title": "Anxiety coping skills",
+    "stem": "A client has manageable anxiety and asks to practise coping between therapy visits. Repeated reassurance calls have provided only brief relief. Which additions support a more independent plan? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Practise noticing present surroundings during rising anxiety",
+      "Rehearse a comfortable paced-breathing exercise",
+      "Request reassurance from a different person whenever worry returns",
+      "Link early warning cues to a chosen coping action"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "why": [
+      "Present-focused grounding offers a response the client can practise independently.",
+      "A comfortable rehearsed breathing pattern can be used early when distress rises.",
+      "Changing the source of repeated reassurance may preserve the same short-lived relief cycle.",
+      "Recognizing cues and linking them to action makes the plan usable before anxiety becomes overwhelming."
+    ],
+    "takeaway": "Practise coping skills when the client can engage and learn.",
+    "refs": [
+      "d-anxiety"
+    ],
+    "exhibit": null,
+    "subtopic": "Anxiety coping",
+    "learningObjective": "Practise coping skills when the client can engage and learn.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-022",
+    "cat": "psychosocial",
+    "title": "Social anxiety and participation",
+    "stem": "A client wants to join a support group but fears being called on unexpectedly. With the therapist, the client has chosen to observe the first meeting and consider speaking later. Which arrangement best supports this step?",
+    "type": "single",
+    "options": [
+      "Ask the client to introduce themselves at the start",
+      "Confirm an observer role with the group facilitator",
+      "Arrange an individual session in place of the group",
+      "Offer a seat near the door for the first meeting"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "An immediate introduction adds a speaking demand beyond the chosen initial role.",
+      "A clear observer agreement makes the planned first participation step predictable.",
+      "Individual support may be useful, but substitutes avoidance for the client's chosen group step.",
+      "Door access may provide comfort, but leaves the specific fear of being called on unresolved."
+    ],
+    "takeaway": "Support gradual chosen participation for social anxiety.",
+    "refs": [
+      "d-anxiety"
+    ],
+    "exhibit": null,
+    "subtopic": "Social anxiety",
+    "learningObjective": "Support gradual chosen participation for social anxiety.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-023",
+    "cat": "psychosocial",
+    "title": "Caffeine and anxiety patterns",
+    "stem": "A stable client reports evening palpitations after several energy drinks during study sessions. Which history most directly tests this reported association while further assessment proceeds?",
+    "type": "single",
+    "options": [
+      "The usual sleep schedule during examination weeks",
+      "Use of prescribed medicines that can affect heart rate",
+      "Caffeine amounts and timing relative to each episode",
+      "Any personal history of fainting or chest discomfort"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Sleep is a relevant contributor, but does not directly connect drink exposure to episodes.",
+      "Medication history matters, but addresses a different possible contributor.",
+      "Exposure timing and quantity help evaluate the stated association; this does not exclude other medical causes.",
+      "Associated red flags are important to urgency, but the question asks which history tests the drink-symptom pattern."
+    ],
+    "takeaway": "Assess stimulant exposure when evaluating anxiety-like symptoms.",
+    "refs": [
+      "d-anxiety"
+    ],
+    "exhibit": null,
+    "subtopic": "Anxiety contributors",
+    "learningObjective": "Assess stimulant exposure when evaluating anxiety-like symptoms.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-024",
+    "cat": "psychosocial",
+    "title": "Anxiety versus immediate learning",
+    "stem": "A highly anxious client cannot repeat a simple discharge instruction after two short explanations and says, \"I cannot take this in.\" Discharge is not urgent. What should the nurse do next?",
+    "type": "single",
+    "options": [
+      "Help settle the anxiety before retrying the essential teaching",
+      "Provide the same instruction in a written handout",
+      "Invite a support person to listen to another explanation",
+      "Repeat the teach-back question in different words"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "The current readiness barrier is intense anxiety; supportive regulation can improve capacity before essential learning is retried.",
+      "Written material can supplement learning but may not resolve current inability to process information.",
+      "A support person may help later, but the client's present distress still requires attention.",
+      "Further questioning may add pressure while the client is unable to attend to the information."
+    ],
+    "takeaway": "Restore readiness when anxiety prevents learning.",
+    "refs": [
+      "d-anxiety"
+    ],
+    "exhibit": null,
+    "subtopic": "Anxiety and education",
+    "learningObjective": "Restore readiness when anxiety prevents learning.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-025",
+    "cat": "psychosocial",
+    "title": "Evaluating anxiety improvement",
+    "stem": "A client who avoided shopping chose a goal of completing a short trip using coping skills. Which outcome best demonstrates progress toward that goal?",
+    "type": "single",
+    "options": [
+      "The client reports lower anxiety while resting at home",
+      "The client visits with staff giving continuous reassurance",
+      "The client shops at a quieter time with a relative doing the tasks",
+      "The client completes a brief trip using the practised coping plan"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Reduced resting anxiety does not establish progress in the avoided activity.",
+      "Supported attendance is a step, but does not show the chosen use of the client's own coping skills.",
+      "A quieter setting may help, but having someone else perform the task does not demonstrate the selected functional goal.",
+      "Completing the valued task with the practised response directly shows the intended functional change."
+    ],
+    "takeaway": "Evaluate anxiety care through improved function and coping.",
+    "refs": [
+      "d-anxiety"
+    ],
+    "exhibit": null,
+    "subtopic": "Anxiety outcome evaluation",
+    "learningObjective": "Evaluate anxiety care through improved function and coping.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  }
+]

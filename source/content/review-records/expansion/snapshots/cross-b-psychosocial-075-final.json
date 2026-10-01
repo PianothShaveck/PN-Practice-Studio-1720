@@ -1,0 +1,34 @@
+[
+  {
+    "id": "x-psychosocial-075",
+    "cat": "psychosocial",
+    "title": "Digital messages suggesting risk",
+    "stem": "A client shows farewell messages drafted during a difficult night but never sent. They say they feel embarrassed. Which question best assesses whether the writing reflected preparation for self-harm?",
+    "type": "single",
+    "options": [
+      "Were you preparing to end your life when you wrote these?",
+      "Who did you plan to send each of these messages to?",
+      "Have you written emotional letters during difficult times before?",
+      "Which person on your support list would you like to contact?"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Directly asking about the purpose of the drafts clarifies possible preparatory behaviour; the answer then informs assessment of current thoughts, intent and safety. Unsent drafts still warrant assessment.",
+      "Recipients provide context but do not establish the intent behind writing or present danger.",
+      "Past writing habits may inform the history but cannot establish the meaning of this episode.",
+      "Support contact can be useful, but current intent should be explored directly rather than inferred from willingness to connect."
+    ],
+    "takeaway": "Assess the meaning of preparatory or farewell communication.",
+    "refs": [
+      "d-suicide"
+    ],
+    "exhibit": null,
+    "subtopic": "Suicide warning behaviour",
+    "learningObjective": "Assess the meaning of preparatory or farewell communication.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  }
+]

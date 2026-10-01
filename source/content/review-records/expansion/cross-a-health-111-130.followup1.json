@@ -1,0 +1,186 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewerTask": "/root/author_management_safety",
+  "reviewedAt": "2026-10-01T18:01:14.901175+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-a-health-revised-snapshot.json",
+  "coverage": {
+    "reviewedItems": 18,
+    "reviewedIds": [
+      "x-health-111",
+      "x-health-112",
+      "x-health-113",
+      "x-health-114",
+      "x-health-115",
+      "x-health-116",
+      "x-health-117",
+      "x-health-118",
+      "x-health-120",
+      "x-health-121",
+      "x-health-122",
+      "x-health-123",
+      "x-health-124",
+      "x-health-125",
+      "x-health-127",
+      "x-health-128",
+      "x-health-129",
+      "x-health-130"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Reread complete revised items including metadata, references, key, every option and rationale against the original issue. Each row reflects actual independent reasoning, not automatic acceptance of proposed edits.",
+  "limitations": [
+    "Not external clinician or psychometric validation",
+    "Primary-source checks are targeted and documented in prior reports; additional references supplied by the author are not claimed as newly independently verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-health-111",
+      "status": "pass",
+      "assessment": "Normal acuity is now distinguished from retinal screening with plausible misconceptions and an honest foundation label.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4ff0748382a329c7913568b595441efdc523f49572add1f36db9a8e1d17f28d2"
+    },
+    {
+      "id": "x-health-112",
+      "status": "pass",
+      "assessment": "Established technique makes escalation decisions the specific missing skill; the revised teaching alternatives are credible and parallel.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3ac0af6a998e48ec06585179dba0a1806e268709476b8520adb90d539ca33219"
+    },
+    {
+      "id": "x-health-113",
+      "status": "pass",
+      "assessment": "Actual diary entries are comparable and the keyed entry uniquely links timing, a possible trigger, associated symptoms and treatment response.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b0b1c632abb9bd7f72501e8079e112669878c0ad0f6368bd1b89c238160d1d00"
+    },
+    {
+      "id": "x-health-114",
+      "status": "pass",
+      "assessment": "The daily reporting plan and inconsistent measurement conditions favour reproducible morning weighing; alternatives are real measurement routines.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "68a501a0e398ab57f9dd7345d906e1a4c97e296fd3704dc073d03708f1ae3d8e"
+    },
+    {
+      "id": "x-health-115",
+      "status": "pass",
+      "assessment": "Actual telephone availability and absent internet determine feasible contact routes; rehearsal tests their use and booking voicemail is not dependable triage.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1ff2161e97392b7db480d6d37f3d89886d1346bef1269c1bf04875072ce8bde6"
+    },
+    {
+      "id": "x-health-116",
+      "status": "pass",
+      "assessment": "Clinical readiness and demonstrated exercise performance isolate the feared warning-symptom decision; rehearsal is directly targeted.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d222ce142de146e6e0f67e64826c486de9430b04e590ddb0eabf205debbefa85"
+    },
+    {
+      "id": "x-health-117",
+      "status": "pass",
+      "assessment": "The stock-cube sodium source, retained family meal and existing label literacy distinguish a concrete acceptable recipe substitution.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f2f02b461d04f85929952df30568d8de1481f6f43b56ede414db1bea4a1bc96e"
+    },
+    {
+      "id": "x-health-118",
+      "status": "pass",
+      "assessment": "A funded route available before the required test date directly removes the demonstrated cost barrier without changing clinical monitoring.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5a46ee95ca39c738857a084527d3c631e05e725a49fa6d82c89a72c80fc67f5a"
+    },
+    {
+      "id": "x-health-120",
+      "status": "revise",
+      "assessment": "Current meter detail and refill barriers are useful, but using an old medication list for reconciliation can itself help reconciliation; the stem does not establish a medication change and asks what would help, not what is sufficient.",
+      "issues": [
+        "Current meter detail and refill barriers are useful, but using an old medication list for reconciliation can itself help reconciliation; the stem does not establish a medication change and asks what would help, not what is sufficient."
+      ],
+      "proposedChanges": [
+        "Add a recent nonprescription product or treatment change and ask which preparations provide the detail needed to assess glucose variability and current treatment. Replace option3 with Copy the previous prescription list as the current treatment record; explain the new product/current-use omission. Avoid treating any old list brought for reconciliation as inherently wrong."
+      ],
+      "reviewedItemSha256": "a4fd699e399c884e23034ea1607c49a6d4a0eb4b054e5e04c1c01ed8f985206d"
+    },
+    {
+      "id": "x-health-121",
+      "status": "pass",
+      "assessment": "Stable weight does not answer the recurring access concern; the next screening/support step is now compared with relevant nutrition assessments.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b12d25c0f04c61f774a1d2ab2fb39569d4a0a3685cee3645796936faf79c27c0"
+    },
+    {
+      "id": "x-health-122",
+      "status": "pass",
+      "assessment": "Correct technique, existing diary and recurring building leaks make structural-resource support more useful than repeating established self-care.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "cf8169b237330891cf98896298035dfabd0efb4b55b08c21537563fcead84a41"
+    },
+    {
+      "id": "x-health-123",
+      "status": "pass",
+      "assessment": "Unknown resident priorities make consultation precede otherwise plausible venue, content and facilitator planning.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8e5bc52e6039a65efef0f8ea7a51d6b4399ce85bbaba73565367d02bda7ae534"
+    },
+    {
+      "id": "x-health-124",
+      "status": "pass",
+      "assessment": "The disparity is documented but its cause is unknown; client-informed review appropriately precedes plausible untested service changes.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3c710d9fda2bbc18b1cdd23203c5aa39e50d076d9394595495c54681c6640b25"
+    },
+    {
+      "id": "x-health-125",
+      "status": "pass",
+      "assessment": "Transport hours, interpretation and physical access provide concrete evidence for each selected arrangement; five choices avoid the prior unrelated foils.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "487b0b483353bc1e86a5074bea9f6e288b3699b02ae2d4704d7e19363986a227"
+    },
+    {
+      "id": "x-health-127",
+      "status": "pass",
+      "assessment": "The specified moderate reading and absence of urgent symptoms support standardized repeat measurement before further screening decisions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a13acbf9e2d25781f715eb6b9dd2a82805fae38e33227a5c55dcd4e5ba179baf"
+    },
+    {
+      "id": "x-health-128",
+      "status": "pass",
+      "assessment": "The stated hearing limitation and demonstrated text access make the available client-approved text referral feasible.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "031df91b93b9592b41ba8f8d515ec7f449f342ece1957266df26a13c585d9ae3"
+    },
+    {
+      "id": "x-health-129",
+      "status": "pass",
+      "assessment": "Parallel realistic program outcomes distinguish action performance from confidence, recall and completed contact information.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ee3af1983bb58cf6e7d83807c5b3b189ac8098d82ae1c6995c4fe25a166516ba"
+    },
+    {
+      "id": "x-health-130",
+      "status": "pass",
+      "assessment": "An invited community-led planning context makes local selection and cultural-safety feedback appropriate; transferring another program unchanged is a credible but insufficient shortcut.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c11043ed7b7cd5bf6b636b5e9932e05bb5c7004b5c9886a8daf773ad5e23f953"
+    }
+  ]
+}

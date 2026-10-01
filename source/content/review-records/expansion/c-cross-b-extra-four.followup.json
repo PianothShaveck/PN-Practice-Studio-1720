@@ -1,0 +1,56 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewerTask": "/root/author_risk_basic",
+  "reviewedAt": "2026-10-01T18:26:03.358758+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/b-extra/questions.json",
+  "coverage": {
+    "reviewedItems": 4,
+    "reviewedIds": [
+      "x-adaptation-183",
+      "x-adaptation-188",
+      "x-adaptation-195",
+      "x-adaptation-198"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Actually reread complete current versions of the four applied revisions and reasoned against previous findings. This is substantive review, followed by exact-item hashing.",
+  "limitations": [
+    "Independent AI review, not clinician or psychometric validation.",
+    "Targeted source checks are recorded in prior cross-review reports; no blanket source validation claim."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-adaptation-183",
+      "status": "pass",
+      "assessment": "The revised stem establishes authorized emergency positioning without naming the answer. All options are concrete positions; knee-chest relieves pressure while skilled obstetric care proceeds. RCOG targeted support is recorded in the prior report.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "08a04d9791f9a8ecb659669be694e29f48648eb38104d607bb345e33ac4d32c5"
+    },
+    {
+      "id": "x-adaptation-188",
+      "status": "pass",
+      "assessment": "Alternatives now offer relevant perioperative explanations. Vomiting, oliguria and dehydration distinguish physiological stabilization from fasting, weight restoration or routine preparations; key and case-specific rationales agree.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3d28e34cf2070f17bae8571be450777ae73577bbb284650dc505f10c149ec727"
+    },
+    {
+      "id": "x-adaptation-195",
+      "status": "pass",
+      "assessment": "All four explanations describe relevant observations after croup treatment. Sustained airway improvement as short-acting epinephrine wears off most directly answers the recurrence-focused discharge question.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a12b4fe69a7f8519700175b181444a93bb359b40311a914e6048a7d4e13f593e"
+    },
+    {
+      "id": "x-adaptation-198",
+      "status": "pass",
+      "assessment": "The alternatives are comparable clinical interpretations. Transient pain relief followed by diffuse tenderness, fever and tachycardia supports urgent reassessment for possible perforation, without presenting symptom interpretation as a confirmed diagnosis.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6812b5237c9ea19ea6ea813c80e52f6feaf1f1a0cf2fa33595f98975f6f86386"
+    }
+  ]
+}

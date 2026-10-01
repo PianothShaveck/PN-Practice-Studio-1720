@@ -1,0 +1,308 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T18:13:44.802024+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/b-final-recheck-input/adaptation-01.json",
+  "sourceSha256": "11f8239c20e2d735f2793bd9779e39d4223187244e95f94a56070bac0717d164",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-adaptation-001",
+      "x-adaptation-002",
+      "x-adaptation-003",
+      "x-adaptation-004",
+      "x-adaptation-005",
+      "x-adaptation-006",
+      "x-adaptation-007",
+      "x-adaptation-008",
+      "x-adaptation-009",
+      "x-adaptation-010",
+      "x-adaptation-011",
+      "x-adaptation-012",
+      "x-adaptation-013",
+      "x-adaptation-014",
+      "x-adaptation-015",
+      "x-adaptation-016",
+      "x-adaptation-017",
+      "x-adaptation-018",
+      "x-adaptation-019",
+      "x-adaptation-020",
+      "x-adaptation-021",
+      "x-adaptation-022",
+      "x-adaptation-023",
+      "x-adaptation-024",
+      "x-adaptation-025"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Full reread of all25 complete revised cases and prior report, including all option explanations, supplied protocol/exhibits, keys and difficulty. Two residual revisions manually identified; exact snapshot hash anchors input.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "ids": [
+        "x-adaptation-007"
+      ],
+      "url": "https://tracheostomy.org.uk/e-learning-files/NTSP_01_002-Emergency_Care_lo_pack/d/ELFH_Session_4_11_0/782/tab_995.html",
+      "checked": true,
+      "accessMode": "primary safety-project search excerpt",
+      "note": "Retrieved suction-catheter patency assessment after inner-tube removal; failure requires structured emergency management, not prolonged secretion treatment trials."
+    },
+    {
+      "ids": [
+        "x-adaptation-021"
+      ],
+      "url": "https://www.cdc.gov/carbon-monoxide/hcp/clinical-guidance/index.html",
+      "checked": true,
+      "accessMode": "primary public-health guidance search excerpt",
+      "note": "Conventional two-wavelength oximetry is inaccurate with carboxyhaemoglobin. The item does not use a particular diagnostic COHb cutoff."
+    },
+    {
+      "ids": [
+        "x-adaptation-003"
+      ],
+      "url": "https://www.nice.org.uk/guidance/ng115/chapter/Recommendations",
+      "checked": true,
+      "accessMode": "primary guideline search excerpts",
+      "note": "Retrieved ABG assessment during acute COPD exacerbation and need to assess inspired oxygen; the question supplies the individualized saturation target."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-adaptation-001",
+      "status": "pass",
+      "assessment": "Quieting breath sounds with exhaustion and few-word speech in severe asthma indicate critically reduced airflow, not resolution. Parallel interpretations require combining trajectory and work rather than treating sound alone as improvement.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5a3b98b2d3bca082ea8cacad1eb48d2826b22c58dac224c03f9e6ac0b36985c9"
+    },
+    {
+      "id": "x-adaptation-002",
+      "status": "pass",
+      "assessment": "Severe symptoms recurring within minutes of reliever with limited speech require urgent support and authorized emergency treatment. Peak-flow effort or routine scheduling must not postpone escalation; comfort coaching is supportive rather than sufficient.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a96269521ec2af5cfbfc144b936674673d48ae6abd7cb2e5ee2bd2d5c0f53f80"
+    },
+    {
+      "id": "x-adaptation-003",
+      "status": "pass",
+      "assessment": "Explicit target88–92%, current98% on increased support, and new drowsiness/shallow breathing justify controlled titration plus urgent ventilation assessment. Neither arbitrary return to old flow nor saturation alone establishes safety; no universal COPD oxygen withdrawal is implied.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c36a8ca86536ac910fc45ab045fd4b6aed308cf24668c5034c407c0a096ad831"
+    },
+    {
+      "id": "x-adaptation-004",
+      "status": "pass",
+      "assessment": "Maintained saturation with increasing oxygen, accessory-muscle work and exhaustion signals declining reserve. Recovery fatigue/anxiety do not adequately explain the simultaneous support escalation and physiological effort.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "16e6f0f7c022e6103017ae0d4293c8d497dc4a499f970d799c9a325f25acad1b"
+    },
+    {
+      "id": "x-adaptation-005",
+      "status": "pass",
+      "assessment": "New inattention, tachypnoea and poor intake during pneumonia merit acute assessment despite temperature37.4. A high-fever threshold, room-change explanation or nutrition task would underweight changed baseline.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8939509570d57ac8788414266e042456ef169f559b0ac0d63850082f62515f29"
+    },
+    {
+      "id": "x-adaptation-006",
+      "status": "pass",
+      "assessment": "Vomiting trapped in NIV with inability to clear requires immediate interface removal and airway protection/help. Antiemetic, partial loosening or lateral position under a fitted mask does not reliably clear the current airway threat.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "da597a282266a6b2588d87fdbcc337f8810961ebb975ae70efd0fbfb1db45c37"
+    },
+    {
+      "id": "x-adaptation-007",
+      "status": "pass",
+      "assessment": "After inner-cannula removal, failure of an appropriate suction catheter to pass indicates obstruction/displacement concern. Emergency airway algorithm/support is appropriate; smaller-catheter trials, humidification replacement or bronchodilator do not establish tube patency.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a7cc80770ce6337f3586e33d28189946f36a7028426a1945cce8253335a7539f"
+    },
+    {
+      "id": "x-adaptation-008",
+      "status": "pass",
+      "assessment": "Visible retained secretions, gurgling, ineffective cough and falling saturation support competent protocol-based suction/reassessment. Oxygen, coaching and humidification may assist but do not directly remove this current burden.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "372eeae80814894c31dc0aaaa0c0c594dc35aefea83576d3a9169cbce506e60b"
+    },
+    {
+      "id": "x-adaptation-009",
+      "status": "pass",
+      "assessment": "Bradycardia/desaturation during suction calls for withdrawal of the provoking catheter and oxygenation support. Leaving the catheter or continuing the pass can perpetuate the stimulus; shortening a future pass is not the immediate response.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "94633ebba91fb4aa955e036219e72137e82dcbc1ca3760475e4c32fdb0ebd1a1"
+    },
+    {
+      "id": "x-adaptation-010",
+      "status": "pass",
+      "assessment": "Expanding subcutaneous crepitus plus dyspnoea requires breathing assessment and urgent review. Marking, dressing checks and especially clamping an air-leaking drain do not address possible accumulating intrathoracic air.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3b7128f5e26fe1ddfef3dd12b7395f75a9666f4e93165dc43ea14dbafa3b4ae7"
+    },
+    {
+      "id": "x-adaptation-011",
+      "status": "pass",
+      "assessment": "Explicit device/local-protocol context with a prepared sterile replacement unit makes restoration the defensible choice. The question does not impose a universal disconnection technique or clamping rule; active air leak explains why routine clamping is inappropriate in the supplied plan.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ccfda03409265598d3a5e9f6bb83291df161add9719bda36baf759c6822429a3"
+    },
+    {
+      "id": "x-adaptation-012",
+      "status": "pass",
+      "assessment": "Sudden unilateral reduced air entry with hypotension after central-line placement makes tension pneumothorax the most urgent differential. Oedema, vagal response and plugging do not fit the combined procedure/side-specific/shock pattern as well.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3944addd2e5861fa254d2b92a88bf9d603e71e558a745e17d2a87065dca067b1"
+    },
+    {
+      "id": "x-adaptation-013",
+      "status": "pass",
+      "assessment": "Inability to clear actively increasing airway blood prioritizes help, airway clearance and oxygenation over specimen, IV or volume measurement tasks. Unknown bleeding side appropriately avoids an unsupported side-position command.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6b57ab7f419aa553e6ace1843c1bd205efe1d6815ada89989e9a2327c73e9b26"
+    },
+    {
+      "id": "x-adaptation-014",
+      "status": "revise",
+      "assessment": "Upright support is reasonable, but a supported forward-leaning posture can also relieve dyspnoea; the rationale’s claim that upright is less demanding is not established by the stem. Add a functional cue that makes the alternative genuinely unsuitable rather than assuming a universal best posture.",
+      "issues": [
+        "Upright support is reasonable, but a supported forward-leaning posture can also relieve dyspnoea; the rationale’s claim that upright is less demanding is not established by the stem. Add a functional cue that makes the alternative genuinely unsuitable rather than assuming a universal best posture."
+      ],
+      "proposedChanges": [
+        {
+          "stem": "A client with a large pleural effusion becomes more breathless when the bed is lowered. They are alert, blood pressure is stable and there is no spinal precaution. Painful wrist arthritis prevents bearing body weight through the hands or forearms. Prescribed drainage is being arranged. Which position should the nurse try first and then evaluate?",
+          "options": [
+            "Sit leaning forward with the forearms bearing weight on the knees.",
+            "Remain recumbent with the knees supported.",
+            "Raise the head and support the client upright.",
+            "Use supported side-lying with the head near bed level."
+          ],
+          "why": [
+            "This posture depends on the upper-limb weight bearing that the client cannot tolerate.",
+            "Knee support may improve comfort but does not address the respiratory effect of lowering the trunk.",
+            "Back-supported upright positioning addresses recumbent breathlessness without requiring painful arm weight bearing.",
+            "The low head position does not best address the observed worsening when the trunk is lowered."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "912c667c23fca7581e11301c82583fa5c60bffa4de8455cc79b3407dc621bb94"
+    },
+    {
+      "id": "x-adaptation-015",
+      "status": "pass",
+      "assessment": "Quantified change to rapid fresh chest drainage with falling pressure/tachycardia/pallor supports urgent circulatory/surgical review. CBC, local dressing and measurement verification can accompany care but must not delay response to instability.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5c98a44fc7e079f7837222dde5dfb80a5519292679ada093c6041cc5c64450b2"
+    },
+    {
+      "id": "x-adaptation-016",
+      "status": "pass",
+      "assessment": "Total laryngectomy separates upper airway from lungs, making stoma oxygen necessary. The three facial/nasal configurations fail because of anatomy; foundational classification is appropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7198520f300b60a1f466bc736a55674859d39c3071bc7a62b20cfbca538fe79d"
+    },
+    {
+      "id": "x-adaptation-017",
+      "status": "pass",
+      "assessment": "Reduced coarse secretion noise plus easier expectoration directly supports clearance. Less sputum with congestion, exhausted cough suppression and saturation maintained on more oxygen are clinically meaningful false-improvement alternatives.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c731f39dc3e3a761c3e3f0aafb62e1471c5ce2fb28b4ff0fe2f818cf21ec699d"
+    },
+    {
+      "id": "x-adaptation-018",
+      "status": "pass",
+      "assessment": "New purulence, dyspnoea and activity loss during bronchiectasis warrant prompt exacerbation assessment. Hydration, routine technique review and unchanged baseline care do not address the acute deterioration.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6f5b966fca8f8f7726af52e4ba2b5f88df68fd096f8fcabaa3df07fa986c24f4"
+    },
+    {
+      "id": "x-adaptation-019",
+      "status": "pass",
+      "assessment": "Acute cough/wet respirations/desaturation during feed requires stopping delivery and addressing airway/breathing first. Tube marking, protocol residual and equipment checks follow stabilization rather than replace it.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a565d0292904ae62ef22b6842e0e5ab679c28ee20b4b33edd9e916facb40e479"
+    },
+    {
+      "id": "x-adaptation-020",
+      "status": "pass",
+      "assessment": "Soot, new hoarseness and enclosed-fire exposure raise progressive airway injury concern despite saturation97%. Airway review appropriately precedes burn-area measurement, dressings and detailed history.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "201661eccbf755cbc3c2bc400ff3ae4ad4f438cda706e0a128418620d258b85f"
+    },
+    {
+      "id": "x-adaptation-021",
+      "status": "pass",
+      "assessment": "Confusion/headache after exhaust exposure requires toxic-exposure assessment and protocol oxygen despite normal conventional SpO2. Different finger measurement cannot correct carboxyhaemoglobin measurement limitations; fresh-air waiting or dehydration review is insufficient.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8b61ea41bb0d229849c8073ee71a309050b0e900278a7148a080243186d78ab7"
+    },
+    {
+      "id": "x-adaptation-022",
+      "status": "pass",
+      "assessment": "Chest instability, painful shallow breaths and increasing fatigue demand respiratory support and ordered analgesia. Imaging, coaching or positioning alone cannot establish adequate ventilation in this worsening client.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e8a2ad9ea041ff54ceb4741351e88c9982ea1169fc04de39dce03c192d8d1698"
+    },
+    {
+      "id": "x-adaptation-023",
+      "status": "pass",
+      "assessment": "New pleuritic pain/tachycardia after surgery warrants urgent assessment for PE despite normal resting saturation or absent leg findings. No definitive diagnosis or universal oxygen order is claimed; foundation label fits the excluded-misconception focus.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "48b6e8dd490f36bbde42333efc90c560e247da4ff232a086b78d0202ab126c83"
+    },
+    {
+      "id": "x-adaptation-024",
+      "status": "pass",
+      "assessment": "Less work/better speech and stable oxygenation on less support demonstrate improvement. Drowsy quiet chest, slower rate from fatigue and saturation achieved on more support can signal deterioration; both selected outcomes are independent evidence.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "73f91fc3d9c15b54c5645cea3c310ad16a1fea33ad04fb34352abc0925814068"
+    },
+    {
+      "id": "x-adaptation-025",
+      "status": "revise",
+      "assessment": "The blood gas is coherent and the respiratory-acidosis key is correct, but the key uniquely combines a classification with the appropriate urgent action while other options remain short interpretations. Make classifications parallel; retain urgency in the rationale.",
+      "issues": [
+        "The blood gas is coherent and the respiratory-acidosis key is correct, but the key uniquely combines a classification with the appropriate urgent action while other options remain short interpretations. Make classifications parallel; retain urgency in the rationale."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Normal acid-base balance",
+            "Respiratory acidosis",
+            "Metabolic acidosis",
+            "Respiratory alkalosis"
+          ]
+        }
+      ],
+      "reviewedItemSha256": "e9453474f2c581eacb8a77fbfcc4b6c2b3323f63adbe4e3e8436c3c1a2d94f9c"
+    }
+  ],
+  "activeSourceFile": "authoring/b/adaptation-01.json",
+  "reviewerTask": "/root/review_legacy"
+}

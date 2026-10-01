@@ -1,0 +1,264 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:43:52.862769+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/basic-051-075.json",
+  "sourceSha256": "1e5c6c7d1adcffb8886c4f95d7c5ede9c459aceae7439030096084f61302d637",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 13,
+    "reviewedIds": [
+      "x-basic-051",
+      "x-basic-052",
+      "x-basic-053",
+      "x-basic-054",
+      "x-basic-055",
+      "x-basic-056",
+      "x-basic-067",
+      "x-basic-068",
+      "x-basic-070",
+      "x-basic-072",
+      "x-basic-073",
+      "x-basic-074",
+      "x-basic-075"
+    ],
+    "unreviewedIds": [
+      "x-basic-057",
+      "x-basic-058",
+      "x-basic-059",
+      "x-basic-060",
+      "x-basic-061",
+      "x-basic-062",
+      "x-basic-063",
+      "x-basic-064",
+      "x-basic-065",
+      "x-basic-066",
+      "x-basic-069",
+      "x-basic-071"
+    ]
+  },
+  "method": "Each listed stem/topic and new reference mapping was manually examined. Replacing current refs with the recorded oldRefs reproduces a prior independently approved full-item hash; this proves all other fields are unchanged. The present pass approves the manually assessed reference relevance while carrying forward that exact unchanged-content review. It is not a new full clinical review or an automated pass based solely on hash equality.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-basic-051",
+      "status": "pass",
+      "assessment": "Dysphagia guidance is directly relevant to alertness and safe assisted feeding under an established plan. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f8f4d720b10ae22ba28cec3a9959e6d67fd0415814739f0e50ed0f00437ed68a"
+    },
+    {
+      "id": "x-basic-052",
+      "status": "pass",
+      "assessment": "Dysphagia reference matches consistency/texture adherence to the prescribed swallow plan. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3c42e25a95ce49fad14d2f85d62ddd2d84b0ccfa0aa26c55fdb606409d4d4fb0"
+    },
+    {
+      "id": "x-basic-053",
+      "status": "pass",
+      "assessment": "Dysphagia guidance matches safe implementation of individualized assisted-meal pacing. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d024fdc0cc8818080b6a237fa6d33b5c425265aec2dccc92fde01edcdfc9c4fb"
+    },
+    {
+      "id": "x-basic-054",
+      "status": "pass",
+      "assessment": "Dysphagia guidance fits reassessment of low intake when prescribed thickened fluids are poorly accepted. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "264d46331c96a1eda663846c935833bf9c5bae4f01c632f843978b18811ecc20"
+    },
+    {
+      "id": "x-basic-055",
+      "status": "pass",
+      "assessment": "Poststroke dysphagia guidance is relevant to cheek pocketing and reassessment during feeding. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2df594a1fe4be1bbe85d97e9fecd0f979db09f82df20ce441c21c8dfc1b29a4a"
+    },
+    {
+      "id": "x-basic-056",
+      "status": "pass",
+      "assessment": "Poststroke nutrition/swallowing plus feeding-assistance guidance provide related support for supervised meal adaptation; neglect-specific rehabilitation details remain individualized. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c6cc00e4272dd3f16f16bdf663c4d82254981d3d2faac1edde525f1592bdd90d"
+    },
+    {
+      "id": "x-basic-067",
+      "status": "pass",
+      "assessment": "Celiac-specific diet guidance directly addresses checking unknown gravy ingredients for gluten. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c8ef19b51728c9f4c754e5c48bfa37bc775bb993dc99c0c8903f9cbb42b2d738"
+    },
+    {
+      "id": "x-basic-068",
+      "status": "pass",
+      "assessment": "Lactose-intolerance nutrition guidance directly fits tolerated lactose-free substitution. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fabf18b040722a4b01dd965c6a531441bfd0dc7c435022d88fe418ef620982f8"
+    },
+    {
+      "id": "x-basic-070",
+      "status": "pass",
+      "assessment": "Oral hygiene plus poststroke/enteral nutrition guidance fit continued mouth care despite tube feeding. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "234a350afe321be6d6b4bb4001d0804999f14e2d2b8b1d9ca363f158d3db2aab"
+    },
+    {
+      "id": "x-basic-072",
+      "status": "pass",
+      "assessment": "Constipation guidance is relevant to interpreting comfortable individual bowel patterns without imposing daily stool. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7c4eda0fceb052c6de6647402d83569a9c72a353423fd461d28fd50df0e3e958"
+    },
+    {
+      "id": "x-basic-073",
+      "status": "pass",
+      "assessment": "Constipation guidance fits bowel routine and responding to post-meal urge. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f074fa4678892d8cd563e940db34622f0cc22b814cfd8e33023a3f239f2c69a4"
+    },
+    {
+      "id": "x-basic-074",
+      "status": "pass",
+      "assessment": "Constipation guidance fits gradual fibre adjustment and hydration rather than sudden escalation. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "759f2c55e94f1ed98fb31a063a8013a0d082311cb33522bf77021282054b4cac"
+    },
+    {
+      "id": "x-basic-075",
+      "status": "pass",
+      "assessment": "Constipation/toileting guidance is related to supported posture and avoiding unnecessary straining. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "cbf7083bdde96d3c2cee92b77f777f185b8dfa05cb9ec8fcde3a1803e70cf313"
+    }
+  ],
+  "referenceProofs": {
+    "x-basic-051": {
+      "priorPassReport": "c-basic-051-075.review.json",
+      "priorPassHash": "8f76ca29e35bcc1b15f58c81e3d778fcb98d6830dd7e97c0c0306379ae39c6ac",
+      "newRefs": [
+        "c-dysphagia"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-052": {
+      "priorPassReport": "c-basic-051-075.review.json",
+      "priorPassHash": "a794e88fa5062f16fd9b774e0b83b3c0c24473f97a37a36973c45a620a886571",
+      "newRefs": [
+        "c-dysphagia"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-053": {
+      "priorPassReport": "c-basic-051-075.review.json",
+      "priorPassHash": "c78bfef6e74c8d1d3e0d1a54637dd1e8d9175766c79c5d2dd8c1f3791683eec9",
+      "newRefs": [
+        "c-dysphagia"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-054": {
+      "priorPassReport": "c-basic-051-075.review.json",
+      "priorPassHash": "cf72b822e2daa752c85dda132893ca92000215464c562989530b39c596185cc1",
+      "newRefs": [
+        "c-dysphagia"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-055": {
+      "priorPassReport": "c-basic-051-075.review.json",
+      "priorPassHash": "b96c2bb2b7aa5a127dfe6641f5f027153c2fe92a38e93d427e282964dc54243f",
+      "newRefs": [
+        "c-dysphagia"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-056": {
+      "priorPassReport": "c-basic-051-075.review.json",
+      "priorPassHash": "18720d2b65cdf7da0b87bbd4e8e1055e67c2018cd936e328e42a368f54db49f2",
+      "newRefs": [
+        "c-dysphagia",
+        "c-nutrition"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-067": {
+      "priorPassReport": "c-basic-051-075.review.json",
+      "priorPassHash": "2b8ffba6fcef05b603dedf681daca7efa8445d3438c9a86290346185033da883",
+      "newRefs": [
+        "c-celiac"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-068": {
+      "priorPassReport": "c-basic-051-075.changed-recheck.json",
+      "priorPassHash": "4e2a168e4f169cdaa4dcfe6020176988debbf07e64d08d8edd1b5e6c87c32ccc",
+      "newRefs": [
+        "c-lactose"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-070": {
+      "priorPassReport": "c-basic-051-075.changed-recheck.json",
+      "priorPassHash": "0caafe38eedd0047876990796712f82eb42bd1c48e97dee37a3783beafbeddee",
+      "newRefs": [
+        "c-oral",
+        "c-dysphagia"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-072": {
+      "priorPassReport": "c-basic-051-075.changed-recheck.json",
+      "priorPassHash": "306c529fee64411bf081559a6de4db044514f28f7f3ab977e12ff12c6ed717e9",
+      "newRefs": [
+        "c-constipation"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-073": {
+      "priorPassReport": "c-basic-051-075.review.json",
+      "priorPassHash": "bcb4d9758a92197e4827882deb7984fe875b7e92a8492a0a4d9d8e85aff742d8",
+      "newRefs": [
+        "c-constipation"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-074": {
+      "priorPassReport": "c-basic-051-075.changed-recheck.json",
+      "priorPassHash": "a5199eff1a7870a1244f775b569f52d11f83146fad43a2f121b215486ca17c46",
+      "newRefs": [
+        "c-constipation"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-075": {
+      "priorPassReport": "c-basic-051-075.changed-recheck.json",
+      "priorPassHash": "f0b681e791cb5c27eb469e729c3a8194fae9d072a3aee99634ebb8da21ff41fc",
+      "newRefs": [
+        "c-constipation"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    }
+  },
+  "sourceCheckLimit": "New source names, registered scopes and mapped item topics were inspected. Complete source texts were not independently retrieved for every mapping; no full-source or clinician validation is claimed.",
+  "reviewerTask": "/root/review_legacy"
+}

@@ -1,0 +1,653 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewerTask": "/root/author_risk_basic",
+  "reviewedAt": "2026-10-01T18:07:15.776866+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/b-extra/questions.json",
+  "coverage": {
+    "reviewedItems": 50,
+    "reviewedIds": [
+      "x-adaptation-101",
+      "x-adaptation-102",
+      "x-adaptation-103",
+      "x-adaptation-104",
+      "x-adaptation-105",
+      "x-adaptation-106",
+      "x-adaptation-107",
+      "x-adaptation-108",
+      "x-adaptation-109",
+      "x-adaptation-110",
+      "x-adaptation-111",
+      "x-adaptation-112",
+      "x-adaptation-113",
+      "x-adaptation-114",
+      "x-adaptation-115",
+      "x-adaptation-116",
+      "x-adaptation-117",
+      "x-adaptation-118",
+      "x-adaptation-119",
+      "x-adaptation-120",
+      "x-adaptation-121",
+      "x-adaptation-122",
+      "x-adaptation-123",
+      "x-adaptation-124",
+      "x-adaptation-125",
+      "x-adaptation-126",
+      "x-adaptation-127",
+      "x-adaptation-128",
+      "x-adaptation-129",
+      "x-adaptation-130",
+      "x-adaptation-131",
+      "x-adaptation-132",
+      "x-adaptation-133",
+      "x-adaptation-134",
+      "x-adaptation-135",
+      "x-adaptation-136",
+      "x-adaptation-137",
+      "x-adaptation-138",
+      "x-adaptation-139",
+      "x-adaptation-140",
+      "x-adaptation-141",
+      "x-adaptation-142",
+      "x-adaptation-143",
+      "x-adaptation-144",
+      "x-adaptation-145",
+      "x-adaptation-146",
+      "x-adaptation-147",
+      "x-adaptation-148",
+      "x-adaptation-149",
+      "x-adaptation-150"
+    ],
+    "unreviewedIds": [],
+    "unchangedPriorPasses": 17,
+    "changedItemsRead": 33
+  },
+  "method": "Read both original25-item reports, then actually read every field of all50 current raw questions, including all alternatives and rationales. Compared prior hashes:17 prior passes unchanged;33 prior revisions changed. All assessments below were reasoned individually. Targeted source retrieval recorded separately; no blanket source validation.",
+  "limitations": [
+    "Independent AI review, not clinician or psychometric validation.",
+    "Source checks are targeted to stated claims; other refs were inspected as metadata but not each retrieved anew.",
+    "Cross-bank uniqueness uses reported prior overlap findings and the current objectives, not a claim of exhaustive semantic or proprietary-exam comparison.",
+    "Difficulty labels are author estimates, not measured item performance."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/dumping-syndrome/symptoms-causes",
+      "claims": "Opened page; turn234view0. Late dumping occurs1–3hours after meals with measured low glucose; supports120 timing and mechanism, with acute treatment already stated."
+    },
+    {
+      "url": "https://nacblood.ca/en/resource/infection-prevention-and-control-considerations-return-blood-components-and-products",
+      "claims": "Opened and found tubing passage; turn234view1/turn236view0. When reaction material return is required, retain component with attached tubing/flush and handle safely; supports136 conditional local procedure."
+    },
+    {
+      "url": "https://cps.ca/en/documents/position/acute-complications-with-sickle-cell",
+      "claims": "Opened and focused passages; turn234view2/turn236view1/2. Avoid overhydration; caregiver spleen-size monitoring and rapid enlargement/pallor/tachycardia support133/134. No treatment doses authored or validated here."
+    },
+    {
+      "url": "https://professionaleducation.blood.ca/en/transfusion/clinical-guide/transfusion-reactions",
+      "claims": "Opened page; turn237view0. TACO criteria include hypertension, jugular distension and positive balance; haemolysis investigations include raisedLDH/bilirubin. Supports137/138 distinct interpretive objectives."
+    },
+    {
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/exocrine-pancreatic-insufficiency/treatment",
+      "claims": "Opened page turn237view1; meal/snack enzyme-use premise for108. Focus of proposed revision is assessment wording, not a changed medication regimen."
+    },
+    {
+      "url": "https://cancer.ca/en/treatments/side-effects/fluid-in-the-abdomen-ascites",
+      "claims": "Opened and found management passage; turn234view3/turn236view3. Ascites causes early satiety/breathlessness; paracentesis and selected diuretic strategies are management options. Supports148 key and credible competing plan."
+    },
+    {
+      "url": "https://cancer.ca/en/treatments/side-effects/diarrhea",
+      "claims": "Opened page turn237view2 for141 treatment-related diarrhoea/dehydration context. No universal oncology drug-hold or dose instruction is implied."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-adaptation-101",
+      "status": "pass",
+      "assessment": "Hypotension, tachycardia and postural symptoms establish immediate circulatory risk before stool collection or endoscopy preparation; relevant competing tasks do not outrank support.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "aa2dc3b1855933b4952fc85f6cdd41922029a01a17fbec3cd41eecea24c15ea3",
+      "priorReviewStatus": "pass",
+      "unchangedFromPriorReview": true
+    },
+    {
+      "id": "x-adaptation-102",
+      "status": "pass",
+      "assessment": "New constipation and urinary infection symptoms are plausible reversible precipitants of abrupt inattention in cirrhosis; chronic unchanged hernia and skin signs do not explain the transition.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "28577e7a79bec705177a5e7e05d6811085ca4c2392e5193b8e980cac0b78ffc6",
+      "priorReviewStatus": "pass",
+      "unchangedFromPriorReview": true
+    },
+    {
+      "id": "x-adaptation-103",
+      "status": "pass",
+      "assessment": "Fever, tenderness and acute confusion change ascites management from fluid tracking or comfort measures to urgent possible infection assessment. The revised girth option is a plain credible competing assessment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7ccadac6685d9e732973685ac5cd82988f3fffa18e3fdfe299084c550484bcc1",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-104",
+      "status": "pass",
+      "assessment": "Less abdominal pressure does not offset symptomatic hypotension with tachycardia after drainage. Recumbent safety and urgent reassessment take priority over relevant procedure-volume and site checks.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5121980798188a934607d8cede82a4d97d9af76ec2e0a03bf60e48994f12a496",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-105",
+      "status": "pass",
+      "assessment": "Active haematemesis with declining responsiveness makes airway protection the immediate priority after help is called. Crossmatch and history remain relevant subsequent/concurrent tasks.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7ff62544a96453d54b0c77708afe076338bdcfe53ddcc135e34de0f0a8b25b2f",
+      "priorReviewStatus": "pass",
+      "unchangedFromPriorReview": true
+    },
+    {
+      "id": "x-adaptation-106",
+      "status": "pass",
+      "assessment": "Settled symptoms and an authorized feeding trial support offering prescribed intake and measuring tolerance. Waiting for enzyme normalization, automatically requiring clear liquids and selecting volume by calorie debt are recognizable errors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a2de929456529acc928274649f9d552546664f4bdf277b09264a3070d9bf9b55",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-107",
+      "status": "pass",
+      "assessment": "New respiratory support needs and falling urine with tachycardia show systemic deterioration. Pain relief and tolerated intake are recovery findings in the stated comparison.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8becbf89532651e945ea502ac828958b34144051cdfa9a52b98834009bb6e812",
+      "priorReviewStatus": "pass",
+      "unchangedFromPriorReview": true
+    },
+    {
+      "id": "x-adaptation-108",
+      "status": "revise",
+      "assessment": "The new assessment objective differs from simply giving enzyme timing instructions, but the stem explicitly asks whether enzymes accompany food, giving away the food-versus-dose comparison. Retain the objective and remove that wording cue.",
+      "issues": [
+        "The new assessment objective differs from simply giving enzyme timing instructions, but the stem explicitly asks whether enzymes accompany food, giving away the food-versus-dose comparison. Retain the objective and remove that wording cue."
+      ],
+      "proposedChanges": {
+        "stem": "A client with pancreatic insufficiency reports persistent oily stools and weight loss despite prescribed enzymes. The client reports taking the total prescribed number of capsules each day. Which additional assessment would most help identify a problem with actual use?",
+        "why": [
+          "A meal-by-meal comparison can identify ineffective timing even when the total daily number of doses is correct.",
+          "A tablet count adds information about quantity used but does not establish whether doses are taken with food.",
+          "Prescription and supply reconciliation is useful, but the reported total quantity does not assess the timing of actual use.",
+          "Adverse-effect assessment matters, but dose timing more directly tests whether the prescribed enzymes can act on food."
+        ]
+      },
+      "reviewedItemSha256": "b9917a3d21dafa1608c4828812ae50f189dc88f87f1db38efef0cb939fb60799",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-109",
+      "status": "pass",
+      "assessment": "A directly observed external compression justifies correcting it and reassessing before changing internal tube position, suction prescription or treating nausea alone.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d1df46833a66835b254e9d6600cb07721509536fdd01e1ee025f1235bc2f21b2",
+      "priorReviewStatus": "pass",
+      "unchangedFromPriorReview": true
+    },
+    {
+      "id": "x-adaptation-110",
+      "status": "pass",
+      "assessment": "Constant rather than colicky pain with new fever and tachycardia supports possible bowel compromise for handover. It does not claim the practical nurse independently diagnoses a specific surgical complication.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "420d49f3b8b49fe0d30cb38ecad17f271c8d4409447be5a9dad46ce14a25a335",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-111",
+      "status": "pass",
+      "assessment": "Distension, vomiting and absent stool/flatus are a new obstructive pattern compared with usual loose stools; routine diarrhoea treatment or reduced intake alone does not explain it.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fb8bacba006cb0dcf11a2cdb801ce0f0df0adbcae3cfed408d791bb1b788be57",
+      "priorReviewStatus": "pass",
+      "unchangedFromPriorReview": true
+    },
+    {
+      "id": "x-adaptation-112",
+      "status": "pass",
+      "assessment": "Reduced stool frequency becomes concerning when combined with worsening tenderness and distension; the other keyed circulatory pattern adds urgency. Improvement alternatives explicitly pair bowel improvement with stable physiology.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e822809d4db6af7427f19a4eadde4da7f304f38db0235b793143b426758d90c9",
+      "priorReviewStatus": "pass",
+      "unchangedFromPriorReview": true
+    },
+    {
+      "id": "x-adaptation-113",
+      "status": "pass",
+      "assessment": "A new cool dusky stoma suggests impaired perfusion despite a nonconstricting appliance. Surgical assessment appropriately outranks local warming, barrier adjustment and recording appearance alone.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7f017ea6e0c9a956fd7af834a9649d29d3a41c93c0089036c16a26a74f88a91c",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-114",
+      "status": "pass",
+      "assessment": "Low urine and postural symptoms with faster pulse support systemic depletion from high ileostomy output. Healthy stoma appearance or distal mucus does not establish circulatory status.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c5b880b6ebb0e57084c42980688d6a8705b80661d51b93aa6284be98f05d8fc8",
+      "priorReviewStatus": "pass",
+      "unchangedFromPriorReview": true
+    },
+    {
+      "id": "x-adaptation-115",
+      "status": "pass",
+      "assessment": "Absent output with nausea, distension and cramping requires prompt blockage assessment. Hydration planning, fit checks and antiemetics are relevant care tasks but do not resolve the combined concern.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2a62be9424742e3e5e26af2a28c247ee8d548030cf5bbb0cc6e7a0922f4e0c90",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-116",
+      "status": "pass",
+      "assessment": "New dysphagia and unintentional weight loss are alarm findings beyond the familiar reflux pattern. The revised plain meal/bite/trigger strategies are credible but insufficient substitutes for investigation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1781954f43560e80e0012720447a455def46c8c08e9cdd360ba02fd2db025748",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-117",
+      "status": "pass",
+      "assessment": "Preserved speech/breathing with inability to swallow saliva indicates urgent oesophageal obstruction rather than a reassuring patent airway alone. Further food/fluid can worsen pooling and aspiration risk.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "bde05ff876f2aa6d4d2056bb71a120ed43ba9144bc7dd0272c45f0aa37c84b57",
+      "priorReviewStatus": "pass",
+      "unchangedFromPriorReview": true
+    },
+    {
+      "id": "x-adaptation-118",
+      "status": "pass",
+      "assessment": "The identified early-dumping pattern follows a large sugary fluid load; small meals and planned drink separation address the trigger. Extra juice is not an automatic response to this early postmeal symptom pattern.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f82d6939fc8cbe4fe112490044b290149f9142b4c39dc92d85f7264e1e4e7eec",
+      "priorReviewStatus": "pass",
+      "unchangedFromPriorReview": true
+    },
+    {
+      "id": "x-adaptation-119",
+      "status": "pass",
+      "assessment": "New fever, tachycardia, pain and cloudy drainage after oesophageal surgery form a combined complication pattern that needs surgical assessment rather than isolated reflux or pulmonary recovery care.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "db0beb066be185175a15878e8d3c59f39c3aee25e51a6761729495e57ed81614",
+      "priorReviewStatus": "pass",
+      "unchangedFromPriorReview": true
+    },
+    {
+      "id": "x-adaptation-120",
+      "status": "pass",
+      "assessment": "The replacement establishes delayed postmeal low glucose with acute treatment already completed. Two-hour timing and measured 2.8 mmol/L support late dumping rather than early fluid shifts; the objective is distinct from haemorrhagic shock.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "01a9e48e204c03bc7ef305a3716967d490538d04ced5cec7fbd5090012d256d7",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-121",
+      "status": "pass",
+      "assessment": "Rigors, jaundice and new hypotension in biliary disease support a possible infection with shock for urgent handover. The interpretation is appropriately provisional and covers the combined pattern.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ee3b1829786690cbc664bdc235203d461b6d5b620b2c2a07546e0bd9391dcec6",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-122",
+      "status": "pass",
+      "assessment": "Sudden generalized rigid-abdomen pain differs from usual meal-related ulcer discomfort. Urgent assessment and withholding intake are appropriate rather than applying the previous oral symptom plan.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8e16ee490d8f82a98e322ccedb33aac8d5fd5695a3f0e5d5c190a65bf161ea8f",
+      "priorReviewStatus": "pass",
+      "unchangedFromPriorReview": true
+    },
+    {
+      "id": "x-adaptation-123",
+      "status": "pass",
+      "assessment": "New marked tachycardia with pain and restlessness after bariatric surgery warrants assessment even while afebrile. The case tests early complication recognition despite plausible gas-pain anchoring.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "dcb9dc4870087db0beca5ed74e430de680616fc8c975fccd1d539fb3a3cdac85",
+      "priorReviewStatus": "pass",
+      "unchangedFromPriorReview": true
+    },
+    {
+      "id": "x-adaptation-124",
+      "status": "pass",
+      "assessment": "The three-month interval and recurring clear mucus distinguish ongoing retained-mucosa secretion from residual stool clearance. Stable output and absence of pain, fever or blood make infection/diversion failure less supported.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "eee375b2c450a8007b186f9650a9c55c74290cb41233174b7763d93b21b480fd",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-125",
+      "status": "pass",
+      "assessment": "Repeated attention, instruction-following and orientation directly evaluate cognition. Sedation-related quietness or a bilirubin improvement while confused do not establish encephalopathy recovery.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e94e46562e485a5230b94a920b449bc798077a8202c538bac05e513975098f39",
+      "priorReviewStatus": "pass",
+      "unchangedFromPriorReview": true
+    },
+    {
+      "id": "x-adaptation-126",
+      "status": "pass",
+      "assessment": "Low haemoglobin can reduce oxygen content despite a normal proportion of saturated haemoglobin. Symptoms and functional tolerance remain important; an oxygen-response trial is not required to recognize anaemia as a contributor.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "892e97f8269f7bd7dab177d81fa591b15524ac47e579f5841dc54e2d6200ace2",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-127",
+      "status": "pass",
+      "assessment": "The client can transfer and perform seated tasks but fatigues standing; a shower chair and breaks preserve independence while reducing the demonstrated physiological demand. The other plans fail to remove that demand.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ca705733b421d616ce8fbabf0d818a512a4a10e4c53d6f82952e7600243c9a3d",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-128",
+      "status": "pass",
+      "assessment": "New chest pressure at rest with tachycardia and clamminess changes urgency more than unchanged pallor or gradual exertional fatigue. No definitive cause is assigned before urgent assessment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "beee617f4b7553d729402ffb5f728aaa512a710728654b8824eed22364921e06",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-129",
+      "status": "pass",
+      "assessment": "Severe thrombocytopenia plus increasing headache after impact warrants urgent concealed-bleeding assessment despite no visible wound. Local cold treatment, analgesia and headache history cannot exclude intracranial injury.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "92707864f67dac29d10a522a9b3ba71b41c3cd8ddd44a2e7ff5dc27a9b54ce16",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-130",
+      "status": "pass",
+      "assessment": "This is appropriately labelled foundation. Forward positioning with sustained soft-nose pressure is useful first aid; head-back, flat-position and repeated-blowing alternatives reflect common technique errors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b869134ad201bdaf6b5609c8e11f56497e834fc77b8c0e1bde1506eaba248fd2",
+      "priorReviewStatus": "pass",
+      "unchangedFromPriorReview": true
+    },
+    {
+      "id": "x-adaptation-131",
+      "status": "pass",
+      "assessment": "The current authorized individualized episode plan is applicable over old admission doses, home instructions or a generic sequence. Explicit reassessment and hold parameters keep the decision within nursing authorization.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "183568ff179cf703f63c028ada4e184066ea707058478ad2f2aaec394c4efe41",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-132",
+      "status": "pass",
+      "assessment": "New fever, chest pain and hypoxaemia during a limb-pain admission support urgent acute chest evaluation. It avoids falsely declaring a definitive diagnosis from the symptom cluster alone.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d83cff9a452f2d00ed3ced24cd815f44c540b80e34c9ce862730717eb5149551",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-133",
+      "status": "pass",
+      "assessment": "New crackles and breathlessness challenge further fluid escalation despite adequate urine. Thirst, dry lips and persistent pain are nonspecific; the rationale allows overload or another respiratory complication.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5728b2cdc3b9f2eacdce45852c6e4a27a5184482f33efbcf52209a09ac811b9b",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-134",
+      "status": "pass",
+      "assessment": "Rapid splenic enlargement relative to a taught baseline with pallor/tachycardia supports sequestration concern. The alternative aplastic mechanism does not account for the rapid spleen change; team diagnosis/resuscitation are explicit.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5066eaac3fc7400e6f7cf481e3d87b8b7bf1a08bbc8225483ec80780f2028eb3",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-135",
+      "status": "pass",
+      "assessment": "Protecting an acutely painful swollen haemophilic joint and following the authorized haemostatic plan appropriately precede rehabilitation. Repeated passive motion or massage may worsen active bleeding.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "32513f9b71769a0925365bdef8235402469984bdf747cbd609335ce5a7cb7adb",
+      "priorReviewStatus": "pass",
+      "unchangedFromPriorReview": true
+    },
+    {
+      "id": "x-adaptation-136",
+      "status": "pass",
+      "assessment": "Immediate safety steps are completed in the stem; the remaining task is preservation of implicated materials. Keeping bag and attached tubing per local investigation policy is directly supported by retrieved Canadian transfusion guidance.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d4a7dfce5af9573b7724ce9d666143432c951d72155260de7b18c9e7f1c8f464",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-137",
+      "status": "pass",
+      "assessment": "The transfusion is stopped before the interpretive task. Positive balance, hypertension and venous congestion support TACO over the now-parallel TRALI, haemolysis and anaphylaxis alternatives without excluding other reactions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "76edf3cf869976f64b0dd6d2952810a6630e4520fbb386e168877070893f1a17",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-138",
+      "status": "pass",
+      "assessment": "Falling haemoglobin with high indirect bilirubin and LDH is a coherent haemolysis pattern eight days after transfusion. The task is laboratory interpretation rather than a duplicate stop-the-transfusion response.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "cbd5b2bfe301da795290d1dd547f2e17a0bf7e8aa00546ba86b220c7ca8e7965",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-139",
+      "status": "pass",
+      "assessment": "The normal temperature is a meaningful false-reassurance trap in severe neutropenia. Marked hypotension, tachycardia and new confusion require shock response with infection still considered; no cause is declared certain.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2c555804b442d3f2b01994acd8d7b92bc69612f11aee5e7fdae7ec0264956466",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-140",
+      "status": "pass",
+      "assessment": "Failed topical relief, medication-route failure and low intake/urine justify coordinated nonoral-route and hydration review. Liquid formulations or meals alone do not address all current functional consequences.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2460b25b2cd7a60afd5c0f44599d62d58b36272a171816b9978a698f1daaffbd",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-141",
+      "status": "revise",
+      "assessment": "The clinical key is correct, but the stem states the exact urgent-contact rule for the same dehydration symptoms named in the answer. Removing that explicit answer statement restores a severity-recognition task without changing the safe key.",
+      "issues": [
+        "The clinical key is correct, but the stem states the exact urgent-contact rule for the same dehydration symptoms named in the answer. Removing that explicit answer statement restores a severity-recognition task without changing the safe key."
+      ],
+      "proposedChanges": {
+        "stem": "A client taking an oral anticancer medicine reports seven watery stools above baseline, dizziness and little urine. The client has an individualized oncology diarrhoea plan. Which response best matches the current findings?",
+        "why": [
+          "Food changes may complement care but do not address current dehydration indicators.",
+          "A home fluid plan does not make the severity mild when physiological warning signs are present.",
+          "Frequent watery stools with dizziness and little urine suggest clinically important dehydration and need urgent oncology advice and assessment.",
+          "The diary is useful information for the urgent contact, not a substitute for it."
+        ]
+      },
+      "reviewedItemSha256": "a1f7dfb9a2ce91f5502103d2fb3821b39ab138500fb34cc20733202a35375e49",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-142",
+      "status": "pass",
+      "assessment": "Timing after bulky-lymphoma treatment plus the linked potassium/phosphate/urate rise and calcium fall support tumour-cell breakdown. Dehydration may worsen clearance but does not supersede the characteristic pattern.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "08fc5a141c368da07993bcd0584313e8ef240bfe5d596ea8b10e12c68b16e81a",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-143",
+      "status": "pass",
+      "assessment": "Upper-body swelling with distended chest veins is anatomically coherent for SVC obstruction. Leg oedema, a focal calf pattern and cachexia are relevant alternative cancer findings rather than unsafe positioning distractors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7324b5d0950fbfe6a151696db0359a4a668ad0cf6acc4b6ebf61481919afc3e2",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-144",
+      "status": "pass",
+      "assessment": "New bladder difficulty plus progressive leg weakness adds specific neurological concern to existing spinal-metastasis pain. Local mechanical pain or pain-limited walking with retained strength are clinically distinct.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "023872482b3ab718cb734d1f33ede4c23531f7f6091110531877c5f9554efb6f",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-145",
+      "status": "pass",
+      "assessment": "The multiple-response key captures possible hydration harm and ongoing metabolic/neurocardiac risk. Improved urine/thirst and improving calcium with alertness are plausible favourable outcomes, not reasons to declare failure.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "59b204626840ded879b02088984b8b77bdb12c2d70aa69853eced7bbbd6de8da",
+      "priorReviewStatus": "pass",
+      "unchangedFromPriorReview": true
+    },
+    {
+      "id": "x-adaptation-146",
+      "status": "pass",
+      "assessment": "Another nurse is calling for help and the task explicitly asks immediate injury limitation. Supporting the deformed limb is then distinct from subsequent analgesia, documentation and imaging preparation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "58b504f1e902577dae07410c8ac49ee28951c4e28371e54f0bcf58caf3666495",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-147",
+      "status": "pass",
+      "assessment": "Fever with new redness, warmth and tenderness changes stable lymphoedema care to possible acute infection assessment. Compression, elevation and exercises are credible chronic-care alternatives but insufficient for new systemic illness.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e70c4077b4f09a4d5ed1fcfca5bd7f34839889f5d6c724f5feb746092f7c3429",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-148",
+      "status": "revise",
+      "assessment": "Therapeutic drainage is defensible, but two alternatives repeat measures the stem says failed and the third addresses thirst absent from the priority. Use relevant medication, diuretic and nutrition alternatives so drainage is selected for its pressure-relieving effect.",
+      "issues": [
+        "Therapeutic drainage is defensible, but two alternatives repeat measures the stem says failed and the third addresses thirst absent from the priority. Use relevant medication, diuretic and nutrition alternatives so drainage is selected for its pressure-relieving effect."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Review prescribed analgesia for discomfort limiting meals and deep breathing",
+          "Discuss a trial of prescribed diuretics with daily weight monitoring",
+          "Arrange higher-energy small meals and review nutritional support",
+          "Assess whether therapeutic drainage could meet the client’s comfort goal"
+        ],
+        "why": [
+          "Pain treatment may improve comfort, but it does not directly remove the tense fluid collection producing pressure.",
+          "Diuretics can be considered for some causes of ascites, but may not provide the prompt mechanical relief needed for the stated symptoms.",
+          "Nutritional support may help intake, but meal adjustments have been insufficient while pressure limits eating.",
+          "A proportionate drainage procedure may relieve pressure; the team and client must weigh likely benefit, burden and risks."
+        ]
+      },
+      "reviewedItemSha256": "a509aa5d57b39becd526a33aa36327b2349daa6cebfb0c0e7d57ac0b5be39e1f",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-149",
+      "status": "revise",
+      "assessment": "The key correctly addresses open moist tissue injury and pain, but the phrase complete replacement plan in the cleansing distractor advertises incompleteness. A plain cleansing-and-monitoring option tests the same clinical distinction more fairly.",
+      "issues": [
+        "The key correctly addresses open moist tissue injury and pain, but the phrase complete replacement plan in the cleansing distractor advertises incompleteness. A plain cleansing-and-monitoring option tests the same clinical distinction more fairly."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Increase the frequency of the previous emollient application",
+          "Request assessment for protective wound coverage and pain management",
+          "Use saline cleansing and monitor the area for further change",
+          "Request a stronger anti-itch cream for the entire treatment field"
+        ],
+        "why": [
+          "The new open moist area needs reassessment rather than automatic intensification of a plan for intact dry skin.",
+          "Protective care and pain treatment should be individualized for the tissue breakdown and ongoing radiotherapy.",
+          "Gentle cleansing may be part of care, but does not by itself address protection and increasing pain.",
+          "An itch-focused treatment does not address the newly described tissue injury."
+        ]
+      },
+      "reviewedItemSha256": "39598d6d76d5bdaf8ae9cb59e91b38ce37d6173fc5cfd06dc1cfa33d748e4fc1",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-150",
+      "status": "pass",
+      "assessment": "The replacement evaluates symptom-focused treatment after the obstruction and goal are established. Relief enabling valued interaction is more direct than administration completion, drainage amount or a small stool with persistent distress.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "91637b7c70b6a8d5b53f22b4f1402e7eec5c10731c612ee5a06eb0704b7be38d",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    }
+  ]
+}

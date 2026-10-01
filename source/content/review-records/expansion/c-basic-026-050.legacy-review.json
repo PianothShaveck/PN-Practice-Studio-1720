@@ -1,0 +1,424 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:04:36.448777+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/basic-026-050.json",
+  "sourceSha256": "202876e469845bc0fd15734da3a52e70501e72e0b121e91ad9aa6ade52559aa3",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-basic-026",
+      "x-basic-027",
+      "x-basic-028",
+      "x-basic-029",
+      "x-basic-030",
+      "x-basic-031",
+      "x-basic-032",
+      "x-basic-033",
+      "x-basic-034",
+      "x-basic-035",
+      "x-basic-036",
+      "x-basic-037",
+      "x-basic-038",
+      "x-basic-039",
+      "x-basic-040",
+      "x-basic-041",
+      "x-basic-042",
+      "x-basic-043",
+      "x-basic-044",
+      "x-basic-045",
+      "x-basic-046",
+      "x-basic-047",
+      "x-basic-048",
+      "x-basic-049",
+      "x-basic-050"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.diabetes.ca/getContentAsset/33d37ad7-82dd-4c56-a8ee-48cd7051589a/0f6cf596-933c-4f74-b36a-77091c512445/foot-care.pdf?disposition=inline&language=en",
+      "checked": true,
+      "ids": [
+        "x-basic-033",
+        "x-basic-040"
+      ],
+      "note": "Diabetes Canada resource retrieved during legacy review: reduced-sensation foot protection and avoidance of heat injury; not a local nail-care credential audit."
+    },
+    {
+      "url": "https://www.bccnm.ca/LPN/PracticeStandards/Pages/consent.aspx",
+      "checked": true,
+      "ids": [
+        "x-basic-032",
+        "x-basic-043"
+      ],
+      "note": "Current standard opened during legacy review; consent, choice and individual preferences support these care decisions. Other routine hygiene details were reasoned, not externally verified item by item."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-basic-026",
+      "status": "revise",
+      "assessment": "Correct cushioning concept, but deep unlined sink/empty hard basin are duplicate distractors; choice variety and clinical usefulness are limited.",
+      "issues": [
+        "Correct cushioning concept, but deep unlined sink/empty hard basin are duplicate distractors; choice variety and clinical usefulness are limited."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Run hot water over the dentures to make them easier to grip",
+            "Hold the dentures high above a towel-lined basin for better visibility",
+            "Line the basin with a towel",
+            "Use an empty hard basin"
+          ],
+          "why": [
+            "Hot water can damage denture materials and does not protect against impact.",
+            "A greater drop height adds avoidable risk; work close over a protected basin.",
+            "Padding cushions fragile dentures if dropped.",
+            "A hard surface can fracture dropped dentures."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "1beb9845795d147664dfa6c5c8596a404136feb271c716298d99a7db1c4e10ba"
+    },
+    {
+      "id": "x-basic-027",
+      "status": "pass",
+      "assessment": "Painful chewing warrants oral/fit assessment before adhesive or a menu change; these are plausible common workarounds. No competing best initial answer identified.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1e9277d2214987e5b02f4af05122fd7568f7132fb5780e9695c98a6365278f49"
+    },
+    {
+      "id": "x-basic-028",
+      "status": "pass",
+      "assessment": "Soft-brush mechanical cleaning is appropriate when tolerated; mouthwash-only and swab-only care are plausible insufficient substitutes. No automatic contraindication supplied.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3a0a614543aa68ce6897c47f6d02358a501fe7004f9606c8a9f26f004eb30445"
+    },
+    {
+      "id": "x-basic-029",
+      "status": "revise",
+      "assessment": "Key merely says to follow an unspecified ordered plan, so no usable oral-care technique is assessed.",
+      "issues": [
+        "Key merely says to follow an unspecified ordered plan, so no usable oral-care technique is assessed."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Use a standard firm-bristle brush to clear deposits",
+            "Start flossing despite no established flossing routine",
+            "Replace all cleaning with an alcohol-containing rinse",
+            "Use the prescribed soft brush with light pressure and monitor for increased bleeding"
+          ],
+          "why": [
+            "Firm bristles may increase trauma to fragile bleeding gums.",
+            "Introducing potentially traumatic flossing requires review with the individualized plan.",
+            "Rinsing alone inadequately removes plaque and alcohol may irritate fragile tissues.",
+            "Gentle mechanical cleaning according to the individualized bleeding-risk plan limits further trauma."
+          ],
+          "stem": "A client has fragile gums that bleed with firm brushing. The oral-care plan permits a soft toothbrush with light pressure and requires reporting worsening bleeding. Which approach best follows this plan?"
+        }
+      ],
+      "reviewedItemSha256": "f292bb65f4b56334da3ae5661afe88ae76b254c70debcbdd602b5709beb6ad05"
+    },
+    {
+      "id": "x-basic-030",
+      "status": "pass",
+      "assessment": "Labelled dedicated storage is the clear safest alternative to common accidental-disposal locations. Simple but useful basic-care objective.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "dc768a2e2f6997521e1c7b5b0f341f49d652cd71dac1c992472426b119e6bb2b"
+    },
+    {
+      "id": "x-basic-031",
+      "status": "pass",
+      "assessment": "Lip moisturizer targets cracked lips; irritating alcohol/acid and a mouth rinse alone do not. Foundation-level item; swallowing status adds little to this lip-care decision.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7031b16ca529d02d1fce442206065e541329c7fb3c9bc25482ef3b69b739159f"
+    },
+    {
+      "id": "x-basic-032",
+      "status": "pass",
+      "assessment": "Client declined an inconvenient time, not hygiene; finding a feasible preferred time supports autonomy. Competing morning rescheduling/family persuasion do not resolve that preference.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "68d9c497dafdc21bf2ecdb0a2e793c712727d0c22dad89eef12559cb44046da9"
+    },
+    {
+      "id": "x-basic-033",
+      "status": "revise",
+      "assessment": "The key is sound, but the yesterday-safe-water option is conspicuously irrelevant and contains a missing possessive. Use a realistic unsafe testing habit.",
+      "issues": [
+        "The key is sound, but the yesterday-safe-water option is conspicuously irrelevant and contains a missing possessive. Use a realistic unsafe testing habit."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Judge temperature with the numb foot",
+            "Rely on the usual tap setting without testing",
+            "Ask the client to keep the numb foot in the water briefly to test comfort",
+            "Check water with an intact-sensation area or thermometer"
+          ],
+          "why": [
+            "The affected foot may not detect a burn risk.",
+            "Tap settings do not reliably establish the final water temperature.",
+            "Reduced sensation makes foot discomfort an unreliable protection against burns.",
+            "Impaired sensation can prevent recognition of excessive heat."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "428f655aad487422637c4b093412769c74be7e98cbf396ec754b804cc889a607"
+    },
+    {
+      "id": "x-basic-034",
+      "status": "pass",
+      "assessment": "Gentle cleansing and barrier use after incontinence are appropriate; barrier over visible urine and repeated detergent washing are plausible mistakes. No competing keyed response found.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c6385f2fb654471952a8ca8bef1087d87818f224dd0941d5de3300a2eab3b996"
+    },
+    {
+      "id": "x-basic-035",
+      "status": "revise",
+      "assessment": "All three distractors leave the foreskin retracted, duplicating the same error. Make this a purposeful post-care safety check with distinct wrong actions.",
+      "issues": [
+        "All three distractors leave the foreskin retracted, duplicating the same error. Make this a purposeful post-care safety check with distinct wrong actions."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Check urine colour and postpone examining the foreskin until the next care round",
+            "Return the foreskin to its usual position",
+            "Leave the foreskin retracted because the glans is still moist",
+            "Apply more cleansing solution to avoid touching the foreskin again"
+          ],
+          "why": [
+            "Urine appearance does not establish that the foreskin was safely returned after care.",
+            "A retracted foreskin can constrict the glans.",
+            "Return it promptly after gentle hygiene; prolonged retraction risks constriction.",
+            "Additional cleanser does not replace restoring the normal foreskin position."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "e24a6886bd011636802cf92fd204c992d6b6064aa50c8f39ea2602f6d3a3f3a8"
+    },
+    {
+      "id": "x-basic-036",
+      "status": "revise",
+      "assessment": "Options1 and2 repeat reusing contaminated material; replace one with a distinct clinically plausible technique error.",
+      "issues": [
+        "Options1 and2 repeat reusing contaminated material; replace one with a distinct clinically plausible technique error."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Use gentle wipes with a clean surface each pass",
+            "Use one damp pad until both eyes appear clean",
+            "Apply firm pressure over the closed lids to lift the crusts quickly",
+            "Start wiping before moistening adherent crusts"
+          ],
+          "why": [
+            "Fresh wiping surfaces limit transfer of debris.",
+            "Reusing contaminated material can transfer secretions between surfaces.",
+            "Pressure and vigorous rubbing can injure delicate tissues; soften and wipe gently.",
+            "Moistening helps release crusts with less traction on delicate tissue."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "2296d27f25a625a62bba939866226a4150f51195e8a0008d4b5a0e217472062f"
+    },
+    {
+      "id": "x-basic-037",
+      "status": "pass",
+      "assessment": "Device-specific instructions appropriately outrank immersion, universal solvents and another model’s procedure. No broad nursing-scope claim is made.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "564bcc3567b372d33b89ee664e7fdbd086426fb4dda1fa9804ef1e79f476cece"
+    },
+    {
+      "id": "x-basic-038",
+      "status": "pass",
+      "assessment": "Missing glasses create an observable correctable sensory barrier; offering them before cognitive labeling or taking over feeding preserves function. Continue assessment if difficulty persists.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "68713b9f85b98073b969c3d46a36e5fb14d9735fc43aa6775322b754da785ab3"
+    },
+    {
+      "id": "x-basic-039",
+      "status": "revise",
+      "assessment": "Stem names the exact correct tool, making the key a repetition. Remove that cue and test the safe adaptation.",
+      "issues": [
+        "Stem names the exact correct tool, making the key a repetition. Remove that cue and test the safe adaptation."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Use fragranced aftershave to cool the skin",
+            "Use the electric razor gently",
+            "Use the disposable wet razor available on the unit",
+            "Shave against hair growth to reduce repeat sessions"
+          ],
+          "why": [
+            "Fragrance and alcohol can irritate vulnerable skin.",
+            "This follows the plan while reducing skin cuts.",
+            "Substituting the readily available razor disregards the individualized skin plan.",
+            "A closer shave may increase irritation in fragile skin."
+          ],
+          "stem": "A client taking an anticoagulant has fragile facial skin and wants help shaving. An electric razor is available and suitable under the care plan. Which action best reduces skin trauma?"
+        }
+      ],
+      "reviewedItemSha256": "cdceba0c774fc7a8e77f046d6dbd8c272beb40e5f46289c68133e352a3cc5e03"
+    },
+    {
+      "id": "x-basic-040",
+      "status": "pass",
+      "assessment": "Complex nail curvature plus reduced sensation reasonably requires qualified foot-care assessment; routine ward clipping, filing to pain and soaking are plausible unsafe shortcuts. Local scope still applies.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1aa54b83ff029128ca68df5c2fb56c99ed7f4cd317ee328e6c43a0b64decda27"
+    },
+    {
+      "id": "x-basic-041",
+      "status": "pass",
+      "assessment": "An unscented emollient is appropriate for uncomplicated post-bath xerosis; hot prolonged bathing, extra soap and unfamiliar fragrance are credible aggravators.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f06e6ea5b98593b56e910623ed3b5c5e9b000e4553a498f963b07a2eedfa866b"
+    },
+    {
+      "id": "x-basic-042",
+      "status": "pass",
+      "assessment": "Drying and inspecting a persistently moist fold addresses cause and permits skin assessment. Occlusive/unassessed products or a retained towel may worsen moisture.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c607adde3f549db0da2daa4b334f018e07b87fea4f3d8ea59aee63442a6b6e09"
+    },
+    {
+      "id": "x-basic-043",
+      "status": "revise",
+      "assessment": "The two negatives are obvious violations and option3 does not say the questions are unnecessary. Make the mistaken privacy/control responses precise.",
+      "issues": [
+        "The two negatives are obvious violations and option3 does not say the questions are unnecessary. Make the mistaken privacy/control responses precise."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Continue the usual care sequence without asking whether the client wants to clean an accessible area",
+            "Explain each step before touch",
+            "Expose only the area being cleaned",
+            "Leave the perineum exposed while gathering supplies so cleaning can begin quickly"
+          ],
+          "why": [
+            "Offering feasible participation can preserve control and dignity.",
+            "Predictability supports comfort and participation.",
+            "Limited exposure protects warmth and dignity.",
+            "Gather supplies first and limit exposure to what is needed during care."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "46f6b0f0253ee6afbb56799c3dc77a4395e8f11ea8865e33f46d5c8ae2b675ab"
+    },
+    {
+      "id": "x-basic-044",
+      "status": "pass",
+      "assessment": "Supports alignment and bedding protection for an agreed feasible task; neck-support and tolerance errors are meaningful alternatives. No special contraindication in stem.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fc3284464c232796936d064d042976f6fe0d16c4defdd062dd1d392f138dcfb0"
+    },
+    {
+      "id": "x-basic-045",
+      "status": "pass",
+      "assessment": "Removing uncomfortable contacts appropriately permits eye assessment; mere lubrication, postponement or covering the eyes leaves the irritant. Persistent pain/redness/vision change should trigger further urgent eye review; the item does not claim removal completes assessment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "37a7d9d8a9eded7867c1f931abff752fb57ddc5f02769f6107e6cab4ed95cff5"
+    },
+    {
+      "id": "x-basic-046",
+      "status": "revise",
+      "assessment": "The abnormal oral findings are valid, but denture removal is an action rather than an assessment finding. Replace it with a normal oral finding of the same type.",
+      "issues": [
+        "The abnormal oral findings are valid, but denture removal is an action rather than an assessment finding. Replace it with a normal oral finding of the same type."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Moist pink mucosa without pain",
+            "Intact mucosa beneath a well-fitting denture with no reported pain",
+            "New white patches with mouth soreness",
+            "A new ulcer limiting eating"
+          ],
+          "why": [
+            "This is a reassuring oral finding.",
+            "This is a reassuring finding, unlike new painful lesions.",
+            "These may indicate a treatable oral condition.",
+            "Painful tissue injury can reduce nutritional intake."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "ff74b336dbdf66a0fce8656f51caa8838ce627e780ac351c147a5b155d12b50d"
+    },
+    {
+      "id": "x-basic-047",
+      "status": "pass",
+      "assessment": "A pause and jointly prioritized hygiene responds to fatigue; switching caregivers does not reduce the client’s exertion. No concerning physiological symptom requires another priority in this stable stem.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a7b72073bbb377b902c6496c5441f03d026d6befa8bbeca15a61167e3aae3520"
+    },
+    {
+      "id": "x-basic-048",
+      "status": "pass",
+      "assessment": "Outer-ear care and assessment of blockage avoid canal trauma. Unscreened irrigation or drops are credible mistakes, especially when pain, drainage or surgery history may contraindicate them.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "cc4f8286ccd1cbf4f41c11cb8d9a9270b63d05153b504280d81f2b32dad92282"
+    },
+    {
+      "id": "x-basic-049",
+      "status": "pass",
+      "assessment": "Slow supported adhesive release protects fragile skin; upward pull, counter-pulling skin and abrasive residue removal are plausible errors. Specific adhesive-remover choice remains product dependent.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6dacf6115b7cc153ce27eaaa0a6bfe3365b041a1b84c8fa555a5060ad6e41622"
+    },
+    {
+      "id": "x-basic-050",
+      "status": "revise",
+      "assessment": "The supplier-name option is unrelated to effective assistance. Replace it with a relevant but insufficient process outcome.",
+      "issues": [
+        "The supplier-name option is unrelated to effective assistance. Replace it with a relevant but insufficient process outcome."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "The client can grip the adapted handle but still needs the nurse to do the brushing",
+            "The client finishes despite increased hand pain",
+            "The client completes brushing comfortably",
+            "The nurse finishes faster alone"
+          ],
+          "why": [
+            "Grip alone does not establish the intended comfortable self-care performance.",
+            "Completion with increased pain suggests the adaptation needs adjustment.",
+            "Adaptive support achieved the self-care goal.",
+            "Speed alone does not measure client independence."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "29caab2896088a82161c85049963c8cb598888cb2500792c6d2e8227dcaf8530"
+    }
+  ],
+  "reviewerTask": "/root/review_legacy"
+}

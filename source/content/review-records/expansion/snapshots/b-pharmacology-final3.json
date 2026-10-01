@@ -1,0 +1,105 @@
+[
+  {
+    "id": "x-pharmacology-151",
+    "cat": "pharmacology",
+    "title": "Respond to a new transfusion reaction",
+    "stem": "During red-cell transfusion, a client develops new chills, fever and back discomfort. Which actions belong in the immediate reaction response? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Discard the bag and tubing immediately.",
+      "Give the prescribed antipyretic, then restart the unit once fever settles.",
+      "Stop the transfusion and promptly assess the client.",
+      "Notify the team and follow the reaction investigation protocol.",
+      "Slow the transfusion until the chills settle."
+    ],
+    "answer": [
+      2,
+      3
+    ],
+    "why": [
+      "The component and set may be needed for investigation; follow the reaction protocol's handling instructions.",
+      "A lower temperature does not rule out a serious transfusion reaction or authorize restarting the implicated component; the reaction pathway must guide further decisions.",
+      "Further exposure should cease while the new systemic symptoms are assessed for a potentially serious reaction.",
+      "Coordinated assessment, samples and product handling help establish the cause and guide treatment.",
+      "Reducing the rate still continues exposure to a component that may be causing a serious reaction."
+    ],
+    "takeaway": "Further exposure should cease while the new systemic symptoms are assessed for a potentially serious reaction.",
+    "refs": [
+      "b-transfusion",
+      "b-transfusion-reactions"
+    ],
+    "exhibit": null,
+    "subtopic": "Acute transfusion reactions",
+    "learningObjective": "Initiate the transfusion-reaction pathway when new systemic symptoms develop during blood administration.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-171",
+    "cat": "pharmacology",
+    "title": "Recognize systemic local-anesthetic toxicity",
+    "stem": "During a local-anesthetic procedure, a client develops ringing ears, metallic taste and slurred speech. Which priority actions address possible systemic local-anesthetic toxicity? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Ask the client to practise slow breathing for procedural anxiety.",
+      "Offer a brief pause and then complete the remaining anesthetic dose.",
+      "Alert the procedural team and stop further anesthetic administration.",
+      "Prepare airway and circulatory support according to the emergency protocol.",
+      "Check capillary glucose as the initial response to the speech change."
+    ],
+    "answer": [
+      2,
+      3
+    ],
+    "why": [
+      "Anxiety support may help distress but is not an adequate response to these drug-related neurological warning symptoms.",
+      "Resuming exposure before the team resolves the suspected toxicity could worsen the event.",
+      "Tinnitus, metallic taste and slurred speech can be early systemic toxicity; preventing further exposure is urgent.",
+      "Toxicity can progress to seizures and cardiac instability, so early resuscitation readiness matters.",
+      "Glucose may help evaluate altered neurological status, but the characteristic symptoms during anesthetic administration require stopping exposure and preparing emergency support first."
+    ],
+    "takeaway": "Tinnitus, metallic taste and slurred speech can be early systemic toxicity; preventing further exposure is urgent.",
+    "refs": [
+      "b-regional-anesthesia"
+    ],
+    "exhibit": null,
+    "subtopic": "Regional analgesia complications",
+    "learningObjective": "Respond to early neurological warning symptoms during local-anesthetic administration.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-187",
+    "cat": "pharmacology",
+    "title": "Latent tuberculosis before biologic therapy",
+    "stem": "A client with rheumatoid arthritis feels well and is scheduled to start a tumour necrosis factor inhibitor. They ask why tuberculosis screening was ordered when they have no cough. Which explanation is best?",
+    "type": "single",
+    "options": [
+      "It creates a comparison result for any future TB exposure.",
+      "It predicts whether TB will be acquired during future treatment.",
+      "It measures how much protection remains from childhood BCG vaccination.",
+      "It identifies latent infection that the medicine could reactivate."
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "A baseline can be useful, but the immediate purpose is to address infection already present before immunosuppression.",
+      "Screening evaluates evidence of infection already present; it does not predict every future exposure or acquisition.",
+      "Latent-TB screening is not a measurement of remaining BCG protection; vaccination history and interpretation of specific test results are separate considerations.",
+      "TB may be present without cough or other symptoms; identifying it permits a prevention or treatment plan before TNF inhibition."
+    ],
+    "takeaway": "TB may be present without cough or other symptoms; identifying it permits a prevention or treatment plan before TNF inhibition.",
+    "refs": [
+      "b-biologic-tb"
+    ],
+    "exhibit": null,
+    "subtopic": "immunosuppressive medicines",
+    "learningObjective": "Explain why tuberculosis screening matters before tumour necrosis factor inhibitor therapy.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  }
+]

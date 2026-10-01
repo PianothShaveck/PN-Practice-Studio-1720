@@ -1,0 +1,100 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T16:59:57.257867+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/b/pharmacology-01.json",
+  "sourceSha256": "b38ff25c0e2724780683f6b7ab0aebe77f357e3984bb332d1ee576943f97b609",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 6,
+    "reviewedIds": [
+      "x-pharmacology-007",
+      "x-pharmacology-012",
+      "x-pharmacology-016",
+      "x-pharmacology-020",
+      "x-pharmacology-021",
+      "x-pharmacology-025"
+    ],
+    "unreviewedIds": [
+      "x-pharmacology-001",
+      "x-pharmacology-002",
+      "x-pharmacology-003",
+      "x-pharmacology-004",
+      "x-pharmacology-005",
+      "x-pharmacology-006",
+      "x-pharmacology-008",
+      "x-pharmacology-009",
+      "x-pharmacology-010",
+      "x-pharmacology-011",
+      "x-pharmacology-013",
+      "x-pharmacology-014",
+      "x-pharmacology-015",
+      "x-pharmacology-017",
+      "x-pharmacology-018",
+      "x-pharmacology-019",
+      "x-pharmacology-022",
+      "x-pharmacology-023",
+      "x-pharmacology-024"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-pharmacology-007",
+      "status": "pass",
+      "assessment": "Re-read full revision: labelled future syringe storage is a recognizable unapproved preparation shortcut; discard remains correct.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "07366f765632b50c5d3a19cf7bb0cd7a1b8899d4c93606731874084fb880ccf8"
+    },
+    {
+      "id": "x-pharmacology-012",
+      "status": "pass",
+      "assessment": "Re-read full revision: individual tube suitability no longer implies admixture compatibility; separate doses/individual fluid plan remain correct.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3c782b60b1f517f5f711b3ac3abd9f304fad33f096474d59c6b92cd8f551800a"
+    },
+    {
+      "id": "x-pharmacology-016",
+      "status": "pass",
+      "assessment": "Re-read full revision: adequate arousal and swallowing remove oral-trial safety ambiguity; assessment now distinguishes antiemetic benefit from safety/sedation indicators.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "bf8dac119e9898a7b3804ada5f36b9e9b6dc53aa8772c9a7c59d5a0dcc664a00"
+    },
+    {
+      "id": "x-pharmacology-020",
+      "status": "pass",
+      "assessment": "Re-read full item with foundation metadata: vein-tracking inflammatory signs support phlebitis; lower cognitive classification is appropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1904345cf0e7cdfff02cf9a0f6f0e58513f772780349a16ebe8c024e36547994"
+    },
+    {
+      "id": "x-pharmacology-021",
+      "status": "pass",
+      "assessment": "Re-read full item with foundation metadata: route teaching is factual and now labelled accordingly.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "39d2b7c28c55a65c2f33c5a97d38e9498ee2aa6796237f9944f143bf30b4c505"
+    },
+    {
+      "id": "x-pharmacology-025",
+      "status": "pass",
+      "assessment": "Re-read full revision: prior weaker steroid on face is a credible unauthorized extension and fits the same clinical decision as other choices.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b315cd6db63a41b515c4a57bbbabf821c990b0a8edde869fd599da7f7d48de91"
+    }
+  ],
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

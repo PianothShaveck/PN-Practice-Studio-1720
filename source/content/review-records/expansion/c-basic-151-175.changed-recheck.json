@@ -1,0 +1,222 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:39:28.175106+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/basic-151-175.json",
+  "sourceSha256": "09f13a0f466d4c4ac5541722efc683c44ae755ca80334488455e6e90e7089830",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 19,
+    "reviewedIds": [
+      "x-basic-151",
+      "x-basic-152",
+      "x-basic-153",
+      "x-basic-154",
+      "x-basic-155",
+      "x-basic-158",
+      "x-basic-159",
+      "x-basic-160",
+      "x-basic-161",
+      "x-basic-162",
+      "x-basic-163",
+      "x-basic-164",
+      "x-basic-165",
+      "x-basic-166",
+      "x-basic-167",
+      "x-basic-168",
+      "x-basic-172",
+      "x-basic-173",
+      "x-basic-174"
+    ],
+    "unreviewedIds": [
+      "x-basic-156",
+      "x-basic-157",
+      "x-basic-169",
+      "x-basic-170",
+      "x-basic-171",
+      "x-basic-175"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-basic-151",
+      "status": "pass",
+      "assessment": "Supervised suitable finger food addresses demonstrated emerging self-feeding; milk-first or additional spoon-feeding does not target that barrier. Key does not claim every toddler must eat this way.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "93190020cad191457f415d56adf125984853e160f43cd7bc15c0b54008894600"
+    },
+    {
+      "id": "x-basic-152",
+      "status": "pass",
+      "assessment": "Developmentally suitable faces self-report fits the child’s stated ability; repeating abstract ranking or substituting parental estimate unnecessarily bypasses feasible self-report. CPS guidance supports developmental assessment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d803475480df714215e5698b828e13f10449a846bf793c9ab37251ca2c5cf9d0"
+    },
+    {
+      "id": "x-basic-153",
+      "status": "revise",
+      "assessment": "Comfort positioning/distraction keys are appropriate. The revised long-explanation distractor is still weakened by the stated purpose of preventing questions. Remove the bad-intent cue and specify developmentally unsuitable detail.",
+      "issues": [
+        "Comfort positioning/distraction keys are appropriate. The revised long-explanation distractor is still weakened by the stated purpose of preventing questions. Remove the bad-intent cue and specify developmentally unsuitable detail."
+      ],
+      "proposedChanges": [
+        {
+          "stem": "A four-year-old needs venipuncture and wants a parent nearby. Which actions support coping? Select all that apply.",
+          "options": [
+            "Use an agreed safe comfort position",
+            "Promise the needle will not hurt",
+            "Use detailed anatomical terminology to explain the procedure",
+            "Offer an age-appropriate distraction choice"
+          ],
+          "why": [
+            "Supportive positioning can improve security during the procedure.",
+            "An inaccurate promise may undermine trust.",
+            "A four-year-old needs simple concrete preparation matched to understanding, rather than technical anatomical detail.",
+            "A chosen suitable distraction can reduce procedural distress."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "d904ed14915e94406cd0802baf5341259706f6af8d35c6b7da240ef0b90fb0bb"
+    },
+    {
+      "id": "x-basic-154",
+      "status": "pass",
+      "assessment": "Restore privacy and involve a capable child in preferences; delaying coverage or bypassing the child for parental choice misses expressed embarrassment. CNO relationship/privacy reference replaces eating source.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "567b7e8c3b9d3d3faf7377ca11eebe3940b22c461b1d624a4ebc5535a126680f"
+    },
+    {
+      "id": "x-basic-155",
+      "status": "pass",
+      "assessment": "Familiar settling routine targets the observed cause of sleep difficulty; ward-standard replacement may miss that cue. Pediatric sleep reference is now relevant.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "82faa95b3c22608588692b00f5bf2ca9e9c173532c6554fa08db95206ed7758c"
+    },
+    {
+      "id": "x-basic-158",
+      "status": "pass",
+      "assessment": "Supporting the infant near the breast directly reduces the observed forward bending; chair adjustment alone may preserve the mismatch. Breastfeeding/postpartum refs replace general adult feeding.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "da62b1eee3f4c8ae9e7c18eee864350b3b9bed516063787732b88315eb1da344"
+    },
+    {
+      "id": "x-basic-159",
+      "status": "pass",
+      "assessment": "Supported positioning away from painful incision preserves chosen feeding role. Shortened feeds or full substitution are unnecessary if adaptation is feasible; breastfeeding/postpartum refs match context.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "29c3114cf696a88f74528503110d9d863e85c11d55a61852991f385f7ba5b217"
+    },
+    {
+      "id": "x-basic-160",
+      "status": "pass",
+      "assessment": "Small frequent prescribed rehydration addresses vomiting with large drinks in an alert mildly ill child. Undiluted juice or long withholding is not the supplied plan; no rigid amount is invented.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f5703d438265fa47a3a51eba6334b34c102dfd2bce00d3538dc1379b6a092fa5"
+    },
+    {
+      "id": "x-basic-161",
+      "status": "pass",
+      "assessment": "Gentle care/barrier plus timely soiled-nappy change addresses irritant exposure. Thicker barrier cannot justify longer stool contact; diaper-rash reference now matches.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "bb75a772f59784db551c2c1f9fd9c949d51756fd671508a0a22f49790201918b"
+    },
+    {
+      "id": "x-basic-162",
+      "status": "pass",
+      "assessment": "Assessing current barriers and supportive routine avoids treating temporary hospital accidents as deliberate behaviour. Pre-admission schedule may not fit current needs; toilet-learning reference is relevant.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0a8761c7bf95fa9ad9a9ab73b00f43b432e738e5b21fff05e03cc2f95b54acb1"
+    },
+    {
+      "id": "x-basic-163",
+      "status": "pass",
+      "assessment": "Safe agreed adaptations balance cast limitations and adolescent privacy; avoid automatic dependence or full independence based on age. Hygiene and professional relationship refs support scope.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "afd0808802a7dcb1d40839a48043894b332b2cc70e7f2816fb581e62c9c72ffa"
+    },
+    {
+      "id": "x-basic-164",
+      "status": "pass",
+      "assessment": "Gentle rinsing and prescribed comfort plan fit reassuring repaired-tear findings; fluid reduction, harsh antiseptic and fragrance may worsen irritation. Postpartum reference is relevant; worsening symptoms still require reassessment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e0096be7f84c8dad9d1bf3fdd28c279db00ea2af9e366af2f810133c7c2dc68d"
+    },
+    {
+      "id": "x-basic-165",
+      "status": "pass",
+      "assessment": "Side-lying directly addresses the observed supine late-pregnancy lightheadedness and is independently supported by NHS guidance; head/foot-only changes may not remove compression.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1f4a261abf6d3d10f57d9d7a6b42d4b46a165cb507dcff7847cd8a43785494ae"
+    },
+    {
+      "id": "x-basic-166",
+      "status": "pass",
+      "assessment": "Persistent oral patches with feeding distress warrant assessment rather than assumed milk residue or repeated rubbing. Infant thrush reference now matches; item does not diagnose from description alone.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ae8f8d5b943d66f3e18abc7232c6797dc08eee9c036828b2f7ca465008eda050"
+    },
+    {
+      "id": "x-basic-167",
+      "status": "pass",
+      "assessment": "Observed sensory triggers support lower simultaneous stimulation and predictable care. Sensory-care reference is relevant to the accommodation; no diagnosis is inferred from behaviour.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2d1905d9e599d619e25e0a0ae8b4fc23dbd99fdca7c24d434926aa51ab759c71"
+    },
+    {
+      "id": "x-basic-168",
+      "status": "pass",
+      "assessment": "Extra time/easier fastenings preserves participation during morning stiffness; repeated peak-stiffness practice or complete dressing substitution misses the timing/functional cue. Juvenile-arthritis source now relevant.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "cf084b981b7d9523970909adf051ab1a85cb944cb13b9f25bd68b3e0b957ed7d"
+    },
+    {
+      "id": "x-basic-172",
+      "status": "pass",
+      "assessment": "Accessible face-to-face communication addresses distance/lost cues before attributing wrong answers to cognition. Hearing-loss reference supports topic; infection precautions are not overridden.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1589ff493e881d98b0c34bb7a032376c153c8a899f80b5927414b7f8392e63b8"
+    },
+    {
+      "id": "x-basic-173",
+      "status": "pass",
+      "assessment": "Essential-needs/capacity assessment with sustainable support addresses missed care from exhaustion. Moving tasks without reviewing workload may relocate the burden. Caregiver-support reference now relevant.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6f3b415cf57c40897b8c6be86fc591d613ca4bd799569344418b8c960dc4201c"
+    },
+    {
+      "id": "x-basic-174",
+      "status": "pass",
+      "assessment": "Short safe prayer can be accommodated before assisted feeding; delaying ritual for staff schedule misses preference. Actual opened nutrition chapter explicitly supports this practice.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "036d77693ccf85019cfac70fa3ee5076e761a515fd8851ec0073c6bad0ee87d2"
+    }
+  ],
+  "reviewScope": "All nineteen revised IDs read with new topic refs. Eighteen pass;153 receives one final wording refinement. Topic relevance is distinguished from full source/clinician validation.",
+  "reviewerTask": "/root/review_legacy"
+}

@@ -1,0 +1,22 @@
+{
+  "method": "TF-IDF unigrams and bigrams; lexical screening, not semantic or clinical validation",
+  "threshold": 0.53,
+  "count": 1720,
+  "pairs": [],
+  "reasoningSkills": {
+    "unclassified": 120,
+    "professional-judgement": 153,
+    "priority": 229,
+    "recognition": 172,
+    "intervention": 657,
+    "evaluation": 150,
+    "teaching": 229,
+    "calculation": 10
+  },
+  "difficulty": {
+    "unclassified": 120,
+    "application": 1441,
+    "foundation": 104,
+    "challenge": 55
+  }
+}

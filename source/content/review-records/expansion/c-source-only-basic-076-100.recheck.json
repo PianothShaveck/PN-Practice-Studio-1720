@@ -1,0 +1,214 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:43:52.863289+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/basic-076-100.json",
+  "sourceSha256": "49dfd741fdf7995eaed3ef886fc1a0db572d59cd1eb9408aab389236257c39f1",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 10,
+    "reviewedIds": [
+      "x-basic-076",
+      "x-basic-087",
+      "x-basic-088",
+      "x-basic-090",
+      "x-basic-091",
+      "x-basic-092",
+      "x-basic-093",
+      "x-basic-094",
+      "x-basic-095",
+      "x-basic-096"
+    ],
+    "unreviewedIds": [
+      "x-basic-077",
+      "x-basic-078",
+      "x-basic-079",
+      "x-basic-080",
+      "x-basic-081",
+      "x-basic-082",
+      "x-basic-083",
+      "x-basic-084",
+      "x-basic-085",
+      "x-basic-086",
+      "x-basic-089",
+      "x-basic-097",
+      "x-basic-098",
+      "x-basic-099",
+      "x-basic-100"
+    ]
+  },
+  "method": "Each listed stem/topic and new reference mapping was manually examined. Replacing current refs with the recorded oldRefs reproduces a prior independently approved full-item hash; this proves all other fields are unchanged. The present pass approves the manually assessed reference relevance while carrying forward that exact unchanged-content review. It is not a new full clinical review or an automated pass based solely on hash equality.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-basic-076",
+      "status": "pass",
+      "assessment": "Constipation reference is relevant to assessing possible retained stool with overflow-like liquid leakage. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1a898e0916eab526322a02c6ea81cda4c63826f8cbaebe7f52faf2e7a67962a1"
+    },
+    {
+      "id": "x-basic-087",
+      "status": "pass",
+      "assessment": "Urinary-catheter guidance fits drainage-bag handling and demonstrated home technique. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "bb96288d14a3a7109e7676664d652d423b49919a1a3412bedb428d5482f92da4"
+    },
+    {
+      "id": "x-basic-088",
+      "status": "pass",
+      "assessment": "Urinary-catheter care directly fits routine external hygiene and system maintenance. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ea885e603bfa5803184cd795129fe79a1f585b3e53e0855649ac7a88afc0a1a4"
+    },
+    {
+      "id": "x-basic-090",
+      "status": "pass",
+      "assessment": "Ostomy-care guidance directly fits pouch fullness, traction and emptying. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d7bdfbdea10eefe13da8d2187ebb0faa14be534b4cbe307ddd9a8daadbc79f7a"
+    },
+    {
+      "id": "x-basic-091",
+      "status": "pass",
+      "assessment": "Ostomy-care guidance fits leakage, skin exposure and timely seal assessment. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8427bfb42c7ddd32b5be2950534a52d64e8802addf4ac29eeadd188738984083"
+    },
+    {
+      "id": "x-basic-092",
+      "status": "pass",
+      "assessment": "Ostomy reference fits reassessment of barrier opening as postoperative swelling falls. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3880aa485224728f1b792a4e8476a8fda7171733c7414f249fde596f22f90e67"
+    },
+    {
+      "id": "x-basic-093",
+      "status": "pass",
+      "assessment": "Ostomy-care guidance is related to staged client participation; the item does not impose a fixed learning timeline. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9b9755f5314873f06e834cd92d5df8d51f84467d670651956aba07c1f7a4662a"
+    },
+    {
+      "id": "x-basic-094",
+      "status": "pass",
+      "assessment": "Ostomy reference is relevant to evaluating practical emptying/closure and leak response. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "93191bd0a496a9efc72dfd9d8ef2ae6b1f1bf9a1009709d6e0791905d2c2e090"
+    },
+    {
+      "id": "x-basic-095",
+      "status": "pass",
+      "assessment": "Ostomy guidance fits individualized discussion of gas, intake and participation. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3dc4f5992b1a4140785424ee5741d202327c28dc18651c101646ee2c5209c977"
+    },
+    {
+      "id": "x-basic-096",
+      "status": "pass",
+      "assessment": "Constipation guidance fits evaluating comfort and usual function rather than frequency alone. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "bc605961da0c0faa4cb63c17a4aa6eb875448db647aa7f3f7bca3c4b6bff19bc"
+    }
+  ],
+  "referenceProofs": {
+    "x-basic-076": {
+      "priorPassReport": "c-basic-076-100.review.json",
+      "priorPassHash": "55cddc5d3ed47cdc71213864f0cfbaf9bfc4d4c0466e0561d1efa43ce7af58d8",
+      "newRefs": [
+        "c-constipation"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-087": {
+      "priorPassReport": "c-basic-076-100.review.json",
+      "priorPassHash": "7ac204506aaec8bdafaf758628e484929c6d8faa33f88184318b79f2d117cad4",
+      "newRefs": [
+        "c-catheter"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-088": {
+      "priorPassReport": "c-basic-076-100.changed-recheck.json",
+      "priorPassHash": "09a831e698475d5a481b1acf0856dae33f5f2a04d741263bb6ea4fc367842154",
+      "newRefs": [
+        "c-catheter"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-090": {
+      "priorPassReport": "c-basic-076-100.review.json",
+      "priorPassHash": "7f9c076acc543ee9cb4cfb632d48e3ccea441bd3c53fecad8542a2e659862a4f",
+      "newRefs": [
+        "c-ostomy"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-091": {
+      "priorPassReport": "c-basic-076-100.changed-recheck.json",
+      "priorPassHash": "2452397d425d84edb9f3d597503d1c19f63033141778bb45ffad88a71b0ba716",
+      "newRefs": [
+        "c-ostomy"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-092": {
+      "priorPassReport": "c-basic-076-100.changed-recheck.json",
+      "priorPassHash": "fa8e03098b8df4078692228375f648b717d3852cbf03e75fe09060bed1c51ff9",
+      "newRefs": [
+        "c-ostomy"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-093": {
+      "priorPassReport": "c-basic-076-100.review.json",
+      "priorPassHash": "885c40ab853147170e7623645acfe870c670441c57fb389b3ca3c8cab41bdd69",
+      "newRefs": [
+        "c-ostomy"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-094": {
+      "priorPassReport": "c-basic-076-100.changed-recheck.json",
+      "priorPassHash": "efd239b5318533b12ea3211430a34b8e89c487e531d7f5e6efa64e33b6a44e13",
+      "newRefs": [
+        "c-ostomy"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-095": {
+      "priorPassReport": "c-basic-076-100.review.json",
+      "priorPassHash": "351a65608c0c163c75e053c91514c180d4cee239aed253dff3bd0746bbaa99c9",
+      "newRefs": [
+        "c-ostomy"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-096": {
+      "priorPassReport": "c-basic-096.final-recheck.json",
+      "priorPassHash": "4fc2af496cdbcc4fd98836180e7b938f42f101050469756f36707a0225c9b315",
+      "newRefs": [
+        "c-constipation"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    }
+  },
+  "sourceCheckLimit": "New source names, registered scopes and mapped item topics were inspected. Complete source texts were not independently retrieved for every mapping; no full-source or clinician validation is claimed.",
+  "reviewerTask": "/root/review_legacy"
+}

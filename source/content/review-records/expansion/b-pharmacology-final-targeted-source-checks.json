@@ -1,0 +1,64 @@
+{
+  "checkedAt": "2026-10-01T18:11:01.876538+00:00",
+  "reviewerTask": "/root/review_legacy",
+  "limitations": [
+    "Targeted checks support only their stated claims; not clinician validation or complete claim-by-claim verification.",
+    "Source retrieval status distinguishes full documents from excerpts and unavailable textbook pages."
+  ],
+  "sourceChecks": [
+    {
+      "ids": [
+        "x-pharmacology-014"
+      ],
+      "url": "https://www.fda.gov/drugs/food-and-drug-administration-overdose-prevention-framework/new-safety-measures-announced-opioid-analgesics-prescription-opioid-cough-products-and",
+      "checked": true,
+      "accessMode": "primary regulator search excerpt",
+      "note": "Retrieved opioid plus benzodiazepine/other CNS-depressant warning covering marked sleepiness and respiratory impairment. Relevant b-cns textbook opening was blocked by browser verification; its topic mapping is appropriate but not represented as my full-page retrieval."
+    },
+    {
+      "ids": [
+        "x-pharmacology-038"
+      ],
+      "url": "https://www.nice.org.uk/guidance/ng232/chapter/recommendations",
+      "checked": true,
+      "accessMode": "primary guideline search excerpt after failed direct opening",
+      "note": "Retrieved anticoagulated-head-injury recommendation even without other CT indications; supports assessment rather than reassurance from initial symptoms. No universal mandatory scan or exact timing asserted in the item."
+    },
+    {
+      "ids": [
+        "x-pharmacology-057"
+      ],
+      "url": "https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/safety-reviews/summary-safety-review-sglt2-inhibitors-canagliflozin-dapagliflozin-empagliflozin.html",
+      "checked": true,
+      "accessMode": "opened full page",
+      "note": "Read Health Canada review: ketoacidosis may occur with normal/modest glucose and characteristic symptoms warrant immediate assessment regardless of glucose."
+    },
+    {
+      "ids": [
+        "x-pharmacology-111"
+      ],
+      "url": "https://www.canada.ca/content/dam/hc-sc/documents/services/drugs-health-products/medeffect-canada/health-product-infowatch/health-product-infowatch-june-2017/hpiw-ivps_2017-06-eng.pdf",
+      "checked": true,
+      "accessMode": "opened PDF and read clozapine section",
+      "note": "Health Canada describes potentially fatal hypomotility, obstruction/ileus and need to recognize and treat constipation. Item adds concerning vomiting/distension rather than making uncomplicated constipation an emergency automatically."
+    },
+    {
+      "ids": [
+        "x-pharmacology-117"
+      ],
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/019813s081lbl.pdf",
+      "checked": true,
+      "accessMode": "primary prescribing-label search excerpt",
+      "note": "Retrieved warning that external temperature can increase fentanyl patch delivery and overdose risk. Older label supports the stable warning; no claim that this is the latest complete monograph."
+    },
+    {
+      "ids": [
+        "x-pharmacology-122"
+      ],
+      "url": "https://ismpcanada.ca/wp-content/uploads/ISMPCSB2008-02Methotrexate.pdf",
+      "checked": true,
+      "accessMode": "opened primary safety bulletin; targeted search excerpt also read",
+      "note": "Documented reports of inadvertent daily rather than weekly low-dose methotrexate causing severe harm/death support frequency-discrepancy clarification."
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:14:53.305538+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/basic-101-125.json",
+  "sourceSha256": "78b6b9577dfb0afbb1ea2557ce1e5dc0d356a49826e01cd6c930c5ff33f1a605",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 14,
+    "reviewedIds": [
+      "x-basic-101",
+      "x-basic-105",
+      "x-basic-108",
+      "x-basic-109",
+      "x-basic-112",
+      "x-basic-114",
+      "x-basic-115",
+      "x-basic-116",
+      "x-basic-117",
+      "x-basic-121",
+      "x-basic-122",
+      "x-basic-123",
+      "x-basic-124",
+      "x-basic-125"
+    ],
+    "unreviewedIds": [
+      "x-basic-102",
+      "x-basic-103",
+      "x-basic-104",
+      "x-basic-106",
+      "x-basic-107",
+      "x-basic-110",
+      "x-basic-111",
+      "x-basic-113",
+      "x-basic-118",
+      "x-basic-119",
+      "x-basic-120"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-basic-101",
+      "status": "pass",
+      "assessment": "Behavioural assessment plus baseline collateral information is appropriate for unreliable self-report. Prior score, pulse alone and family account alone are incomplete but realistic shortcuts.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a3f9527d034e503fbfead85953f0df025e9dd19bd37501face6a939f50f066b2"
+    },
+    {
+      "id": "x-basic-105",
+      "status": "pass",
+      "assessment": "Exploring anticipated pain and pacing approved activity addresses the specific fear. General education and premature full-session testing do not resolve the barrier; key remains concise.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a3c1e634de1208e0204ab2a48022f743303df8613b21294051184ea77efddfa4"
+    },
+    {
+      "id": "x-basic-108",
+      "status": "pass",
+      "assessment": "Reduced protective sensation makes self-regulated heat unsafe even with low setting or towel. The key is broader because the safe alternative depends on assessment; there is no ambiguous competing safe heat method.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "319f25ea1caffef4991f325be106629678f5b69eadb2295b865df0607035701b"
+    },
+    {
+      "id": "x-basic-109",
+      "status": "pass",
+      "assessment": "Client preference makes music a reasonable adjunct. Options test imposing customary methods or making preference contingent on an unwanted trial; modest foundation difficulty is acknowledged.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e451d9300f85f44105e6b2c8dc17467434bfefa9aaf7bf58ff9c1e333f1d8692"
+    },
+    {
+      "id": "x-basic-112",
+      "status": "pass",
+      "assessment": "Low-odour tolerated food directly targets the documented trigger. Covering a hot meal until bedside is a plausible incomplete workaround; scent masking can worsen nausea.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6f0471e3cb5451c4ac5355e79dd47e757dcc41f4f12397536d62c6714bbe3c45"
+    },
+    {
+      "id": "x-basic-114",
+      "status": "revise",
+      "assessment": "Both wrong SATA options are made wrong by only/without qualifiers, while both keys are short paired physical needs. Use parallel assessment targets and an immediate physical-discomfort focus.",
+      "issues": [
+        "Both wrong SATA options are made wrong by only/without qualifiers, while both keys are short paired physical needs. Use parallel assessment targets and an immediate physical-discomfort focus."
+      ],
+      "proposedChanges": [
+        {
+          "stem": "A nonverbal client repeatedly pulls at clothing and shifts in a chair during afternoon care. Which assessments most directly help identify a current physical source of discomfort? Select all that apply.",
+          "options": [
+            "The usual duration of afternoon naps",
+            "The timing of the most recent family visit",
+            "Toileting need and abdominal fullness",
+            "Skin pressure and positioning"
+          ],
+          "why": [
+            "Sleep history may guide broader care, but it is less direct than checking a current bodily need.",
+            "Social context may matter but does not directly assess a physical cause of this restlessness.",
+            "Elimination discomfort can produce restless movement and needs current assessment.",
+            "Pressure or an uncomfortable position can drive repeated shifting."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "241b12f3f4322e9a4ca11cf5d77b9126b28d6cc0d0f0a5dd7b28d08b992a5bba"
+    },
+    {
+      "id": "x-basic-115",
+      "status": "revise",
+      "assessment": "Question asks what to explore but three choices are interventions, and two duplicate generic early bedtime. Use comparable assessment domains.",
+      "issues": [
+        "Question asks what to explore but three choices are interventions, and two duplicate generic early bedtime. Use comparable assessment domains."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Preferred room temperature and bedding",
+            "Usual routine and daytime sleep pattern",
+            "The time the evening medication round occurs",
+            "The amount of light entering the room overnight"
+          ],
+          "why": [
+            "Environment may contribute but the long afternoon naps are the most specific cue in this case.",
+            "The several-hour naps may reduce night-time sleep drive; compare with the usual sleep-wake routine.",
+            "Medication timing may matter, but the reported daytime sleep pattern should be explored first.",
+            "Light can disturb sleep, but no light-related cue is supplied; start with the documented pattern."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "2388e90001949d973e620319019f86358aa7ac6e6702241d6bc0b7a2ab6e46e8"
+    },
+    {
+      "id": "x-basic-116",
+      "status": "pass",
+      "assessment": "New breathlessness-related awakenings and extra pillows require physiological assessment and escalation. Sedation, positioning alone and insomnia labelling are relevant but inadequate responses.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5d6f501555579b815328c749240edc9471e15cacc506651ce3f1b81ce174aa3e"
+    },
+    {
+      "id": "x-basic-117",
+      "status": "pass",
+      "assessment": "Noise reduction directly targets the identified cause, with acceptable sound protection. Earlier bedtime and care clustering target other mechanisms; safety review of sound protection is appropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fc2429e034204f25e6a0c217a6988a960601e566a80f77d6b87db773f28164ae"
+    },
+    {
+      "id": "x-basic-121",
+      "status": "pass",
+      "assessment": "Tolerated small changes balanced with reassessment fit end-of-life comfort goals. Automatic large turns or reliance on mattress alone miss the stated intolerance.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0993d9d56bc87bbded609ffd7899ecc8a67696ab2419f3311dc6d31bd5d32f6e"
+    },
+    {
+      "id": "x-basic-122",
+      "status": "pass",
+      "assessment": "Comfort-focused tolerated intake appropriately addresses the dying person’s wishes. The alternatives test automatic nutritional escalation. No claim is made that clinically indicated hydration or nutrition must always be withheld.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f52257b37ba82432acfdb9f025b3cba230c623cac7cbfa5f2546b6ed0acb145e"
+    },
+    {
+      "id": "x-basic-123",
+      "status": "pass",
+      "assessment": "Supporting the safe relieving posture and reassessing subjective comfort is appropriate for stable chronic breathlessness. Standard posture and saturation-only approaches miss individual relief.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "359549240fe3ad30bf40d1baee5d6600095377da99b6b8a56098c25a7e629418"
+    },
+    {
+      "id": "x-basic-124",
+      "status": "revise",
+      "assessment": "Question asks for an interpretation but two alternatives are charting/treatment actions. Use parallel interpretations, including plausible partial-benefit errors.",
+      "issues": [
+        "Question asks for an interpretation but two alternatives are charting/treatment actions. Use parallel interpretations, including plausible partial-benefit errors."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "The strategy helped anxiety but did not relieve the pain",
+            "The strategy was ineffective because the pain score did not fall",
+            "The lower tension shows that less analgesia is now required",
+            "The unchanged pain score makes the tension report unreliable"
+          ],
+          "why": [
+            "The intervention targeted anxiety; less tension is a meaningful benefit while persistent pain still needs its own management.",
+            "A strategy can help one targeted symptom without changing another.",
+            "Reduced tension alone does not demonstrate adequate pain relief or justify changing analgesia.",
+            "Anxiety and pain may change differently; neither report invalidates the other."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "28722c2b84ec24f6f0bfa742604946db6ba6e0ffc6bbb37f89e129ca758da870"
+    },
+    {
+      "id": "x-basic-125",
+      "status": "pass",
+      "assessment": "Allocating limited energy to the client’s valued call fits the specific goal. Simultaneous bathing, fixed task order and unilateral rescheduling are relevant planning errors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5ebab21ad511a2177a905d6edbe170b1c20c5f22d5bb4edfabdbd6726de12207"
+    }
+  ],
+  "reviewScope": "Re-read all fourteen revised IDs, including new stricter grammar/cue assessment. Unchanged earlier hashes are not relabelled here.",
+  "reviewerTask": "/root/review_legacy"
+}

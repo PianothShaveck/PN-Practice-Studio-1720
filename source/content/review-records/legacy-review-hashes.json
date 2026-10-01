@@ -1,0 +1,1354 @@
+[
+  {
+    "id": "management-01",
+    "originalHash": "ff88691a52dd80e73fe0c6de9e6e4380ec17e0a5b0f84e0e22dcfa12ecfe7b65",
+    "proposedHash": "142e664658b721140d4405966c2de999b6b2aff5789e5c9c97ffe1ab7e5b7179",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "management-02",
+    "originalHash": "0f13cca4cee5ceccc3a21174489ed6e2d321c550f3011c3a0ff7ec947c793e5f",
+    "proposedHash": "179d84afecde24609fb83393300a32a5fa718d03de46215d1ff92f1564e89ca0",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      2
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "management-03",
+    "originalHash": "625ebe1e59772459a24bce67fac63eb59b5703942570acef1810fb2577b7fe87",
+    "proposedHash": "2f795cb3db40f33bffb99e8b0f874d46692855bb0151b036a87149497ef597e6",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "management-04",
+    "originalHash": "781d24a469af3384bdb6cbfd99547664a4552d49b1bbb7a1331ecec083bce596",
+    "proposedHash": "d7e5ca573dc3c849ebb06c689f36d43a193ac0e92de75d99b1c835a244fa2692",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      3
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "management-05",
+    "originalHash": "f2f0b7264c8da16c86a01a1b9c135b050506e8c2793c8d4b59af08d0eceb62e6",
+    "proposedHash": "321cea1b6815340ff1f851b7efec7bb15e7fb74be96c130ba76375cc2f4f3856",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      0
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "management-06",
+    "originalHash": "e6e27d2fd694db3aff9b38808fd86a19edee08c056925f6a2aab05c415a421cb",
+    "proposedHash": "e505c4e134c5c0cb14b1ce3e999d3ac57e06a8da2809aac7021f34ef3e7ae85a",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      0,
+      1,
+      3
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "management-07",
+    "originalHash": "f12965e6afeee6511c7f34ed89ef2c80c146402615037f4debeeeab7b0c1503b",
+    "proposedHash": "87678e95a629f76f0d1175e4fe2499fceb43f30df7dbfd6c389b4e9c2b0806d2",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "management-08",
+    "originalHash": "22f6d35680fae40836ebd476fac7bef0c98926209a8c6ec372e87dc099458500",
+    "proposedHash": "359165d69e100e5835ec6d728c22afca0180aceb27d1db18e35512607a9d3f90",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      2
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "management-09",
+    "originalHash": "44dd4fef69bf5bd3d7ebdf04f2cab74dd82125f161947a7bf174e20dc865807a",
+    "proposedHash": "e416b90042a432dc279bd21c6775ef7fe8d514267b789f5d04372c23ca264e02",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      3
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "management-10",
+    "originalHash": "e10526c8f45b1df0dc81c70e893ee3638434fc4922134ac109dfae59d05df07e",
+    "proposedHash": "8e8966456ae78c5d92d252f3e79b6970c2cd480f03f00b0a33550720bc484209",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      0
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "management-11",
+    "originalHash": "a83c4719ccb0d3ec5ad01ae5f5524e3acae0d4cbbda8afcd029f2d453a2e6aaf",
+    "proposedHash": "96a4e94ae0caa14a1f9212140756e90c38b0197623378d2509aa446d944a7e5d",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      0,
+      2,
+      3
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "management-12",
+    "originalHash": "11f5528b9b254c19aae622bc02eaf3b2f9573575221fafffdae2d1f3a3f330e5",
+    "proposedHash": "cfcd89c0d6799188fcf10ffcc9b225c7eb48c9be562aef3e76442dbbba8de1c5",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "safety-01",
+    "originalHash": "03cb96f41c6fc07bb2a0136b0303795c8ce06d41ae392a01220d0083e4c2980a",
+    "proposedHash": "e393c735e86161687649552f17d0e8a77c6d7ad37b2c57875f1024a0f1247b2d",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "safety-02",
+    "originalHash": "7577f622b223e9cd855daa06e886451f525e7e769072604b73bbb63476672674",
+    "proposedHash": "9a49070ea884d25ae65be67697466d7eb95e452ae045b4a950b2a3f793f18cb4",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      0,
+      2,
+      3
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "safety-03",
+    "originalHash": "cceda509e2ab9da9f5f1b976a1a27480be86ea7f58dba08a4df66a5fe7458034",
+    "proposedHash": "894e6eb523cf1fa62ca58797caaa9aeb3d0e18aa88bd149869ef9a57b3941d4f",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      2
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "safety-04",
+    "originalHash": "6fad915efa0686db2737929271b08acf4e4be7c96313d141393fa16f7c64c04f",
+    "proposedHash": "e8d3eb51f4b06ba9428cc82627ee4c53ce5de1f4fd127bb969f8c038f15b011a",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "safety-05",
+    "originalHash": "b1fbec40ccb7548339c12886e80ee3b7b2ec643a3e7cf5678b42077e1af5ff47",
+    "proposedHash": "9cf18a44b72da65728d17de35949b6d03cbac84cf561a4ffec22615757b5334f",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "safety-06",
+    "originalHash": "648b4509fb9d1be845c280049c5af81225dfde0bcbccf7d0555462eddb84da83",
+    "proposedHash": "995f570ce7688456d62a1c1aaba2a405919b1824c39a224787e3abbf16df93cc",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      2
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "safety-07",
+    "originalHash": "87ae3ff3c990c4b068d60c060b4beece2968d42cea3724c37d37f472e2a145a5",
+    "proposedHash": "6ad156895060c55ae58b57fa021511f42b378f676f15d9a6296fd0d4932e5e13",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      0,
+      2,
+      3
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "safety-08",
+    "originalHash": "767768adb4ab8b0113464bbb9b32e5b341aa6dcc71128e936deee45b1d4aa0bc",
+    "proposedHash": "feb704f93f27301da3d4c993c15631a933266198603f952d613a16bd4f380704",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      2
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "safety-09",
+    "originalHash": "8dda0370028541136d8c3545a5726c215bd0274434a9efcc982a5d7d0ded6c32",
+    "proposedHash": "af3e7fa136e9350414322d3d5a4a3ba5613306a68583f1e0cf40222c3a3330e5",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "safety-10",
+    "originalHash": "bb7af96d6c962ec61265d319a1748c6ea04a44dd3daf70390140d2c7b5e431c3",
+    "proposedHash": "6b523fcc6388b4a10e223cd74ebdf4524b473658530b9bb3e4e6df0fdd7c9296",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      3
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "safety-11",
+    "originalHash": "6a74f09c70aefb3b7f1a0e889ebb7306043b8e2c6fa56feed6d28fa9403b9807",
+    "proposedHash": "8327b39f7450cdabbf40038b7878ee2d798a694493d38c779780ad375670af84",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      0
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "safety-12",
+    "originalHash": "57f3cbc0682320ca05f1746135efee322a73387b17c2c46354658a3310d56d4e",
+    "proposedHash": "b8a623a1b7c2f956d738c57a6f0ed7e9e8c9b62506c5d8eee7e7fd5a3071afcc",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "health-01",
+    "originalHash": "0c600bac58df70e3a74c8f121ddbaa740ea726e2fcbed030b8e3f032624077c5",
+    "proposedHash": "3cd6810e66541cd325a5b7db872b9dae003c0ddb391f7b96538c7bb1fe1a7eab",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "health-02",
+    "originalHash": "ef3cb8b7829f09d452c0cb0cc6febb80d31f5581cd8407652325525d7311c295",
+    "proposedHash": "88f481d3dc690ad8fb732671ddc80c69c8c2ec50f5b62c304a7ab719655c4a53",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      2
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "health-03",
+    "originalHash": "e599853a456aa8e00a8f2cd3daebb07594276b8a2640567a09af69227c09c0b8",
+    "proposedHash": "12aae1b519aed6e0be7eae0a66231fbd1998c358fa7144ecd80d397069a17125",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "health-04",
+    "originalHash": "fbdc25925abb348e4d5aec5cb136c331ba7d7022cce06e912f3d2d7b150f45e2",
+    "proposedHash": "f73eb97be87c8e3c32ddea61505cc25af9ec61a3ba6991dd4b9bc694de1976f5",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      0
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "health-05",
+    "originalHash": "a0be5ffe4408740167934fab22e78c1048d1ff74e4c5a1211c9ebe896d56c685",
+    "proposedHash": "f75ba2b81421d121690b27b95004b36b5bafc2a79a54e62df44363e980839ab6",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "health-06",
+    "originalHash": "f43f13619ce1ea2385a60aa11d7df4552ab7003b3e6ad99b85e3fd5f9f074804",
+    "proposedHash": "e467cf408169978a43e7810f748e79bdb3002bb62ebf85ca4875fdbbc0eeef0b",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      0,
+      2,
+      3
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "health-07",
+    "originalHash": "57b7d10aaee639537354b52adfd3b78ebfa97ed671200a59fee092e94318b0a8",
+    "proposedHash": "58e13340b7553d41c5a63fa118ed5782447cb0dafe2298c2a2b3c9e7c0cd9731",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "health-08",
+    "originalHash": "e587dffa65dc4a944ce63b7119b50afa4ce50c7fe6a756b213f8b912e7fa4c2f",
+    "proposedHash": "e2498d7bab7f6f35dd43884dea418081842ad28e389bb38176208f8949907f55",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      0,
+      2,
+      3
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "health-09",
+    "originalHash": "f7b8a9b9984c6526ee4522ef0edf56855784dd86c53fafa54e9e8d03093981e6",
+    "proposedHash": "4cc9579026c55f5e5a249aadfefc2332292b6f74ac9ba5edd2ac47cb9acb0974",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      2
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "health-10",
+    "originalHash": "b790b7879f027256c68230b7f711ffe4e85351250d01eca5094324875a441e1d",
+    "proposedHash": "805cddc5c5ff517058bd736613812187f6a94feef27ed2332f033f2f80895af8",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "health-11",
+    "originalHash": "f19573f8e2e448014866108e399fa83761b99a8c157a5a134469d37afafbb17c",
+    "proposedHash": "566c7c7cb7103fdbf5a50afc09a2b1caa54e70ceaed3055c0c338cce1ce646b3",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "health-12",
+    "originalHash": "fddd7b9a3269eb71ac426f0c4ee8d771921744c037ce696b8cc8e724954168de",
+    "proposedHash": "7334ff4caaa0c8c355e499fff063149c245587499b9123f7582e769ca949b423",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "psychosocial-01",
+    "originalHash": "a63320e94d6260b16028869627522cfac27f122bc6148fd2915ad13d0a144e21",
+    "proposedHash": "ba12dbf7980b3b612ec8df2288a292dcc2370dafa26a1e0d9395e0322c42a3e9",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      0
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "psychosocial-02",
+    "originalHash": "e86995366a3b33fb826719690eb5d91e66336554e6bab3a0e54eaf4118de1dc4",
+    "proposedHash": "e577e8e3973737667c5d68c9998077959af5a166b9b70d577c979d679381bbd2",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "psychosocial-03",
+    "originalHash": "c51364e51a5c8feb6e11c332d76b7854d3920a8397ecc26d8e5c881113c6dc01",
+    "proposedHash": "27ce32e6006dc1117cdcdea8664cab661114317d70a6756b95a8aaae8cbbb45e",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      2
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "psychosocial-04",
+    "originalHash": "7a4a9d84ac43f37acd107f322e7de8e8992975a89c6a6586d86906e25cabe6ac",
+    "proposedHash": "730c964cf261407c971a6322c7f8adbb44dd7f778114483a2d73907126f5865d",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "psychosocial-05",
+    "originalHash": "0133788fde1dc57f25024942b8042f1699d9c415b07dea7a20b36a5b4144e254",
+    "proposedHash": "abd35e6a0a5d45f0a983be0c8f5bdbccd7b5ef6c3e8d39036d6f679215fc6e26",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      2
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "psychosocial-06",
+    "originalHash": "edfbc2748577a747e2f6a92a79f85cbcace252ddc016a722e02505d0bbbf51e2",
+    "proposedHash": "3419c7b3873dfcca97c12e260fbe73fdf3e412ebc45d38da6457bd8b6d3231fb",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      2
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "psychosocial-07",
+    "originalHash": "779e3f5b0a03f4b5459925e50f63a8baeebdef2658ab9cb55e9d3d3e05a0f0b5",
+    "proposedHash": "d3832aad467ab6f27626407bdccbd4b6e2def3d0c175903722f4d1c35e8f8491",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      0,
+      2,
+      3
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "psychosocial-08",
+    "originalHash": "9293c38f919aab4f775ff37a68811a4b526f400e9d47ccd6c11649da5fe84874",
+    "proposedHash": "b17308fbcf573905e007a337b7f8e25565a81c3f648059875094a9516c930ec4",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "psychosocial-09",
+    "originalHash": "c22efc9d49dc0b04571ff5552ce2c6008d2ce33557988b6fbfd8a950aaec8fdc",
+    "proposedHash": "5405ac30a1f64c49734f850a4d7c968e4b628dd6d7ff5d0d70e122cead97602c",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      0,
+      2,
+      3
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "psychosocial-10",
+    "originalHash": "9f5f989f47b6506e6d7554f41d9c3c081e18a6a7b0bb493a1f96a675d8ac8c21",
+    "proposedHash": "d69239e6e72895f40d430a8ef6eb836803a1dcdfa09f8560d2e44659c23190f2",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "psychosocial-11",
+    "originalHash": "6cc099941950dd2e7c745764ad6e2b37fb0660f131ed19561e1b209c1c2ad455",
+    "proposedHash": "d84ead4ee197227a81c8de8775e7ff30dc4d1512b391b86272ebc46c69491ef3",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      2
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "psychosocial-12",
+    "originalHash": "f00fe61c601be58009586868b3580c80f1f676c7381f5298ca9db75ba14bc47c",
+    "proposedHash": "bbb65976a9d6fcd847175369ac7a8b09bd84de547ef441e67b86e09385ec203c",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      0
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "basic-01",
+    "originalHash": "fb9223cc54747f4848ee79fd6ac04f6e63389efc7f2fed674e5fe5926ccc3b45",
+    "proposedHash": "f8df57704a759a8525f6aa8d7be9c772d0dc8a2201a0aed2c9906062b62d69f3",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "basic-02",
+    "originalHash": "2aa04ae48ef7da524f24e58bde3ff6fc1449d2983bda35a5d104cb42c6ee8c48",
+    "proposedHash": "d038029423b4d4288ae37dcc503e1da2175d708635b4e9f819c035c40496beda",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      0,
+      2,
+      3
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "basic-03",
+    "originalHash": "3cab6fd503be985ae61b0415d1705b2f3d497cb7838470eb160bb34a6e5343bc",
+    "proposedHash": "36d1d2f31617cfeae72843ffcf65f1a6a44f008eb463ea86431752fdea391b50",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "basic-04",
+    "originalHash": "b6201fd84e32c82dd3497ed2690b775d29eee12f0b13da255b6753cf977188bf",
+    "proposedHash": "b3789768825acd432702a55b724f3c29cbf9335adf713fc5cd939f2b97c2ee1f",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "basic-05",
+    "originalHash": "25e8ab36cbabf074fd9e3ce34364f1a338afcde64811391d5b8e4bf4ecb52bfe",
+    "proposedHash": "1282d6a3aa815a28b0a2ace1d84f9675d4a414db2cccefa46d71a197711891dc",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "basic-06",
+    "originalHash": "7ca6f694dc8f9757a764652d9d444abe31e66d5ef7b4c907144d2bd75efe43f3",
+    "proposedHash": "c485d39ee5046c6484daed639e1982cd2d9a78e6301de078f7c054742d2ca5b7",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "basic-07",
+    "originalHash": "92efab1e671a221074ffbdaaecbff8c414cd56e5996f1629b5a6a0ad579ece5b",
+    "proposedHash": "4939f88a65bfc92a20d1f9a963f7238a8dc1c555648f917e1556197ed231ca58",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      0,
+      2,
+      3
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "basic-08",
+    "originalHash": "7c9f498f1921139eac72d06585e2465c8d3670b28e64167b80ab35e9537c7af5",
+    "proposedHash": "016f0897ab34df5f7057f3d67181f4161182e547b475ba919b1cc83e22933cf5",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "basic-09",
+    "originalHash": "b294517d77d67caa2ae14f0fabfd724e767ed0300877e564526bee78d9a4a583",
+    "proposedHash": "81bfadf2c5ed13bd70f734ee41509d99a2abad10da84531651085465fc815475",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      0
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "basic-10",
+    "originalHash": "a5a08d625f3b9fda1db78fedbf3c9b42c6280bff67b79091f1d6e87a8d44010c",
+    "proposedHash": "94a66192f41c460050b6786835e28956d3a600e29bab67dfe7ca29527d409930",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "basic-11",
+    "originalHash": "91ef6315be49509aa37035f2960bb3f4d2e9841357138b7801811f01b154ba13",
+    "proposedHash": "ebe17c290e6dda45d5bfb7452088af060ec12d5ee3adf58bbd4647d014e2f765",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "basic-12",
+    "originalHash": "24fbbe1acfe602be960da117f5edafc862883fc28b521cbf8d0e1a76d59b9a40",
+    "proposedHash": "496d9f84c91e4ec140dd6d7207c48e7ee171024563117c2a27af93fb9451fbe2",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "pharmacology-01",
+    "originalHash": "f6ac8e5b41b93e66fa5f03c9c370262dd284261b3f9b4d8bb2a4b4b66608c309",
+    "proposedHash": "245e074e2d1621f7935933cde140a703918e64113c02ae6b843af307de5ca1e5",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "pharmacology-02",
+    "originalHash": "a8134c47bba1a16fe16d65dc3a2d6a9d88dfdb62668650dd623b927d8101b004",
+    "proposedHash": "b3184ce2b173fcaad2056e1912aa2350ab95d3603b2c857b46b1dbcb83100afe",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "pharmacology-03",
+    "originalHash": "9a497b518e9c6db466c1305cca6688b2e5bc4f9cca158a819b102afba71be6d7",
+    "proposedHash": "8ca23f7fff6e97383c0d8f3764babd369610f93a3eed8fab9ff119f82e0140ac",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "pharmacology-04",
+    "originalHash": "5afc1fa064fd2353522e02158f19acfe2cb0591c309f839c2f5e26729e046d0e",
+    "proposedHash": "11ece87bbe96b6fb041b27c49154f52476539fb900257ea6ae6804acba4a2550",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "pharmacology-05",
+    "originalHash": "2744707b0ff8689a07f57cf194ca88af9f5a56cd93386e938c3a36b572c2c0ad",
+    "proposedHash": "5703dabeff2808dd7e14e0b81a75dd2fb44e41a7cdf5e4b4d8d5a409b58f3174",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "pharmacology-06",
+    "originalHash": "3743f2df30c869a5ea225be64c4a3831a149a96bc85cd7517b9e0af008491fc4",
+    "proposedHash": "4db0b02624d014bbe5a087f724f8410170da119850599ae1743cf63b660b39bd",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "pharmacology-07",
+    "originalHash": "c2df7cf10fd71123514bf39f8c54a99734315b274aac4eb522568953daa1e10e",
+    "proposedHash": "fdba7fdc6c627e53a29f0e22fbab38b0aecbfd34725dc2b46538a486b41db733",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      0,
+      1,
+      3
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "pharmacology-08",
+    "originalHash": "d75cb9c3cc685708635ab9e708abee3119fad810086bd267fae0b59bd2d5de76",
+    "proposedHash": "1a1079a59f063eebf410f4c34fd4717f22fc66ddbcea39a82f326b2ad6f25af3",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "pharmacology-09",
+    "originalHash": "49dee5ff45d79a8daed942a6aa1f8e4c9d4fe4b1671db406b436f73db3f38729",
+    "proposedHash": "f01a400f13e73e4be60c26a037529f979cc25db948465ffb9ece51cd838dc27a",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "pharmacology-10",
+    "originalHash": "9ef6fb6e6c13c5ce4fb35d0932cc940cf84e2fb804007036febab0cc4b5720eb",
+    "proposedHash": "a12ca7735c06900db7d6ec8096d4113d313d17d9b5fd0b5eeab703c4910f816f",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "pharmacology-11",
+    "originalHash": "9b4314388d2264b2be752801b18f5b162af728222d2352d09ac8ace83b113f53",
+    "proposedHash": "cf35913888d44d27d829206f2daf39be3c20108aabc32677928da71e8ce89332",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      0
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "pharmacology-12",
+    "originalHash": "286f654ad07757c20d2ed3e58b5e32ac471eb73d892ca3d42f0d1f7753059ceb",
+    "proposedHash": "203c794584dfd598bff3be6a0c9562b495298418e9453793b889124c23bd6aac",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      0,
+      1,
+      3
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "risk-01",
+    "originalHash": "b5f3e3f334c886093223f7cc41bd0230f43046ad5bf146745d8b350c3e49efe5",
+    "proposedHash": "f1b5baff4725eb50e17aee14983281623ef6e9af37b293a7abc14ddbbf1a8962",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "risk-02",
+    "originalHash": "13b6bf3ac8aec909f4d6dd3a2f17c5083f51487f8a6bea9dd4042148beb1ff56",
+    "proposedHash": "f0c0956b2a40d4685bf7d985bb6154d84d78f7d8002e35816e9cd3374e9470d4",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "risk-03",
+    "originalHash": "7a9d2f600970531a80e9b033c70717bc1de4f230dfd4e4305c2326e687b1c6ef",
+    "proposedHash": "31d67b5440a31ddfd2cba60e69d322dd333e0ddbe7300e17a12dcb1accba4c37",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      0
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "risk-04",
+    "originalHash": "80f81a053cbcfc505ef6b998f6926d68e5d9a675131c5cd932d824ef8df862a4",
+    "proposedHash": "ccf4dde3f50657fbc50c5357c44a72c8749181b941207d3a6ed6782e9e3559f4",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      0,
+      1,
+      3
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "risk-05",
+    "originalHash": "d9259a5b69ed2aad0e974c3d1bafc30cbb5da614366d9346b12c39c540a933cc",
+    "proposedHash": "9121752263bb4fa822a7b84de9c56ec1af57f7ac32ca0caeffa8ed4bbaa74d35",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "risk-06",
+    "originalHash": "fd431088e3392452dd85d0f9e12578237a26d40cec08ada1c02907a71b76c733",
+    "proposedHash": "c8b6e226f1b8873155587ca693ec84fe1881f97973abc392b0a2bdbd397e5ac0",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "risk-07",
+    "originalHash": "36fd9e355a6acaed25f458403026d4a843bc36beaade6173da8084ab6a383caf",
+    "proposedHash": "267b4b995febb527044c0256f0f1c4ca685558f1881e88a27beac311d0a25f90",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "risk-08",
+    "originalHash": "6c17e73ba89e06d7910aaab06c719a40d05c83dbe782e863c37e962746b41184",
+    "proposedHash": "e4f3b06f730460b47011d7a977bdaee191190fcdaf2d9c86aa4914bd201decf2",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      0,
+      1,
+      3
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "risk-09",
+    "originalHash": "582c582d7a4e16b75c7bbc75a8c8178d231c761b0bfc0b7050c1f291b6d21b17",
+    "proposedHash": "b58bf4aa590feeea005d225390e1167e20f84623fb4b84865e56a3027c4ef2d2",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "risk-10",
+    "originalHash": "b2479f0ef75b2546fbab2f98d52744d72ad4bad44755c3494fb5eeb5b1342e7f",
+    "proposedHash": "e5abce8b05b3084ba5077bbb3f93293193b45f57ba1f616c910179c8dbca816b",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "risk-11",
+    "originalHash": "acff90388f88638ade34b3553b0878afc4c5007a123031e5777bfecb9bbf4052",
+    "proposedHash": "df0688f8cfd99e0239852e01fa75db47d68c0bfe3c7c1c49090ee62d80673cab",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      0
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "risk-12",
+    "originalHash": "99ac6bd7ce84ac12d8dbbf46b66db4641af3c10c6695ff28ad3341f30d4b90fa",
+    "proposedHash": "42cc1091ee6571fb8a4ac6c541ea06dafc6005d51d9a46b9f3876e57d75e8f53",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      2
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "adaptation-01",
+    "originalHash": "05b4e2026d017c85b5687e01d8966a68bda195b167ef48aee2f192f7caca190e",
+    "proposedHash": "5c1c37bba5eaf19ab561f6b7c33537ba3e5184a9cc5b1e86c9e6b000a064ef62",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "adaptation-02",
+    "originalHash": "99e4ff144f67bb9a2eb0cd2d3055780ab89940cda2513566995db81109d3fa3b",
+    "proposedHash": "6f208df784f1805c939b58556982c2b6a16d033ef613119db83c430b649475d8",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      2
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "adaptation-03",
+    "originalHash": "991c1bd1861d6f0e650f421e46c1f70aee7e9b8cc6573eb68e09b05b2cd7233a",
+    "proposedHash": "401f8374090c9449df3be4d749e057a4d78f119cde956c265cbf7ca8d873551b",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "adaptation-04",
+    "originalHash": "bfd6ebeeb82c4c71333a951fa81e5d391ba5497303d11154817dd7f1f80b4da4",
+    "proposedHash": "9dd2588fc1549b198d5c19af12269c18ed62ff337925caf730a078d38c21c7ad",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "adaptation-05",
+    "originalHash": "669f5ee2176dd408da94eece612500d406b0eb3875a4e15631a7a94034cb64b1",
+    "proposedHash": "1f7d6ce995a9cbd2964ca2bbe0837a912d9362e72c1b420e6ddc1ff76c3185d8",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "adaptation-06",
+    "originalHash": "fcf354b3da1c94f6498111feb1b5d81985f1bec8b17e9262f478315ebf98f01e",
+    "proposedHash": "7b5dabfb69c77acbe1a5000b31b28a8cb01388ca88824a68fbcdad5922148547",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "adaptation-07",
+    "originalHash": "f342a77919e2d1380327c2acb9815ac8c679a5ac8e845713021f1a9f3eca8c78",
+    "proposedHash": "a1785416cf51f29b8e29a63886bddcc51f3e990748ceca6f4f39d4920c97261a",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "adaptation-08",
+    "originalHash": "12287649938b6650b732b4167ecad572bad3e6ee6a1c76c79cee82ce3812cefd",
+    "proposedHash": "45cb8c1c1f0435746edda27a3020098f1f53de1bbdb571c1a412483226a74724",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "adaptation-09",
+    "originalHash": "d17d94399507d5681a8f7d2c8810c61360f0b5e319f6c83d7851aea0d1e1628e",
+    "proposedHash": "8d19558f20c4b03856b5bd1701132a29344ad57b75fd30071073f062e9ff60bb",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      2
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "adaptation-10",
+    "originalHash": "c26f5327b6b1256f98157b663bd32b43a66e4e391344e2b6c0839625a710f37d",
+    "proposedHash": "9eea3989393fa82e0954a2d7736ccd64e56cade267e9b6fb53fd26fd64ce1265",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      0,
+      1,
+      3
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "adaptation-11",
+    "originalHash": "957ba2af6e14c6cdc83f9f6f2143b42f1a432dce0c19eaa3587fbaead552aa4d",
+    "proposedHash": "1d75e74945fb43ca578d64c99edecf2029a9bbe4e3368653b883ca4e6c4cf0ee",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "adaptation-12",
+    "originalHash": "8321de2fa3d1ceec745bd0088eb4f8382adee37b5811e246a8d3bd35aa26ff9b",
+    "proposedHash": "db3c5777441e81cda393c348cf6b54657b09086045de27fa90a3349027f05fe7",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      0,
+      1,
+      3
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "management-13",
+    "originalHash": "6d3f9391ab62e09b146b9b52c526290ab3914cbf482caabf653d299450035a1f",
+    "proposedHash": "6d3f9391ab62e09b146b9b52c526290ab3914cbf482caabf653d299450035a1f",
+    "reviewStatus": "pass",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "management-14",
+    "originalHash": "f8e3b10baa797d6f273b425dbc4da44f369d8c7cece04b1259bbba0e16aa4d7f",
+    "proposedHash": "f8e3b10baa797d6f273b425dbc4da44f369d8c7cece04b1259bbba0e16aa4d7f",
+    "reviewStatus": "pass",
+    "blindAnswer": [
+      2
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "management-15",
+    "originalHash": "73e45d549bc229ec0191ade159ca8434298c9e5027f370f57da0099017c3b556",
+    "proposedHash": "26a9347c23b1752626bd1592c4792637f984bb32a4cdefa6c6b49a8405a14165",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "management-16",
+    "originalHash": "6ebd15cfbe3ee9225742fcfcc15c29aec51cbb2ecc3d1e3736705446ca1fd0f1",
+    "proposedHash": "0809124ddc7256fec8f453e7f1470c498d6b65682dc05be3d0a858de5d7d9911",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "management-17",
+    "originalHash": "314216c3303702e33eca15d41e71173ccd6029529966c8e2d068314a24dd94a5",
+    "proposedHash": "e2110981a3bc7738046de72419a55a125f34a7678293a3bf275a4d10a84a85d5",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      2
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "management-18",
+    "originalHash": "df6359790a9c07be2bc16d19489b8605ebcffbd449a0673f2dcd4b3b9d7c042c",
+    "proposedHash": "84af28b163590bfecdac08a932a56e9d0c15b82ebf847515eac4eeaa0360f6a3",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      2
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "management-19",
+    "originalHash": "e551a4afd010385350b37d66dc3c6c716999a7d405ac4274d7e5067b2bc4c2f0",
+    "proposedHash": "a2eceebdef21bf02715781983558e902b1d7ff7042a62f3f536a0bbb81ae469f",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "management-20",
+    "originalHash": "bbdf48fa73b200d0a49a2c4a80ea02de37d3301b490eab233c521916644065c1",
+    "proposedHash": "0a30f04b21fbb9c15dc3f4bcc840c76afac4076f09ab65acc7a17d4c78d18a0c",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "pharmacology-13",
+    "originalHash": "af085ec135d9fb196ec3051822bdebf10d2b01cb19de7594b437e81fdfe0520a",
+    "proposedHash": "b448fa8c241b6baf182f25de2bb5bf315ba924bace92dd8d34ed143527677fc7",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "pharmacology-14",
+    "originalHash": "f82643f3208c9cd0f9840afab6670c36473a79102dee23d1e277fd14fb07fd7f",
+    "proposedHash": "d497a9fd5998b973eef8877f5f451858329b6f7af2462980da94788ebdb6c774",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      0
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "pharmacology-15",
+    "originalHash": "40dd38db6c55256f0eb018e6d224101c3eee6b0dbf5189ea4d1b66c6a4762294",
+    "proposedHash": "6da2dc6ea9a279a4cfe906233f38e430ee4cc94b489a18dcea99ba0fe33c2772",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "pharmacology-16",
+    "originalHash": "49065d9e2ec6e7b3cac77ebfd4c6e6b024123b5ada30ee33806efd05e54ad6ae",
+    "proposedHash": "3a67d5365187a94bd59b0b40b503a6ea843279c41fc6b970382e0bcfeed21b90",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "safety-13",
+    "originalHash": "c3d995190fcdd69a2fa829e2fffacd0cbf58b47c73ce6246e2d2a6cedc27bf3e",
+    "proposedHash": "be781bb3813bb6214810eb729d7eb510af4ac90cb6227be2bef6496b6e0273ab",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "safety-14",
+    "originalHash": "4f302ebb813971e2e73d16b3bd0983bd7ff166f0d8c67154a15349ee09760a7f",
+    "proposedHash": "4f302ebb813971e2e73d16b3bd0983bd7ff166f0d8c67154a15349ee09760a7f",
+    "reviewStatus": "pass",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "health-13",
+    "originalHash": "065f04f12e54593c8efb792d9f01f65392f64663be50e38931efa57633960445",
+    "proposedHash": "ed9713ac161e9863592436c4c0a6a952ef7697ec76cb88fd7b073c9c7011d7d6",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "health-14",
+    "originalHash": "dceff87a709489b758ed8871e1d56f4dc78242979c4117cb9a127f785a1001a6",
+    "proposedHash": "44920f9ce1dd82998b175f478a03dfc6b9cfa81788d834c3730f11d5a37ec447",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "psychosocial-13",
+    "originalHash": "0cf0443011f54a2a5a079a80c23448307f48ec70eb0291b91a96857ed468a5e7",
+    "proposedHash": "3211f6dcbf54f83816740844490cc9b0dedfbd5df75a767ad8e056b02405cf9c",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "psychosocial-14",
+    "originalHash": "4ca0cbd883814ea138ac833ef1ae2263c839dd1190c206d5891852796178cd42",
+    "proposedHash": "a1020482aff1d4ece7f713b4fe19917517c6ef4eb24fbec751fe38af949c11c5",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "basic-13",
+    "originalHash": "fb9b05a0c939aeb3694870bf9dba9b0bd39cfebd6048d6c8d078354e8cb0a706",
+    "proposedHash": "8a4ca5ca7706dec3ce6b86d30d887364f32bfe2c66ab2d8dabdd438d839690df",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "basic-14",
+    "originalHash": "e58c523ad93d1afced3fcd5afa563a8de30ae9bf6b65c53fbcd6b943d2110bdb",
+    "proposedHash": "3416613a7d2c95c1d078da6c5dd0cd3166b804464039fcf2539dcbdb7851e4f0",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "risk-13",
+    "originalHash": "1aaa6856bb6a97800814adafd8ab548eb3a509a14a2a5f79834abdbed95009ae",
+    "proposedHash": "1aaa6856bb6a97800814adafd8ab548eb3a509a14a2a5f79834abdbed95009ae",
+    "reviewStatus": "pass",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "risk-14",
+    "originalHash": "588f85d8c9465326f84ce18dd924be5c81a4ecabc84435e6d537f319baaf9a66",
+    "proposedHash": "09833e19a9b8ec327323fc5144398e143532918b736128e0cc5aadb52df6f7bb",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "adaptation-13",
+    "originalHash": "7b274cea973dd36cf7609405450446448918bcf3204c15706e3e3202abc73de3",
+    "proposedHash": "e0dac48c7d7f25ec16ef0d9e690d6a3fad667a61a8910d2d7b5abe4f290c2045",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  },
+  {
+    "id": "adaptation-14",
+    "originalHash": "88bff312bd4c808626dbe301533ef9cdbd0a179aec56c511e268c8efda780d74",
+    "proposedHash": "60a335ce3227b9bd37c4b7ec69d5e4e77d484c43fb9842f729502f6fc25c5889",
+    "reviewStatus": "revise",
+    "blindAnswer": [
+      1
+    ],
+    "independentOriginalReview": true,
+    "proposedRevisionReview": "author self-check only; independent second review pending"
+  }
+]

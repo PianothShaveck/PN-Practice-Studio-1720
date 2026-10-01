@@ -1,0 +1,29 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewerTask": "/root/author_management_safety",
+  "reviewedAt": "2026-10-01T18:25:18.617289+00:00",
+  "sourceFile": "bank-expansion/reviews/expansion/cross-a-psych-117-final-snapshot.json",
+  "coverage": {
+    "reviewedItems": 1,
+    "reviewedIds": [
+      "x-psychosocial-117"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Full reread of saved revised items including every option, key, rationale and metadata; reasoned through the case discriminator and the previously reported issue. Previously passed included items were also reread; no automated editorial acceptance.",
+  "limitations": [
+    "Not external clinician or psychometric validation",
+    "Source verification is targeted; prior reports document checks and newly supplied author references are not presumed independently verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-psychosocial-117",
+      "status": "pass",
+      "assessment": "Closer observation is now a plausible competing monitoring plan, but the expressly supplied escalation threshold requires immediate notification; foundation accurately describes rule application.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "62dc668543f49b099503ce2a2fce4e2eedc7c4d250eda7acdf43a763d4945369"
+    }
+  ]
+}

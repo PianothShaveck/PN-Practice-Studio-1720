@@ -1,0 +1,75 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:33:59.984756+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/risk-001-025.json",
+  "sourceSha256": "19ce224416abf8c91d024eeb8ff88b5e2e2ef939e865dbd5f0b7db4430da3302",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 3,
+    "reviewedIds": [
+      "x-risk-009",
+      "x-risk-011",
+      "x-risk-025"
+    ],
+    "unreviewedIds": [
+      "x-risk-001",
+      "x-risk-002",
+      "x-risk-003",
+      "x-risk-004",
+      "x-risk-005",
+      "x-risk-006",
+      "x-risk-007",
+      "x-risk-008",
+      "x-risk-010",
+      "x-risk-012",
+      "x-risk-013",
+      "x-risk-014",
+      "x-risk-015",
+      "x-risk-016",
+      "x-risk-017",
+      "x-risk-018",
+      "x-risk-019",
+      "x-risk-020",
+      "x-risk-021",
+      "x-risk-022",
+      "x-risk-023",
+      "x-risk-024"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-risk-009",
+      "status": "pass",
+      "assessment": "Revised SATA uses parallel interpretations. Potential nephrotoxic exposure and measured output/balance inform the acute change; normal potassium or normal frequency alone cannot negate renal impairment. Key indices remain0/3.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "888964ed0290be982193f94253c08f33ccd29ef1f1abba31345b76c3f6fce15a"
+    },
+    {
+      "id": "x-risk-011",
+      "status": "pass",
+      "assessment": "Normal pulse is now a plausible but inadequate reason to dismiss high potassium. Clinical assessment and urgent verification appropriately account for possible haemolysis without accepting or ignoring the value uncritically.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3c1b3c15735e4f73d7c7b02211cce413984523412ee19ce8fd5489eb28d5a042"
+    },
+    {
+      "id": "x-risk-025",
+      "status": "pass",
+      "assessment": "Parallel handover details now distinguish current symptoms/therapy and magnitude/timing from lower-priority background. No fabricated result or report-sequence alternative remains.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9835d1764bf8042a7068c1b720dc1a64a8f79958ac8711c73a60c9abf185790a"
+    }
+  ],
+  "reviewerTask": "/root/review_legacy"
+}

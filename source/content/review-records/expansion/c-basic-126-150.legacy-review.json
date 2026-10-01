@@ -1,0 +1,460 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:19:56.058410+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/basic-126-150.json",
+  "sourceSha256": "03e373e06e0ae9a27eaae570dfb8c30051993f1ce06169d642a23fa9880dc178",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-basic-126",
+      "x-basic-127",
+      "x-basic-128",
+      "x-basic-129",
+      "x-basic-130",
+      "x-basic-131",
+      "x-basic-132",
+      "x-basic-133",
+      "x-basic-134",
+      "x-basic-135",
+      "x-basic-136",
+      "x-basic-137",
+      "x-basic-138",
+      "x-basic-139",
+      "x-basic-140",
+      "x-basic-141",
+      "x-basic-142",
+      "x-basic-143",
+      "x-basic-144",
+      "x-basic-145",
+      "x-basic-146",
+      "x-basic-147",
+      "x-basic-148",
+      "x-basic-149",
+      "x-basic-150"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-basic-126",
+      "status": "pass",
+      "assessment": "Supporting lower legs to float heels directly fixes the observed failure of a knee pillow. Thigh support, softer linen and massage do not remove sustained heel contact; clear application cue.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3342d09f3e8821c17e67c0c0205f0419c309f91f6c97432e670b63188f6b87c6"
+    },
+    {
+      "id": "x-basic-127",
+      "status": "revise",
+      "assessment": "Key is appropriate but specialty-mattress-rules-out injury is a giveaway. Use realistic equipment-focused responses and parallel conclusions.",
+      "issues": [
+        "Key is appropriate but specialty-mattress-rules-out injury is a giveaway. Use realistic equipment-focused responses and parallel conclusions."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "The turning interval can be lengthened if the mattress is functioning",
+            "The whole prevention plan needs reassessment",
+            "The discomfort should settle once the client adapts to the surface",
+            "Adding folded blankets is the best way to improve the mattress effect"
+          ],
+          "why": [
+            "Equipment function does not establish individual tissue tolerance.",
+            "A support surface does not remove the need for individualized positioning.",
+            "New discomfort requires assessment rather than assumed adaptation.",
+            "Extra layers can interfere with intended pressure redistribution; review the whole plan."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "63047f4d0b3b9a9d1d9825eff84eb0d84590014206dc9826b90505ca64d27068"
+    },
+    {
+      "id": "x-basic-128",
+      "status": "pass",
+      "assessment": "Lowest clinically appropriate elevation plus assisted repositioning addresses sliding/shear without abandoning required elevation. Dragging and extra layers are relevant technique errors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a9d40176f5338c9d0be62aac313bf836eb260ad4456dd8ec4cf752a6a5abc35d"
+    },
+    {
+      "id": "x-basic-129",
+      "status": "revise",
+      "assessment": "Bed rest for every activity and stopping all shifts are excessive. Use plausible reminder/cushion approaches that miss the observed forgetting barrier.",
+      "issues": [
+        "Bed rest for every activity and stopping all shifts are excessive. Use plausible reminder/cushion approaches that miss the observed forgetting barrier."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Review the weight-shift technique once at the next appointment",
+            "Ask the client to shift when discomfort first develops",
+            "Replace the cushion before evaluating how reminders work",
+            "Agree on reminders within the activity routine"
+          ],
+          "why": [
+            "The skill is present; the immediate barrier is remembering during activities.",
+            "Waiting for symptoms may not provide timely pressure relief, particularly with reduced sensation.",
+            "Equipment review may be appropriate, but a new cushion does not address forgetting an effective prescribed skill.",
+            "Cues support sustained use of an effective existing skill."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "6e61c935602200b89fcfcce0c258bc657d3932944d5a6e77d2300c6e9755c0e6"
+    },
+    {
+      "id": "x-basic-130",
+      "status": "revise",
+      "assessment": "Assessment question mixes a diagnosis and two only-options. Use parallel assessment domains.",
+      "issues": [
+        "Assessment question mixes a diagnosis and two only-options. Use parallel assessment domains."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "The mattress type and its maintenance history",
+            "Time spent supine since the last assisted turn",
+            "Distribution and exposure to stool",
+            "The number and location of previous pressure injuries"
+          ],
+          "why": [
+            "Support-surface information is relevant to pressure prevention but less direct for a stool-exposure pattern.",
+            "Duration of pressure matters but does not best distinguish the diffuse superficial perineal irritation described.",
+            "The pattern may indicate moisture-associated skin damage.",
+            "Past injury informs risk but does not characterize the current irritant distribution."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "e71379c729ebc43315b79e77bba47c1dbc853c2ee7273b81bac8c086f87d887d"
+    },
+    {
+      "id": "x-basic-131",
+      "status": "revise",
+      "assessment": "Two only-options cue SATA keys. Specify direct assessment of the painful site and use relevant but insufficient remote/general findings.",
+      "issues": [
+        "Two only-options cue SATA keys. Specify direct assessment of the painful site and use relevant but insufficient remote/general findings."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "The total score on the most recent pressure-risk tool",
+            "Local warmth or coolness compared with surrounding skin",
+            "Changes in firmness or skin colour from baseline",
+            "The colour documented at admission without re-examining the area"
+          ],
+          "why": [
+            "The score informs prevention but does not directly examine the painful sacral tissue.",
+            "Temperature differences may reveal early tissue change.",
+            "Texture and baseline comparison support assessment across skin tones.",
+            "Baseline is useful for comparison, but current local examination is necessary."
+          ],
+          "stem": "An immobile client with darkly pigmented skin reports sacral tenderness without obvious redness. Which current local findings best help assess possible pressure-related tissue change? Select all that apply."
+        }
+      ],
+      "reviewedItemSha256": "04760e2aaf659e9741f69eac983d8b19a3f7703337cc0824f00cf3d447994972"
+    },
+    {
+      "id": "x-basic-132",
+      "status": "pass",
+      "assessment": "Smaller supported changes with pain management balance relief with tolerance. Dressing-only and forced large turns fail to address the problem. Learning objective overlaps basic121 in a non-end-of-life setting; avoid adjacent presentation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8e53e2748565c81d06a16bd3e54acf83e2a96c7ab54f4978ebb5ddc5e8069ef2"
+    },
+    {
+      "id": "x-basic-133",
+      "status": "pass",
+      "assessment": "Approved assisted inspection preserves alignment while addressing concealed device pressure. Independent removal, altered padding and visible-only checks are relevant collar-care errors; local training remains necessary.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "47b5fb348d07d01a7abd19994bf10c78074c14eb8c813c70d98aa69513d17de5"
+    },
+    {
+      "id": "x-basic-134",
+      "status": "pass",
+      "assessment": "A ring-cushion pressure mark supports individualized seating review. Stacking, taut covering and extending exposure are plausible but ineffective adjustments.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "430ba734dedc6b16d7039916cf0481aef426fe2f5e66cf348747d8c49adeedc6"
+    },
+    {
+      "id": "x-basic-135",
+      "status": "revise",
+      "assessment": "Only qualifiers reveal SATA keys. Keep comparable observations but target outcome rather than process.",
+      "issues": [
+        "Only qualifiers reveal SATA keys. Keep comparable observations but target outcome rather than process."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "The number of pillows recorded on the positioning chart",
+            "Skin condition at vulnerable sites",
+            "Comfort and tolerance between turns",
+            "The percentage of scheduled turns documented as completed"
+          ],
+          "why": [
+            "The count does not establish actual offloading or tissue response.",
+            "Tissue response shows whether protection is effective.",
+            "The plan must be feasible and acceptable for the client.",
+            "Adherence is useful process information but does not itself demonstrate comfort or tissue protection."
+          ],
+          "stem": "Which observations most directly show whether an individualized turning plan is protecting the client while remaining tolerable? Select all that apply."
+        }
+      ],
+      "reviewedItemSha256": "bc6daef00cd138020e4532e69397364504fc5ee45febebca1a44580bc6b82134"
+    },
+    {
+      "id": "x-basic-136",
+      "status": "pass",
+      "assessment": "An observed folded-pad ridge is an immediately correctable pressure source. Removal and skin reassessment is appropriately direct rather than delaying for analgesia or linen routine.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "74191343cd1f3882d3c7dc41cb36132464e6249688c5779962bbf48dd10d72d9"
+    },
+    {
+      "id": "x-basic-137",
+      "status": "revise",
+      "assessment": "Tighten-sleeve/remove-dressing/stop-arm-use alternatives are extreme. Use practical but incomplete workaround choices.",
+      "issues": [
+        "Tighten-sleeve/remove-dressing/stop-arm-use alternatives are extreme. Use practical but incomplete workaround choices."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Wear a snug sleeve over the dressing to hold the edges flat",
+            "Trim the dressing edges until they no longer catch",
+            "Avoid the usual upper-body activities until the next dressing change",
+            "Review dressing securement and clothing contact"
+          ],
+          "why": [
+            "Extra contact pressure and friction may worsen trauma; assess dressing and clothing fit.",
+            "Unplanned trimming may compromise coverage or product function; review securement and clothing contact first.",
+            "A correctable snagging problem may be solved without unnecessary functional restriction.",
+            "Reducing traction protects the wound and improves comfort."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "0f9f7e2b1b1380a9fc6b7dc78209eae5bed4582d4ed375a15ac52fa99226cbd8"
+    },
+    {
+      "id": "x-basic-138",
+      "status": "pass",
+      "assessment": "Distributed leg support without popliteal compression fits the supplied venous-elevation plan and intact arterial circulation. Narrow edge, new numbness and focal knee pressure are meaningful warning alternatives.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1b5914812ffd14f932e350ca5eee47f95b2c140fb7bc208756e57d6d440dff0c"
+    },
+    {
+      "id": "x-basic-139",
+      "status": "revise",
+      "assessment": "Colour/brand distraction is superficial and staff should correct constriction. Replace with an apparently reasonable sizing shortcut.",
+      "issues": [
+        "Colour/brand distraction is superficial and staff should correct constriction. Replace with an apparently reasonable sizing shortcut."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Replace it with the next larger size without remeasuring the limb",
+            "Remove the constricting roll and reassess fit",
+            "Add tape to hold the roll",
+            "Leave it because tighter pressure is more effective"
+          ],
+          "why": [
+            "Rolling may reflect application or sizing problems; reassess fit rather than guessing a size.",
+            "A rolled edge creates focal pressure rather than prescribed graduated compression.",
+            "Tape preserves the constricting configuration.",
+            "Excess local pressure is not the therapeutic goal."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "473c37f4064efd06dfc20b1ba87658c0c4373d4229d857761edb6144295fbe7d"
+    },
+    {
+      "id": "x-basic-140",
+      "status": "revise",
+      "assessment": "Report question contains inference plus actions/only qualifiers. Use parallel interpretations.",
+      "issues": [
+        "Report question contains inference plus actions/only qualifiers. Use parallel interpretations."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Maceration and inadequate exudate management",
+            "Expected moisture from a healthy granulating wound",
+            "Likely infection because the dressing remains wet",
+            "Dry skin requiring a thicker layer of moisturizer"
+          ],
+          "why": [
+            "Excess retained moisture can damage surrounding skin.",
+            "Repeated saturation and white soggy surrounding skin suggest excess moisture injury rather than balanced wound moisture.",
+            "Wetness alone does not establish infection; the described surrounding-skin change points to maceration.",
+            "The tissue is overhydrated, so additional moisturizer does not address the described mechanism."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "9ff1b6f5c63ea56c141a492818203d6142b3c2b9a8913bcfe02c9c4ecf04f1a4"
+    },
+    {
+      "id": "x-basic-141",
+      "status": "pass",
+      "assessment": "The adhesive-outline distribution with an improving wound makes product irritation a relevant possibility. Key appropriately assesses rather than diagnoses definitively; increasing exposure or abandoning protection is inappropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a56caae19b0fe57194a77c5c3316c98a297db0e8455a4f5ce8c77c44ae6ff541"
+    },
+    {
+      "id": "x-basic-142",
+      "status": "pass",
+      "assessment": "Reviewing fixation/removal methods addresses recurrent adhesive trauma; stronger adhesion, friction and rotating the same trauma are recognizable misconceptions. Product choice remains individualized.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "058a8f61238ed1f490cc420702e708ce6c979da809320f247761c7cff249e87f"
+    },
+    {
+      "id": "x-basic-143",
+      "status": "pass",
+      "assessment": "Mirror or agreed assistance resolves inaccessible soles when sensation is reduced. Temperature, pain and footwear discomfort cannot substitute for visual inspection.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "77ef603a97ae6de4539ebf29e716f551a9ed5c910f2f9beff2f20decc0717a42"
+    },
+    {
+      "id": "x-basic-144",
+      "status": "pass",
+      "assessment": "The seam-matching mark identifies an immediate mechanical source; remove and reassess. More bulk, symptom waiting and cream alone do not fix pressure.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1fc70e952cbc3fe88daeb0ed4bf0c336babc3bbf465eccdd6ee1e42f3a1e7491"
+    },
+    {
+      "id": "x-basic-145",
+      "status": "revise",
+      "assessment": "Only moisture response and heavy blankets make SATA keys trivial. Narrow the objective and use plausible but insufficient responses.",
+      "issues": [
+        "Only moisture response and heavy blankets make SATA keys trivial. Narrow the objective and use plausible but insufficient responses."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Reassess temperature and hydration needs",
+            "Place a waterproof pad beneath the client and keep the damp clothing in place",
+            "Increase bedding insulation to prevent chilling while the client remains damp",
+            "Replace damp clothing and linens"
+          ],
+          "why": [
+            "Sweating may accompany fluid losses and evolving illness.",
+            "A pad does not remove existing moisture against the skin or restore comfort.",
+            "Assess comfort and illness rather than adding heavy insulation over damp clothing.",
+            "Removing moisture supports comfort and skin protection."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "78af612d916e3e0743c4b0e5290aee5e5cee71a020606b127d5f8d83516a6b0d"
+    },
+    {
+      "id": "x-basic-146",
+      "status": "revise",
+      "assessment": "The helpful preference is already named, and distractors are coercive routines. Test integrating the position with prevention through plausible plans.",
+      "issues": [
+        "The helpful preference is already named, and distractors are coercive routines. Test integrating the position with prevention through plausible plans."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Use the preferred position for the whole shift to maximize pain relief",
+            "Reserve the preferred position until after the standard turn sequence is complete",
+            "Incorporate it with appropriate support and skin assessment",
+            "Use the preferred position whenever requested without checking the skin"
+          ],
+          "why": [
+            "A helpful position still needs review of pressure exposure and individual tolerance.",
+            "An inflexible sequence may unnecessarily postpone a safe relieving position.",
+            "Preference can be honoured while maintaining pressure management.",
+            "Preference can be respected while still monitoring pressure-related tissue response."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "4a027bc09f7829cd55f70c9fcde796858813c4a5b984a1b84f49f4c9bb06ed23"
+    },
+    {
+      "id": "x-basic-147",
+      "status": "pass",
+      "assessment": "Swelling changes device fit; inspect skin/circulation and review fitting. Padding or tightening a tight boot increases pressure. The key appropriately integrates assessment without prescribing an unsupported device alteration.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7c57f2780500c82d2725d47a2ae7935f138237b02eb875e0fb2ebe181ae278dc"
+    },
+    {
+      "id": "x-basic-148",
+      "status": "revise",
+      "assessment": "Extra clothing is filler and only total-time option is cued. Use duration-related planning competitors.",
+      "issues": [
+        "Extra clothing is filler and only total-time option is cued. Use duration-related planning competitors."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Shorter sitting periods with assessed pressure relief",
+            "Continue three hours because skin is still intact",
+            "Keep the three-hour session but use an additional cushion without reviewing fit",
+            "Maintain the same total sitting time and reassess at the weekly review"
+          ],
+          "why": [
+            "The observed duration-related response guides progression.",
+            "Pain can signal tissue stress before visible breakdown.",
+            "Adding equipment does not establish safe pressure distribution or tolerated duration.",
+            "New duration-related discomfort should guide the next session, not wait for routine review."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "e2aafcf769159876a62d629166c891ea97ba28c72a75bbaeb82ae7b56db92354"
+    },
+    {
+      "id": "x-basic-149",
+      "status": "revise",
+      "assessment": "Fragrance-only and any-home-product claims are obvious. Use competing sources of relevant but insufficient evidence.",
+      "issues": [
+        "Fragrance-only and any-home-product claims are obvious. Use competing sources of relevant but insufficient evidence."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Whether the moisturizer is labelled for sensitive skin",
+            "Whether the product was tolerated on another uncovered area",
+            "Whether the client has used the same product for several years",
+            "Product compatibility and its effect on the seal"
+          ],
+          "why": [
+            "That label does not establish compatibility with the specific adhesive device.",
+            "Tolerance on exposed skin does not establish seal performance under a device.",
+            "Prior use does not establish compatibility beneath this device.",
+            "Some moisturizers impair adhesion or device function."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "8c782c43dcdbdaf2f316a532e2a0126f68bc28962a2c1d96e784696eaa032f62"
+    },
+    {
+      "id": "x-basic-150",
+      "status": "pass",
+      "assessment": "Observed taught turn and skin check demonstrate both performance and monitoring. Verbal equipment knowledge alone is a plausible incomplete evaluation. Waiting for redness or persisting through new pain shows unsafe understanding.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "caa2fc988702966abb6c7aa14adf5aee95b6e06ca8997ac257d20bda9de6859e"
+    }
+  ],
+  "overlapNotes": [
+    "basic132 repeats the tolerated-repositioning objective of121 in a different goals-of-care context. Keep separate in practice sets or choose one in curated modes."
+  ],
+  "sourceCheckLimit": "No new procedure-specific source sweep for this routine skin-care batch. Pressure offloading/dark-skin assessment concepts were checked against primary NICE guidance in the legacy review; no claim of complete clinical validation is made.",
+  "reviewerTask": "/root/review_legacy"
+}

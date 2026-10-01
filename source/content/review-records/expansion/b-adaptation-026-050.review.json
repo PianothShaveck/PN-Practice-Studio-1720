@@ -1,0 +1,344 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:39:04.952050+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/b-adaptation-02.json",
+  "sourceSha256": "669feb3b28d24cc82b547066a40b8299e65f3092a05d834a0db74b74453c6277",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-adaptation-026",
+      "x-adaptation-027",
+      "x-adaptation-028",
+      "x-adaptation-029",
+      "x-adaptation-030",
+      "x-adaptation-031",
+      "x-adaptation-032",
+      "x-adaptation-033",
+      "x-adaptation-034",
+      "x-adaptation-035",
+      "x-adaptation-036",
+      "x-adaptation-037",
+      "x-adaptation-038",
+      "x-adaptation-039",
+      "x-adaptation-040",
+      "x-adaptation-041",
+      "x-adaptation-042",
+      "x-adaptation-043",
+      "x-adaptation-044",
+      "x-adaptation-045",
+      "x-adaptation-046",
+      "x-adaptation-047",
+      "x-adaptation-048",
+      "x-adaptation-049",
+      "x-adaptation-050"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://emergencycarebc.ca/clinical_resource/clinical-summary/undifferentiated-shock-diagnosis-and-treatment/",
+      "supports": "026/027/044/045: shock involves organ hypoperfusion and can occur with normal blood pressure.",
+      "limitation": "Supports recognition principle; no advanced resuscitation prescription or PN autonomous authority inferred."
+    },
+    {
+      "url": "https://emergencycarebc.ca/clinical_resource/clinical-summary/massive-gi-bleeds/",
+      "supports": "049: resuscitative response is guided by clinical picture because haemoglobin can be misleading in acute bleeding.",
+      "limitation": "Only this recognition principle is used, not the source's specialist airway or transfusion procedures."
+    },
+    {
+      "url": "https://thrombosiscanada.ca/hcp/practice/clinical_guides?guideID=PERIPHERALARTERIALDISEASE&language=en-ca",
+      "supports": "039: acute limb ischemia warrants emergent assessment/treatment.",
+      "limitation": "No independent PN anticoagulant initiation is implied by the item."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-adaptation-026",
+      "status": "revise",
+      "assessment": "Cool hands alone causing oliguria is implausible; proves anxiety and fixed-cutoff exclusion overstate distractors.",
+      "issues": [
+        "Cool hands alone causing oliguria is implausible; proves anxiety and fixed-cutoff exclusion overstate distractors."
+      ],
+      "proposedChanges": [
+        "Use parallel interpretations: compensated circulatory compromise, anxiety-related tachycardia, uncomplicated mild fluid deficit, and a primary urinary obstruction. The combined fluid-loss and multi-organ trend should distinguish the key; explain why preserved pressure is insufficient."
+      ],
+      "reviewedItemSha256": "8004f407e88d0f4fe6cb8ff844eb6a01fbf7b0713c25528f8d4eb0acc1e7dca1"
+    },
+    {
+      "id": "x-adaptation-027",
+      "status": "pass",
+      "assessment": "Organ-function and peripheral-warmth improvement are appropriate endpoints. Medication-related pulse slowing and pulmonary congestion are plausible misleading trends; worsening confusion prevents a BP-only success interpretation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "48dbc9fd8468ca8d8311add37b8e18b1d08e79bdca18fe551cd6f53081c814fc"
+    },
+    {
+      "id": "x-adaptation-028",
+      "status": "revise",
+      "assessment": "Before-reassessing and before-deciding clauses cue wrong actions.",
+      "issues": [
+        "Before-reassessing and before-deciding clauses cue wrong actions."
+      ],
+      "proposedChanges": [
+        "Use Complete the prescribed fluid volume and Coach coughing and deep breathing for options1/3. Explain why new pulmonary congestion warrants pausing and prompt review; consider application rather than challenge for the straightforward reaction."
+      ],
+      "reviewedItemSha256": "2860c4330a932b6beb89f604a8d6b2e7b0dd38dcaf1a2da0e14258352463fd51"
+    },
+    {
+      "id": "x-adaptation-029",
+      "status": "revise",
+      "assessment": "Walking to distinguish cardiac symptoms and waiting until the next meal are implausible. Diabetes also makes glucose assessment a relevant omitted context.",
+      "issues": [
+        "Walking to distinguish cardiac symptoms and waiting until the next meal are implausible. Diabetes also makes glucose assessment a relevant omitted context."
+      ],
+      "proposedChanges": [
+        "Supply an available normal glucose result and use parallel possible concerns or plausible assessments: acute coronary ischemia, hypoglycemia, gastrointestinal illness and anxiety. Explain why autonomic/dyspnea symptoms may represent ischemia despite absent prominent pain; do not imply other causes are definitively excluded."
+      ],
+      "reviewedItemSha256": "994ce01c83645af0daa552cf5f22c87e362e1bd122e28984f255f26a70bdfe34"
+    },
+    {
+      "id": "x-adaptation-030",
+      "status": "pass",
+      "assessment": "The recurrence after a nondiagnostic ECG supports reactivation of the pathway. Antacid-response reassurance is a recognizable misconception, and earlier testing cannot determine the later event.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3e46290a424d98d686f7d515ea9013453dc27e686afa0357e0dfb2314e5b5c41"
+    },
+    {
+      "id": "x-adaptation-031",
+      "status": "revise",
+      "assessment": "Increasing exercise during prolonged rest pain is an exaggerated recommendation.",
+      "issues": [
+        "Increasing exercise during prolonged rest pain is an exaggerated recommendation."
+      ],
+      "proposedChanges": [
+        "Replace option1 with Arrange the next available outpatient exercise stress test. Explain why the changed rest-pain pattern needs urgent assessment before routine exertional testing."
+      ],
+      "reviewedItemSha256": "94c6408e46260787018527f292cd73aa73956a27aa9844fc7f044a90326d818b"
+    },
+    {
+      "id": "x-adaptation-032",
+      "status": "revise",
+      "assessment": "Toileting and leaving an active arterial bleed exposed are cartoon unsafe actions.",
+      "issues": [
+        "Toileting and leaving an active arterial bleed exposed are cartoon unsafe actions."
+      ],
+      "proposedChanges": [
+        "Use four concise immediate nursing actions: apply direct pressure per access-site protocol (key), measure distal pulses, obtain full vital signs, and telephone the procedural team. Explain why direct local hemorrhage control starts immediately while help is summoned, rather than making only the key contain two sensible actions."
+      ],
+      "reviewedItemSha256": "0535c71fcb2860c6757a3135bde9798f8d96fa443e401786d2aa9a89b116012a"
+    },
+    {
+      "id": "x-adaptation-033",
+      "status": "revise",
+      "assessment": "Dry-dressing exclusion duplicates the key concept and normal-flat-soreness is weak against hypotension.",
+      "issues": [
+        "Dry-dressing exclusion duplicates the key concept and normal-flat-soreness is weak against hypotension."
+      ],
+      "proposedChanges": [
+        "Use four parallel concerns: retroperitoneal bleeding, vasovagal response, sedation-related hypotension and volume depletion from fasting. Explain why new flank/back pain after femoral access makes occult bleeding particularly concerning, without declaring the other causes impossible."
+      ],
+      "reviewedItemSha256": "44876bb84456a230b4295db6396b6c514e881f8eaa60da619c7113d667105a69"
+    },
+    {
+      "id": "x-adaptation-034",
+      "status": "pass",
+      "assessment": "Clinical instability rather than rhythm-label completion, wakefulness or historical tolerance appropriately determines urgency. Specific perfusion/ischemia findings support the key.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ce07957914cec8cdf9018ec95224aecf411db0b2978c2da31ff461a715e0ad33"
+    },
+    {
+      "id": "x-adaptation-035",
+      "status": "pass",
+      "assessment": "Symptomatic marked bradycardia is appropriately prioritized against a known asymptomatic baseline. The item is a direct priority application; detailed history must not delay evaluation of altered mentation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f3ff3811d3f4a5770c67963cfc5ba226aa4678ea4878e582c265304c4584a2f7"
+    },
+    {
+      "id": "x-adaptation-036",
+      "status": "revise",
+      "assessment": "Dizziness-after-meals appears nowhere in the scenario and is filler; waiting for a device-clinic appointment is an extreme alternative.",
+      "issues": [
+        "Dizziness-after-meals appears nowhere in the scenario and is filler; waiting for a device-clinic appointment is an extreme alternative."
+      ],
+      "proposedChanges": [
+        "Use parallel interpretations of the described monitor pattern: failure to capture, failure to sense, a normal paced rhythm, and a rapid intrinsic rhythm. Ask which problem is most concerning with dizziness, explain perfusion verification/urgent reporting and source-check the pacing descriptions."
+      ],
+      "reviewedItemSha256": "bf3155e8c86dd5b29164978718392900f9a8f29247cf0657a42caee325c50263"
+    },
+    {
+      "id": "x-adaptation-037",
+      "status": "revise",
+      "assessment": "Choosing the lower arm reading to label stability is implausible; heat-before-notifying advertises delay.",
+      "issues": [
+        "Choosing the lower arm reading to label stability is implausible; heat-before-notifying advertises delay."
+      ],
+      "proposedChanges": [
+        "Use parallel concerns such as acute aortic syndrome, musculoskeletal strain, reflux and uncomplicated chronic hypertension, with abrupt pain and pressure asymmetry supplied. Keep urgent evaluation in the rationale rather than mixing diagnostic interpretations with unsafe actions."
+      ],
+      "reviewedItemSha256": "8db5233cfb72c078fdc00ab2f30b560caacd8c187486572d9835e0c97a545732"
+    },
+    {
+      "id": "x-adaptation-038",
+      "status": "revise",
+      "assessment": "Walking a shocked client and repeatedly palpating a known aneurysm are cartoon actions.",
+      "issues": [
+        "Walking a shocked client and repeatedly palpating a known aneurysm are cartoon actions."
+      ],
+      "proposedChanges": [
+        "Compare activation of the emergency response, obtaining another manual pressure, completing a focused abdominal assessment, and preparing ordered analgesia. Explain why suspected rupture requires immediate escalation while other assessments/support proceed; shorten the key for parallelism."
+      ],
+      "reviewedItemSha256": "a89147a9c3d337cfa0899418b7c862aea2fb8de346a43be935a02989da4721f6"
+    },
+    {
+      "id": "x-adaptation-039",
+      "status": "pass",
+      "assessment": "Cold painful pallor with new pulse loss supports urgent arterial assessment. Elevation/compression and walking are recognizable misapplications of venous or stable-claudication care rather than irrelevant filler.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4ba20cd6933360eeb904e648732411c81fa4d555b36a7b3c912abce1507e24cd"
+    },
+    {
+      "id": "x-adaptation-040",
+      "status": "revise",
+      "assessment": "Without-review cue in option1 remains; fever waiting is an infection-only misconception that can be retained.",
+      "issues": [
+        "Without-review cue in option1 remains; fever waiting is an infection-only misconception that can be retained."
+      ],
+      "proposedChanges": [
+        "Change option1 to Continue the usual walking plan. Explain why rest pain/tissue injury differs from stable exertional claudication and warrants assessment before the routine plan continues."
+      ],
+      "reviewedItemSha256": "bc76aef6531fb895ec56a7584ec3f4754809320b72dfc8a0bde64e5b51e90dbb"
+    },
+    {
+      "id": "x-adaptation-041",
+      "status": "pass",
+      "assessment": "The item differentiates beneficial decongestion from increased oxygen dependence or intravascular depletion. Same oxygen setting and stable perfusion are useful qualifiers defining genuine improvement, not artificial distractor flaws.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e30e3fdcca0fcb6262eac90b464e7c9bacc0e7befd4f2c4d9fe08a96875fd67c"
+    },
+    {
+      "id": "x-adaptation-042",
+      "status": "revise",
+      "assessment": "Extra fluids and waiting a full month despite worsening symptoms make the key the sole reasonable action.",
+      "issues": [
+        "Extra fluids and waiting a full month despite worsening symptoms make the key the sole reasonable action."
+      ],
+      "proposedChanges": [
+        "Use plausible self-management responses: add seated rest breaks, elevate swollen legs more often, record daily weight for the next planned review, or contact the team promptly. Explain why the multi-symptom worsening cluster requires the action-plan review rather than symptom accommodation alone."
+      ],
+      "reviewedItemSha256": "9a5a3e3bc7e915de9748f069bf67e4904888a0a5e55faf82a3b7bfe35c36e72c"
+    },
+    {
+      "id": "x-adaptation-043",
+      "status": "revise",
+      "assessment": "Uncomplicated sleep and all-trauma-tachycardia claims are implausible; options mix mechanisms and assertions.",
+      "issues": [
+        "Uncomplicated sleep and all-trauma-tachycardia claims are implausible; options mix mechanisms and assertions."
+      ],
+      "proposedChanges": [
+        "Ask which mechanism best explains the hypotension with slow pulse and warm dry skin. Use loss of sympathetic vascular tone, circulating-volume loss, impaired myocardial pumping and severe oxygenation failure as parallel mechanisms. Explain why coexisting traumatic bleeding still requires assessment; do not use the key to exclude it."
+      ],
+      "reviewedItemSha256": "cc1913bfe05350ac41753c25ab5a8026ce8469da97b46db91df0bb7b4deea158"
+    },
+    {
+      "id": "x-adaptation-044",
+      "status": "revise",
+      "assessment": "Persistent organ dysfunction despite better BP substantially repeats026/027/045, and next-day oliguria delay is exaggerated.",
+      "issues": [
+        "Persistent organ dysfunction despite better BP substantially repeats026/027/045, and next-day oliguria delay is exaggerated."
+      ],
+      "proposedChanges": [
+        "Replace with a distinct circulatory learning objective, for example recognizing possible tamponade after a cardiac procedure from hypotension with venous congestion and compatible findings, using plausible differential concerns. Check a primary clinical source and coordinate with root's adaptation101–200 objectives before choosing the replacement."
+      ],
+      "reviewedItemSha256": "859637450c57791068ab15c4ae854f7e4f7c0a15fe5d04a9eb2a5c2a543890bb"
+    },
+    {
+      "id": "x-adaptation-045",
+      "status": "revise",
+      "assessment": "Confusion/oliguria/mottling repeat the same organ-perfusion objective as026/027/044; the generic scenario adds little learning value.",
+      "issues": [
+        "Confusion/oliguria/mottling repeat the same organ-perfusion objective as026/027/044; the generic scenario adds little learning value."
+      ],
+      "proposedChanges": [
+        "Replace with an unused clinically relevant circulatory assessment objective, for example recognising a concerning infection/embolic pattern in a client with a prosthetic valve. Give complete context and credible alternatives, source-check the claim, and confirm no collision with root's adaptation101–200 plan. Preserve an appropriate multiple-response count elsewhere if changing format."
+      ],
+      "reviewedItemSha256": "530e7983e718924413cf2a16d5ca6bf2dc8a661f2176de6bedae23993d0ce292"
+    },
+    {
+      "id": "x-adaptation-046",
+      "status": "revise",
+      "assessment": "Measurement-before-pressure advertises an omitted priority step.",
+      "issues": [
+        "Measurement-before-pressure advertises an omitted priority step."
+      ],
+      "proposedChanges": [
+        "Use Outline the blood stain on the outer dressing for option1. Explain why maintaining direct pressure is the immediate priority; retain protocol-bounded material addition and avoid implying unlimited dressing layering replaces reassessment."
+      ],
+      "reviewedItemSha256": "aa6677e633c6d2f826a3946fd3251010a7249b6ce5b9dc43ceeea8ba00eebe9c"
+    },
+    {
+      "id": "x-adaptation-047",
+      "status": "revise",
+      "assessment": "Key says follow the activity plan, but the old exercise plan is a wrong option; which plan is intended is unclear. Other options include before-report omission language.",
+      "issues": [
+        "Key says follow the activity plan, but the old exercise plan is a wrong option; which plan is intended is unclear. Other options include before-report omission language."
+      ],
+      "proposedChanges": [
+        "Use Arrange prompt assessment and clarify the interim mobility plan as key. Replace option1 with Continue the scheduled exercise session and option2 with Measure both calves again at the next routine round. Explain why acute unilateral symptoms require evaluation; avoid blanket immobilization advice or an unstated existing plan."
+      ],
+      "reviewedItemSha256": "32fb3f62b8b4210246e7683cede18c5db13469f2098f334cb143c388d53baba8"
+    },
+    {
+      "id": "x-adaptation-048",
+      "status": "revise",
+      "assessment": "Averaging unspecified rates to a normal value is unsupported, and without-rechecking advertises error.",
+      "issues": [
+        "Averaging unspecified rates to a normal value is unsupported, and without-rechecking advertises error."
+      ],
+      "proposedChanges": [
+        "Supply simultaneous measured rates and make choices parallel recording/response plans: report both rates with rhythm/symptoms/perfusion, document the apical rate, document the radial rate, or document their average. Explain why the actual deficit is clinically important; do not label an unknown average normal."
+      ],
+      "reviewedItemSha256": "c58564ca764b4d51690b0399df7397a375e4bfd1fa373ad53a49e97d9da5599c"
+    },
+    {
+      "id": "x-adaptation-049",
+      "status": "revise",
+      "assessment": "Option types differ, next-day waiting is exaggerated and only-stool-colour is weak.",
+      "issues": [
+        "Option types differ, next-day waiting is exaggerated and only-stool-colour is weak."
+      ],
+      "proposedChanges": [
+        "Use parallel interpretations of the normal early haemoglobin: major loss excluded; concentration may initially lag the active blood-loss picture (key); normal value proves replacement unnecessary; severity can be judged from the laboratory trend alone. Keep acute clinical data and explain why they guide urgent assessment."
+      ],
+      "reviewedItemSha256": "41926a6d901af00fdd9aa94d494c85dd13452e795daad2f4d43d20dd8feed1e7"
+    },
+    {
+      "id": "x-adaptation-050",
+      "status": "revise",
+      "assessment": "The question asks assessments, but three alternatives are clearly non-assessment actions; option4 advertises missing injury checks.",
+      "issues": [
+        "The question asks assessments, but three alternatives are clearly non-assessment actions; option4 advertises missing injury checks."
+      ],
+      "proposedChanges": [
+        "Ask Which nursing actions are appropriate before routine care resumes? Keep assessment/history keys; use Offer reassurance and arrange routine follow-up for option4. Explain why apparent recovery and one supine reading do not complete syncope evaluation or establish safe independent walking."
+      ],
+      "reviewedItemSha256": "ee73a780b248add865de5745ec10a1bc1d866c00a42b2201b65dd325f2a9254d"
+    }
+  ],
+  "activeSourceFile": "authoring/b/adaptation-02.json",
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

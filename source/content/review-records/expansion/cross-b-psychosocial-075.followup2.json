@@ -1,0 +1,35 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T18:23:46.249265+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/cross-b-psychosocial-075-final.json",
+  "sourceSha256": "f2473f942c5a9ba7b249ff43a91f25ca1c605b4720c346a81bd30a6b26538fad",
+  "coverage": {
+    "sourceItems": 1,
+    "reviewedItems": 1,
+    "reviewedIds": [
+      "x-psychosocial-075"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-psychosocial-075",
+      "status": "pass",
+      "assessment": "The key is now one concise intent question parallel in length and grammar to the alternatives. It clarifies whether the unsent drafts were preparatory, with the rationale explicitly linking this to subsequent current-risk assessment. All full fields were reread and remain clinically aligned.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "742322251be350559360c15eeab011ed5558de1830be8f1c4dcba3668ec3a90d"
+    }
+  ],
+  "reviewerTask": "/root/author_pharm_adaptation",
+  "activeSourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/d/questions.json"
+}

@@ -1,0 +1,341 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:29:35.828246+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/b-adaptation-01.json",
+  "sourceSha256": "d9cbf688a0519690d7e6d6a6dfa97bb07b7de4c2b9cd22a6b39cb120682a0f94",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-adaptation-001",
+      "x-adaptation-002",
+      "x-adaptation-003",
+      "x-adaptation-004",
+      "x-adaptation-005",
+      "x-adaptation-006",
+      "x-adaptation-007",
+      "x-adaptation-008",
+      "x-adaptation-009",
+      "x-adaptation-010",
+      "x-adaptation-011",
+      "x-adaptation-012",
+      "x-adaptation-013",
+      "x-adaptation-014",
+      "x-adaptation-015",
+      "x-adaptation-016",
+      "x-adaptation-017",
+      "x-adaptation-018",
+      "x-adaptation-019",
+      "x-adaptation-020",
+      "x-adaptation-021",
+      "x-adaptation-022",
+      "x-adaptation-023",
+      "x-adaptation-024",
+      "x-adaptation-025"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-adaptation-001",
+      "status": "revise",
+      "assessment": "Question asks interpretation but option0 is an action, and the correct interpretation alone includes the full danger context.",
+      "issues": [
+        "Question asks interpretation but option0 is an action, and the correct interpretation alone includes the full danger context."
+      ],
+      "proposedChanges": [
+        "Use four parallel interpretations: reduced airflow, resolving bronchospasm, reduced anxiety, and mucus mobilization. The exhaustion/speech change distinguishes dangerous quiet breathing; explain immediate escalation in the rationale."
+      ],
+      "reviewedItemSha256": "5c85e91da180927564bcaf40ff44a2c331e5e3a8b9f68b55734ba595b2e3dbe7"
+    },
+    {
+      "id": "x-adaptation-002",
+      "status": "revise",
+      "assessment": "Offering a sedative for severe asthma is cartoonish; routine review after only minutes of relief is an extreme delay.",
+      "issues": [
+        "Offering a sedative for severe asthma is cartoonish; routine review after only minutes of relief is an extreme delay."
+      ],
+      "proposedChanges": [
+        "Compare activating urgent support while continuing the authorized plan, repeating the usual reliever schedule, coaching breathing, and reassessing peak flow. Establish that severe symptoms preclude delaying emergency care for more routine measurement; omit before-help qualifiers."
+      ],
+      "reviewedItemSha256": "2643d7be1c0e0c66e6cdebd8b32d45826f4744e3917462c5dd1de59885ea6995"
+    },
+    {
+      "id": "x-adaptation-003",
+      "status": "revise",
+      "assessment": "Removing all oxygen and reducing observation for new drowsiness are exaggerated; key is conspicuously comprehensive.",
+      "issues": [
+        "Removing all oxygen and reducing observation for new drowsiness are exaggerated; key is conspicuously comprehensive."
+      ],
+      "proposedChanges": [
+        "State the target, current saturation and oxygen setting. Compare titrating to the target with urgent ventilation review, maintaining the current oxygen pending a blood gas, returning to the previous setting with routine review, and requesting a chest radiograph. Explain why oxygenation does not establish ventilation and why urgent assessment is needed."
+      ],
+      "reviewedItemSha256": "cf99ff74e344f3a7e5347fb01356bb32fb24cef8bc7f86b9d97f574ee20807d3"
+    },
+    {
+      "id": "x-adaptation-004",
+      "status": "revise",
+      "assessment": "Option3 is an unsafe action rather than a conclusion; anxiety alone is explicitly restrictive.",
+      "issues": [
+        "Option3 is an unsafe action rather than a conclusion; anxiety alone is explicitly restrictive."
+      ],
+      "proposedChanges": [
+        "Use four parallel interpretations of the trend: worsening ventilatory reserve, adequate treatment response, primarily anxiety-related effort, and expected recovery fatigue. Explain how increasing support and effort make deterioration most concerning."
+      ],
+      "reviewedItemSha256": "002181ff40d1da6728ec56b2b3bc81eb0d6b12a0a3fecdebd4866b83ef1b685f"
+    },
+    {
+      "id": "x-adaptation-005",
+      "status": "pass",
+      "assessment": "New attention, respiratory and intake changes despite little fever are meaningful cues. Nutrition focus, fever-threshold waiting and environmental attribution are recognizable errors; baseline change appropriately drives assessment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8939509570d57ac8788414266e042456ef169f559b0ac0d63850082f62515f29"
+    },
+    {
+      "id": "x-adaptation-006",
+      "status": "revise",
+      "assessment": "Lowering the bed to stop a mask leak is unrelated and implausible.",
+      "issues": [
+        "Lowering the bed to stop a mask leak is unrelated and implausible."
+      ],
+      "proposedChanges": [
+        "Compare removing the interface and protecting the airway, turning the client laterally with the mask still fitted, loosening the lower mask edge, and administering the ordered antiemetic. Explain why immediate release of the obstructing interface and airway protection comes first. Keep actions concise and protocol/scope bounded."
+      ],
+      "reviewedItemSha256": "a25d194cbbf4aa63562898d58e64e21a7b26eb344e90f0eaaa07b1eb31d176f2"
+    },
+    {
+      "id": "x-adaptation-007",
+      "status": "revise",
+      "assessment": "Forcing resistance, repeated saline boluses and waiting for a scheduled visit are cartoon unsafe alternatives.",
+      "issues": [
+        "Forcing resistance, repeated saline boluses and waiting for a scheduled visit are cartoon unsafe alternatives."
+      ],
+      "proposedChanges": [
+        "Provide whether the removable inner cannula has already been checked/removed. Compare emergency algorithm/oxygenation support, changing to a smaller suction catheter, replacing humidification tubing, and giving the prescribed nebulized treatment. State clinical cues and explain why obstruction/malposition requires urgent structured response."
+      ],
+      "reviewedItemSha256": "278e3ad67b1dd7b8b8375996d593a7b3d7863cb5e4b5136f934968919614ce64"
+    },
+    {
+      "id": "x-adaptation-008",
+      "status": "revise",
+      "assessment": "Cough suppressant is implausible; options1/3 advertise delay and omission.",
+      "issues": [
+        "Cough suppressant is implausible; options1/3 advertise delay and omission."
+      ],
+      "proposedChanges": [
+        "Use Increase supplemental oxygen; Coach huff coughing; Increase humidification; Perform protocol-based suctioning and reassess. Explain why ineffective cough and visible secretions make direct clearance most appropriate. Avoid tacking delay clauses onto otherwise reasonable supportive actions."
+      ],
+      "reviewedItemSha256": "5db2654889a2fa210fa116f110bc678ea4deaf1b2bc5af2b5b01eac802b5781b"
+    },
+    {
+      "id": "x-adaptation-009",
+      "status": "revise",
+      "assessment": "All alternatives intensify the stimulus or knowingly continue instability, making the generic stop/support key the only reasonable choice.",
+      "issues": [
+        "All alternatives intensify the stimulus or knowingly continue instability, making the generic stop/support key the only reasonable choice."
+      ],
+      "proposedChanges": [
+        "Compare withdrawing the catheter and supporting oxygenation, pausing suction with the catheter in place, increasing oxygen while continuing the pass, and shortening the next scheduled pass. Explain immediate withdrawal of the provoking stimulus and reassessment; verify local suction guidance."
+      ],
+      "reviewedItemSha256": "5d1b3dc3bf1ba7ec99387512efbcc3f0cc93b580e012ef3cc424d8e373f81ad3"
+    },
+    {
+      "id": "x-adaptation-010",
+      "status": "revise",
+      "assessment": "Massage trapped air is implausible and documentation option explicitly omits assessment.",
+      "issues": [
+        "Massage trapped air is implausible and documentation option explicitly omits assessment."
+      ],
+      "proposedChanges": [
+        "Use Record and mark the swelling border; Check the dressing seal; Temporarily clamp the drain; Assess breathing and obtain urgent review. Explain why expanding crepitus with dyspnea is more than a local observation/dressing problem and why clamping can worsen intrathoracic pressure."
+      ],
+      "reviewedItemSha256": "11cd2f2410c3cbf6b3f8e59faaabd30ee12aa0fa84273790fe13927c03bb8233"
+    },
+    {
+      "id": "x-adaptation-011",
+      "status": "revise",
+      "assessment": "All distractors are exaggerated: open tubing, whole-shift clamp, contaminated reconnection without assessment. The key only says follow protocol and teaches no actual judgment.",
+      "issues": [
+        "All distractors are exaggerated: open tubing, whole-shift clamp, contaminated reconnection without assessment. The key only says follow protocol and teaches no actual judgment."
+      ],
+      "proposedChanges": [
+        "Use a concrete local protocol excerpt/exhibit for disconnection management, with equipment available and the client's status. Ask which action best follows the stated safe restoration process. Compare plausible temporary system arrangements and avoid implying a universal clamping/water-seal procedure across all devices."
+      ],
+      "reviewedItemSha256": "cc4205da4a0ff678a4ed361307da5ce580b5914e13c72797c411a914c86ec219"
+    },
+    {
+      "id": "x-adaptation-012",
+      "status": "revise",
+      "assessment": "Scheduled anxiolytic and forceful coughing are weak alternatives for sudden post-line shock.",
+      "issues": [
+        "Scheduled anxiolytic and forceful coughing are weak alternatives for sudden post-line shock."
+      ],
+      "proposedChanges": [
+        "Ask which complication is most concerning using parallel differential diagnoses: tension pneumothorax, pulmonary edema, vasovagal episode, and mucus plugging. Keep sudden unilateral reduced sounds/hypotension cues and explain emergency action without requiring a PN definitive diagnosis."
+      ],
+      "reviewedItemSha256": "e9ccea64e09ba2af553731533f22f0d5b5858d44df0185a1b0ba81b412d01310"
+    },
+    {
+      "id": "x-adaptation-013",
+      "status": "revise",
+      "assessment": "Warm drinks during airway flooding and lying flat are cartoonish; before-requesting-help advertises a delay.",
+      "issues": [
+        "Warm drinks during airway flooding and lying flat are cartoonish; before-requesting-help advertises a delay."
+      ],
+      "proposedChanges": [
+        "Use parallel immediate priorities: airway clearance/oxygenation and help, obtain large-bore IV access, quantify blood loss, and prepare a sputum specimen. Explain why airway flooding can threaten ventilation before the blood-loss calculation is complete; preserve unknown bleeding-side context."
+      ],
+      "reviewedItemSha256": "646bddefa74ed670faedbe6f4e8c92760affec65e2aa9433c963abd2ce64a9aa"
+    },
+    {
+      "id": "x-adaptation-014",
+      "status": "revise",
+      "assessment": "Spreading pleural fluid evenly and extra fluids to thin it are implausible. The stem directly states the successful position.",
+      "issues": [
+        "Spreading pleural fluid evenly and extra fluids to thin it are implausible. The stem directly states the successful position."
+      ],
+      "proposedChanges": [
+        "Provide respiratory findings and positional tolerance without explicitly naming the successful intervention, then compare upright support, supported side-lying, a forward-leaning position and recumbent rest with suitable case cues. Alternatively keep a foundational positioning item with credible pneumonia-versus-pleural-fluid misconceptions and foundation metadata."
+      ],
+      "reviewedItemSha256": "6cf57d26a681a187e629259fd5f19582f14ecaac251593c225f54922ffcb52d9"
+    },
+    {
+      "id": "x-adaptation-015",
+      "status": "revise",
+      "assessment": "Ambulating an unstable bleeding client and clamping to stop internal bleeding are overtly unsafe.",
+      "issues": [
+        "Ambulating an unstable bleeding client and clamping to stop internal bleeding are overtly unsafe."
+      ],
+      "proposedChanges": [
+        "Compare urgent circulatory assessment/surgical review, obtaining the next CBC, reinforcing the insertion dressing, and checking drainage measurement accuracy. Give output trend and hemodynamics so priority is inferred. Explain why measurement confirmation must not delay the urgent response."
+      ],
+      "reviewedItemSha256": "90697655282ab5e48e6d00c80ee1a4e4b374579c2378bc402d0a62fea2622f59"
+    },
+    {
+      "id": "x-adaptation-016",
+      "status": "revise",
+      "assessment": "Core total-laryngectomy airway principle is suitable foundation, but option1 advertises checking omission and covering the only airway is exaggerated.",
+      "issues": [
+        "Core total-laryngectomy airway principle is suitable foundation, but option1 advertises checking omission and covering the only airway is exaggerated."
+      ],
+      "proposedChanges": [
+        "Use Increase nasal oxygen flow; Apply a face mask; Apply oxygen through the neck stoma; Use a face-mask bag ventilation setup. The altered anatomy, not explicit omission language, should distinguish the answer."
+      ],
+      "reviewedItemSha256": "a3881859ddb4ecb2756c3459b45c9f26d6f29e5db64a7d0dbefc544cc5dbdcfd"
+    },
+    {
+      "id": "x-adaptation-017",
+      "status": "revise",
+      "assessment": "The stem says to follow the established plan and the key repeats it. Delaying all clearance until antibiotics end is implausible.",
+      "issues": [
+        "The stem says to follow the established plan and the key repeats it. Delaying all clearance until antibiotics end is implausible."
+      ],
+      "proposedChanges": [
+        "Name components and order of the established regimen, current sputum change and treatment tolerance. Ask which adjustment/assessment is indicated using actual airway-clearance options. Source-check sequence if drug-specific; otherwise replace the question with a distinct case-based treatment-response task."
+      ],
+      "reviewedItemSha256": "fd0470121c0b50c0c4f3090c7bcb211b7fe4d7c77bebd6608e532dca9a336082"
+    },
+    {
+      "id": "x-adaptation-018",
+      "status": "revise",
+      "assessment": "Waiting for complete appetite loss is arbitrary filler and stopping clearance is exaggerated.",
+      "issues": [
+        "Waiting for complete appetite loss is arbitrary filler and stopping clearance is exaggerated."
+      ],
+      "proposedChanges": [
+        "Compare prompt exacerbation assessment, increasing routine hydration within the plan, scheduling physiotherapy review, and maintaining the established regimen. Explain why new purulence, dyspnea and functional loss support clinical review beyond routine symptom management."
+      ],
+      "reviewedItemSha256": "c0764311aee5bbb24fbf354efa33db742172df676aefc99b2197abfb59d822ca"
+    },
+    {
+      "id": "x-adaptation-019",
+      "status": "revise",
+      "assessment": "Increasing feeds to finish sooner and sedating cough are cartoon unsafe actions; flush-before-assessing advertises omission.",
+      "issues": [
+        "Increasing feeds to finish sooner and sedating cough are cartoon unsafe actions; flush-before-assessing advertises omission."
+      ],
+      "proposedChanges": [
+        "Compare stopping the feed and assessing breathing, checking the tube insertion marking, measuring the residual if included in local protocol, and repositioning the feeding equipment. The acute respiratory cues should determine airway priority; explain other checks after immediate stabilization."
+      ],
+      "reviewedItemSha256": "8f923d4678f97f42ae08e345c231e9374ec5d117f10322062a016fa67c53a4ef"
+    },
+    {
+      "id": "x-adaptation-020",
+      "status": "revise",
+      "assessment": "Before-calling and before-assessing qualifiers advertise errors; oral fluids with possible inhalation injury are weak.",
+      "issues": [
+        "Before-calling and before-assessing qualifiers advertise errors; oral fluids with possible inhalation injury are weak."
+      ],
+      "proposedChanges": [
+        "Use Estimate burn area; Apply appropriate burn dressings; Obtain an exposure history; Arrange urgent airway assessment. Explain why soot/hoarseness and enclosed exposure prioritize a potentially progressive airway injury despite the saturation."
+      ],
+      "reviewedItemSha256": "c96a79d86df77521eacebd18e849d3089f1b617b56208d4faa8a8ab798ddfcb2"
+    },
+    {
+      "id": "x-adaptation-021",
+      "status": "revise",
+      "assessment": "Two distractors duplicate reliance on saturation, and hydration-before-assessment is unrelated filler.",
+      "issues": [
+        "Two distractors duplicate reliance on saturation, and hydration-before-assessment is unrelated filler."
+      ],
+      "proposedChanges": [
+        "Compare urgent toxic-exposure assessment/oxygen treatment through protocol, repeat conventional oximetry at another site, reassess after fresh air and rest, and assess dehydration from garage work. Explain conventional pulse oximeter limitations and avoid claiming a normal reading excludes poisoning."
+      ],
+      "reviewedItemSha256": "ab731db345d12fc9798d9270461c951ce48b30e61fa3a27ae6368f83a29c2858"
+    },
+    {
+      "id": "x-adaptation-022",
+      "status": "revise",
+      "assessment": "Waiting for full bruising is implausible and key bundles both reasonable treatments.",
+      "issues": [
+        "Waiting for full bruising is implausible and key bundles both reasonable treatments."
+      ],
+      "proposedChanges": [
+        "Use four plausible priorities: obtain chest imaging, support ventilation and administer ordered analgesia, coach coughing/deep breathing, or position on the injured side. Explain the increasing fatigue and chest instability; avoid circumferential binding as a cartoon distractor unless explicitly testing outdated first aid."
+      ],
+      "reviewedItemSha256": "ad222e4569f13ef32bb4c7ccce2581e5d64ea5359f2d1e765305d257a4fcfeee"
+    },
+    {
+      "id": "x-adaptation-023",
+      "status": "revise",
+      "assessment": "Wheezing always, swollen legs only and cardiac diagnosis from oximetry are cartoon absolute statements.",
+      "issues": [
+        "Wheezing always, swollen legs only and cardiac diagnosis from oximetry are cartoon absolute statements."
+      ],
+      "proposedChanges": [
+        "Use plausible short interpretations: a normal reading lowers but does not eliminate concern; stable saturation supports routine review; lack of leg symptoms makes thrombosis unlikely; the pain is expected after surgery. Explain why the acute pleuritic pain/tachycardia still needs assessment and avoid vague probabilistic ambiguity in the key."
+      ],
+      "reviewedItemSha256": "02d3e9291c45837464b1f0bf2e825f7520d088879fcdb9fb32ed70e041ecbc46"
+    },
+    {
+      "id": "x-adaptation-024",
+      "status": "pass",
+      "assessment": "The multi-response item meaningfully distinguishes true improvement in work/support needs from deceptively quieter or slower breathing caused by exhaustion. Each option must be interpreted as a trend.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "73f91fc3d9c15b54c5645cea3c310ad16a1fea33ad04fb34352abc0925814068"
+    },
+    {
+      "id": "x-adaptation-025",
+      "status": "pass",
+      "assessment": "Supplied reference ranges allow a foundation-level acid-base interpretation. Low pH with high CO2 and acute drowsiness supports respiratory acidosis and urgent ventilation assessment; bicarbonate is not reduced.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e9453474f2c581eacb8a77fbfcc4b6c2b3323f63adbe4e3e8436c3c1a2d94f9c"
+    }
+  ],
+  "activeSourceFile": "authoring/b/adaptation-01.json",
+  "sourceLimitations": "This first editorial screen flags revisions before final procedural-source confirmation. No detailed chest-drain, NIV or tracheostomy algorithm is endorsed by the generic keys. Source-specific verification is required when replacement procedures are supplied.",
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

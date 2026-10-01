@@ -1,0 +1,251 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:38:21.525557+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/risk-126-150.json",
+  "sourceSha256": "347df274ee68021e6d0cb8fee9738a0ad88abc33e2999336e8326fdb34f04f9b",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 20,
+    "reviewedIds": [
+      "x-risk-126",
+      "x-risk-127",
+      "x-risk-128",
+      "x-risk-129",
+      "x-risk-130",
+      "x-risk-134",
+      "x-risk-135",
+      "x-risk-136",
+      "x-risk-137",
+      "x-risk-138",
+      "x-risk-139",
+      "x-risk-140",
+      "x-risk-141",
+      "x-risk-142",
+      "x-risk-143",
+      "x-risk-144",
+      "x-risk-145",
+      "x-risk-146",
+      "x-risk-147",
+      "x-risk-150"
+    ],
+    "unreviewedIds": [
+      "x-risk-131",
+      "x-risk-132",
+      "x-risk-133",
+      "x-risk-148",
+      "x-risk-149"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.england.nhs.uk/patient-safety/patient-safety-insight/patient-safety-alerts/enduring-standards/standards-that-remain-valid/medical-device-safety/",
+      "checked": true,
+      "ids": [
+        "x-risk-137",
+        "x-risk-138"
+      ],
+      "note": "Primary NHS enduring safety requirements retrieved: reject whoosh/bubble tests, do not use until placement confirmed."
+    },
+    {
+      "url": "https://opentextbc.ca/clinicalskills/chapter/10-2-nasogastric-tubes/",
+      "checked": true,
+      "ids": [
+        "x-risk-137",
+        "x-risk-138"
+      ],
+      "note": "Actual chapter opened/find: mark external length for migration and verify before feeding; it explicitly says not to instill air to test location."
+    },
+    {
+      "url": "https://www.southtees.nhs.uk/resources/peripheral-nerve-block/",
+      "checked": true,
+      "ids": [
+        "x-risk-145"
+      ],
+      "note": "Primary NHS search excerpt retrieved: do not mobilise without support when block involves foot/leg. Current question reference not yet mapped to this or equivalent."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-risk-126",
+      "status": "pass",
+      "assessment": "Urgent ophthalmic review for severe new pain/reduced vision is retained; waiting for prescribed drops is now a plausible but inadequate response. Cataract-specific UHN reference replaces unrelated wound source.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b30a2b320d4e2cc0a57c44b4099546873581b959fac8057d14d2c59af1379aae"
+    },
+    {
+      "id": "x-risk-127",
+      "status": "revise",
+      "assessment": "Revised analgesic/retry distractor is plausible and the clinical key is appropriate for suspected prosthetic dislocation. Current c-postoperative remains a wound-healing chapter, so hip-replacement complication source is still needed.",
+      "issues": [
+        "Revised analgesic/retry distractor is plausible and the clinical key is appropriate for suspected prosthetic dislocation. Current c-postoperative remains a wound-healing chapter, so hip-replacement complication source is still needed."
+      ],
+      "proposedChanges": [
+        "Retain current content and add an appropriate hip-replacement/dislocation primary reference before final pass."
+      ],
+      "reviewedItemSha256": "745e59e18344deb39a4556ee8abea88ad77a2ec6dcbb17e34d6da095fba9f4f9"
+    },
+    {
+      "id": "x-risk-128",
+      "status": "pass",
+      "assessment": "Options now compare relevant post-thyroid assessment domains. Neuromuscular symptoms plus calcium results most directly address the suspected biochemical complication; thyroid-specific reference is present.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e11db85bf296533f1455021e1a6fac2756d4b274a7491ef4197fd52eb4f4653a"
+    },
+    {
+      "id": "x-risk-129",
+      "status": "pass",
+      "assessment": "Fresh blood/repeated swallowing requires prompt bleeding response regardless of vomiting. Cold-fluid or irritation normalization alternatives no longer depend on a red-treat giveaway.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1f39d834006534b4835862df9dfa31cfcfcbac9fe9d43fc24f89fc259dd47a77"
+    },
+    {
+      "id": "x-risk-130",
+      "status": "pass",
+      "assessment": "New cooler pulseless foot after vascular surgery requires urgent perfusion escalation. Rest-based recheck cannot delay action; vascular-surgery reference is now topic-relevant.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "92eb08303385c363043f1fb69e27e947af27264ac2574d4301d9ee436bc234bd"
+    },
+    {
+      "id": "x-risk-134",
+      "status": "pass",
+      "assessment": "Correct the visible external kink promptly and reassess rather than replacing, adding intake or forcing irrigation. Nephrostomy-specific source now supports the device context.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "408d3be305b410bb694b10d2c8591ee6dc1ab86469b5edaeaab0df531402f227"
+    },
+    {
+      "id": "x-risk-135",
+      "status": "pass",
+      "assessment": "Secure partial displacement and obtain urgent team review; dressing-only or remaining urine flow cannot establish safe position. Appropriate nephrostomy reference is present.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a4eb188119c255a1238c99da73beb22e4c82413ae0f14d2d4aec842ad0e2097e"
+    },
+    {
+      "id": "x-risk-136",
+      "status": "pass",
+      "assessment": "New dusky stoma warrants surgical perfusion assessment. Larger opening may require fit review but does not justify delayed reassessment of possible ischaemia.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7023da161eb2c4db43952f40e3b8822496511ea47b99fa53e51a39a61a60bba5"
+    },
+    {
+      "id": "x-risk-137",
+      "status": "pass",
+      "assessment": "Nasogastric type is explicit and changed marking warrants holding use and approved position verification. Independently opened NG source supports marks for migration recognition and no use before verification.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "61fc5fa1fadcc0f624d509ce7fb2ed4d93cb98be6687724b71d8b7d5b77fd286"
+    },
+    {
+      "id": "x-risk-138",
+      "status": "pass",
+      "assessment": "Nasogastric initial confirmation is explicit; whoosh testing is not reliable proof. Independently checked NHS safety guidance and BCcampus NG source reject air testing as confirmation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6b3525a7b4c53baa3fd03257e7ea4af55fb938f1c7e42969b596825d8f4a1de4"
+    },
+    {
+      "id": "x-risk-139",
+      "status": "pass",
+      "assessment": "Two-day tract makes early dislodgement context clear; urgent expert guidance is appropriate and blind catheter/tube insertion is unsafe. Item does not generalize this restriction to all mature tract plans.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4f8a40bd5ff2bf812e95996c7ad391715e7f7bdaf47d8f9c908fa2f3a831fdac"
+    },
+    {
+      "id": "x-risk-140",
+      "status": "pass",
+      "assessment": "Narrow metabolic/fluid objective makes electrolytes and balance/oedema the appropriate SATA keys. Delivered calories or enjoyed meals do not directly detect these complications; NICE monitoring guidance supports content.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8b1c12dcec2b376618d0e6017902491a61d0a1d6592eec4dda583166e55cc14e"
+    },
+    {
+      "id": "x-risk-141",
+      "status": "pass",
+      "assessment": "New symptomatic phosphate fall after refeeding prompts team review rather than calorie escalation or deconditioning attribution. The item does not independently prescribe a replacement regimen.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "79fceb53ea68ab932de64aa0cccecb016dff4f9a9971fcba723ce25bbb394fa8"
+    },
+    {
+      "id": "x-risk-142",
+      "status": "pass",
+      "assessment": "New unilateral respiratory changes after central access require urgent complication assessment while imaging is arranged. Analgesic response cannot rule out complication; central-line-specific reference now present.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e3f0942cc10c804dec98a2deba211f2c8da9d133ef8d9490ae06311b52fba7e1"
+    },
+    {
+      "id": "x-risk-143",
+      "status": "pass",
+      "assessment": "Pale/cool/painful hand under radial compression requires urgent perfusion assessment and access-protocol response. Radial-specific reference replaces generic wound source; no independent arbitrary pressure setting is prescribed.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "982d428741be35751e81ec1bc2f53cb0c339ff07d0b765351f2da2f7c2907281"
+    },
+    {
+      "id": "x-risk-144",
+      "status": "pass",
+      "assessment": "Expanding groin swelling with dizziness needs bleeding response and circulation assessment; marking alone cannot justify waiting. Arterial-access reference now matches topic.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8bbba8a89f5c50788899145c9cfaef8084dd0a86ae0876c4aaf885d5149fd1c0"
+    },
+    {
+      "id": "x-risk-145",
+      "status": "revise",
+      "assessment": "Clinical content is acceptable, but current ref still c-postoperative wound healing. Regional block recovery/assistance source remains required; general anaesthesia alone is not adequate.",
+      "issues": [
+        "Clinical content is acceptable, but current ref still c-postoperative wound healing. Regional block recovery/assistance source remains required; general anaesthesia alone is not adequate."
+      ],
+      "proposedChanges": [
+        "Retain text; add regional/peripheral nerve block mobility guidance, for example https://www.southtees.nhs.uk/resources/peripheral-nerve-block/ (retrieved: do not mobilise unsupported with foot/leg block)."
+      ],
+      "reviewedItemSha256": "057618a07e19cd22bdba58658cb1e9639c1737ba7fa02ed8495e71d8b96e1a71"
+    },
+    {
+      "id": "x-risk-146",
+      "status": "pass",
+      "assessment": "Combined new bilateral motor/bladder changes after spine surgery require urgent review rather than sequential routine retention workup. Spine-specific source now matches the clinical context.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "54764f4fbb0fa505ee8fd9f10a4150bdb8b2447879797e97d3ecc92e82255904"
+    },
+    {
+      "id": "x-risk-147",
+      "status": "revise",
+      "assessment": "Acute increasing neck swelling and new inability to manage saliva are appropriate urgent cues. General anaesthesia/focused assessment refs do not directly support neck surgical haematoma; add neck/thyroid airway-complication source.",
+      "issues": [
+        "Acute increasing neck swelling and new inability to manage saliva are appropriate urgent cues. General anaesthesia/focused assessment refs do not directly support neck surgical haematoma; add neck/thyroid airway-complication source."
+      ],
+      "proposedChanges": [
+        "Retain content; add c-thyroid or a more direct neck-surgery airway/haematoma guideline after checking the actual warning-sign content."
+      ],
+      "reviewedItemSha256": "3a91c43f443e4499e9aa70874105b5915473d9e6f5a27fb223cefc023d384c18"
+    },
+    {
+      "id": "x-risk-150",
+      "status": "pass",
+      "assessment": "Extent/time and systemic/drain changes characterize the current febrile problem; routine follow-up date and dressing background are lower-priority contextual details. Wound assessment reference is relevant here.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "184f64dffe3867ae2688f027380d3e895cc8078dec1a1920dbae6791ecf14ff4"
+    }
+  ],
+  "reviewScope": "All twenty revised IDs reread. Seventeen pass;127/145/147 content acceptable but final references outstanding.",
+  "reviewerTask": "/root/review_legacy"
+}

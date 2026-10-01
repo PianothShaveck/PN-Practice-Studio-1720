@@ -1,0 +1,1614 @@
+[
+  {
+    "id": "x-management-001",
+    "cat": "management",
+    "title": "Decision-specific capacity",
+    "stem": "A client with mild dementia consistently explains a wound treatment, its risks and what may happen if it is declined. The daughter asks to sign instead. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Seek substitute consent because dementia is documented",
+      "Assess and support the client's consent for this treatment",
+      "Use the consent recorded for the previous admission",
+      "Defer every treatment decision until cognition is normal"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "A diagnosis alone does not establish inability to decide this treatment.",
+      "Understanding and appreciation relate to the particular decision.",
+      "Prior admission consent does not establish current treatment consent.",
+      "Cognitive impairment does not necessarily prevent this specific decision."
+    ],
+    "takeaway": "Assess the client's understanding and appreciation for the particular decision.",
+    "refs": [
+      "a-consent"
+    ],
+    "exhibit": null,
+    "subtopic": "consent",
+    "learningObjective": "Assess the client's understanding and appreciation for the particular decision.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-002",
+    "cat": "management",
+    "title": "Adult client and parental involvement",
+    "stem": "A 19-year-old client accurately explains an elective treatment and its consequences. A parent paying the expenses insists staff must ask them first, but the client wants to decide privately. What should guide the nurse?",
+    "type": "single",
+    "options": [
+      "Defer the discussion until the parent can attend",
+      "Ask the parent to verify the client's explanation first",
+      "Support the client's informed decision and chosen level of family involvement",
+      "Use the parent's earlier appointment agreement as treatment permission"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "A capable adult's private discussion need not await parental attendance.",
+      "Financial support does not transfer the adult client's decision-making role.",
+      "The client demonstrates understanding and can choose how family participates.",
+      "Agreeing to an appointment does not establish consent to the proposed treatment."
+    ],
+    "takeaway": "Family financial involvement does not replace a capable adult's informed choice.",
+    "refs": [
+      "a-consent"
+    ],
+    "exhibit": null,
+    "subtopic": "consent",
+    "learningObjective": "Family financial involvement does not replace a capable adult's informed choice.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-003",
+    "cat": "management",
+    "title": "Sedation before consent",
+    "stem": "A client received a sedative and cannot explain a planned elective procedure. The consent discussion has not occurred. What next?",
+    "type": "single",
+    "options": [
+      "Ask the client to repeat the procedure name and sign",
+      "Accept the preoperative checklist as evidence of consent",
+      "Ask the family to sign without verifying substitute authority",
+      "Pause and contact the responsible practitioner"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Repeating a name does not establish understanding after sedation.",
+      "A checklist cannot replace the missing discussion and capacity assessment.",
+      "Relationship alone does not establish a lawful substitute pathway.",
+      "Elective care permits clarification of capacity and valid consent."
+    ],
+    "takeaway": "Resolve impaired understanding before elective treatment.",
+    "refs": [
+      "a-consent"
+    ],
+    "exhibit": null,
+    "subtopic": "consent",
+    "learningObjective": "Resolve impaired understanding before elective treatment.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-004",
+    "cat": "management",
+    "title": "Consent under pressure",
+    "stem": "A capable client has signed consent but quietly says, \"My caregiver threatened to stop feeding me unless I agreed.\" What should the nurse do first?",
+    "type": "single",
+    "options": [
+      "Pause to assess coercion and the client's immediate safety",
+      "Arrange another teaching session about treatment benefits",
+      "Ask the caregiver to reassure the client before proceeding",
+      "Rely on the signed form unless the client explicitly cancels"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Threats may undermine voluntariness and indicate abuse.",
+      "More teaching does not first address the threat undermining voluntariness.",
+      "The reported coercer may intensify pressure rather than permit free choice.",
+      "A signature cannot resolve the newly disclosed concern about coercion."
+    ],
+    "takeaway": "Consent must be voluntary.",
+    "refs": [
+      "a-consent"
+    ],
+    "exhibit": null,
+    "subtopic": "consent",
+    "learningObjective": "Consent must be voluntary.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-005",
+    "cat": "management",
+    "title": "New procedure scope",
+    "stem": "Before an elective procedure, the plan changes from superficial biopsy to a more extensive intervention. The client consented only to the biopsy. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Proceed because the revised procedure treats the same diagnosis",
+      "Pause preparation until consent for the revised plan is established",
+      "Confirm that the original consent form is still on the chart",
+      "Ask the family to approve the change while the capable client rests"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Treating the same condition does not make substantially different procedures interchangeable.",
+      "Consent must relate to the actual proposed treatment.",
+      "Presence of the form does not establish authorization for revised treatment.",
+      "Family approval does not replace the capable client's treatment decision."
+    ],
+    "takeaway": "Verify consent when the treatment plan changes materially.",
+    "refs": [
+      "a-consent"
+    ],
+    "exhibit": null,
+    "subtopic": "consent",
+    "learningObjective": "Verify consent when the treatment plan changes materially.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-006",
+    "cat": "management",
+    "title": "Hearing support",
+    "stem": "A hard-of-hearing client appears confused during a treatment explanation. What should occur before assuming incapacity?",
+    "type": "single",
+    "options": [
+      "Ask the family to consent because conversation is difficult",
+      "Postpone teaching until a relative can explain the treatment",
+      "Optimize hearing and communication",
+      "Use orientation questions alone to determine treatment capacity"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Difficulty hearing should be addressed before substituting decision-makers.",
+      "A relative may help, but available communication supports should first be optimized.",
+      "Accessible communication permits a fair assessment of understanding.",
+      "Orientation does not test understanding of the specific treatment decision."
+    ],
+    "takeaway": "Remove communication barriers before judging understanding.",
+    "refs": [
+      "a-consent"
+    ],
+    "exhibit": null,
+    "subtopic": "consent",
+    "learningObjective": "Remove communication barriers before judging understanding.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-007",
+    "cat": "management",
+    "title": "Using the client's documented values",
+    "stem": "An adult client cannot currently make a complex treatment decision. Their recognized decision-maker asks whether to follow the family's personal preference or the client's clearly documented prior treatment wishes. What is the best nursing response?",
+    "type": "single",
+    "options": [
+      "Recommend whichever option offers the longest possible survival",
+      "Ask the relatives to agree on a majority preference",
+      "Ask the decision-maker to select what they personally would choose",
+      "Bring the documented wishes into the team discussion to guide a client-centred decision"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Predicted survival is relevant but does not alone establish the client's desired treatment.",
+      "Family consensus does not replace attention to the client's own values.",
+      "The decision-maker's personal preferences may differ from the client's.",
+      "The nurse can support a decision grounded in the client's known wishes through the appropriate consent process."
+    ],
+    "takeaway": "Help the team use the client's known wishes when the client cannot participate.",
+    "refs": [
+      "a-code"
+    ],
+    "exhibit": null,
+    "subtopic": "substitute decisions",
+    "learningObjective": "Help the team use the client's known wishes when the client cannot participate.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "challenge",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-008",
+    "cat": "management",
+    "title": "Financial helper and private results",
+    "stem": "A capable client has a friend who manages household bills. The friend asks for test results, but the client has asked to discuss results privately and is available. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Confirm and respect the client's disclosure preferences",
+      "Give the friend a summary because they manage the client's finances",
+      "Ask the friend to explain the results to the client later",
+      "Release the results after confirming the friend's identity"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "The available capable client can determine the permitted sharing of this information.",
+      "Financial assistance does not by itself authorize disclosure of health information.",
+      "A helper role does not establish permission to receive results.",
+      "Identity verification is necessary for authorized disclosure but does not itself create permission."
+    ],
+    "takeaway": "Verify permission to disclose separately from a person's support role.",
+    "refs": [
+      "a-privacy"
+    ],
+    "exhibit": null,
+    "subtopic": "privacy",
+    "learningObjective": "Verify permission to disclose separately from a person's support role.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-009",
+    "cat": "management",
+    "title": "Regained capacity",
+    "stem": "A client previously unable to understand a treatment decision now consistently explains its purpose and consequences. A substitute had been involved earlier. What should the nurse arrange?",
+    "type": "single",
+    "options": [
+      "Use a normal orientation score alone to declare treatment capacity restored",
+      "Reassessment and direct client participation",
+      "Ask the substitute whether the client may resume making decisions",
+      "Continue relying on substitute consent until the current treatment course ends"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Orientation alone does not establish treatment-specific understanding and appreciation.",
+      "Regained capacity may restore the client's own decision-making role.",
+      "The substitute does not determine whether capable autonomy may resume.",
+      "Changed capacity warrants timely reassessment even during an ongoing course."
+    ],
+    "takeaway": "Revisit consent when capacity changes.",
+    "refs": [
+      "a-consent"
+    ],
+    "exhibit": null,
+    "subtopic": "consent",
+    "learningObjective": "Revisit consent when capacity changes.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-010",
+    "cat": "management",
+    "title": "Questions remain",
+    "stem": "A client says the procedural benefits are clear but asks about alternatives. Which actions support informed choice? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Arrange answers from the responsible practitioner",
+      "Allow decision time when clinically possible",
+      "Ask the client to sign now and obtain answers immediately before treatment",
+      "Explore what information remains unclear"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "why": [
+      "The practitioner can address treatment-specific alternatives.",
+      "Time supports deliberation when urgency allows.",
+      "Signing first risks bypassing information needed for the current choice.",
+      "Clarifying gaps focuses the remaining consent discussion."
+    ],
+    "takeaway": "Informed choice includes alternatives and opportunities for questions.",
+    "refs": [
+      "a-consent"
+    ],
+    "exhibit": null,
+    "subtopic": "consent",
+    "learningObjective": "Informed choice includes alternatives and opportunities for questions.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-011",
+    "cat": "management",
+    "title": "Public corridor",
+    "stem": "A team begins discussing a client's cancer results beside visitors in a corridor. What is the best response?",
+    "type": "single",
+    "options": [
+      "Omit the name and continue discussing the uncommon diagnosis",
+      "Move the discussion to a private area",
+      "Complete the discussion quickly to minimize exposure",
+      "Ask the family present whether discussion may continue"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Context may identify the client even without a name.",
+      "A private location limits unnecessary disclosure.",
+      "Shortening a public disclosure does not remove the avoidable privacy risk.",
+      "Other visitors remain within hearing and may not be authorized recipients."
+    ],
+    "takeaway": "Choose a private setting for clinical discussion.",
+    "refs": [
+      "a-privacy"
+    ],
+    "exhibit": null,
+    "subtopic": "privacy",
+    "learningObjective": "Choose a private setting for clinical discussion.",
+    "reasoningSkill": "intervention",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-012",
+    "cat": "management",
+    "title": "Misdirected fax",
+    "stem": "A nurse discovers a care summary was faxed to the wrong clinic. What should happen first?",
+    "type": "single",
+    "options": [
+      "Wait for the receiving clinic to confirm whether anyone read it",
+      "Correct the fax directory and document the new number",
+      "Activate the privacy breach response promptly",
+      "Notify the client before contacting the privacy response lead"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Containment should begin before unauthorized access can be established.",
+      "Correction helps future transmissions but does not address the current breach.",
+      "Prompt containment and reporting support the required breach response.",
+      "The approved response process should promptly coordinate containment and required notification."
+    ],
+    "takeaway": "Report and contain unintended disclosure promptly.",
+    "refs": [
+      "a-privacy"
+    ],
+    "exhibit": null,
+    "subtopic": "privacy",
+    "learningObjective": "Report and contain unintended disclosure promptly.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-013",
+    "cat": "management",
+    "title": "Personal phone image",
+    "stem": "A colleague suggests photographing a wound on a personal phone because the approved camera is unavailable. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Use a personal phone if the client verbally agrees",
+      "Send the image through an encrypted personal messaging account",
+      "Store the photograph offline until the approved camera returns",
+      "Use an approved secure documentation process"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Client agreement alone does not establish secure storage and handling.",
+      "Encryption alone does not establish an authorized documentation system.",
+      "Personal storage still bypasses required clinical information safeguards.",
+      "Approved processes address consent, access, retention and security."
+    ],
+    "takeaway": "Use authorized systems for clinical images.",
+    "refs": [
+      "a-privacy"
+    ],
+    "exhibit": null,
+    "subtopic": "privacy",
+    "learningObjective": "Use authorized systems for clinical images.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-014",
+    "cat": "management",
+    "title": "Shared password",
+    "stem": "A temporary nurse cannot log in and requests a colleague's password. Which response protects accountability?",
+    "type": "single",
+    "options": [
+      "Arrange authorized access through support",
+      "Share access briefly and supervise every entry",
+      "Enter all temporary staff notes under the shift leader's account",
+      "Delay all documentation until the temporary nurse's next shift"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Individual credentials preserve access control and attribution.",
+      "Supervision does not preserve individual credential accountability.",
+      "The entries would not reliably identify the person providing care.",
+      "Authorized support or downtime processes should maintain timely records."
+    ],
+    "takeaway": "Clinical system access must be individually authorized.",
+    "refs": [
+      "a-privacy"
+    ],
+    "exhibit": null,
+    "subtopic": "privacy",
+    "learningObjective": "Clinical system access must be individually authorized.",
+    "reasoningSkill": "intervention",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-015",
+    "cat": "management",
+    "title": "Voicemail detail",
+    "stem": "A client permits callback but has not authorized detailed voicemail. What is the safest message?",
+    "type": "single",
+    "options": [
+      "Leave results because the client requested a callback",
+      "A minimal callback request",
+      "Ask the answering person to relay the diagnosis",
+      "Send detailed findings to the first email address in the old chart"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Callback permission does not necessarily authorize detailed voicemail.",
+      "A minimal message limits disclosure while enabling contact.",
+      "The answering person's authority to receive health information is unverified.",
+      "The current authorized communication route has not been established."
+    ],
+    "takeaway": "Match messages to the client's communication permissions.",
+    "refs": [
+      "a-privacy"
+    ],
+    "exhibit": null,
+    "subtopic": "privacy",
+    "learningObjective": "Match messages to the client's communication permissions.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-016",
+    "cat": "management",
+    "title": "Chart disposal",
+    "stem": "Printed handover sheets containing identifiers remain after shift. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Place them face down in the staff recycling bin",
+      "Keep them in a work bag until the next shift",
+      "Use approved confidential disposal",
+      "Leave them at the desk for the incoming nurse indefinitely"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Ordinary recycling does not provide confidential destruction.",
+      "Unnecessary transport increases loss and unauthorized access risk.",
+      "Secure disposal limits unauthorized access after use.",
+      "Retention should follow need and approved secure disposal practices."
+    ],
+    "takeaway": "Dispose of clinical working papers securely.",
+    "refs": [
+      "a-privacy"
+    ],
+    "exhibit": null,
+    "subtopic": "privacy",
+    "learningObjective": "Dispose of clinical working papers securely.",
+    "reasoningSkill": "intervention",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-017",
+    "cat": "management",
+    "title": "Research request",
+    "stem": "A researcher outside the care team requests identifiable records. No authorization pathway has been confirmed. What next?",
+    "type": "single",
+    "options": [
+      "Release the records after the researcher signs a confidentiality statement",
+      "Remove the names but retain exact dates and rare diagnoses",
+      "Accept a colleague's assurance that the project sounds worthwhile",
+      "Refer through the approved privacy and research process"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "A confidentiality promise alone does not establish lawful access.",
+      "Partial removal may leave the records readily identifiable.",
+      "Clinical interest cannot substitute for approved research and privacy authorization.",
+      "Approved review establishes lawful access and necessary safeguards."
+    ],
+    "takeaway": "Verify research access before releasing identifiable information.",
+    "refs": [
+      "a-privacy"
+    ],
+    "exhibit": null,
+    "subtopic": "privacy",
+    "learningObjective": "Verify research access before releasing identifiable information.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-018",
+    "cat": "management",
+    "title": "Privacy at bedside",
+    "stem": "During bedside handover, a capable client asks that a sensitive history be discussed elsewhere. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Arrange a private discussion of that information",
+      "Finish the bedside script because consistency prevents omissions",
+      "Ask the roommate to turn away during the report",
+      "Leave the sensitive history out of the receiving team's handover"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Privacy preferences can be respected while preserving relevant communication.",
+      "Consistency does not require sensitive disclosure against the client's stated preference.",
+      "Turning away does not prevent hearing confidential information.",
+      "Relevant information still needs secure transfer to support care."
+    ],
+    "takeaway": "Adapt handover to protect privacy without losing essential information.",
+    "refs": [
+      "a-privacy"
+    ],
+    "exhibit": null,
+    "subtopic": "handover",
+    "learningObjective": "Adapt handover to protect privacy without losing essential information.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-019",
+    "cat": "management",
+    "title": "Release preferences",
+    "stem": "A client permits updates to a sibling but excludes one sensitive diagnosis. Which actions are appropriate? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Clarify the permitted information",
+      "Record the disclosure limits",
+      "Treat permission for general updates as permission for the full record",
+      "Verify identity before telephone updates"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "why": [
+      "Specific limits guide what can be disclosed.",
+      "Accessible documentation supports consistent team practice.",
+      "The client explicitly limited the disclosure scope.",
+      "Identity verification reduces disclosure to the wrong person."
+    ],
+    "takeaway": "Respect the scope of permission to share information.",
+    "refs": [
+      "a-privacy"
+    ],
+    "exhibit": null,
+    "subtopic": "privacy",
+    "learningObjective": "Respect the scope of permission to share information.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-020",
+    "cat": "management",
+    "title": "Social media reflection",
+    "stem": "A nurse proposes a private social-media post about the only client admitted locally with a rare injury that week. The name is omitted. What is the primary privacy concern?",
+    "type": "single",
+    "options": [
+      "Whether the client would probably feel positively about the story",
+      "Whether contextual details permit others to identify the client",
+      "Whether the post omits exact admission dates",
+      "Whether the account is restricted to nursing colleagues"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Assumed approval is not authorization to disclose identifiable information.",
+      "Unusual contextual details can reveal identity without a name.",
+      "Other contextual details may still permit recognition.",
+      "A professional audience does not establish a legitimate care purpose."
+    ],
+    "takeaway": "Removing a name does not guarantee anonymity.",
+    "refs": [
+      "a-privacy"
+    ],
+    "exhibit": null,
+    "subtopic": "privacy",
+    "learningObjective": "Removing a name does not guarantee anonymity.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-021",
+    "cat": "management",
+    "title": "Late entry",
+    "stem": "A nurse recalls an omitted observation from 0900 while charting at 1400. How should it be documented?",
+    "type": "single",
+    "options": [
+      "Use 0900 as the entry time so the chart stays chronological",
+      "Record the observation at 1400 without identifying it as earlier",
+      "Mark a late entry with both times",
+      "Ask the next nurse to include it in their end-of-shift summary"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "That would conceal the actual time the note was made.",
+      "Readers may incorrectly treat it as a current assessment.",
+      "Both event and entry times preserve chronology.",
+      "That loses accurate authorship and delays useful documentation."
+    ],
+    "takeaway": "Clearly distinguish event time from late-entry time.",
+    "refs": [
+      "a-documentation"
+    ],
+    "exhibit": null,
+    "subtopic": "documentation",
+    "learningObjective": "Clearly distinguish event time from late-entry time.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-022",
+    "cat": "management",
+    "title": "Unobserved treatment",
+    "stem": "A colleague asks the nurse to chart a dressing change the colleague performed. There is no emergency. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Sign the colleague's description after verbally confirming completion",
+      "Use the same treatment note entered on the previous day",
+      "Document the procedure as completed under the nurse's own name",
+      "Ask the colleague to document their care"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Confirmation does not make it the nurse's personally provided care.",
+      "The previous entry does not establish today's actions or findings.",
+      "That falsely attributes another person's care to the signing nurse.",
+      "The person providing care normally documents it."
+    ],
+    "takeaway": "Document care with accurate attribution.",
+    "refs": [
+      "a-documentation"
+    ],
+    "exhibit": null,
+    "subtopic": "documentation",
+    "learningObjective": "Document care with accurate attribution.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-023",
+    "cat": "management",
+    "title": "Precharting",
+    "stem": "A nurse prepares morning care notes before seeing clients. Which approach is appropriate?",
+    "type": "single",
+    "options": [
+      "Document completed assessments after care",
+      "Mark routine tasks complete unless the client later refuses",
+      "Copy normal findings and correct exceptions after rounds",
+      "Sign a prepared note with a plan to review it later"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Documentation should reflect care actually provided.",
+      "Expected completion cannot be recorded as an accomplished fact.",
+      "Unverified normal findings may be acted on before correction.",
+      "A signed entry should accurately reflect care already provided."
+    ],
+    "takeaway": "Do not document planned care as completed care.",
+    "refs": [
+      "a-documentation"
+    ],
+    "exhibit": null,
+    "subtopic": "documentation",
+    "learningObjective": "Do not document planned care as completed care.",
+    "reasoningSkill": "intervention",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-024",
+    "cat": "management",
+    "title": "Quoting a threat",
+    "stem": "A client states, 'My partner said they would hurt me tonight.' Which documentation is best?",
+    "type": "single",
+    "options": [
+      "Write that the client reports a stressful relationship",
+      "Record the words and relevant assessment",
+      "Document suspected partner violence without the actual statement",
+      "Record that safety resources were discussed without describing the threat"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "That description omits the specific threatened harm and timing.",
+      "Direct words and assessment communicate the specific concern.",
+      "The concern matters, but the client's exact report provides essential context.",
+      "Intervention documentation alone does not convey the reason for urgent assessment."
+    ],
+    "takeaway": "Record significant client statements accurately and in context.",
+    "refs": [
+      "a-documentation"
+    ],
+    "exhibit": null,
+    "subtopic": "documentation",
+    "learningObjective": "Record significant client statements accurately and in context.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-025",
+    "cat": "management",
+    "title": "Copy-forward allergy",
+    "stem": "A copied admission note says no allergies, but the client describes previous penicillin anaphylaxis. What next?",
+    "type": "single",
+    "options": [
+      "Retain the no-allergy alert until old hospital records arrive",
+      "Record the report only in the narrative progress note",
+      "Clarify and update the active allergy information promptly",
+      "Ask the client to remind each nurse during medication rounds"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "The credible severe-reaction history needs prompt active clarification while corroborating records are sought.",
+      "A buried note may not update the alert used for prescribing and administration.",
+      "Accurate active alerts support immediate prescribing and administration decisions.",
+      "Client reminders supplement but cannot replace accurate active allergy information."
+    ],
+    "takeaway": "Resolve clinically important copied-record discrepancies promptly.",
+    "refs": [
+      "a-documentation"
+    ],
+    "exhibit": null,
+    "subtopic": "documentation",
+    "learningObjective": "Resolve clinically important copied-record discrepancies promptly.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-026",
+    "cat": "management",
+    "title": "Downtime notes",
+    "stem": "The electronic record fails during a shift. What should the nurse use?",
+    "type": "single",
+    "options": [
+      "Keep notes from memory and enter them after recovery",
+      "Record events in a personal encrypted note application",
+      "Write a unit-wide list without client identifiers",
+      "Approved downtime documentation"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Delay and memory dependence risk omitted time-sensitive information.",
+      "Personal encryption does not make the application an approved clinical record.",
+      "Unidentified entries cannot reliably connect observations and treatment to clients.",
+      "Downtime procedures preserve care records and later reconciliation."
+    ],
+    "takeaway": "Use the approved record process during system downtime.",
+    "refs": [
+      "a-documentation"
+    ],
+    "exhibit": null,
+    "subtopic": "documentation",
+    "learningObjective": "Use the approved record process during system downtime.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-027",
+    "cat": "management",
+    "title": "Recording escalation",
+    "stem": "After reporting a worsening wound, what should the nurse include in the clinical record? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Relevant wound findings",
+      "Person contacted and response",
+      "Describe the other clinician as careless for not attending immediately",
+      "Follow-up care and reassessment"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "why": [
+      "Findings explain why escalation was required.",
+      "The response establishes the resulting care plan.",
+      "A judgment about motive or character is not a factual account of the response.",
+      "Follow-up demonstrates whether the concern was addressed."
+    ],
+    "takeaway": "Document the concern, communication and subsequent response.",
+    "refs": [
+      "a-documentation"
+    ],
+    "exhibit": null,
+    "subtopic": "documentation",
+    "learningObjective": "Document the concern, communication and subsequent response.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-028",
+    "cat": "management",
+    "title": "Neutral language",
+    "stem": "A client missed a wound appointment after accessible transport was cancelled and asks to reschedule. Which entry best supports the next nurse's care planning?",
+    "type": "single",
+    "options": [
+      "Missed again despite repeated reminders",
+      "Transport unavailable; client requests rescheduling",
+      "Unable to follow the recommended treatment plan",
+      "Family failed to bring client as expected"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "The wording omits the known transportation barrier needed for planning.",
+      "The entry identifies an actionable access problem.",
+      "This broad conclusion exceeds the specific missed-transport event.",
+      "This assigns blame without explaining the reported access problem."
+    ],
+    "takeaway": "Document observed barriers rather than assumed motives.",
+    "refs": [
+      "a-documentation"
+    ],
+    "exhibit": null,
+    "subtopic": "documentation",
+    "learningObjective": "Document observed barriers rather than assumed motives.",
+    "reasoningSkill": "recognition",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-029",
+    "cat": "management",
+    "title": "Client record correction",
+    "stem": "A client says the chart lists the wrong emergency contact. What is the best response?",
+    "type": "single",
+    "options": [
+      "Tell the client only a physician can change demographic fields",
+      "Keep the old contact until that person authorizes removal",
+      "Verify and use the approved correction process",
+      "Add the new contact to a personal handover sheet only"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "An approved administrative correction pathway may address this factual error.",
+      "An outdated contact does not determine the capable client's preferences.",
+      "Verification and correction improve accuracy and privacy.",
+      "The authoritative record would remain inaccurate for other staff."
+    ],
+    "takeaway": "Support correction of inaccurate demographic information.",
+    "refs": [
+      "a-documentation"
+    ],
+    "exhibit": null,
+    "subtopic": "documentation",
+    "learningObjective": "Support correction of inaccurate demographic information.",
+    "reasoningSkill": "intervention",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-030",
+    "cat": "management",
+    "title": "Abbreviation ambiguity",
+    "stem": "A handover note contains an unfamiliar abbreviation affecting a treatment plan. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Use the most common meaning in the specialty",
+      "Follow the previous shift's actions without clarification",
+      "Treat the abbreviation as optional because it is unclear",
+      "Clarify with the author or responsible clinician"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "A common interpretation may still be wrong in this treatment plan.",
+      "Repeated use does not establish that the original interpretation was correct.",
+      "Omission could miss an important treatment instruction.",
+      "Direct clarification prevents acting on an incorrect interpretation."
+    ],
+    "takeaway": "Clarify ambiguous documentation before acting on it.",
+    "refs": [
+      "a-documentation"
+    ],
+    "exhibit": null,
+    "subtopic": "communication",
+    "learningObjective": "Clarify ambiguous documentation before acting on it.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-031",
+    "cat": "management",
+    "title": "Task report-back",
+    "stem": "A trained care provider will measure routine intake for a stable client. Which instruction is most useful?",
+    "type": "single",
+    "options": [
+      "Specify what, when and how to report",
+      "Ask for a total only if the client appears dehydrated",
+      "Request a verbal total whenever the care provider has time",
+      "Tell the care provider to decide whether the fluid plan needs adjustment"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Clear expectations permit timely nursing interpretation and follow-up.",
+      "Clinical dehydration may develop after useful early intake information was missed.",
+      "Unspecified timing makes planned nursing review unreliable.",
+      "Interpreting and revising the clinical plan requires nursing judgment."
+    ],
+    "takeaway": "Assignment includes clear reporting expectations.",
+    "refs": [
+      "a-professional"
+    ],
+    "exhibit": null,
+    "subtopic": "assignment",
+    "learningObjective": "Assignment includes clear reporting expectations.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-032",
+    "cat": "management",
+    "title": "New worker competence",
+    "stem": "A care provider says they have never used the unit's transfer device. What should guide assignment?",
+    "type": "single",
+    "options": [
+      "Assign the transfer because the worker uses other hoists",
+      "Verified task competence and required support",
+      "Assign the worker to lead after a demonstration without a supervised competence check",
+      "Permit the transfer if the client says the worker seems confident"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Competence with other equipment does not establish competence with this model.",
+      "Task-specific competence protects both client and worker.",
+      "Observation alone does not establish safe independent operation of this transfer device.",
+      "Confidence and client reassurance do not verify safe device operation."
+    ],
+    "takeaway": "Verify competence for the specific assigned task.",
+    "refs": [
+      "a-professional"
+    ],
+    "exhibit": null,
+    "subtopic": "assignment",
+    "learningObjective": "Verify competence for the specific assigned task.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-033",
+    "cat": "management",
+    "title": "Outcome responsibility",
+    "stem": "A nurse assigns a stable client's routine meal assistance according to policy. What responsibility remains with the nurse?",
+    "type": "single",
+    "options": [
+      "Check only that the task box was signed as completed",
+      "Review the outcome only if a formal complaint is received",
+      "Evaluate whether the care met the plan",
+      "Assume intake goals were met because the worker accepted the task"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "A completed task box does not establish the intake or response required by the care plan.",
+      "Evaluation should not depend on a complaint after a care problem develops.",
+      "Evaluation confirms effectiveness and detects changing needs.",
+      "Task acceptance does not establish the client's actual response."
+    ],
+    "takeaway": "Evaluate the outcomes of assigned care.",
+    "refs": [
+      "a-professional"
+    ],
+    "exhibit": null,
+    "subtopic": "assignment",
+    "learningObjective": "Evaluate the outcomes of assigned care.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-034",
+    "cat": "management",
+    "title": "Staffing mix",
+    "stem": "Two nurses have equal workloads; only one is competent in a required specialty procedure. What should assignment consider first?",
+    "type": "single",
+    "options": [
+      "Give the procedure to the longest-serving nurse",
+      "Keep equal client numbers even if needed expertise is unavailable",
+      "Assign by room location to reduce walking time",
+      "Client needs and relevant competence"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Seniority alone does not demonstrate this procedure-specific competence.",
+      "Equal numbers may hide unequal clinical demands and skill requirements.",
+      "Efficiency cannot outweigh the competence needed for the procedure.",
+      "Matching expertise to care needs supports safe allocation."
+    ],
+    "takeaway": "Assign according to client needs and staff competence.",
+    "refs": [
+      "a-professional"
+    ],
+    "exhibit": null,
+    "subtopic": "assignment",
+    "learningObjective": "Assign according to client needs and staff competence.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-035",
+    "cat": "management",
+    "title": "Conflicting instructions",
+    "stem": "A care provider receives different fluid-measurement instructions from two nurses. What is the best response by the responsible nurse?",
+    "type": "single",
+    "options": [
+      "Clarify one coordinated plan with the team",
+      "Ask the worker to follow whichever nurse gave instructions most recently",
+      "Use the previous day's instructions until the next shift",
+      "Collect only oral intake and leave other sources unresolved"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "A coordinated plan removes ambiguity in ongoing care.",
+      "Recency alone does not establish the intended care plan.",
+      "The current disagreement may reflect a needed change requiring clarification.",
+      "An incomplete plan may undermine the intended fluid-balance assessment."
+    ],
+    "takeaway": "Resolve conflicting team instructions explicitly.",
+    "refs": [
+      "a-professional"
+    ],
+    "exhibit": null,
+    "subtopic": "teamwork",
+    "learningObjective": "Resolve conflicting team instructions explicitly.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-036",
+    "cat": "management",
+    "title": "Relief handover",
+    "stem": "A nurse leaves for a scheduled break while a client needs reassessment in 15 minutes. What should occur?",
+    "type": "single",
+    "options": [
+      "Ask the client to ring if they feel worse before reassessment",
+      "Confirm a qualified nurse accepts the reassessment",
+      "Ask a care provider to decide whether nursing review is necessary",
+      "Document the due time without identifying who will respond"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Symptoms alone do not replace the planned clinical review.",
+      "Explicit acceptance establishes continuity during the absence.",
+      "The required reassessment involves nursing judgment.",
+      "Documentation alone does not establish accepted coverage."
+    ],
+    "takeaway": "Arrange clear coverage for time-sensitive care.",
+    "refs": [
+      "a-professional"
+    ],
+    "exhibit": null,
+    "subtopic": "continuity",
+    "learningObjective": "Arrange clear coverage for time-sensitive care.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-037",
+    "cat": "management",
+    "title": "Unexpected assignment limit",
+    "stem": "A practical nurse is assigned care beyond their individual competence despite available expert help. Which actions are appropriate? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Explain the specific competence limit",
+      "Seek qualified collaboration",
+      "Proceed because the activity falls somewhere within the profession's legal scope",
+      "Arrange a safe division of care"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "why": [
+      "Specific limits allow the assignment to be adjusted.",
+      "Expert collaboration can support care within appropriate boundaries.",
+      "Legal scope does not establish the individual nurse's competence for this client.",
+      "A revised plan maintains care while managing the limitation."
+    ],
+    "takeaway": "Competence limits require a safe collaborative care plan.",
+    "refs": [
+      "a-professional"
+    ],
+    "exhibit": null,
+    "subtopic": "scope",
+    "learningObjective": "Competence limits require a safe collaborative care plan.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-038",
+    "cat": "management",
+    "title": "Student supervision",
+    "stem": "A supervised student is about to use a technique that may contaminate a wound. What should the nurse do first?",
+    "type": "single",
+    "options": [
+      "Allow completion and discuss the technique privately afterward",
+      "Interrupt and guide a safe correction",
+      "Ask the student to explain the technique while continuing",
+      "Observe closely and record the issue for formal evaluation"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Delayed feedback permits the contamination risk to reach the client.",
+      "Immediate coaching protects the client and supports learning.",
+      "Explanation should not prolong an action that threatens sterility.",
+      "Observation alone does not prevent the immediate breach."
+    ],
+    "takeaway": "Intervene promptly when a learner's action threatens safety.",
+    "refs": [
+      "a-professional"
+    ],
+    "exhibit": null,
+    "subtopic": "supervision",
+    "learningObjective": "Intervene promptly when a learner's action threatens safety.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-039",
+    "cat": "management",
+    "title": "Unresolved task completion",
+    "stem": "At handover, a needed dressing assessment has no documentation and staff are unsure whether it occurred. What next?",
+    "type": "single",
+    "options": [
+      "Assume the dressing was assessed because other tasks were documented",
+      "Mark the task complete after asking the previous shift to recall it later",
+      "Verify the client's current needs and arrange assessment",
+      "Wait until the next scheduled dressing change without examining the client"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Completion of other care does not establish this assessment occurred.",
+      "Unverified completion can conceal an ongoing care need.",
+      "Current assessment resolves the care gap and directs follow-up.",
+      "The current assessment gap needs resolution based on present risk."
+    ],
+    "takeaway": "Resolve uncertain task completion through verification and current assessment.",
+    "refs": [
+      "a-professional"
+    ],
+    "exhibit": null,
+    "subtopic": "continuity",
+    "learningObjective": "Resolve uncertain task completion through verification and current assessment.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-040",
+    "cat": "management",
+    "title": "Feedback on reporting",
+    "stem": "A care provider delayed reporting low intake. Which feedback best improves future practice?",
+    "type": "single",
+    "options": [
+      "Tell the care provider to be more attentive next time",
+      "Repeat the fluid-balance policy without discussing the missed threshold",
+      "Ask the worker to report only once the client shows symptoms",
+      "Report intake below the agreed threshold before shift end"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "General advice does not clarify what or when to report.",
+      "Policy review alone may leave the specific performance gap unresolved.",
+      "Waiting for symptoms may delay useful early nursing intervention.",
+      "Specific reporting expectations support timely follow-up."
+    ],
+    "takeaway": "Give feedback that describes the required observable action.",
+    "refs": [
+      "a-professional"
+    ],
+    "exhibit": null,
+    "subtopic": "teamwork",
+    "learningObjective": "Give feedback that describes the required observable action.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-041",
+    "cat": "management",
+    "title": "Transfer essentials",
+    "stem": "A rehabilitation client transfers with a pending culture and new mobility restrictions. Which items need handover? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Pending result and follow-up responsibility",
+      "Current transfer assistance required",
+      "The previous assistance level as the sole mobility description",
+      "Relevant recent treatment changes"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "why": [
+      "Unassigned follow-up can allow abnormal results to be missed.",
+      "Receiving staff need the present safe mobility plan.",
+      "The receiving team needs current restrictions and assistance rather than a superseded baseline alone.",
+      "Recent changes affect ongoing treatment and monitoring."
+    ],
+    "takeaway": "Transfer information should identify active needs and unfinished work.",
+    "refs": [
+      "a-professional"
+    ],
+    "exhibit": null,
+    "subtopic": "transitions",
+    "learningObjective": "Transfer information should identify active needs and unfinished work.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-042",
+    "cat": "management",
+    "title": "Referral urgency",
+    "stem": "A dietitian referral is pending for chronic poor appetite, but the client now coughs with every sip. What should happen first?",
+    "type": "single",
+    "options": [
+      "Ask the dietitian to review calories before changing the plan",
+      "Pause oral intake and arrange prompt swallowing assessment",
+      "Offer small sips through a straw while awaiting the referral",
+      "Complete the meal record and reassess at the next meal"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Nutrition review does not resolve the immediate swallowing safety concern.",
+      "Stopping the current exposure and escalating protects the airway.",
+      "An unassessed technique may continue aspiration exposure.",
+      "Documentation alone delays response to repeated coughing with intake."
+    ],
+    "takeaway": "New safety findings can change referral priority.",
+    "refs": [
+      "a-safetytext"
+    ],
+    "exhibit": null,
+    "subtopic": "coordination",
+    "learningObjective": "New safety findings can change referral priority.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-043",
+    "cat": "management",
+    "title": "Discharge equipment gap",
+    "stem": "A client requires a prescribed walker at home, but none is available at the planned discharge time. What next?",
+    "type": "single",
+    "options": [
+      "Discharge with advice to minimize walking until delivery",
+      "Use a family member's walker without checking fit and suitability",
+      "Coordinate a safe equipment and discharge plan",
+      "Ask transport staff to support the client through the first doorway"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Essential safe mobility needs an achievable plan, not an unassessed restriction.",
+      "Availability does not establish safe equipment selection.",
+      "Essential equipment should be addressed before a safe transition.",
+      "Help at arrival does not meet the continuing home mobility need."
+    ],
+    "takeaway": "Resolve essential equipment barriers during discharge planning.",
+    "refs": [
+      "a-professional"
+    ],
+    "exhibit": null,
+    "subtopic": "transitions",
+    "learningObjective": "Resolve essential equipment barriers during discharge planning.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-044",
+    "cat": "management",
+    "title": "Home caregiver limits",
+    "stem": "A spouse expected to provide complex home care says they cannot manage it. What is the best nursing action?",
+    "type": "single",
+    "options": [
+      "Schedule another demonstration before exploring the spouse's concerns",
+      "Ask the spouse to agree temporarily because home care is limited",
+      "Send written instructions and proceed with the existing discharge plan",
+      "Reassess supports and coordinate alternatives"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Teaching alone may not address physical, emotional or practical caregiving limits.",
+      "Agreement under pressure does not create a sustainable support plan.",
+      "Written material does not establish caregiver ability or willingness.",
+      "A realistic plan considers caregiver capacity and available services."
+    ],
+    "takeaway": "Confirm caregiver capacity before relying on home support.",
+    "refs": [
+      "a-professional"
+    ],
+    "exhibit": null,
+    "subtopic": "transitions",
+    "learningObjective": "Confirm caregiver capacity before relying on home support.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-045",
+    "cat": "management",
+    "title": "Pending result ownership",
+    "stem": "A client leaves hospital before a pathology result returns. What best prevents loss to follow-up?",
+    "type": "single",
+    "options": [
+      "Document who will review and communicate the result",
+      "Tell the client to call if no result arrives within several weeks",
+      "Rely on the laboratory's automatic forwarding to the original prescriber",
+      "List the pending test without specifying a follow-up pathway"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Named responsibility creates an actionable follow-up pathway.",
+      "Client follow-up alone leaves professional review responsibility unresolved.",
+      "Forwarding does not confirm accepted clinical responsibility after transition.",
+      "An item on the summary may still be overlooked without ownership."
+    ],
+    "takeaway": "Assign ownership of pending results at transitions.",
+    "refs": [
+      "a-professional"
+    ],
+    "exhibit": null,
+    "subtopic": "transitions",
+    "learningObjective": "Assign ownership of pending results at transitions.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-046",
+    "cat": "management",
+    "title": "Follow-up access",
+    "stem": "A client misses follow-up because the clinic is inaccessible by available transport. What is the best next step?",
+    "type": "single",
+    "options": [
+      "Emphasize the clinical importance of attending the same appointment",
+      "Explore accessible follow-up arrangements",
+      "Give a reminder call on the morning of the appointment",
+      "Ask the client to rebook only when transport becomes reliable"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "The client already identifies a transport barrier, not a knowledge deficit.",
+      "Alternatives can make the required care achievable.",
+      "A reminder does not provide an accessible route to care.",
+      "The required clinical follow-up may need a supported alternative now."
+    ],
+    "takeaway": "Adapt follow-up plans to practical access barriers.",
+    "refs": [
+      "a-code"
+    ],
+    "exhibit": null,
+    "subtopic": "access",
+    "learningObjective": "Adapt follow-up plans to practical access barriers.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-047",
+    "cat": "management",
+    "title": "Teach-back gap",
+    "stem": "A client repeats written discharge words but cannot describe what to do if symptoms worsen. What next?",
+    "type": "single",
+    "options": [
+      "Accept accurate reading aloud as evidence the plan is understood",
+      "Give a longer written explanation of every possible complication",
+      "Reteach the action plan and reassess understanding",
+      "Ask the client to promise to call if uncertain"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Reading does not demonstrate when or how the client would act.",
+      "More volume may obscure the specific response the client cannot explain.",
+      "Focused reteaching addresses the identified decision gap.",
+      "A promise does not establish recognition of the warning signs."
+    ],
+    "takeaway": "Evaluate whether teaching supports action, not memorization.",
+    "refs": [
+      "a-professional"
+    ],
+    "exhibit": null,
+    "subtopic": "transitions",
+    "learningObjective": "Evaluate whether teaching supports action, not memorization.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-048",
+    "cat": "management",
+    "title": "Care conference goals",
+    "stem": "An interdisciplinary conference proposes several treatments. The capable client has not been asked their priorities. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Rank the options by predicted functional improvement before asking the client",
+      "Implement the team consensus and explain it at discharge",
+      "Ask the family to identify goals without involving the capable client",
+      "Invite the client's goals into the discussion"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Professional estimates need to be considered alongside the client's own priorities.",
+      "Late explanation prevents meaningful participation in choosing the plan.",
+      "Family input can support but not replace the client's own goals.",
+      "Client goals help align treatment choices with meaningful outcomes."
+    ],
+    "takeaway": "Include the client's goals in interdisciplinary planning.",
+    "refs": [
+      "a-code"
+    ],
+    "exhibit": null,
+    "subtopic": "advocacy",
+    "learningObjective": "Include the client's goals in interdisciplinary planning.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-049",
+    "cat": "management",
+    "title": "Access to food",
+    "stem": "A client prescribed a meal-dependent medication reports no reliable food supply. Which actions support a workable plan? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Assess access to regular meals",
+      "Connect with food and social supports",
+      "Reinforce medication timing without addressing meal availability",
+      "Inform the team of the treatment barrier"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "why": [
+      "The regimen depends on an unmet practical need.",
+      "Support services may improve the ability to follow treatment.",
+      "Instructions cannot resolve the reported barrier to safely following the regimen.",
+      "The team may need to adapt the care plan safely."
+    ],
+    "takeaway": "Identify social barriers that make treatment plans unworkable.",
+    "refs": [
+      "a-code"
+    ],
+    "exhibit": null,
+    "subtopic": "access",
+    "learningObjective": "Identify social barriers that make treatment plans unworkable.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-management-050",
+    "cat": "management",
+    "title": "Return precautions",
+    "stem": "At home after discharge, a client develops sudden severe breathlessness at rest and cannot speak full sentences. Which action reflects appropriate use of return precautions?",
+    "type": "single",
+    "options": [
+      "Contact the usual clinic when it next opens for severe breathlessness",
+      "For new severe breathing difficulty, call emergency services",
+      "Use the next scheduled appointment to discuss new severe symptoms",
+      "Try the routine home plan and wait an hour before seeking help"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "A routine callback pathway may dangerously delay emergency assessment.",
+      "A specific urgent symptom is linked to an appropriate action.",
+      "Scheduled follow-up is not appropriate for severe acute breathing difficulty.",
+      "An arbitrary delay can be unsafe when breathing difficulty is severe."
+    ],
+    "takeaway": "Link warning symptoms to a clear action and contact.",
+    "refs": [
+      "a-safetytext"
+    ],
+    "exhibit": null,
+    "subtopic": "transitions",
+    "learningObjective": "Link warning symptoms to a clear action and contact.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  }
+]

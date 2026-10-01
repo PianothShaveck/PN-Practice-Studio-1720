@@ -1,0 +1,71 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:59:36.838844+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/risk-151-175.json",
+  "sourceSha256": "7802e47a05715cfad83a45ba61f879d47ce36a292ff921a060fb49df504d972b",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 1,
+    "reviewedIds": [
+      "x-risk-159"
+    ],
+    "unreviewedIds": [
+      "x-risk-151",
+      "x-risk-152",
+      "x-risk-153",
+      "x-risk-154",
+      "x-risk-155",
+      "x-risk-156",
+      "x-risk-157",
+      "x-risk-158",
+      "x-risk-160",
+      "x-risk-161",
+      "x-risk-162",
+      "x-risk-163",
+      "x-risk-164",
+      "x-risk-165",
+      "x-risk-166",
+      "x-risk-167",
+      "x-risk-168",
+      "x-risk-169",
+      "x-risk-170",
+      "x-risk-171",
+      "x-risk-172",
+      "x-risk-173",
+      "x-risk-174",
+      "x-risk-175"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://openstax.org/books/maternal-newborn-nursing/pages/20-1-physiologic-changes-during-the-postpartum-period",
+      "checked": true,
+      "note": "Opened and read urinary-system section: distended bladder can elevate/laterally displace the uterus and impair tone; follow postpartum voiding/catheter orders and reassess uterus/lochia."
+    },
+    {
+      "url": "https://www.cuh.nhs.uk/patient-information/urinary-retention-following-childbirth/",
+      "checked": true,
+      "note": "Opened and read small-void/incomplete-emptying assessment and individualized bladder scan/voiding/catheter plans. Item does not import this UK service’s exact intervention thresholds or schedules."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-risk-159",
+      "status": "pass",
+      "assessment": "Independently read the complete replacement. Repeated small voids, elevated lateral fundal displacement persisting after tone firms, and stable circulation support focused bladder-emptying assessment and the prescribed postpartum voiding plan with reassessment. Alternatives are parallel relevant postpartum assessments for afterpains, bleeding/tone and retained tissue. The key is not uniquely long and does not authorize automatic catheterization without the plan. This objective is distinct from emergency postpartum haemorrhage response in legacyadaptation08.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d84dec8585f8696e2f62ef81d82f48bbe74da949e33b2e3735ebf019f21632af"
+    }
+  ],
+  "reviewerTask": "/root/review_legacy",
+  "reviewType": "Full independent review of replacement objective, not hash-only renewal"
+}

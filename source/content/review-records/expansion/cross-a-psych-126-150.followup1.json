@@ -1,0 +1,266 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewerTask": "/root/author_management_safety",
+  "reviewedAt": "2026-10-01T18:29:55.297056+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-a-psych-126-150-revised-snapshot.json",
+  "coverage": {
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-psychosocial-126",
+      "x-psychosocial-127",
+      "x-psychosocial-128",
+      "x-psychosocial-129",
+      "x-psychosocial-130",
+      "x-psychosocial-131",
+      "x-psychosocial-132",
+      "x-psychosocial-133",
+      "x-psychosocial-134",
+      "x-psychosocial-135",
+      "x-psychosocial-136",
+      "x-psychosocial-137",
+      "x-psychosocial-138",
+      "x-psychosocial-139",
+      "x-psychosocial-140",
+      "x-psychosocial-141",
+      "x-psychosocial-142",
+      "x-psychosocial-143",
+      "x-psychosocial-144",
+      "x-psychosocial-145",
+      "x-psychosocial-146",
+      "x-psychosocial-147",
+      "x-psychosocial-148",
+      "x-psychosocial-149",
+      "x-psychosocial-150"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Full reread of saved revised items including every option, key, rationale and metadata; reasoned through the case discriminator and the previously reported issue. Previously passed included items were also reread; no automated editorial acceptance.",
+  "limitations": [
+    "Not external clinician or psychometric validation",
+    "Source verification is targeted; prior reports document checks and newly supplied author references are not presumed independently verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.canada.ca/en/health-canada/services/substance-use/supervised-consumption-sites/explained.html",
+      "checked": "Opened current primary Health Canada page: trained staff can recognize/respond to overdose; hours and services vary. Supports129 supervised response option."
+    },
+    {
+      "url": "https://www.nors.ca/about",
+      "checked": "Opened the service’s own page confirming virtual overdose response and availability throughout Canada; supports129 verified virtual-response arrangement. No guarantee of rescue is claimed."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-psychosocial-126",
+      "status": "pass",
+      "assessment": "Actual teach-back plans distinguish continued emergency response after improvement from delayed help and home monitoring; temporary reversal supports the key.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e7e463d8567c04cc346b8f3a4a0cffdc0ed52d77a9efafe3b1ee85ab0c6f99f2"
+    },
+    {
+      "id": "x-psychosocial-127",
+      "status": "revise",
+      "assessment": "Reduced tolerance after abstinence is correct and the other two physiology misconceptions are relevant, but whether an amount looks familiar remains a weak visual-recognition distractor.",
+      "issues": [
+        "Reduced tolerance after abstinence is correct and the other two physiology misconceptions are relevant, but whether an amount looks familiar remains a weak visual-recognition distractor."
+      ],
+      "proposedChanges": [
+        "Replace option3 with \"Drug clearance during abstinence reduces the risk from the old amount\". Explain that clearing earlier doses does not preserve tolerance and renewed exposure to the old amount can be hazardous. Preserve the key and remaining fields."
+      ],
+      "reviewedItemSha256": "1d1463c6bec41811db6062dd848ce0a7e474092fa887647b1e86a70a8b0be256"
+    },
+    {
+      "id": "x-psychosocial-128",
+      "status": "pass",
+      "assessment": "Unresponsiveness with very slow breathing warrants naloxone and emergency breathing support despite uncertain exposure; additional history or advice cannot delay response.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2928b39bdc04e8ac4b2599414bc2cd72933464d366659ac6f4f87f172e882aa7"
+    },
+    {
+      "id": "x-psychosocial-129",
+      "status": "pass",
+      "assessment": "The distinct responder-access objective makes supervised service, a capable present person and an agreed real-time virtual response appropriate; a kit alone or next-day contact does not close the response gap. Primary services support this distinction.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3c41b4708ce5235d14e992b13f9709e9f7a778d48ae1307e273bc12fc2a1807b"
+    },
+    {
+      "id": "x-psychosocial-130",
+      "status": "revise",
+      "assessment": "Timing, yawning, aches, diarrhoea and preserved respiratory status appropriately favour withdrawal/hydration assessment. Clinical content passes; two missing spaces impair finished copy.",
+      "issues": [
+        "Timing, yawning, aches, diarrhoea and preserved respiratory status appropriately favour withdrawal/hydration assessment. Clinical content passes; two missing spaces impair finished copy."
+      ],
+      "proposedChanges": [
+        "In the stem change \"are18/min\" to \"are 18/min\" and \"saturation98%\" to \"saturation 98%\". No clinical change is needed."
+      ],
+      "reviewedItemSha256": "5aff0e85db2c30c3f924eef8cc3f8c8357174328112291375c3ae54b34071ebc"
+    },
+    {
+      "id": "x-psychosocial-131",
+      "status": "pass",
+      "assessment": "Chest pain and marked physiological activation after stimulant use justify emergency assessment over supportive measures or a prolonged history.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "74b95c1dd77f0b93a020c4f5a0567437f75b9eeba2d4e93da2de93a85601bf85"
+    },
+    {
+      "id": "x-psychosocial-132",
+      "status": "pass",
+      "assessment": "Uncertain concentrate exposure, tremor and unassessed vital signs justify physical/safety assessment before assuming uncomplicated anxiety or planning discharge.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0933a788d45ba1b7703478ef8c785b67a861865ced22f2b1ab089dc28cdeb86d"
+    },
+    {
+      "id": "x-psychosocial-133",
+      "status": "pass",
+      "assessment": "Conflicting simultaneous service plans make consent-based coordination a concrete need; sequencing or alternation alone does not resolve the interacting concerns.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "04c1f076d24c93a079c1c26403548aca0292faa13f2a1771a34bd9c8d94a2663"
+    },
+    {
+      "id": "x-psychosocial-134",
+      "status": "pass",
+      "assessment": "The actual stated goals map to reported completed behaviour and function; referral issuance and future intention are process/readiness measures rather than achieved targets.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "be21d318f68d4e23fec99032d550f30f3b4e93a49676343cd932093240fd2b67"
+    },
+    {
+      "id": "x-psychosocial-135",
+      "status": "pass",
+      "assessment": "The expressed hopelessness and better-off-without-me statement prioritize direct suicide inquiry over relevant but less immediate financial and pattern information.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e0112e0fdc50dc28b2820e4d51010eaf0c09e11260d49914a3d965890eb9e060"
+    },
+    {
+      "id": "x-psychosocial-136",
+      "status": "revise",
+      "assessment": "The attempted stopping-time question directly assesses control rather than mood, social setting or sleep effects. Clinical content passes; the times run into preceding words.",
+      "issues": [
+        "The attempted stopping-time question directly assesses control rather than mood, social setting or sleep effects. Clinical content passes; the times run into preceding words."
+      ],
+      "proposedChanges": [
+        "In the stem change \"until03:00\" to \"until 03:00\" and \"misses09:00\" to \"misses 09:00\". Preserve all clinical fields otherwise."
+      ],
+      "reviewedItemSha256": "6c9e2d0a3ba8a2952eead3b506868e3ee72760a1f6ac6e3a0ea8545d275ca63e"
+    },
+    {
+      "id": "x-psychosocial-137",
+      "status": "pass",
+      "assessment": "Protecting essential household savings while remaining supportive favours chosen lending limits and treatment access; loans or taking over accounts do not first resolve the stated boundary need.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d84e634daac5e5d044a58f45bc92afcf295d0c2876778291af65e233e14956c8"
+    },
+    {
+      "id": "x-psychosocial-138",
+      "status": "pass",
+      "assessment": "The client’s stated framework, time and access select a suitable peer-support trial from plausible available formats; key is concrete and preserves choice.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "238a925dae0dc7819de320d19320729a488a6b35658f07cb9ef70f251ae3d70a"
+    },
+    {
+      "id": "x-psychosocial-139",
+      "status": "pass",
+      "assessment": "Concrete unconfirmed entry, unknown urgent contact and a treatment-supply gap resolve the former question ambiguity; confirmed transport and demonstrated coping/contact knowledge are completed safeguards.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e3f42a236a8e627ac785b0a41f2cd6d64106d455d1b31ff97c99525f097c31cd"
+    },
+    {
+      "id": "x-psychosocial-140",
+      "status": "pass",
+      "assessment": "Observed short endurance supports a brief real gardening task with available support and tolerance review, rather than prolonged activity or substituting observation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "02e78894dec1ae903983ba26399822b29a9eb9c3e9bfbab990adf457134cff3f"
+    },
+    {
+      "id": "x-psychosocial-141",
+      "status": "pass",
+      "assessment": "A specific accommodation/disclosure question is referred for appropriate local advice without inventing legal requirements or assuming broad diagnosis disclosure.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "832215490cb09e9fa138114583eb9f28e7c13ac1a7b4aba936ea750e942e5ed9"
+    },
+    {
+      "id": "x-psychosocial-142",
+      "status": "pass",
+      "assessment": "The actual disrupted morning routine supports exploration of strengths and assistance needs; alternatives prematurely reassure, substitute care or redirect.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fa2dd43b0fe9cd1526edeaa4171940f8bee149b5e9cb64f4ea0cbff50b309c08"
+    },
+    {
+      "id": "x-psychosocial-143",
+      "status": "pass",
+      "assessment": "The client wants review but cannot frame trade-offs, making preparation of goals and questions more useful now than documentation, adherence education or transport information.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f230eb08d66db55d906933392ba560a57c3e28fbe854a08db4e07113f8bd6e13"
+    },
+    {
+      "id": "x-psychosocial-144",
+      "status": "pass",
+      "assessment": "Actual tenancy maintenance and use of support demonstrate housing function and confidence; pamphlets and referral forms are service processes, keeping this distinct from alcohol outcomes.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f1552d58ccf4b1087020b607a4729d3c818bbf965bd5378cb43663b876e77f24"
+    },
+    {
+      "id": "x-psychosocial-145",
+      "status": "pass",
+      "assessment": "Preserved function plus renewed anniversary emotion supports exploration of personal meaning and preferred help; reassurance and activity suggestions are plausible but less individualized openings.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "bd0d0be253dc9947a0ea2ccd8c9e5bb51f4007d0be46ec17b7ff4e00eaa42862"
+    },
+    {
+      "id": "x-psychosocial-146",
+      "status": "pass",
+      "assessment": "The response distinguishes grief for present relational loss from caregiver fatigue and future concerns; foundation accurately describes this recognition task.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e7cacaebeebea2257f0f1e10484daf71b5bf5cd95b155fa20e2bf5940224690c"
+    },
+    {
+      "id": "x-psychosocial-147",
+      "status": "pass",
+      "assessment": "Different preferred outlets and desire for connection favour individual supports plus an agreed shared check-in rather than imposing a single style.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5991e6eeef0af9bcb45d7726a586bed145bb20be92951b5e7310676c61541b75"
+    },
+    {
+      "id": "x-psychosocial-148",
+      "status": "pass",
+      "assessment": "Age-specific direct explanations now have comparable length; irreversible body-death language distinguishes death from rest or travel. Foundation is appropriately tagged.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fb1123df29ecf66bff79dbaddaedaa4950ccd467e5986b6eccc679a5628613ac"
+    },
+    {
+      "id": "x-psychosocial-149",
+      "status": "pass",
+      "assessment": "Unchanged grief-assessment findings continue to distinguish safety and sustained functional impairment from adaptive emotion or cultural practice.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "65d0a1975206252220402db4fdb552484a04f81d26f4d64a22de47e6430da2b8"
+    },
+    {
+      "id": "x-psychosocial-150",
+      "status": "pass",
+      "assessment": "Comparable supportive replies allow the dismissed relationship to determine the best opening: acknowledge its meaning and invite the client’s experience before advice or normalization.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fd57d7470c52c17fb0f91508d353c26273fd2b9ccb4dc43fc48c3169f3b75b31"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:40:23.424253+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/basic-176-200.json",
+  "sourceSha256": "8c68a7a6f7e10d5db3b28d48dc40b0376c144d25a7fa7e69f4a93752e9d046b8",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 17,
+    "reviewedIds": [
+      "x-basic-179",
+      "x-basic-182",
+      "x-basic-183",
+      "x-basic-184",
+      "x-basic-185",
+      "x-basic-186",
+      "x-basic-187",
+      "x-basic-188",
+      "x-basic-189",
+      "x-basic-191",
+      "x-basic-192",
+      "x-basic-193",
+      "x-basic-196",
+      "x-basic-197",
+      "x-basic-198",
+      "x-basic-199",
+      "x-basic-200"
+    ],
+    "unreviewedIds": [
+      "x-basic-176",
+      "x-basic-177",
+      "x-basic-178",
+      "x-basic-180",
+      "x-basic-181",
+      "x-basic-190",
+      "x-basic-194",
+      "x-basic-195"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-basic-179",
+      "status": "pass",
+      "assessment": "Phantom pain is assessed as a distinct real experience, with prescribed management reviewed. Relaxation-first delay is now a plausible incomplete response; phantom-pain source replaces generic transfers.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1ea95e67b021cda2bd0faee92d93522ab60d869dc7bb8e8e69c470b9b6c1f829"
+    },
+    {
+      "id": "x-basic-182",
+      "status": "pass",
+      "assessment": "Established reliable eye-gaze communication preserves direct preference expression despite speech/hand limitations. A hand-marked form is inaccessible; ALS communication/professional relationship refs now match.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b132563b616ae8097a178272bd69d2056e1e3a1c9b1ea1c085ee7e6221a812d9"
+    },
+    {
+      "id": "x-basic-183",
+      "status": "pass",
+      "assessment": "Earlier smaller meal and upright interval directly address the described reflux pattern. Food exclusion without size/timing change is a plausible incomplete trigger modification; GERD source appropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4851efbdaed4772d92ce3f509dac33e739ec007acc0fb1d89af365344026fcab"
+    },
+    {
+      "id": "x-basic-184",
+      "status": "pass",
+      "assessment": "Offloading bedding contact targets the stated gout pain stimulus. A thin but tucked sheet may retain contact; gout-specific support now replaces mobility reference.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "34c17acc0f99f3a1d91644c0819295825a7f7981798afebe769da0fae250d775"
+    },
+    {
+      "id": "x-basic-185",
+      "status": "pass",
+      "assessment": "Individual tolerated-food/utensil trials with intake monitoring address treatment-related metallic taste. Preset protein restriction or greater portions can worsen intake; BC Cancer taste guidance is topic-relevant.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "76f5971436579e6b9152c2d118bc9f9dae2bd90ee16501d8e891256145eabc71"
+    },
+    {
+      "id": "x-basic-186",
+      "status": "pass",
+      "assessment": "Cool smooth nonacidic food is the best option for painful mucositis with safe swallowing. Comparators have concrete heat/acidity/roughness problems. BC Cancer mouth-pain reference now appropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7e54b7bc591dcbca5018b71a46c4070ad9c729e4adb7ac2b039abb555d378552"
+    },
+    {
+      "id": "x-basic-187",
+      "status": "pass",
+      "assessment": "Trunk/utensil control and swallow/endurance directly determine safe assistance. Unit meal duration/staffing are resources, not patient capability. Nutrition and dysphagia refs now match the narrowed objective.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5e9878ce0ed9105e36257ded017479d9cb95591a8ac440cd3d45328b78c5569d"
+    },
+    {
+      "id": "x-basic-188",
+      "status": "pass",
+      "assessment": "Contrast and lighting address the demonstrated visual barrier; bigger same-colour plate does not. Low-vision source is relevant without inferring brain injury in the client.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0354bbdfb309810af8afd888fb8528ed25cdb7b50e24733a9229a90ca3f9fb8c"
+    },
+    {
+      "id": "x-basic-189",
+      "status": "pass",
+      "assessment": "Planned pouch emptying and comfortable clothing support the outing; skipped food and unnecessary frequent changes can add burden. Ostomy reference replaces unrelated transfers.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f05418230d4bb70ebb8eced57528e47b0f980bb104f36bde64802a8b008bd6f6"
+    },
+    {
+      "id": "x-basic-191",
+      "status": "pass",
+      "assessment": "Maintained balance/tolerable symptoms are direct performance evidence. Correct aid setup is a relevant necessary condition but not sufficient evidence of capacity; the equipment-brand filler is removed.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e11d7c7971671ddc4783c4e5291c5acdc4bcf5876f086098b03cea8a175346e5"
+    },
+    {
+      "id": "x-basic-192",
+      "status": "pass",
+      "assessment": "Suitable lever changes the painful small-joint twist demand; an equivalent round tap does not. Assistive-device source supports the adaptation context.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7a6db38136ea4b242a7ffece1285bbdef738313ba4026422a070194d016eaf70"
+    },
+    {
+      "id": "x-basic-193",
+      "status": "pass",
+      "assessment": "Reviewing skin care and prescribed removal schedule addresses removable-splint moisture while preserving treatment; independently shortening wear is not automatically warranted. Skin/position refs are topic-relevant.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8377c054f958f0a5037b5c1d6331bde3f56664e7d7e2d27145a5033d6c35e710"
+    },
+    {
+      "id": "x-basic-196",
+      "status": "pass",
+      "assessment": "Independently recomputed actual consumption:120+90+60=270mL. Alternatives now represent counting served quantities or subtracting the wrong component. Nutrition/intake source replaces transfers; no clinical dosing claim is made.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e945607308eabf70142a87bb9303adcbd1040d32e0d0bd13ec9ab1e4278d04e2"
+    },
+    {
+      "id": "x-basic-197",
+      "status": "pass",
+      "assessment": "Independently checked200/100×150=300kcal. Alternatives represent label-portion, unit and consumed-volume errors; nutrition reference is appropriate to an intake calculation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ccb586a022db5981270aa1ea7ef8203ecb0d6cb620ca12984ddf3dc8d42eb810"
+    },
+    {
+      "id": "x-basic-198",
+      "status": "pass",
+      "assessment": "Agreed discreet request/support tackles reluctance while preserving control. Intermittent family reminders do not provide immediate reliable access; continence/professional relationship refs now match.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1e99c0eb8eedd680a2b467af52896907f3b046629b4a0733667da5c95f3c3e4c"
+    },
+    {
+      "id": "x-basic-199",
+      "status": "pass",
+      "assessment": "Reassessed pacing and a later nonurgent shower fit observed fatigue; no need to unilaterally reduce tomorrow’s rehabilitation. Source mapping now acknowledges activity/rest context.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "dbbe9b86d0e5edd487ce3e3ed06f5f21ce76663d0cf1d80f3d0761f24a076a72"
+    },
+    {
+      "id": "x-basic-200",
+      "status": "pass",
+      "assessment": "Simplification and teach-back address reported usability during symptoms. Highlighting or handing the same complexity to an intermittently available relative may not resolve the barrier. Pain/relationship sources are related, not independent proof of every teaching detail.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a40b07e2178c41d515390fc7151bf2031fef9581fd6c18ec6bda9a52a967f43d"
+    }
+  ],
+  "reviewScope": "All seventeen revised IDs read with options, rationales and changed refs; arithmetic196/197 independently recomputed. These passes do not establish clinician or psychometric validation.",
+  "reviewerTask": "/root/review_legacy"
+}

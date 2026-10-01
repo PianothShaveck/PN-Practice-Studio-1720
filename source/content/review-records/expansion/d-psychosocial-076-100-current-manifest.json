@@ -1,0 +1,194 @@
+{
+  "reviewerTask": "/root/review_expansion",
+  "createdAt": "2026-10-01T18:30:29.944538+00:00",
+  "purpose": "Mechanical index of existing individually reasoned matching-hash passes; not a new clinical review or blanket approval.",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/d/questions.json",
+  "sourceSha256": "229d6edbf2f6c93e4877242eb346459648a9235a908f7a796bfa78a1bf84a651",
+  "coverage": {
+    "scopeItems": 25,
+    "matchingPasses": 25,
+    "pending": []
+  },
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen, not external clinician or psychometric validation.",
+    "Read the supporting review for each assessment and source limitations. Any whole-item content or metadata change invalidates its recorded hash.",
+    "Only explicitly selected scope is indexed here; other categories/reviewers are not implied approved."
+  ],
+  "items": [
+    {
+      "id": "x-psychosocial-076",
+      "status": "pass",
+      "reviewedItemSha256": "921c9c429bc2a206a4fdeb65a23d0f41e5f553d16fe14eca05d005a4b37b2c39",
+      "supportingReview": "reviews/expansion/d-psychosocial-076-100.followup1.json",
+      "reviewedAt": "2026-10-01T18:26:56.839962+00:00"
+    },
+    {
+      "id": "x-psychosocial-077",
+      "status": "pass",
+      "reviewedItemSha256": "f340dacb469b23baab2b0036beb484cc0bb764812451fb816882717b4ffab4f0",
+      "supportingReview": "reviews/expansion/d-psychosocial-076-100.followup1.json",
+      "reviewedAt": "2026-10-01T18:26:56.839962+00:00"
+    },
+    {
+      "id": "x-psychosocial-078",
+      "status": "pass",
+      "reviewedItemSha256": "ebed28ffe562e42c713ed73befeab4aea19cb42808f40efb1835629551603dd4",
+      "supportingReview": "reviews/expansion/d-psychosocial-076-100.followup1.json",
+      "reviewedAt": "2026-10-01T18:26:56.839962+00:00"
+    },
+    {
+      "id": "x-psychosocial-079",
+      "status": "pass",
+      "reviewedItemSha256": "d094c6fc8a019ff6e6da98540a5e0f52d83b736aa658332dc49a1994fe94607e",
+      "supportingReview": "reviews/expansion/d-psychosocial-076-100.followup1.json",
+      "reviewedAt": "2026-10-01T18:26:56.839962+00:00"
+    },
+    {
+      "id": "x-psychosocial-080",
+      "status": "pass",
+      "reviewedItemSha256": "8045e4ef46ea0d79128d72a8b55e2d823085cf18f5d4aeed8891b03013bae7d2",
+      "supportingReview": "reviews/expansion/d-psychosocial-076-100.followup1.json",
+      "reviewedAt": "2026-10-01T18:26:56.839962+00:00"
+    },
+    {
+      "id": "x-psychosocial-081",
+      "status": "pass",
+      "reviewedItemSha256": "286b557146064775d3b0e1ce03b91a50af5882a13455df0b5f90c504c1bcab19",
+      "supportingReview": "reviews/expansion/d-psychosocial-076-100.followup1.json",
+      "reviewedAt": "2026-10-01T18:26:56.839962+00:00"
+    },
+    {
+      "id": "x-psychosocial-082",
+      "status": "pass",
+      "reviewedItemSha256": "d21e4a405c72190d82313a11c8e764d0bf700ac612dd17398fe34742dcc69500",
+      "supportingReview": "reviews/expansion/d-psychosocial-076-100.followup1.json",
+      "reviewedAt": "2026-10-01T18:26:56.839962+00:00"
+    },
+    {
+      "id": "x-psychosocial-083",
+      "status": "pass",
+      "reviewedItemSha256": "8fda119cf03cfad10c3368a65adb87973d0b1406e1e6b649a062df30d16336f7",
+      "supportingReview": "reviews/expansion/d-psychosocial-076-100.followup1.json",
+      "reviewedAt": "2026-10-01T18:26:56.839962+00:00"
+    },
+    {
+      "id": "x-psychosocial-084",
+      "status": "pass",
+      "reviewedItemSha256": "a463333ddaa3f072449c296b9454e023aa8a616ff2d9bac5dfef1e3b376c3389",
+      "supportingReview": "reviews/expansion/d-psychosocial-076-100.followup1.json",
+      "reviewedAt": "2026-10-01T18:26:56.839962+00:00"
+    },
+    {
+      "id": "x-psychosocial-085",
+      "status": "pass",
+      "reviewedItemSha256": "30b00dc217ce41f1cba35f9e3f2916b312027256c533005ba105a4005c4ef75a",
+      "supportingReview": "reviews/expansion/d-psychosocial-076-100.final4-recheck.json",
+      "reviewedAt": "2026-10-01T18:30:29.939398+00:00"
+    },
+    {
+      "id": "x-psychosocial-086",
+      "status": "pass",
+      "reviewedItemSha256": "46057d99505b5c5b9e1b128dad94394db23e67b2e83152a38dc656fea37d1194",
+      "supportingReview": "reviews/expansion/d-psychosocial-076-100.followup1.json",
+      "reviewedAt": "2026-10-01T18:26:56.839962+00:00"
+    },
+    {
+      "id": "x-psychosocial-087",
+      "status": "pass",
+      "reviewedItemSha256": "e5b2c0ffa6db5768075c6a6dfd5fad8fe51ea995e42ac8cdd198c8246111ac6a",
+      "supportingReview": "reviews/expansion/d-psychosocial-076-100.followup1.json",
+      "reviewedAt": "2026-10-01T18:26:56.839962+00:00"
+    },
+    {
+      "id": "x-psychosocial-088",
+      "status": "pass",
+      "reviewedItemSha256": "9e9b934ceeb2af2bf1a0628876696cce09586c4220ceaead07557c0052a77d47",
+      "supportingReview": "reviews/expansion/d-psychosocial-076-100.followup1.json",
+      "reviewedAt": "2026-10-01T18:26:56.839962+00:00"
+    },
+    {
+      "id": "x-psychosocial-089",
+      "status": "pass",
+      "reviewedItemSha256": "21e94f1bbe63b3dba9b70dd5d1b6a23dd5c2d04f203f207d4439c3934b8950be",
+      "supportingReview": "reviews/expansion/d-psychosocial-076-100.final4-recheck.json",
+      "reviewedAt": "2026-10-01T18:30:29.939398+00:00"
+    },
+    {
+      "id": "x-psychosocial-090",
+      "status": "pass",
+      "reviewedItemSha256": "21bf3c1e766441f36bc19684293198b5a8a9672ff52cfcb89410790d4808e934",
+      "supportingReview": "reviews/expansion/d-psychosocial-076-100.followup1.json",
+      "reviewedAt": "2026-10-01T18:26:56.839962+00:00"
+    },
+    {
+      "id": "x-psychosocial-091",
+      "status": "pass",
+      "reviewedItemSha256": "cd196587c7d981c47df946e17344f2de9c02964d9f17c48be67be1834d17bc48",
+      "supportingReview": "reviews/expansion/d-psychosocial-076-100.followup1.json",
+      "reviewedAt": "2026-10-01T18:26:56.839962+00:00"
+    },
+    {
+      "id": "x-psychosocial-092",
+      "status": "pass",
+      "reviewedItemSha256": "1c65bd7cbb341938104fc2f1866b92f30ea26c0c86a3f505a9f42eff75524440",
+      "supportingReview": "reviews/expansion/d-psychosocial-076-100.followup1.json",
+      "reviewedAt": "2026-10-01T18:26:56.839962+00:00"
+    },
+    {
+      "id": "x-psychosocial-093",
+      "status": "pass",
+      "reviewedItemSha256": "344cd01c468d5484640a7f01fef394861c89a09207050f706175fbafd7a5ef43",
+      "supportingReview": "reviews/expansion/d-psychosocial-076-100.followup1.json",
+      "reviewedAt": "2026-10-01T18:26:56.839962+00:00"
+    },
+    {
+      "id": "x-psychosocial-094",
+      "status": "pass",
+      "reviewedItemSha256": "e7168dcbe5f08b5571772eeda03d11acd97ff31381e35a5c2b14eeb258ddda50",
+      "supportingReview": "reviews/expansion/d-psychosocial-076-100.followup1.json",
+      "reviewedAt": "2026-10-01T18:26:56.839962+00:00"
+    },
+    {
+      "id": "x-psychosocial-095",
+      "status": "pass",
+      "reviewedItemSha256": "77998fcaef48012937e5993ac399dbd53290a532498d742022d8fc599732cf3b",
+      "supportingReview": "reviews/expansion/d-psychosocial-076-100.followup1.json",
+      "reviewedAt": "2026-10-01T18:26:56.839962+00:00"
+    },
+    {
+      "id": "x-psychosocial-096",
+      "status": "pass",
+      "reviewedItemSha256": "49dc4c2ac7e328bb646c0f1a1b68f027001ffe9492edb732209d6e592269911a",
+      "supportingReview": "reviews/expansion/d-psychosocial-076-100.followup1.json",
+      "reviewedAt": "2026-10-01T18:26:56.839962+00:00"
+    },
+    {
+      "id": "x-psychosocial-097",
+      "status": "pass",
+      "reviewedItemSha256": "1192f8e618e7ce5d46833628cab9fd0a9f95bf1825526251924419e75543cecb",
+      "supportingReview": "reviews/expansion/d-psychosocial-076-100.final4-recheck.json",
+      "reviewedAt": "2026-10-01T18:30:29.939398+00:00"
+    },
+    {
+      "id": "x-psychosocial-098",
+      "status": "pass",
+      "reviewedItemSha256": "9add30d95753d8859af9f3894eada96ae0eb31c524f62fbad0f4b4abf0449cc9",
+      "supportingReview": "reviews/expansion/d-psychosocial-076-100.followup1.json",
+      "reviewedAt": "2026-10-01T18:26:56.839962+00:00"
+    },
+    {
+      "id": "x-psychosocial-099",
+      "status": "pass",
+      "reviewedItemSha256": "e30fa5ef40c9d716938b4421e510b7b2631202b2f6fdecc437560f6f6ea264d2",
+      "supportingReview": "reviews/expansion/d-psychosocial-076-100.final4-recheck.json",
+      "reviewedAt": "2026-10-01T18:30:29.939398+00:00"
+    },
+    {
+      "id": "x-psychosocial-100",
+      "status": "pass",
+      "reviewedItemSha256": "f9d6f1500c308572f81a8877eca1392c2ad9c0d4569f9cb497c7faed3750c31a",
+      "supportingReview": "reviews/expansion/d-psychosocial-076-100.followup1.json",
+      "reviewedAt": "2026-10-01T18:26:56.839962+00:00"
+    }
+  ]
+}

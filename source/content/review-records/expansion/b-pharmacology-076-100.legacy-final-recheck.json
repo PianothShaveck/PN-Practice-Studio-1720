@@ -1,0 +1,486 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T18:07:27.138311+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/b-final-recheck-input/pharmacology-04.json",
+  "sourceSha256": "9c6f11c39e53bc5ca4710d0303f056e2cf35362f8397bc83f2ccacc0fd0d2578",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-pharmacology-076",
+      "x-pharmacology-077",
+      "x-pharmacology-078",
+      "x-pharmacology-079",
+      "x-pharmacology-080",
+      "x-pharmacology-081",
+      "x-pharmacology-082",
+      "x-pharmacology-083",
+      "x-pharmacology-084",
+      "x-pharmacology-085",
+      "x-pharmacology-086",
+      "x-pharmacology-087",
+      "x-pharmacology-088",
+      "x-pharmacology-089",
+      "x-pharmacology-090",
+      "x-pharmacology-091",
+      "x-pharmacology-092",
+      "x-pharmacology-093",
+      "x-pharmacology-094",
+      "x-pharmacology-095",
+      "x-pharmacology-096",
+      "x-pharmacology-097",
+      "x-pharmacology-098",
+      "x-pharmacology-099",
+      "x-pharmacology-100"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Full current-item reread against prior snapshot-validation findings, including all options, key, explanations and metadata. Original snapshots preserved. Each status manually reasoned; not blanket approval.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "ids": [
+        "x-pharmacology-085"
+      ],
+      "url": "https://medlineplus.gov/druginfo/meds/a688016.html",
+      "checked": true,
+      "accessMode": "primary drug-information search excerpt",
+      "note": "Explicitly advises stop ciprofloxacin, rest and call immediately for tendon pain; basis for safety addition to key."
+    },
+    {
+      "ids": [
+        "x-pharmacology-095"
+      ],
+      "url": "https://www.dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=9143b79c-4c79-43ac-e053-2995a90ad708&type=display",
+      "checked": true,
+      "accessMode": "primary prescribing-label search excerpt",
+      "note": "Clarithromycin with simvastatin contraindicated because of increased myopathy/rhabdomyolysis risk; no dose instructions imported."
+    },
+    {
+      "ids": [
+        "x-pharmacology-096"
+      ],
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?audience=consumer&setid=31f9e720-3869-061f-e063-6294a90a43b4",
+      "checked": true,
+      "note": "Opened current TMP-SMX label; interaction table explicitly identifies ACE inhibitors and hyperkalaemia. Revised item requires review, not autonomous electrolyte treatment."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-pharmacology-076",
+      "status": "pass",
+      "assessment": "Stable client with an immediately accessible sampling port permits ordered culture collection before antibiotics without waiting for culture results. Old drainage-bag urine is not a fresh diagnostic sample; the amended catheter context resolves applicability.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b128823c5792b388444f43abbfe906e10d2ae930333674eb521bea2f0b689d1c"
+    },
+    {
+      "id": "x-pharmacology-077",
+      "status": "pass",
+      "assessment": "Susceptibility results plus response support team review for targeted effective coverage. Completing broad treatment on improvement alone, unnecessary overlap and a mandatory repeat culture are plausible stewardship errors; nurse does not independently switch agents.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a65c102b8a1049e330c7ad734ebc16a7d41fac209bf666989533f15808ca2e29"
+    },
+    {
+      "id": "x-pharmacology-078",
+      "status": "revise",
+      "assessment": "Reaction details are correctly elicited, but the avoidance alternative declares missing clarification. Remove that cue while retaining the clinically meaningful overgeneralization.",
+      "issues": [
+        "Reaction details are correctly elicited, but the avoidance alternative declares missing clarification. Remove that cue while retaining the clinically meaningful overgeneralization."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Remove the allergy because no written proof is available",
+            "Request an antibiotic from a different class because penicillins and cephalosporins are both beta-lactams",
+            "Ask what happened, when it occurred and what treatment was needed",
+            "Assume nausea and airway swelling carry the same risk"
+          ],
+          "why": [
+            "An undocumented history still needs investigation before removal.",
+            "A shared broad class does not establish identical allergy risk for every product; the reaction history and proposed antibiotic need assessment.",
+            "Reaction characteristics help the team assess the allergy and antibiotic plan.",
+            "Different reaction types require different clinical interpretation."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "7961e115fd7227f0b618650843cd458490a1cc4e23b3fe06f6daa583cc537185"
+    },
+    {
+      "id": "x-pharmacology-079",
+      "status": "revise",
+      "assessment": "Current high stool frequency, cramps and thirst justify timely hydration/infection assessment. The later-sample alternative explicitly admits ignoring current care.",
+      "issues": [
+        "Current high stool frequency, cramps and thirst justify timely hydration/infection assessment. The later-sample alternative explicitly admits ignoring current care."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Recommend loperamide before evaluating the cause",
+            "Give routine intolerance advice because no fever is reported",
+            "Arrange a stool sample for the next clinic day before deciding on further care",
+            "Assess hydration and report possible antibiotic-associated infection"
+          ],
+          "why": [
+            "Antimotility treatment may be inappropriate with suspected infectious colitis.",
+            "Absence of fever does not exclude important antibiotic-associated infection or dehydration.",
+            "Delaying the decision until a later sample does not address current fluid losses and possible transmissible infection.",
+            "Frequent diarrhea and thirst raise concerns about colitis and fluid depletion."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "67e0dac0751a6687214a07e193905d6adc5e2c0d0c6cc35cb7c821af6a42da8e"
+    },
+    {
+      "id": "x-pharmacology-080",
+      "status": "pass",
+      "assessment": "Improving respiratory/temperature trends and function at equal oxygen support indicate response. Antipyretic masking, somnolence or hypotension outweigh isolated apparently improved measures; both selected outcomes are supported.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a59905ef2b69cb7524e90509ad6f31ac87fb7c7fc978b4946c58a597bdf81478"
+    },
+    {
+      "id": "x-pharmacology-081",
+      "status": "pass",
+      "assessment": "New tinnitus and unsteadiness during gentamicin raise auditory/vestibular toxicity concern before confirmed hearing loss; prompt report and next-dose clarification avoid further unreviewed exposure.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c6a64df0c18a8e5b78824d3cf19677761143685d8c2ec54c702b0d49c8cb8a6a"
+    },
+    {
+      "id": "x-pharmacology-082",
+      "status": "revise",
+      "assessment": "Current renal decline invalidates reliance on an older drug level. The fluid-intake alternative is made wrong by the word only; replace with a realistic but insufficient volume-focused check.",
+      "issues": [
+        "Current renal decline invalidates reliance on an older drug level. The fluid-intake alternative is made wrong by the word only; replace with a realistic but insufficient volume-focused check."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Increase the dose because less drug reaches the urine",
+            "Compare today’s oral intake with yesterday’s before approving the dose",
+            "Request prompt review of current levels and dosing",
+            "Use the prior drug level to approve the next several doses"
+          ],
+          "why": [
+            "Reduced elimination generally raises systemic accumulation concerns.",
+            "Intake comparison may inform hydration assessment but cannot establish current gentamicin clearance or safety with rising creatinine and falling urine output.",
+            "Reduced clearance can increase exposure after a previously acceptable level.",
+            "An earlier level may no longer represent the client's exposure."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "c65b18e336af13bbc9efe070e9f5ec90b156f08718fe09a9146414a6183880f3"
+    },
+    {
+      "id": "x-pharmacology-083",
+      "status": "revise",
+      "assessment": "Pause/assess/report is appropriate for a stable possible vancomycin infusion reaction. The rate alternative explicitly says it will not report the event; make it a plausible premature restart plan.",
+      "issues": [
+        "Pause/assess/report is appropriate for a stable possible vancomycin infusion reaction. The rate alternative explicitly says it will not report the event; make it a plausible premature restart plan."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Continue unchanged because blood pressure is normal",
+            "Label all future glycopeptides as confirmed anaphylactic allergies",
+            "Reduce the rate until flushing settles, then restore the prescribed rate",
+            "Pause the infusion and assess/report the reaction"
+          ],
+          "why": [
+            "Stable pressure does not justify ignoring a new infusion reaction.",
+            "The current findings do not establish that specific immune mechanism.",
+            "Symptom improvement after slowing does not establish a safe restart plan; the reaction first needs assessment and an authorized administration decision.",
+            "The pattern may be infusion related, but assessment is needed before a revised plan."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "4efd819c15a6555b73c1b40adebc4ade74dffa7b6ce3e1538fe430a615a9eb5c"
+    },
+    {
+      "id": "x-pharmacology-084",
+      "status": "revise",
+      "assessment": "Painful spreading rash plus mucosal sores on TMP-SMX warrants urgent severe-reaction assessment. Remove the only qualifier in the antihistamine alternative.",
+      "issues": [
+        "Painful spreading rash plus mucosal sores on TMP-SMX warrants urgent severe-reaction assessment. Remove the only qualifier in the antihistamine alternative."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Urgently escalate and withhold further doses pending review",
+            "Give the next dose after an antihistamine reduces the itching",
+            "Treat mouth sores as thrush separate from a mild skin eruption",
+            "Request a routine dose reduction while continuing the medicine"
+          ],
+          "why": [
+            "Painful rash with mucosal involvement suggests a potentially severe drug reaction.",
+            "Reduced itching does not exclude severe mucocutaneous injury or make further exposure safe.",
+            "The combined mucosal and painful skin findings require consideration of a severe drug reaction.",
+            "Continuing exposure during a possible severe reaction can worsen harm."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "ff2529a3028d65d85df6f4b577fd300f49d8fcfbddf8ff23d2eb2e97d4cadae5"
+    },
+    {
+      "id": "x-pharmacology-085",
+      "status": "revise",
+      "assessment": "The tendon warning is identified correctly, but key advice omits the recommended stop/withhold instruction while contacting the prescriber. Add this explicit safety step supported by drug information.",
+      "issues": [
+        "The tendon warning is identified correctly, but key advice omits the recommended stop/withhold instruction while contacting the prescriber. Add this explicit safety step supported by drug information."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Reduce running distance and discuss the pain at routine follow-up",
+            "Withhold further ciprofloxacin, rest the tendon and contact the prescriber promptly",
+            "Stretch forcefully before the next dose",
+            "Continue usual running unless swelling becomes visible"
+          ],
+          "why": [
+            "New tendon pain warrants prompt review and avoidance of tendon stress.",
+            "New tendon pain requires stopping further exposure and avoiding tendon stress while the treatment plan is urgently reviewed.",
+            "Loading a potentially injured tendon may increase rupture risk.",
+            "Pain can precede marked swelling or rupture."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "63e99f5f5cd8f5c0279d04d38c2e155eb21de2225d6bbccfd1eabbffb9a4e1ff"
+    },
+    {
+      "id": "x-pharmacology-086",
+      "status": "pass",
+      "assessment": "Calcium and antacid minerals can reduce doxycycline absorption; product-specific separation should be verified. Separating just one mineral source, adding food or an extra tablet does not reliably resolve the interaction. Foundation label fits.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "bf1c54ac69601919a14930392c1d7be41830de74baf10c23cf3c4ce94293a8f3"
+    },
+    {
+      "id": "x-pharmacology-087",
+      "status": "pass",
+      "assessment": "Isolated orange urine during rifampin without other concerning symptoms can be expected discoloration. Explanation plus reporting precautions is better than assuming bleeding, dehydration or stopping therapy; foundation label fits.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "dca9128008269f76f2d034ed2d27b7652c8ecc68eb4440e88def0cd427febf56"
+    },
+    {
+      "id": "x-pharmacology-088",
+      "status": "pass",
+      "assessment": "New colour-perception and acuity changes during ethambutol warrant prompt assessment before more exposure. Absence of pain or the prospect of stronger glasses cannot exclude optic toxicity.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4baf072a3fb164c4194e9589093457eb2ba1282f4f2518aa821a4c9200df6655"
+    },
+    {
+      "id": "x-pharmacology-089",
+      "status": "revise",
+      "assessment": "Neuropathy assessment plus the missed pyridoxine history is appropriate. Two alternatives explicitly advertise nonreview/nondisclosure rather than realistic competing care plans.",
+      "issues": [
+        "Neuropathy assessment plus the missed pyridoxine history is appropriate. Two alternatives explicitly advertise nonreview/nondisclosure rather than realistic competing care plans."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Try wider footwear and reassess whether tingling improves over the coming week",
+            "Assess and report the tingling and missed pyridoxine",
+            "Restart pyridoxine and wait until the routine visit to mention symptoms",
+            "Provide foot-comfort advice and request an analgesic for the discomfort"
+          ],
+          "why": [
+            "A mechanical explanation should not postpone review of new bilateral tingling during isoniazid treatment with missed supplementation.",
+            "Possible isoniazid-related neuropathy and the supplementation plan require review.",
+            "Resuming supplementation does not remove the need to assess newly developed neuropathy.",
+            "Symptom management alone does not evaluate possible treatment-related neuropathy or address the missed pyridoxine plan."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "247b618411d1805703f3a70a804f3024099a0e0ed72bc472f3da08b90d04f096"
+    },
+    {
+      "id": "x-pharmacology-090",
+      "status": "pass",
+      "assessment": "Exploring tolerability/barriers and explaining prescribed combination therapy address contemplated partial TB treatment. Self-selecting one drug, saving doses for later and relying on symptom improvement risk failure/resistance.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2c53ab6f206079ed2d131a81a463c697f2cb545814b40b28547819eb6f7fd59b"
+    },
+    {
+      "id": "x-pharmacology-091",
+      "status": "pass",
+      "assessment": "Oral vancomycin delivers medicine to the intestinal treatment site; IV access convenience, equal-dose interchange and a mild-disease-only rule misconstrue route purpose. Foundation demand is explicit.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f3fd07b3781779aeae508334deb3f80c7e9510a2ae4f386ef84df5ba57cda40f"
+    },
+    {
+      "id": "x-pharmacology-092",
+      "status": "pass",
+      "assessment": "Oral nystatin requires prescribed mucosal contact rather than immediate swallowing/dilution/rinsing. Disappearing one patch does not independently define course completion; foundation label is appropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "39b2baeb03a91ec65612969047e55606895c7a62796368493b2283db2b363494"
+    },
+    {
+      "id": "x-pharmacology-093",
+      "status": "revise",
+      "assessment": "Fluconazole/warfarin require interaction and anticoagulation follow-up. The dose-spacing alternative need not announce it is the only precaution.",
+      "issues": [
+        "Fluconazole/warfarin require interaction and anticoagulation follow-up. The dose-spacing alternative need not announce it is the only precaution."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Advise extra vitamin K foods to offset the new drug",
+            "Interaction review and an appropriate anticoagulation-monitoring plan",
+            "Continue usual monitoring because both doses are standard",
+            "Take warfarin and fluconazole at different times of day to prevent the interaction"
+          ],
+          "why": [
+            "Unplanned dietary compensation makes anticoagulation less predictable.",
+            "Fluconazole can increase warfarin effect and bleeding risk.",
+            "Standard doses do not exclude a clinically significant interaction.",
+            "Timing separation does not prevent the metabolic effect that can increase warfarin exposure."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "5cbe7788688db22cb527c9ca0a0c45c10c4b99e86aadd461f69a1d2d5a47a037"
+    },
+    {
+      "id": "x-pharmacology-094",
+      "status": "revise",
+      "assessment": "Concurrent QT-active therapy plus low potassium appropriately triggers regimen/electrolyte review. Remove the explicit alone qualifier while retaining the inadequate pulse-reassurance error.",
+      "issues": [
+        "Concurrent QT-active therapy plus low potassium appropriately triggers regimen/electrolyte review. Remove the explicit alone qualifier while retaining the inadequate pulse-reassurance error."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Separate the two medicines by one hour",
+            "Check pulse regularity and proceed if the pulse remains regular",
+            "Clarify the regimen and electrolyte correction/monitoring plan",
+            "Give the antibiotic because there is no current chest pain"
+          ],
+          "why": [
+            "Timing separation does not reliably remove their electrophysiological interaction.",
+            "A regular palpable pulse does not measure QT interval or remove hypokalaemia-related dysrhythmia risk.",
+            "Combined QT risk and hypokalemia can increase dysrhythmia risk.",
+            "Dysrhythmia risk can exist without chest pain."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "719baed699d4a18d1c570ee148452c2ebd90d61416e0f910db384a86726b7a07"
+    },
+    {
+      "id": "x-pharmacology-095",
+      "status": "pass",
+      "assessment": "The revised named simvastatin/clarithromycin case establishes urgent interaction clarification before asking the additional symptom focus. Muscle pain/weakness/dark urine fit increased statin exposure; other adverse-effect patterns are plausible pharmacology distinctions. Primary label confirms contraindication and rhabdomyolysis concern.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "100153db5e5c14c879e72f3748d0aa3fa8ee3b568634c7a9174e6dc510f05275"
+    },
+    {
+      "id": "x-pharmacology-096",
+      "status": "revise",
+      "assessment": "The stated elevated potassium makes potassium loss an impossible distractor, and the original key simply repeats the named interaction. Convert it into a clinically useful response to the trend with plausible monitoring/timing alternatives.",
+      "issues": [
+        "The stated elevated potassium makes potassium loss an impossible distractor, and the original key simply repeats the named interaction. Convert it into a clinically useful response to the trend with plausible monitoring/timing alternatives."
+      ],
+      "proposedChanges": [
+        {
+          "stem": "A client taking ramipril develops new weakness after starting trimethoprim-sulfamethoxazole. Potassium rises from 4.4 to 5.8 mmol/L (reference 3.5–5.0), while creatinine is unchanged and the radial pulse is regular. What should the nurse do next?",
+          "options": [
+            "Promptly report the potassium trend, weakness and medicines for rhythm and treatment review",
+            "Arrange a repeat potassium at tomorrow’s routine blood draw because creatinine is unchanged",
+            "Continue the current regimen while checking for an irregular pulse at routine observations",
+            "Separate ramipril and the antibiotic between morning and evening doses"
+          ],
+          "why": [
+            "The drug combination can raise potassium; a new elevation with weakness needs prompt clinical review despite a currently regular pulse.",
+            "Stable creatinine does not exclude a medication-related potassium rise or justify postponing assessment of new symptoms.",
+            "A regular palpable pulse does not exclude an important potassium disturbance or establish the regimen is safe to continue.",
+            "Dose spacing does not remove the potassium-retaining effects of trimethoprim and ACE inhibition."
+          ],
+          "takeaway": "Assess a new symptomatic potassium rise during interacting therapy even when creatinine and pulse appear stable.",
+          "learningObjective": "Integrate potassium trend, new symptoms and interacting therapy to select prompt treatment review.",
+          "reasoningSkill": "intervention"
+        }
+      ],
+      "reviewedItemSha256": "46ff93d1a72f6a44c40b944f4326818d51aa4c46f65bb8335140822097c36150"
+    },
+    {
+      "id": "x-pharmacology-097",
+      "status": "revise",
+      "assessment": "Product-specific feed/antibiotic coordination is correct. The generic-hold distractor advertises lack of checking; remove that qualifier.",
+      "issues": [
+        "Product-specific feed/antibiotic coordination is correct. The generic-hold distractor advertises lack of checking; remove that qualifier."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Increase the antibiotic amount to compensate for reduced absorption",
+            "Obtain a product-specific timing or alternative-route plan",
+            "Apply the same two-hour feed hold used for another antibiotic",
+            "Mix the antibiotic directly into the feed to dilute minerals"
+          ],
+          "why": [
+            "Unprescribed dose compensation is unreliable and potentially unsafe.",
+            "The interaction and nutrition requirements need coordinated management.",
+            "The appropriate interval depends on this product, the interaction and nutrition requirements; a schedule for another antibiotic is not interchangeable.",
+            "Mixing may worsen binding and make dosing incomplete."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "8496d24fad6c2b32aa95f2f95b6a2802254b4f85aa9dc1c8bf19869c39255970"
+    },
+    {
+      "id": "x-pharmacology-098",
+      "status": "revise",
+      "assessment": "New fever/flank pain/vomiting requires assessment for progression beyond cystitis. The routine-testing alternative explicitly announces absent systemic assessment.",
+      "issues": [
+        "New fever/flank pain/vomiting requires assessment for progression beyond cystitis. The routine-testing alternative explicitly announces absent systemic assessment."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Continue the lower-UTI plan if an antiemetic relieves vomiting",
+            "Arrange repeat urine testing at the next routine visit to compare with the initial sample",
+            "Promptly assess possible upper infection and review the regimen",
+            "Request a urinary analgesic to address the new flank discomfort"
+          ],
+          "why": [
+            "Reduced vomiting would not remove the significance of fever and flank pain.",
+            "Routine delayed sampling is insufficient for newly systemic and flank symptoms that may indicate upper-tract infection.",
+            "Fever, flank pain and vomiting suggest progression beyond bladder-focused treatment.",
+            "Pain relief alone does not assess a possible upper urinary infection."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "6441f9a132fd0e371c3b9dddee7e75cb035f5d0ef049e26afa67761a24957f65"
+    },
+    {
+      "id": "x-pharmacology-099",
+      "status": "pass",
+      "assessment": "Following the individualized prescribed duration and promptly reporting severe adverse effects avoid symptom-based guessing, sharing, stockpiling and arbitrary restarting; wording permits the team to change treatment when warranted.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8ffc6d93dae90fb85716b03e4f7fb5bf3e478a080f610738371748a7d13154a2"
+    },
+    {
+      "id": "x-pharmacology-100",
+      "status": "pass",
+      "assessment": "Reporting complications and observed aseptic connections support home-IV readiness. Flexible unprescribed rate changes, appearance-only identification and assuming alarms detect every site problem do not establish safe competence.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8aaa90a8b9c95c151bd3cd66c883ef0cc9faa96ac6cf35455da0ed805f92b058"
+    }
+  ],
+  "activeSourceFile": "authoring/b/pharmacology-04.json",
+  "reviewerTask": "/root/review_legacy"
+}

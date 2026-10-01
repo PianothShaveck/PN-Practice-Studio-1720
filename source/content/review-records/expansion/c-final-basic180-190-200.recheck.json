@@ -1,0 +1,75 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:45:48.073612+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/basic-176-200.json",
+  "sourceSha256": "29e8d619867a1a552305c600af6d9d749c266c284478427d92ce12b5e20125fa",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 3,
+    "reviewedIds": [
+      "x-basic-180",
+      "x-basic-190",
+      "x-basic-200"
+    ],
+    "unreviewedIds": [
+      "x-basic-176",
+      "x-basic-177",
+      "x-basic-178",
+      "x-basic-179",
+      "x-basic-181",
+      "x-basic-182",
+      "x-basic-183",
+      "x-basic-184",
+      "x-basic-185",
+      "x-basic-186",
+      "x-basic-187",
+      "x-basic-188",
+      "x-basic-189",
+      "x-basic-191",
+      "x-basic-192",
+      "x-basic-193",
+      "x-basic-194",
+      "x-basic-195",
+      "x-basic-196",
+      "x-basic-197",
+      "x-basic-198",
+      "x-basic-199"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-basic-180",
+      "status": "pass",
+      "assessment": "Current item reread: prolonged hip flexion conflicts with the supplied extension programme; above-knee aftercare now matches the amputation level. Position choice remains therapist-prescribed and tolerated.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6f7f3be365fc41d656061addd2da3fd35cdb9176b0edf9f9093d5b939db5d688"
+    },
+    {
+      "id": "x-basic-190",
+      "status": "pass",
+      "assessment": "Current item reread: a large surface-height difference is a correctable transfer-board setup hazard. Transfers-specific guidance replaces general immobility background; technique remains trained and assisted.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "28679218f10dc3a6d8198ecbc1cb4f88a747c624dd752e6584baa16bcb7fa191"
+    },
+    {
+      "id": "x-basic-200",
+      "status": "pass",
+      "assessment": "Current item reread: simplifying agreed actions and checking teach-back addresses usable self-care under symptoms. AHRQ teach-back source now directly supports the communication method, alongside pain context.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d14af45a2f47e788491af8d9a4cbc280d08627e50409fa8b0c02d1420b1c7f90"
+    }
+  ],
+  "reviewerTask": "/root/review_legacy"
+}

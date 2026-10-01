@@ -1,0 +1,464 @@
+{
+  "ba-uppergi": {
+    "name": "OpenStax · Upper gastrointestinal disorders",
+    "url": "https://openstax.org/books/medical-surgical-nursing/pages/19-4-disorders-of-the-upper-gi-system",
+    "kind": "Open nursing textbook",
+    "checkedDate": "2026-10-01",
+    "scope": "GI bleeding and upper GI complications"
+  },
+  "ba-hepatic": {
+    "name": "OpenStax · Hepatic and biliary disorders",
+    "url": "https://openstax.org/books/medical-surgical-nursing/pages/19-6-hepatic-and-biliary-disorders",
+    "kind": "Open nursing textbook",
+    "checkedDate": "2026-10-01",
+    "scope": "Cirrhosis, ascites and hepatic encephalopathy"
+  },
+  "ba-pancreatitis": {
+    "name": "NIDDK · Pancreatitis treatment",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/pancreatitis/treatment",
+    "kind": "Government health information",
+    "checkedDate": "2026-10-01",
+    "scope": "Supportive treatment, nutrition and complications"
+  },
+  "ba-pancreatic-insufficiency": {
+    "name": "NIDDK · Exocrine pancreatic insufficiency treatment",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/exocrine-pancreatic-insufficiency/treatment",
+    "kind": "Government health information",
+    "checkedDate": "2026-10-01",
+    "scope": "Enzyme replacement with meals and snacks"
+  },
+  "ba-obstruction": {
+    "name": "MedlinePlus · Intestinal obstruction",
+    "url": "https://medlineplus.gov/intestinalobstruction.html",
+    "kind": "Government health information",
+    "checkedDate": "2026-10-01",
+    "scope": "Symptoms and risks of intestinal obstruction"
+  },
+  "ba-crohns": {
+    "name": "NIDDK · Crohn disease",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/crohns-disease/definition-facts",
+    "kind": "Government health information",
+    "checkedDate": "2026-10-01",
+    "scope": "Obstruction as a complication of Crohn disease"
+  },
+  "ba-ulcerative-colitis": {
+    "name": "OpenStax · Lower GI disorders",
+    "url": "https://openstax.org/books/medical-surgical-nursing/pages/19-5-disorders-of-the-lower-gi-system",
+    "kind": "Open nursing textbook",
+    "checkedDate": "2026-10-01",
+    "scope": "Severe colitis and abdominal complications"
+  },
+  "ba-ostomy": {
+    "name": "NIDDK · Ostomy complications",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/ostomy-surgery-bowel/complications",
+    "kind": "Government health information",
+    "checkedDate": "2026-10-01",
+    "scope": "Stoma blood supply, dehydration and obstruction"
+  },
+  "ba-ileostomy": {
+    "name": "NIDDK · After ostomy surgery",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/ostomy-surgery-bowel/after",
+    "kind": "Government health information",
+    "checkedDate": "2026-10-01",
+    "scope": "Fluid absorption changes and distal mucus production"
+  },
+  "ba-reflux": {
+    "name": "NIDDK · GERD symptoms",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/acid-reflux-ger-gerd-adults/symptoms-causes",
+    "kind": "Government health information",
+    "checkedDate": "2026-10-01",
+    "scope": "Dysphagia and unexplained weight loss as warning symptoms"
+  },
+  "ba-food-impaction": {
+    "name": "Merck Manual · Oesophageal foreign bodies",
+    "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/bezoars-and-foreign-bodies/esophageal-foreign-bodies?media=print",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Complete obstruction and inability to manage secretions"
+  },
+  "ba-dumping": {
+    "name": "NIDDK · Nutrition for dumping syndrome",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/dumping-syndrome/eating-diet-nutrition",
+    "kind": "Government health information",
+    "checkedDate": "2026-10-01",
+    "scope": "Meal size, fluid timing and concentrated sugars"
+  },
+  "ba-esophagectomy": {
+    "name": "UHN · Esophagectomy",
+    "url": "https://www.uhn.ca/PatientsFamilies/Health_Information/Health_Topics/Documents/Esophagectomy.pdf",
+    "kind": "Canadian hospital patient information",
+    "checkedDate": "2026-10-01",
+    "scope": "Recovery and postoperative warning signs; general context"
+  },
+  "ba-ulcer": {
+    "name": "MedlinePlus · Peptic ulcer",
+    "url": "https://medlineplus.gov/ency/article/000206.htm",
+    "kind": "Government health information",
+    "checkedDate": "2026-10-01",
+    "scope": "Sudden severe abdominal pain as a warning symptom"
+  },
+  "ba-bariatric": {
+    "name": "UHN · After bariatric surgery",
+    "url": "https://www.uhn.ca/PatientsFamilies/Health_Information/Health_Topics/Documents/After_Your_Gastric_Bypass_Surgery.pdf",
+    "kind": "Canadian hospital patient information",
+    "checkedDate": "2026-10-01",
+    "scope": "New or worsening postoperative pain and urgent assessment"
+  },
+  "ba-cholangitis": {
+    "name": "MSD Manual · Choledocholithiasis and cholangitis",
+    "url": "https://www.msdmanuals.com/professional/hepatic-and-biliary-disorders/gallbladder-and-bile-duct-disorders/choledocholithiasis-and-cholangitis",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Biliary obstruction, fever and haemodynamic deterioration"
+  },
+  "ba-anaemia": {
+    "name": "Canadian Cancer Society · Low red blood cell count",
+    "url": "https://cdn.cancer.ca/en/treatments/side-effects/low-red-blood-cell-count",
+    "kind": "Canadian cancer education",
+    "checkedDate": "2026-10-01",
+    "scope": "Symptoms and activity pacing"
+  },
+  "ba-platelets": {
+    "name": "Canadian Cancer Society · Low platelet count",
+    "url": "https://cdn.cancer.ca/en/treatments/side-effects/low-platelet-count",
+    "kind": "Canadian cancer education",
+    "checkedDate": "2026-10-01",
+    "scope": "Bleeding risk after minor injury"
+  },
+  "ba-neutropenia": {
+    "name": "Canadian Cancer Society · Low white blood cell count",
+    "url": "https://cancer.ca/en/treatments/side-effects/low-white-blood-cell-count",
+    "kind": "Canadian cancer education",
+    "checkedDate": "2026-10-01",
+    "scope": "Infection risk in neutropenia"
+  },
+  "ba-mucositis": {
+    "name": "Canadian Cancer Society · Sore mouth and throat",
+    "url": "https://cancer.ca/en/treatments/side-effects/sore-mouth-and-throat",
+    "kind": "Canadian cancer education",
+    "checkedDate": "2026-10-01",
+    "scope": "Pain, swallowing and nutritional consequences"
+  },
+  "ba-tls": {
+    "name": "Canadian Cancer Society · Tumour lysis syndrome",
+    "url": "https://cancer.ca/en/treatments/side-effects/tumour-lysis-syndrome",
+    "kind": "Canadian cancer education",
+    "checkedDate": "2026-10-01",
+    "scope": "Combined metabolic changes after cancer treatment"
+  },
+  "ba-svcs": {
+    "name": "Canadian Cancer Society · Superior vena cava syndrome",
+    "url": "https://cancer.ca/en/treatments/side-effects/superior-vena-cava-syndrome",
+    "kind": "Canadian cancer education",
+    "checkedDate": "2026-10-01",
+    "scope": "Symptoms and supportive treatment"
+  },
+  "ba-cord": {
+    "name": "Canadian Cancer Society · Spinal cord compression",
+    "url": "https://cancer.ca/en/treatments/side-effects/spinal-cord-compression",
+    "kind": "Canadian cancer education",
+    "checkedDate": "2026-10-01",
+    "scope": "New neurological and bladder symptoms require urgent assessment"
+  },
+  "ba-hypercalcaemia": {
+    "name": "Canadian Cancer Society · High calcium levels",
+    "url": "https://cancer.ca/en/treatments/side-effects/high-calcium-levels",
+    "kind": "Canadian cancer education",
+    "checkedDate": "2026-10-01",
+    "scope": "Metabolic symptoms and hydration treatment"
+  },
+  "ba-bone-mets": {
+    "name": "Canadian Cancer Society · Bone metastases",
+    "url": "https://cancer.ca/en/cancer-information/cancer-types/metastatic/bone-metastases",
+    "kind": "Canadian cancer education",
+    "checkedDate": "2026-10-01",
+    "scope": "Fragility and pathological fractures"
+  },
+  "ba-lymphoedema": {
+    "name": "Canadian Cancer Society · Lymphoedema",
+    "url": "https://cdn.cancer.ca/en/treatments/side-effects/lymphedema",
+    "kind": "Canadian cancer education",
+    "checkedDate": "2026-10-01",
+    "scope": "Lymphatic swelling and skin/infection risks"
+  },
+  "ba-malignant-obstruction": {
+    "name": "Canadian Cancer Society · Bowel obstruction",
+    "url": "https://cancer.ca/en/treatments/side-effects/bowel-obstruction",
+    "kind": "Canadian cancer education",
+    "checkedDate": "2026-10-01",
+    "scope": "Obstruction symptoms and need for assessment"
+  },
+  "ba-diarrhoea": {
+    "name": "Canadian Cancer Society · Diarrhoea",
+    "url": "https://cancer.ca/en/treatments/side-effects/diarrhea",
+    "kind": "Canadian cancer education",
+    "checkedDate": "2026-10-01",
+    "scope": "Treatment-related diarrhoea and dehydration"
+  },
+  "ba-ascites": {
+    "name": "Canadian Cancer Society · Ascites",
+    "url": "https://cancer.ca/en/treatments/side-effects/fluid-in-the-abdomen-ascites",
+    "kind": "Canadian cancer education",
+    "checkedDate": "2026-10-01",
+    "scope": "Symptom burden and treatment options"
+  },
+  "ba-epistaxis": {
+    "name": "NHS · Nosebleed",
+    "url": "https://www.nhs.uk/conditions/nosebleed/",
+    "kind": "NHS patient guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Position and sustained nasal pressure"
+  },
+  "ba-sickle": {
+    "name": "CPS · Acute sickle cell complications",
+    "url": "https://cps.ca/en/documents/position/acute-complications-with-sickle-cell",
+    "kind": "Canadian professional position statement",
+    "checkedDate": "2026-10-01",
+    "scope": "Pain, hydration and splenic sequestration"
+  },
+  "ba-sickle-acs": {
+    "name": "CDC · Acute chest syndrome",
+    "url": "https://www.cdc.gov/sickle-cell/complications/acute-chest-syndrome.html",
+    "kind": "Government health information",
+    "checkedDate": "2026-10-01",
+    "scope": "New respiratory symptoms in sickle cell disease"
+  },
+  "ba-haemophilia": {
+    "name": "WFH · Haemophilia treatment guidelines",
+    "url": "https://www1.wfh.org/publications/files/pdf-1863.pdf",
+    "kind": "Professional guideline",
+    "checkedDate": "2026-10-01",
+    "scope": "Acute joint bleed protection and haemostatic treatment"
+  },
+  "ba-transfusion": {
+    "name": "Canadian Blood Services · Transfusion reactions",
+    "url": "https://professionaleducation.blood.ca/en/transfusion/clinical-guide/transfusion-reactions",
+    "kind": "Canadian clinical guide",
+    "checkedDate": "2026-10-01",
+    "scope": "Acute and delayed reactions and investigation"
+  },
+  "ba-radiation": {
+    "name": "BC Cancer · Radiation skin care",
+    "url": "https://www.bccancer.bc.ca/our-services/treatments/radiation-therapy/side-effects-management/primary-skin-care-of-radiation-therapy-side-effects",
+    "kind": "Canadian cancer centre guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Assessing skin reactions and suitable protective care"
+  },
+  "ba-burns": {
+    "name": "OpenStax · Burns",
+    "url": "https://openstax.org/books/medical-surgical-nursing/pages/14-2-burns",
+    "kind": "Open nursing textbook",
+    "checkedDate": "2026-10-01",
+    "scope": "Electrical/deep burns, systemic consequences and thermal/fluid care"
+  },
+  "ba-chemical": {
+    "name": "NHS · Chemical burns",
+    "url": "https://www.nhs.uk/conditions/acid-and-chemical-burns/",
+    "kind": "NHS guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Safe removal of contaminant and irrigation"
+  },
+  "ba-burn-first-aid": {
+    "name": "NHS · Burns and scalds",
+    "url": "https://www.nhs.uk/conditions/burns-and-scalds/",
+    "kind": "NHS guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Water cooling, avoidance of ice and keeping uninjured areas warm"
+  },
+  "ba-burn-rehab": {
+    "name": "Chelsea and Westminster NHS · Burn contracture care",
+    "url": "https://www.chelwest.nhs.uk/your-visit/patient-leaflets/burns/scar-tissue-and-contractures-initial-stage",
+    "kind": "Hospital burn rehabilitation guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Individualized stretching, positioning and splinting"
+  },
+  "ba-fractures": {
+    "name": "OpenStax · Bone fractures",
+    "url": "https://openstax.org/books/medical-surgical-nursing/pages/13-3-bone-fractures",
+    "kind": "Open nursing textbook",
+    "checkedDate": "2026-10-01",
+    "scope": "Fat embolism, external fixation and recovery"
+  },
+  "ba-compartment": {
+    "name": "AAOS · Compartment syndrome",
+    "url": "https://orthoinfo.aaos.org/en/diseases--conditions/compartment-syndrome/",
+    "kind": "Orthopaedic professional patient resource",
+    "checkedDate": "2026-10-01",
+    "scope": "Acute compartment syndrome signs and urgency"
+  },
+  "ba-hip": {
+    "name": "Dorset County Hospital · Hip replacement symptom checker",
+    "url": "https://dchft.nhs.uk/leaflets/post-hip-replacement-symptom-checker/",
+    "kind": "Hospital postoperative guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Acute pain and loss of weight-bearing with dislocation"
+  },
+  "ba-traction": {
+    "name": "RCH · Skin traction",
+    "url": "https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Skin_traction/",
+    "kind": "Hospital nursing guideline",
+    "checkedDate": "2026-10-01",
+    "scope": "Alignment, prescribed weights and free suspension"
+  },
+  "ba-osteomyelitis": {
+    "name": "AO Foundation · Infection",
+    "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/further-reading/infection",
+    "kind": "Orthopaedic clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Bone infection management and treatment monitoring"
+  },
+  "ba-paediatric-joint": {
+    "name": "CPS · Acute osteoarticular infections",
+    "url": "https://cps.ca/en/documents/position/osteoarticular-infections-in-children",
+    "kind": "Canadian professional position statement",
+    "checkedDate": "2026-10-01",
+    "scope": "Febrile child with acute joint pain and loss of weight-bearing"
+  },
+  "ba-neurovascular": {
+    "name": "OpenStax · Bone fractures",
+    "url": "https://openstax.org/books/medical-surgical-nursing/pages/13-3-bone-fractures",
+    "kind": "Open nursing textbook",
+    "checkedDate": "2026-10-01",
+    "scope": "Serial neurovascular assessment around injury/immobilization"
+  },
+  "ba-amputation": {
+    "name": "NHS · Amputation",
+    "url": "https://www.nhs.uk/tests-and-treatments/amputation/",
+    "kind": "NHS guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Phantom pain, residual-limb care and postoperative problems"
+  },
+  "ba-heat": {
+    "name": "Canadian Red Cross · Heat emergencies",
+    "url": "https://www.redcross.ca/training-and-certification/first-aid-tips-and-resources/first-aid-tips/summer-safety/heat-stroke-heat-exhaustion",
+    "kind": "Canadian first aid guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Altered cognition, urgent cooling and emergency support"
+  },
+  "ba-cold": {
+    "name": "Canadian Red Cross · Cold emergencies",
+    "url": "https://www.redcross.ca/training-and-certification/first-aid-tips-and-resources/first-aid-tips/winter-safety-and-clothing/cold-related-emergencies",
+    "kind": "Canadian first aid guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Hypothermia recognition and protection of frostbitten tissue"
+  },
+  "ba-drowning": {
+    "name": "Royal Children’s Hospital · Drowning",
+    "url": "https://www.rch.org.au/clinicalguide/guideline_index/Drowning/",
+    "kind": "Hospital clinical guideline",
+    "checkedDate": "2026-10-01",
+    "scope": "Respiratory assessment after submersion"
+  },
+  "ba-pph": {
+    "name": "OpenStax · Postpartum haemorrhage",
+    "url": "https://openstax.org/books/maternal-newborn-nursing/pages/21-2-postpartum-hemorrhage",
+    "kind": "Open nursing textbook",
+    "checkedDate": "2026-10-01",
+    "scope": "Atony, trauma and concealed bleeding"
+  },
+  "ba-pregnancy": {
+    "name": "OpenStax · Conditions limited to pregnancy",
+    "url": "https://openstax.org/books/maternal-newborn-nursing/pages/12-2-conditions-limited-to-pregnancy",
+    "kind": "Open nursing textbook",
+    "checkedDate": "2026-10-01",
+    "scope": "Hypertensive complications, vomiting and placental bleeding"
+  },
+  "ba-ectopic": {
+    "name": "OpenStax · Conditions limited to pregnancy",
+    "url": "https://openstax.org/books/maternal-newborn-nursing/pages/12-2-conditions-limited-to-pregnancy",
+    "kind": "Open nursing textbook",
+    "checkedDate": "2026-10-01",
+    "scope": "Ectopic pregnancy warning symptoms"
+  },
+  "ba-cord-prolapse": {
+    "name": "RCOG · Umbilical cord prolapse in late pregnancy",
+    "url": "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/umbilical-cord-prolapse-in-late-pregnancy/",
+    "kind": "Professional society guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Emergency activation, knee-chest pressure relief, skilled elevation of presenting part"
+  },
+  "ba-newborn-glucose": {
+    "name": "CPS · Newborn low glucose",
+    "url": "https://cps.ca/en/documents/position/newborns-at-risk-for-low-blood-glucose",
+    "kind": "Canadian professional position statement",
+    "checkedDate": "2026-10-01",
+    "scope": "Immediate treatment of symptomatic hypoglycaemia"
+  },
+  "ba-newborn-respiratory": {
+    "name": "Merck Manual · Newborn respiratory disorders",
+    "url": "https://www.merckmanuals.com/professional/pediatrics/respiratory-problems-in-neonates/overview-of-perinatal-respiratory-disorders?media=print",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Tachypnoea, work of breathing and cyanosis"
+  },
+  "ba-pyloric": {
+    "name": "RCH · Pyloric stenosis",
+    "url": "https://www.rch.org.au/clinicalguide/guideline_index/Pyloric_Stenosis/",
+    "kind": "Hospital clinical guideline",
+    "checkedDate": "2026-10-01",
+    "scope": "Stabilization before surgery"
+  },
+  "ba-intussusception": {
+    "name": "RCH · Intussusception",
+    "url": "https://www.rch.org.au/clinicalguide/guideline_index/intussusception/",
+    "kind": "Hospital clinical guideline",
+    "checkedDate": "2026-10-01",
+    "scope": "Intermittent symptoms and urgent assessment"
+  },
+  "ba-bronchiolitis": {
+    "name": "CPS · Bronchiolitis",
+    "url": "https://cps.ca/en/documents/position/bronchiolitis",
+    "kind": "Canadian professional position statement",
+    "checkedDate": "2026-10-01",
+    "scope": "Feeding/hydration support, gentle nasal clearance and discharge assessment"
+  },
+  "ba-croup": {
+    "name": "CPS · Acute management of croup",
+    "url": "https://cps.ca/en/documents/position/acute-management-of-croup",
+    "kind": "Canadian professional position statement",
+    "checkedDate": "2026-10-01",
+    "scope": "Minimizing distress, severity assessment, treatment response and dangerous alternatives"
+  },
+  "ba-child-dehydration": {
+    "name": "CPS Caring for Kids · Dehydration and diarrhoea",
+    "url": "https://caringforkids.cps.ca/handouts/health-conditions-and-treatments/dehydration_and_diarrhea",
+    "kind": "Canadian paediatric guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Small frequent oral rehydration volumes and reassessment"
+  },
+  "ba-child-abdomen": {
+    "name": "RCH · Acute abdominal pain",
+    "url": "https://www.rch.org.au/clinicalguide/guideline_index/Abdominal_pain/",
+    "kind": "Hospital clinical guideline",
+    "checkedDate": "2026-10-01",
+    "scope": "Changing abdominal signs and referred genital causes"
+  },
+  "ba-child-dka": {
+    "name": "CPS · Paediatric DKA management",
+    "url": "https://cps.ca/en/documents/position/current-recommendations-for-management-of-paediatric-diabetic-ketoacidosis",
+    "kind": "Canadian professional position statement",
+    "checkedDate": "2026-10-01",
+    "scope": "Neurological warning signs during treatment"
+  },
+  "ba-dumping-symptoms": {
+    "name": "NIDDK · Dumping symptoms and causes",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/dumping-syndrome/symptoms-causes",
+    "kind": "Government health information",
+    "checkedDate": "2026-10-01",
+    "scope": "Distinction between early dumping and delayed hypoglycaemia"
+  },
+  "ba-transfusion-handling": {
+    "name": "NAC Blood · Return of blood components",
+    "url": "https://nacblood.ca/en/resource/infection-prevention-and-control-considerations-return-blood-components-and-products",
+    "kind": "Canadian transfusion advisory guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Retention and return of component bag and attached tubing when required after a reaction"
+  },
+  "ba-newborn-feeding": {
+    "name": "AAFP · Newborn respiratory distress: other support",
+    "url": "https://www.aafp.org/afp/2015/1201/p994",
+    "kind": "Professional clinical review",
+    "checkedDate": "2026-10-01",
+    "scope": "Oral feeding interruption during neonatal respiratory distress to reduce aspiration risk"
+  }
+}

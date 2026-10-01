@@ -1,0 +1,810 @@
+[
+  {
+    "id": "x-health-001",
+    "cat": "health",
+    "title": "Medication review before conception",
+    "stem": "A client whose epilepsy is controlled with prescribed medication hopes to conceive in three months. They ask what to do about possible fetal medication effects. What should the nurse recommend?",
+    "type": "single",
+    "options": [
+      "Continue the current plan until a preconception medication review is arranged",
+      "Reduce medication only during the first trimester",
+      "Wait for a positive pregnancy test before requesting advice",
+      "Substitute a nonprescription supplement while awaiting assessment"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Planned review balances fetal exposure concerns against seizure-control needs without abrupt treatment changes.",
+      "Unsupervised dose reduction can cause breakthrough seizures and does not establish fetal safety.",
+      "Waiting loses an opportunity to optimize treatment before early fetal development.",
+      "A supplement does not provide established antiseizure treatment or assured pregnancy safety."
+    ],
+    "takeaway": "Arrange preconception medication review while maintaining prescribed therapy pending advice.",
+    "refs": [
+      "d-pregnancy"
+    ],
+    "exhibit": null,
+    "subtopic": "Preconception planning",
+    "learningObjective": "Arrange preconception medication review while maintaining prescribed therapy pending advice.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-002",
+    "cat": "health",
+    "title": "Workplace exposure assessment",
+    "stem": "A client planning pregnancy works in a laboratory and asks whether to request reassignment. They feel well and cannot name the chemicals handled. What should the nurse do first?",
+    "type": "single",
+    "options": [
+      "Recommend avoiding all laboratory duties immediately",
+      "Obtain substance and exposure information for occupational-health review",
+      "Recommend changing to an evening shift while awaiting advice",
+      "Base advice on coworkers' uncomplicated pregnancies"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Blanket reassignment precedes assessment of the actual exposure and available controls.",
+      "Specific substances, routes and protections are needed for a meaningful occupational assessment.",
+      "Changing shifts does not establish or control substance-specific exposure.",
+      "Other workers' outcomes do not establish this client's exposure level or risk."
+    ],
+    "takeaway": "Characterize workplace exposures before recommending individualized pregnancy precautions.",
+    "refs": [
+      "d-pregnancy"
+    ],
+    "exhibit": null,
+    "subtopic": "Preconception planning",
+    "learningObjective": "Characterize workplace exposures before recommending individualized pregnancy precautions.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-003",
+    "cat": "health",
+    "title": "Discussing an early alcohol exposure",
+    "stem": "At the first prenatal visit, a client reports drinking before recognizing pregnancy and asks whether anything can still help. Which response best supports health promotion?",
+    "type": "single",
+    "options": [
+      "Focus on whether ultrasound can exclude all effects",
+      "Explain that avoiding further alcohol and continuing prenatal care remain useful",
+      "Recommend reducing intake gradually without further assessment",
+      "Defer the topic until the client can recall every drink"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Ultrasound cannot exclude every possible effect and does not address preventable ongoing exposure.",
+      "Nonjudgmental advice supports prevention and care without predicting an individual fetal outcome.",
+      "A reduction plan requires assessment; the safest pregnancy recommendation is to avoid alcohol.",
+      "Incomplete recall should not delay supportive assessment and prevention advice."
+    ],
+    "takeaway": "Support abstinence and prenatal follow-up without making unsupported predictions about past exposure.",
+    "refs": [
+      "d-pregnancy"
+    ],
+    "exhibit": null,
+    "subtopic": "Prenatal substance exposure",
+    "learningObjective": "Support abstinence and prenatal follow-up without making unsupported predictions about past exposure.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-004",
+    "cat": "health",
+    "title": "Planning a vegan prenatal diet",
+    "stem": "A pregnant vegan client eats beans, grains, vegetables and fruit but takes no supplements. Weight gain is appropriate. Which assessment is most useful next?",
+    "type": "single",
+    "options": [
+      "Whether a higher calorie target is needed solely because the diet is vegan",
+      "Whether meat can be added before further counselling",
+      "Sources of vitamin B12, iron and other required prenatal nutrients",
+      "Whether normal weight gain removes the need for nutritional review"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Calorie adequacy and micronutrient adequacy are different questions in this scenario.",
+      "A nutritionally adequate plan may be developed within the client's dietary preferences.",
+      "Appropriate weight gain does not establish adequate intake of B12 or other nutrients.",
+      "Weight gain alone cannot rule out a nutrient gap."
+    ],
+    "takeaway": "Assess specific nutrient sources even when prenatal weight gain appears appropriate.",
+    "refs": [
+      "d-pregnancy"
+    ],
+    "exhibit": null,
+    "subtopic": "Prenatal nutrition",
+    "learningObjective": "Assess specific nutrient sources even when prenatal weight gain appears appropriate.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-005",
+    "cat": "health",
+    "title": "Pregnancy nausea with preserved intake",
+    "stem": "At ten weeks, a client reports morning nausea, stable weight and retained fluids. Which teaching is appropriate? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Try small meals more frequently",
+      "Identify and avoid personal food triggers",
+      "Report inability to retain fluids",
+      "Drink most fluids together with meals"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "why": [
+      "Smaller portions may be more tolerable without unnecessarily restricting overall intake.",
+      "Trigger identification allows an individualized rather than blanket dietary adjustment.",
+      "Loss of fluid tolerance changes the need for clinical assessment.",
+      "Separating fluids from meals may improve tolerance; large combined volumes can worsen nausea."
+    ],
+    "takeaway": "Pair practical nausea strategies with clear advice about worsening intake.",
+    "refs": [
+      "d-pregnancy"
+    ],
+    "exhibit": null,
+    "subtopic": "Prenatal nutrition",
+    "learningObjective": "Pair practical nausea strategies with clear advice about worsening intake.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-006",
+    "cat": "health",
+    "title": "Prenatal food insecurity",
+    "stem": "A pregnant client understands the meal plan but skips lunch to preserve food for their children. What nursing response best addresses the identified barrier?",
+    "type": "single",
+    "options": [
+      "Repeat teaching about fetal nutrient requirements",
+      "Set a goal to document every missed meal",
+      "Offer referral to accessible food and income supports",
+      "Ask the client to purchase smaller prenatal supplement packages"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "The client already understands the advice; limited resources prevent using it.",
+      "Tracking alone does not make food available to the household.",
+      "Material supports address the stated barrier to adequate intake.",
+      "Supplements cannot replace meals, and smaller packages may not improve affordability."
+    ],
+    "takeaway": "Match prenatal interventions to resource barriers rather than assuming a knowledge deficit.",
+    "refs": [
+      "d-pregnancy"
+    ],
+    "exhibit": null,
+    "subtopic": "Social determinants",
+    "learningObjective": "Match prenatal interventions to resource barriers rather than assuming a knowledge deficit.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-007",
+    "cat": "health",
+    "title": "Continuing prenatal activity",
+    "stem": "A client who walks regularly has an uncomplicated pregnancy and no activity restrictions. They ask how to adapt activity as pregnancy progresses. Which advice is best?",
+    "type": "single",
+    "options": [
+      "Maintain exactly the same distance regardless of symptoms",
+      "Stop structured activity and rely only on household tasks",
+      "Switch to an unfamiliar intensive exercise program",
+      "Adjust activity to comfort and discuss new warning symptoms promptly"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "A fixed distance ignores changing tolerance and emerging clinical concerns.",
+      "Uncomplicated pregnancy does not by itself require stopping enjoyable activity.",
+      "Unfamiliar intensive training needs assessment rather than routine recommendation.",
+      "Individual adaptation supports activity while preserving responsiveness to warning signs."
+    ],
+    "takeaway": "Adapt prenatal activity to tolerance and clinical status.",
+    "refs": [
+      "d-pregnancy"
+    ],
+    "exhibit": null,
+    "subtopic": "Prenatal activity",
+    "learningObjective": "Adapt prenatal activity to tolerance and clinical status.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-008",
+    "cat": "health",
+    "title": "A symptom during prenatal exercise",
+    "stem": "During a low-intensity prenatal class, a client reports new vaginal bleeding. They are alert and deny pain. What should the nurse advise first?",
+    "type": "single",
+    "options": [
+      "Stop activity and contact the maternity service promptly",
+      "Rest briefly and resume if bleeding stops",
+      "Change to seated exercise for the remainder of class",
+      "Record the episode for the next routine prenatal visit"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Bleeding requires timely assessment even without pain or altered consciousness.",
+      "Temporary improvement does not establish that continuing exercise is appropriate.",
+      "Changing exercise type does not evaluate the cause of bleeding.",
+      "A routine future visit may delay needed assessment."
+    ],
+    "takeaway": "Stop prenatal exercise and seek assessment for vaginal bleeding.",
+    "refs": [
+      "d-pregnancy"
+    ],
+    "exhibit": null,
+    "subtopic": "Prenatal warning signs",
+    "learningObjective": "Stop prenatal exercise and seek assessment for vaginal bleeding.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-009",
+    "cat": "health",
+    "title": "Dental assessment during pregnancy",
+    "stem": "A pregnant client has gum bleeding when brushing and has postponed a routine dental visit. Which teaching best addresses the concern?",
+    "type": "single",
+    "options": [
+      "Continue hygiene and arrange an oral-health assessment now",
+      "Stop flossing until the postpartum visit",
+      "Use mouthwash instead of brushing until bleeding resolves",
+      "Increase calcium intake before deciding whether dental care is needed"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Ongoing hygiene and assessment address oral disease without unnecessary pregnancy-related delay.",
+      "Stopping cleaning may worsen plaque-related inflammation.",
+      "Mouthwash does not replace mechanical plaque removal or clinical assessment.",
+      "Nutrient changes do not identify the cause of gum bleeding."
+    ],
+    "takeaway": "Encourage oral assessment and effective hygiene during pregnancy.",
+    "refs": [
+      "d-pregnancy"
+    ],
+    "exhibit": null,
+    "subtopic": "Prenatal oral health",
+    "learningObjective": "Encourage oral assessment and effective hygiene during pregnancy.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-010",
+    "cat": "health",
+    "title": "Reviewing vaccines before birth",
+    "stem": "A client says, 'I had my vaccines years ago, so pregnancy should not change anything.' Which review elements are appropriate? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Document previous doses and reactions",
+      "Check current pregnancy-specific recommendations",
+      "Explain potential protection of the newborn",
+      "Apply the routine adult schedule without checking pregnancy precautions"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "why": [
+      "Previous doses and reactions inform what is indicated and safe.",
+      "Some recommendations depend specifically on pregnancy and gestational timing.",
+      "Maternal immunization can provide protection during early infancy.",
+      "Pregnancy may alter vaccine selection and timing, so adult guidance alone is insufficient."
+    ],
+    "takeaway": "Use pregnancy-specific Canadian guidance alongside the client's vaccine history.",
+    "refs": [
+      "d-pregnancy-vax"
+    ],
+    "exhibit": null,
+    "subtopic": "Prenatal immunization",
+    "learningObjective": "Use pregnancy-specific Canadian guidance alongside the client's vaccine history.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-011",
+    "cat": "health",
+    "title": "Sexual health during pregnancy",
+    "stem": "A pregnant client has a new partner and asks whether condoms are unnecessary now. What is the best response?",
+    "type": "single",
+    "options": [
+      "Discuss condom use and appropriate sexually transmitted infection assessment",
+      "Focus only on postpartum contraception",
+      "Recommend relying on a partner's lack of symptoms",
+      "Delay infection screening until after delivery unless symptoms develop"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Pregnancy prevents neither exposure nor infection, and screening may be indicated without symptoms.",
+      "Future contraception does not address current infection exposure.",
+      "Several sexually transmitted infections can be asymptomatic.",
+      "Delayed assessment may miss opportunities to protect the client and infant."
+    ],
+    "takeaway": "Include infection prevention and risk-based screening in prenatal sexual-health teaching.",
+    "refs": [
+      "d-pregnancy"
+    ],
+    "exhibit": null,
+    "subtopic": "Prenatal sexual health",
+    "learningObjective": "Include infection prevention and risk-based screening in prenatal sexual-health teaching.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-012",
+    "cat": "health",
+    "title": "Preparing for changing birth circumstances",
+    "stem": "A client strongly prefers a particular labour plan and worries that staff will disregard it. Which nursing response best supports informed preparation?",
+    "type": "single",
+    "options": [
+      "Explain that written preferences remove the need for further consent discussions",
+      "Explore priorities and how options will be discussed if circumstances change",
+      "Suggest omitting preferences to avoid disappointment",
+      "Focus only on the standard unit routine"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Preferences guide care but do not replace ongoing information and consent.",
+      "Understanding priorities supports meaningful shared decisions when the clinical situation evolves.",
+      "Avoiding preferences removes useful information about what matters to the client.",
+      "Routine information alone does not address the client's concern about participation."
+    ],
+    "takeaway": "Discuss both birth priorities and communication when care options change.",
+    "refs": [
+      "d-pregnancy"
+    ],
+    "exhibit": null,
+    "subtopic": "Birth preparation",
+    "learningObjective": "Discuss both birth priorities and communication when care options change.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-013",
+    "cat": "health",
+    "title": "A change in fetal activity",
+    "stem": "At 33 weeks, a client reports substantially less fetal movement than usual this afternoon. They have no bleeding or pain. What advice is most appropriate?",
+    "type": "single",
+    "options": [
+      "Reassess at tomorrow's usual active time",
+      "Bring the concern to the next routine appointment",
+      "Contact the maternity service promptly for individualized assessment",
+      "Drink something cold and call only if movement has not increased by bedtime"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Waiting until tomorrow may delay evaluation of a meaningful change.",
+      "Absence of pain does not make delayed review sufficient.",
+      "A reduction from the established pattern warrants prompt maternity advice and assessment.",
+      "Attempts to stimulate movement should not postpone contact for a meaningful change."
+    ],
+    "takeaway": "Act promptly on a meaningful reduction in the usual fetal movement pattern.",
+    "refs": [
+      "d-pregnancy"
+    ],
+    "exhibit": null,
+    "subtopic": "Prenatal warning signs",
+    "learningObjective": "Act promptly on a meaningful reduction in the usual fetal movement pattern.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-014",
+    "cat": "health",
+    "title": "Planning a labour support role",
+    "stem": "A client asks a close friend to support them during birth. The friend feels uncertain about helping. Which preparation is most useful?",
+    "type": "single",
+    "options": [
+      "Practise a fixed breathing schedule before asking about preferences",
+      "Ask the friend to select all pain-relief options in advance",
+      "Give only the hospital visiting policy",
+      "Discuss the client's preferences and practise agreed comfort measures"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Comfort methods should be adapted to the client rather than fixed in advance.",
+      "A support person does not replace the capable client's ongoing decisions.",
+      "Visiting information alone does not prepare the friend to provide support.",
+      "Shared expectations and practical rehearsal make support responsive to the client."
+    ],
+    "takeaway": "Prepare labour support around the client's preferences and practical comfort needs.",
+    "refs": [
+      "d-pregnancy"
+    ],
+    "exhibit": null,
+    "subtopic": "Birth preparation",
+    "learningObjective": "Prepare labour support around the client's preferences and practical comfort needs.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-015",
+    "cat": "health",
+    "title": "Planning accessible prenatal care",
+    "stem": "A client misses prenatal visits because shifts change weekly and bus service is limited. Which actions address the barriers? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Explore feasible appointment times",
+      "Ask about transport assistance",
+      "Discuss which follow-up components can safely occur remotely",
+      "Offer video visits for every remaining appointment without checking which assessments require in-person care"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "why": [
+      "Scheduling flexibility can reduce the identified employment conflict.",
+      "Transport assistance addresses a concrete access problem.",
+      "Appropriate remote components may improve access while preserving necessary in-person assessment.",
+      "Universal remote substitution can miss necessary examinations or tests."
+    ],
+    "takeaway": "Reduce practical barriers when arranging prenatal follow-up.",
+    "refs": [
+      "d-pregnancy"
+    ],
+    "exhibit": null,
+    "subtopic": "Prenatal access",
+    "learningObjective": "Reduce practical barriers when arranging prenatal follow-up.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-016",
+    "cat": "health",
+    "title": "Cannabis used for pregnancy nausea",
+    "stem": "A client uses cannabis edibles for nausea and believes avoiding smoke eliminates pregnancy risks. Which response is most accurate?",
+    "type": "single",
+    "options": [
+      "Edibles are preferred throughout pregnancy because there is no smoke",
+      "Cannabis exposure remains; arrange review of safer nausea treatments",
+      "Stop all nausea treatments until the next trimester",
+      "Use symptom relief as evidence that the product is safe"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Avoiding smoke does not eliminate exposure to cannabis constituents.",
+      "Route changes do not establish fetal safety, and nausea deserves an assessed treatment plan.",
+      "Untreated nausea may compromise intake; options can be reviewed now.",
+      "A product can relieve symptoms without being appropriate during pregnancy."
+    ],
+    "takeaway": "Explain that edible cannabis does not remove pregnancy exposure concerns.",
+    "refs": [
+      "d-pregnancy"
+    ],
+    "exhibit": null,
+    "subtopic": "Prenatal substance exposure",
+    "learningObjective": "Explain that edible cannabis does not remove pregnancy exposure concerns.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-017",
+    "cat": "health",
+    "title": "Postpartum practical supports",
+    "stem": "A client expecting a first baby lives alone and has no nearby family. Which question best guides a useful support plan?",
+    "type": "single",
+    "options": [
+      "Which infant-care techniques would you like demonstrated before discharge?",
+      "Would you prefer a telephone check-in at the end of the first week?",
+      "'Which daily tasks may be difficult, and who or what services could help?'",
+      "'Would reading another parenting booklet settle your concern?'"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Skill teaching may help but does not first identify the practical support gap.",
+      "Follow-up is useful but does not first establish help with daily tasks.",
+      "Task-specific assessment identifies feasible help with meals, rest and infant care.",
+      "More information alone may not resolve a lack of practical assistance."
+    ],
+    "takeaway": "Assess practical postpartum needs and available supports before birth.",
+    "refs": [
+      "d-pregnancy"
+    ],
+    "exhibit": null,
+    "subtopic": "Parenting preparation",
+    "learningObjective": "Assess practical postpartum needs and available supports before birth.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-018",
+    "cat": "health",
+    "title": "Rubella protection before conception",
+    "stem": "A client is not pregnant, plans conception soon and has documented lack of rubella immunity. What should the nurse arrange?",
+    "type": "single",
+    "options": [
+      "Vaccine counselling that includes waiting at least four weeks before conception",
+      "Deferring vaccination until after the planned pregnancy",
+      "Vaccination without discussing a conception interval",
+      "Repeating serology after conception before counselling"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Canadian guidance recommends delaying conception at least four weeks after rubella-containing vaccination.",
+      "A susceptible nonpregnant client can consider protection before conception.",
+      "Timing advice is part of safe preconception vaccine counselling.",
+      "Waiting loses an opportunity to plan protection before pregnancy."
+    ],
+    "takeaway": "Review rubella vaccination and conception timing before pregnancy.",
+    "refs": [
+      "d-rubella"
+    ],
+    "exhibit": null,
+    "subtopic": "Preconception immunization",
+    "learningObjective": "Review rubella vaccination and conception timing before pregnancy.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-019",
+    "cat": "health",
+    "title": "Health literacy in prenatal information",
+    "stem": "A client shows two conflicting prenatal supplement advertisements and asks which claim to trust. Which approach best supports independent information appraisal?",
+    "type": "single",
+    "options": [
+      "Choose the advertisement with more testimonials",
+      "Compare authorship, evidence, date and relevance with a trusted clinical source",
+      "Select the product described as natural",
+      "Use the more expensive product as the quality standard"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Testimonials cannot establish effectiveness or safety for this client.",
+      "Source appraisal helps distinguish evidence from marketing and supports future decisions.",
+      "Natural origin does not establish supplement safety.",
+      "Price is not a reliable measure of clinical evidence."
+    ],
+    "takeaway": "Teach source appraisal when prenatal information is commercially promoted.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Health information appraisal",
+    "learningObjective": "Teach source appraisal when prenatal information is commercially promoted.",
+    "reasoningSkill": "teaching",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-020",
+    "cat": "health",
+    "title": "Postpartum follow-up planning",
+    "stem": "A client will have help overnight for three days after birth but is unsure who will review their feeding concerns after discharge. Which preparations are appropriate? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Confirm how and when feeding follow-up will occur",
+      "Agree on rest opportunities during the available support",
+      "Assume the routine later postpartum visit covers every early feeding concern",
+      "Arrange an additional support option when the initial help ends"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "why": [
+      "A clear follow-up route supports timely assessment of feeding difficulties.",
+      "Matching rest to actual available help makes the plan feasible.",
+      "New feeding concerns may need earlier assessment than a routine later visit.",
+      "Anticipating the end of current support prevents an avoidable gap."
+    ],
+    "takeaway": "Coordinate postpartum support with actual availability and follow-up needs.",
+    "refs": [
+      "d-pregnancy"
+    ],
+    "exhibit": null,
+    "subtopic": "Postpartum preparation",
+    "learningObjective": "Coordinate postpartum support with actual availability and follow-up needs.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-021",
+    "cat": "health",
+    "title": "Observing breastfeeding discomfort",
+    "stem": "During a home visit, a parent reports pinching pain throughout breastfeeds. The infant feeds frequently but often slips off. What should the nurse do first?",
+    "type": "single",
+    "options": [
+      "Shorten every feed to reduce nipple exposure",
+      "Observe a full feed and assess attachment and milk transfer",
+      "Recommend a fixed four-hour feeding schedule",
+      "Suggest pumping exclusively before observing feeding"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Shortening feeds may reduce intake without correcting the underlying problem.",
+      "Pain and slipping suggest a correctable feeding issue that direct observation can clarify.",
+      "Restricting frequency does not address ineffective attachment.",
+      "A major feeding change is premature before assessing the parent's chosen method."
+    ],
+    "takeaway": "Observe latch and milk transfer when feeding is painful or ineffective.",
+    "refs": [
+      "d-infant"
+    ],
+    "exhibit": null,
+    "subtopic": "Lactation assessment",
+    "learningObjective": "Observe latch and milk transfer when feeding is painful or ineffective.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-022",
+    "cat": "health",
+    "title": "Evidence of milk transfer",
+    "stem": "During a breastfeed, an infant remains attached for 30 minutes. Which additional observation most directly supports effective milk transfer?",
+    "type": "single",
+    "options": [
+      "The parent reports fuller breasts before feeding",
+      "The infant's eyes remain closed",
+      "Rhythmic sucking followed by audible swallowing",
+      "The infant sucks rapidly throughout the feed without observed swallowing"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Breast fullness alone does not show what the infant receives.",
+      "Closed eyes do not establish effective intake.",
+      "Swallowing linked to sucking is direct evidence of milk transfer.",
+      "Rapid sucking without swallowing does not establish effective milk transfer."
+    ],
+    "takeaway": "Assess swallowing rather than feed duration alone when evaluating milk transfer.",
+    "refs": [
+      "d-infant"
+    ],
+    "exhibit": null,
+    "subtopic": "Lactation assessment",
+    "learningObjective": "Assess swallowing rather than feed duration alone when evaluating milk transfer.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-023",
+    "cat": "health",
+    "title": "Responsive bottle feeding",
+    "stem": "A caregiver reports repeatedly encouraging a well-growing infant to finish bottles despite turning away. Which teaching is most appropriate?",
+    "type": "single",
+    "options": [
+      "Pause or stop when the infant shows fullness cues",
+      "Prepare a larger bottle to reduce feeding frequency",
+      "Increase flow so feeding finishes before the infant turns away",
+      "Schedule feeds solely by the printed age guide"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Responsive feeding respects fullness and avoids pressuring intake beyond cues.",
+      "Larger bottles may reinforce the same pressure to finish.",
+      "Faster flow can overwhelm coordination and does not address satiety.",
+      "Age guides do not replace the individual infant's hunger and fullness signals."
+    ],
+    "takeaway": "Use hunger and satiety cues to guide bottle feeding.",
+    "refs": [
+      "d-infant"
+    ],
+    "exhibit": null,
+    "subtopic": "Infant feeding",
+    "learningObjective": "Use hunger and satiety cues to guide bottle feeding.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-024",
+    "cat": "health",
+    "title": "Formula affordability and preparation",
+    "stem": "A caregiver dilutes formula to make a container last longer. The infant has no current symptoms. What should the nurse prioritize?",
+    "type": "single",
+    "options": [
+      "Change to a more concentrated homemade mixture",
+      "Advise smaller feeds without discussing preparation",
+      "Wait for the next growth check before intervening",
+      "Review correct preparation and connect the family with formula-access support"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "An improvised mixture cannot ensure safe nutrient or electrolyte content.",
+      "Smaller feeds do not correct inappropriate concentration or food insecurity.",
+      "Preparation errors warrant intervention before symptoms appear.",
+      "Correct preparation addresses immediate safety while resource support addresses the cause."
+    ],
+    "takeaway": "Address both unsafe formula dilution and the financial barrier driving it.",
+    "refs": [
+      "d-infant"
+    ],
+    "exhibit": null,
+    "subtopic": "Infant nutrition access",
+    "learningObjective": "Address both unsafe formula dilution and the financial barrier driving it.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-025",
+    "cat": "health",
+    "title": "Synthesizing newborn intake findings",
+    "stem": "At a day-eight visit, a newborn continues to lose weight, has fewer wet diapers than two days ago and rarely swallows during long feeds. What should the nurse prioritize?",
+    "type": "single",
+    "options": [
+      "Reassure the parent because frequent long feeds indicate adequate intake",
+      "Arrange prompt feeding and clinical assessment",
+      "Shorten feeds and review growth at the next routine visit",
+      "Increase intervals between feeds to strengthen hunger cues"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Feeding duration does not outweigh the concerning weight, output and transfer pattern.",
+      "The combined findings suggest inadequate intake requiring timely assessment and a feeding plan.",
+      "Waiting without addressing falling weight and reduced output may delay necessary support.",
+      "Longer gaps can further reduce intake and do not correct ineffective transfer."
+    ],
+    "takeaway": "Integrate weight, output and observed transfer when deciding whether newborn intake needs assessment.",
+    "refs": [
+      "d-infant"
+    ],
+    "exhibit": null,
+    "subtopic": "Newborn nutrition",
+    "learningObjective": "Integrate weight, output and observed transfer when deciding whether newborn intake needs assessment.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  }
+]

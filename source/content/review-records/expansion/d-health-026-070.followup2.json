@@ -1,0 +1,149 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:32:04.286479+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/d-health-026-recheck2.json",
+  "sourceSha256": "0389d6b584347c8fd268d86c6aaecbf76c21aab9595ca54245ae89a31a664b2a",
+  "coverage": {
+    "sourceItems": 45,
+    "reviewedItems": 9,
+    "reviewedIds": [
+      "x-health-032",
+      "x-health-033",
+      "x-health-043",
+      "x-health-051",
+      "x-health-054",
+      "x-health-057",
+      "x-health-068",
+      "x-health-069",
+      "x-health-046"
+    ],
+    "unreviewedIds": [
+      "x-health-026",
+      "x-health-027",
+      "x-health-028",
+      "x-health-029",
+      "x-health-030",
+      "x-health-031",
+      "x-health-034",
+      "x-health-035",
+      "x-health-036",
+      "x-health-037",
+      "x-health-038",
+      "x-health-039",
+      "x-health-040",
+      "x-health-041",
+      "x-health-042",
+      "x-health-044",
+      "x-health-045",
+      "x-health-047",
+      "x-health-048",
+      "x-health-049",
+      "x-health-050",
+      "x-health-052",
+      "x-health-053",
+      "x-health-055",
+      "x-health-056",
+      "x-health-058",
+      "x-health-059",
+      "x-health-060",
+      "x-health-061",
+      "x-health-062",
+      "x-health-063",
+      "x-health-064",
+      "x-health-065",
+      "x-health-066",
+      "x-health-067",
+      "x-health-070"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-health-032",
+      "status": "pass",
+      "assessment": "Responsive language exposure versus one-language restriction, passive videos and repeated labels is now a clean foundation item.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c2365bc46db65ce8d9ff041f91fef3e1781e004d2c91663809d1855fe19027f6"
+    },
+    {
+      "id": "x-health-033",
+      "status": "pass",
+      "assessment": "Age, passed newborn screen and persistent current finding provide adequate referral context; alternatives no longer duplicate waiting for speech.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ce294ae85b7c295fdf3ae4bee7c37a9970b4358dccb616a385f8c302521348a4"
+    },
+    {
+      "id": "x-health-043",
+      "status": "pass",
+      "assessment": "The concise play-based key is supported by age and same-day procedure; booklet and video are credible less tailored alternatives.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "897d0b1e8a87db367064da5fc29ae657e729389511daec260203d8cd2c69ba3e"
+    },
+    {
+      "id": "x-health-051",
+      "status": "pass",
+      "assessment": "Private conversation is appropriate; a take-home questionnaire is a credible but less timely opportunity than supported private disclosure.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "faf1ab5a4887cc73f059549c90a93c456c2ad7beafbe30ac346febbd1a63a7a4"
+    },
+    {
+      "id": "x-health-054",
+      "status": "pass",
+      "assessment": "Foundation contraception-versus-STI protection distinction is sound; asymptomatic-partner reassurance is a relevant misconception.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "81d4289f9258e72edbddd0fa8abf8b467c6b256cf412827e8113491daf8c7477"
+    },
+    {
+      "id": "x-health-057",
+      "status": "pass",
+      "assessment": "The nutrient-only or hormone-focused alternatives are plausible but do not assess the training/restriction/amenorrhea pattern.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "285ae59547374ac9cc0b51b7ae617d2fc7d32bcdfb5e5d3f6938ee996a0bf9c5"
+    },
+    {
+      "id": "x-health-068",
+      "status": "pass",
+      "assessment": "Alternatives are now plausible excessive allergy-management responses. Brief local soreness supports reaction clarification and expected-effect counselling.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "192e93710957502043d1a36aed70773880907fab5a38e266d9d6958cdb69f808"
+    },
+    {
+      "id": "x-health-069",
+      "status": "pass",
+      "assessment": "Early individualized review best coordinates time-dependent travel prevention; medication supply and a destination advisory are useful but incomplete components.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b0f37dae4a638dec8c8c99e1e908aa9cc96d0d42a285bb1d690250af2f38b7cf"
+    },
+    {
+      "id": "x-health-046",
+      "status": "revise",
+      "assessment": "Clinical reasoning is improved, but the key is a noun phrase while alternatives are actions and the question asks what to explore.",
+      "issues": [
+        "Clinical reasoning is improved, but the key is a noun phrase while alternatives are actions and the question asks what to explore."
+      ],
+      "proposedChanges": [
+        "Change the question to What should the nurse do next? and key to Ask the child about school and peer experiences. Retain symptom-pattern context in explanation."
+      ],
+      "reviewedItemSha256": "ede696636d59330a45d6988670d13b45f4ecade5b3e29affc9b4e2d9401f96e6"
+    }
+  ],
+  "activeSourceFile": "authoring/d/health-026.json",
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

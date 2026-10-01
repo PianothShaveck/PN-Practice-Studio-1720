@@ -1,0 +1,806 @@
+[
+  {
+    "id": "x-adaptation-176",
+    "cat": "adaptation",
+    "title": "Respond to a boggy postpartum uterus",
+    "stem": "Twenty minutes after vaginal birth, a client's bleeding increases and the uterus feels boggy. The nurse calls for assistance and begins the facility's postpartum-haemorrhage response. Which immediate action directly addresses the identified uterine finding?",
+    "type": "single",
+    "options": [
+      "Perform fundal massage using the approved technique",
+      "Apply pressure over the perineal pad to reduce external loss",
+      "Encourage walking to the bathroom before reassessing the uterus",
+      "Obtain a complete feeding history before beginning further care"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Massage can stimulate contraction of an atonic uterus while the haemorrhage response and ordered treatment proceed.",
+      "External pad pressure does not treat bleeding from uterine atony.",
+      "Walking during active haemorrhage can be unsafe and delays immediate treatment.",
+      "History should not delay intervention for a boggy uterus with increased loss."
+    ],
+    "takeaway": "Match the immediate intervention to the assessed cause while activating the broader haemorrhage response.",
+    "refs": [
+      "ba-pph"
+    ],
+    "exhibit": null,
+    "subtopic": "Postpartum uterine atony",
+    "learningObjective": "Match the immediate intervention to the assessed cause while activating the broader haemorrhage response.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-177",
+    "cat": "adaptation",
+    "title": "Reassess continued bleeding with a firm uterus",
+    "stem": "A postpartum client continues to lose bright red blood, but the uterus is firm and midline after initial assessment. Which interpretation should guide the nurse's urgent handover?",
+    "type": "single",
+    "options": [
+      "A firm uterus means the measured blood loss is no longer clinically important",
+      "Bleeding from a genital-tract injury or another source still needs assessment",
+      "More fundal massage is the definitive treatment for this pattern",
+      "The bleeding can be categorized as normal lochia based on uterine tone"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Tone does not determine whether ongoing blood loss is safe.",
+      "Persistent bleeding despite a firm uterus requires evaluation for trauma and other causes while monitoring circulation.",
+      "Massage targets atony and does not resolve every source of postpartum bleeding.",
+      "Bleeding amount, trajectory and physiological effect must be assessed, not tone alone."
+    ],
+    "takeaway": "Do not assume that correcting uterine tone has corrected every source of postpartum haemorrhage.",
+    "refs": [
+      "ba-pph"
+    ],
+    "exhibit": null,
+    "subtopic": "Postpartum bleeding source",
+    "learningObjective": "Do not assume that correcting uterine tone has corrected every source of postpartum haemorrhage.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-178",
+    "cat": "adaptation",
+    "title": "Protect a pregnant client during a seizure",
+    "stem": "A client admitted with severe pre-eclampsia begins a generalized seizure in bed. Which actions should the nurse take immediately? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Call for emergency assistance and protect the head from injury",
+      "Insert a padded object between the teeth to preserve the airway",
+      "Position laterally when feasible and prepare airway support",
+      "Restrain the limbs firmly to limit oxygen consumption"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "why": [
+      "Emergency support and protection from injury are immediate priorities.",
+      "Objects in the mouth can injure the client and obstruct the airway.",
+      "Lateral positioning when feasible and airway readiness help manage secretions and breathing; follow the emergency plan.",
+      "Forceful restraint can cause injury and does not terminate the seizure."
+    ],
+    "takeaway": "Protect from injury and support airway/breathing during an obstetric seizure.",
+    "refs": [
+      "ba-pregnancy"
+    ],
+    "exhibit": null,
+    "subtopic": "Eclampsia immediate care",
+    "learningObjective": "Protect from injury and support airway/breathing during an obstetric seizure.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-179",
+    "cat": "adaptation",
+    "title": "Evaluate treatment of hyperemesis",
+    "stem": "A pregnant client receiving treatment for persistent vomiting has improved nausea after medication. Which additional findings best support meaningful recovery from the episode? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "The client can retain the prescribed oral-fluid trial",
+      "The client reports less nausea but still becomes faint on sitting",
+      "Urine output improves and postural symptoms settle",
+      "The antiemetic has been administered at every scheduled time"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "why": [
+      "Demonstrated intake tolerance is a functional outcome of treatment.",
+      "Persistent postural symptoms suggest that recovery is incomplete despite less nausea.",
+      "Improved output and circulation-related symptoms support better hydration.",
+      "Administration is a process measure and does not demonstrate response."
+    ],
+    "takeaway": "Evaluate vomiting treatment using intake and hydration, not symptom relief or task completion alone.",
+    "refs": [
+      "ba-pregnancy"
+    ],
+    "exhibit": null,
+    "subtopic": "Hyperemesis response evaluation",
+    "learningObjective": "Evaluate vomiting treatment using intake and hydration, not symptom relief or task completion alone.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-180",
+    "cat": "adaptation",
+    "title": "Avoid an unsafe examination during pregnancy bleeding",
+    "stem": "A client at 32 weeks has painless vaginal bleeding. Placental location has not yet been confirmed. While urgent obstetric assessment is arranged, which proposed action requires clarification before proceeding?",
+    "type": "single",
+    "options": [
+      "Record maternal vital signs and quantify visible blood loss",
+      "Prepare for the ordered ultrasound assessment",
+      "Perform a digital vaginal examination to assess cervical dilation",
+      "Assess the fetal heart rate using the available protocol"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "These observations help assess severity and are appropriate while care is coordinated.",
+      "Imaging can establish placental location and guide the plan.",
+      "A digital examination may provoke severe bleeding if placenta previa is present; obtain the obstetric plan first.",
+      "Fetal assessment is relevant and does not create the examination-related bleeding risk."
+    ],
+    "takeaway": "Establish the safety of an invasive examination when placental location is unknown in late-pregnancy bleeding.",
+    "refs": [
+      "ba-pregnancy"
+    ],
+    "exhibit": null,
+    "subtopic": "Placenta previa precautions",
+    "learningObjective": "Establish the safety of an invasive examination when placental location is unknown in late-pregnancy bleeding.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-181",
+    "cat": "adaptation",
+    "title": "Interpret limited visible bleeding in abruption",
+    "stem": "A client at 35 weeks develops severe constant abdominal pain, a tense tender uterus and dizziness. There is a small amount of vaginal blood. Pulse is 128/min and BP is 86/50 mmHg. Which interpretation is most appropriate?",
+    "type": "single",
+    "options": [
+      "The small external loss makes serious haemorrhage unlikely",
+      "Pain alone explains the circulatory changes",
+      "The observations can wait for a larger pad measurement",
+      "Concealed bleeding may be substantial despite limited visible loss"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "External blood does not measure all potential bleeding in placental separation.",
+      "Hypotension and tachycardia with this clinical pattern require urgent assessment rather than attribution to pain.",
+      "The current signs already indicate an emergency.",
+      "Possible abruption with concealed blood loss requires immediate obstetric and circulatory assessment."
+    ],
+    "takeaway": "Visible blood may underestimate the severity of an obstetric haemorrhage.",
+    "refs": [
+      "ba-pregnancy"
+    ],
+    "exhibit": null,
+    "subtopic": "Placental abruption concealed loss",
+    "learningObjective": "Visible blood may underestimate the severity of an obstetric haemorrhage.",
+    "reasoningSkill": "recognition",
+    "difficulty": "challenge",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-182",
+    "cat": "adaptation",
+    "title": "Escalate possible ectopic rupture",
+    "stem": "A person with a positive pregnancy test and no confirmed intrauterine pregnancy develops one-sided pelvic pain, shoulder-tip pain and near-syncope. What is the priority nursing response?",
+    "type": "single",
+    "options": [
+      "Arrange immediate emergency assessment of possible internal bleeding",
+      "Offer the usual dysmenorrhoea care and reassess after analgesia",
+      "Book the next routine antenatal ultrasound appointment",
+      "Advise rest until vaginal bleeding becomes heavier"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "This combination raises concern for ruptured ectopic pregnancy or another emergency; assess circulation and arrange urgent help.",
+      "A positive pregnancy test with these new symptoms changes the differential and urgency.",
+      "Routine scheduling would delay assessment of possible haemorrhage.",
+      "Internal bleeding may occur without heavy external loss."
+    ],
+    "takeaway": "Early-pregnancy pain with referred shoulder pain or circulatory symptoms needs emergency assessment.",
+    "refs": [
+      "ba-ectopic"
+    ],
+    "exhibit": null,
+    "subtopic": "Ectopic pregnancy complication",
+    "learningObjective": "Early-pregnancy pain with referred shoulder pain or circulatory symptoms needs emergency assessment.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-183",
+    "cat": "adaptation",
+    "title": "Recognize a prolapsed cord emergency",
+    "stem": "Immediately after rupture of membranes, the nurse sees a loop of umbilical cord at the vaginal opening and the fetal heart rate drops abruptly. What should happen first?",
+    "type": "single",
+    "options": [
+      "Encourage pushing to complete the birth before summoning help",
+      "Activate the obstetric emergency response and implement measures to relieve cord pressure within training",
+      "Cover the cord with a dry pad and wait for the next scheduled assessment",
+      "Gently push the visible cord back into the vagina to restore its position"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "The situation requires coordinated urgent management; pushing may worsen compression unless directed by the obstetric team.",
+      "Cord compression can rapidly impair fetal oxygenation; summon help and follow the trained emergency protocol without delaying definitive care.",
+      "Waiting is unsafe and dry handling does not address compression.",
+      "Manipulating or attempting to replace the cord can cause harm; follow the emergency protocol."
+    ],
+    "takeaway": "Prompt recognition and a trained response are essential when cord prolapse compromises fetal circulation.",
+    "refs": [
+      "ba-cord-prolapse"
+    ],
+    "exhibit": null,
+    "subtopic": "Umbilical cord prolapse",
+    "learningObjective": "Prompt recognition and a trained response are essential when cord prolapse compromises fetal circulation.",
+    "reasoningSkill": "priority",
+    "difficulty": "challenge",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-184",
+    "cat": "adaptation",
+    "title": "Look beyond visible postpartum loss",
+    "stem": "Two hours after an assisted vaginal birth, a client reports increasing deep perineal pressure and severe pain. Lochia is scant, but pulse rises to 118/min and one side of the perineum is swollen. Which action is best?",
+    "type": "single",
+    "options": [
+      "Increase the ice-pack duration and review at the next routine observations",
+      "Explain that scant lochia makes haemorrhage an unlikely concern",
+      "Seek prompt assessment for a possible expanding haematoma",
+      "Encourage walking to reduce local tissue pressure"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Comfort measures should not postpone assessment of increasing pain, swelling and systemic change.",
+      "Blood can collect in tissue rather than appear as external lochia.",
+      "The pattern suggests a concealed collection requiring timely assessment and monitoring of circulation.",
+      "Walking may worsen pain and does not address a potential bleed."
+    ],
+    "takeaway": "A concealed postpartum bleed may present with pressure and swelling rather than heavy lochia.",
+    "refs": [
+      "ba-pph"
+    ],
+    "exhibit": null,
+    "subtopic": "Postpartum haematoma",
+    "learningObjective": "A concealed postpartum bleed may present with pressure and swelling rather than heavy lochia.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-185",
+    "cat": "adaptation",
+    "title": "Treat symptomatic neonatal hypoglycaemia urgently",
+    "stem": "A 6-hour-old newborn is lethargic and feeding poorly. Bedside glucose is 1.7 mmol/L. Which action is appropriate?",
+    "type": "single",
+    "options": [
+      "Wait until the next scheduled feed before repeating glucose",
+      "Use routine skin-to-skin care as the sole response to the reading",
+      "Reassure the parent that every low reading in the first day is transitional",
+      "Activate the newborn hypoglycaemia protocol and obtain immediate treatment review"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Symptoms and the markedly low reading require action now.",
+      "Thermal and feeding support are valuable but insufficient as the sole response.",
+      "Transitional physiology does not make symptomatic hypoglycaemia safe.",
+      "Immediate treatment and assessment are needed; symptomatic infants commonly require IV glucose, with any interim measure determined by the protocol."
+    ],
+    "takeaway": "Symptoms plus low newborn glucose require prompt treatment, not routine surveillance alone.",
+    "refs": [
+      "ba-newborn-glucose"
+    ],
+    "exhibit": null,
+    "subtopic": "Symptomatic newborn hypoglycaemia",
+    "learningObjective": "Symptoms plus low newborn glucose require prompt treatment, not routine surveillance alone.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-186",
+    "cat": "adaptation",
+    "title": "Reassess oral feeding during neonatal distress",
+    "stem": "A newborn awaiting assessment is breathing 78/min with grunting and chest recession. A bottle feed is due. What is the safest nursing approach?",
+    "type": "single",
+    "options": [
+      "Pause oral feeding and obtain urgent respiratory and feeding-plan review",
+      "Use a faster-flow teat to shorten the duration of the feed",
+      "Give the full feed with more frequent burping breaks",
+      "Feed in a flatter position so the infant expends less energy"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Marked respiratory distress can compromise coordination and increase aspiration risk; prioritize breathing and an appropriate feeding route.",
+      "Faster flow can increase the burden on suck-swallow-breathe coordination.",
+      "Breaks do not make a full oral feed safe in significant respiratory distress.",
+      "A flatter position does not correct the underlying coordination or respiratory problem."
+    ],
+    "takeaway": "Significant respiratory distress changes the safety of a routine oral feed.",
+    "refs": [
+      "ba-newborn-respiratory"
+    ],
+    "exhibit": null,
+    "subtopic": "Newborn respiratory feeding risk",
+    "learningObjective": "Significant respiratory distress changes the safety of a routine oral feed.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-187",
+    "cat": "adaptation",
+    "title": "Recognize concerning newborn colour and effort",
+    "stem": "A term newborn is 36 hours old. Which findings need prompt assessment rather than reassurance about normal peripheral colour change? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Blue discoloration of the tongue during quiet breathing",
+      "Briefly cool hands with a pink tongue and comfortable breathing",
+      "Recurrent sweating and marked breathlessness during feeds",
+      "Pink central colour after warming the feet with normal feeding tolerance"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "why": [
+      "Central cyanosis is concerning and requires assessment of oxygenation and circulation.",
+      "Isolated peripheral colour change can occur with cooling; assess the whole infant and response rather than equating it with central cyanosis.",
+      "Repeated feeding-related distress can indicate a cardiopulmonary problem.",
+      "This is a reassuring pattern if the overall assessment remains normal."
+    ],
+    "takeaway": "Distinguish central and functional cardiopulmonary signs from transient peripheral colour changes.",
+    "refs": [
+      "ba-newborn-respiratory"
+    ],
+    "exhibit": null,
+    "subtopic": "Newborn cardiopulmonary cues",
+    "learningObjective": "Distinguish central and functional cardiopulmonary signs from transient peripheral colour changes.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-188",
+    "cat": "adaptation",
+    "title": "Prepare an infant with pyloric stenosis safely",
+    "stem": "An infant with confirmed pyloric stenosis has repeated vomiting, reduced urine and dehydration. Surgery is planned after stabilization. The parent asks why the operation is not starting immediately. Which explanation is best?",
+    "type": "single",
+    "options": [
+      "The operation is postponed until the infant can finish a normal bottle",
+      "Fluid and electrolyte problems need correction to make anaesthesia and surgery safer",
+      "A delay allows the narrowed muscle to relax without treatment",
+      "The team must wait until all abdominal discomfort has disappeared"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Normal feeding tolerance is not the stabilization criterion in an obstructed gastric outlet.",
+      "Restoring hydration and correcting metabolic abnormalities reduces perioperative risk; the team monitors readiness.",
+      "The stated reason is physiological stabilization, not expectation that the obstruction will spontaneously resolve.",
+      "Pain alone is not the measure of readiness for surgery."
+    ],
+    "takeaway": "Urgent surgical conditions may require physiological stabilization before anaesthesia.",
+    "refs": [
+      "ba-pyloric"
+    ],
+    "exhibit": null,
+    "subtopic": "Pyloric stenosis stabilization",
+    "learningObjective": "Urgent surgical conditions may require physiological stabilization before anaesthesia.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-189",
+    "cat": "adaptation",
+    "title": "Interpret well intervals between abdominal episodes",
+    "stem": "A 9-month-old has repeated brief episodes of intense crying with knees drawn up, pallor and vomiting. Between episodes the infant becomes quiet and sometimes appears comfortable. Which response is best?",
+    "type": "single",
+    "options": [
+      "Treat the quiet intervals as evidence of benign infant colic",
+      "Wait for a stool containing blood before requesting assessment",
+      "Arrange urgent assessment for an intermittent obstructive process",
+      "Offer a larger feed during a quiet interval to assess appetite"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Well intervals do not exclude intussusception or another significant intermittent process.",
+      "Bloody stool can be a later sign; waiting may delay treatment.",
+      "The episodic pattern with pallor and vomiting needs prompt assessment even when symptoms temporarily ease.",
+      "Feeding is not an appropriate diagnostic trial for suspected obstruction."
+    ],
+    "takeaway": "Intermittent symptoms can still represent an urgent bowel problem.",
+    "refs": [
+      "ba-intussusception"
+    ],
+    "exhibit": null,
+    "subtopic": "Intussusception pattern",
+    "learningObjective": "Intermittent symptoms can still represent an urgent bowel problem.",
+    "reasoningSkill": "recognition",
+    "difficulty": "challenge",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-190",
+    "cat": "adaptation",
+    "title": "Choose a safer hydration plan in bronchiolitis",
+    "stem": "A 3-month-old with bronchiolitis breathes 72/min and repeatedly coughs and pauses during feeds. Intake has fallen markedly. What should the nurse prioritize?",
+    "type": "single",
+    "options": [
+      "Encourage completion of a usual bottle despite the longer feeding time",
+      "Review hydration and an appropriate feeding route with the treating team",
+      "Add cereal to the bottle to deliver more calories in less volume",
+      "Delay assessment until the infant misses an entire day of feeding"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "A full oral feed can be unsafe or exhausting in this respiratory state.",
+      "The infant needs assessment of both breathing and hydration; assisted enteral or IV support may be considered by the team.",
+      "Changing feed composition does not address respiratory coordination and should not be improvised.",
+      "Markedly reduced intake with respiratory distress needs timely assessment."
+    ],
+    "takeaway": "In infant respiratory illness, feeding safety and hydration are part of the respiratory assessment.",
+    "refs": [
+      "ba-bronchiolitis"
+    ],
+    "exhibit": null,
+    "subtopic": "Bronchiolitis hydration support",
+    "learningObjective": "In infant respiratory illness, feeding safety and hydration are part of the respiratory assessment.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-191",
+    "cat": "adaptation",
+    "title": "Evaluate gentle nasal clearance",
+    "stem": "A congested infant with bronchiolitis receives gentle nasal suction according to the care plan before a supervised feed. Which observation best indicates a useful response?",
+    "type": "single",
+    "options": [
+      "The suction catheter has been passed the planned number of times",
+      "The infant cries more loudly during the procedure",
+      "Nasal airflow improves and the infant feeds with fewer respiratory pauses",
+      "The mucus volume collected is larger than at the previous suction"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "A count records the procedure, not its benefit.",
+      "Crying during suction is not evidence of improved feeding or breathing.",
+      "A functional improvement in airflow and feeding directly reflects the intended purpose.",
+      "More recovered mucus does not by itself establish a favourable clinical response."
+    ],
+    "takeaway": "Evaluate secretion clearance by breathing and feeding function rather than procedure completion.",
+    "refs": [
+      "ba-bronchiolitis"
+    ],
+    "exhibit": null,
+    "subtopic": "Bronchiolitis suction response",
+    "learningObjective": "Evaluate secretion clearance by breathing and feeding function rather than procedure completion.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-192",
+    "cat": "adaptation",
+    "title": "Assess bronchiolitis discharge readiness",
+    "stem": "A hospitalized infant with bronchiolitis is being assessed for discharge under the local plan. Which findings support readiness? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Work of breathing has improved and oxygenation meets the discharge target on room air",
+      "The infant has adequate oral intake and the caregiver knows when to seek help",
+      "Wheezing is quieter because the infant is increasingly lethargic",
+      "The next scheduled observation is due after the family's planned departure"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "why": [
+      "Improved respiratory status and satisfactory oxygenation are key parts of readiness.",
+      "Hydration, caregiver preparation and follow-up are also necessary for safe care at home.",
+      "Reduced sound with lethargy can indicate deterioration rather than recovery.",
+      "Administrative timing does not establish clinical readiness."
+    ],
+    "takeaway": "Use respiratory recovery, feeding and a workable home plan together when assessing discharge.",
+    "refs": [
+      "ba-bronchiolitis"
+    ],
+    "exhibit": null,
+    "subtopic": "Bronchiolitis recovery planning",
+    "learningObjective": "Use respiratory recovery, feeding and a workable home plan together when assessing discharge.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-193",
+    "cat": "adaptation",
+    "title": "Minimize distress during croup care",
+    "stem": "A toddler with croup has stridor at rest and becomes more distressed when separated from the parent. Treatment is being prepared. Which approach best supports breathing during assessment?",
+    "type": "single",
+    "options": [
+      "Allow the parent to hold the child upright in a position of comfort",
+      "Lie the child flat alone to standardize the respiratory examination",
+      "Inspect the throat repeatedly with a tongue depressor to assess swelling",
+      "Complete every nonurgent measurement before allowing the parent back"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Comfort and minimizing agitation can reduce respiratory burden while necessary assessment and treatment proceed.",
+      "Unnecessary separation and forced positioning can worsen distress.",
+      "Agitating throat examination is not needed for routine croup assessment and may worsen obstruction.",
+      "Nonessential tasks should not take priority over maintaining a calm child during airway illness."
+    ],
+    "takeaway": "Adapt assessment to minimize agitation when upper-airway obstruction is present.",
+    "refs": [
+      "ba-croup"
+    ],
+    "exhibit": null,
+    "subtopic": "Croup supportive handling",
+    "learningObjective": "Adapt assessment to minimize agitation when upper-airway obstruction is present.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-194",
+    "cat": "adaptation",
+    "title": "Interpret quieter stridor with fatigue",
+    "stem": "A child with severe croup previously had loud stridor and vigorous chest recession. Stridor becomes quieter, but air entry is now poor and the child is drowsy. Which interpretation is most appropriate?",
+    "type": "single",
+    "options": [
+      "The quieter sound indicates that the airway inflammation is resolving",
+      "Reduced airflow and fatigue may signal impending respiratory failure",
+      "Drowsiness is an expected benefit of reduced coughing",
+      "The child can now tolerate an oral-fluid challenge"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "A quieter sound is not reassuring when air movement and alertness worsen.",
+      "This combination requires immediate emergency reassessment and airway support.",
+      "New drowsiness in severe respiratory illness is a danger sign, not a treatment endpoint.",
+      "Feeding should not distract from a possible failing airway."
+    ],
+    "takeaway": "Interpret respiratory sounds together with air entry, effort and consciousness.",
+    "refs": [
+      "ba-croup"
+    ],
+    "exhibit": null,
+    "subtopic": "Croup exhaustion",
+    "learningObjective": "Interpret respiratory sounds together with air entry, effort and consciousness.",
+    "reasoningSkill": "recognition",
+    "difficulty": "challenge",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-195",
+    "cat": "adaptation",
+    "title": "Maintain observation after rapid croup relief",
+    "stem": "A child's stridor improves shortly after prescribed nebulized epinephrine. The local plan requires observation for recurrence before discharge. The parent asks to leave immediately. Which explanation is best?",
+    "type": "single",
+    "options": [
+      "The child must remain because epinephrine permanently changes the airway",
+      "Observation is needed until the cough disappears completely",
+      "The benefit can wear off, so sustained improvement must be checked",
+      "Discharge depends on obtaining a positive viral test result"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "The relevant issue is the temporary treatment effect, not permanent airway change.",
+      "Complete disappearance of cough is not the stated discharge criterion.",
+      "The effect may be transient; follow the observation plan and reassess breathing before discharge.",
+      "A viral result is not the reason for the supplied monitoring plan."
+    ],
+    "takeaway": "Rapid symptom relief after a short-acting treatment needs reassessment for recurrence.",
+    "refs": [
+      "ba-croup"
+    ],
+    "exhibit": null,
+    "subtopic": "Croup post-treatment observation",
+    "learningObjective": "Rapid symptom relief after a short-acting treatment needs reassessment for recurrence.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-196",
+    "cat": "adaptation",
+    "title": "Recognize a dangerous drooling presentation",
+    "stem": "A child develops high fever, drooling, a muffled voice and difficulty breathing, and sits leaning forward. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Offer an oral drink to determine whether swallowing is painful",
+      "Lie the child down and obtain a throat swab immediately",
+      "Inspect the throat with a tongue depressor before calling for help",
+      "Keep the child calm in the preferred position and summon expert airway help"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "A swallowing challenge may increase distress and aspiration risk.",
+      "Forced supine positioning and throat manipulation can worsen a threatened airway.",
+      "Examination should not delay or endanger appropriate airway management.",
+      "The pattern suggests a serious upper-airway process; minimize agitation and obtain urgent skilled support."
+    ],
+    "takeaway": "Drooling with respiratory distress requires airway-focused care and cautious handling.",
+    "refs": [
+      "ba-croup"
+    ],
+    "exhibit": null,
+    "subtopic": "Paediatric upper-airway emergency",
+    "learningObjective": "Drooling with respiratory distress requires airway-focused care and cautious handling.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-197",
+    "cat": "adaptation",
+    "title": "Adapt oral rehydration after vomiting",
+    "stem": "A child with mild dehydration is alert, has no shock signs and is on an oral rehydration plan. A large cup of solution triggers vomiting. Which adjustment is most appropriate initially?",
+    "type": "single",
+    "options": [
+      "Offer small frequent measured amounts according to the plan",
+      "Replace the solution with concentrated juice to increase energy intake",
+      "Stop fluids for the remainder of the day so the stomach can rest",
+      "Give the full remaining volume rapidly to catch up with the target"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Smaller frequent volumes are often better tolerated; reassess intake, losses and hydration and escalate if the trial fails.",
+      "Concentrated sugary drinks are not equivalent to oral rehydration solution.",
+      "Prolonged withholding can worsen dehydration.",
+      "Rapid large volumes may trigger further vomiting."
+    ],
+    "takeaway": "Adjust the delivery of a safe oral rehydration trial and evaluate tolerance.",
+    "refs": [
+      "ba-child-dehydration"
+    ],
+    "exhibit": null,
+    "subtopic": "Paediatric oral rehydration tolerance",
+    "learningObjective": "Adjust the delivery of a safe oral rehydration trial and evaluate tolerance.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-198",
+    "cat": "adaptation",
+    "title": "Reassess a sudden change in appendicitis pain",
+    "stem": "A child awaiting treatment for appendicitis briefly reports less pain, then develops widespread abdominal tenderness, fever and a faster pulse. What is the best response?",
+    "type": "single",
+    "options": [
+      "Use the brief pain relief as evidence that the inflammation is resolving",
+      "Seek urgent reassessment for a possible perforation or other complication",
+      "Encourage a meal to test whether appetite has returned",
+      "Continue the routine observation interval because pain is no longer localized"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Transient relief does not establish improvement when systemic and abdominal signs worsen.",
+      "The changed pattern may indicate a complication and requires prompt reassessment.",
+      "An oral trial is inappropriate while acute deterioration is being evaluated.",
+      "Loss of localization with worsening illness is not a reason to reduce urgency."
+    ],
+    "takeaway": "Evaluate a change in pain together with the subsequent abdominal and systemic findings.",
+    "refs": [
+      "ba-child-abdomen"
+    ],
+    "exhibit": null,
+    "subtopic": "Appendicitis complication",
+    "learningObjective": "Evaluate a change in pain together with the subsequent abdominal and systemic findings.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-199",
+    "cat": "adaptation",
+    "title": "Recognize urgent referred abdominal symptoms",
+    "stem": "A 14-year-old reports sudden lower abdominal pain and vomiting. During private assessment, he also describes new severe pain in one testicle. What is the priority action?",
+    "type": "single",
+    "options": [
+      "Arrange urgent assessment for possible testicular torsion",
+      "Wait for a urine sample before deciding whether review is needed",
+      "Apply the usual sports-strain plan and reassess the next morning",
+      "Treat constipation first because abdominal pain was the initial complaint"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Acute unilateral testicular pain is time-sensitive and requires urgent assessment.",
+      "A sample may be useful, but should not delay assessment for torsion.",
+      "A presumptive strain plan risks losing time in a vascular emergency.",
+      "The additional genital symptom changes the priority regardless of the first complaint."
+    ],
+    "takeaway": "Clarify associated symptoms that can reveal a time-critical cause of abdominal pain.",
+    "refs": [
+      "ba-child-abdomen"
+    ],
+    "exhibit": null,
+    "subtopic": "Acute scrotal emergency",
+    "learningObjective": "Clarify associated symptoms that can reveal a time-critical cause of abdominal pain.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-200",
+    "cat": "adaptation",
+    "title": "Recognize neurological deterioration during paediatric DKA care",
+    "stem": "A child receiving treatment for diabetic ketoacidosis develops a worsening headache, repeated vomiting and decreasing responsiveness after initial improvement. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Reduce observation because glucose has moved toward the treatment target",
+      "Attribute the vomiting to the first meal and reassess after it settles",
+      "Request routine analgesia and review the headache at the next scheduled check",
+      "Activate urgent reassessment for possible cerebral injury and follow the emergency protocol"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Glucose improvement does not exclude a serious neurological complication.",
+      "New neurological change should not be explained away as food intolerance.",
+      "Symptom relief must not delay assessment of decreasing consciousness.",
+      "The changing neurological pattern during treatment requires immediate expert assessment and protocol-based management."
+    ],
+    "takeaway": "Follow neurological status during paediatric DKA treatment even when metabolic measures improve.",
+    "refs": [
+      "ba-child-dka"
+    ],
+    "exhibit": null,
+    "subtopic": "Paediatric DKA cerebral injury",
+    "learningObjective": "Follow neurological status during paediatric DKA treatment even when metabolic measures improve.",
+    "reasoningSkill": "priority",
+    "difficulty": "challenge",
+    "provenance": "ai-authored"
+  }
+]

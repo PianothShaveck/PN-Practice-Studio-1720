@@ -1,0 +1,92 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T16:53:48.940383+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/basic-001-025.json",
+  "sourceSha256": "2d8cfd6079092ea38c80a8ec6c72c8114e6e991633d275036098687bd1cc5999",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 5,
+    "reviewedIds": [
+      "x-basic-006",
+      "x-basic-017",
+      "x-basic-018",
+      "x-basic-020",
+      "x-basic-025"
+    ],
+    "unreviewedIds": [
+      "x-basic-001",
+      "x-basic-002",
+      "x-basic-003",
+      "x-basic-004",
+      "x-basic-005",
+      "x-basic-007",
+      "x-basic-008",
+      "x-basic-009",
+      "x-basic-010",
+      "x-basic-011",
+      "x-basic-012",
+      "x-basic-013",
+      "x-basic-014",
+      "x-basic-015",
+      "x-basic-016",
+      "x-basic-019",
+      "x-basic-021",
+      "x-basic-022",
+      "x-basic-023",
+      "x-basic-024"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-basic-006",
+      "status": "pass",
+      "assessment": "Re-read revised full item. Analgesia-with-unchanged-endpoint is a plausible error; comfort-limited movement and reassessment remain the sound key.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "13f4dde5c949a559c10919a8cf086399a76e0cfa77548b0608a27b3ea00a5159"
+    },
+    {
+      "id": "x-basic-017",
+      "status": "pass",
+      "assessment": "Re-read revised full item. Alternatives now concern dressing sequence/assistance and discriminate weaker-arm-first technique.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4ae0c7eed7d55330134c7c20374325649d27f901d8109f94abad76432b01a2fb"
+    },
+    {
+      "id": "x-basic-018",
+      "status": "pass",
+      "assessment": "Re-read revised full item. Over-head removal distractor is a plausible sequence error; freeing the stronger arm is defensible.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c31f0a97adc7f412aec3e7d2bcc0fc666d418c635eefbcf85f7d9a23b16fcca4"
+    },
+    {
+      "id": "x-basic-020",
+      "status": "pass",
+      "assessment": "Re-read revised full item. Ad hoc lifting at carpet replaces extreme immobility, preserving assessment-before-substitution reasoning.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fc547881068d00889ab4823fd50c09aef59fb0b642722e17f57280859b8811a8"
+    },
+    {
+      "id": "x-basic-025",
+      "status": "pass",
+      "assessment": "Re-read revised full item. Exercise completion is a credible but indirect observation; postural symptoms/BP directly guide upright tolerance.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7c563d3e4de0fc74fbc7579698aac597c2f3db663f92d8dd52233c533734df64"
+    }
+  ],
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

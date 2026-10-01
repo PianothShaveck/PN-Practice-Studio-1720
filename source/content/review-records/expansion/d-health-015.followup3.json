@@ -1,0 +1,61 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:32:04.285715+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/d-health-001-recheck2.json",
+  "sourceSha256": "ca7f287f6181c7d6f7c230ed0ffad8b2d0878214c3c9eca3fcbc4a307b69d595",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 1,
+    "reviewedIds": [
+      "x-health-015"
+    ],
+    "unreviewedIds": [
+      "x-health-001",
+      "x-health-002",
+      "x-health-003",
+      "x-health-004",
+      "x-health-005",
+      "x-health-006",
+      "x-health-007",
+      "x-health-008",
+      "x-health-009",
+      "x-health-010",
+      "x-health-011",
+      "x-health-012",
+      "x-health-013",
+      "x-health-014",
+      "x-health-016",
+      "x-health-017",
+      "x-health-018",
+      "x-health-019",
+      "x-health-020",
+      "x-health-021",
+      "x-health-022",
+      "x-health-023",
+      "x-health-024",
+      "x-health-025"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-health-015",
+      "status": "pass",
+      "assessment": "The option now states a plausible overgeneralization of video care, while the rationale explains the required in-person components. The three selected actions address actual access barriers.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "37ff5248192da555bffe57b0cd8dde491b0aeca3949ab4ca352ba63361e9f968"
+    }
+  ],
+  "activeSourceFile": "authoring/d/health-001.json",
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

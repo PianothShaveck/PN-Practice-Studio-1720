@@ -1,0 +1,569 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:26:07.922105+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/risk-101-125.json",
+  "sourceSha256": "9e56740a77ef3b82effee126a71a0b34a0081f19fc6b797bede0617c2bcd23e6",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-risk-101",
+      "x-risk-102",
+      "x-risk-103",
+      "x-risk-104",
+      "x-risk-105",
+      "x-risk-106",
+      "x-risk-107",
+      "x-risk-108",
+      "x-risk-109",
+      "x-risk-110",
+      "x-risk-111",
+      "x-risk-112",
+      "x-risk-113",
+      "x-risk-114",
+      "x-risk-115",
+      "x-risk-116",
+      "x-risk-117",
+      "x-risk-118",
+      "x-risk-119",
+      "x-risk-120",
+      "x-risk-121",
+      "x-risk-122",
+      "x-risk-123",
+      "x-risk-124",
+      "x-risk-125"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.fda.gov/medical-devices/home-health-and-consumer-devices/home-healthcare-medical-devices-blood-glucose-meters-getting-most-out-your-meter",
+      "checked": true,
+      "ids": [
+        "x-risk-105"
+      ],
+      "note": "FDA retrieved: dehydration/shock can produce incorrect meter results; added explicit instruction not to delay clinically indicated emergency care for confirmation."
+    },
+    {
+      "url": "https://medlineplus.gov/ency/article/003931.htm",
+      "checked": true,
+      "ids": [
+        "x-risk-117"
+      ],
+      "note": "Primary government EEG article opened for preparation and medicine instructions. Proposed change tests communication of unauthorized medicine interruption, not independent dosing."
+    },
+    {
+      "url": "https://medlineplus.gov/lab-tests/arterial-blood-gas-abg-test/",
+      "checked": true,
+      "ids": [
+        "x-risk-108",
+        "x-risk-109"
+      ],
+      "note": "ABG article opened; support is limited to arterial sampling/pressure and oxygen-testing context. Specific site/device monitoring remains protocol-dependent."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-risk-101",
+      "status": "revise",
+      "assessment": "Stable patient plus loose damp electrodes is a useful artefact scenario; every-spike confirmed arrhythmia is implausible. Substitute reasonable clinical-sequencing error.",
+      "issues": [
+        "Stable patient plus loose damp electrodes is a useful artefact scenario; every-spike confirmed arrhythmia is implausible. Substitute reasonable clinical-sequencing error."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Request treatment for the tracing pattern before correcting the loose electrodes",
+            "Repeat the tracing without drying or replacing electrodes",
+            "File the tracing because pulse rate is normal",
+            "Assess the client and correct electrode contact"
+          ],
+          "why": [
+            "Clinical assessment and a technically usable tracing are needed before treating a likely artefact as confirmed rhythm.",
+            "The identified source of interference remains.",
+            "A technically poor tracing may still need a usable repeat.",
+            "Visible technical problems may distort the tracing."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "4943721e440f0aff7631401fb6c3f98594c759c32ef8117b21fc2355e3d9ac9a"
+    },
+    {
+      "id": "x-risk-102",
+      "status": "pass",
+      "assessment": "One early in-range troponin cannot replace ordered serial testing and ongoing symptom assessment. No universal interval is invented; the timing protocol is explicit. Some alternative redundancy limits difficulty.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7e71e8a6130e5b1ae16c59d7098a80f1e49bef85deec1881964e46098c652301"
+    },
+    {
+      "id": "x-risk-103",
+      "status": "revise",
+      "assessment": "Timing must be reported, but falsifying dose time is a moral giveaway. Use a clinically plausible independent recollection shortcut.",
+      "issues": [
+        "Timing must be reported, but falsifying dose time is a moral giveaway. Use a clinically plausible independent recollection shortcut."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Use the value without mentioning timing",
+            "Report the actual dose and collection times",
+            "Label it as a trough because that was ordered",
+            "Redraw immediately and label the repeat as the trough"
+          ],
+          "why": [
+            "Dose decisions could be based on an invalid comparison.",
+            "The timing error affects interpretation and may require recollection.",
+            "Incorrect labelling misrepresents the sample.",
+            "A second postdose sample still does not satisfy the ordered predose timing; obtain instructions and report actual times."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "55d64e163c4434a2231a4b89c0bc95755dc722e2f0bae4a1771f4ec7e620fdcd"
+    },
+    {
+      "id": "x-risk-104",
+      "status": "revise",
+      "assessment": "Verified alternative is correct; skipping until tomorrow is cartoon delay. Use an apparently reassuring device comparison.",
+      "issues": [
+        "Verified alternative is correct; skipping until tomorrow is cartoon delay. Use an apparently reassuring device comparison."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Use a verified alternative testing method",
+            "Use it once because the client needs an answer",
+            "Average several readings from the failed meter",
+            "Compare the reading with the client’s usual value and accept it if similar"
+          ],
+          "why": [
+            "The failed device cannot be assumed to give reliable results.",
+            "Urgency increases the need for a trustworthy measurement.",
+            "Repeated faulty readings do not establish accuracy.",
+            "Agreement with an expected value does not repair failed quality control."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "10f34b22c498271f6dee4ebcf0fc3ae6e0fc510c3ad3147669b34f8c488e2586"
+    },
+    {
+      "id": "x-risk-105",
+      "status": "revise",
+      "assessment": "Capillary reliability is impaired by poor perfusion, but unspecified unexpected value could be severe hypoglycaemia, where confirmation must not delay urgent care. Add explicit clinical priority and balanced alternatives.",
+      "issues": [
+        "Capillary reliability is impaired by poor perfusion, but unspecified unexpected value could be severe hypoglycaemia, where confirmation must not delay urgent care. Add explicit clinical priority and balanced alternatives."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Squeeze the finger repeatedly for a larger drop",
+            "Use the capillary value to explain the hypotension before further assessment",
+            "Repeat on another cold finger and accept two matching results",
+            "Address clinical instability and obtain an approved confirmatory measurement"
+          ],
+          "why": [
+            "Excess squeezing can further compromise sample quality.",
+            "Hypotension requires assessment and the poorly perfused sample may be unreliable.",
+            "Agreement between similarly compromised sites does not establish accuracy.",
+            "Assess and respond to instability promptly; confirm questionable capillary results without delaying indicated emergency treatment."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "dec5f8ce8997eb4d165aa76e2cbf716e66b030a97ca59552c7822b36facc1c4c"
+    },
+    {
+      "id": "x-risk-106",
+      "status": "pass",
+      "assessment": "A1C reflects preceding-month glucose exposure, distinct from a current or meal-related value. Correct but foundation-level conceptual teaching, not a high-complexity scenario.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "72f799ab8fcaed47d8d707add263b9d64cadee14977adf408523fcb58ea7459f"
+    },
+    {
+      "id": "x-risk-107",
+      "status": "revise",
+      "assessment": "Clarifying medication/fasting coordination is correct; extended fast is an arbitrary false alternative.",
+      "issues": [
+        "Clarifying medication/fasting coordination is correct; extended fast is an arbitrary false alternative."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Arrange an early appointment and leave the morning medication instructions unchanged",
+            "Clarify a coordinated fasting and medication plan",
+            "Tell the client to omit all medicines that day",
+            "Advise the usual doses regardless of fasting"
+          ],
+          "why": [
+            "Early timing may reduce fasting duration but does not resolve potentially unsafe medication/intake coordination.",
+            "Medicine timing and food restriction must be considered together.",
+            "Universal omission may be unsafe and is not individualized.",
+            "Usual dosing may not fit reduced intake."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "2cd754d86a19abfc627d921d276d2b1b03abba9571559e8833103cfd8cfbc746"
+    },
+    {
+      "id": "x-risk-108",
+      "status": "revise",
+      "assessment": "Persistent arterial oozing needs pressure and distal reassessment; flex-joint-to-clot is implausible. Replace with incomplete local management.",
+      "issues": [
+        "Persistent arterial oozing needs pressure and distal reassessment; flex-joint-to-clot is implausible. Replace with incomplete local management."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Maintain appropriate pressure and reassess bleeding and circulation",
+            "Release pressure because the usual time has elapsed",
+            "Apply a dressing and send the client away immediately",
+            "Apply a tighter dressing and defer distal circulation checks until the next round"
+          ],
+          "why": [
+            "Anticoagulation may require longer haemostasis monitoring.",
+            "Elapsed time does not establish that bleeding has stopped.",
+            "Ongoing bleeding needs assessment before leaving care.",
+            "Ongoing bleeding requires effective haemostasis and circulation assessment; excessive dressing pressure can compromise perfusion."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "90a26b5c9157bc51d7d8f33d527f92d3df2e880c55cffd93f05c85c55f7d4b02"
+    },
+    {
+      "id": "x-risk-109",
+      "status": "revise",
+      "assessment": "Room number/meal time is unrelated filler and a false room-air label is a giveaway. Test identifying contemporaneous oxygen support with comparable data.",
+      "issues": [
+        "Room number/meal time is unrelated filler and a false room-air label is a giveaway. Test identifying contemporaneous oxygen support with comparable data."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "The usual home oxygen flow and most recent outpatient saturation",
+            "The oxygen prescription at admission and the device initially selected",
+            "The oxygen flow documented after the sample was collected",
+            "The actual oxygen device and setting when the sample was drawn"
+          ],
+          "why": [
+            "Those do not describe support at this collection.",
+            "The original prescription may differ from actual support during sampling.",
+            "Later support is not necessarily the support when the blood was drawn.",
+            "Blood-gas oxygenation must be interpreted in the context of concurrent support."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "09035f6a69fdafbc40199b7784e4fb9c107c47bf2d02aeb1d029c30ae02ec026"
+    },
+    {
+      "id": "x-risk-110",
+      "status": "pass",
+      "assessment": "Culture technique appropriately follows the facility’s cleansing/sampling method rather than old dressing material, intact skin contamination or unverified antiseptic use. No single unapproved technique is asserted.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f08615858021d19e6007a8cd9b158bf3791631a1eea2e6db7f6731d464c82894"
+    },
+    {
+      "id": "x-risk-111",
+      "status": "revise",
+      "assessment": "Indefinite delay and sending unlabelled mixed contents are exaggerated. Use realistic collection workarounds.",
+      "issues": [
+        "Indefinite delay and sending unlabelled mixed contents are exaggerated. Use realistic collection workarounds."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Collect a soiled absorbent brief and send it for routine processing",
+            "A collection method keeping urine out of the stool sample",
+            "Collect directly from toilet water afterward",
+            "Pour off visible urine from the mixed collection before sending the stool"
+          ],
+          "why": [
+            "Absorption and contamination may compromise the intended sample; arrange appropriate collection.",
+            "Mixed urine may compromise specimen quality.",
+            "Toilet water can contaminate the specimen.",
+            "Removing visible liquid does not undo contamination; obtain an appropriate sample per laboratory guidance."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "e3e73e7c21fc88f60adf70d6cb04044e92878d10ead7d40d9e4dfbfac1845a2a"
+    },
+    {
+      "id": "x-risk-112",
+      "status": "revise",
+      "assessment": "Open container and universal sterile water are cartoon alternatives. Use plausible assumptions based on routine pathology handling.",
+      "issues": [
+        "Open container and universal sterile water are cartoon alternatives. Use plausible assumptions based on routine pathology handling."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Clarify requirements with the procedural team or laboratory",
+            "Place every tissue sample in formalin",
+            "Use the preservative supplied for the previous biopsy on the unit",
+            "Transfer the specimen into saline because fresh tissue was requested for another client"
+          ],
+          "why": [
+            "Different analyses require specific handling to preserve diagnostic value.",
+            "Some testing requires a different medium or fresh tissue.",
+            "Different tests may need different media; do not infer this sample’s requirements from another case.",
+            "An unrelated request does not establish the correct handling for this specimen."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "22ed0e3587ae7912a645e1aaa3fe7779ce0b8743e20186983fe4ed2f8bf7f801"
+    },
+    {
+      "id": "x-risk-113",
+      "status": "pass",
+      "assessment": "Designated disinfected sampling port under aseptic policy is appropriate for fresh culture sampling; bag/outlet/disconnection alternatives are realistic contamination shortcuts.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "88079f7a3a5320be1c271a21a40c8de6c1123fde137cf67b67cec3bcfd15e6e1"
+    },
+    {
+      "id": "x-risk-114",
+      "status": "revise",
+      "assessment": "SATA keys are revealed by without qualifiers. Ask for the data that directly link numerical change to postural tolerance.",
+      "issues": [
+        "SATA keys are revealed by without qualifiers. Ask for the data that directly link numerical change to postural tolerance."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "The usual daily exercise duration",
+            "The total number of pressure readings taken that day",
+            "Position and timing of each reading",
+            "Symptoms during each position"
+          ],
+          "why": [
+            "Exercise history does not establish the conditions or symptoms during these positional readings.",
+            "The count does not reveal positions, timing or symptoms during each reading.",
+            "Values must be linked to the posture and interval used.",
+            "Symptoms help relate numerical changes to clinical tolerance."
+          ],
+          "stem": "When recording measurements for postural symptoms, which details most directly link each blood-pressure value to the client’s positional tolerance? Select all that apply."
+        }
+      ],
+      "reviewedItemSha256": "15e2df374457b24770117885122f4361728fae6afdac496cdc8caaaa246ddfdf"
+    },
+    {
+      "id": "x-risk-115",
+      "status": "revise",
+      "assessment": "Week-long universal respiratory-medication stop is extreme. Use a common unverified standard withholding interval.",
+      "issues": [
+        "Week-long universal respiratory-medication stop is extreme. Use a common unverified standard withholding interval."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Assume the last client's instructions apply",
+            "Clarify the laboratory's medication instructions",
+            "Apply the same inhaler-withholding interval used for a previous spirometry client",
+            "Advise extra inhaler doses to maximize performance"
+          ],
+          "why": [
+            "Different testing goals may require different preparation.",
+            "Withholding requirements depend on the test's purpose and prescribed plan.",
+            "Requirements depend on the purpose and medicine; clarify this test’s instructions.",
+            "Unordered use could alter the planned measurement."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "83c2d4a525e15b6351ab02cd301df1e2aa2682401d95cd71fb5b65950bc7737b"
+    },
+    {
+      "id": "x-risk-116",
+      "status": "revise",
+      "assessment": "Scale limit and other-person comparisons are too superficial. Use plausible individualized baselines that differ from action-plan personal best.",
+      "issues": [
+        "Scale limit and other-person comparisons are too superficial. Use plausible individualized baselines that differ from action-plan personal best."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Their personal best and action-plan zones",
+            "Their predicted reference value based on age and height",
+            "Their average reading during the most recent exacerbation",
+            "Yesterday's result without checking technique"
+          ],
+          "why": [
+            "Individual reference points guide the prescribed response.",
+            "Predicted values can provide context but do not replace the individualized action-plan reference.",
+            "An exacerbation average is not the personal-best reference used for plan zones.",
+            "A trend needs reasonably consistent technique to be meaningful."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "e055ec958bc7531c681c284db354a28cca1718c174a2ff6d8bb4d3bd652ac508"
+    },
+    {
+      "id": "x-risk-117",
+      "status": "revise",
+      "assessment": "Permanent brain change and shampoo-as-gel are implausible distractors. Replace the trivial mechanism recall with a concrete preparation error requiring safe medication coordination.",
+      "issues": [
+        "Permanent brain change and shampoo-as-gel are implausible distractors. Replace the trivial mechanism recall with a concrete preparation error requiring safe medication coordination."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Ask the client to take an extra dose now to replace the omitted doses",
+            "Record the missed doses and proceed without alerting the EEG team",
+            "Encourage continued withholding until the EEG result is available",
+            "Assess the client and notify the EEG team of the omitted doses"
+          ],
+          "why": [
+            "Do not prescribe catch-up dosing independently; clarify the medication plan.",
+            "The change in medication exposure affects safety and interpretation and should be communicated.",
+            "Unplanned continued interruption may increase seizure risk and is not an authorized preparation plan.",
+            "The team must review safety, actual medication exposure and next instructions before proceeding."
+          ],
+          "stem": "A client with epilepsy arrives for an EEG and says they stopped their antiseizure medicine yesterday to improve the test, although the written instructions said to take usual medicines. What should the nurse do?",
+          "title": "EEG medication preparation",
+          "takeaway": "Clarify unplanned medication interruption before EEG rather than inventing catch-up doses."
+        }
+      ],
+      "reviewedItemSha256": "4b238baffd40c7621c2ac0b6f18c162159106518be1539c571a139dc508e8a10"
+    },
+    {
+      "id": "x-risk-118",
+      "status": "pass",
+      "assessment": "Abnormal screening warrants recommended diagnostic follow-up rather than automatic diagnosis or dismissal for absent symptoms. Foundation screening-versus-diagnosis distinction, consistent with scope.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ad5dbd9971071e7e2727cc63f51dc7a55bd0d094d21b35b0194ce791e4536573"
+    },
+    {
+      "id": "x-risk-119",
+      "status": "revise",
+      "assessment": "Electronic flag colour is irrelevant filler. Replace with an absolute-number-only comparison.",
+      "issues": [
+        "Electronic flag colour is irrelevant filler. Replace with an absolute-number-only comparison."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Compare the numeric values alone without checking units or reference intervals",
+            "Use that laboratory's range and the clinical trend",
+            "Apply the previous laboratory's flag automatically",
+            "Assume the new laboratory made an error"
+          ],
+          "why": [
+            "Methods, units and ranges affect whether numbers are directly comparable.",
+            "Methods and population reference intervals can differ.",
+            "Different methods may require different interpretation.",
+            "A range difference alone does not establish error."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "ed0405864c9562ede665d6ef85a2b8a8b1dc858974ac23c0417b92c1b7568f48"
+    },
+    {
+      "id": "x-risk-120",
+      "status": "pass",
+      "assessment": "Near-active-IV sampling provides a specific possible contamination mechanism; recollection and clinical review are appropriate. Averaging or changing treatment based solely on the suspect sample does not resolve integrity.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e62bda3850d0199a5d36767cc58ca9ede5e34d56788fd360bc192eb2143005e1"
+    },
+    {
+      "id": "x-risk-121",
+      "status": "revise",
+      "assessment": "Discarding a result is conspicuously unsafe. Replace with plausible automatic catheter intervention. Clinical interpretation remains individualized rather than a blanket no-antibiotics statement.",
+      "issues": [
+        "Discarding a result is conspicuously unsafe. Replace with plausible automatic catheter intervention. Clinical interpretation remains individualized rather than a blanket no-antibiotics statement."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Document symptomatic infection from bacteria alone",
+            "Request antibiotics without providing clinical context",
+            "Request catheter replacement solely because bacteria are present",
+            "Report findings with symptoms and catheter history"
+          ],
+          "why": [
+            "Colonization can occur without symptomatic disease.",
+            "Treatment decisions need the clinical picture.",
+            "Bacteriuria alone does not establish symptomatic infection or a need for this intervention; report clinical context.",
+            "Bacteriuria alone does not establish a symptomatic infection."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "ca8851ad667d137165c63fbb642de61872e1ab0a6d8731e34aeb26b31ffd0038"
+    },
+    {
+      "id": "x-risk-122",
+      "status": "revise",
+      "assessment": "Increasing contrast rate despite swelling is implausible. Replace with lower-rate misconception; stopping/protocol is correct.",
+      "issues": [
+        "Increasing contrast rate despite swelling is implausible. Replace with lower-rate misconception; stopping/protocol is correct."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Continue because brief warmth is expected",
+            "Massage firmly before checking the site",
+            "Stop the injection and follow the extravasation protocol",
+            "Reduce the injection rate and watch whether the swelling stabilizes"
+          ],
+          "why": [
+            "Local swelling and progressive pain differ from transient generalized warmth.",
+            "The site needs assessment and protocol-based care first.",
+            "The findings suggest contrast may be leaving the vein.",
+            "Continuing injection may increase tissue exposure; stop and follow the extravasation protocol."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "c509e1cdd19116077f6e27e8a95703d616319b3936502cde62716d5fc84bba26"
+    },
+    {
+      "id": "x-risk-123",
+      "status": "pass",
+      "assessment": "Postponement requires updated intake and medication instructions. A replacement date alone does not address interim fasting/medicine needs, and neither universal resumption nor indefinite fasting is appropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "40eef3413c115f8e29c4ea1d8c785fa271318bab8e1c4a54d3f4d5296f237270"
+    },
+    {
+      "id": "x-risk-124",
+      "status": "revise",
+      "assessment": "Copying prior observations is a moral giveaway. Use a realistic undocumented averaging shortcut.",
+      "issues": [
+        "Copying prior observations is a moral giveaway. Use a realistic undocumented averaging shortcut."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Use consistent technique and appropriate equipment",
+            "Record interventions occurring between readings",
+            "Average measurements from different sites into one number without retaining the individual readings",
+            "Change measurement sites without documenting it"
+          ],
+          "why": [
+            "Technique differences can mimic clinical change.",
+            "Treatment may explain changes and support evaluation.",
+            "Combining noncomparable measurements can hide differences and prevents interpretation of the original readings.",
+            "Unrecorded site differences weaken comparison."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "667484f327e42bd6c600f4766b1e1d9866029f5ccebb0ad41056037ca0577582"
+    },
+    {
+      "id": "x-risk-125",
+      "status": "pass",
+      "assessment": "Critical-result correction requires verification, prompt responsible-team communication and traceable documentation. Routine handover delay or assuming automatic distribution risks outdated treatment decisions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e29cbcffcf992482637da0da2c3b239599eee1d97204a91a578bc0c950135820"
+    }
+  ],
+  "reviewerTask": "/root/review_legacy"
+}

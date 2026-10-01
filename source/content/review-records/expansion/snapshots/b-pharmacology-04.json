@@ -1,0 +1,814 @@
+[
+  {
+    "id": "x-pharmacology-076",
+    "cat": "pharmacology",
+    "title": "Obtain cultures without an avoidable antibiotic delay",
+    "stem": "A stable client has orders for a urine culture and a first antibiotic dose for suspected infection. The specimen can be collected now. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Collect the specimen promptly before the first dose",
+      "Give the dose and collect urine after symptoms improve",
+      "Wait for the culture result before giving the ordered antibiotic",
+      "Collect the sample from a previously filled drainage bag"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Antibiotic exposure can reduce culture yield when sampling is easily obtained first.",
+      "Treatment may reduce the chance of identifying the organism.",
+      "Specimen collection does not require delaying treatment until results return.",
+      "Old bag urine may not reliably represent a fresh diagnostic specimen."
+    ],
+    "takeaway": "Antibiotic exposure can reduce culture yield when sampling is easily obtained first.",
+    "refs": [
+      "b-antibiotics"
+    ],
+    "exhibit": null,
+    "subtopic": "Antimicrobial therapy",
+    "learningObjective": "Collect an available ordered culture before antibiotics without awaiting the result.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-077",
+    "cat": "pharmacology",
+    "title": "Reassess therapy when susceptibility results arrive",
+    "stem": "A client improving on an empiric broad-spectrum antibiotic has a culture identifying a susceptible organism. What should the nurse anticipate?",
+    "type": "single",
+    "options": [
+      "Adding another antibiotic solely because a culture is positive",
+      "Team review for the most targeted effective regimen",
+      "Continuing broad coverage is always required after improvement",
+      "Stopping immediately because the organism is identified"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "A positive culture does not automatically justify duplicate coverage.",
+      "Susceptibility results can support narrowing therapy while maintaining effectiveness.",
+      "Clinical improvement does not eliminate the value of targeted treatment.",
+      "Identification alone does not establish completion of treatment."
+    ],
+    "takeaway": "Susceptibility results can support narrowing therapy while maintaining effectiveness.",
+    "refs": [
+      "b-antibiotics"
+    ],
+    "exhibit": null,
+    "subtopic": "Antimicrobial therapy",
+    "learningObjective": "Anticipate targeted antimicrobial review after organism susceptibility becomes available.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-078",
+    "cat": "pharmacology",
+    "title": "Clarify an incomplete allergy history",
+    "stem": "A client reports 'a penicillin allergy' before receiving a newly prescribed antibiotic. No reaction details are recorded. What is the best next step?",
+    "type": "single",
+    "options": [
+      "Remove the allergy because no written proof is available",
+      "Conclude that every antibiotic is contraindicated",
+      "Ask what happened, when it occurred and what treatment was needed",
+      "Assume nausea and airway swelling carry the same risk"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "An undocumented history still needs investigation before removal.",
+      "An allergy to one drug does not establish allergy to all antimicrobials.",
+      "Reaction characteristics help the team assess the allergy and antibiotic plan.",
+      "Different reaction types require different clinical interpretation."
+    ],
+    "takeaway": "Reaction characteristics help the team assess the allergy and antibiotic plan.",
+    "refs": [
+      "b-antibiotics"
+    ],
+    "exhibit": null,
+    "subtopic": "Antimicrobial therapy",
+    "learningObjective": "Elicit reaction details before interpreting a nonspecific antibiotic allergy history.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-079",
+    "cat": "pharmacology",
+    "title": "Respond to severe antibiotic-associated diarrhea",
+    "stem": "A client taking antibiotics develops frequent watery stools and abdominal cramping. What is most appropriate?",
+    "type": "single",
+    "options": [
+      "Recommend loperamide before evaluating the cause",
+      "Reassure that diarrhea means the antibiotic is working",
+      "Skip only the next meal and continue without reassessment",
+      "Assess hydration and promptly report possible antibiotic-associated infection"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Suppressing diarrhea may be inappropriate with suspected infectious colitis.",
+      "The symptom can represent a clinically important adverse complication.",
+      "Dietary changes alone do not address dehydration or possible infection.",
+      "Significant diarrhea may require testing, treatment review and transmission precautions."
+    ],
+    "takeaway": "Significant diarrhea may require testing, treatment review and transmission precautions.",
+    "refs": [
+      "b-antibiotics"
+    ],
+    "exhibit": null,
+    "subtopic": "Antimicrobial therapy",
+    "learningObjective": "Assess significant antibiotic-associated diarrhea for hydration and infectious complications.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-080",
+    "cat": "pharmacology",
+    "title": "Interpret antibiotic response using trends",
+    "stem": "After antibiotics begin for pneumonia, which findings most clearly support improvement? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Temperature trend and respiratory symptoms improve",
+      "Usual activity becomes easier at the same oxygen requirement",
+      "One normal temperature while an antipyretic is active",
+      "Less coughing accompanied by increasing somnolence",
+      "A falling white count with worsening hypotension"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "why": [
+      "The infection's clinical manifestations should lessen with effective treatment.",
+      "Functional improvement adds meaningful evidence of recovery.",
+      "This alone can mask fever without establishing infection control.",
+      "Reduced cough with declining alertness may indicate deterioration.",
+      "Laboratory improvement does not outweigh new circulatory compromise."
+    ],
+    "takeaway": "The infection's clinical manifestations should lessen with effective treatment.",
+    "refs": [
+      "b-antibiotics"
+    ],
+    "exhibit": null,
+    "subtopic": "Antimicrobial therapy",
+    "learningObjective": "Judge antimicrobial response using clinical trends rather than isolated laboratory changes.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-081",
+    "cat": "pharmacology",
+    "title": "Recognize aminoglycoside ototoxicity",
+    "stem": "A client receiving gentamicin reports new ringing in the ears and unsteadiness. The next dose is due. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Wait until the antibiotic course is complete to arrange testing",
+      "Promptly report the symptoms and clarify the next dose",
+      "Give the dose because hearing loss has not been confirmed",
+      "Treat dizziness with a sedative before administration"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Delay may allow potentially irreversible injury to progress.",
+      "Aminoglycosides can cause auditory and vestibular toxicity.",
+      "Early symptoms warrant review before further potentially harmful exposure.",
+      "Sedation can obscure neurological assessment without addressing ototoxicity."
+    ],
+    "takeaway": "Aminoglycosides can cause auditory and vestibular toxicity.",
+    "refs": [
+      "b-antibiotics"
+    ],
+    "exhibit": null,
+    "subtopic": "Antimicrobial adverse effects",
+    "learningObjective": "Report new auditory or balance symptoms during aminoglycoside exposure.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-082",
+    "cat": "pharmacology",
+    "title": "Review aminoglycoside clearance during renal decline",
+    "stem": "During gentamicin therapy, urine output falls and creatinine rises. The most recent drug level predates these changes. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Increase the dose because less drug reaches the urine",
+      "Measure only fluid intake before deciding the dose is safe",
+      "Request prompt review of current levels and dosing",
+      "Use the prior drug level to approve the next several doses"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Reduced elimination generally raises systemic accumulation concerns.",
+      "Intake alone does not assess drug clearance or nephrotoxicity.",
+      "Reduced clearance can increase exposure after a previously acceptable level.",
+      "An earlier level may no longer represent the client's exposure."
+    ],
+    "takeaway": "Reduced clearance can increase exposure after a previously acceptable level.",
+    "refs": [
+      "b-antibiotics"
+    ],
+    "exhibit": null,
+    "subtopic": "Antimicrobial adverse effects",
+    "learningObjective": "Reassess aminoglycoside clearance after acute renal deterioration.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-083",
+    "cat": "pharmacology",
+    "title": "Assess a vancomycin infusion reaction",
+    "stem": "During IV vancomycin, a client develops flushing and itching over the neck and chest. Blood pressure and breathing remain stable. What should the nurse do first?",
+    "type": "single",
+    "options": [
+      "Continue unchanged because blood pressure is normal",
+      "Label all future glycopeptides as confirmed anaphylactic allergies",
+      "Give the remaining infusion faster to shorten exposure",
+      "Pause the infusion and assess/report the reaction"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Stable pressure does not justify ignoring a new infusion reaction.",
+      "The current findings do not establish that specific immune mechanism.",
+      "Faster delivery can worsen an infusion-related reaction.",
+      "The pattern may be infusion related, but assessment is needed before a revised plan."
+    ],
+    "takeaway": "The pattern may be infusion related, but assessment is needed before a revised plan.",
+    "refs": [
+      "b-antibiotics"
+    ],
+    "exhibit": null,
+    "subtopic": "Antimicrobial adverse effects",
+    "learningObjective": "Pause and assess a stable flushing reaction during vancomycin infusion.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-084",
+    "cat": "pharmacology",
+    "title": "Recognize a severe cutaneous drug reaction",
+    "stem": "After starting trimethoprim-sulfamethoxazole, a client develops fever, a spreading painful rash and mouth sores. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Urgently escalate and withhold further doses pending review",
+      "Give the next dose with an antihistamine only",
+      "Treat the mouth sores and wait for the skin to peel",
+      "Reduce the dose independently and reassess next week"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Painful rash with mucosal involvement suggests a potentially severe drug reaction.",
+      "Symptom suppression does not address possible severe mucocutaneous injury.",
+      "Waiting for further progression delays necessary assessment.",
+      "An unprescribed reduction is inadequate for a serious suspected reaction."
+    ],
+    "takeaway": "Painful rash with mucosal involvement suggests a potentially severe drug reaction.",
+    "refs": [
+      "b-antibiotics"
+    ],
+    "exhibit": null,
+    "subtopic": "Antimicrobial adverse effects",
+    "learningObjective": "Recognize mucosal involvement and painful rash as a serious antimicrobial reaction pattern.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-085",
+    "cat": "pharmacology",
+    "title": "Respond to tendon pain during fluoroquinolone use",
+    "stem": "A client taking ciprofloxacin reports new Achilles tendon pain without trauma. What should the nurse advise?",
+    "type": "single",
+    "options": [
+      "Take the antibiotic with food and monitor only nausea",
+      "Avoid stressing the tendon and promptly contact the prescriber",
+      "Stretch forcefully before the next dose",
+      "Continue usual running unless swelling becomes visible"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Changing food timing does not address the tendon complaint.",
+      "Fluoroquinolones can cause tendon injury that needs treatment review.",
+      "Loading a potentially injured tendon may increase rupture risk.",
+      "Pain can precede marked swelling or rupture."
+    ],
+    "takeaway": "Fluoroquinolones can cause tendon injury that needs treatment review.",
+    "refs": [
+      "b-antibiotics"
+    ],
+    "exhibit": null,
+    "subtopic": "Antimicrobial adverse effects",
+    "learningObjective": "Respond promptly to new tendon pain during fluoroquinolone treatment.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-086",
+    "cat": "pharmacology",
+    "title": "Address tetracycline chelation",
+    "stem": "A client takes doxycycline together with calcium supplements and an antacid each morning. What instruction is most useful?",
+    "type": "single",
+    "options": [
+      "Crush all products together to improve absorption",
+      "Take them together only when a full meal is eaten",
+      "Check the product-specific separation interval with the pharmacist",
+      "Take an extra doxycycline tablet with the supplements"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Mixing does not prevent mineral binding.",
+      "A meal does not reliably remove this interaction.",
+      "Minerals can bind doxycycline and reduce its absorption.",
+      "Additional dosing is not a safe solution to impaired absorption."
+    ],
+    "takeaway": "Minerals can bind doxycycline and reduce its absorption.",
+    "refs": [
+      "b-antibiotics"
+    ],
+    "exhibit": null,
+    "subtopic": "Antimicrobial administration",
+    "learningObjective": "Address reduced tetracycline absorption from concurrent mineral-containing products.",
+    "reasoningSkill": "teaching",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-087",
+    "cat": "pharmacology",
+    "title": "Differentiate expected rifampin discoloration from danger",
+    "stem": "A client taking rifampin reports orange urine but no pain, jaundice or systemic symptoms. What is the best response?",
+    "type": "single",
+    "options": [
+      "Stop the medicine until urine becomes clear",
+      "Assume orange urine confirms dehydration",
+      "Report it as confirmed urinary bleeding",
+      "Explain expected discoloration and review symptoms requiring reporting"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "An expected effect alone does not justify interrupting essential therapy.",
+      "The medication itself can account for the colour change.",
+      "Orange discoloration without assessment is not proof of hematuria.",
+      "Rifampin can discolour body fluids without indicating organ injury."
+    ],
+    "takeaway": "Rifampin can discolour body fluids without indicating organ injury.",
+    "refs": [
+      "b-antibiotics"
+    ],
+    "exhibit": null,
+    "subtopic": "Antimicrobial administration",
+    "learningObjective": "Distinguish expected rifampin fluid discoloration from warning symptoms of injury.",
+    "reasoningSkill": "teaching",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-088",
+    "cat": "pharmacology",
+    "title": "Report vision changes on ethambutol",
+    "stem": "A client taking ethambutol says colours look different and reading is newly blurred. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Promptly contact the treatment team before further dosing",
+      "Wait for the next routine eye appointment in several months",
+      "Recommend stronger reading glasses first",
+      "Reassure because the client has no eye pain"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Ethambutol-associated optic toxicity needs timely assessment.",
+      "A new change requires earlier review to limit potential injury.",
+      "A prescription change should not precede evaluation of possible drug toxicity.",
+      "Optic toxicity can occur without pain."
+    ],
+    "takeaway": "Ethambutol-associated optic toxicity needs timely assessment.",
+    "refs": [
+      "b-antibiotics"
+    ],
+    "exhibit": null,
+    "subtopic": "Antimicrobial adverse effects",
+    "learningObjective": "Report new vision and colour-perception changes during ethambutol therapy.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-089",
+    "cat": "pharmacology",
+    "title": "Evaluate neuropathic symptoms during isoniazid",
+    "stem": "A client taking isoniazid reports new tingling in both feet and has not been taking prescribed pyridoxine. What is most appropriate?",
+    "type": "single",
+    "options": [
+      "Double isoniazid to complete the course sooner",
+      "Assess symptoms and report the missed pyridoxine and possible neuropathy",
+      "Advise permanently stopping all tuberculosis medicines",
+      "Treat tingling as proof the infection is resolving"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Increasing exposure may worsen adverse effects and changes the prescription.",
+      "Isoniazid-related neuropathy risk and supplementation need review.",
+      "Uncoordinated interruption can compromise treatment.",
+      "Peripheral tingling is not a marker of tuberculosis cure."
+    ],
+    "takeaway": "Isoniazid-related neuropathy risk and supplementation need review.",
+    "refs": [
+      "b-antibiotics"
+    ],
+    "exhibit": null,
+    "subtopic": "Antimicrobial adverse effects",
+    "learningObjective": "Link new peripheral tingling and missed pyridoxine to isoniazid-treatment review.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-090",
+    "cat": "pharmacology",
+    "title": "Support a complex tuberculosis regimen",
+    "stem": "A client finds the tuberculosis regimen difficult to manage and is considering taking only the tablet that causes least nausea. Which responses are appropriate? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Explore adverse effects and arrange regimen support",
+      "Explain why the prescribed combination should not be self-selected",
+      "Recommend taking only one medicine until appetite returns",
+      "Suggest saving omitted tablets to add after treatment ends",
+      "Assume missed doses are resolved once symptoms improve"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "why": [
+      "Addressing tolerability and practical barriers supports effective combination treatment.",
+      "Unplanned partial treatment can promote failure and resistance.",
+      "Selective therapy can undermine the intended regimen.",
+      "A delayed self-designed course is not an appropriate treatment plan.",
+      "Symptom improvement does not establish completion or cure."
+    ],
+    "takeaway": "Addressing tolerability and practical barriers supports effective combination treatment.",
+    "refs": [
+      "b-antibiotics"
+    ],
+    "exhibit": null,
+    "subtopic": "Antimicrobial therapy",
+    "learningObjective": "Address tuberculosis treatment barriers without permitting self-selected partial regimens.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-091",
+    "cat": "pharmacology",
+    "title": "Explain oral vancomycin for intestinal infection",
+    "stem": "A client prescribed oral vancomycin for C. difficile asks why an IV route is not automatically stronger. What is the best explanation?",
+    "type": "single",
+    "options": [
+      "IV medicines are always more effective than oral medicines",
+      "The routes can be exchanged dose for dose without review",
+      "Oral treatment is chosen only because it has no adverse effects",
+      "The prescribed oral route delivers treatment to the intestinal site"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Route alone does not establish effectiveness at a specific site.",
+      "Routes have different drug distribution and treatment roles.",
+      "Oral therapy can still have adverse effects and requires monitoring.",
+      "Route effectiveness depends on the target infection, not simply IV access."
+    ],
+    "takeaway": "Route effectiveness depends on the target infection, not simply IV access.",
+    "refs": [
+      "b-antibiotics"
+    ],
+    "exhibit": null,
+    "subtopic": "Antimicrobial therapy",
+    "learningObjective": "Explain why the intestinal treatment target determines oral vancomycin's role.",
+    "reasoningSkill": "teaching",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-092",
+    "cat": "pharmacology",
+    "title": "Administer oral nystatin for local effect",
+    "stem": "A client prescribed nystatin oral suspension immediately swallows it without distributing it in the mouth. What teaching is most useful?",
+    "type": "single",
+    "options": [
+      "Follow the prescribed directions for contact with affected oral surfaces",
+      "Mix it into a full drink to eliminate the taste",
+      "Stop treatment as soon as the first patch disappears",
+      "Use it immediately before rinsing vigorously with water"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Local contact is important when treating oral candidiasis.",
+      "Dilution and rapid swallowing may reduce useful oral contact.",
+      "Visible improvement does not automatically establish course completion.",
+      "Immediate rinsing may remove medicine from the treatment area."
+    ],
+    "takeaway": "Local contact is important when treating oral candidiasis.",
+    "refs": [
+      "b-antibiotics"
+    ],
+    "exhibit": null,
+    "subtopic": "Antimicrobial therapy",
+    "learningObjective": "Teach oral nystatin contact with affected mucosal surfaces.",
+    "reasoningSkill": "teaching",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-093",
+    "cat": "pharmacology",
+    "title": "Review fluconazole with anticoagulation",
+    "stem": "A client stable on warfarin is newly prescribed fluconazole. What should the nurse ensure?",
+    "type": "single",
+    "options": [
+      "Advise extra vitamin K foods to offset the new drug",
+      "Interaction review and an appropriate anticoagulation-monitoring plan",
+      "Continue usual monitoring because both doses are standard",
+      "Separate the medicines by two hours as the only precaution"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Unplanned dietary compensation makes anticoagulation less predictable.",
+      "Fluconazole can increase warfarin effect and bleeding risk.",
+      "Standard doses do not exclude a clinically significant interaction.",
+      "Spacing does not prevent the metabolic interaction."
+    ],
+    "takeaway": "Fluconazole can increase warfarin effect and bleeding risk.",
+    "refs": [
+      "b-antibiotics"
+    ],
+    "exhibit": null,
+    "subtopic": "Antimicrobial interactions",
+    "learningObjective": "Plan interaction monitoring when fluconazole is added to warfarin.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-094",
+    "cat": "pharmacology",
+    "title": "Assess a QT-risk antibiotic combination",
+    "stem": "A client prescribed azithromycin takes another QT-prolonging medicine and has potassium below the supplied reference range. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Separate the two medicines by one hour",
+      "Monitor only for a skin rash after administration",
+      "Clarify the regimen and electrolyte correction/monitoring plan",
+      "Give the antibiotic because there is no current chest pain"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Timing separation does not reliably remove their electrophysiological interaction.",
+      "A rash check does not address the identified cardiac risk.",
+      "Combined QT risk and hypokalemia can increase dysrhythmia risk.",
+      "Dysrhythmia risk can exist without chest pain."
+    ],
+    "takeaway": "Combined QT risk and hypokalemia can increase dysrhythmia risk.",
+    "refs": [
+      "b-antibiotics"
+    ],
+    "exhibit": null,
+    "subtopic": "Antimicrobial interactions",
+    "learningObjective": "Integrate electrolyte and medication risks before administering a QT-prolonging antibiotic.",
+    "reasoningSkill": "intervention",
+    "difficulty": "challenge",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-095",
+    "cat": "pharmacology",
+    "title": "Review clarithromycin with a statin",
+    "stem": "A client taking a statin is newly prescribed clarithromycin. The pharmacist flags a clinically important interaction for that product. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Give both because the antibiotic course is short",
+      "Advise spacing doses across morning and evening only",
+      "Tell the client to halve both medicines independently",
+      "Clarify the planned alternative or temporary medication adjustment"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Short exposure can still cause a significant interaction.",
+      "Spacing does not necessarily remove a metabolic interaction.",
+      "Arbitrary dose changes can reduce efficacy and do not establish safety.",
+      "The flagged combination requires an authorized plan before uncertain coadministration."
+    ],
+    "takeaway": "The flagged combination requires an authorized plan before uncertain coadministration.",
+    "refs": [
+      "b-antibiotics"
+    ],
+    "exhibit": null,
+    "subtopic": "Antimicrobial interactions",
+    "learningObjective": "Clarify an authorized response to a flagged statin-macrolide interaction.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-096",
+    "cat": "pharmacology",
+    "title": "Identify a potassium-raising antibiotic interaction",
+    "stem": "A client taking ramipril develops weakness after starting trimethoprim-sulfamethoxazole. Potassium is elevated. Which information is most relevant to report?",
+    "type": "single",
+    "options": [
+      "The combination can contribute to hyperkalemia",
+      "The antibiotic must have caused potassium loss",
+      "Weakness is unrelated if blood pressure is normal",
+      "The interaction can be excluded because administration times differ"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Trimethoprim and renin-angiotensin system inhibition can both increase potassium.",
+      "That interpretation conflicts with the elevated result and recognized interaction.",
+      "Normal pressure does not exclude an important electrolyte disturbance.",
+      "Dose spacing does not remove the potassium-retaining effects."
+    ],
+    "takeaway": "Trimethoprim and renin-angiotensin system inhibition can both increase potassium.",
+    "refs": [
+      "b-antibiotics"
+    ],
+    "exhibit": null,
+    "subtopic": "Antimicrobial adverse effects",
+    "learningObjective": "Identify a potassium-raising interaction between trimethoprim and ACE inhibition.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-097",
+    "cat": "pharmacology",
+    "title": "Clarify antibiotic delivery with continuous feeds",
+    "stem": "A client receives continuous enteral nutrition and a new antibiotic through the tube. Pharmacy identifies an interaction with the feed's minerals. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Increase the antibiotic amount to compensate for reduced absorption",
+      "Obtain a product-specific timing or alternative-route plan",
+      "Interrupt feeding for an arbitrary full day",
+      "Mix the antibiotic directly into the feed to dilute minerals"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Unprescribed dose compensation is unreliable and potentially unsafe.",
+      "The interaction and nutrition requirements need coordinated management.",
+      "An unnecessarily long hold compromises nutrition without a tailored plan.",
+      "Mixing may worsen binding and make dosing incomplete."
+    ],
+    "takeaway": "The interaction and nutrition requirements need coordinated management.",
+    "refs": [
+      "b-antibiotics"
+    ],
+    "exhibit": null,
+    "subtopic": "Antimicrobial administration",
+    "learningObjective": "Coordinate antibiotic administration with a mineral-containing continuous enteral feed.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-098",
+    "cat": "pharmacology",
+    "title": "Reassess presumed lower urinary infection",
+    "stem": "A client treated with nitrofurantoin for cystitis develops fever, flank pain and vomiting. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Give a second dose to improve kidney penetration",
+      "Treat only the nausea and continue the same plan",
+      "Promptly report possible upper urinary infection and treatment failure",
+      "Encourage completion without reporting until the last capsule"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Extra dosing does not establish adequate treatment of renal infection.",
+      "Symptom relief alone may mask worsening infection.",
+      "New systemic and flank symptoms suggest a condition needing a different assessment and regimen.",
+      "Progression beyond lower urinary symptoms requires earlier review."
+    ],
+    "takeaway": "New systemic and flank symptoms suggest a condition needing a different assessment and regimen.",
+    "refs": [
+      "b-antibiotics"
+    ],
+    "exhibit": null,
+    "subtopic": "Antimicrobial therapy",
+    "learningObjective": "Reassess presumed cystitis when systemic and flank symptoms develop during therapy.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-099",
+    "cat": "pharmacology",
+    "title": "Plan antibiotic use after discharge",
+    "stem": "A client leaves hospital with an antibiotic course and asks what to do if symptoms settle or adverse effects develop. Which instructions are appropriate? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Keep remaining doses for a similar illness months later",
+      "Share unused doses with someone who has the same symptoms",
+      "Restart the entire course independently after a missed dose",
+      "Take the medicine for the prescribed course unless the team changes the plan",
+      "Report severe adverse effects promptly for treatment advice"
+    ],
+    "answer": [
+      3,
+      4
+    ],
+    "why": [
+      "Future symptoms may have a different cause requiring reassessment.",
+      "Similar symptoms do not establish the same infection or prescription.",
+      "Missed-dose management does not usually mean an unreviewed new course.",
+      "Duration should follow the individualized treatment plan rather than symptom-based guessing.",
+      "Serious reactions may require urgent review and an altered regimen."
+    ],
+    "takeaway": "Duration should follow the individualized treatment plan rather than symptom-based guessing.",
+    "refs": [
+      "b-antibiotics"
+    ],
+    "exhibit": null,
+    "subtopic": "Antimicrobial therapy",
+    "learningObjective": "Teach prescribed antibiotic duration, missed-dose guidance and adverse-effect escalation.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-100",
+    "cat": "pharmacology",
+    "title": "Assess home IV antibiotic readiness",
+    "stem": "A client will manage home IV antibiotic therapy with nursing support. Which demonstrations support safe discharge planning? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "The client explains how to report fever, rash or line problems",
+      "The client follows the taught aseptic connection procedure",
+      "The client plans to change infusion speed whenever running late",
+      "The client recognizes the bag by colour but cannot confirm its label",
+      "The client expects the pump alarm to identify every site complication"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "why": [
+      "Recognizing complications supports timely contact and reassessment.",
+      "Observed technique helps establish practical ability to handle the system.",
+      "Unprescribed rate changes can cause adverse effects or delivery problems.",
+      "Appearance alone does not verify drug, dose or intended client.",
+      "Infiltration or inflammation may occur without a reliable pump alarm."
+    ],
+    "takeaway": "Recognizing complications supports timely contact and reassessment.",
+    "refs": [
+      "b-antibiotics"
+    ],
+    "exhibit": null,
+    "subtopic": "Antimicrobial administration",
+    "learningObjective": "Evaluate practical readiness for supported home intravenous antibiotic therapy.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  }
+]

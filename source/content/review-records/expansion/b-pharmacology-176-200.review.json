@@ -1,0 +1,298 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:58:13.664449+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/b-pharmacology-08-final.json",
+  "sourceSha256": "2a763c416186e2aef9efe8bfe75005174ac5a8f38f36bdcd2b402a337dfe1f39",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-pharmacology-176",
+      "x-pharmacology-177",
+      "x-pharmacology-178",
+      "x-pharmacology-179",
+      "x-pharmacology-180",
+      "x-pharmacology-181",
+      "x-pharmacology-182",
+      "x-pharmacology-183",
+      "x-pharmacology-184",
+      "x-pharmacology-185",
+      "x-pharmacology-186",
+      "x-pharmacology-187",
+      "x-pharmacology-188",
+      "x-pharmacology-189",
+      "x-pharmacology-190",
+      "x-pharmacology-191",
+      "x-pharmacology-192",
+      "x-pharmacology-193",
+      "x-pharmacology-194",
+      "x-pharmacology-195",
+      "x-pharmacology-196",
+      "x-pharmacology-197",
+      "x-pharmacology-198",
+      "x-pharmacology-199",
+      "x-pharmacology-200"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.medlineplus.gov/druginfo/meds/a681043.html",
+      "claims": "Opened primary government medicine information for suspected pregnancy/missed period during isotretinoin; supports immediate stop and prescriber contact."
+    },
+    {
+      "url": "https://sogc.org/common/Uploaded%20files/ACSC/ACSC2025/gui431CPG2212E.pdf",
+      "claims": "Retrieval attempt returned404. This URL does not count as verified support. Replacement primary source requested; clinical content183 is independently assessed, but its source registry needs repair."
+    },
+    {
+      "url": "https://handbook.bcehs.ca/clinical-practice-guidelines/p-palliative-care/p04-palliative-care-dyspnea/",
+      "claims": "Opened BC palliative dyspnoea guidance for context of existing prescribed opioid symptom care. Item199 evaluates a provided plan, not independent initiation."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-pharmacology-176",
+      "status": "pass",
+      "assessment": "Possible pregnancy during isotretinoin exposure supports immediate interruption and prompt assessment; confirmation, dose reduction and delayed testing are recognizable unsafe misconceptions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e01e85a9241532fca0147e83322a0f7e49dd6b06946eaa2a46ebcc0bb38f9392"
+    },
+    {
+      "id": "x-pharmacology-177",
+      "status": "pass",
+      "assessment": "Preconception timing, reliable contraception and seizure stability support supervised specialist review rather than self-directed withdrawal. Keys and explanations are coherent.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "74e4f1ea7977878cf4c93bb4e5e95780c1bd2015c8cac7f13b2ac71aac1b742d"
+    },
+    {
+      "id": "x-pharmacology-178",
+      "status": "pass",
+      "assessment": "Specific prematurity and exposure data distinguish individualized lactation assessment from dose timing, adult-dose and pregnancy-safety shortcuts.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2fe740d81a5043e315aab761859fd6107200f2f4c0808915c09a62d6321bc99f"
+    },
+    {
+      "id": "x-pharmacology-179",
+      "status": "revise",
+      "assessment": "Weight discrepancy clarification is appropriate; averaging a six-month-old and current weight has no plausible clinical basis.",
+      "issues": [
+        "Weight discrepancy clarification is appropriate; averaging a six-month-old and current weight has no plausible clinical basis."
+      ],
+      "proposedChanges": [
+        "Replace averaging with a credible verification step, such as repeating the current weight on a second scale, and explain why the confirmed old-weight prescription still requires clarification."
+      ],
+      "reviewedItemSha256": "ee2f5b3e57196dafbeb3c5512f715715e04b6f823c1ab073dfa35628cd830a4b"
+    },
+    {
+      "id": "x-pharmacology-180",
+      "status": "pass",
+      "assessment": "Ingredient-specific viral-illness precaution is clearly distinguished from dose, food and coating changes; specialist aspirin exception avoids an overbroad rule.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "117fa582b7ae3a2cf3777640183f998b820be95c3465d19361b079e9e830eb32"
+    },
+    {
+      "id": "x-pharmacology-181",
+      "status": "revise",
+      "assessment": "The stem explicitly states immediate stopping for this pattern and the key repeats it, reducing the task to copying.",
+      "issues": [
+        "The stem explicitly states immediate stopping for this pattern and the key repeats it, reducing the task to copying."
+      ],
+      "proposedChanges": [
+        "Supply a short protocol with different actions for excessive contractions with versus without fetal deterioration, and require applying the observed count/trend rather than repeating the exact action in the stem."
+      ],
+      "reviewedItemSha256": "27d3e242161294077409d270ae0792eaa003fd1bffd495beab70d034b9b670a4"
+    },
+    {
+      "id": "x-pharmacology-182",
+      "status": "revise",
+      "assessment": "Severe hypertension warrants a uterotonic alternative, but supporting an already very high pressure with vasoconstriction is a weak distractor.",
+      "issues": [
+        "Severe hypertension warrants a uterotonic alternative, but supporting an already very high pressure with vasoconstriction is a weak distractor."
+      ],
+      "proposedChanges": [
+        "Replace with a plausible lower-dose request or pre-treatment antihypertensive proposal; explain why simply modifying administration does not resolve the drug-specific contraindication."
+      ],
+      "reviewedItemSha256": "dc2ea4b8934eb82c2f13985884b734b769f023c6165025ae3694ce75c2f552cd"
+    },
+    {
+      "id": "x-pharmacology-183",
+      "status": "pass",
+      "assessment": "Active asthma meaningfully differentiates carboprost risk from other plausible postpartum histories; no independent prescribing is implied.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "da3b24ac0f27299e906971a60d7468068e03800a6c400753f794cd5b29cf90d3"
+    },
+    {
+      "id": "x-pharmacology-184",
+      "status": "revise",
+      "assessment": "Rh prophylaxis purpose is correct; changing blood group and treating through milk are cartoon mechanisms.",
+      "issues": [
+        "Rh prophylaxis purpose is correct; changing blood group and treating through milk are cartoon mechanisms."
+      ],
+      "proposedChanges": [
+        "Use plausible preventive-purpose misunderstandings, such as preventing all blood-group incompatibilities, treating current fetal anaemia, or reversing established sensitization. Classify foundation if the task remains purpose recall."
+      ],
+      "reviewedItemSha256": "e687ddae60d7744ad93b8588c4af2e2d1493ebb2fa3e658be96366f087e4ce42"
+    },
+    {
+      "id": "x-pharmacology-185",
+      "status": "pass",
+      "assessment": "Grapefruit timing, formulation and consistent-consumption misconceptions are plausible; the key preserves transplant-team advice and ongoing monitoring.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "56680c368d07f15cd7bba8f1c307dd3dba352886c02514f386d56baaf974e751"
+    },
+    {
+      "id": "x-pharmacology-186",
+      "status": "pass",
+      "assessment": "The live-versus-inactivated distinction and potentially reduced response are clinically useful; the stem names the immunosuppression and vaccine types rather than relying on vague immunity labels.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c1aceac154608a67e98cca070239e6e7c9ebb309ba9b06cc34db4d927c058724"
+    },
+    {
+      "id": "x-pharmacology-187",
+      "status": "revise",
+      "assessment": "Latent infection concept is useful, but predicting immediate allergy and measuring an already-received treatment before the first dose are weak or temporally impossible.",
+      "issues": [
+        "Latent infection concept is useful, but predicting immediate allergy and measuring an already-received treatment before the first dose are weak or temporally impossible."
+      ],
+      "proposedChanges": [
+        "Use parallel explanations such as detecting latent infection, establishing a baseline for future exposure, evaluating active respiratory infection, and determining vaccine history; make the reactivation rationale decisive. Consider foundation."
+      ],
+      "reviewedItemSha256": "86dab38b23d5dc12c13c94af67dda97e9e21a2cbb316a52a657977b42b1e7cb0"
+    },
+    {
+      "id": "x-pharmacology-188",
+      "status": "pass",
+      "assessment": "Actual temperature/neutrophil values are applied to a supplied individualized threshold; antipyretic-first and confirmatory-measurement delays are plausible errors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b164e96dd65adf23fd34a9eb3fe2d37ccfa440fb59e166aaa7f4d2fd13d754ac"
+    },
+    {
+      "id": "x-pharmacology-189",
+      "status": "revise",
+      "assessment": "The non-rectal route concern is defensible, but the unspecified suppository applicator is awkward and potentially unrealistic.",
+      "issues": [
+        "The non-rectal route concern is defensible, but the unspecified suppository applicator is awkward and potentially unrealistic."
+      ],
+      "proposedChanges": [
+        "Replace with generous lubrication and gentle insertion of the prescribed suppository; explain why gentler technique does not remove the current mucosal-risk concern."
+      ],
+      "reviewedItemSha256": "fa2432ef8193fda87cadcad5fbb4e925f94c24a0e994f9f4fc8704617bcd6c2d"
+    },
+    {
+      "id": "x-pharmacology-190",
+      "status": "revise",
+      "assessment": "Handling instruction is sound, but a household shared medication bowl is implausible.",
+      "issues": [
+        "Handling instruction is sound, but a household shared medication bowl is implausible."
+      ],
+      "proposedChanges": [
+        "Replace with a realistic proposal to transfer tablets into a weekly organizer with other medicines; explicitly supply the pharmacy original-container instruction if that is required for this product so the wrong option is defensible."
+      ],
+      "reviewedItemSha256": "d8ea2d59abf98945320e3a75159e897f3f6a004fb0b310fe125aa820b31a7dcf"
+    },
+    {
+      "id": "x-pharmacology-191",
+      "status": "pass",
+      "assessment": "Independent arithmetic:450×5/400=5.625mL, rounded5.6mL. Dose versus daily-total errors are distinguished, and the scenario is explicitly calculation-only.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f39ac44379ff2ed5f35625837b23c7a76aa94db0f4e03e25c33c19cd17a07ab7"
+    },
+    {
+      "id": "x-pharmacology-192",
+      "status": "pass",
+      "assessment": "Independent arithmetic:1.2g=1200mg; withdraw12mL; final60mL/0.75h=80mL/h. Concentrate versus final volume and conversion distractors are meaningful.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f558ebe7ba3297b4a4f17ae651a2fab5b202dbabce650b3869d16674fce3e83f"
+    },
+    {
+      "id": "x-pharmacology-193",
+      "status": "pass",
+      "assessment": "Independent arithmetic:18×75=1350units/h;25000/250=100units/mL;13.5mL/h. Units, weight and final bag volume are explicit.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d98401df190c40fc5d6974a18601d23886527ab8f2253a8516a27da49e20cbde"
+    },
+    {
+      "id": "x-pharmacology-194",
+      "status": "pass",
+      "assessment": "Independent arithmetic:500×15/240=31.25drops/min, rounded31. Tubing factor, time and requested units are clear.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f160d31474cc20860f2da188d9b27ff16fd1b9a1b77e0de26220d25f70454f87"
+    },
+    {
+      "id": "x-pharmacology-195",
+      "status": "pass",
+      "assessment": "Independent arithmetic:4×650+2×325=3250mg. Projected versus already-received total and individualized rolling24-hour limit are explicit and defensible.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a7dbc324d6f3a71eb46e46574f7ff79606c8af38478988e5057995ac924463fa"
+    },
+    {
+      "id": "x-pharmacology-196",
+      "status": "pass",
+      "assessment": "Independent arithmetic:1200−(40×24+2×50+6×10)=80mL. Entire planned IV intake is explicitly stated; omission distractors map to identifiable components.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4488885ce0591412106570e2c030b2bbc8db1aa1828fd710e9329e86608467a6"
+    },
+    {
+      "id": "x-pharmacology-197",
+      "status": "pass",
+      "assessment": "Specific glargine/lispro regimen distinguishes co-prescription from mixing permission; clear-before-cloudy and immediate-use misconceptions do not override glargine restriction.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "66da756574ae14a9912ff14cec965775ee20fd58d003c39dc15b39e89abd8270"
+    },
+    {
+      "id": "x-pharmacology-198",
+      "status": "revise",
+      "assessment": "Persistent local wound concern is useful, but increased bone remodelling as therapeutic benefit is a weak distractor.",
+      "issues": [
+        "Persistent local wound concern is useful, but increased bone remodelling as therapeutic benefit is a weak distractor."
+      ],
+      "proposedChanges": [
+        "Replace with a plausible attribution such as delayed healing from local dental infection unrelated to the medicine; ensure the keyed response requests assessment without claiming osteonecrosis is established at three weeks."
+      ],
+      "reviewedItemSha256": "b27be83fdc6fd65c3b7dd86d7874740915bc2f0263f96052e4c32cbd4e7cce13"
+    },
+    {
+      "id": "x-pharmacology-199",
+      "status": "pass",
+      "assessment": "Under an already prescribed comfort plan, symptom relief with preserved alertness and normal respiratory rate supports benefit without current excessive sedation; no universal recommendation to initiate opioids is made.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "157392490d833e3ea79e67a8162844a033f193eb5793f908e56d5aab82b57388"
+    },
+    {
+      "id": "x-pharmacology-200",
+      "status": "pass",
+      "assessment": "The explicit product swallowing mechanism and NPO order distinguish disintegration from bypassing aspiration risk; water-free, thickened and alertness-based shortcuts are plausible.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "88dccfda9ebc785cb1dff1b002b135e2bfbfe93b4e5c2eef44ac3288ff71b46d"
+    }
+  ],
+  "activeSourceFile": "authoring/b/pharmacology-08.json",
+  "arithmeticVerification": "All six calculation keys191–196 independently recomputed manually from the stated data; no external dosing appropriateness implied by calculation-only tasks.",
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

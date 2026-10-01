@@ -1,0 +1,194 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewerTask": "/root/author_management_safety",
+  "reviewedAt": "2026-10-01T18:04:11.600791+00:00",
+  "sourceFile": "bank-expansion/reviews/expansion/cross-a-health-revised-snapshot.json",
+  "coverage": {
+    "reviewedItems": 18,
+    "reviewedIds": [
+      "x-health-182",
+      "x-health-183",
+      "x-health-184",
+      "x-health-185",
+      "x-health-186",
+      "x-health-187",
+      "x-health-188",
+      "x-health-189",
+      "x-health-190",
+      "x-health-191",
+      "x-health-192",
+      "x-health-194",
+      "x-health-195",
+      "x-health-196",
+      "x-health-197",
+      "x-health-198",
+      "x-health-199",
+      "x-health-200"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Reread complete revised items including metadata, references, key, every option and rationale against the original issue. Each row reflects actual independent reasoning, not automatic acceptance of proposed edits.",
+  "limitations": [
+    "Not external clinician or psychometric validation",
+    "Primary-source checks are targeted and documented in prior reports; additional references supplied by the author are not claimed as newly independently verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-health-182",
+      "status": "revise",
+      "assessment": "Private symptom/healing assessment is now compared with plausible lubricant and pelvic-floor options, but booking persistent pain for the next annual examination retains an extreme delay foil.",
+      "issues": [
+        "Private symptom/healing assessment is now compared with plausible lubricant and pelvic-floor options, but booking persistent pain for the next annual examination retains an extreme delay foil."
+      ],
+      "proposedChanges": [
+        "Replace option2 with Schedule a follow-up call after trying comfort measures. Explain that this delays assessing the current healing concern; the other options and key can remain."
+      ],
+      "reviewedItemSha256": "1464e11fe0053e3fa350b1125ee35b81c53d1aec481b39fb309b0a6b0f34f08d"
+    },
+    {
+      "id": "x-health-183",
+      "status": "pass",
+      "assessment": "Specific age, condom use and desire to prevent pregnancy make continued protection with individual review appropriate; irregular cycles and one hormone result do not establish infertility.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3b7dc9813711fd6fd2ad81d304e69aa85b27e684a351b375ce9b16b36ad58cab"
+    },
+    {
+      "id": "x-health-184",
+      "status": "pass",
+      "assessment": "Photographs establish evolving asymmetry and colour over weeks. Painlessness does not make further symptom-triggered monitoring adequate; clinical evaluation is justified.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f7afba79c8ee95bd280998a27bbb684b15d9d9970f49f044052aa14279464401"
+    },
+    {
+      "id": "x-health-185",
+      "status": "pass",
+      "assessment": "Medication-linked dry mouth with eating impact supports causal review and oral prevention; sugar-containing lozenges are a credible caries-risk misconception.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f48bef742bd77255340b4a0eac02a49bc46b263e4aa241dcc6cba293c808b7f6"
+    },
+    {
+      "id": "x-health-186",
+      "status": "pass",
+      "assessment": "The options are now feasible sun-management attempts; protective coverage and timing most comprehensively address exposure without altering prescribed treatment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "005d81b4479da19ada1016bbae08f88044eff8afc94764fe9a76bb2587f92c92"
+    },
+    {
+      "id": "x-health-187",
+      "status": "pass",
+      "assessment": "Ability to eat ordinary food and a finite grocery budget support an immediate feasible meal plan before endorsing an unindicated commercial product.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "400a733bed2190a420c6cd0e67e335b8ea3e1d209c41b0ee695bb346ad8efdc6"
+    },
+    {
+      "id": "x-health-188",
+      "status": "pass",
+      "assessment": "Shoulder pain during propulsion is the discriminating cue requiring adapted assessment before increasing upper-limb exercise demand.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "37893428280692ba4cac1c23fe74f00cc150546fe3bb7f991f46d07c3a740363"
+    },
+    {
+      "id": "x-health-189",
+      "status": "pass",
+      "assessment": "Other participants are acting on a consequential unverified cure claim, supporting respectful clarification now rather than private or delayed correction.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9b0b1c347ae14ef901ca5145ad366c07e51eaad106a2faebdc06bf6a973ae1dd"
+    },
+    {
+      "id": "x-health-190",
+      "status": "revise",
+      "assessment": "Surveying current attendees can still contribute to improving service access, so it is not unequivocally incorrect under which changes may improve reach. The rationale inserts alone, which the option no longer says.",
+      "issues": [
+        "Surveying current attendees can still contribute to improving service access, so it is not unequivocally incorrect under which changes may improve reach. The rationale inserts alone, which the option no longer says."
+      ],
+      "proposedChanges": [
+        "Make the nonkey a specific invalid inference, e.g Plan changes for nonattenders using current-attendee ratings as their representative views. Explain that the reached group cannot be presumed to represent the missing group. Keep other outreach actions."
+      ],
+      "reviewedItemSha256": "5556d35ba56a7e3ee1885c9337549a284a37b4a32b3be4a1706958166f352b8b"
+    },
+    {
+      "id": "x-health-191",
+      "status": "pass",
+      "assessment": "A four-day-old with increasing jaundice and abnormal waking has a specific urgent clinical pattern; the key and rationale no longer contain an advertised contrast.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1f76e2d81d7bff13fed564295b2768d8d2428df0203a0d0e35ee2c8daa7a64da"
+    },
+    {
+      "id": "x-health-192",
+      "status": "pass",
+      "assessment": "Day-five fever, pelvic pain and foul discharge justify prompt infection assessment; antipyretic response does not resolve the combined concern.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7a1e0877a0baafed039e6024eb8bbc7a69d57d8fa9a2fe32b8085bfb6e5e2b83"
+    },
+    {
+      "id": "x-health-194",
+      "status": "pass",
+      "assessment": "Faintness while sitting with new heavy bleeding indicates possible compromise and supports emergency services over routine callback or self-transport.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8f4291912d83dde8c36df2fd78ec9953662a3c644458fb9b9d1592451c41f50e"
+    },
+    {
+      "id": "x-health-195",
+      "status": "pass",
+      "assessment": "Five concrete newborn observations distinguish abnormal alertness, respiratory distress and reduced intake/output from uncomplicated hiccups and sneezing; urgency is clarified in rationales.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d88c8b27f69afdf9947525ea02d2cbe383f08600ee06cc279307bf013ba2615c"
+    },
+    {
+      "id": "x-health-196",
+      "status": "pass",
+      "assessment": "The actual age/temperature/behaviour comparison demonstrates that marked breathing effort can be more urgent than a higher fever with reassuring function.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0a101f0e8d0d8ca76e3157168286578b3610a2d33d7690cf8deefc79f189e483"
+    },
+    {
+      "id": "x-health-197",
+      "status": "pass",
+      "assessment": "A named blood test and direct pain question support honest brief sensations plus coping; the alternatives are recognizable preparation approaches with specific limits.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "98e77ed180de5e12d8eb7b17a4ce501a43b563fac9475851fa0a00a1aab537d3"
+    },
+    {
+      "id": "x-health-198",
+      "status": "pass",
+      "assessment": "The specific unsafe pillow plan and desired grandparent involvement make shared practical review useful before care begins.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e0787ebd88eb55c76ecf99e600bf99fc4c9dcbf6c9eb744fc9eb4db6e09f2c14"
+    },
+    {
+      "id": "x-health-199",
+      "status": "pass",
+      "assessment": "Observed voice orientation and reaching make responsive simple-object play a concrete developmentally matched activity rather than a generic anti-marketing claim.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c2de9b651475afddbcdba2f18dd5ad9769e516092a88ffd0546d7e8b9112cf52"
+    },
+    {
+      "id": "x-health-200",
+      "status": "revise",
+      "assessment": "The stem does not establish that the previous meal times conflict with the new break, so retaining them may remain feasible. The rationale says may conflict but that is insufficient to make it a definite SATA nonkey.",
+      "issues": [
+        "The stem does not establish that the previous meal times conflict with the new break, so retaining them may remain feasible. The rationale says may conflict but that is insufficient to make it a definite SATA nonkey."
+      ],
+      "proposedChanges": [
+        "State the actual conflict, e.g previous evening meal at18:00, new shift16:00–00:00 with meal break20:30 and no meal access at18:00. Then the fixed previous schedule is demonstrably infeasible while planning/storage/review remain correct."
+      ],
+      "reviewedItemSha256": "744e6a2b71e2cb48965645b3fcb45731693ce0b6788d238c04f5b77d02c1c283"
+    }
+  ]
+}

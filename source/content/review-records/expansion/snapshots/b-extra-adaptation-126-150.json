@@ -1,0 +1,804 @@
+[
+  {
+    "id": "x-adaptation-126",
+    "cat": "adaptation",
+    "title": "Interpret saturation in anaemia",
+    "stem": "A client with haemoglobin 74 g/L becomes breathless walking to the bathroom. SpO2 is 98% on room air. Which interpretation should guide the nurse's assessment?",
+    "type": "single",
+    "options": [
+      "The saturation makes anaemia an unlikely contributor to symptoms",
+      "A high saturation means the walk is safe to continue at the same pace",
+      "Oxygen carriage can be reduced despite a normal saturation percentage",
+      "The reading indicates that the haemoglobin result should be discarded"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Saturation describes the proportion of haemoglobin carrying oxygen, not the amount of haemoglobin available.",
+      "Symptoms and functional tolerance still require assessment; the monitor is not permission to continue exertion.",
+      "Fewer red cells can reduce oxygen-carrying capacity even when the remaining haemoglobin is well saturated.",
+      "The two measurements describe different properties and can both be correct."
+    ],
+    "takeaway": "Interpret oxygen saturation alongside haemoglobin and clinical tolerance.",
+    "refs": [
+      "ba-anaemia"
+    ],
+    "exhibit": null,
+    "subtopic": "Anaemia and oxygen delivery",
+    "learningObjective": "Interpret oxygen saturation alongside haemoglobin and clinical tolerance.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-127",
+    "cat": "adaptation",
+    "title": "Adapt activity during anaemia treatment",
+    "stem": "A stable client receiving treatment for anaemia wants to shower independently but becomes exhausted after dressing. Which plan best supports safe independence today?",
+    "type": "single",
+    "options": [
+      "Arrange a seated shower with rest breaks and reassess tolerance",
+      "Complete the full shower quickly so the exertion ends sooner",
+      "Keep the client in bed for the day and perform all hygiene tasks",
+      "Schedule showering immediately after the longest rehabilitation session"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Pacing and sitting reduce demand while retaining the client's participation; observe symptoms and adapt further if needed.",
+      "Concentrating exertion may exceed current tolerance.",
+      "Total assistance may unnecessarily remove manageable activity from a stable client's routine.",
+      "Accumulating strenuous activities can worsen fatigue and reduce safety."
+    ],
+    "takeaway": "Match activity to current physiological tolerance while preserving achievable independence.",
+    "refs": [
+      "ba-anaemia"
+    ],
+    "exhibit": null,
+    "subtopic": "Anaemia activity tolerance",
+    "learningObjective": "Match activity to current physiological tolerance while preserving achievable independence.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-128",
+    "cat": "adaptation",
+    "title": "Identify symptomatic anaemia that cannot wait",
+    "stem": "An adult awaiting planned investigation for anaemia develops chest pressure at rest, a pulse of 122/min and clammy skin. Which action takes priority?",
+    "type": "single",
+    "options": [
+      "Discuss iron-rich food choices while checking the next appointment",
+      "Administer the prescribed oral iron and reassess after lunch",
+      "Obtain a stool history to identify a possible source of chronic loss",
+      "Initiate urgent assessment of the new chest symptoms and circulation"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Long-term nutrition advice does not address a new possible ischaemic or circulatory event.",
+      "Oral iron does not rapidly correct an acute physiological threat.",
+      "History is useful after immediate assessment and stabilization.",
+      "New chest pressure with tachycardia and clamminess requires urgent assessment irrespective of the planned anaemia workup."
+    ],
+    "takeaway": "New symptoms at rest change the urgency of a previously stable condition.",
+    "refs": [
+      "ba-anaemia"
+    ],
+    "exhibit": null,
+    "subtopic": "Anaemia acute symptom escalation",
+    "learningObjective": "New symptoms at rest change the urgency of a previously stable condition.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-129",
+    "cat": "adaptation",
+    "title": "Assess bleeding risk after a minor impact",
+    "stem": "A client with a platelet count of 18 × 10^9/L reports bumping their head against a cupboard. There is no visible wound, but a new headache is increasing. Which response is most appropriate?",
+    "type": "single",
+    "options": [
+      "Apply a cold pack and use the size of any bruise to guide follow-up",
+      "Arrange urgent assessment for possible concealed bleeding",
+      "Offer prescribed analgesia and assess after the client has slept",
+      "Compare the headache with previous tension headaches before deciding on review"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "A small or absent external bruise does not exclude intracranial bleeding.",
+      "Severe thrombocytopenia plus an increasing headache after impact warrants urgent assessment.",
+      "Symptom treatment and sleep should not delay evaluation of a potentially serious bleed.",
+      "Past headache patterns cannot safely explain a new symptom following trauma in this context."
+    ],
+    "takeaway": "Bleeding risk and mechanism matter even when an external injury looks minor.",
+    "refs": [
+      "ba-platelets"
+    ],
+    "exhibit": null,
+    "subtopic": "Thrombocytopenia concealed bleeding",
+    "learningObjective": "Bleeding risk and mechanism matter even when an external injury looks minor.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-130",
+    "cat": "adaptation",
+    "title": "Start effective first aid for epistaxis",
+    "stem": "A conscious, haemodynamically stable adult has an anterior nosebleed that started two minutes ago. Which nursing action is best initially?",
+    "type": "single",
+    "options": [
+      "Lie the client flat and place a cold pack over the forehead",
+      "Tilt the client's head back and have them swallow accumulated blood",
+      "Sit the client forward and pinch the soft nose continuously",
+      "Ask the client to blow the nose repeatedly until the clots clear"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Lying flat promotes blood running into the throat and does not provide direct pressure.",
+      "Tilting backward can lead to swallowed blood and obscures ongoing loss.",
+      "Forward positioning and sustained pressure to the soft part of the nose support haemostasis; reassess and escalate persistent or heavy bleeding.",
+      "Repeated blowing can disrupt clot formation and prolong bleeding."
+    ],
+    "takeaway": "Apply sustained local pressure and a position that allows blood to drain forward.",
+    "refs": [
+      "ba-epistaxis"
+    ],
+    "exhibit": null,
+    "subtopic": "Epistaxis first response",
+    "learningObjective": "Apply sustained local pressure and a position that allows blood to drain forward.",
+    "reasoningSkill": "intervention",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-131",
+    "cat": "adaptation",
+    "title": "Respond to a sickle cell pain report",
+    "stem": "A 16-year-old with sickle cell disease reports severe leg and back pain typical of previous vaso-occlusive episodes. Vital signs are currently stable. The individualized analgesia plan is available. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Begin the authorized pain plan and reassess pain, function and adverse effects",
+      "Wait for a rise in pulse or blood pressure to confirm the reported severity",
+      "Request imaging results before offering the prescribed analgesic",
+      "Start with distraction and defer medication until its effect is known"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Prompt individualized pain care and repeated assessment are appropriate while checking for complications.",
+      "Stable vital signs do not invalidate a severe pain report.",
+      "Investigations may be needed, but should not unnecessarily postpone authorized analgesia.",
+      "Nonpharmacological support complements treatment; it should not create an avoidable delay in severe pain care."
+    ],
+    "takeaway": "Treat a credible pain report promptly while continuing assessment for complications.",
+    "refs": [
+      "ba-sickle"
+    ],
+    "exhibit": null,
+    "subtopic": "Sickle cell pain response",
+    "learningObjective": "Treat a credible pain report promptly while continuing assessment for complications.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-132",
+    "cat": "adaptation",
+    "title": "Recognize a changed sickle cell presentation",
+    "stem": "A child hospitalized for a sickle cell pain episode develops fever, chest pain and new breathlessness. SpO2 falls from 97% to 90% on room air. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Treat this as the same pain episode and reassess after the next analgesic",
+      "Activate urgent respiratory assessment and prescribed oxygen support",
+      "Encourage a longer walk to improve ventilation before requesting review",
+      "Increase oral drinks and reassess after the child finishes a cup"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "New respiratory findings require assessment beyond the existing limb-pain plan.",
+      "This pattern raises concern for an acute chest complication; provide immediate support and urgent team assessment.",
+      "Exertion is inappropriate during new hypoxaemia and respiratory distress.",
+      "Hydration is relevant to care but does not replace immediate respiratory assessment."
+    ],
+    "takeaway": "A new respiratory pattern during a sickle cell episode warrants urgent reassessment.",
+    "refs": [
+      "ba-sickle-acs"
+    ],
+    "exhibit": null,
+    "subtopic": "Sickle cell acute chest complication",
+    "learningObjective": "A new respiratory pattern during a sickle cell episode warrants urgent reassessment.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-133",
+    "cat": "adaptation",
+    "title": "Reassess hydration during a pain episode",
+    "stem": "A child with sickle cell disease is receiving prescribed IV fluid. Urine output is adequate, but new crackles and breathlessness develop. Which action is most appropriate?",
+    "type": "single",
+    "options": [
+      "Encourage additional oral fluid because hydration reduces sickling",
+      "Increase the fluid rate to ensure renal clearance remains adequate",
+      "Use the normal urine output as evidence that the fluid plan is tolerated",
+      "Promptly reassess respiratory status and seek review of fluid delivery"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "More fluid may aggravate emerging congestion; hydration needs must be individualized.",
+      "An unprescribed increase would be unsafe with possible fluid overload.",
+      "Adequate urine does not exclude respiratory complications or excess fluid.",
+      "The new findings require assessment for overload and other sickle cell complications; review the current fluid plan with the team."
+    ],
+    "takeaway": "Evaluate hydration treatment for both benefit and emerging respiratory harm.",
+    "refs": [
+      "ba-sickle"
+    ],
+    "exhibit": null,
+    "subtopic": "Sickle cell hydration tolerance",
+    "learningObjective": "Evaluate hydration treatment for both benefit and emerging respiratory harm.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "challenge",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-134",
+    "cat": "adaptation",
+    "title": "Recognize acute splenic sequestration cues",
+    "stem": "A 3-year-old with sickle cell disease becomes pale and unusually sleepy. The abdomen is larger than usual, pulse is 154/min and the caregiver says the spleen feels larger than taught at the last visit. Which response is best?",
+    "type": "single",
+    "options": [
+      "Provide a snack and compare alertness after eating",
+      "Arrange a routine abdominal ultrasound for the following week",
+      "Obtain immediate emergency assessment of possible circulatory compromise",
+      "Treat the enlargement as an expected chronic finding and record it"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Food does not address the possible acute blood-volume complication.",
+      "This pattern is too urgent for routine imaging follow-up.",
+      "Rapid splenic enlargement with pallor and systemic changes can indicate sequestration and shock; urgent assessment is required.",
+      "A new change accompanied by deterioration should not be classified as an expected baseline finding."
+    ],
+    "takeaway": "Combine the caregiver's baseline knowledge with signs of acute circulatory deterioration.",
+    "refs": [
+      "ba-sickle"
+    ],
+    "exhibit": null,
+    "subtopic": "Sickle cell splenic sequestration",
+    "learningObjective": "Combine the caregiver's baseline knowledge with signs of acute circulatory deterioration.",
+    "reasoningSkill": "recognition",
+    "difficulty": "challenge",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-135",
+    "cat": "adaptation",
+    "title": "Protect a joint during suspected haemarthrosis",
+    "stem": "A client with haemophilia reports a warm, increasingly painful knee after a minor twist. The knee is becoming swollen. A personalized bleeding-treatment plan is available. Which actions are appropriate? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Protect the joint from weight-bearing while arranging the prescribed treatment",
+      "Begin repeated passive flexion to prevent loss of movement during the bleed",
+      "Contact the haemophilia team and follow the authorized haemostatic plan",
+      "Use deep massage to disperse fluid before deciding whether treatment is needed"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "why": [
+      "Reducing stress on the affected joint helps limit further injury while treatment is arranged.",
+      "Rehabilitation is introduced at the appropriate stage; forcing movement during an active painful bleed can worsen it.",
+      "Prompt treatment according to the individualized plan addresses the bleeding, not just the discomfort.",
+      "Massage can aggravate bleeding and does not replace haemostatic treatment."
+    ],
+    "takeaway": "An acute joint bleed needs protection and prompt haemostatic care before rehabilitation.",
+    "refs": [
+      "ba-haemophilia"
+    ],
+    "exhibit": null,
+    "subtopic": "Haemophilia joint bleeding",
+    "learningObjective": "An acute joint bleed needs protection and prompt haemostatic care before rehabilitation.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-136",
+    "cat": "adaptation",
+    "title": "Continue a transfusion-reaction response",
+    "stem": "A transfusion has been stopped because of new chills, fever and back pain. Vascular access is maintained with normal saline using new tubing, and the provider and blood bank have been contacted. What should the nurse do with the blood bag and original tubing?",
+    "type": "single",
+    "options": [
+      "Discard them once the volume transfused has been documented",
+      "Keep them for investigation according to the transfusion-reaction procedure",
+      "Reconnect them if the client's temperature falls with treatment",
+      "Separate the label from the bag and retain the label alone"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Disposal may remove material needed for investigation.",
+      "The implicated component and administration set may be needed to investigate the reaction; follow local handling instructions.",
+      "Improvement does not authorize restarting a component associated with a suspected serious reaction.",
+      "The label alone cannot support all investigations that may be requested."
+    ],
+    "takeaway": "Preserve materials needed for investigation after immediate transfusion safety actions.",
+    "refs": [
+      "ba-transfusion"
+    ],
+    "exhibit": null,
+    "subtopic": "Transfusion reaction investigation",
+    "learningObjective": "Preserve materials needed for investigation after immediate transfusion safety actions.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-137",
+    "cat": "adaptation",
+    "title": "Interpret breathlessness during transfusion",
+    "stem": "During a red-cell transfusion, an older adult with heart failure develops new dyspnoea, crackles, distended neck veins and a rise in BP. The transfusion is stopped and urgent assessment begins. Which complication should be highlighted in the handover?",
+    "type": "single",
+    "options": [
+      "A mild isolated allergic reaction",
+      "Recurrence of anaemia-related exertional fatigue",
+      "Transfusion-associated circulatory overload",
+      "A local reaction at the IV insertion site"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "An isolated mild allergy does not explain the congestion pattern.",
+      "The new symptoms at rest with congestion are different from stable anaemia-related fatigue.",
+      "Dyspnoea with crackles, venous congestion and hypertension during transfusion is concerning for overload, though the team must evaluate other reactions too.",
+      "A local IV problem would not explain the systemic respiratory and circulatory findings."
+    ],
+    "takeaway": "Describe the full reaction pattern to guide urgent assessment; do not diagnose from breathlessness alone.",
+    "refs": [
+      "ba-transfusion"
+    ],
+    "exhibit": null,
+    "subtopic": "Transfusion circulatory overload",
+    "learningObjective": "Describe the full reaction pattern to guide urgent assessment; do not diagnose from breathlessness alone.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-138",
+    "cat": "adaptation",
+    "title": "Recognize a delayed post-transfusion concern",
+    "stem": "A client telephones eight days after a red-cell transfusion, reporting new yellowing of the eyes, dark urine and worsening fatigue. Which advice is most appropriate?",
+    "type": "single",
+    "options": [
+      "Arrange prompt assessment and mention the recent transfusion",
+      "Increase iron-rich foods and review symptoms at the next monthly visit",
+      "Explain that old transfused cells normally cause these visible changes",
+      "Wait for a fever before contacting the transfusion service"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "This pattern may reflect delayed haemolysis or another important condition; the recent transfusion is relevant to urgent evaluation.",
+      "Diet advice does not investigate the new jaundice and urine change.",
+      "These symptoms should not be normalized as a routine transfusion effect.",
+      "A delayed reaction may occur without fever; lack of fever does not justify waiting."
+    ],
+    "takeaway": "Transfusion-related concerns may arise after discharge and should be connected to the treatment history.",
+    "refs": [
+      "ba-transfusion"
+    ],
+    "exhibit": null,
+    "subtopic": "Delayed transfusion reaction",
+    "learningObjective": "Transfusion-related concerns may arise after discharge and should be connected to the treatment history.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-139",
+    "cat": "adaptation",
+    "title": "Recognize infection without a high temperature",
+    "stem": "A client receiving chemotherapy has an absolute neutrophil count of 0.3 × 10^9/L. Temperature is 36.4°C, but there is new confusion, pulse 126/min and BP 84/48 mmHg. Which response is best?",
+    "type": "single",
+    "options": [
+      "Repeat temperature after a warm drink before deciding whether infection is likely",
+      "Attribute the low BP to fatigue and assist the client to sleep",
+      "Wait for the next scheduled blood count to confirm marrow suppression",
+      "Activate urgent assessment for possible sepsis or another cause of shock"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Current shock findings warrant action regardless of the temperature.",
+      "Fatigue does not safely explain hypotension with acute cognitive change.",
+      "Known neutropenia and instability already justify urgent assessment.",
+      "Immunosuppressed clients may have serious infection without a marked fever; immediate stabilization and evaluation are needed."
+    ],
+    "takeaway": "Do not require fever before responding to shock in an immunosuppressed client.",
+    "refs": [
+      "ba-neutropenia"
+    ],
+    "exhibit": null,
+    "subtopic": "Afebrile neutropenic deterioration",
+    "learningObjective": "Do not require fever before responding to shock in an immunosuppressed client.",
+    "reasoningSkill": "priority",
+    "difficulty": "challenge",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-140",
+    "cat": "adaptation",
+    "title": "Assess the consequence of oral mucositis",
+    "stem": "A client receiving chemotherapy can no longer swallow prescribed oral medicines or more than a few sips because of painful mouth ulcers. Which plan best addresses the current problem?",
+    "type": "single",
+    "options": [
+      "Recommend rough-textured foods to clear the coating before medicines",
+      "Contact the team about hydration, pain relief and an alternative medication route",
+      "Reduce the prescribed doses so there is less medicine to swallow",
+      "Schedule oral medicines together with the largest meal of the day"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Abrasive food may worsen tissue injury and pain.",
+      "Inability to maintain intake or take needed medicines requires a coordinated route and symptom plan.",
+      "Changing doses independently does not solve the underlying problem and may reduce treatment effectiveness.",
+      "Concentrating intake at one meal may worsen the burden and does not restore safe swallowing."
+    ],
+    "takeaway": "Evaluate mucositis by its effect on hydration, nutrition and delivery of necessary treatment.",
+    "refs": [
+      "ba-mucositis"
+    ],
+    "exhibit": null,
+    "subtopic": "Mucositis functional impact",
+    "learningObjective": "Evaluate mucositis by its effect on hydration, nutrition and delivery of necessary treatment.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-141",
+    "cat": "adaptation",
+    "title": "Escalate treatment-related diarrhoea",
+    "stem": "A client taking an oral anticancer medicine reports seven watery stools above their usual daily number, dizziness and little urine. An oncology contact plan is available. What advice is best?",
+    "type": "single",
+    "options": [
+      "Continue the usual routine and report the total at the next visit",
+      "Drink fruit juice rapidly and assess whether energy improves",
+      "Follow the urgent oncology contact plan for assessment and treatment advice",
+      "Take additional nonprescription antidiarrhoeal doses beyond the supplied plan"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "The magnitude of change and dehydration symptoms need earlier assessment.",
+      "A large sugary fluid load is not an adequate assessment or rehydration plan for this severity.",
+      "The team must assess fluid loss, complications and whether the medicine or supportive treatment needs adjustment.",
+      "Escalating medication beyond instructions can be unsafe and may conceal a complication."
+    ],
+    "takeaway": "Grade a new adverse effect by its change from baseline and physiological consequences.",
+    "refs": [
+      "ba-diarrhoea"
+    ],
+    "exhibit": null,
+    "subtopic": "Severe cancer-treatment diarrhoea",
+    "learningObjective": "Grade a new adverse effect by its change from baseline and physiological consequences.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-142",
+    "cat": "adaptation",
+    "title": "Connect a tumour-lysis pattern",
+    "stem": "Two days after starting treatment for bulky lymphoma, a client has decreasing urine output. Potassium and phosphate are rising, uric acid is above the laboratory range and calcium is falling. Which explanation best guides urgent handover?",
+    "type": "single",
+    "options": [
+      "Rapid cell breakdown may be producing a dangerous metabolic pattern",
+      "Reduced food intake explains the changes without further investigation",
+      "The falling calcium shows that the electrolyte disturbance is correcting itself",
+      "The results are expected treatment effects that need review after the next cycle"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "The timing and combined findings are concerning for tumour lysis with renal and cardiac risks; urgent assessment is needed.",
+      "Poor intake does not adequately explain the characteristic multi-electrolyte pattern.",
+      "A falling calcium can be part of the complication, not evidence of recovery.",
+      "An expected risk can still be an emergency requiring immediate management."
+    ],
+    "takeaway": "Interpret related laboratory changes together with treatment timing and urine output.",
+    "refs": [
+      "ba-tls"
+    ],
+    "exhibit": null,
+    "subtopic": "Tumour lysis syndrome",
+    "learningObjective": "Interpret related laboratory changes together with treatment timing and urine output.",
+    "reasoningSkill": "recognition",
+    "difficulty": "challenge",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-143",
+    "cat": "adaptation",
+    "title": "Support breathing with possible vena cava obstruction",
+    "stem": "A client with a mediastinal tumour has increasing facial swelling and breathlessness that worsens lying flat. Urgent medical review is arranged. Which position is most appropriate while reassessing breathing?",
+    "type": "single",
+    "options": [
+      "Flat with the legs elevated above the heart",
+      "Head-down to improve central blood return",
+      "Prone with the face turned into a pillow",
+      "Upright or with the head elevated as tolerated"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "This position may worsen head and upper-body venous congestion and breathlessness.",
+      "Head-down positioning can exacerbate the symptoms.",
+      "Prone positioning is not the indicated response to this pattern and may impair comfort or observation.",
+      "Head elevation may ease symptoms while the cause and severity of obstruction are assessed."
+    ],
+    "takeaway": "Use positioning to support breathing while urgent assessment addresses a possible obstructive cause.",
+    "refs": [
+      "ba-svcs"
+    ],
+    "exhibit": null,
+    "subtopic": "Superior vena cava obstruction",
+    "learningObjective": "Use positioning to support breathing while urgent assessment addresses a possible obstructive cause.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-144",
+    "cat": "adaptation",
+    "title": "Escalate neurological change in cancer",
+    "stem": "A client with vertebral metastases reports new difficulty starting urination and increasing leg weakness. Back pain has worsened over two days. What is the priority action?",
+    "type": "single",
+    "options": [
+      "Arrange a routine physiotherapy review to rebuild leg strength",
+      "Seek immediate assessment for possible spinal cord compression",
+      "Increase walking frequency to prevent further deconditioning",
+      "Review the next scheduled analgesic dose before contacting the team"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Rehabilitation must not precede assessment of a new compressive neurological emergency.",
+      "New motor and bladder changes with worsening spinal pain require urgent evaluation to protect function.",
+      "Walking could be unsafe and does not address possible compression.",
+      "Analgesia may be necessary, but pain relief must not postpone the neurological assessment."
+    ],
+    "takeaway": "New bladder or motor dysfunction in a client with spinal metastases requires immediate escalation.",
+    "refs": [
+      "ba-cord"
+    ],
+    "exhibit": null,
+    "subtopic": "Malignant spinal cord compression",
+    "learningObjective": "New bladder or motor dysfunction in a client with spinal metastases requires immediate escalation.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-145",
+    "cat": "adaptation",
+    "title": "Evaluate treatment of hypercalcaemia",
+    "stem": "A client is receiving prescribed IV hydration for cancer-related hypercalcaemia. Which findings require prompt reassessment of the current plan? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "New crackles with increasing breathlessness",
+      "Urine output improves while thirst decreases",
+      "New confusion with an irregular pulse",
+      "Alertness improves and the calcium level moves toward the target"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "why": [
+      "New respiratory congestion may indicate poor tolerance of fluid treatment.",
+      "This may indicate a favourable hydration response, considered with the rest of the assessment.",
+      "Neurological and rhythm changes can signal ongoing or worsening metabolic risk.",
+      "The combined clinical and biochemical trend supports improvement rather than immediate treatment failure."
+    ],
+    "takeaway": "Evaluate metabolic treatment for both resolution of the problem and adverse effects.",
+    "refs": [
+      "ba-hypercalcaemia"
+    ],
+    "exhibit": null,
+    "subtopic": "Hypercalcaemia treatment response",
+    "learningObjective": "Evaluate metabolic treatment for both resolution of the problem and adverse effects.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "challenge",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-146",
+    "cat": "adaptation",
+    "title": "Respond to a possible pathological fracture",
+    "stem": "A client with known femoral metastases feels a sudden sharp thigh pain while turning in bed and cannot bear weight. Which action is best?",
+    "type": "single",
+    "options": [
+      "Support the limb and obtain urgent assessment before further loading",
+      "Help the client stand briefly to determine whether the pain limits function",
+      "Perform repeated range-of-motion checks to identify the painful direction",
+      "Massage the thigh before retrying the planned transfer"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "A weakened bone may fracture with minimal force; protect it and arrange assessment.",
+      "Weight-bearing may worsen an injury.",
+      "Repeated movement can increase pain and displacement if a fracture is present.",
+      "Massage and another transfer do not address the risk of a fracture."
+    ],
+    "takeaway": "Minimal trauma can cause a significant fracture in structurally weakened bone.",
+    "refs": [
+      "ba-bone-mets"
+    ],
+    "exhibit": null,
+    "subtopic": "Bone metastasis fracture",
+    "learningObjective": "Minimal trauma can cause a significant fracture in structurally weakened bone.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-147",
+    "cat": "adaptation",
+    "title": "Distinguish an acute change in lymphoedema",
+    "stem": "A client with stable arm lymphoedema after cancer treatment develops redness, warmth, tenderness and fever. What should the nurse recommend?",
+    "type": "single",
+    "options": [
+      "Use the usual massage more vigorously until the swelling falls",
+      "Wear a tighter sleeve to compress the newly inflamed area",
+      "Arrange prompt assessment for infection rather than treating this as usual swelling",
+      "Measure arm circumference again at the next routine appointment"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Vigorous massage is not an appropriate response to a possible acute infection.",
+      "A tighter garment without assessment may worsen discomfort or tissue stress.",
+      "A hot, painful, red limb with systemic symptoms requires assessment for cellulitis or another acute cause.",
+      "A future measurement does not address the new inflammatory and systemic pattern."
+    ],
+    "takeaway": "An acute inflammatory change in chronic lymphoedema needs a different response from routine swelling management.",
+    "refs": [
+      "ba-lymphoedema"
+    ],
+    "exhibit": null,
+    "subtopic": "Lymphoedema infection",
+    "learningObjective": "An acute inflammatory change in chronic lymphoedema needs a different response from routine swelling management.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-148",
+    "cat": "adaptation",
+    "title": "Adapt care for symptomatic malignant ascites",
+    "stem": "A client with advanced cancer and an agreed comfort-focused plan has tense ascites that now prevents comfortable breathing and eating. Which nursing response best fits the goals?",
+    "type": "single",
+    "options": [
+      "Explain that a comfort plan excludes further assessment of fluid symptoms",
+      "Encourage a full meal before considering the abdominal discomfort",
+      "Limit discussion to the measured abdominal circumference",
+      "Assess the symptom burden and request review of comfort-directed options"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Comfort-focused care includes assessment and treatment of distressing reversible symptoms.",
+      "Forcing a meal does not address the mechanical discomfort or breathlessness.",
+      "Measurement can help but does not capture the client's functional and comfort priorities.",
+      "Options such as symptom medication or drainage may be considered according to goals, risks and the clinical plan."
+    ],
+    "takeaway": "Comfort goals guide active symptom assessment and proportionate treatment.",
+    "refs": [
+      "ba-ascites"
+    ],
+    "exhibit": null,
+    "subtopic": "Malignant ascites symptom care",
+    "learningObjective": "Comfort goals guide active symptom assessment and proportionate treatment.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-149",
+    "cat": "adaptation",
+    "title": "Reassess a radiation skin reaction",
+    "stem": "A client receiving radiotherapy has a new moist, weeping area in the treatment field with increasing pain. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Apply the client's usual fragranced body lotion to restore moisture",
+      "Ask the radiation team to assess and prescribe appropriate skin and pain care",
+      "Use adhesive tape directly across the fragile area to keep it dry",
+      "Scrub away the loose surface tissue before the next treatment"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Fragranced products may irritate damaged skin and should not replace the treatment team's plan.",
+      "A worsening reaction needs assessment and an appropriate dressing/skin-care plan that considers the ongoing radiotherapy.",
+      "Adhesive may further injure fragile irradiated skin.",
+      "Scrubbing can damage tissue and increase pain or infection risk."
+    ],
+    "takeaway": "New moist skin breakdown during radiotherapy requires reassessment of protective care.",
+    "refs": [
+      "ba-radiation"
+    ],
+    "exhibit": null,
+    "subtopic": "Radiation skin injury",
+    "learningObjective": "New moist skin breakdown during radiotherapy requires reassessment of protective care.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-150",
+    "cat": "adaptation",
+    "title": "Distinguish malignant obstruction from simple constipation",
+    "stem": "A client with advanced ovarian cancer develops repeated vomiting, increasing distension and colicky pain; no flatus has passed today. The client asks for a larger dose of the usual oral laxative. Which response is most appropriate?",
+    "type": "single",
+    "options": [
+      "Increase fibre with the laxative to restore bowel movement",
+      "Encourage a large drink before deciding whether the laxative is needed",
+      "Assess for obstruction and contact the team before using the routine constipation plan",
+      "Explain that fewer stools are expected with cancer and continue the current routine"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Bulking measures can be inappropriate if the bowel is obstructed.",
+      "A large oral fluid load can worsen vomiting and does not clarify the cause.",
+      "The new symptom cluster differs from uncomplicated constipation and needs a treatment plan appropriate to possible obstruction and the client's goals.",
+      "A serious new pattern should not be normalized as an inevitable cancer effect."
+    ],
+    "takeaway": "Reassess the cause of bowel symptoms before intensifying a familiar regimen.",
+    "refs": [
+      "ba-malignant-obstruction"
+    ],
+    "exhibit": null,
+    "subtopic": "Malignant bowel obstruction",
+    "learningObjective": "Reassess the cause of bowel symptoms before intensifying a familiar regimen.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  }
+]

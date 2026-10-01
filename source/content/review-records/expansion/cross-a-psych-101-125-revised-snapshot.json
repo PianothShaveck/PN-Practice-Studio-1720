@@ -1,0 +1,820 @@
+[
+  {
+    "id": "x-psychosocial-101",
+    "cat": "psychosocial",
+    "title": "Distractibility during self-care teaching",
+    "stem": "A client recovering from psychosis can brush their teeth when each step is prompted, but loses track when the whole sequence is explained. Which teaching approach best builds on the observed ability?",
+    "type": "single",
+    "options": [
+      "Guide practice through one step at a time",
+      "Demonstrate the complete routine before the client begins",
+      "Provide a written sequence to study after the session",
+      "Ask the caregiver to complete the routine for the client"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Brief cues with immediate practice match the demonstrated attention limit and preserve participation.",
+      "A full demonstration still requires retaining the complete sequence before acting.",
+      "Written information may support later recall but does not provide the currently effective stepwise practice.",
+      "Caregiver completion meets the task need but does not build the client's demonstrated ability to perform it."
+    ],
+    "takeaway": "Break self-care learning into manageable steps during psychosis recovery.",
+    "refs": [
+      "d-psychosis"
+    ],
+    "exhibit": null,
+    "subtopic": "Cognitive support in psychosis",
+    "learningObjective": "Break self-care learning into manageable steps during psychosis recovery.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-102",
+    "cat": "psychosocial",
+    "title": "Delusional fear of assessment",
+    "stem": "A client believes a blood-pressure cuff reads thoughts and refuses a nonurgent measurement. Which response best begins exploring the fear while respecting the refusal?",
+    "type": "single",
+    "options": [
+      "This cuff measures pressure; many clients find that explanation reassuring.",
+      "We could talk about your breakfast while I prepare the equipment.",
+      "The measurement will help your treatment, so please consider having it done.",
+      "You seem worried; what concerns you about using the cuff?"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Factual information is useful, but reassurance alone may not reveal the specific concern.",
+      "Changing the subject does not address the refusal or obtain agreement to proceed.",
+      "Explaining benefit may help informed choice but begins persuasion before exploring the fear.",
+      "Acknowledging emotion and inviting the client's account allows clarification without validating the thought-reading belief."
+    ],
+    "takeaway": "Address fear and negotiate nonurgent care without endorsing delusions.",
+    "refs": [
+      "d-psychosis"
+    ],
+    "exhibit": null,
+    "subtopic": "Psychosis and consent support",
+    "learningObjective": "Address fear and negotiate nonurgent care without endorsing delusions.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-103",
+    "cat": "psychosocial",
+    "title": "Early psychosis change",
+    "stem": "A young adult previously attended college reliably and socialized regularly. Which newly reported changes warrant timely assessment for a possible emerging mental-health problem? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Over six weeks, increasing fear of being watched has led to missed classes",
+      "New voices commenting on actions are distressing and interrupt study",
+      "A late examination night is followed by one tired day and usual sleep",
+      "A preference for studying alone continues with usual grades and friendships",
+      "Brief worry before an oral presentation settles after the presentation"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "why": [
+      "Persistent suspiciousness with functional decline is a meaningful change requiring assessment.",
+      "Distressing new perceptual experiences that interfere with function warrant assessment.",
+      "A brief understandable response followed by recovery does not show the sustained change described in the keyed findings.",
+      "A stable preference with maintained function is not by itself evidence of emerging psychosis.",
+      "Transient situational anxiety that settles lacks the persistent functional and perceptual change of concern."
+    ],
+    "takeaway": "Assess emerging perceptual or thought changes that impair functioning.",
+    "refs": [
+      "d-psychosis"
+    ],
+    "exhibit": null,
+    "subtopic": "Early psychosis recognition",
+    "learningObjective": "Assess emerging perceptual or thought changes that impair functioning.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-104",
+    "cat": "psychosocial",
+    "title": "A belief and cultural context",
+    "stem": "A client describes sensing a deceased relative's presence during a culturally meaningful mourning practice. The nurse has established its accepted spiritual meaning but does not know how it affects the client. Which question best clarifies clinical significance?",
+    "type": "single",
+    "options": [
+      "How long has this mourning practice been part of your family?",
+      "Is the experience distressing or interfering with your daily life?",
+      "Which relatives usually take part in the mourning practice?",
+      "Would you like information about the clinic's spiritual-care service?"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "History adds context, but accepted meaning has already been established.",
+      "Distress and impairment help distinguish a meaningful experience from one requiring further clinical assessment; associated symptoms can then be explored.",
+      "Participants may identify supports, but do not establish the effect on this client.",
+      "Spiritual care may be welcome, but offering it does not clarify the current clinical impact."
+    ],
+    "takeaway": "Assess spiritual experiences within cultural and functional context.",
+    "refs": [
+      "d-culture",
+      "d-psychosis"
+    ],
+    "exhibit": null,
+    "subtopic": "Cultural assessment of perception",
+    "learningObjective": "Assess spiritual experiences within cultural and functional context.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-105",
+    "cat": "psychosocial",
+    "title": "Risk and diagnosis",
+    "stem": "A client with schizophrenia usually hears noncommand voices, avoids crowded groups and sometimes sleeps poorly. Which new finding most clearly requires revising the immediate violence-safety plan?",
+    "type": "single",
+    "options": [
+      "The client declines today's large discussion group",
+      "The client reports distress from the usual voices",
+      "The client threatens a named person and describes an available weapon",
+      "The client slept five hours instead of the usual seven"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "A familiar group preference does not by itself establish new violent intent.",
+      "Distress deserves support and assessment, but the reported familiar experience is less specific than a targeted threat with means.",
+      "A specific threat and access require immediate focused risk assessment and protective response.",
+      "Reduced sleep is relevant context but does not alone carry the same immediate significance as the stated threat."
+    ],
+    "takeaway": "Assess behaviour and context rather than stereotyping psychiatric diagnosis.",
+    "refs": [
+      "d-psychosis"
+    ],
+    "exhibit": null,
+    "subtopic": "Violence-risk assessment",
+    "learningObjective": "Assess behaviour and context rather than stereotyping psychiatric diagnosis.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-106",
+    "cat": "psychosocial",
+    "title": "Suspiciousness during handoff",
+    "stem": "A client becomes suspicious after hearing two nurses whisper about their care at handoff and asks, \"What are you saying about me?\" What response best addresses the immediate concern?",
+    "type": "single",
+    "options": [
+      "Explain the relevant care discussion privately and invite questions",
+      "Move the handoff farther away and finish it first",
+      "Reassure the client that the nurses are trying to help",
+      "Promise to discuss the handoff at the next scheduled meeting"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Transparent relevant information in an appropriate setting directly addresses the worry while protecting confidentiality.",
+      "Relocation improves privacy but leaves the client's expressed concern unexplained.",
+      "General reassurance does not clarify what was said and may not reduce the specific mistrust.",
+      "Delayed discussion leaves a presently answerable concern unresolved."
+    ],
+    "takeaway": "Reduce avoidable ambiguity while preserving confidentiality.",
+    "refs": [
+      "d-psychosis"
+    ],
+    "exhibit": null,
+    "subtopic": "Psychosis therapeutic environment",
+    "learningObjective": "Reduce avoidable ambiguity while preserving confidentiality.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-107",
+    "cat": "psychosocial",
+    "title": "A client stands motionless",
+    "stem": "A client with a severe mood disorder has newly remained almost motionless for most of the day, responds minimally and has taken very little fluid. Their mouth is dry and pulse is 112/min. What should the nurse prioritize?",
+    "type": "single",
+    "options": [
+      "Offer small amounts of fluid and review intake at the next round",
+      "Increase routine observation of the behaviour over the evening",
+      "Arrange a supportive interview about low motivation",
+      "Obtain prompt clinical assessment and escalate the physical findings"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Intake support may be needed, but minimal responsiveness and physical changes require assessment before relying on oral encouragement.",
+      "Observation alone delays evaluation of a marked change and possible dehydration or other illness.",
+      "A motivation-focused approach may misattribute a syndrome requiring medical assessment.",
+      "New severe reduction in movement and response with poor intake raises concern for catatonia or another acute cause with physical compromise."
+    ],
+    "takeaway": "Escalate marked motor withdrawal with reduced responsiveness or intake.",
+    "refs": [
+      "d-psychosis"
+    ],
+    "exhibit": null,
+    "subtopic": "Severe psychiatric motor change",
+    "learningObjective": "Escalate marked motor withdrawal with reduced responsiveness or intake.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-108",
+    "cat": "psychosocial",
+    "title": "Recovery goals in psychosis",
+    "stem": "A client with persistent but manageable voices wants to volunteer at a library and choose their own weekly routine. Which outcomes directly demonstrate progress in participation and self-management? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Completes a chosen half-hour library task with agreed support",
+      "Uses an agreed coping pause and returns to the library task",
+      "Reports a lower voice-intensity score during a clinic interview",
+      "Selects feasible volunteer hours and communicates the choice",
+      "Receives information about three community programmes"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "why": [
+      "Actual participation in the chosen activity demonstrates functional progress.",
+      "Applying coping in the activity supports sustained participation despite symptoms.",
+      "Symptom reduction is useful, but this observation does not by itself demonstrate the specified activity or decision-making goal.",
+      "Choosing and communicating a workable routine demonstrates agency in the stated goal.",
+      "Information is a service input, not evidence that the client has yet participated or used a self-management skill."
+    ],
+    "takeaway": "Define recovery through the client's goals, agency and functioning.",
+    "refs": [
+      "d-psychosis"
+    ],
+    "exhibit": null,
+    "subtopic": "Recovery-oriented psychosis care",
+    "learningObjective": "Define recovery through the client's goals, agency and functioning.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-109",
+    "cat": "psychosocial",
+    "title": "Family education about hallucinations",
+    "stem": "A relative hearing voices appears frightened and asks a caregiver for help. Which caregiver response best acknowledges distress and opens assessment of immediate help needs?",
+    "type": "single",
+    "options": [
+      "The room is quiet; let us check together where the sound could come from.",
+      "You look frightened; are the voices telling you to do something unsafe?",
+      "You have coped with this before; remind yourself that it usually settles.",
+      "Let us watch a familiar programme and see whether you feel better."
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Trying to locate the sound may shift the discussion toward proving or disproving the experience rather than current distress and risk.",
+      "Acknowledging emotion and asking about harmful commands helps identify whether urgent support is needed without claiming to hear the voices.",
+      "Encouragement may help, but past coping does not establish the safety of the current experience.",
+      "Distraction may be useful once help needs are understood, but does not first clarify current danger."
+    ],
+    "takeaway": "Teach family to acknowledge distress without confirming hallucinations.",
+    "refs": [
+      "d-psychosis"
+    ],
+    "exhibit": null,
+    "subtopic": "Psychosis family education",
+    "learningObjective": "Teach family to acknowledge distress without confirming hallucinations.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-110",
+    "cat": "psychosocial",
+    "title": "Daily function after psychosis",
+    "stem": "A client wants to resume preparing a hot lunch. During practice, they complete each step but leave a heating pan when distracted by conversation. What is the best next practice plan?",
+    "type": "single",
+    "options": [
+      "Add written reminders and repeat the whole meal independently",
+      "Have the caregiver prepare the hot portion while the client watches",
+      "Practise one-pan cooking with direct support and fewer distractions",
+      "Substitute a cold lunch prepared by the caregiver each day"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Reminders may help, but current performance does not yet establish safe independent use of heat.",
+      "Observation can help learning, but provides less opportunity to practise the steps the client can perform.",
+      "Supported graded practice targets the observed distraction hazard while retaining the client's chosen skill goal.",
+      "A cold meal can be safe, but caregiver completion does not build the requested cooking ability."
+    ],
+    "takeaway": "Assess real-world task performance during psychosis recovery.",
+    "refs": [
+      "d-psychosis"
+    ],
+    "exhibit": null,
+    "subtopic": "Psychosis rehabilitation",
+    "learningObjective": "Assess real-world task performance during psychosis recovery.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-111",
+    "cat": "psychosocial",
+    "title": "Unwanted discussion of diagnosis",
+    "stem": "A capable client has asked staff not to share clinical information with a visiting friend. The friend asks which diagnosis and medicines explain the admission. Which reply respects the boundary?",
+    "type": "single",
+    "options": [
+      "I can discuss general visiting arrangements; clinical questions require the client's permission.",
+      "I can explain the diagnosis while leaving the medication names private.",
+      "I can describe the medication group rather than the individual prescriptions.",
+      "I can summarize the treatment goal because you are here to offer support."
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "General service information can be shared while preserving the client's explicit boundary on personal clinical details.",
+      "The diagnosis remains client-specific clinical information covered by the refusal.",
+      "A medication class still reveals personal treatment information.",
+      "Supportive visiting does not establish permission to disclose the client's treatment goals."
+    ],
+    "takeaway": "Clarify consent before sharing mental-health information with visitors.",
+    "refs": [
+      "d-communication"
+    ],
+    "exhibit": null,
+    "subtopic": "Psychosis and privacy",
+    "learningObjective": "Clarify consent before sharing mental-health information with visitors.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-112",
+    "cat": "psychosocial",
+    "title": "Housing stability and recovery",
+    "stem": "A client recovering from psychosis moves between shelters, has no reliable phone and repeatedly loses contact with the same treatment team. They use a day centre each Tuesday and agree to its involvement. Which plan best maintains the treatment connection?",
+    "type": "single",
+    "options": [
+      "Book the usual clinic appointment and mail reminders to the last shelter",
+      "Ask the client to telephone when they know their next address",
+      "Arrange a new clinic referral whenever accommodation changes",
+      "Agree on a regular day-centre contact with the current outreach team"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "An old mailing address does not provide a dependable contact route across moves.",
+      "Waiting for a new address may prolong disconnection for someone without reliable telephone access.",
+      "Repeated referrals can fragment the existing therapeutic connection and do not solve the contact problem.",
+      "An agreed stable location and continuing team provide a feasible connection despite changes in sleeping accommodation."
+    ],
+    "takeaway": "Address housing-related barriers when planning mental-health follow-up.",
+    "refs": [
+      "d-psychosis"
+    ],
+    "exhibit": null,
+    "subtopic": "Community psychiatric recovery",
+    "learningObjective": "Address housing-related barriers when planning mental-health follow-up.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-113",
+    "cat": "psychosocial",
+    "title": "Memory supports for appointment attendance",
+    "stem": "A client recovering from psychosis understands the purpose and dates of appointments but forgets them during the week. They manage a smartphone independently, check the noticeboard beside their keys daily and want to attend independently. Which additions most directly compensate for the reported memory difficulty? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Enter agreed reminders in the phone calendar",
+      "Repeat a longer explanation of the service at each visit",
+      "Place a clear appointment cue beside the keys",
+      "Ask a relative to book the appointments for the client",
+      "Provide a detailed leaflet about the benefits of follow-up"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "why": [
+      "Time-linked prompts use a tool the client already manages to cue the intended action.",
+      "The purpose is already understood; additional explanation does not directly provide a cue when the appointment is approaching.",
+      "A visible reminder at an established daily stopping point links the information to an existing routine.",
+      "Changing who books the visit does not address remembering the agreed date during the week.",
+      "More information about benefits does not directly compensate for the described prospective-memory difficulty."
+    ],
+    "takeaway": "Match practical environmental prompts to the specific cognitive difficulty and the client's established routines.",
+    "refs": [
+      "d-cognitive-adaptation"
+    ],
+    "exhibit": null,
+    "subtopic": "Cognitive adaptation in recovery",
+    "learningObjective": "Match practical environmental prompts to the specific cognitive difficulty and the client's established routines.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-114",
+    "cat": "psychosocial",
+    "title": "Alcohol history before admission",
+    "stem": "Before a planned surgical admission, a client reports daily heavy drinking and a previous withdrawal seizure. They currently have no withdrawal symptoms. What should the nurse prioritize?",
+    "type": "single",
+    "options": [
+      "Begin routine symptom scoring after admission and report rising scores",
+      "Communicate the seizure history now for a monitored prevention plan",
+      "Arrange a community alcohol-service referral for after discharge",
+      "Complete the usual fasting and postoperative breathing teaching"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Monitoring is necessary, but prior complicated withdrawal warrants a prospective plan before symptoms appear.",
+      "The history identifies increased withdrawal risk that the team should address in the admission plan.",
+      "Longer-term support matters but does not prepare for withdrawal during the impending admission.",
+      "Usual surgical teaching remains useful but does not address the high-risk history."
+    ],
+    "takeaway": "Identify severe withdrawal history before alcohol use is interrupted.",
+    "refs": [
+      "d-alcohol-ca"
+    ],
+    "exhibit": null,
+    "subtopic": "Alcohol withdrawal prevention",
+    "learningObjective": "Identify severe withdrawal history before alcohol use is interrupted.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-115",
+    "cat": "psychosocial",
+    "title": "Substance-use interviewing",
+    "stem": "A client is embarrassed about discussing alcohol before admission. The nurse needs information to estimate withdrawal risk. Which respectful question provides the most directly relevant starting information?",
+    "type": "single",
+    "options": [
+      "How has drinking affected your work or relationships recently?",
+      "What changes in your drinking would you like to make?",
+      "What do you drink, how much, and when was your last drink?",
+      "How do people close to you feel about your drinking?"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Consequences inform the broader assessment but do not establish current exposure and time since cessation.",
+      "Readiness guides longer-term goals but does not quantify immediate withdrawal risk.",
+      "Recent pattern and last use guide risk assessment, alongside prior withdrawal history and clinical findings.",
+      "Family perspectives may help, but are less direct than the recent amount and timing."
+    ],
+    "takeaway": "Ask neutral specific questions about substance use.",
+    "refs": [
+      "d-substance"
+    ],
+    "exhibit": null,
+    "subtopic": "Substance-use assessment",
+    "learningObjective": "Ask neutral specific questions about substance use.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-116",
+    "cat": "psychosocial",
+    "title": "Intoxication and an injury history",
+    "stem": "A drowsy client who smells of alcohol arrives after an unwitnessed fall. Which action takes priority?",
+    "type": "single",
+    "options": [
+      "Assess airway, neurologic status and possible injury promptly",
+      "Obtain a detailed account of usual drinking patterns first",
+      "Arrange transport home once a relative answers the phone",
+      "Recheck alertness after an uninterrupted period of sleep"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Intoxication can coexist with serious injury and must not explain away reduced responsiveness.",
+      "Substance history is useful but does not precede immediate physical assessment.",
+      "A ride home does not establish medical stability after a fall.",
+      "Waiting for sleep can delay recognition of injury or airway compromise."
+    ],
+    "takeaway": "Assess injury and physiologic stability before attributing drowsiness to alcohol.",
+    "refs": [
+      "d-substance"
+    ],
+    "exhibit": null,
+    "subtopic": "Substance-related diagnostic overshadowing",
+    "learningObjective": "Assess injury and physiologic stability before attributing drowsiness to alcohol.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-117",
+    "cat": "psychosocial",
+    "title": "Withdrawal and a scoring tool",
+    "stem": "During monitored alcohol withdrawal, a client becomes more tremulous and diaphoretic but remains oriented. The documented protocol directs immediate clinician notification when symptoms worsen and pulse exceeds 110/min; pulse is now 116/min. No rescue dose is authorized. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Repeat the full assessment at the next routine hourly interval",
+      "Offer fluids and recheck the pulse after a rest period",
+      "Request the previously scheduled outpatient follow-up be moved earlier",
+      "Notify the clinician now with the assessment findings"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "The stated escalation threshold has been met, so waiting for the routine interval delays the required response.",
+      "Supportive care may continue, but should not postpone notification of worsening signs above the defined threshold.",
+      "The current monitored deterioration requires a present inpatient response, not an outpatient scheduling change.",
+      "Prompt communication follows the supplied protocol and allows an authorized treatment decision."
+    ],
+    "takeaway": "Respond to worsening withdrawal using both clinical assessment and authorized protocols.",
+    "refs": [
+      "d-alcohol-ca"
+    ],
+    "exhibit": null,
+    "subtopic": "Withdrawal monitoring",
+    "learningObjective": "Respond to worsening withdrawal using both clinical assessment and authorized protocols.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-118",
+    "cat": "psychosocial",
+    "title": "Severe withdrawal warning findings",
+    "stem": "During alcohol-withdrawal monitoring, which new findings require urgent escalation rather than continued routine reassessment? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "New disorientation with marked agitation",
+      "A generalized seizure",
+      "Mild nausea while retaining fluids and remaining oriented",
+      "A mild stable hand tremor with unchanged vital signs",
+      "Anxiety that eases with reassurance and a quieter setting"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "why": [
+      "Acute confusion and marked agitation can indicate severe withdrawal or another acute cause requiring urgent assessment.",
+      "A seizure requires immediate safety care and urgent clinical response.",
+      "Nausea still requires monitoring and treatment as indicated, but the described stable state lacks the urgent neurological deterioration.",
+      "Stable mild tremor needs protocol monitoring but does not carry the same emergency significance as seizure or new confusion.",
+      "Settling anxiety without deterioration is less urgent than the neurological changes identified."
+    ],
+    "takeaway": "Escalate neurologic changes and marked instability during alcohol withdrawal.",
+    "refs": [
+      "d-alcohol-ca"
+    ],
+    "exhibit": null,
+    "subtopic": "Severe withdrawal",
+    "learningObjective": "Escalate neurologic changes and marked instability during alcohol withdrawal.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-119",
+    "cat": "psychosocial",
+    "title": "Withdrawal recovery versus addiction treatment",
+    "stem": "A client has completed medically supervised alcohol withdrawal and asks what follow-up will help with ongoing recovery. Which plan best addresses that purpose?",
+    "type": "single",
+    "options": [
+      "Arrange continuing alcohol-use treatment matched to goals and supports",
+      "Arrange a liver-function blood test at the usual clinic",
+      "Provide instructions to return if tremor develops again",
+      "Book a routine annual physical examination"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Withdrawal management addresses an acute phase; continuing treatment can address use patterns, cravings, goals and sustained support.",
+      "Physical monitoring is useful but does not constitute a continuing alcohol-use treatment plan.",
+      "Symptom instructions support safety but wait for a problem rather than establish ongoing recovery care.",
+      "General preventive care matters but does not directly address the current recovery needs."
+    ],
+    "takeaway": "Link withdrawal stabilization with ongoing treatment and recovery planning.",
+    "refs": [
+      "d-substance"
+    ],
+    "exhibit": null,
+    "subtopic": "Substance recovery continuity",
+    "learningObjective": "Link withdrawal stabilization with ongoing treatment and recovery planning.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-120",
+    "cat": "psychosocial",
+    "title": "A return to drinking",
+    "stem": "A client resumed drinking after several months of abstinence and avoided follow-up because of shame. Which opening best supports a current assessment?",
+    "type": "single",
+    "options": [
+      "You made progress before; let us restart exactly the same treatment.",
+      "What has drinking been like recently, and what was happening when it resumed?",
+      "Many people have setbacks; try not to dwell on this episode.",
+      "Which date would you choose for your next period of abstinence?"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Prior treatment may still help, but should be reviewed in light of the current pattern and circumstances.",
+      "A neutral invitation supports disclosure of current exposure, safety needs and relevant triggers.",
+      "Reassurance may reduce shame but can bypass understanding what has changed.",
+      "Goal-setting is useful after exploring current needs and the client's preferences."
+    ],
+    "takeaway": "Use recurrence to reassess safety, triggers and support needs.",
+    "refs": [
+      "d-substance"
+    ],
+    "exhibit": null,
+    "subtopic": "Substance-use recurrence",
+    "learningObjective": "Use recurrence to reassess safety, triggers and support needs.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-121",
+    "cat": "psychosocial",
+    "title": "Alcohol and sedating medication",
+    "stem": "A client takes a prescribed benzodiazepine at bedtime and also drinks alcohol to fall asleep. Which teaching addresses the main safety concern?",
+    "type": "single",
+    "options": [
+      "Leave a two-hour interval between the drink and the medicine",
+      "Keep the usual medicine dose when choosing a lower-alcohol drink",
+      "Combined sedation can be dangerous; review the alcohol and medicine plan",
+      "Skip each medicine dose on evenings when alcohol is used"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "A short interval does not reliably prevent overlapping sedative effects.",
+      "Lower alcohol concentration does not establish safe combined exposure; total intake and the medicine both matter.",
+      "Additive central nervous system depression can impair safety and breathing; a professional review should guide changes rather than abrupt self-adjustment.",
+      "Self-directed skipping may cause other harms, including withdrawal with some patterns of benzodiazepine use; the regimen needs review."
+    ],
+    "takeaway": "Assess and address combined depressant exposure.",
+    "refs": [
+      "d-substance"
+    ],
+    "exhibit": null,
+    "subtopic": "Substance and medication safety",
+    "learningObjective": "Assess and address combined depressant exposure.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-122",
+    "cat": "psychosocial",
+    "title": "Exploring readiness for change",
+    "stem": "A client says, \"Reducing alcohol might help my family, but I do not know how I would manage stress.\" Which reply best explores this ambivalence?",
+    "type": "single",
+    "options": [
+      "You want family life to improve and worry about losing a coping method.",
+      "Alcohol can worsen stress over time; shall I explain how that happens?",
+      "You could try walking when stressed instead of having a drink.",
+      "Let us choose a smaller number of drinks for tomorrow evening."
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Reflecting both values invites the client to explore the tension and possible alternatives in their own terms.",
+      "Education can be helpful but moves away from first understanding the two concerns expressed.",
+      "A suggested alternative may help later but assumes a suitable strategy before exploring preferences.",
+      "Action planning may be premature while the client is expressing uncertainty about coping."
+    ],
+    "takeaway": "Explore the benefits and barriers the client identifies in changing substance use.",
+    "refs": [
+      "d-substance"
+    ],
+    "exhibit": null,
+    "subtopic": "Substance motivational support",
+    "learningObjective": "Explore the benefits and barriers the client identifies in changing substance use.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-123",
+    "cat": "psychosocial",
+    "title": "Recovery and meaningful routines",
+    "stem": "A client in early recovery reports that the old evening drinking group triggers urges. They enjoy walking, and a trusted friend is available for a short evening walk near home. Which plan best fits the current need?",
+    "type": "single",
+    "options": [
+      "Meet the old group briefly and order a nonalcoholic drink",
+      "Watch television alone through the usual drinking hours",
+      "Save planned social activity for the next weekend",
+      "Arrange the evening walk with the trusted friend"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "This keeps the client in the identified high-risk setting during early recovery.",
+      "Distraction may help but offers less of the valued activity and available support described.",
+      "Weekend plans leave the identified recurring evening period unaddressed.",
+      "The accessible valued activity provides support during the specific time and away from the identified cue."
+    ],
+    "takeaway": "Plan meaningful alternatives for times previously organized around substance use.",
+    "refs": [
+      "d-substance"
+    ],
+    "exhibit": null,
+    "subtopic": "Recovery routines",
+    "learningObjective": "Plan meaningful alternatives for times previously organized around substance use.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-124",
+    "cat": "psychosocial",
+    "title": "Respectful substance-use documentation",
+    "stem": "A client reports opioid use yesterday at 20:00, declines a referral after discussion and requests review of abdominal pain rated 7/10. Which notes accurately document this encounter? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Reports last opioid use yesterday at approximately 20:00",
+      "Declined the offered referral after options were discussed",
+      "Requests analgesia because opioid use has increased pain sensitivity",
+      "Requests review of abdominal pain rated 7/10",
+      "Declined referral because further treatment is not a priority"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "why": [
+      "This records the client's reported exposure and timing.",
+      "This describes the observed decision and discussion without assigning a motive.",
+      "The causal explanation has not been established by the stated encounter.",
+      "This records the symptom report, location and rating rather than judging its legitimacy.",
+      "The reason for declining was not supplied and should not be inferred."
+    ],
+    "takeaway": "Document substance-use information and behaviour without judgmental labels.",
+    "refs": [
+      "d-substance"
+    ],
+    "exhibit": null,
+    "subtopic": "Substance-use stigma",
+    "learningObjective": "Document substance-use information and behaviour without judgmental labels.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-125",
+    "cat": "psychosocial",
+    "title": "Pain with opioid-use disorder",
+    "stem": "A postoperative client receiving ongoing treatment for opioid-use disorder reports pain of 8/10 despite the authorized analgesia and repositioning. They are alert, with respiratory rate 16/min and oxygen saturation 97%. What should the nurse do next?",
+    "type": "single",
+    "options": [
+      "Continue comfort measures until the next scheduled analgesic dose",
+      "Coordinate prompt review of the pain and opioid-use treatment plans",
+      "Request replacement of the maintenance treatment with an analgesic regimen",
+      "Reassess the pain after the client has had a period of sleep"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Comfort measures may continue, but severe persisting pain after the available regimen requires review.",
+      "The current response and respiratory assessment support timely coordinated pain review while preserving appropriate addiction treatment.",
+      "Replacing maintenance treatment is not an automatic solution and may disrupt care; the teams should coordinate an individualized plan.",
+      "Waiting for sleep delays response to an already assessed inadequate analgesic effect."
+    ],
+    "takeaway": "Assess and treat pain without diagnostic stigma.",
+    "refs": [
+      "d-substance"
+    ],
+    "exhibit": null,
+    "subtopic": "Concurrent pain and substance use",
+    "learningObjective": "Assess and treat pain without diagnostic stigma.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  }
+]

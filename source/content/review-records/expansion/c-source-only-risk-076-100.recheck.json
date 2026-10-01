@@ -1,0 +1,201 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:43:52.866018+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/risk-076-100.json",
+  "sourceSha256": "549494fa006f71f4908bf72ecb6d59bdb9aefa9eabc289e8de1480eee1814578",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 9,
+    "reviewedIds": [
+      "x-risk-081",
+      "x-risk-088",
+      "x-risk-091",
+      "x-risk-093",
+      "x-risk-094",
+      "x-risk-095",
+      "x-risk-096",
+      "x-risk-097",
+      "x-risk-098"
+    ],
+    "unreviewedIds": [
+      "x-risk-076",
+      "x-risk-077",
+      "x-risk-078",
+      "x-risk-079",
+      "x-risk-080",
+      "x-risk-082",
+      "x-risk-083",
+      "x-risk-084",
+      "x-risk-085",
+      "x-risk-086",
+      "x-risk-087",
+      "x-risk-089",
+      "x-risk-090",
+      "x-risk-092",
+      "x-risk-099",
+      "x-risk-100"
+    ]
+  },
+  "method": "Each listed stem/topic and new reference mapping was manually examined. Replacing current refs with the recorded oldRefs reproduces a prior independently approved full-item hash; this proves all other fields are unchanged. The present pass approves the manually assessed reference relevance while carrying forward that exact unchanged-content review. It is not a new full clinical review or an automated pass based solely on hash equality.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-risk-081",
+      "status": "pass",
+      "assessment": "Heart-failure guidance fits symptom/weight monitoring through the supplied individualized action plan. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1f27ee807757dcbcc963ca70fb2c7702cf9abed17c546707358615466affc969"
+    },
+    {
+      "id": "x-risk-088",
+      "status": "pass",
+      "assessment": "Glucose/diabetes monitoring is related to reassessing intake-linked insulin plans; no universal hold/dose rule is asserted. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8e7f3d8087ef93122c96c1f2a1867ac7d3d0b5c816880a1dba3d39559eca32ac"
+    },
+    {
+      "id": "x-risk-091",
+      "status": "pass",
+      "assessment": "Autonomic-neuropathy guidance is relevant to positional symptoms/pressure changes in diabetes, without diagnosing cause from the observation alone. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d6ee6991e83661e83ec47b46cc3d6eec45d8c93c23441cf9da0372b1a91bae7a"
+    },
+    {
+      "id": "x-risk-093",
+      "status": "pass",
+      "assessment": "Ostomy care is directly relevant to high output with low urine/dizziness and hydration assessment. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "27d7eb17d5cc9ffa04b9d1689b5154413d2c20c8ceff8d8e30220ee004bcd99c"
+    },
+    {
+      "id": "x-risk-094",
+      "status": "pass",
+      "assessment": "Constipation plus focused abdominal assessment is relevant to recognizing alarm symptoms before routine laxative treatment. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d7f040e2555d85a3801389502c737fc76417a97b54454e1edfd2e60a416c5462"
+    },
+    {
+      "id": "x-risk-095",
+      "status": "pass",
+      "assessment": "Dysphagia guidance directly fits reassessment when new meal symptoms conflict with an earlier screen. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7b716606801fb263ccbb511689129841d63aca8ef64754295becb8ca500be395"
+    },
+    {
+      "id": "x-risk-096",
+      "status": "pass",
+      "assessment": "Nutrition/albumin sources are related to evaluating nutritional status beyond weight; prior item content screen remains the support for fluid masking tissue loss. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e69a56d70bf7272dedded50b7afec79a1113c7ce0f292816465323232722e85e"
+    },
+    {
+      "id": "x-risk-097",
+      "status": "pass",
+      "assessment": "Mobility and focused assessment guidance fits changed endurance and transfer-assistance needs. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3dab2e08c9f88e6a1d48c559393dfb75c59b818fc2d4ebe7e2c344b29ecf9b10"
+    },
+    {
+      "id": "x-risk-098",
+      "status": "pass",
+      "assessment": "Pressure-injury guidance directly fits local device-related symptoms despite a reassuring global risk score. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "88fe4b61fc42e4ae368cb89f9ba274b671d55f88045d39f2e35037ca74cbd8be"
+    }
+  ],
+  "referenceProofs": {
+    "x-risk-081": {
+      "priorPassReport": "c-risk-076-100.legacy-review.json",
+      "priorPassHash": "77e2021a8622d3970eb264963ef4aff0a1ad89ead4671ac565efb3ed3c3965fb",
+      "newRefs": [
+        "c-heart-failure"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-risk-088": {
+      "priorPassReport": "c-risk-076-100.legacy-review.json",
+      "priorPassHash": "ac229486f42cf584c6e0999f99c2524177e33a709c63d25cd5c8654f3ced3184",
+      "newRefs": [
+        "c-glucose"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-risk-091": {
+      "priorPassReport": "c-risk-076-100.changed-recheck.json",
+      "priorPassHash": "cabdc770a19d9889479e84c6ad64f1ed19464b088e500734e33f9c9bc1e5e7e7",
+      "newRefs": [
+        "c-autonomic-neuropathy"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-risk-093": {
+      "priorPassReport": "c-risk-076-100.changed-recheck.json",
+      "priorPassHash": "67722e92019de2904813dcc12af66b526f274f51e6205c9ff744ed22edfd4520",
+      "newRefs": [
+        "c-ostomy"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-risk-094": {
+      "priorPassReport": "c-risk-076-100.changed-recheck.json",
+      "priorPassHash": "127503cf607cfaaa25bb84e9b80ccea2c44dbba17eef88f74fd49ac65eb7ee42",
+      "newRefs": [
+        "c-constipation",
+        "c-assessment"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-risk-095": {
+      "priorPassReport": "c-risk-076-100.changed-recheck.json",
+      "priorPassHash": "212777a839180e3d06c499120ece1142cb764864b66351cfb948a00fbf9724f2",
+      "newRefs": [
+        "c-dysphagia"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-risk-096": {
+      "priorPassReport": "c-risk-076-100.legacy-review.json",
+      "priorPassHash": "81ff7de4a1440873bcff13297702b457eec81c0a59c9809a517eec955837a9ae",
+      "newRefs": [
+        "c-nutrition",
+        "c-albumin"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-risk-097": {
+      "priorPassReport": "c-risk-076-100.legacy-review.json",
+      "priorPassHash": "6413132537c795b900bb17198b00758fa56e73b2c05d72083c135b24c1441411",
+      "newRefs": [
+        "c-mobility",
+        "c-assessment"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-risk-098": {
+      "priorPassReport": "c-risk-076-100.changed-recheck.json",
+      "priorPassHash": "e492953eb8da93254ea4e73135f4913d9c1c86c66617fef75f26d03313ea5ce8",
+      "newRefs": [
+        "c-pressure"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    }
+  },
+  "sourceCheckLimit": "New source names, registered scopes and mapped item topics were inspected. Complete source texts were not independently retrieved for every mapping; no full-source or clinician validation is claimed.",
+  "reviewerTask": "/root/review_legacy"
+}

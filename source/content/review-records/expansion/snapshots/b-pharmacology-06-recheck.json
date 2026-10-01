@@ -1,0 +1,830 @@
+[
+  {
+    "id": "x-pharmacology-126",
+    "cat": "pharmacology",
+    "title": "Reduce inhaled-steroid oral effects",
+    "stem": "A client starts an inhaled corticosteroid and asks how to reduce mouth irritation and thrush risk. Which actions are appropriate? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Reduce the prescribed frequency when the mouth feels irritated.",
+      "Attach a spacer to a dry-powder inhaler.",
+      "Rinse the mouth and spit after each prescribed dose.",
+      "Use a compatible spacer if prescribed for the device.",
+      "Rinse the mouth immediately before taking the dose."
+    ],
+    "answer": [
+      2,
+      3
+    ],
+    "why": [
+      "Changing controller dosing may worsen asthma control; irritation requires a technique and treatment review.",
+      "Spacer use is device-specific and is not a solution for a dry-powder mechanism.",
+      "Removing oral residue limits local steroid exposure and helps reduce thrush risk.",
+      "A spacer can reduce oropharyngeal deposition with a suitable metered-dose inhaler.",
+      "A predose rinse does not remove steroid deposited during the subsequent inhalation."
+    ],
+    "takeaway": "Removing oral residue limits local steroid exposure and helps reduce thrush risk.",
+    "refs": [
+      "b-respiratory-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Inhaled medicines",
+    "learningObjective": "Teach local adverse-effect prevention while preserving prescribed controller treatment.",
+    "reasoningSkill": "teaching",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-127",
+    "cat": "pharmacology",
+    "title": "Clarify an asthma controller gap",
+    "stem": "A client's asthma list contains a long-acting beta agonist alone. No inhaled corticosteroid or combination controller is documented. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Check recent pharmacy dispensing dates.",
+      "Review how often the reliever is used.",
+      "Arrange the next spirometry appointment.",
+      "Clarify the prescribed anti-inflammatory regimen."
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Dispensing history may help reconciliation, but the key clinical issue is whether an anti-inflammatory component is actually prescribed.",
+      "Reliever frequency helps assess control but does not resolve the apparent controller omission.",
+      "Lung-function testing may help ongoing care, but it does not correct a potentially unsafe medication list.",
+      "The apparent LABA-only asthma regimen raises a safety gap that requires confirmation and an appropriate controller plan."
+    ],
+    "takeaway": "The apparent LABA-only asthma regimen raises a safety gap that requires confirmation and an appropriate controller plan.",
+    "refs": [
+      "b-respiratory-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Inhaled medicines",
+    "learningObjective": "Recognize that an asthma LABA regimen needs an appropriate inhaled anti-inflammatory plan.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-128",
+    "cat": "pharmacology",
+    "title": "Prevent nebulized anticholinergic eye exposure",
+    "stem": "A client receiving nebulized ipratropium reports mist blowing into the eyes from a loose mask. What is the most useful correction?",
+    "type": "single",
+    "options": [
+      "Adjust the interface to prevent eye exposure",
+      "Ask the client to keep the eyes closed throughout every treatment",
+      "Increase nebulizer flow to finish sooner",
+      "Apply lubricating drops while maintaining the same mask fit"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Proper fit limits local anticholinergic exposure that can cause eye problems.",
+      "Eye closure alone does not correct the leaking interface.",
+      "Faster delivery does not resolve misdirected medication.",
+      "Lubrication does not eliminate the medication exposure."
+    ],
+    "takeaway": "Proper fit limits local anticholinergic exposure that can cause eye problems.",
+    "refs": [
+      "b-respiratory-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Inhaled medicines",
+    "learningObjective": "Correct mask leakage that directs nebulized ipratropium toward the eyes.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-129",
+    "cat": "pharmacology",
+    "title": "Assess possible theophylline toxicity",
+    "stem": "A client taking theophylline develops repeated nausea, tremor and a rapid irregular pulse after starting a new antibiotic. Which issue should the nurse raise most urgently with the treatment team?",
+    "type": "single",
+    "options": [
+      "Whether a prescribed antiemetic would improve oral intake.",
+      "Possible increased theophylline exposure from an interaction.",
+      "Whether taking theophylline with food would reduce nausea.",
+      "Whether the client has experienced similar palpitations before."
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Symptom treatment does not resolve potentially excessive exposure associated with the irregular pulse and tremor.",
+      "This narrow-therapeutic-margin medicine can cause gastrointestinal, neurological and rhythm toxicity; the new drug and symptom cluster require prompt review.",
+      "Food may alter comfort but does not address the concurrent neurological and cardiac warning signs.",
+      "Prior symptoms are useful history, but they do not remove the current toxicity concern after a medication change."
+    ],
+    "takeaway": "This narrow-therapeutic-margin medicine can cause gastrointestinal, neurological and rhythm toxicity; the new drug and symptom cluster require prompt review.",
+    "refs": [
+      "b-respiratory-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Respiratory drug toxicity",
+    "learningObjective": "Recognize nausea with cardiac and neurological stimulation during theophylline exposure.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-130",
+    "cat": "pharmacology",
+    "title": "Interpret increasing reliever use",
+    "stem": "A client is comfortable today but reports using the prescribed reliever much more often over the last week. What is the best next step?",
+    "type": "single",
+    "options": [
+      "Reassess the current breath sounds.",
+      "Recommend returning to the previous reliever schedule.",
+      "Review recent control, inhaler technique and the action plan.",
+      "Arrange a larger refill supply."
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Today's findings are useful but cannot establish control across the reported week.",
+      "Restricting use to an earlier pattern does not treat the cause of increased symptoms or update the action plan.",
+      "Increased reliever use over a week can signal loss of control even when the client is comfortable at assessment.",
+      "Adequate supply matters, but it does not determine why use increased."
+    ],
+    "takeaway": "Increased reliever use over a week can signal loss of control even when the client is comfortable at assessment.",
+    "refs": [
+      "b-respiratory-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Asthma medication review",
+    "learningObjective": "Use an increasing reliever pattern as a cue to reassess asthma control and technique.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-131",
+    "cat": "pharmacology",
+    "title": "Protect dry-powder inhaler delivery",
+    "stem": "During return demonstration with a dry-powder inhaler, which actions support delivery when consistent with that device's instructions? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Rinse the powder chamber immediately before a dose.",
+      "Use a slow gentle inhalation as with a metered-dose inhaler.",
+      "Exhale away from the loaded device before inhaling.",
+      "Use the sufficiently forceful inhalation instructed for that device.",
+      "Attach a spacer to the powder mouthpiece."
+    ],
+    "answer": [
+      2,
+      3
+    ],
+    "why": [
+      "Moisture can impair powder function; use the device's cleaning instructions.",
+      "A slow inhalation technique suitable for some aerosol devices may not provide the inspiratory effort needed for dry-powder delivery.",
+      "Exhaled moisture can affect the powder when blown into the device.",
+      "Dry-powder delivery depends on the user's inspiratory effort and the specific device mechanism.",
+      "Spacers are generally intended for suitable metered-dose devices, not this powder-delivery mechanism."
+    ],
+    "takeaway": "Exhaled moisture can affect the powder when blown into the device.",
+    "refs": [
+      "b-respiratory-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Inhaler technique",
+    "learningObjective": "Recognize technique errors that introduce moisture or impair a dry-powder inhalation.",
+    "reasoningSkill": "teaching",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-132",
+    "cat": "pharmacology",
+    "title": "Report neuropsychiatric changes during montelukast",
+    "stem": "After a child starts montelukast, which new findings are concerning for a neuropsychiatric adverse effect that needs prompt clinical assessment? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Agitation, depressed mood or statements about self-harm.",
+      "An itchy wheal where a mosquito bit the child.",
+      "Brief muscle soreness after an unfamiliar sports session.",
+      "A runny nose during a class outbreak of colds.",
+      "Distressing nightmares with marked sleep disruption."
+    ],
+    "answer": [
+      0,
+      4
+    ],
+    "why": [
+      "New self-harm statements require immediate safety assessment and urgent help, alongside medication review; do not wait for a routine appointment.",
+      "A localized bite reaction does not indicate the neuropsychiatric pattern being assessed, though symptoms should be managed appropriately.",
+      "A clear exertional muscle symptom is not evidence of a new behavioural or mood effect.",
+      "An intercurrent respiratory symptom does not itself identify a neuropsychiatric medication effect.",
+      "Significant new sleep disturbance is a reported neuropsychiatric effect that should be communicated promptly."
+    ],
+    "takeaway": "Significant new sleep disturbance is a reported neuropsychiatric effect that should be communicated promptly.",
+    "refs": [
+      "b-montelukast"
+    ],
+    "exhibit": null,
+    "subtopic": "Respiratory drug adverse effects",
+    "learningObjective": "Include behavioural and mood warnings in teaching about montelukast.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-133",
+    "cat": "pharmacology",
+    "title": "Review an oral decongestant in hypertension",
+    "stem": "A client whose recent home blood pressures average 172/98 mmHg asks whether oral pseudoephedrine is suitable for congestion. What should the nurse recommend about the requested medicine?",
+    "type": "single",
+    "options": [
+      "Take it at bedtime, separated from the blood-pressure medicine.",
+      "Review its cardiovascular suitability with the pharmacist or prescriber.",
+      "Try half the usual package dose for the first day.",
+      "Choose a longer-acting formulation to reduce the number of doses."
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Timing separation does not reliably prevent the blood-pressure effect or establish suitability.",
+      "Systemic sympathomimetic effects can raise pressure or cause palpitations; uncontrolled readings make individual review important.",
+      "A self-directed lower dose does not establish safety with poorly controlled blood pressure.",
+      "Longer duration does not remove the systemic sympathomimetic effect."
+    ],
+    "takeaway": "Systemic sympathomimetic effects can raise pressure or cause palpitations; uncontrolled readings make individual review important.",
+    "refs": [
+      "b-respiratory-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Nonprescription respiratory medicines",
+    "learningObjective": "Assess sympathomimetic decongestant suitability in a client with uncontrolled blood pressure.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-134",
+    "cat": "pharmacology",
+    "title": "Recognize a first-generation antihistamine burden",
+    "stem": "An older adult starts a first-generation sedating antihistamine. Which new findings fit its sedative or anticholinergic effects? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Profuse watery diarrhea with increased bowel sounds.",
+      "Increasing sweating with excessive salivation.",
+      "New dependent ankle swelling with orthopnea.",
+      "Sleepiness and unsteadiness when walking.",
+      "Dry mouth, constipation and difficulty voiding."
+    ],
+    "answer": [
+      3,
+      4
+    ],
+    "why": [
+      "This does not fit the expected anticholinergic bowel-slowing pattern and needs consideration of another cause.",
+      "Anticholinergic effects more often reduce secretions rather than increase them.",
+      "This pattern raises a different cardiopulmonary or fluid concern rather than the typical sedative-anticholinergic burden.",
+      "Central sedation can impair balance and increase fall risk.",
+      "These findings are consistent with reduced cholinergic activity."
+    ],
+    "takeaway": "Central sedation can impair balance and increase fall risk.",
+    "refs": [
+      "b-respiratory-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Nonprescription respiratory medicines",
+    "learningObjective": "Identify anticholinergic and sedative effects relevant to an older adult's medication review.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-135",
+    "cat": "pharmacology",
+    "title": "Evaluate prescribed lactulose treatment",
+    "stem": "A client receives lactulose for hepatic encephalopathy. Which findings indicate a favourable response with acceptable tolerance? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Mental status improves toward baseline.",
+      "Stool frequency meets the ordered target with stable hydration.",
+      "Profuse diarrhea develops with postural dizziness.",
+      "Cognition remains unchanged as the dose increases.",
+      "Appetite decreases during the treatment period."
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "why": [
+      "Improved cognition supports a clinically meaningful response in encephalopathy.",
+      "The prescribed bowel effect is being achieved without signs of harmful fluid loss.",
+      "Excessive diarrhea and dizziness suggest fluid depletion, so this is not acceptable tolerance.",
+      "An absent clinical response warrants reassessment rather than being counted as a favourable outcome.",
+      "Reduced appetite does not demonstrate improved encephalopathy and may undermine nutrition."
+    ],
+    "takeaway": "Improved cognition supports a clinically meaningful response in encephalopathy.",
+    "refs": [
+      "b-gi-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Hepatic encephalopathy treatment",
+    "learningObjective": "Balance encephalopathy improvement with bowel and hydration effects of lactulose.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-136",
+    "cat": "pharmacology",
+    "title": "Review bulk-forming fibre with swallowing limitations",
+    "stem": "A client with significant dysphagia is prescribed a bulk-forming fibre product whose instructions require 240 mL of fluid with each dose. The swallowing plan does not permit that volume or consistency. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Ask pharmacy and the prescriber to review a suitable bowel preparation.",
+      "Mix the prescribed powder into 30 mL to reduce swallowing effort.",
+      "Request a thickened preparation and assume the usual amount is suitable.",
+      "Divide the dose into several dry portions followed by sips."
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "The product's fluid requirement and swallowing limits must both be addressed before administration.",
+      "Concentrating the product does not satisfy its fluid requirement and can increase choking or obstruction risk.",
+      "Thickening alone may not meet the formulation's required fluid volume; pharmacy and swallowing-plan review are still needed.",
+      "Dividing dry material does not establish a safe preparation or resolve the overall fluid requirement."
+    ],
+    "takeaway": "The product's fluid requirement and swallowing limits must both be addressed before administration.",
+    "refs": [
+      "b-gi-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Laxative administration",
+    "learningObjective": "Assess whether a bulk-forming preparation is suitable when safe fluid intake is restricted.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-137",
+    "cat": "pharmacology",
+    "title": "Match pancreatic enzymes to food intake",
+    "stem": "A client with pancreatic insufficiency is learning to use prescribed enzymes. Which instructions are appropriate? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Report continuing greasy stools or weight loss",
+      "Take the entire daily amount on waking before food",
+      "Chew enteric-coated enzyme beads for faster action",
+      "Skip enzymes when the meal contains protein but little fat",
+      "Coordinate doses with meals and snacks as prescribed"
+    ],
+    "answer": [
+      0,
+      4
+    ],
+    "why": [
+      "Persistent malabsorption can indicate a need to review the regimen.",
+      "A single fasting dose does not accompany later meals.",
+      "Chewing can damage the protective coating and irritate oral tissue.",
+      "The individualized enzyme prescription may support digestion of more than fat alone.",
+      "Enzymes need to accompany food to support digestion."
+    ],
+    "takeaway": "Enzymes need to accompany food to support digestion.",
+    "refs": [
+      "b-gi-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Digestive enzyme replacement",
+    "learningObjective": "Teach meal-associated pancreatic enzyme use for prescribed malabsorption treatment.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-138",
+    "cat": "pharmacology",
+    "title": "Administer liquid iron while limiting staining",
+    "stem": "A school-age child who safely uses a drinking straw has tooth staining from liquid iron. Pharmacy confirms that each accurately measured dose may be mixed into a small amount of juice. Which instruction best limits tooth contact while preserving the dose?",
+    "type": "single",
+    "options": [
+      "Mix the measured dose into a full bottle of juice for use through the day.",
+      "Place the measured dose directly over the front teeth before swallowing.",
+      "Give the measured juice mixture through a straw, then rinse the mouth.",
+      "Rinse the mouth first, then drink the measured mixture from a cup."
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "The amount actually taken becomes uncertain if the bottle is not finished on schedule.",
+      "This increases tooth contact rather than limiting the local staining problem.",
+      "The small completed mixture preserves the prescribed dose, while straw use and rinsing reduce tooth exposure.",
+      "A predose rinse does not remove iron left on teeth during administration."
+    ],
+    "takeaway": "The small completed mixture preserves the prescribed dose, while straw use and rinsing reduce tooth exposure.",
+    "refs": [
+      "b-gi-drugs",
+      "b-liquid-iron"
+    ],
+    "exhibit": null,
+    "subtopic": "Haematinic medicines",
+    "learningObjective": "Teach a practical technique that preserves the prescribed iron dose and reduces tooth exposure.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-139",
+    "cat": "pharmacology",
+    "title": "Explain replacement in pernicious anemia",
+    "stem": "A client with pernicious anemia feels better and has an improved blood count after B12 treatment. They ask whether replacement is now unnecessary. What is best?",
+    "type": "single",
+    "options": [
+      "A normal blood count means intrinsic factor has recovered.",
+      "Injected treatment can always be replaced by a standard multivitamin.",
+      "A higher dietary B12 intake removes the need for further treatment.",
+      "Improved stores do not necessarily correct the underlying absorption impairment."
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Hematological improvement reflects replacement benefit, not restoration of the impaired absorption mechanism.",
+      "The route and dose must be individualized; ordinary multivitamin amounts may not meet replacement needs.",
+      "Better intake alone may not overcome the persistent absorption problem in pernicious anemia.",
+      "Pernicious anemia involves impaired intrinsic-factor-related absorption, so improvement often requires ongoing prescribed replacement to be sustained."
+    ],
+    "takeaway": "Pernicious anemia involves impaired intrinsic-factor-related absorption, so improvement often requires ongoing prescribed replacement to be sustained.",
+    "refs": [
+      "b-gi-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Haematinic medicines",
+    "learningObjective": "Connect persistent intrinsic-factor deficiency with ongoing vitamin B12 replacement needs.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-140",
+    "cat": "pharmacology",
+    "title": "Distinguish folate correction from B12 evaluation",
+    "stem": "A client with macrocytic anemia is being assessed before vitamin replacement. Which additional cluster most strongly supports assessing B12-related neurological involvement?",
+    "type": "single",
+    "options": [
+      "Distal numbness with a new unsteady gait.",
+      "Fatigue with pallor during usual activities.",
+      "A sore tongue with reduced appetite.",
+      "Mild exertional breathlessness with tachycardia."
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Neurological findings raise concern for B12 deficiency; folate can improve blood counts while unrecognized B12-related neurological injury continues.",
+      "These are general anemia features and do not specifically identify neurological involvement.",
+      "Oral and appetite symptoms can accompany several deficiencies and are less specific than the neurological cluster.",
+      "These may reflect anemia severity but do not distinguish B12-related nerve involvement."
+    ],
+    "takeaway": "Neurological findings raise concern for B12 deficiency; folate can improve blood counts while unrecognized B12-related neurological injury continues.",
+    "refs": [
+      "b-gi-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Haematinic medicines",
+    "learningObjective": "Recognize why neurological symptoms with macrocytosis require consideration of vitamin B12 deficiency.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-141",
+    "cat": "pharmacology",
+    "title": "Monitor blood pressure during epoetin therapy",
+    "stem": "A client receiving epoetin for renal anemia has a new headache. Repeated blood pressures are 186/106 and 184/104 mmHg. The client-specific order says to hold the dose and contact the prescriber if systolic pressure is 180 mmHg or higher. Which action follows the plan?",
+    "type": "single",
+    "options": [
+      "Ask to give the same dose at a different injection site.",
+      "Hold epoetin and obtain prompt assessment of the headache and pressure.",
+      "Give epoetin because the hemoglobin has improved on treatment.",
+      "Delay the dose until the client has rested, then give it if the headache eases."
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Changing the site does not alter the systemic hypertension concern or the hold criterion.",
+      "Both readings exceed the supplied hold parameter, and symptoms add urgency to clinical review.",
+      "Hematological benefit does not override the explicit pressure parameter or establish safety.",
+      "Symptom relief alone does not establish that the pressure meets the prescribed conditions for dosing."
+    ],
+    "takeaway": "Both readings exceed the supplied hold parameter, and symptoms add urgency to clinical review.",
+    "refs": [
+      "b-renal-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Renal supportive medicines",
+    "learningObjective": "Recognize hypertension as a relevant safety concern during erythropoiesis-stimulating treatment.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-142",
+    "cat": "pharmacology",
+    "title": "Time phosphate binders with food",
+    "stem": "A dialysis client takes all phosphate-binder tablets at bedtime because that is easiest to remember. What is the most useful teaching?",
+    "type": "single",
+    "options": [
+      "Take the whole daily amount before breakfast.",
+      "Use the usual bedtime dose whenever the daily total is unchanged.",
+      "Link prescribed doses to meals and relevant snacks.",
+      "Take each dose at a fixed two-hour interval after meals."
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "This would not appropriately accompany dietary phosphate in later meals and snacks.",
+      "The total amount alone does not ensure effective binding when it is separated from food.",
+      "The binder needs to be present with dietary phosphate in the gastrointestinal tract.",
+      "A delayed schedule can separate the medicine from the food it is intended to bind."
+    ],
+    "takeaway": "The binder needs to be present with dietary phosphate in the gastrointestinal tract.",
+    "refs": [
+      "b-renal-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Renal supportive medicines",
+    "learningObjective": "Explain how a prescribed phosphate binder's action determines administration timing.",
+    "reasoningSkill": "intervention",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-143",
+    "cat": "pharmacology",
+    "title": "Assess calcium during calcitriol therapy",
+    "stem": "A client taking calcitriol develops constipation and weakness. Calcium is 2.95 mmol/L (reference 2.15–2.55). Which concern is most relevant to medication review?",
+    "type": "single",
+    "options": [
+      "Worsening hypocalcemia requiring more active vitamin D.",
+      "Gastrointestinal phosphate binding causing reduced calcium absorption.",
+      "A normal treatment effect indicating restored bone strength.",
+      "Calcitriol-associated hypercalcemia."
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "The supplied calcium is above range, so increasing treatment for low calcium is not supported.",
+      "Calcitriol is active vitamin D, not a phosphate binder, and the current value shows calcium excess.",
+      "Symptomatic above-range calcium is not an intended marker of successful bone treatment.",
+      "Active vitamin D can increase calcium absorption; the elevated value and compatible symptoms warrant treatment review."
+    ],
+    "takeaway": "Active vitamin D can increase calcium absorption; the elevated value and compatible symptoms warrant treatment review.",
+    "refs": [
+      "b-renal-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Renal supportive medicines",
+    "learningObjective": "Recognize symptoms and laboratory trends suggesting excessive calcium during active vitamin D therapy.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-144",
+    "cat": "pharmacology",
+    "title": "Evaluate prescribed bicarbonate in CKD",
+    "stem": "A client with chronic kidney disease receives prescribed sodium bicarbonate for metabolic acidosis. Which follow-up cluster most directly assesses both the treatment goal and the sodium burden?",
+    "type": "single",
+    "options": [
+      "Serum bicarbonate, weight, edema and blood pressure.",
+      "Serum potassium, pulse rhythm and muscle strength.",
+      "Food intake, albumin and weekly appetite changes.",
+      "Creatinine, urine concentration and medication-clearance estimates."
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Bicarbonate reflects the intended acid-base response, while volume and pressure findings assess tolerance of added sodium.",
+      "These are relevant renal safety measures but do not directly cover both bicarbonate correction and sodium-related fluid effects.",
+      "Nutrition assessment matters in CKD but does not directly evaluate this medicine's main acid-base goal and sodium burden.",
+      "Renal trends remain important, but this cluster is less specific for both bicarbonate response and fluid tolerance."
+    ],
+    "takeaway": "Bicarbonate reflects the intended acid-base response, while volume and pressure findings assess tolerance of added sodium.",
+    "refs": [
+      "b-renal-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Renal supportive medicines",
+    "learningObjective": "Assess correction of metabolic acidosis alongside sodium-related fluid tolerance.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-145",
+    "cat": "pharmacology",
+    "title": "Review magnesium antacids in advanced kidney disease",
+    "stem": "A client with advanced kidney disease uses a magnesium antacid several times daily. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Use symptom relief to decide how often another dose is needed.",
+      "Review the product's renal safety with pharmacy or the treatment team.",
+      "Move the antacid to a different time from meals.",
+      "Change to another brand of magnesium antacid."
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Heartburn relief does not establish safe magnesium exposure in advanced kidney disease.",
+      "Magnesium can accumulate when renal elimination is substantially reduced, especially with frequent use.",
+      "Changing timing does not remove the risk of magnesium accumulation.",
+      "A brand change does not remove the ingredient-specific renal concern."
+    ],
+    "takeaway": "Magnesium can accumulate when renal elimination is substantially reduced, especially with frequent use.",
+    "refs": [
+      "b-renal-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Renal supportive medicines",
+    "learningObjective": "Identify potential accumulation from a nonprescription magnesium-containing product during renal impairment.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-146",
+    "cat": "pharmacology",
+    "title": "Reduce systemic absorption of eye drops",
+    "stem": "A client prescribed timolol eye drops is taught nasolacrimal occlusion. Which actions fit the instructed technique? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Rub the eye firmly after placing the drop",
+      "Add a second drop whenever some fluid reaches the cheek",
+      "Close the eyelid gently after instillation",
+      "Apply gentle pressure near the inner canthus for the taught interval",
+      "Blink rapidly to spread the medicine into the tear duct"
+    ],
+    "answer": [
+      2,
+      3
+    ],
+    "why": [
+      "Rubbing risks irritation and does not provide controlled occlusion.",
+      "Routine extra dosing can increase exposure beyond the prescription.",
+      "Gentle closure helps limit immediate drainage without forceful blinking.",
+      "Occluding drainage can reduce systemic absorption through the nasolacrimal pathway.",
+      "Rapid blinking promotes drainage rather than reducing it."
+    ],
+    "takeaway": "Gentle closure helps limit immediate drainage without forceful blinking.",
+    "refs": [
+      "b-topical-medicines"
+    ],
+    "exhibit": null,
+    "subtopic": "Ophthalmic medicines",
+    "learningObjective": "Teach prescribed nasolacrimal occlusion to reduce systemic exposure to ophthalmic timolol.",
+    "reasoningSkill": "teaching",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-147",
+    "cat": "pharmacology",
+    "title": "Space separately prescribed eye products",
+    "stem": "A client must use two different eye-drop medicines at the same administration time. Which teaching points are appropriate? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Verify the prescribed order when an ointment is also used",
+      "Mix both solutions in one dropper bottle",
+      "Place both drops rapidly to shorten the procedure",
+      "Use extra drops to compensate for any expected overflow",
+      "Follow the recommended interval between products"
+    ],
+    "answer": [
+      0,
+      4
+    ],
+    "why": [
+      "Ointments and drops may need a specific sequence for effective delivery.",
+      "Mixing can create contamination, stability and identification problems.",
+      "Immediate sequential instillation can increase washout.",
+      "Unplanned extra dosing does not provide reliable compensation.",
+      "Spacing reduces the chance that the next drop washes out the first."
+    ],
+    "takeaway": "Spacing reduces the chance that the next drop washes out the first.",
+    "refs": [
+      "b-topical-medicines"
+    ],
+    "exhibit": null,
+    "subtopic": "Ophthalmic medicines",
+    "learningObjective": "Prevent immediate washout when more than one ophthalmic product is prescribed.",
+    "reasoningSkill": "teaching",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-148",
+    "cat": "pharmacology",
+    "title": "Measure and handle nitroglycerin ointment safely",
+    "stem": "The order specifies a 2.5 cm strip of nitroglycerin ointment applied every 8 hours using the supplied calibrated paper. The nurse wears appropriate gloves. Which method gives the ordered amount?",
+    "type": "single",
+    "options": [
+      "Measure a 2.5 cm strip on the supplied dose paper.",
+      "Spread a thin film over 2.5 cm² of skin.",
+      "Cover the entire supplied paper with a thin ointment layer.",
+      "Use a 2.5 mL oral syringe to measure the ointment volume."
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "The order specifies strip length using the product measure; this provides the intended quantity while gloves limit unintended exposure.",
+      "Skin area is different from the prescribed strip length and cannot establish the same quantity.",
+      "The paper is a measuring aid, not an instruction to fill its whole area.",
+      "The ordered length cannot be replaced by the same numerical volume; the unit and measuring method matter."
+    ],
+    "takeaway": "The order specifies strip length using the product measure; this provides the intended quantity while gloves limit unintended exposure.",
+    "refs": [
+      "b-nitroglycerin-topical"
+    ],
+    "exhibit": null,
+    "subtopic": "Topical medication handling",
+    "learningObjective": "Use the prescribed length measure rather than substituting skin area or volume for a topical ointment dose.",
+    "reasoningSkill": "intervention",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-149",
+    "cat": "pharmacology",
+    "title": "Check a medicated patch before MRI",
+    "stem": "A client wearing a medicated patch is scheduled for MRI. The product's backing composition is unknown. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Cover the patch with another dressing for the scan.",
+      "Verify product MRI compatibility and the replacement instructions.",
+      "Leave it in place because the active medicine is not magnetic.",
+      "Remove it and apply the next patch at the usual scheduled time."
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "An added covering does not establish protection from MRI-related heating.",
+      "Patch materials may heat during MRI, while removal affects medication delivery; both need product-specific planning.",
+      "The backing or other material, rather than the active drug alone, can create heating risk.",
+      "That interval may leave an unintended treatment gap or otherwise conflict with the specific replacement instructions."
+    ],
+    "takeaway": "Patch materials may heat during MRI, while removal affects medication delivery; both need product-specific planning.",
+    "refs": [
+      "b-mri-patches"
+    ],
+    "exhibit": null,
+    "subtopic": "Transdermal treatment and procedures",
+    "learningObjective": "Use product and imaging guidance to manage a patch that may contain metal before MRI.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-150",
+    "cat": "pharmacology",
+    "title": "Evaluate epinephrine autoinjector readiness",
+    "stem": "A client prescribed an epinephrine autoinjector practises with the correct trainer and its instructions. Which findings support readiness? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "The client identifies the needle end and targets the outer mid-thigh.",
+      "The client describes calling for emergency help after use.",
+      "The client places a thumb over the end from which the needle emerges.",
+      "The client selects the upper-arm muscle as the planned injection site.",
+      "The client removes the device as soon as it touches the skin, before completing its instructed sequence."
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "why": [
+      "Correct end and site reduce delay and accidental injection risk during an emergency.",
+      "An initial response does not exclude persistent or recurrent anaphylaxis, so emergency follow-up remains necessary.",
+      "Covering the needle end risks an accidental finger injection and failed delivery to the intended site.",
+      "The standard autoinjector site is the outer mid-thigh; upper-arm selection is a technique error.",
+      "The demonstrated sequence must follow that device's instructions to activate and deliver its intended dose."
+    ],
+    "takeaway": "Correct end and site reduce delay and accidental injection risk during an emergency.",
+    "refs": [
+      "bcmed"
+    ],
+    "exhibit": null,
+    "subtopic": "Emergency self-administration",
+    "learningObjective": "Assess device-specific demonstration and the escalation plan after emergency epinephrine use.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  }
+]

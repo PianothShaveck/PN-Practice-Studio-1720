@@ -1,0 +1,98 @@
+[
+  {
+    "id": "x-psychosocial-127",
+    "cat": "psychosocial",
+    "title": "Lower tolerance after abstinence",
+    "stem": "A client leaving treatment asks whether their previous opioid amount would have the same effect after several weeks without use. Which explanation is most accurate?",
+    "type": "single",
+    "options": [
+      "Lower tolerance can make the previous amount more dangerous",
+      "Previous experience remains a dependable guide to the same amount",
+      "An unchanged route makes the response similar to before treatment",
+      "Drug clearance during abstinence reduces the risk from the old amount"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Tolerance can fall during abstinence; an amount previously used can now cause greater harm, and an unpredictable supply adds further risk.",
+      "Prior experience does not account for reduced tolerance or variable contents.",
+      "Using the same route does not preserve tolerance after abstinence.",
+      "Clearing earlier doses does not preserve tolerance; renewed exposure to the previously used amount can be hazardous after abstinence."
+    ],
+    "takeaway": "Discuss increased overdose risk after reduced opioid exposure.",
+    "refs": [
+      "d-opioid-ca"
+    ],
+    "exhibit": null,
+    "subtopic": "Overdose prevention",
+    "learningObjective": "Discuss increased overdose risk after reduced opioid exposure.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-130",
+    "cat": "psychosocial",
+    "title": "Opioid withdrawal distress",
+    "stem": "After interruption of regular opioid use, an alert client develops yawning, diffuse aches, watery diarrhea and restlessness. Respirations are 18/min, oxygen saturation 98%, and they are taking little fluid because of nausea. What should the nurse prioritize?",
+    "type": "single",
+    "options": [
+      "Focus the interview on recent infectious contacts",
+      "Assess withdrawal severity and hydration to guide authorized support",
+      "Increase monitoring primarily for opioid-induced respiratory depression",
+      "Begin a detailed discussion of long-term recovery goals"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Infection remains a possible alternative if indicated, but the timing and combined symptom pattern support assessing withdrawal first.",
+      "The pattern after interrupted use warrants withdrawal assessment and attention to fluid losses and intake.",
+      "Alertness and normal respirations do not suggest respiratory depression as the main current problem.",
+      "Long-term goals matter, but the current physical discomfort and losses need assessment and care now."
+    ],
+    "takeaway": "Assess opioid withdrawal symptoms and physical needs promptly.",
+    "refs": [
+      "d-substance"
+    ],
+    "exhibit": null,
+    "subtopic": "Opioid withdrawal",
+    "learningObjective": "Assess opioid withdrawal symptoms and physical needs promptly.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-136",
+    "cat": "psychosocial",
+    "title": "Problematic gaming and function",
+    "stem": "A student games until 03:00 and repeatedly misses 09:00 classes. They say they can stop whenever they choose. Which question most directly assesses control over the behaviour?",
+    "type": "single",
+    "options": [
+      "How do you usually feel before starting to play?",
+      "Do friends play with you during these late sessions?",
+      "What happens when you set and try to keep a stopping time?",
+      "How many hours do you sleep after the gaming session?"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Mood may reveal triggers, but does not directly test the claim about ability to stop.",
+      "Social context helps understand the activity but does not establish control.",
+      "Experience with attempted limits directly explores whether intended stopping translates into action.",
+      "Sleep effects demonstrate impact, while the unanswered question concerns ability to limit use."
+    ],
+    "takeaway": "Assess control and functional impairment in potentially addictive behaviours.",
+    "refs": [
+      "d-substance"
+    ],
+    "exhibit": null,
+    "subtopic": "Behavioural addiction assessment",
+    "learningObjective": "Assess control and functional impairment in potentially addictive behaviours.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  }
+]

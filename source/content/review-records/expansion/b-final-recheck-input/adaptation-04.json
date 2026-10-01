@@ -1,0 +1,820 @@
+[
+  {
+    "id": "x-adaptation-076",
+    "cat": "adaptation",
+    "title": "Escalate hyperkalemia with ECG changes",
+    "stem": "A client with acute kidney injury has potassium 6.8 mmol/L, reference 3.5–5.0, and new ECG changes. What is the priority?",
+    "type": "single",
+    "options": [
+      "Activate urgent treatment and cardiac monitoring under protocol.",
+      "Repeat the potassium sample.",
+      "Review dietary potassium sources.",
+      "Assess the client's muscle strength."
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Potassium 6.8 mmol/L with ECG changes threatens cardiac stability and needs immediate protocol-based response.",
+      "A repeat may be appropriate during care, but the existing electrical changes mean treatment must not wait for confirmation.",
+      "Diet contributes to later management but does not address the immediate dysrhythmia risk.",
+      "Neuromuscular findings are relevant, but cardiac toxicity may be severe even without marked weakness."
+    ],
+    "takeaway": "Potassium 6.8 mmol/L with ECG changes threatens cardiac stability and needs immediate protocol-based response.",
+    "refs": [
+      "b-electrolytes"
+    ],
+    "exhibit": null,
+    "subtopic": "Electrolyte emergencies",
+    "learningObjective": "Prioritize cardiac protection and protocol treatment when severe hyperkalemia has electrical effects.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-077",
+    "cat": "adaptation",
+    "title": "Review a hemolyzed potassium result",
+    "stem": "A stable client's unexpectedly high potassium result is flagged as heavily hemolyzed. There are no new symptoms or ECG changes. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Request potassium-lowering treatment based on the single reported value.",
+      "Report the result and arrange a fresh atraumatic sample promptly.",
+      "Ask the laboratory to reanalyse the same hemolyzed specimen.",
+      "Arrange review at the next routine clinic blood draw."
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "In this stable context, possible specimen error should be urgently clarified to avoid harmful unnecessary correction; hemolysis does not itself prove potassium is normal.",
+      "Hemolysis may falsely increase potassium; urgent redraw helps resolve the result while the team considers the clinical picture.",
+      "Repeating analysis of the damaged sample may reproduce the same preanalytical distortion.",
+      "The potentially critical result needs timely resolution rather than waiting for routine follow-up."
+    ],
+    "takeaway": "Hemolysis may falsely increase potassium; urgent redraw helps resolve the result while the team considers the clinical picture.",
+    "refs": [
+      "b-electrolytes"
+    ],
+    "exhibit": null,
+    "subtopic": "Electrolyte interpretation",
+    "learningObjective": "Resolve a potentially spurious potassium result without dismissing a critical value.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-078",
+    "cat": "adaptation",
+    "title": "Interpret hypokalemia with neuromuscular changes",
+    "stem": "A client with prolonged vomiting has potassium 2.7 mmol/L (reference 3.5–5.0), weakness and reduced bowel activity. Which complications are consistent with this disturbance? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Water retention from inappropriate antidiuretic hormone release.",
+      "Cardiac rhythm instability.",
+      "Further skeletal-muscle weakness.",
+      "Gastrointestinal hypomotility or ileus.",
+      "Carpopedal spasm from increased neuromuscular excitability."
+    ],
+    "answer": [
+      1,
+      2,
+      3
+    ],
+    "why": [
+      "SIADH is not an expected consequence of potassium depletion; it involves a different water-regulation disturbance.",
+      "Marked potassium depletion alters cardiac electrical activity and can cause dangerous dysrhythmias.",
+      "Low potassium can impair muscle function, potentially including respiratory muscles when severe.",
+      "The reduced bowel activity may reflect electrolyte-related loss of smooth-muscle function.",
+      "This pattern is more characteristic of low ionized calcium than the flaccid weakness of hypokalemia."
+    ],
+    "takeaway": "Marked potassium depletion alters cardiac electrical activity and can cause dangerous dysrhythmias.",
+    "refs": [
+      "b-electrolytes"
+    ],
+    "exhibit": null,
+    "subtopic": "Electrolyte emergencies",
+    "learningObjective": "Connect marked potassium depletion with weakness, bowel slowing and rhythm risk.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-079",
+    "cat": "adaptation",
+    "title": "Recognize symptomatic hypocalcemia after neck surgery",
+    "stem": "After thyroid surgery, a client develops tingling around the mouth and hand spasms. Which postoperative complication is most concerning?",
+    "type": "single",
+    "options": [
+      "An expanding neck hematoma.",
+      "Recurrent laryngeal nerve injury.",
+      "A surgical-wound infection.",
+      "Hypocalcemia with tetany."
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "A hematoma can threaten the airway but more typically causes local swelling or pressure, not the characteristic tingling and hand spasms described.",
+      "This is more likely to produce voice changes or airway issues than generalized neuromuscular irritability.",
+      "Infection does not best explain the acute perioral tingling and carpopedal spasm pattern.",
+      "Perioral paresthesia and spasms suggest low calcium; promptly assess airway symptoms and arrange calcium evaluation and treatment review."
+    ],
+    "takeaway": "Perioral paresthesia and spasms suggest low calcium; promptly assess airway symptoms and arrange calcium evaluation and treatment review.",
+    "refs": [
+      "b-electrolytes"
+    ],
+    "exhibit": null,
+    "subtopic": "Electrolyte emergencies",
+    "learningObjective": "Escalate neuromuscular irritability suggesting low calcium after thyroid surgery.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-080",
+    "cat": "adaptation",
+    "title": "Recognize concurrent magnesium depletion",
+    "stem": "After prolonged diarrhea has stopped, potassium remains 2.9 mmol/L (reference 3.5–5.0) despite prescribed replacement. Magnesium is 0.40 mmol/L (reference 0.70–1.00). There is no new vomiting, diuresis, insulin treatment or large fluid infusion. Which mechanism should the nurse raise with the team?",
+    "type": "single",
+    "options": [
+      "Magnesium depletion promoting continued renal potassium loss.",
+      "Dilution of potassium by a recent large fluid load.",
+      "A recent insulin-induced shift of potassium into cells.",
+      "Inadequate replacement for a newly increasing gastrointestinal loss."
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Low magnesium can make potassium difficult to correct; the identified deficit warrants a coordinated replacement and monitoring plan.",
+      "The history does not include the fluid exposure needed to support dilution as the main explanation.",
+      "Insulin can shift potassium, but there has been no recent insulin treatment in this case.",
+      "The diarrhea has stopped and no new losses are reported; the low magnesium is the demonstrated contributor that needs attention."
+    ],
+    "takeaway": "Low magnesium can make potassium difficult to correct; the identified deficit warrants a coordinated replacement and monitoring plan.",
+    "refs": [
+      "b-electrolytes"
+    ],
+    "exhibit": null,
+    "subtopic": "Electrolyte emergencies",
+    "learningObjective": "Consider magnesium when potassium remains low despite prescribed replacement.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-081",
+    "cat": "adaptation",
+    "title": "Respond to a seizure with severe hyponatremia",
+    "stem": "A client with sodium 116 mmol/L, reference 135–145, develops a seizure. What is the priority after immediate airway and injury protection begins?",
+    "type": "single",
+    "options": [
+      "Collect a complete fluid-intake history.",
+      "Activate emergency protocol treatment for symptomatic hyponatremia.",
+      "Obtain a repeat sodium sample.",
+      "Prepare the routine oral sodium supplement."
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "The history will help identify the cause, but emergency treatment takes priority over completing it.",
+      "A seizure with sodium 116 mmol/L is a neurological emergency requiring controlled correction and close monitoring.",
+      "Verification may occur during care, but it should not delay treatment of the current severe symptomatic disturbance.",
+      "Routine oral replacement is not an adequate immediate response to seizure-related severe hyponatremia."
+    ],
+    "takeaway": "A seizure with sodium 116 mmol/L is a neurological emergency requiring controlled correction and close monitoring.",
+    "refs": [
+      "b-electrolytes"
+    ],
+    "exhibit": null,
+    "subtopic": "Electrolyte emergencies",
+    "learningObjective": "Treat symptomatic severe sodium disturbance as an emergency requiring controlled correction.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-082",
+    "cat": "adaptation",
+    "title": "Evaluate hypernatremia treatment safely",
+    "stem": "A dehydrated older adult receives a prescribed controlled correction plan for marked hypernatremia. Which changes require prompt review during treatment? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "New crackles with increasing oxygen requirement.",
+      "A sodium fall faster than the maximum rate stated in the order.",
+      "Thirst eases while sodium changes within the ordered rate.",
+      "Urine output improves with stable pressure and clear lung sounds.",
+      "New headache and decreasing alertness during the infusion."
+    ],
+    "answer": [
+      0,
+      1,
+      4
+    ],
+    "why": [
+      "Emerging congestion suggests poor fluid tolerance and requires review of the current plan.",
+      "The measured trend exceeds this client's controlled correction plan and requires prompt action under protocol.",
+      "This is consistent with a response but does not eliminate the need for ongoing sodium and neurological monitoring.",
+      "These findings can support improved hydration when considered with the full trend rather than indicating a new treatment complication.",
+      "Neurological deterioration can signal an unsafe shift or another complication and warrants immediate reassessment."
+    ],
+    "takeaway": "Neurological deterioration can signal an unsafe shift or another complication and warrants immediate reassessment.",
+    "refs": [
+      "b-electrolytes"
+    ],
+    "exhibit": null,
+    "subtopic": "Electrolyte correction",
+    "learningObjective": "Monitor neurological and fluid trends during prescribed controlled correction of hypernatremia.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-083",
+    "cat": "adaptation",
+    "title": "Anticipate potassium changes during DKA treatment",
+    "stem": "A client with diabetic ketoacidosis begins prescribed insulin and fluids. Initial potassium was high, but it is now falling. What explains the monitoring need?",
+    "type": "single",
+    "options": [
+      "Insulin moves potassium from cells into the blood.",
+      "Insulin removes potassium directly through the kidneys.",
+      "The initial high concentration shows adequate total potassium reserves.",
+      "Insulin moves potassium into cells while total stores may be depleted."
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "The relevant insulin effect is movement into cells, which can lower the measured serum level.",
+      "Insulin primarily redistributes potassium; removal depends on kidney function or other elimination therapy.",
+      "Distribution changes can raise serum potassium despite substantial losses from the body.",
+      "An initially high serum concentration can mask a whole-body potassium deficit during DKA."
+    ],
+    "takeaway": "An initially high serum concentration can mask a whole-body potassium deficit during DKA.",
+    "refs": [
+      "b-diabetes"
+    ],
+    "exhibit": null,
+    "subtopic": "Hyperglycemic emergencies",
+    "learningObjective": "Explain why potassium may fall during insulin treatment despite an initially normal or high value.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-084",
+    "cat": "adaptation",
+    "title": "Continue DKA care after glucose improves",
+    "stem": "A client remains on an IV DKA protocol. Glucose approaches the protocol target, but blood ketones and acidosis persist. What should the nurse anticipate?",
+    "type": "single",
+    "options": [
+      "Continue protocol insulin with prescribed glucose-containing fluid as indicated.",
+      "Stop insulin after the glucose target is reached.",
+      "Determine resolution from the increased urine output.",
+      "Resume routine meals and the usual subcutaneous regimen."
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Insulin may still be needed to clear ketosis while glucose-containing fluid protects against hypoglycemia.",
+      "Glucose improvement alone does not establish resolution of ketoacidosis.",
+      "Improved output may reflect resuscitation but does not show that ketones and acidosis have cleared.",
+      "Transition requires the protocol's metabolic and clinical criteria, not simply a glucose target."
+    ],
+    "takeaway": "Insulin may still be needed to clear ketosis while glucose-containing fluid protects against hypoglycemia.",
+    "refs": [
+      "b-diabetes"
+    ],
+    "exhibit": null,
+    "subtopic": "Hyperglycemic emergencies",
+    "learningObjective": "Distinguish improvement in glucose from resolution of ketoacidosis.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-085",
+    "cat": "adaptation",
+    "title": "Recognize severe hyperosmolar illness without ketones",
+    "stem": "An older adult with type 2 diabetes is confused and profoundly dehydrated. Glucose is 42 mmol/L, calculated serum osmolality 338 mOsm/kg (reference 275–295), pH 7.36 (reference 7.35–7.45), and blood ketones are minimally elevated. Which concern best fits?",
+    "type": "single",
+    "options": [
+      "Uncomplicated dehydration from reduced intake.",
+      "Hyperosmolar hyperglycemic state.",
+      "Diabetic ketoacidosis as the dominant disturbance.",
+      "Hypoglycemia with neurological impairment."
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "The severity of hyperglycemia, osmolality and neurological change exceeds uncomplicated dehydration and requires urgent metabolic management.",
+      "Marked hyperglycemia, hyperosmolality and dehydration with little acidosis support this emergency; assess for overlap rather than assuming mixed disease is impossible.",
+      "DKA usually includes significant ketosis and metabolic acidosis, which are not the dominant findings here.",
+      "The measured glucose is markedly elevated, not low."
+    ],
+    "takeaway": "Marked hyperglycemia, hyperosmolality and dehydration with little acidosis support this emergency; assess for overlap rather than assuming mixed disease is impossible.",
+    "refs": [
+      "b-diabetes"
+    ],
+    "exhibit": null,
+    "subtopic": "Hyperglycemic emergencies",
+    "learningObjective": "Identify profound dehydration and neurological change as serious despite minimal ketosis.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-086",
+    "cat": "adaptation",
+    "title": "Recognize diabetes insipidus after pituitary surgery",
+    "stem": "After pituitary surgery, a client passes large amounts of very dilute urine and becomes increasingly thirsty; sodium rises above range. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Review whether diuretics were given perioperatively.",
+      "Continue the usual postoperative fluid allowance.",
+      "Promptly assess fluid balance and report possible diabetes insipidus.",
+      "Compare today's weight with yesterday's."
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Medication history matters, but the surgical context and rising sodium still require prompt assessment for diabetes insipidus.",
+      "The new excessive losses may require a revised prescribed plan; the earlier allowance may no longer match current needs.",
+      "Large dilute output with rising sodium after pituitary surgery suggests impaired antidiuretic function and potentially rapid free-water loss.",
+      "Weight is useful but a daily comparison does not replace response to rapid ongoing losses."
+    ],
+    "takeaway": "Large dilute output with rising sodium after pituitary surgery suggests impaired antidiuretic function and potentially rapid free-water loss.",
+    "refs": [
+      "b-endocrine-adaptation"
+    ],
+    "exhibit": null,
+    "subtopic": "Water-regulation disorders",
+    "learningObjective": "Connect high dilute urine output and rising sodium with impaired antidiuretic function.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-087",
+    "cat": "adaptation",
+    "title": "Apply a prescribed SIADH fluid limit",
+    "stem": "A client with SIADH has an individualized total daily fluid allowance. Which nursing practices help account for that allowance accurately? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Allocate fluid across meals, medication administration and shifts.",
+      "Record plain water separately and exclude milk from the total.",
+      "Count IV medication diluents in a separate total outside the allowance.",
+      "Use the amount requested for thirst as the next shift's allocation.",
+      "Include drinks, ice and other fluid sources specified in the plan."
+    ],
+    "answer": [
+      0,
+      4
+    ],
+    "why": [
+      "A shared allocation helps prevent accidental excess while meeting necessary care needs.",
+      "Milk still supplies fluid, so omitting it would undercount intake.",
+      "When the order concerns total intake, prescribed IV carriers must be accounted for unless the plan explicitly says otherwise.",
+      "Thirst does not determine the authorized total or establish that the sodium disturbance has resolved.",
+      "Foods and ice that become liquid may contribute to intake; use the prescribed counting method."
+    ],
+    "takeaway": "Foods and ice that become liquid may contribute to intake; use the prescribed counting method.",
+    "refs": [
+      "b-endocrine-adaptation"
+    ],
+    "exhibit": null,
+    "subtopic": "Water-regulation disorders",
+    "learningObjective": "Account for all fluid sources when carrying out an individualized SIADH restriction.",
+    "reasoningSkill": "teaching",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-088",
+    "cat": "adaptation",
+    "title": "Recognize thyroid storm physiology",
+    "stem": "A client with poorly controlled hyperthyroidism develops a temperature of 40.1°C, pulse 152/minute, agitation and diarrhea during an infection. Which concern most urgently guides escalation?",
+    "type": "single",
+    "options": [
+      "Thyroid storm.",
+      "Uncomplicated thyrotoxicosis.",
+      "Infection without endocrine decompensation.",
+      "Panic-related symptoms."
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Severe hyperthermia, tachycardia and neurological and gastrointestinal changes suggest acute endocrine decompensation requiring emergency care.",
+      "The extreme multisystem deterioration goes beyond stable excess-thyroid symptoms and requires emergency assessment.",
+      "Infection may be the trigger and needs treatment, but the known hyperthyroidism and severe pattern also require assessment for storm.",
+      "Panic can cause tachycardia and distress but does not adequately explain this high fever and systemic illness."
+    ],
+    "takeaway": "Severe hyperthermia, tachycardia and neurological and gastrointestinal changes suggest acute endocrine decompensation requiring emergency care.",
+    "refs": [
+      "b-thyroid"
+    ],
+    "exhibit": null,
+    "subtopic": "Endocrine emergencies",
+    "learningObjective": "Escalate extreme hypermetabolic and neurological findings in a client with hyperthyroidism.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-089",
+    "cat": "adaptation",
+    "title": "Recognize severe hypothyroid decompensation",
+    "stem": "A client with untreated hypothyroidism becomes hypothermic, bradycardic and difficult to arouse with slow breathing. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Reconcile the missed thyroid medication doses.",
+      "Activate emergency support for ventilation.",
+      "Begin the prescribed gradual warming measures.",
+      "Obtain the ordered thyroid laboratory samples."
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "The history helps subsequent management but does not address the current ventilatory threat.",
+      "Slow breathing and impaired arousal threaten immediate physiological safety in severe hypothyroid decompensation.",
+      "Warming is relevant, but it should not displace urgent support for depressed ventilation.",
+      "Tests assist confirmation but must not delay response to reduced consciousness and breathing."
+    ],
+    "takeaway": "Slow breathing and impaired arousal threaten immediate physiological safety in severe hypothyroid decompensation.",
+    "refs": [
+      "b-thyroid"
+    ],
+    "exhibit": null,
+    "subtopic": "Endocrine emergencies",
+    "learningObjective": "Identify hypothermia, reduced ventilation and altered consciousness as an endocrine emergency pattern.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-090",
+    "cat": "adaptation",
+    "title": "Identify an adrenal-crisis pattern",
+    "stem": "A client with primary adrenal insufficiency has vomited their prescribed steroid doses for two days. They are profoundly weak, blood pressure is 78/46 mmHg, sodium 124 mmol/L (reference 135–145), potassium 5.9 mmol/L (reference 3.5–5.0) and glucose 3.4 mmol/L. Which concern best directs urgent escalation?",
+    "type": "single",
+    "options": [
+      "Diabetic ketoacidosis.",
+      "Thyroid storm.",
+      "Adrenal crisis.",
+      "Septic shock as the sole explanation."
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "The low glucose and established adrenal history do not fit typical DKA; further evaluation may be needed but adrenal crisis is the key concern.",
+      "The supplied steroid interruption, low glucose and electrolyte pattern point toward adrenal failure rather than severe thyroid excess.",
+      "Missed steroid replacement with hypotension, hyponatremia, hyperkalemia and low glucose supports acute adrenal decompensation requiring urgent replacement and circulation support.",
+      "Infection may precipitate or coexist with crisis, but it does not remove the immediate significance of failed steroid replacement and this endocrine pattern."
+    ],
+    "takeaway": "Missed steroid replacement with hypotension, hyponatremia, hyperkalemia and low glucose supports acute adrenal decompensation requiring urgent replacement and circulation support.",
+    "refs": [
+      "b-adrenal"
+    ],
+    "exhibit": null,
+    "subtopic": "Endocrine emergencies",
+    "learningObjective": "Integrate known adrenal insufficiency with hypotension and electrolyte findings during acute illness.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-091",
+    "cat": "adaptation",
+    "title": "Assess sudden loss of catheter drainage",
+    "stem": "A catheterized client develops suprapubic discomfort and no drainage after repositioning. Blood pressure is stable. What is the best first action?",
+    "type": "single",
+    "options": [
+      "Request an intravenous fluid bolus.",
+      "Obtain renal-function blood tests.",
+      "Encourage oral fluid intake.",
+      "Inspect the catheter tubing and drainage system."
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Fluid does not correct obstructed drainage and may increase bladder distension.",
+      "Laboratory assessment may become relevant, but the immediate mechanical cause can be checked at the bedside.",
+      "Increasing intake does not resolve a kinked or blocked drainage pathway and could prolong discomfort.",
+      "The positional timing and suprapubic discomfort suggest a potentially reversible obstruction that should be checked first."
+    ],
+    "takeaway": "The positional timing and suprapubic discomfort suggest a potentially reversible obstruction that should be checked first.",
+    "refs": [
+      "b-renal"
+    ],
+    "exhibit": null,
+    "subtopic": "Urinary obstruction",
+    "learningObjective": "Check reversible drainage obstruction before assuming all low output reflects renal failure.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-092",
+    "cat": "adaptation",
+    "title": "Monitor after relief of urinary obstruction",
+    "stem": "After urinary obstruction is relieved, output is 450–600 mL/hour for four hours. The nurse is monitoring for post-obstructive fluid and electrolyte loss. Which additional findings require prompt review? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Potassium falls to 2.9 mmol/L (reference 3.5–5.0).",
+      "Suprapubic discomfort resolves after drainage begins.",
+      "Pulse and blood pressure remain at the documented baseline.",
+      "A repeat sodium remains 140 mmol/L (reference 135–145).",
+      "Blood pressure falls from 128/76 to 94/58 mmHg with new dizziness."
+    ],
+    "answer": [
+      0,
+      4
+    ],
+    "why": [
+      "Marked diuresis can deplete electrolytes; this low value needs an authorized replacement and monitoring plan.",
+      "Relief of retention discomfort is an expected improvement, although it does not establish safe fluid balance.",
+      "Stable measurements are reassuring at that time but do not remove the need to continue trending them.",
+      "A stable in-range value is not itself a new complication, although further losses can change it.",
+      "High ongoing output with falling pressure and symptoms suggests clinically important volume loss."
+    ],
+    "takeaway": "High ongoing output with falling pressure and symptoms suggests clinically important volume loss.",
+    "refs": [
+      "b-renal"
+    ],
+    "exhibit": null,
+    "subtopic": "Post-obstructive diuresis",
+    "learningObjective": "Recognize fluid and electrolyte risks when marked diuresis follows obstruction relief.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-093",
+    "cat": "adaptation",
+    "title": "Recognize possible dialysis-associated peritonitis",
+    "stem": "A client receiving peritoneal dialysis has new abdominal pain and cloudy effluent. What is most appropriate?",
+    "type": "single",
+    "options": [
+      "Repeat the next exchange and compare its clarity.",
+      "Contact the dialysis team and follow the aseptic specimen plan.",
+      "Give the usual constipation advice.",
+      "Discard the drained bag through the usual disposal route."
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Waiting for another exchange could delay treatment; the current symptoms already warrant prompt contact.",
+      "New cloudy effluent with abdominal pain suggests peritonitis requiring prompt investigation and treatment.",
+      "Constipation can occur with dialysis but does not adequately explain away the current infectious warning pattern.",
+      "The current effluent may be needed for diagnostic sampling according to the team protocol."
+    ],
+    "takeaway": "New cloudy effluent with abdominal pain suggests peritonitis requiring prompt investigation and treatment.",
+    "refs": [
+      "b-renal",
+      "b-peritoneal-dialysis"
+    ],
+    "exhibit": null,
+    "subtopic": "Peritoneal dialysis complications",
+    "learningObjective": "Escalate cloudy peritoneal effluent with abdominal symptoms while preserving aseptic sampling.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-094",
+    "cat": "adaptation",
+    "title": "Report loss of fistula flow signs",
+    "stem": "An established arteriovenous fistula had a palpable thrill yesterday. Today neither a thrill nor a bruit is found after careful reassessment. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Arrange assessment at the next routine access appointment.",
+      "Review recent oral fluid intake to estimate dehydration.",
+      "Promptly contact the dialysis team about possible access failure.",
+      "Ask the client to perform hand exercises and reassess afterward."
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Delay may reduce the opportunity for access preservation when flow is newly absent.",
+      "Volume status can affect flow, but the absent thrill and bruit still require prompt access assessment.",
+      "New absent flow signs may indicate thrombosis or severe obstruction; timely assessment can help preserve the access.",
+      "Exercise does not reliably restore an acutely thrombosed access and should not delay reporting the absent flow signs."
+    ],
+    "takeaway": "New absent flow signs may indicate thrombosis or severe obstruction; timely assessment can help preserve the access.",
+    "refs": [
+      "b-renal"
+    ],
+    "exhibit": null,
+    "subtopic": "Hemodialysis access",
+    "learningObjective": "Recognize absent fistula vibration as a possible access problem requiring prompt review.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-095",
+    "cat": "adaptation",
+    "title": "Escalate neurological change during initial dialysis",
+    "stem": "Ninety minutes into a first hemodialysis treatment, a client develops worsening headache, vomiting and confusion. Blood pressure is 132/78 mmHg, close to baseline, and capillary glucose is 6.4 mmol/L. Which concern should be raised immediately with the dialysis team?",
+    "type": "single",
+    "options": [
+      "Hypoglycemia from the treatment.",
+      "Cerebral hypoperfusion from dialysis-related hypotension.",
+      "Expected fatigue from starting dialysis.",
+      "Dialysis disequilibrium or another acute solute-shift complication."
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "The current measured glucose does not support hypoglycemia as the explanation for this decline.",
+      "This can cause symptoms, but the stable current pressure provides less support than the new neurological pattern during first treatment.",
+      "Fatigue can occur, but escalating headache, vomiting and confusion must not be treated as routine adaptation.",
+      "New neurological symptoms during an initial treatment warrant immediate reassessment for disequilibrium and other causes; the nurse does not make a definitive diagnosis."
+    ],
+    "takeaway": "New neurological symptoms during an initial treatment warrant immediate reassessment for disequilibrium and other causes; the nurse does not make a definitive diagnosis.",
+    "refs": [
+      "b-renal"
+    ],
+    "exhibit": null,
+    "subtopic": "Dialysis complications",
+    "learningObjective": "Recognize acute neurological symptoms during dialysis as requiring immediate treatment-team assessment.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-096",
+    "cat": "adaptation",
+    "title": "Recognize a febrile stone complication",
+    "stem": "A client with a known ureteric stone develops fever, chills and worsening flank pain despite analgesia. What is the priority?",
+    "type": "single",
+    "options": [
+      "Arrange urgent assessment for infection with possible obstruction.",
+      "Increase oral fluids to encourage stone passage.",
+      "Continue straining each void for the stone.",
+      "Reassess pain after the next prescribed analgesic dose."
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Fever and chills with a stone and worsening flank pain raise concern for an infected obstructed system that may need urgent drainage.",
+      "Routine passage advice does not treat a potentially infected obstruction.",
+      "Straining may help identify passage but does not address the current systemic infection signs.",
+      "Pain response cannot establish that infection or obstruction is resolving, so clinical review should proceed now."
+    ],
+    "takeaway": "Fever and chills with a stone and worsening flank pain raise concern for an infected obstructed system that may need urgent drainage.",
+    "refs": [
+      "b-renal"
+    ],
+    "exhibit": null,
+    "subtopic": "Infected urinary obstruction",
+    "learningObjective": "Escalate systemic infection cues in a client with possible urinary obstruction.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-097",
+    "cat": "adaptation",
+    "title": "Recognize nephritic fluid consequences",
+    "stem": "A young adult has cola-coloured urine, new facial puffiness, reduced urine output and hypertension after a recent infection. What concern should be reported?",
+    "type": "single",
+    "options": [
+      "A ureteric stone.",
+      "Acute glomerular disease with fluid retention.",
+      "A lower urinary tract infection.",
+      "Dehydration from the recent illness."
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "A stone can cause hematuria, but the diffuse retention findings without a described colicky pain pattern favour glomerular involvement.",
+      "Cola urine, oliguria, edema and hypertension after infection form a concerning renal glomerular pattern requiring assessment.",
+      "Lower infection may change urine appearance but does not best explain the edema, hypertension and reduced filtration pattern.",
+      "Dehydration can darken urine, but new edema and hypertension support retention rather than simple volume loss."
+    ],
+    "takeaway": "Cola urine, oliguria, edema and hypertension after infection form a concerning renal glomerular pattern requiring assessment.",
+    "refs": [
+      "b-renal"
+    ],
+    "exhibit": null,
+    "subtopic": "Acute glomerular disease",
+    "learningObjective": "Connect hematuria with edema and hypertension to a possible acute renal process.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-098",
+    "cat": "adaptation",
+    "title": "Monitor renal complications after rhabdomyolysis",
+    "stem": "A client with confirmed rhabdomyolysis after a crush injury receives prescribed treatment. Which trends require prompt reporting? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Temperature remains normal during serial observations.",
+      "Urine output falls while creatinine rises.",
+      "Potassium rises above range with new rhythm changes.",
+      "Muscle pain decreases with prescribed analgesia.",
+      "Urine becomes lighter while output remains adequate."
+    ],
+    "answer": [
+      1,
+      2
+    ],
+    "why": [
+      "Normal temperature is not a new complication and does not exclude rhabdomyolysis-related kidney injury.",
+      "This may indicate evolving acute kidney injury from muscle-breakdown products or other contributors.",
+      "Released intracellular potassium can create an immediate dysrhythmia risk requiring urgent response.",
+      "Pain improvement is beneficial but does not establish that renal or electrolyte risks have resolved.",
+      "This can be a favourable trend but should be interpreted with renal function and electrolytes."
+    ],
+    "takeaway": "This may indicate evolving acute kidney injury from muscle-breakdown products or other contributors.",
+    "refs": [
+      "b-renal"
+    ],
+    "exhibit": null,
+    "subtopic": "Muscle breakdown and kidney injury",
+    "learningObjective": "Select kidney and electrolyte monitoring after major muscle injury.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-099",
+    "cat": "adaptation",
+    "title": "Recognize losses during the diuretic recovery phase",
+    "stem": "During recovery from acute kidney injury, urine output increases substantially while creatinine is still above baseline. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Return to routine once-per-shift balance checks.",
+      "Restore the previous medication schedule.",
+      "Teach the usual maintenance fluid intake as the current plan.",
+      "Continue close fluid-balance and electrolyte monitoring."
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "The substantial ongoing losses may require closer monitoring than routine stable-client observations.",
+      "Clearance may remain impaired while creatinine is above baseline; dose review is still needed.",
+      "A routine amount may not match the diuretic-phase losses; replacement needs an individualized prescribed plan.",
+      "High output can precede full recovery of concentration and electrolyte regulation, so losses still require assessment."
+    ],
+    "takeaway": "High output can precede full recovery of concentration and electrolyte regulation, so losses still require assessment.",
+    "refs": [
+      "b-renal"
+    ],
+    "exhibit": null,
+    "subtopic": "Acute kidney injury recovery",
+    "learningObjective": "Continue volume and electrolyte assessment when urine output rises during AKI recovery.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-100",
+    "cat": "adaptation",
+    "title": "Monitor potassium after redistribution treatment",
+    "stem": "A client with kidney failure receives protocol insulin and glucose for hyperkalemia. Potassium initially falls. Why are repeat potassium and glucose checks still needed?",
+    "type": "single",
+    "options": [
+      "The shift may be temporary and treatment can cause hypoglycemia",
+      "A lower potassium proves renal elimination has recovered",
+      "Only glucose needs follow-up once the rhythm improves",
+      "The initial glucose dose prevents every later low glucose"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Insulin redistributes potassium without directly removing the body's excess.",
+      "The fall can occur through redistribution despite persistent kidney failure.",
+      "Potassium may rise again while elimination remains impaired.",
+      "Hypoglycemia can occur after treatment and requires monitoring."
+    ],
+    "takeaway": "Insulin redistributes potassium without directly removing the body's excess.",
+    "refs": [
+      "b-electrolytes"
+    ],
+    "exhibit": null,
+    "subtopic": "Hyperkalemia treatment response",
+    "learningObjective": "Distinguish a temporary intracellular potassium shift from removal of excess body potassium.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "id": "x-psychosocial-085",
+    "cat": "psychosocial",
+    "title": "Communication with pressured speech",
+    "stem": "A client with mania speaks rapidly and changes topics when the nurse asks, \"Tell me about your sleep over the past week.\" What approach best helps obtain this information?",
+    "type": "single",
+    "options": [
+      "Ask one brief sleep question and gently redirect to it",
+      "Invite an uninterrupted account of the whole previous day",
+      "Provide a full written history form to complete",
+      "Repeat the original open-ended question at the same length"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "A concrete limited question with calm redirection matches the current attention difficulty.",
+      "A broad narrative may increase topic shifts before obtaining the needed detail.",
+      "A full form adds processing demands and may not fit current distractibility.",
+      "Repeating the same broad demand does not adapt to the observed difficulty."
+    ],
+    "takeaway": "Keep communication concrete and focused during manic distractibility.",
+    "refs": [
+      "d-bipolar"
+    ],
+    "exhibit": null,
+    "subtopic": "Mania communication",
+    "learningObjective": "Keep communication concrete and focused during manic distractibility.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-089",
+    "cat": "psychosocial",
+    "title": "Feeling well and treatment continuation",
+    "stem": "A client with bipolar disorder feels well and wants to stop follow-up, saying, \"I thought appointments were for when I am ill.\" Which response best supports an informed decision?",
+    "type": "single",
+    "options": [
+      "You could return when the early warning signs begin again.",
+      "Follow-up also supports staying well; what concerns do you have about continuing?",
+      "We can focus future visits on whether you need another prescription.",
+      "We can schedule visits farther apart while you feel well."
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Symptom-triggered contact is useful but does not explain preventive review during stability.",
+      "Explaining the maintenance purpose while exploring concerns supports a shared review rather than automatic cessation.",
+      "Prescription access is one function, but narrowing visits to refills misses broader maintenance needs.",
+      "Spacing may be considered collaboratively, but does not first clarify the client's misunderstanding about the purpose of follow-up during wellness."
+    ],
+    "takeaway": "Explain the purpose of maintenance care during bipolar stability.",
+    "refs": [
+      "d-bipolar"
+    ],
+    "exhibit": null,
+    "subtopic": "Bipolar maintenance",
+    "learningObjective": "Explain the purpose of maintenance care during bipolar stability.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-097",
+    "cat": "psychosocial",
+    "title": "New reduced alertness during routine care",
+    "stem": "A client with schizophrenia usually needs prompts to begin hygiene but then performs it safely. Today the nurse also notices new drowsiness, slower walking and difficulty staying awake after a medicine change. What should happen next?",
+    "type": "single",
+    "options": [
+      "Increase the frequency of the usual hygiene prompts",
+      "Complete hygiene earlier before the client lies down",
+      "Continue the familiar routine and compare it tomorrow",
+      "Assess the new alertness change and seek a medication review"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "More prompts do not evaluate the new sedation and slowed movement.",
+      "Timing changes may support a stable routine but do not explain a new post-change presentation.",
+      "Waiting may miss a clinically significant treatment effect or another cause.",
+      "The new deviation from baseline warrants assessment of possible medication effects and other causes before treating it as usual low initiation."
+    ],
+    "takeaway": "Assess a new change in alertness and function rather than treating it as baseline low initiation.",
+    "refs": [
+      "d-psychosis"
+    ],
+    "exhibit": null,
+    "subtopic": "New functional change during mental-health treatment",
+    "learningObjective": "Assess a new change in alertness and function rather than treating it as baseline low initiation.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-099",
+    "cat": "psychosocial",
+    "title": "Coping with noncommand voices",
+    "stem": "A client with distressing noncommand voices chooses quiet music during a simple craft task. Which follow-up finding best supports continuing this coping strategy?",
+    "type": "single",
+    "options": [
+      "The client keeps the music on throughout the session",
+      "Distress falls and the client resumes the chosen task",
+      "The client names several other available coping strategies",
+      "The client describes the music as familiar from childhood"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Use alone does not show whether the strategy improves distress or functioning.",
+      "Improved comfort with resumed activity demonstrates a useful effect; continue reassessing symptoms and safety.",
+      "Knowledge of alternatives may help planning but does not evaluate the selected music strategy.",
+      "Familiarity may matter to preference but does not by itself establish clinical benefit."
+    ],
+    "takeaway": "Evaluate individualized coping strategies for distressing hallucinations.",
+    "refs": [
+      "d-psychosis"
+    ],
+    "exhibit": null,
+    "subtopic": "Hallucination coping",
+    "learningObjective": "Evaluate individualized coping strategies for distressing hallucinations.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  }
+]

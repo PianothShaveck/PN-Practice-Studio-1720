@@ -1,0 +1,249 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:23:48.169272+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/risk-026-050.json",
+  "sourceSha256": "d8dcd84e05b41fd1dd01f97c348c333b194df5377c39e2d4519f8ea61147a441",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 18,
+    "reviewedIds": [
+      "x-risk-027",
+      "x-risk-029",
+      "x-risk-031",
+      "x-risk-032",
+      "x-risk-033",
+      "x-risk-034",
+      "x-risk-035",
+      "x-risk-037",
+      "x-risk-039",
+      "x-risk-040",
+      "x-risk-041",
+      "x-risk-042",
+      "x-risk-045",
+      "x-risk-046",
+      "x-risk-047",
+      "x-risk-048",
+      "x-risk-049",
+      "x-risk-050"
+    ],
+    "unreviewedIds": [
+      "x-risk-026",
+      "x-risk-028",
+      "x-risk-030",
+      "x-risk-036",
+      "x-risk-038",
+      "x-risk-043",
+      "x-risk-044"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-risk-027",
+      "status": "pass",
+      "assessment": "Severe worsening pain with fever differs from expected gas; analgesic/antipyretic relief cannot substitute for urgent complication assessment. Key is concise and alternatives now reflect real symptom-normalization errors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5d8a3a9401e66adc8b5e2414f3c461f62c8bee3586dc4addfd2a686721ab8777"
+    },
+    {
+      "id": "x-risk-029",
+      "status": "pass",
+      "assessment": "Throat-anaesthetic recovery and swallow safety govern intake. Thirst, absent abdominal pain and fixed time alone are inadequate readiness criteria.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c1ea58c5ca468affe4b7fff1a2d2a1d3ac827860614370e66435da59ba8dbdb9"
+    },
+    {
+      "id": "x-risk-031",
+      "status": "pass",
+      "assessment": "Flank pain plus tachycardia and falling pressure after biopsy requires bleeding assessment/escalation. Dry dressing and sedation attribution are plausible but unsafe normalization errors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "cbf49b1e2aa5be2457cb4b4431b33ed870cda36a48c95d7bb1fbe210017dbf4c"
+    },
+    {
+      "id": "x-risk-032",
+      "status": "pass",
+      "assessment": "New anticoagulant disclosure requires procedural-team review before elective biopsy; normal haemoglobin and chart update alone do not resolve risk planning.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "45f1fb13f2e1695540d66ff83e463da2a294c9ad6b8fab1e9f51872e63a955f9"
+    },
+    {
+      "id": "x-risk-033",
+      "status": "pass",
+      "assessment": "Painful inability to void after cystoscopy warrants prompt assessment; expected burning advice, fluids alone and culture-first sequencing miss retention.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e1d17b6b32a3f724b0e1aea05cd33877c5d084666dd86b16074c0503e3d91eeb"
+    },
+    {
+      "id": "x-risk-034",
+      "status": "pass",
+      "assessment": "Persistent severe pain/vomiting after ERCP requires complication review; a normal procedure report and temporary nausea relief do not establish recovery.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c2ea572ed2350c5e4f8179c004b35c69a520fb71437a29d137b276402191cc97"
+    },
+    {
+      "id": "x-risk-035",
+      "status": "revise",
+      "assessment": "Both wrong SATA alternatives remain surface-only checks made wrong through explicit only wording. They are duplicative. Replace with comparable contextual observations and clarify evaluation of possible impaired perfusion.",
+      "issues": [
+        "Both wrong SATA alternatives remain surface-only checks made wrong through explicit only wording. They are duplicative. Replace with comparable contextual observations and clarify evaluation of possible impaired perfusion."
+      ],
+      "proposedChanges": [
+        {
+          "stem": "A client returning from liver biopsy looks pale and reports new lightheadedness. Which assessments most directly evaluate possible bleeding with impaired perfusion? Select all that apply.",
+          "options": [
+            "The client’s usual response to venepuncture",
+            "Vital signs and their change from baseline",
+            "Abdominal discomfort and evidence of bleeding",
+            "The planned timing of the next oral analgesic"
+          ],
+          "why": [
+            "A usual fainting response may add history but does not establish the cause of this post-biopsy change.",
+            "Vital-sign trends help identify circulatory deterioration.",
+            "Abdominal findings and bleeding evidence help assess a procedural complication.",
+            "Medication timing does not directly evaluate circulation or bleeding."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "22b37d2318571cf69fe5430f806fb8697fa640f5f05b7a1e928704e499f42618"
+    },
+    {
+      "id": "x-risk-037",
+      "status": "pass",
+      "assessment": "Current acute renal decline must reach the imaging team; old results and unilateral hydration do not establish current contrast risk. The correct action communicates rather than universally cancels imaging.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "264c67def423d951db4ce8247102dc89398a8ccd88a6a430eb48aae5afe658ad"
+    },
+    {
+      "id": "x-risk-039",
+      "status": "pass",
+      "assessment": "Early coordinated support addresses severe claustrophobia before an elective MRI. Unverified sedative/transport planning is a realistic incomplete preparation alternative.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "442aadd07e099e401d287b94729141e73dfdf04c6b844ee44570a506ae8a6207"
+    },
+    {
+      "id": "x-risk-040",
+      "status": "pass",
+      "assessment": "Current possibility of pregnancy triggers screening/team communication; an old result, brief exposure or universal deferral are inadequate substitutes for individualized imaging decisions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5187c357ec4d7408e937bd15908d72d516afd09af62766191dccd50beaf31fc1"
+    },
+    {
+      "id": "x-risk-041",
+      "status": "pass",
+      "assessment": "Conflicting orders require responsible-team clarification before intake. Newest-order assumption, universal fasting and colleague habit do not resolve the specific conflict.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5cf4ae694e947fc70546605bc49d6ed8a0b06273841389deb2d0f8098a4c82cf"
+    },
+    {
+      "id": "x-risk-042",
+      "status": "pass",
+      "assessment": "Accessible agreed cues before biopsy preserve timely communication. Increased volume, post-sedation teaching and aid removal without substitute can fail the case-specific need.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "60068ed2ff5515537b2b84415bd9ed3e82a9eecc47cbc004e146e17af3da4263"
+    },
+    {
+      "id": "x-risk-045",
+      "status": "revise",
+      "assessment": "Safety content is now complete, but the key is conspicuously longer and more comprehensive than alternatives. Shorten it while retaining urgent responsiveness/ventilation assessment.",
+      "issues": [
+        "Safety content is now complete, but the key is conspicuously longer and more comprehensive than alternatives. Shorten it while retaining urgent responsiveness/ventilation assessment."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Discharge if a relative promises close observation",
+            "Allow additional sleep and reassess at the next routine recovery check",
+            "Use the elapsed recovery time because the procedure was uncomplicated",
+            "Assess responsiveness and breathing and obtain urgent recovery review"
+          ],
+          "why": [
+            "Home supervision does not replace adequate immediate recovery.",
+            "Difficulty arousing needs active immediate assessment, not a routine deferred check.",
+            "Elapsed time does not establish physiological readiness.",
+            "Assess airway protection, ventilation and responsiveness promptly while obtaining appropriate help."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "fdde017674c88107c92f2bc23e034f79e9490d7b8f5859b330634662372458e0"
+    },
+    {
+      "id": "x-risk-046",
+      "status": "pass",
+      "assessment": "Progressive bright-red bleeding plus dyspnoea changes urgency compared with an isolated streak or improving local irritation. Options are now comparable post-bronchoscopy observations.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3bc0af67417d6f6e760fceba3e0466f62a959ac79b15c2156de9ad7d7a86041f"
+    },
+    {
+      "id": "x-risk-047",
+      "status": "pass",
+      "assessment": "Posture-dependent headache after lumbar puncture is a specific useful pattern to report. Supine score alone, presumed dehydration and unsupported migraine attribution miss that context.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2ca72b12f6f673af96861e90c736e1ad37e29b0f41151af0fc84340f37b6805c"
+    },
+    {
+      "id": "x-risk-048",
+      "status": "pass",
+      "assessment": "New unilateral pleuritic pain, reduced breath sounds and dyspnoea after thoracentesis require urgent assessment. Imaging should accompany, not precede recognition/escalation of respiratory compromise.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4f7bf6ccacbfe3b59d46199e46c107a053342e1163220757247c63410cd5ad6b"
+    },
+    {
+      "id": "x-risk-049",
+      "status": "pass",
+      "assessment": "Accessible written warnings plus an agreed support person and action-plan check address post-sedation recall. Signatures and repeated verbal delivery do not demonstrate understanding. Key is somewhat longer but its clinically distinct support/verification approach is necessary, not merely generic comprehensiveness.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1ae87e73ab0a8eb8fcb581c927024b17757536916e1af8d99a8f4926190001db"
+    },
+    {
+      "id": "x-risk-050",
+      "status": "revise",
+      "assessment": "The SATA wrong options remain deliberately incomplete reports with only/without qualifiers. Make all options parallel information and ask for immediate recovery monitoring needs.",
+      "issues": [
+        "The SATA wrong options remain deliberately incomplete reports with only/without qualifiers. Make all options parallel information and ask for immediate recovery monitoring needs."
+      ],
+      "proposedChanges": [
+        {
+          "stem": "When receiving a client after an invasive procedure, which handover details most directly guide immediate recovery monitoring? Select all that apply.",
+          "options": [
+            "The originally planned date of discharge",
+            "The client’s usual exercise routine before admission",
+            "Procedure-specific restrictions and monitoring orders",
+            "Sedation given and the last observations"
+          ],
+          "why": [
+            "The original discharge plan does not establish present recovery needs.",
+            "Baseline activity can inform later planning but does not specify immediate postprocedure monitoring.",
+            "These guide current restrictions and required observations.",
+            "Sedative exposure and recent observations help anticipate and detect recovery complications."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "5b7950841222d17fab92c199648235bf715b82e534afee6fefe92d2cf7d42b72"
+    }
+  ],
+  "reviewScope": "All eighteen revised items reread; seven unchanged prior passes are not relabelled.",
+  "reviewerTask": "/root/review_legacy"
+}

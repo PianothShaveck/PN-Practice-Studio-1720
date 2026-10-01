@@ -1,0 +1,267 @@
+{
+  "createdAt": "2026-10-01T18:31:48.024084+00:00",
+  "reviewerTask": "/root/author_management_safety",
+  "method": "Mechanical current-hash linkage to the separately recorded full item reviews; not a new content review.",
+  "sourceFile": "bank-expansion/authoring/d/questions.json",
+  "coverage": {
+    "reviewedItems": 50,
+    "matchingPasses": 50,
+    "unresolvedIds": []
+  },
+  "limitations": [
+    "Independent AI content review, not external clinician or psychometric validation.",
+    "Any complete-item change invalidates that hash; see each supporting report for actual reasoning and targeted source checks."
+  ],
+  "items": [
+    {
+      "id": "x-psychosocial-101",
+      "reviewedItemSha256": "f06b1ebb3306000ae9b1557134ec2f13c0a24b21ca5c48d52de9c4dddc60059e",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-101-125.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-102",
+      "reviewedItemSha256": "26fb96c3ddb31709d676e515c76d014f94a3e8a5bb9ba482c4e07e66f833b5ac",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-101-125.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-103",
+      "reviewedItemSha256": "cc5a5059f65642d0bb98e83deeb15aebad7ad96ee3acd8342637dd9a1e691d9d",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-101-125.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-104",
+      "reviewedItemSha256": "264a3400ace766fdd00053ae1e2407e655593074f4f2a73152655f89b870fa80",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-101-125.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-105",
+      "reviewedItemSha256": "5f64fe5216809a92187821785b1e8516e931a2ba71c799a644ba69536e3d5516",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-101-125.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-106",
+      "reviewedItemSha256": "8440db5b021abe8eae7f4471656ce465c6f4d520e4869adca1ff45e70208f403",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-101-125.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-107",
+      "reviewedItemSha256": "0160a667182becf7a493e33c8e41ca5ce4bda977ac2cba7af15c5654be815f1e",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-101-125.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-108",
+      "reviewedItemSha256": "943eac724aec4a9123787c557e00fd8b1f60830083ae32bfa2da941f52e29847",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-101-125.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-109",
+      "reviewedItemSha256": "3b48737406a6164a07fa9389b2896123372c995034c83a17810c4e72ad29a370",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-101-125.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-110",
+      "reviewedItemSha256": "1366cf0c5fb2506308b05f9a2742d5f454590770b101d39e02e1ec4a0b4e50c3",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-101-125.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-111",
+      "reviewedItemSha256": "8a5d58da8e2830b15fe8078d4becec1cf5eb6efd7d24318a301877cb2d0c58cf",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-101-125.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-112",
+      "reviewedItemSha256": "927a7b0226f2f358351248d80a9a346f7082d847692b73fc145949af9c5bb44e",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-101-125.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-113",
+      "reviewedItemSha256": "af0e16d648f45e96366a29b5e7b35cab7367eec82a1f256981f57e3d06c41328",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-101-125.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-114",
+      "reviewedItemSha256": "e04c4fdd672426777f7236b0da3f70e3a73aa6a815755522fc48b37e1508c209",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-101-125.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-115",
+      "reviewedItemSha256": "8cee43dc9eca20cb38bc3ef3554947ffc4f6b7c1061ae3616e009be5d469c8e5",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-101-125.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-116",
+      "reviewedItemSha256": "72d2c6221643e79d155dc83fc50e3a9d24db671960333f575574d09cdf66d35e",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-101-125.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-117",
+      "reviewedItemSha256": "62dc668543f49b099503ce2a2fce4e2eedc7c4d250eda7acdf43a763d4945369",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-117-117.followup2.json"
+    },
+    {
+      "id": "x-psychosocial-118",
+      "reviewedItemSha256": "9d9827ed922f7f88de9c28da918c4d67dd1ff3b0878147f5160f6cc3870aedae",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-101-125.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-119",
+      "reviewedItemSha256": "9bf7643277ff1612d699dcb6fda7d982c4079075232de6cc0ae4c7df34391f59",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-101-125.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-120",
+      "reviewedItemSha256": "1132129a215df7087ffbdf051e6b1ebe1046f86f50bb79db94a95be7ab91250b",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-101-125.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-121",
+      "reviewedItemSha256": "9ad2efa80570ec22a465ff2eb3ebbdf4a494fed634c050b45c03937deb4257c3",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-101-125.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-122",
+      "reviewedItemSha256": "b64a2c526fce99d48fa798eca5f6c7d7d9159b603c6e50f5b83c498f1554ab1d",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-101-125.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-123",
+      "reviewedItemSha256": "a5a857c6fccd3a537509ac59383587f2cd847fa4cb2d739cba5907c9dd759d29",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-101-125.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-124",
+      "reviewedItemSha256": "cf7a40b1c38b85d827108506b66fd0457453003d81ad3ada7710a4aa6ed12756",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-101-125.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-125",
+      "reviewedItemSha256": "2c50a967727d565f7d5bbb11c2cb17364d3cf2f14d4f1852e9dab8b6a6cff4c2",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-101-125.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-126",
+      "reviewedItemSha256": "e7e463d8567c04cc346b8f3a4a0cffdc0ed52d77a9efafe3b1ee85ab0c6f99f2",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-126-150.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-127",
+      "reviewedItemSha256": "04d47307314127326f327405a14f46533ea195d782c9fae5791337eac3a9f942",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-127-136.followup2.json"
+    },
+    {
+      "id": "x-psychosocial-128",
+      "reviewedItemSha256": "2928b39bdc04e8ac4b2599414bc2cd72933464d366659ac6f4f87f172e882aa7",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-126-150.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-129",
+      "reviewedItemSha256": "3c41b4708ce5235d14e992b13f9709e9f7a778d48ae1307e273bc12fc2a1807b",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-126-150.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-130",
+      "reviewedItemSha256": "80e8c10f1b701976686d7303a7c0d1ac9913f9bee92b5a64b82272eabcb0370b",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-127-136.followup2.json"
+    },
+    {
+      "id": "x-psychosocial-131",
+      "reviewedItemSha256": "74b95c1dd77f0b93a020c4f5a0567437f75b9eeba2d4e93da2de93a85601bf85",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-126-150.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-132",
+      "reviewedItemSha256": "0933a788d45ba1b7703478ef8c785b67a861865ced22f2b1ab089dc28cdeb86d",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-126-150.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-133",
+      "reviewedItemSha256": "04c1f076d24c93a079c1c26403548aca0292faa13f2a1771a34bd9c8d94a2663",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-126-150.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-134",
+      "reviewedItemSha256": "be21d318f68d4e23fec99032d550f30f3b4e93a49676343cd932093240fd2b67",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-126-150.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-135",
+      "reviewedItemSha256": "e0112e0fdc50dc28b2820e4d51010eaf0c09e11260d49914a3d965890eb9e060",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-126-150.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-136",
+      "reviewedItemSha256": "fc62d8d375649f9b6487cfce5f22da331a27cb2202e882bfd524f1effd07aa9e",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-127-136.followup2.json"
+    },
+    {
+      "id": "x-psychosocial-137",
+      "reviewedItemSha256": "d84e634daac5e5d044a58f45bc92afcf295d0c2876778291af65e233e14956c8",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-126-150.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-138",
+      "reviewedItemSha256": "238a925dae0dc7819de320d19320729a488a6b35658f07cb9ef70f251ae3d70a",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-126-150.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-139",
+      "reviewedItemSha256": "e3f42a236a8e627ac785b0a41f2cd6d64106d455d1b31ff97c99525f097c31cd",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-126-150.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-140",
+      "reviewedItemSha256": "02e78894dec1ae903983ba26399822b29a9eb9c3e9bfbab990adf457134cff3f",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-126-150.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-141",
+      "reviewedItemSha256": "832215490cb09e9fa138114583eb9f28e7c13ac1a7b4aba936ea750e942e5ed9",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-126-150.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-142",
+      "reviewedItemSha256": "fa2dd43b0fe9cd1526edeaa4171940f8bee149b5e9cb64f4ea0cbff50b309c08",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-126-150.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-143",
+      "reviewedItemSha256": "f230eb08d66db55d906933392ba560a57c3e28fbe854a08db4e07113f8bd6e13",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-126-150.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-144",
+      "reviewedItemSha256": "f1552d58ccf4b1087020b607a4729d3c818bbf965bd5378cb43663b876e77f24",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-126-150.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-145",
+      "reviewedItemSha256": "bd0d0be253dc9947a0ea2ccd8c9e5bb51f4007d0be46ec17b7ff4e00eaa42862",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-126-150.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-146",
+      "reviewedItemSha256": "e7cacaebeebea2257f0f1e10484daf71b5bf5cd95b155fa20e2bf5940224690c",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-126-150.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-147",
+      "reviewedItemSha256": "5991e6eeef0af9bcb45d7726a586bed145bb20be92951b5e7310676c61541b75",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-126-150.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-148",
+      "reviewedItemSha256": "fb1123df29ecf66bff79dbaddaedaa4950ccd467e5986b6eccc679a5628613ac",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-126-150.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-149",
+      "reviewedItemSha256": "65d0a1975206252220402db4fdb552484a04f81d26f4d64a22de47e6430da2b8",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-126-150.followup1.json"
+    },
+    {
+      "id": "x-psychosocial-150",
+      "reviewedItemSha256": "fd57d7470c52c17fb0f91508d353c26273fd2b9ccb4dc43fc48c3169f3b75b31",
+      "passReport": "bank-expansion/reviews/expansion/cross-a-psych-126-150.followup1.json"
+    }
+  ]
+}

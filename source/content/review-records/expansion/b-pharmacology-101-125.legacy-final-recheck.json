@@ -1,0 +1,320 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T18:09:46.504398+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/b-final-recheck-input/pharmacology-05.json",
+  "sourceSha256": "6f758e505af2d674a8d9816c74c2cc50cbf7dfa1c9643f1f36f8bc66e1592b65",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-pharmacology-101",
+      "x-pharmacology-102",
+      "x-pharmacology-103",
+      "x-pharmacology-104",
+      "x-pharmacology-105",
+      "x-pharmacology-106",
+      "x-pharmacology-107",
+      "x-pharmacology-108",
+      "x-pharmacology-109",
+      "x-pharmacology-110",
+      "x-pharmacology-111",
+      "x-pharmacology-112",
+      "x-pharmacology-113",
+      "x-pharmacology-114",
+      "x-pharmacology-115",
+      "x-pharmacology-116",
+      "x-pharmacology-117",
+      "x-pharmacology-118",
+      "x-pharmacology-119",
+      "x-pharmacology-120",
+      "x-pharmacology-121",
+      "x-pharmacology-122",
+      "x-pharmacology-123",
+      "x-pharmacology-124",
+      "x-pharmacology-125"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Full reread of all25 complete current items and prior per-ID findings, including the revised clinical cases, option rationales, keys, objectives and difficulty. Exact frozen snapshot anchoring; no status was inferred from patch application alone.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "ids": [
+        "x-pharmacology-111"
+      ],
+      "url": "https://www.canada.ca/content/dam/hc-sc/documents/services/drugs-health-products/medeffect-canada/health-product-infowatch/health-product-infowatch-june-2017/hpiw-ivps_2017-06-eng.pdf",
+      "checked": true,
+      "accessMode": "opened PDF and read clozapine section",
+      "note": "Health Canada describes potentially fatal hypomotility, obstruction/ileus and need to recognize and treat constipation. Item adds concerning vomiting/distension rather than making uncomplicated constipation an emergency automatically."
+    },
+    {
+      "ids": [
+        "x-pharmacology-117"
+      ],
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/019813s081lbl.pdf",
+      "checked": true,
+      "accessMode": "primary prescribing-label search excerpt",
+      "note": "Retrieved warning that external temperature can increase fentanyl patch delivery and overdose risk. Older label supports the stable warning; no claim that this is the latest complete monograph."
+    },
+    {
+      "ids": [
+        "x-pharmacology-122"
+      ],
+      "url": "https://ismpcanada.ca/wp-content/uploads/ISMPCSB2008-02Methotrexate.pdf",
+      "checked": true,
+      "accessMode": "opened primary safety bulletin; targeted search excerpt also read",
+      "note": "Documented reports of inadvertent daily rather than weekly low-dose methotrexate causing severe harm/death support frequency-discrepancy clarification."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-pharmacology-101",
+      "status": "pass",
+      "assessment": "GI fluid losses plus coarse tremor/ataxia during lithium use suggest toxicity requiring withholding and prompt hydration/exposure assessment. An old level, one drink or anxiety PRN does not resolve current toxicity risk.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "204472669c52df7280b9002d02f2d7be7924ccb704ce562a1eb7f9014fd49d2a"
+    },
+    {
+      "id": "x-pharmacology-102",
+      "status": "pass",
+      "assessment": "Major sodium restriction plus sweat loss can alter lithium handling. Prescriber-coordinated sodium/hydration planning is more complete than isolated sports drinks, weights or gradual restriction without a monitoring plan; alternatives remain clinically relevant.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "bf773bc0024ccaec2260ead512e8ea089c093fa7f6f3468276fc818f7b70acd0"
+    },
+    {
+      "id": "x-pharmacology-103",
+      "status": "pass",
+      "assessment": "New hydrochlorothiazide may reduce lithium clearance despite a previously stable level. Planned interaction, level and renal review addresses the exposure change; thyroid tests, dose spacing and waiting for tremor do not.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b7bfc50436e3c9920b70bccadd8c561e051de5d655fe77ee64eacf896b46fe54"
+    },
+    {
+      "id": "x-pharmacology-104",
+      "status": "pass",
+      "assessment": "New self-harm thoughts and marked restlessness shortly after antidepressant initiation require immediate safety assessment and urgent review before routine efficacy, timing or sleep/appetite discussions. No automatic causal conclusion or diagnosis is asserted.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b57f9e2759d90a7d550bbaf77f4648bac8c97ba42405838020b21067df840624"
+    },
+    {
+      "id": "x-pharmacology-105",
+      "status": "pass",
+      "assessment": "New tramadol with consistent sertraline use plus agitation, sweating, GI symptoms and inducible clonus supports possible serotonin toxicity. Withdrawal is less supported by adherence, and infection/anxiety do not adequately explain clonus and drug timing.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "34f90b5cf75925870590e7f880692aa6ff4531c79aa0ef805c270170c8d37da5"
+    },
+    {
+      "id": "x-pharmacology-106",
+      "status": "pass",
+      "assessment": "Parallel acute syndromes are distinguished by antipsychotic escalation, generalized rigidity, hyperthermia and autonomic/mental-status changes. Possible NMS requires immediate assessment; the rationale acknowledges infection as a differential rather than a ruled-out diagnosis.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ed345b6548a9819062fc0233ea8776e7453d6bd81967b6912a9d107d9cd9254e"
+    },
+    {
+      "id": "x-pharmacology-107",
+      "status": "pass",
+      "assessment": "Abrupt painful neck/jaw contractions after metoclopramide fit acute dystonia; even currently normal breathing does not remove concern about airway-related involvement. Tardive movement history, stretching or more dopamine blockade are inappropriate responses.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "96cc657336bc448041e21184e2e7545dd3007794439e9271e3bf27395c61a4be"
+    },
+    {
+      "id": "x-pharmacology-108",
+      "status": "revise",
+      "assessment": "The akathisia key is sound, but deliberate group avoidance is contradicted explicitly by the client asking for help to participate and adds an unnecessarily judgemental distractor. Substitute another medication-related movement disorder.",
+      "issues": [
+        "The akathisia key is sound, but deliberate group avoidance is contradicted explicitly by the client asking for help to participate and adds an unnecessarily judgemental distractor. Substitute another medication-related movement disorder."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Medication-related akathisia.",
+            "Worsening psychosis.",
+            "Anxiety about the environment.",
+            "Medication-related parkinsonism."
+          ],
+          "why": [
+            "New distressing inner restlessness after dose escalation, despite improved psychotic symptoms, suggests akathisia.",
+            "Improved hallucinations and the dose-related onset of inner restlessness make a movement adverse effect more likely.",
+            "Environmental anxiety is possible, but the specific inner motor restlessness and medication timing favour akathisia.",
+            "Parkinsonism usually produces slowness, rigidity or tremor rather than a new distressing inner urge to keep moving after dose escalation."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "d314f2aaff652eaadf3cc78cce740612b6d7b942b291794a06954058cd0f785e"
+    },
+    {
+      "id": "x-pharmacology-109",
+      "status": "pass",
+      "assessment": "New repetitive orofacial movements after years of antipsychotics warrant timely medication review. Comfortable dentures make a mechanical explanation less compelling; report need not await impaired intake, and increased exposure is not a safe correction.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a673e80f9580ab920df31a538fd983a6044516799b5df3feb7fc41e6e6d7e3f4"
+    },
+    {
+      "id": "x-pharmacology-110",
+      "status": "pass",
+      "assessment": "An acceptable clozapine count two weeks earlier cannot exclude current neutropenia. New fever/sore throat require prompt clinical/current-count review; antipyretic response or a routine throat swab does not determine safety.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5a9dd1349b7ce83b74837c17c7a4045f55ee7f828035155e13b0867c11b0d218"
+    },
+    {
+      "id": "x-pharmacology-111",
+      "status": "pass",
+      "assessment": "Constipation with progressive distension/vomiting during clozapine suggests serious hypomotility/ileus/obstruction, requiring urgent abdominal assessment rather than routine fibre, fluids or delayed regimen review. Focused bowel-risk reference is present.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "778e0a72716dec78459d28dbd420cb7ce7e0d0b718a165841980a1f8c0af96c9"
+    },
+    {
+      "id": "x-pharmacology-112",
+      "status": "pass",
+      "assessment": "Reproducible deterioration after protein-rich meals calls for coordinated levodopa timing/protein distribution while preserving nutrition. Extra doses, pairing every dose with protein or assuming progression do not address the observed modifiable pattern.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "323afb5db9683a5b01db3b77dbde8b7fd1ca5ac09244233bd4a05aef9d5f1fe5"
+    },
+    {
+      "id": "x-pharmacology-113",
+      "status": "revise",
+      "assessment": "A dose/symptom timing diary is correct, but two alternatives announce inadequacy using only and the first says it is unrelated to time. Use plausible actual records.",
+      "issues": [
+        "A dose/symptom timing diary is correct, but two alternatives announce inadequacy using only and the first says it is unrelated to time. Use plausible actual records."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "A daily stiffness score taken before the first morning dose",
+            "Dose times and the onset and duration of symptom changes",
+            "The total number of tablets taken during each week",
+            "The client’s best walking distance after the morning dose"
+          ],
+          "why": [
+            "One standardized morning score misses how symptoms recur across later dose intervals.",
+            "A timing diary helps identify wearing-off and guide regimen review.",
+            "A weekly adherence total does not show the relationship between individual dose times and symptom recurrence.",
+            "Peak postdose performance does not capture the timing and duration of end-of-dose stiffness."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "d6856b1e6fd58cb305766262b838a982a6a2dd9619fbe917c1b8e514b461ca1f"
+    },
+    {
+      "id": "x-pharmacology-114",
+      "status": "revise",
+      "assessment": "The oral-care key and explanations are defensible, but this direct phenytoin teaching fact does not require case-specific application. Label foundation consistently with similar route and preventive-teaching items.",
+      "issues": [
+        "The oral-care key and explanations are defensible, but this direct phenytoin teaching fact does not require case-specific application. Label foundation consistently with similar route and preventive-teaching items."
+      ],
+      "proposedChanges": [
+        {
+          "difficulty": "foundation"
+        }
+      ],
+      "reviewedItemSha256": "a8e1f334d6cc187717b15aecef43dc6662730ce4ba3cf055a50138f84c9d00cb"
+    },
+    {
+      "id": "x-pharmacology-115",
+      "status": "pass",
+      "assessment": "Abrupt interruption after months of regular benzodiazepine use plus tremor/insomnia/anxiety warrants urgent withdrawal review and a medication plan. Sleep hygiene or recurrence assumptions do not address seizure risk.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c36556a56173be8272f4c2ddd40ffb37f1dfa6113cbcb68a9416b239b8e2445b"
+    },
+    {
+      "id": "x-pharmacology-116",
+      "status": "pass",
+      "assessment": "Extended-release morphine exposure can outlast naloxone. A single normal rate/arousal observation does not establish sustained recovery; ventilation and alertness monitoring outranks pain-only, nausea/withdrawal focus or premature discharge.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "582c7e8acf0b0c43c332fc31e8a0e963850e300165f74caa7cc503d5ffc99294"
+    },
+    {
+      "id": "x-pharmacology-117",
+      "status": "pass",
+      "assessment": "External heat over fentanyl can increase absorption and overdose risk. Direct-heat avoidance plus another comfort plan is appropriate; intermittent removal/reapplication, added dressing or lower-temperature skin checks do not establish safe delivery.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0da4a3b71226492c8217eeb825c70e982a4e391e16885ddcbfc2f1d1850eeb73"
+    },
+    {
+      "id": "x-pharmacology-118",
+      "status": "pass",
+      "assessment": "In ordinary patient-controlled PCA, inability to activate while sedated is protective. Visitor activation bypasses that safeguard regardless of lockout timing, pain history or record keeping. This case does not describe an authorized clinician-controlled protocol.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "44b9e182027b6e678a009cb4569e881e42c9f6333811c332416f88d4b33a0729"
+    },
+    {
+      "id": "x-pharmacology-119",
+      "status": "pass",
+      "assessment": "Existing constipation risk and fluid restriction support preventive bowel treatment and monitoring when regular opioids start. Routine fibre alone, waiting for a missed movement or expecting constipation tolerance do not address the individualized risk.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0920a1ed5f80eee4b8f25250ed9271b5f158964884819fbe54c84f2a7a695fb3"
+    },
+    {
+      "id": "x-pharmacology-120",
+      "status": "pass",
+      "assessment": "Two named acetaminophen-containing products require combined daily exposure review. Spacing, individually following each label or keeping separate counts does not prevent cumulative excess. No universal maximum is asserted.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "75b085f8c34f9101cb7c54d9d8d8a1b5c8d3bd901fed275e82885703ef3da36c"
+    },
+    {
+      "id": "x-pharmacology-121",
+      "status": "pass",
+      "assessment": "Vomiting/low intake/oliguria change renal perfusion risk during naproxen. Hydration/renal assessment and medication review is appropriate; food, visible haematuria or dysuria checks do not exclude this concern.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b47f4a0b6f2a807a0216e1f9767662b682ba605e7d8f13595d5ca854361970b9"
+    },
+    {
+      "id": "x-pharmacology-122",
+      "status": "pass",
+      "assessment": "A daily transfer order conflicts with weekly low-dose RA methotrexate. Clarify frequency, intended day and prior administration before dosing; independently dividing doses or giving today first can produce severe toxicity.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7281e3534d0a35518a9385fdb18e9d289878ea201e45ce39eb59065e9a327d41"
+    },
+    {
+      "id": "x-pharmacology-123",
+      "status": "pass",
+      "assessment": "Parallel explanations now distinguish long-term urate lowering from acute anti-inflammatory/analgesic care and PRN use. Foundation label correctly reflects the direct therapeutic-purpose teaching demand.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "35416416bd1fc9f20552681bf34a8430bc45f9eb449bf1e5f692607e6cde8d8b"
+    },
+    {
+      "id": "x-pharmacology-124",
+      "status": "pass",
+      "assessment": "Morphine/hydromorphone are not milligram-equivalent even at the same route/interval. Prior analgesic effect or a table estimate alone does not replace an authorized client-specific conversion considering cross-tolerance and risk.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "60b84509fdc7dd0dae1717c6ed6ef144e9fbb74920bd9c3c08c34f0e5156e5f6"
+    },
+    {
+      "id": "x-pharmacology-125",
+      "status": "pass",
+      "assessment": "Better cough/mobility function with preserved alertness and breathing supports useful tolerable analgesia. Lower score with impaired arousal, new sedating inactivity or unresolved movement pain does not.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "196d1463d8924b2dd283a514c1c2f045424156d7f511d02b435bba6ab4faa261"
+    }
+  ],
+  "activeSourceFile": "authoring/b/pharmacology-05.json",
+  "reviewerTask": "/root/review_legacy",
+  "sourceLimitations": "Clinical-reasoning recheck supplemented by targeted primary-source retrieval reported in the companion source-check artifact; not all category references newly retrieved."
+}

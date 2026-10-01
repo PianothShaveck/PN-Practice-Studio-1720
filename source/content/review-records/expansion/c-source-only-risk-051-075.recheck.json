@@ -1,0 +1,168 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:43:52.865548+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/risk-051-075.json",
+  "sourceSha256": "6ffeee363ad6a1abc287b40df32258744d5b320267c73358a8c65f1667243886",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 7,
+    "reviewedIds": [
+      "x-risk-056",
+      "x-risk-057",
+      "x-risk-065",
+      "x-risk-066",
+      "x-risk-068",
+      "x-risk-070",
+      "x-risk-074"
+    ],
+    "unreviewedIds": [
+      "x-risk-051",
+      "x-risk-052",
+      "x-risk-053",
+      "x-risk-054",
+      "x-risk-055",
+      "x-risk-058",
+      "x-risk-059",
+      "x-risk-060",
+      "x-risk-061",
+      "x-risk-062",
+      "x-risk-063",
+      "x-risk-064",
+      "x-risk-067",
+      "x-risk-069",
+      "x-risk-071",
+      "x-risk-072",
+      "x-risk-073",
+      "x-risk-075"
+    ]
+  },
+  "method": "Each listed stem/topic and new reference mapping was manually examined. Replacing current refs with the recorded oldRefs reproduces a prior independently approved full-item hash; this proves all other fields are unchanged. The present pass approves the manually assessed reference relevance while carrying forward that exact unchanged-content review. It is not a new full clinical review or an automated pass based solely on hash equality.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-risk-056",
+      "status": "pass",
+      "assessment": "Nasogastric-tube guidance is relevant to decompression losses and monitoring; exact replacement remains prescribed. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "22c9948e7cfec4eeb82164c348db127b679f4a2e61cc3a494402d55777055648"
+    },
+    {
+      "id": "x-risk-057",
+      "status": "pass",
+      "assessment": "Nasogastric-tube guidance directly fits stopped decompression with worsening distension and protocol-directed assessment. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "323d8d742b9206aa334c8807ce640abb711ca9f623d78d1b7470da812fb5e44c"
+    },
+    {
+      "id": "x-risk-065",
+      "status": "pass",
+      "assessment": "Assessment/mobility references are related prevention context; correct fit and operation are explicitly tied to the prescribed device instructions, not an unsupported universal setting. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d74c171dfdb75ee3072d540b3ede251e153b91ce506861b13bb9fb698f146021"
+    },
+    {
+      "id": "x-risk-066",
+      "status": "pass",
+      "assessment": "Focused peripheral assessment and mobility context support recognition/escalation of new unilateral tender swelling; no diagnostic or treatment decision is made by the item. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f51b36d798a49c16cfb6e5e93dfc54f5c63e4c87ad5f9f69af5eead9a4b6656c"
+    },
+    {
+      "id": "x-risk-068",
+      "status": "pass",
+      "assessment": "Incentive-spirometer-specific instructions directly fit correcting exhalation versus sustained inhalation technique. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "40426bb1e4423d9c476dbf7af4a2b9883515cd013dbe2446e78404ac0731819b"
+    },
+    {
+      "id": "x-risk-070",
+      "status": "pass",
+      "assessment": "Pressure-injury guidance directly relates to medical-device contact pressure while maintaining necessary oxygen. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b76ba50d275e9351cab79fa87b9cccc1db35d123c95359c498ac63345f565bd1"
+    },
+    {
+      "id": "x-risk-074",
+      "status": "pass",
+      "assessment": "Focused musculoskeletal/peripheral assessment matches the narrowly requested distal motor/sensory/perfusion baseline. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "bb04657d103a4aee119a77045d637df3a61a7e42ded632f540b7f745ab93815a"
+    }
+  ],
+  "referenceProofs": {
+    "x-risk-056": {
+      "priorPassReport": "c-risk-051-075.changed-recheck.json",
+      "priorPassHash": "259340fb1867802acb410ea37a22a336773016336cda069ec181c758d0500571",
+      "newRefs": [
+        "c-ng-tube"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-risk-057": {
+      "priorPassReport": "c-risk-051-075.legacy-review.json",
+      "priorPassHash": "720d63d44eb047336838ee667e292543f07ab0f25b2c64bdb1106f60d99e38cd",
+      "newRefs": [
+        "c-ng-tube"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-risk-065": {
+      "priorPassReport": "c-risk-051-075.changed-recheck.json",
+      "priorPassHash": "f804951d72c0e8f2e050bd2a368f8151f5b91c261731559a8d2b4c75daff0f73",
+      "newRefs": [
+        "c-assessment",
+        "c-mobility"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-risk-066": {
+      "priorPassReport": "c-risk-051-075.changed-recheck.json",
+      "priorPassHash": "52fcc3155d8e4b355e0bcc1696137ad92e369a770b7b0d38a3a77ae4817cd658",
+      "newRefs": [
+        "c-assessment",
+        "c-mobility"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-risk-068": {
+      "priorPassReport": "c-risk-051-075.legacy-review.json",
+      "priorPassHash": "dab01f766ed998dd0c6c3c54aa1751589a55ed23c0c57c88aab7350a42ef33d1",
+      "newRefs": [
+        "c-spirometer"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-risk-070": {
+      "priorPassReport": "c-risk-051-075.changed-recheck.json",
+      "priorPassHash": "962d2b05ca3d862dd16840d665b2b3860c4be4199f1bffd38342ebf1a888d153",
+      "newRefs": [
+        "c-pressure"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-risk-074": {
+      "priorPassReport": "c-risk-051-075.changed-recheck.json",
+      "priorPassHash": "7ce0476ec945918f8e6ff7c208e912dcb3bc2d1c1b19d901e15782d1ef8d1f6c",
+      "newRefs": [
+        "c-assessment"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    }
+  },
+  "sourceCheckLimit": "New source names, registered scopes and mapped item topics were inspected. Complete source texts were not independently retrieved for every mapping; no full-source or clinician validation is claimed.",
+  "reviewerTask": "/root/review_legacy"
+}

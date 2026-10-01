@@ -1,0 +1,512 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:37:54.782905+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-snapshot.json",
+  "sourceSha256": "e342198928340b8e1b78b3440be0bdef2f40eadc4adbed1569f1ad51e0bea4cc",
+  "coverage": {
+    "sourceItems": 200,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-safety-076",
+      "x-safety-077",
+      "x-safety-078",
+      "x-safety-079",
+      "x-safety-080",
+      "x-safety-081",
+      "x-safety-082",
+      "x-safety-083",
+      "x-safety-084",
+      "x-safety-085",
+      "x-safety-086",
+      "x-safety-087",
+      "x-safety-088",
+      "x-safety-089",
+      "x-safety-090",
+      "x-safety-091",
+      "x-safety-092",
+      "x-safety-093",
+      "x-safety-094",
+      "x-safety-095",
+      "x-safety-096",
+      "x-safety-097",
+      "x-safety-098",
+      "x-safety-099",
+      "x-safety-100"
+    ],
+    "unreviewedIds": [
+      "x-safety-001",
+      "x-safety-002",
+      "x-safety-003",
+      "x-safety-004",
+      "x-safety-005",
+      "x-safety-006",
+      "x-safety-007",
+      "x-safety-008",
+      "x-safety-009",
+      "x-safety-010",
+      "x-safety-011",
+      "x-safety-012",
+      "x-safety-013",
+      "x-safety-014",
+      "x-safety-015",
+      "x-safety-016",
+      "x-safety-017",
+      "x-safety-018",
+      "x-safety-019",
+      "x-safety-020",
+      "x-safety-021",
+      "x-safety-022",
+      "x-safety-023",
+      "x-safety-024",
+      "x-safety-025",
+      "x-safety-026",
+      "x-safety-027",
+      "x-safety-028",
+      "x-safety-029",
+      "x-safety-030",
+      "x-safety-031",
+      "x-safety-032",
+      "x-safety-033",
+      "x-safety-034",
+      "x-safety-035",
+      "x-safety-036",
+      "x-safety-037",
+      "x-safety-038",
+      "x-safety-039",
+      "x-safety-040",
+      "x-safety-041",
+      "x-safety-042",
+      "x-safety-043",
+      "x-safety-044",
+      "x-safety-045",
+      "x-safety-046",
+      "x-safety-047",
+      "x-safety-048",
+      "x-safety-049",
+      "x-safety-050",
+      "x-safety-051",
+      "x-safety-052",
+      "x-safety-053",
+      "x-safety-054",
+      "x-safety-055",
+      "x-safety-056",
+      "x-safety-057",
+      "x-safety-058",
+      "x-safety-059",
+      "x-safety-060",
+      "x-safety-061",
+      "x-safety-062",
+      "x-safety-063",
+      "x-safety-064",
+      "x-safety-065",
+      "x-safety-066",
+      "x-safety-067",
+      "x-safety-068",
+      "x-safety-069",
+      "x-safety-070",
+      "x-safety-071",
+      "x-safety-072",
+      "x-safety-073",
+      "x-safety-074",
+      "x-safety-075",
+      "x-safety-101",
+      "x-safety-102",
+      "x-safety-103",
+      "x-safety-104",
+      "x-safety-105",
+      "x-safety-106",
+      "x-safety-107",
+      "x-safety-108",
+      "x-safety-109",
+      "x-safety-110",
+      "x-safety-111",
+      "x-safety-112",
+      "x-safety-113",
+      "x-safety-114",
+      "x-safety-115",
+      "x-safety-116",
+      "x-safety-117",
+      "x-safety-118",
+      "x-safety-119",
+      "x-safety-120",
+      "x-safety-121",
+      "x-safety-122",
+      "x-safety-123",
+      "x-safety-124",
+      "x-safety-125",
+      "x-safety-126",
+      "x-safety-127",
+      "x-safety-128",
+      "x-safety-129",
+      "x-safety-130",
+      "x-safety-131",
+      "x-safety-132",
+      "x-safety-133",
+      "x-safety-134",
+      "x-safety-135",
+      "x-safety-136",
+      "x-safety-137",
+      "x-safety-138",
+      "x-safety-139",
+      "x-safety-140",
+      "x-safety-141",
+      "x-safety-142",
+      "x-safety-143",
+      "x-safety-144",
+      "x-safety-145",
+      "x-safety-146",
+      "x-safety-147",
+      "x-safety-148",
+      "x-safety-149",
+      "x-safety-150",
+      "x-safety-151",
+      "x-safety-152",
+      "x-safety-153",
+      "x-safety-154",
+      "x-safety-155",
+      "x-safety-156",
+      "x-safety-157",
+      "x-safety-158",
+      "x-safety-159",
+      "x-safety-160",
+      "x-safety-161",
+      "x-safety-162",
+      "x-safety-163",
+      "x-safety-164",
+      "x-safety-165",
+      "x-safety-166",
+      "x-safety-167",
+      "x-safety-168",
+      "x-safety-169",
+      "x-safety-170",
+      "x-safety-171",
+      "x-safety-172",
+      "x-safety-173",
+      "x-safety-174",
+      "x-safety-175",
+      "x-safety-176",
+      "x-safety-177",
+      "x-safety-178",
+      "x-safety-179",
+      "x-safety-180",
+      "x-safety-181",
+      "x-safety-182",
+      "x-safety-183",
+      "x-safety-184",
+      "x-safety-185",
+      "x-safety-186",
+      "x-safety-187",
+      "x-safety-188",
+      "x-safety-189",
+      "x-safety-190",
+      "x-safety-191",
+      "x-safety-192",
+      "x-safety-193",
+      "x-safety-194",
+      "x-safety-195",
+      "x-safety-196",
+      "x-safety-197",
+      "x-safety-198",
+      "x-safety-199",
+      "x-safety-200"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-safety-076",
+      "status": "revise",
+      "assessment": "Containment key is sound, but three distractors are extreme unsafe actions and the stem already supplies the answer.",
+      "issues": [
+        "Containment key is sound, but three distractors are extreme unsafe actions and the stem already supplies the answer."
+      ],
+      "proposedChanges": [
+        "Use a patient still awaiting relocation in the adjacent smoke compartment and compare closed-door containment with plausible competing tasks such as fetching an extinguisher, gathering records, and moving portable equipment; retain emergency-plan context."
+      ],
+      "reviewedItemSha256": "26902777b072d5f561b3b8e5760b24f5751a5e2698314634ef96400464e1bda9"
+    },
+    {
+      "id": "x-safety-077",
+      "status": "revise",
+      "assessment": "Correct evacuation information is defensible, but only/without qualifiers and the sole comprehensive option reveal it.",
+      "issues": [
+        "Correct evacuation information is defensible, but only/without qualifiers and the sole comprehensive option reveal it."
+      ],
+      "proposedChanges": [
+        "Give a concrete handoff gap: two clients share surname and one needs continuous oxygen. Compare a current named roster with support needs, the bed-assignment list, total census plus transfer count, and a medication summary. Remove only and without wording."
+      ],
+      "reviewedItemSha256": "e55b1365ccbee83ed2a44ab3fefaedcb4416ad64cd13e53529cfb82ea03061e4"
+    },
+    {
+      "id": "x-safety-078",
+      "status": "revise",
+      "assessment": "Training boundary is correct. Asking a client for instructions is filler; attempting small-fire suppression and attempting with colleague instruction are near-duplicate alternatives.",
+      "issues": [
+        "Training boundary is correct. Asking a client for instructions is filler; attempting small-fire suppression and attempting with colleague instruction are near-duplicate alternatives."
+      ],
+      "proposedChanges": [
+        "Replace client-instructions option with retrieving an extinguisher for trained responders; specify whether doing so delays safe withdrawal. Use a clear immediate-action setting and distinguish available escape, calling responders, and equipment retrieval."
+      ],
+      "reviewedItemSha256": "66ac3631be1cb83b5aca3626093bc40ab8627a767d6387d656080a7354e99a16"
+    },
+    {
+      "id": "x-safety-079",
+      "status": "revise",
+      "assessment": "Immediate assessment and backup support are sound, but three generic safe actions against waiting for engineering make the SATA trivial.",
+      "issues": [
+        "Immediate assessment and backup support are sound, but three generic safe actions against waiting for engineering make the SATA trivial."
+      ],
+      "proposedChanges": [
+        "Use a defined electrically powered device and concrete backup actions within nurse training. Include plausible mistakes such as assuming its illuminated battery icon establishes remaining duration or transferring to an unverified outlet. Vary the correct count and positions."
+      ],
+      "reviewedItemSha256": "440908cbe465d95c62c7dc04dc9ae2dee99621cfd5c3b7a71421d34f8db94d09"
+    },
+    {
+      "id": "x-safety-080",
+      "status": "revise",
+      "assessment": "Replacement while maintaining treatment is correct. Indefinite battery use and hiding a cord beneath bedding are advertised or cartoon errors.",
+      "issues": [
+        "Replacement while maintaining treatment is correct. Indefinite battery use and hiding a cord beneath bedding are advertised or cartoon errors."
+      ],
+      "proposedChanges": [
+        "Compare using the charged battery for the remaining infusion, requesting repair after the infusion finishes, applying insulating tape, and replacing the pump now while preserving therapy. Avoid indefinitely and concealment language."
+      ],
+      "reviewedItemSha256": "b93b00890e537b754323e451a2ca350f1ccd9535b2b63225adba7d2abb2f08e0"
+    },
+    {
+      "id": "x-safety-081",
+      "status": "revise",
+      "assessment": "Rate discrepancy needs prompt verification, but asking if the rate feels right and documenting it as prescribed are not credible competing decisions.",
+      "issues": [
+        "Rate discrepancy needs prompt verification, but asking if the rate feels right and documenting it as prescribed are not credible competing decisions."
+      ],
+      "proposedChanges": [
+        "Provide specific prescribed/displayed rates and stable client findings; compare checking the order and delivered volume, reprogramming to the remembered rate, changing the pump, and notifying the prescriber. Explain why verification safely directs the next intervention."
+      ],
+      "reviewedItemSha256": "edfa49ba73640e1cb0568d6e646dcc8c797eb1dbfef44d6b7eb12bced227b2f0"
+    },
+    {
+      "id": "x-safety-082",
+      "status": "revise",
+      "assessment": "Sensor correction is appropriate, but disable every alarm, widen all limits, and tell client to ignore noise are implausible extremes.",
+      "issues": [
+        "Sensor correction is appropriate, but disable every alarm, widen all limits, and tell client to ignore noise are implausible extremes."
+      ],
+      "proposedChanges": [
+        "State assessment is reassuring and signal intermittently disappears with movement. Compare replacing/repositioning sensor, lowering alarm volume, altering the affected limit, and arranging a different monitoring site. Choose one technically appropriate action with relevant cues."
+      ],
+      "reviewedItemSha256": "7a161f908b29f8e54792d072ee7c3feca68c5467f1e726192fbca2ba06fcf5d6"
+    },
+    {
+      "id": "x-safety-083",
+      "status": "pass",
+      "assessment": "Transport duration and contingency distinguish the key from plausible but insufficient checks. Alternatives and rationale support supply verification.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "429d52b2947c1bf6d91e33a544381ffbb9c0ffd095bd8dc044d1956dfab9d71b"
+    },
+    {
+      "id": "x-safety-084",
+      "status": "pass",
+      "assessment": "Tracing the full line is decisive; diameter, connector fit, and recollection are believable misconnection shortcuts. Key and rationales agree.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b2b15656b746b26252ea56cecbb44c635fc96fbe4c2c69c80f86f431b6286e8e"
+    },
+    {
+      "id": "x-safety-085",
+      "status": "pass",
+      "assessment": "An undocumented implant appropriately stops progression for device-specific MRI verification. CT clearance, no symptoms, and external-metal removal cannot establish compatibility.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "be87b39b78c58e71f1a3a06d7bc687f542da50c26d54a16220362f46b47baac9"
+    },
+    {
+      "id": "x-safety-086",
+      "status": "revise",
+      "assessment": "The recall process is sound but every-model return is a conspicuous overreaction against three generic good actions.",
+      "issues": [
+        "The recall process is sound but every-model return is a conspicuous overreaction against three generic good actions."
+      ],
+      "proposedChanges": [
+        "Add an affected serial-number range and manufacturer instruction. Use concrete choices such as comparing serial numbers, arranging alternate therapy, using completion of the startup self-test to clear an affected device, and recording the action taken; vary SATA count/positions."
+      ],
+      "reviewedItemSha256": "9e759fcf1f8b05e359d8c69589ba83d66a6fd73646f4f53ac3db949b76d00e6f"
+    },
+    {
+      "id": "x-safety-087",
+      "status": "pass",
+      "assessment": "Identifier mismatch is a clear stop cue. Location, first name, and treatment recognition are common insufficient shortcuts; all rationales explain why they fail.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "23467fa2e3ceabaa019ec4a31e18b6593bc7d8e7de999a6f2781355f218ea303"
+    },
+    {
+      "id": "x-safety-088",
+      "status": "revise",
+      "assessment": "Policy-dependent correction/recollection is accurate, but sending with a guess and room-number confirmation are weak distractors.",
+      "issues": [
+        "Policy-dependent correction/recollection is accurate, but sending with a guess and room-number confirmation are weak distractors."
+      ],
+      "proposedChanges": [
+        "Compare contacting the laboratory for the approved correction/recollection process, replacing the label from the open chart, confirming identity with the collector after leaving bedside, and sending the tube with a discrepancy note. Remove the word guess and explain chain-of-identification limits."
+      ],
+      "reviewedItemSha256": "1c75e13b8bda4012aa5f8e80906f672a9bab487c3c911d55869743a2e0c4dc5f"
+    },
+    {
+      "id": "x-safety-089",
+      "status": "revise",
+      "assessment": "Stopping a site discrepancy is correct. Asking family to choose the likely side is an implausible caricature.",
+      "issues": [
+        "Stopping a site discrepancy is correct. Asking family to choose the likely side is an implausible caricature."
+      ],
+      "proposedChanges": [
+        "Replace family guessing with reconfirming the side using the awake client and amending the mark; explain why client confirmation contributes evidence but the whole team must reconcile consent/site before progression."
+      ],
+      "reviewedItemSha256": "e4b8e1fc54ad3ac33e7ed3b33428dd408f096189e929e0015899e285b43ba07c"
+    },
+    {
+      "id": "x-safety-090",
+      "status": "revise",
+      "assessment": "Allergen prevention is correct but deleting an alert for convenience is implausible and the only substantial action is keyed.",
+      "issues": [
+        "Allergen prevention is correct but deleting an alert for convenience is implausible and the only substantial action is keyed."
+      ],
+      "proposedChanges": [
+        "Use a scheduled procedure and established latex allergy. Compare replacing the prepared latex supplies, covering exposed latex components, premedicating with an ordered antihistamine, and increasing observation during the procedure. Keep option lengths parallel and explain barriers/premedication do not remove exposure."
+      ],
+      "reviewedItemSha256": "fff17f0b5d8900d81320545879b2420c8d1f570f55a6ec970b4d07007fb549b3"
+    },
+    {
+      "id": "x-safety-091",
+      "status": "revise",
+      "assessment": "Restricting access and trained response are correct, but asking a client to step over a chemical spill is filler.",
+      "issues": [
+        "Restricting access and trained response are correct, but asking a client to step over a chemical spill is filler."
+      ],
+      "proposedChanges": [
+        "Compare isolating the area, absorbing with standard disposable towels, diluting with water, and moving nearby supplies away. Explain why identification and exposure containment precede cleanup decisions."
+      ],
+      "reviewedItemSha256": "336c94ec1fc50e037c14bbeec6717b858d8f5edfab73deeb543c0fae4b716897"
+    },
+    {
+      "id": "x-safety-092",
+      "status": "revise",
+      "assessment": "PPE/first-aid/storage are correct SDS topics, but complaint history is an obviously nontechnical foil and pattern repeats three-of-four.",
+      "issues": [
+        "PPE/first-aid/storage are correct SDS topics, but complaint history is an obviously nontechnical foil and pattern repeats three-of-four."
+      ],
+      "proposedChanges": [
+        "Make application scenario: a product has stated inhalation and eye hazards. Ask which proposed preparations are appropriate, mixing credible PPE, dilution, ventilation, incompatibility and exposure-plan choices. Check exact product guidance or use an explicit exhibit."
+      ],
+      "reviewedItemSha256": "7025f5674690ff71727a7dd8a1fbbaa0e3557a2739e91088208ccf32dbe524ad"
+    },
+    {
+      "id": "x-safety-093",
+      "status": "revise",
+      "assessment": "Immediate irrigation is correct. Incident-form search and covering the eye are too weak for the only reasonable answer.",
+      "issues": [
+        "Immediate irrigation is correct. Incident-form search and covering the eye are too weak for the only reasonable answer."
+      ],
+      "proposedChanges": [
+        "Compare beginning eyewash, obtaining the SDS, phoning occupational health, and removing contaminated clothing; state help is obtaining product information. Rationale should explain irrigation priority for ongoing eye exposure."
+      ],
+      "reviewedItemSha256": "d72660abbb895962751614bfcdc65e491543b4eb473d48ea88343432f8e456b2"
+    },
+    {
+      "id": "x-safety-094",
+      "status": "revise",
+      "assessment": "Approved carrier is correct, but free rolling and regulator carrying make this basic recognition, not application.",
+      "issues": [
+        "Approved carrier is correct, but free rolling and regulator carrying make this basic recognition, not application."
+      ],
+      "proposedChanges": [
+        "Use a transport preparation with a cylinder in an unsuitable stretcher holder; compare available secured carrier, bed-mounted basket, carrying beside stretcher, and a nominally similar holder with incompatible dimensions. Or honestly label the current item foundation after improving alternatives."
+      ],
+      "reviewedItemSha256": "c89c5fd044a29fed802824069b44afbfedd4948ca871dbd720acd063bddc0dc0"
+    },
+    {
+      "id": "x-safety-095",
+      "status": "revise",
+      "assessment": "Impaired sensation makes objective temperature verification appropriate; steam is an implausible indicator.",
+      "issues": [
+        "Impaired sensation makes objective temperature verification appropriate; steam is an implausible indicator."
+      ],
+      "proposedChanges": [
+        "Replace steam option with the nurse testing the water briefly by hand and compare objective measurement, client report, and preset tap setting. Make the required measuring method clear under stated policy."
+      ],
+      "reviewedItemSha256": "aeb39ab118e2822eac00c136ba7c810910c72405461f6730130c6ccd9f23fe80"
+    },
+    {
+      "id": "x-safety-096",
+      "status": "revise",
+      "assessment": "Avoiding heat injury in an insensate foot is sound, but without monitoring and sleep/tight-dressing alternatives advertise unsafe behaviour.",
+      "issues": [
+        "Avoiding heat injury in an insensate foot is sound, but without monitoring and sleep/tight-dressing alternatives advertise unsafe behaviour."
+      ],
+      "proposedChanges": [
+        "Compare nonthermal comfort measures, a low-setting heating pad, a wrapped hot-water bottle, and a warm foot soak. State neurovascular findings or reason for comfort treatment so the key is a specific safe response rather than a vague assess-alternatives phrase."
+      ],
+      "reviewedItemSha256": "e901a2d920951921d09bd919bc8380a0f7eda2d8c2710690ced9f6a0b96d2d55"
+    },
+    {
+      "id": "x-safety-097",
+      "status": "revise",
+      "assessment": "Assessing injury and revising handling is sound. Absence of bleeding proving no injury is an obvious false statement against three broad safe actions.",
+      "issues": [
+        "Assessing injury and revising handling is sound. Absence of bleeding proving no injury is an obvious false statement against three broad safe actions."
+      ],
+      "proposedChanges": [
+        "Use a visible skin flap after tape removal, ask about concrete wound/adhesive actions, and include a credible misconception such as routine dry gauze secured with the same adhesive. Source-check specific dressing guidance if added."
+      ],
+      "reviewedItemSha256": "95c94488086f8e7b95d6fc1999def3e5e0983cf01649d1a75637b995c1a2ebda"
+    },
+    {
+      "id": "x-safety-098",
+      "status": "revise",
+      "assessment": "An incompatible mattress/rail configuration must be corrected. Night-only rail use and asking the client to stay centred are weak alternatives.",
+      "issues": [
+        "An incompatible mattress/rail configuration must be corrected. Night-only rail use and asking the client to stay centred are weak alternatives."
+      ],
+      "proposedChanges": [
+        "Compare obtaining compatible equipment, using a manufacturer-approved gap insert (specify no approved insert is available if this is wrong), adding pillows, and lowering the rail with closer observation. Avoid creating another valid temporary mitigation when asking best ongoing solution."
+      ],
+      "reviewedItemSha256": "eaf84913be11969a3e3738fd2883b269a16dfbfe806da52d54ea528322140417"
+    },
+    {
+      "id": "x-safety-099",
+      "status": "revise",
+      "assessment": "Accessible call access is appropriate but solely makes the rounds option self-disqualifying and the key is uniquely complete.",
+      "issues": [
+        "Accessible call access is appropriate but solely makes the rounds option self-disqualifying and the key is uniquely complete."
+      ],
+      "proposedChanges": [
+        "Give residual movement usable by a switch and ask which adjustment best enables independent calls. Compare an appropriate alternative switch, moving the standard button, a scheduled rounding plan, and a voice-call arrangement; retain actual activation check in rationale or make all options parallel."
+      ],
+      "reviewedItemSha256": "c59642a890fa81c78e79cfccf095875d7f78e5d7a5bc90526655f124d21550a4"
+    },
+    {
+      "id": "x-safety-100",
+      "status": "revise",
+      "assessment": "Recovery reassessment and supported transport are correct. Coffee, promise to stay awake and shortened instructions are caricatures.",
+      "issues": [
+        "Recovery reassessment and supported transport are correct. Coffee, promise to stay awake and shortened instructions are caricatures."
+      ],
+      "proposedChanges": [
+        "Compare extending monitored recovery and arranging an escort, arranging a taxi, asking transit staff to assist, and providing written directions plus telephone follow-up. State persistent drowsiness and protocol escort requirements to distinguish the key."
+      ],
+      "reviewedItemSha256": "e4b58e1de7d4a8c815f89825f9d592e3135d712afddc4e784a0aab6edafb33d3"
+    }
+  ],
+  "reviewerTask": "/root/author_health_psych",
+  "authorSourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/a/safety.json",
+  "sourceCheckNote": "This batch received full item-level clinical and distractor reasoning review. No new item-specific primary-source retrieval is claimed for this batch; broad equipment/fire topics need source-specific support if revisions add technical detail."
+}

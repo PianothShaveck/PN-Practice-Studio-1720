@@ -1,0 +1,148 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:33:20.160528+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/basic-126-150.json",
+  "sourceSha256": "7aebcb33e2fea129a1dd8a949af1267384342b3453bae2ece3b0b4048a939dc9",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 12,
+    "reviewedIds": [
+      "x-basic-127",
+      "x-basic-129",
+      "x-basic-130",
+      "x-basic-131",
+      "x-basic-135",
+      "x-basic-137",
+      "x-basic-139",
+      "x-basic-140",
+      "x-basic-145",
+      "x-basic-146",
+      "x-basic-148",
+      "x-basic-149"
+    ],
+    "unreviewedIds": [
+      "x-basic-126",
+      "x-basic-128",
+      "x-basic-132",
+      "x-basic-133",
+      "x-basic-134",
+      "x-basic-136",
+      "x-basic-138",
+      "x-basic-141",
+      "x-basic-142",
+      "x-basic-143",
+      "x-basic-144",
+      "x-basic-147",
+      "x-basic-150"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-basic-127",
+      "status": "pass",
+      "assessment": "New discomfort requires review of the whole prevention plan despite equipment; adaptation assumptions and extra layers are not established solutions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2d16ee6028184d297f2b1984f2066c708f2c8dfd6ee86c4031409ef7d2989e02"
+    },
+    {
+      "id": "x-basic-129",
+      "status": "pass",
+      "assessment": "Reminder integration targets demonstrated forgetting of an existing effective skill. Technique review, cushion change and waiting for pain miss the specific barrier.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d76dc0ace437d7c8fe626a40f61a5cc8ed31d061da975e55343a6bac8c98a43f"
+    },
+    {
+      "id": "x-basic-130",
+      "status": "pass",
+      "assessment": "All alternatives are assessment domains. Stool exposure/distribution most directly fits diffuse superficial perineal irritation rather than focal pressure loading.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c0f7e3fe4a06187be8dff0da435679e885d110de3595d3aee7f349867ecb53b2"
+    },
+    {
+      "id": "x-basic-131",
+      "status": "pass",
+      "assessment": "Current local temperature, firmness and baseline colour change assess painful tissue beyond visible redness. Global score and old colour alone do not directly examine the current site.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6c123e62d93d477291c659feccbb69e12dd1c32a24272d6ea6bbeee108c74f12"
+    },
+    {
+      "id": "x-basic-135",
+      "status": "pass",
+      "assessment": "Skin response and tolerance are outcomes, while pillow count and completed-turn percentage are process data. Stem now explicitly asks whether protection and tolerance are achieved.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3957f2f9e12582f2090f4d60c6fe52c3de048ccd08c801651ba88a4e582a7f88"
+    },
+    {
+      "id": "x-basic-137",
+      "status": "pass",
+      "assessment": "Securement/clothing review addresses snagging while retaining function. Tight sleeve, unplanned trimming and unnecessary activity avoidance are practical but incomplete workarounds.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "44a71e3fec6e9d27ef54a4fee549dd488c7fdeb9bf44e0287f8806f55050b2d9"
+    },
+    {
+      "id": "x-basic-139",
+      "status": "pass",
+      "assessment": "Remove focal constriction and assess fit; arbitrary larger sizing does not distinguish application from fit problems. Therapeutic compression does not mean maximal local pressure.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "17e073caa5289cfecbe913a7db27c9ad1d1b7fa4f46b6840cbeedc3e19dbaed0"
+    },
+    {
+      "id": "x-basic-140",
+      "status": "pass",
+      "assessment": "All alternatives interpret the white soggy periwound tissue. Saturated dressing supports maceration/exudate issue rather than healthy moisture, infection solely from wetness or dryness.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "bb7e5ffa4f4b1c88511a6c08fdc85c87a375a8076d3476011f0bfceb20ee22f5"
+    },
+    {
+      "id": "x-basic-145",
+      "status": "pass",
+      "assessment": "Temperature/hydration reassessment and dry clothing/linen address both cause and exposure. Waterproof pad or insulation while leaving damp clothing does not correct the actual moisture burden.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c220fdbe6b55300914ccf3fa8bd5288df38275b91b0683e514fc6bce43d964c6"
+    },
+    {
+      "id": "x-basic-146",
+      "status": "pass",
+      "assessment": "Safe preferred positioning can be incorporated with support/skin review. Fixed sequence, whole-shift immobility and preference without monitoring are inadequate integrations.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "704b1470a8f2819d63dc5b65200c4d64d428d5dcb72e83cf39af8415313e7a3f"
+    },
+    {
+      "id": "x-basic-148",
+      "status": "pass",
+      "assessment": "Duration-related discomfort informs shorter sessions with assessed relief even before visible breakdown. Extra cushion without fit review or waiting a week ignores the new response.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ec36446ef202d6a04f85eca3c8a70c4e3d262321c6815762e35bdda69230ffd1"
+    },
+    {
+      "id": "x-basic-149",
+      "status": "pass",
+      "assessment": "Device compatibility/seal effect is the relevant question. Sensitive-skin label, prior tolerance and years of use are now plausible but insufficient product assurances.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fcd072a18e00d0d7c6a7da422f673f847c33c488a47341404719d0376dc42dde"
+    }
+  ],
+  "reviewScope": "All twelve revised items reread. This is a content recheck; broader source-topic audit is being performed by author and reference changes need hash reconciliation.",
+  "reviewerTask": "/root/review_legacy"
+}

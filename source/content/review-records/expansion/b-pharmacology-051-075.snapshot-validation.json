@@ -1,0 +1,329 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:12:02.232407+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/b-pharmacology-03.json",
+  "sourceSha256": "cd850dc0574bfc22baaeff11831c9c1cabe5f0ab839f9ada68e82cd0c7aa156e",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-pharmacology-051",
+      "x-pharmacology-052",
+      "x-pharmacology-053",
+      "x-pharmacology-054",
+      "x-pharmacology-055",
+      "x-pharmacology-056",
+      "x-pharmacology-057",
+      "x-pharmacology-058",
+      "x-pharmacology-059",
+      "x-pharmacology-060",
+      "x-pharmacology-061",
+      "x-pharmacology-062",
+      "x-pharmacology-063",
+      "x-pharmacology-064",
+      "x-pharmacology-065",
+      "x-pharmacology-066",
+      "x-pharmacology-067",
+      "x-pharmacology-068",
+      "x-pharmacology-069",
+      "x-pharmacology-070",
+      "x-pharmacology-071",
+      "x-pharmacology-072",
+      "x-pharmacology-073",
+      "x-pharmacology-074",
+      "x-pharmacology-075"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://guidelines.diabetes.ca/GuideLines/media/Docs/Patient%20Resources/stay-safe-when-you-have-diabetes-and-sick-or-at-risk-of-dehydration.pdf",
+      "authority": "Diabetes Canada",
+      "supports": [
+        "056 medication review/temporary metformin hold during dehydration",
+        "051 need an individualized insulin sick-day plan"
+      ],
+      "scope": "Specific sick-day support, not authorization for arbitrary dose change."
+    },
+    {
+      "url": "https://guidelines.diabetes.ca/getmedia/cd461fac-89f5-4b4f-9339-0b4530661e74/SGLT2i-medication-sheet-2024.pdf",
+      "authority": "Diabetes Canada",
+      "supports": [
+        "057 ketoacidosis can occur without hyperglycemia and requires prompt treatment if suspected"
+      ],
+      "scope": "Specific mechanism and symptom support."
+    },
+    {
+      "url": "https://pdf.hres.ca/dpd_pm/00065325.PDF",
+      "authority": "Health Canada-hosted manufacturer monograph",
+      "supports": [
+        "064 fever/sore throat require immediate report and white-cell/differential assessment for agranulocytosis"
+      ],
+      "scope": "Specific methimazole support."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-pharmacology-051",
+      "status": "revise",
+      "assessment": "Snapshot re-read confirmed current content and metadata. Correct concept is basal-insulin necessity during illness, but the key is the sole comprehensive safe plan among implausible questions; can be guessed without using the type1 cue.",
+      "issues": [
+        "Correct concept is basal-insulin necessity during illness, but the key is the sole comprehensive safe plan among implausible questions; can be guessed without using the type1 cue."
+      ],
+      "proposedChanges": [
+        "Use parallel teaching priorities: how to continue basal insulin under the sick-day plan (key); how to choose tolerated carbohydrate foods; how to adjust mealtime doses to intake; how to resume usual activity after fever. Ask which misconception about stopping basal insulin needs immediate correction and explain ketoacidosis despite poor intake."
+      ],
+      "reviewedItemSha256": "62e7cf9d306db9a34212c62f80f5772c429b006ef1da13e741c6319c5f7263fa"
+    },
+    {
+      "id": "x-pharmacology-052",
+      "status": "pass",
+      "assessment": "Snapshot re-read confirmed current content and metadata. Erratic glucose plus repeated injection into firm painless lump discriminates lipohypertrophy correction from dose escalation or unplanned site changes; key length does not alone decide.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "75ec8e9a89375c5e477ab54376b546faebcfd36cf713658abde6b269abb03688"
+    },
+    {
+      "id": "x-pharmacology-053",
+      "status": "pass",
+      "assessment": "Snapshot re-read confirmed current content and metadata. Sharing pen despite separate needles applies internal-contamination knowledge to a realistic request; comparable explanatory options and defensible key.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "024684fe70789d230c9c2f8874703d35b65d2f270b185bed147e292540ae581b"
+    },
+    {
+      "id": "x-pharmacology-054",
+      "status": "revise",
+      "assessment": "Snapshot re-read confirmed current content and metadata. Key is longest and uniquely safe/general; old-pen appearance is weak filler.",
+      "issues": [
+        "Key is longest and uniquely safe/general; old-pen appearance is weak filler."
+      ],
+      "proposedChanges": [
+        "Shorten key to Reteach dosing with the prescribed pen and return demonstration. Use alternatives about converting to old syringe volume, verbal-only review without technique observation, and reusing old volume markings; all should be parallel administration plans."
+      ],
+      "reviewedItemSha256": "f6bb479103d1b7e08f0bf568148c7dee78791d720ed277fb3710ed63a36e6414"
+    },
+    {
+      "id": "x-pharmacology-055",
+      "status": "revise",
+      "assessment": "Snapshot re-read confirmed current content and metadata. Waiting until unconscious is cartoon unsafe and the compound key is the only reasonable option.",
+      "issues": [
+        "Waiting until unconscious is cartoon unsafe and the compound key is the only reasonable option."
+      ],
+      "proposedChanges": [
+        "Replace alternatives with plausible early errors: eat a routine snack and check at next scheduled time; rest first and check only if symptoms persist; focus on changing tomorrow dose before evaluating current symptoms. Keep immediate available glucose check and low-glucose plan, with case-specific rationale."
+      ],
+      "reviewedItemSha256": "f0570c449d82a64854905b27659436cea33156b6be06b0ae9b588ad600013039"
+    },
+    {
+      "id": "x-pharmacology-056",
+      "status": "pass",
+      "assessment": "Snapshot re-read confirmed current content and metadata. Acute renal decline/dehydration before due metformin changes administration safety; unchanged prescription and food coadministration are plausible inadequate reassurances.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ca3781d993602f13305cf72b2f99b1f059fbee5b07505b614abf5bb81df1706b"
+    },
+    {
+      "id": "x-pharmacology-057",
+      "status": "revise",
+      "assessment": "Snapshot re-read confirmed current content and metadata. Moderate glucose/deep breathing is a useful discriminating cue, but extra empagliflozin and next routine visit make key the only reasonable action.",
+      "issues": [
+        "Moderate glucose/deep breathing is a useful discriminating cue, but extra empagliflozin and next routine visit make key the only reasonable action."
+      ],
+      "proposedChanges": [
+        "Shorten key to Urgently assess for ketones and acid-base disturbance. Replace option0 with routine sick-day telephone review later while hydrating; option3 with glucose recheck in one hour without ketone assessment. Rationale should explicitly explain glucose can understate SGLT2-associated DKA."
+      ],
+      "reviewedItemSha256": "d9671df26c08d88875a4a9a88aa5547e651bb19f3e72ed9e4347935382046268"
+    },
+    {
+      "id": "x-pharmacology-058",
+      "status": "revise",
+      "assessment": "Snapshot re-read confirmed current content and metadata. Severe persistent pain is meaningful, but waiting a full week is an extreme delay and smaller-meal alternatives overlap.",
+      "issues": [
+        "Severe persistent pain is meaningful, but waiting a full week is an extreme delay and smaller-meal alternatives overlap."
+      ],
+      "proposedChanges": [
+        "Replace option1 with: Apply the previous mild-nausea plan and reassess tomorrow. Replace option3 with: Request a routine dose reduction without reporting the severe pain. Explain why changed severity needs prompt clinical assessment before further dosing."
+      ],
+      "reviewedItemSha256": "52728d0bc4845ddb11a9ef2ff946b42424e50cc8e242f5e6b409565a381cea70"
+    },
+    {
+      "id": "x-pharmacology-059",
+      "status": "revise",
+      "assessment": "Snapshot re-read confirmed current content and metadata. Permanent loss of all insulin production is an implausibly absolute interpretation.",
+      "issues": [
+        "Permanent loss of all insulin production is an implausibly absolute interpretation."
+      ],
+      "proposedChanges": [
+        "Replace option1 with: Assume the elevated results reflect previously undiagnosed diabetes and are unrelated to prednisone. Explain that steroid timing and glucose trends require assessment of a medication contribution without assuming permanent disease."
+      ],
+      "reviewedItemSha256": "b30268dec8769666fefb4de57bf6399649d09665377d78cebb55d13614ef9bd4"
+    },
+    {
+      "id": "x-pharmacology-060",
+      "status": "pass",
+      "assessment": "Snapshot re-read confirmed current content and metadata. Observed dose delivery and low-glucose response demonstrate readiness; agreement, cap colour and unavailable help are credible but insufficient proxies.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0e14b8e2310a57d8b7233224852313e8b85689ca25aa88c4469e825d5c728205"
+    },
+    {
+      "id": "x-pharmacology-061",
+      "status": "revise",
+      "assessment": "Snapshot re-read confirmed current content and metadata. Never possible to taper/continue indefinitely is a cartoon absolute.",
+      "issues": [
+        "Never possible to taper/continue indefinitely is a cartoon absolute."
+      ],
+      "proposedChanges": [
+        "Replace option0 with: Reduce the dose by a fixed amount each week without reviewing duration, dose or disease response. Explain that safe taper depends on individual suppression and underlying illness."
+      ],
+      "reviewedItemSha256": "fedee10b687127c09338b9a4d77c9edb56f0c450e7e54e5dad773f51e342bebf"
+    },
+    {
+      "id": "x-pharmacology-062",
+      "status": "revise",
+      "assessment": "Snapshot re-read confirmed current content and metadata. Missed-tablet catch-up is unrelated to stem and dosing by daily energy is implausible; comprehensive key stands out.",
+      "issues": [
+        "Missed-tablet catch-up is unrelated to stem and dosing by daily energy is implausible; comprehensive key stands out."
+      ],
+      "proposedChanges": [
+        "Replace option0 with: Separate iron only on days when thyroid blood tests are scheduled. Replace option3 with: Alternate breakfast dosing and fasting dosing according to convenience. Keep concise consistent timing/separation key and explain absorption variability."
+      ],
+      "reviewedItemSha256": "f1c2f9bf5b45d71090f70a8b7bdd9eef211b9fda7871b96669eaf219c9831c6a"
+    },
+    {
+      "id": "x-pharmacology-063",
+      "status": "revise",
+      "assessment": "Snapshot re-read confirmed current content and metadata. Diet restriction does not plausibly address overreplacement; required-symptom claim is exaggerated.",
+      "issues": [
+        "Diet restriction does not plausibly address overreplacement; required-symptom claim is exaggerated."
+      ],
+      "proposedChanges": [
+        "Replace option1 with: Reassure that symptoms are an adjustment effect and keep routine follow-up. Replace option2 with: Provide relaxation teaching and defer thyroid review unless anxiety persists. Explain temporal adrenergic symptom cluster after dose increase."
+      ],
+      "reviewedItemSha256": "915f40d51af742e0dfda1829fd9382dbf3d2e50faade8ad92b1c37faafe6a44b"
+    },
+    {
+      "id": "x-pharmacology-064",
+      "status": "pass",
+      "assessment": "Snapshot re-read confirmed current content and metadata. Fever/sore throat on methimazole warrants prompt report and blood-count guidance; primary product monograph supports agranulocytosis concern without declaring every fever diagnostic.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d7e50b9b7a0610b0fe815c4255d309dcd62c46b5aa038d904e55bf6f2af98b0d"
+    },
+    {
+      "id": "x-pharmacology-065",
+      "status": "pass",
+      "assessment": "Snapshot re-read confirmed current content and metadata. Inability to remain upright changes oral alendronate suitability; food, crushing and bedtime are recognizable administration misconceptions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c2b499c3da6b6b9b14e8b4dded6db7014cefe01ddf27437f750bb0953e5dd08b"
+    },
+    {
+      "id": "x-pharmacology-066",
+      "status": "revise",
+      "assessment": "Snapshot re-read confirmed current content and metadata. Key is a physiological concern while alternatives mix reassurance/actions; extra dose for headache is implausible.",
+      "issues": [
+        "Key is a physiological concern while alternatives mix reassurance/actions; extra dose for headache is implausible."
+      ],
+      "proposedChanges": [
+        "Use parallel concerns: water retention with hyponatremia (key); medication headache without fluid imbalance; dehydration from inadequate antidiuretic effect; hyperglycemia-related osmotic fluid loss. Add urine-output trend if needed to distinguish the competing fluid interpretations."
+      ],
+      "reviewedItemSha256": "f9e9c9837487a6cd8c486a48e98bde01fe83ef60939689654bc125a91b1820ce"
+    },
+    {
+      "id": "x-pharmacology-067",
+      "status": "pass",
+      "assessment": "Snapshot re-read confirmed current content and metadata. Vomited replacement during illness and increasing weakness warrant emergency sick-day plan; salt/fluid alone cannot replace cortisol.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e7d6843564dda8245c2170460570ded9b2bc6b47b65c215d3efb6d2426c0686f"
+    },
+    {
+      "id": "x-pharmacology-068",
+      "status": "pass",
+      "assessment": "Snapshot re-read confirmed current content and metadata. Monitoring including delayed recovery and available rapid carbohydrate target exercise hypoglycemia; basal omission and meal-guarantee myths are clinically meaningful.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "22013e0c121e55fab32aee1f6432f4c2804aee3d45c488eee6d730ca5959d1a0"
+    },
+    {
+      "id": "x-pharmacology-069",
+      "status": "pass",
+      "assessment": "Snapshot re-read confirmed current content and metadata. Cross-time-zone schedule and accessible supplies address interval/logistic risks; home-clock rigidity and freezing are plausible errors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b964273602af433b3098762792b08bf2193f70a447855b4edc248bfc89648180"
+    },
+    {
+      "id": "x-pharmacology-070",
+      "status": "pass",
+      "assessment": "Snapshot re-read confirmed current content and metadata. Device-as-taught plus emergency help fits severe hypoglycemia; unsafe swallowing and partial use of real rescue device are plausible teaching gaps.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b9aabce04b308e3d9ee7ebdc3c958f8afbdce7a2b93a393924b90390243dfb61"
+    },
+    {
+      "id": "x-pharmacology-071",
+      "status": "pass",
+      "assessment": "Snapshot re-read confirmed current content and metadata. Changed clear-insulin appearance after heat exposure warrants replacement; recooling and dose compensation cannot establish integrity.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b9ab18ad1b115be69fbfaf7f66638637c396fcb5158edd9fd9618d492174c6f6"
+    },
+    {
+      "id": "x-pharmacology-072",
+      "status": "pass",
+      "assessment": "Snapshot re-read confirmed current content and metadata. Rising glucose after several hours of pump interruption requires ketone/glucose backup-plan action before symptoms or reliance on unverified delivery.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a23f0819e88da351138bfa78084368cc995e3a68059a4118e91d6a3a1d0160e4"
+    },
+    {
+      "id": "x-pharmacology-073",
+      "status": "pass",
+      "assessment": "Snapshot re-read confirmed current content and metadata. Parallel symptom patterns distinguish therapeutic thyroid improvement from toxicity, over-suppression and anxiety-only improvement; clinically useful discrimination.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6c430055062b9fb23ea7c2a04e1f86d163ccbec350801f2484d68adbeab630aa"
+    },
+    {
+      "id": "x-pharmacology-074",
+      "status": "revise",
+      "assessment": "Snapshot re-read confirmed current content and metadata. Extrapolating/max listed dose are plausible errors, but withholding all insulin plus omitting monitoring is cartoonishly incomplete.",
+      "issues": [
+        "Extrapolating/max listed dose are plausible errors, but withholding all insulin plus omitting monitoring is cartoonishly incomplete."
+      ],
+      "proposedChanges": [
+        "Replace option1 with: Repeat glucose after the meal and leave the unlisted value unreported meanwhile. Explain that current out-of-range value needs authorized escalation rather than relying on later measurement alone."
+      ],
+      "reviewedItemSha256": "6aaf9c1ba5b707378dfbbd33c7a324c6b1e490ca375c095ce2c12b00ac976432"
+    },
+    {
+      "id": "x-pharmacology-075",
+      "status": "revise",
+      "assessment": "Snapshot re-read confirmed current content and metadata. Consistent administration routine is irrelevant filler in a complications question; prompt reporting timing is vague.",
+      "issues": [
+        "Consistent administration routine is irrelevant filler in a complications question; prompt reporting timing is vague."
+      ],
+      "proposedChanges": [
+        "Ask which changes require same-day clinical review. Replace routine-consistency option with mild sleep difficulty after taking a dose late in the day; explain routine timing review versus acute infection/bleeding red flags. Avoid presenting mild adverse effects as never reportable."
+      ],
+      "reviewedItemSha256": "3f0a8d8bfc74b46b67309bf539f69e5b8486ca2a7914e271570e6863eb91c0fd"
+    }
+  ],
+  "rubricUpdate": "Includes user-requested assessment of longest/most-comprehensive key cues, only-reasonable-option bias, parallel option grammar and case-specific reasoning.",
+  "hashRevalidationRequired": false,
+  "hashRevalidationReason": "All 50 items reread from immutable snapshots including finalized objectives and difficulty; missing truncated rows074–076 read separately. Clinical content matched the earlier manual assessments. Author confirmed only metadata changed for051–100.",
+  "activeSourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/b/pharmacology-03.json",
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

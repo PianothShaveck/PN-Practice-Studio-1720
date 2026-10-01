@@ -1,0 +1,601 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:11:17.972407+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/risk-026-050.json",
+  "sourceSha256": "0b48b56d514e038277e6958b7c43ec2e6b2b71eeef292e5b93148dc3c442af31",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-risk-026",
+      "x-risk-027",
+      "x-risk-028",
+      "x-risk-029",
+      "x-risk-030",
+      "x-risk-031",
+      "x-risk-032",
+      "x-risk-033",
+      "x-risk-034",
+      "x-risk-035",
+      "x-risk-036",
+      "x-risk-037",
+      "x-risk-038",
+      "x-risk-039",
+      "x-risk-040",
+      "x-risk-041",
+      "x-risk-042",
+      "x-risk-043",
+      "x-risk-044",
+      "x-risk-045",
+      "x-risk-046",
+      "x-risk-047",
+      "x-risk-048",
+      "x-risk-049",
+      "x-risk-050"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.niddk.nih.gov/health-information/diagnostic-tests/colonoscopy",
+      "checked": true,
+      "ids": [
+        "x-risk-026",
+        "x-risk-027",
+        "x-risk-028"
+      ],
+      "note": "Opened and searched: preparation intolerance requires contact; sedative transport restrictions; fever/severe pain need immediate care. US screening-age content was not imported."
+    },
+    {
+      "url": "https://www.niddk.nih.gov/health-information/diagnostic-tests/upper-gi-endoscopy",
+      "checked": true,
+      "ids": [
+        "x-risk-030"
+      ],
+      "note": "Opened/searched urgent warning section: breathing difficulty and worsening chest/abdominal pain. Item029 swallowing-recovery protocol itself not verified by this page excerpt."
+    },
+    {
+      "url": "https://www.niddk.nih.gov/health-information/diagnostic-tests/kidney-biopsy",
+      "checked": false,
+      "ids": [
+        "x-risk-031",
+        "x-risk-032"
+      ],
+      "note": "Page opened but targeted symptom search did not expose the relevant passages. Core bleeding-risk inference clinically reviewed; no claim of complete external validation."
+    },
+    {
+      "url": "https://www.niddk.nih.gov/health-information/diagnostic-tests/endoscopic-retrograde-cholangiopancreatography",
+      "checked": true,
+      "ids": [
+        "x-risk-034"
+      ],
+      "note": "Opened/found complications and seek-care section: pancreatitis, bleeding/perforation and severe pain/vomiting warrant assessment."
+    },
+    {
+      "url": "https://www.radiologyinfo.org/en/info/safety-mr",
+      "checked": true,
+      "ids": [
+        "x-risk-038"
+      ],
+      "note": "ACR/RSNA page opened and implant section examined: device screening and compatibility precautions before entering the scanner room."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-risk-026",
+      "status": "pass",
+      "assessment": "Repeated vomiting/incomplete prep needs individualized procedural advice. Independent substitution, unreported omission and faster intake are plausible but unsafe completion shortcuts; source explicitly instructs contact for prep intolerance.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "94d03ec5a5ba89af21cf9f56c38d745cbaee43bc57c4b7f8d86480bb5c1effd1"
+    },
+    {
+      "id": "x-risk-027",
+      "status": "revise",
+      "assessment": "The red flags are correct, but offering food is unrelated and routine follow-up is a weak competing response.",
+      "issues": [
+        "The red flags are correct, but offering food is unrelated and routine follow-up is a weak competing response."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Use the routine postprocedure advice for mild gas pain and reassess after rest",
+            "Arrange urgent clinical assessment",
+            "Encourage walking for presumed retained gas only",
+            "Give the prescribed analgesic and antipyretic before deciding whether further assessment is needed"
+          ],
+          "why": [
+            "Worsening pain with fever exceeds expected transient bloating and warrants urgent assessment.",
+            "These findings can indicate a significant procedural complication.",
+            "Fever with worsening pain is not routine gas discomfort.",
+            "Symptom relief must not postpone evaluation of possible perforation or other complication."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "182095632df51c6f7714a7fe4e7d6d53fea3fa8f48bc21e7ac2311617d4fc5b4"
+    },
+    {
+      "id": "x-risk-028",
+      "status": "pass",
+      "assessment": "Perceived alertness, normal BP, walking and caffeine are credible but insufficient proxies for psychomotor recovery. Apply the actual discharge restrictions and safe transport plan.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3303c4a5ba10e66669a748ed414d29dc01417a553a3132ec72426618e69cb254"
+    },
+    {
+      "id": "x-risk-029",
+      "status": "revise",
+      "assessment": "Swallowing/recovery criterion is correct; completion of paperwork is irrelevant to physiological readiness.",
+      "issues": [
+        "Swallowing/recovery criterion is correct; completion of paperwork is irrelevant to physiological readiness."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "The client's report of thirst alone",
+            "Absence of abdominal pain",
+            "A fixed interval after the procedure without checking recovery of throat sensation or swallowing",
+            "Recovery criteria and swallowing safety per protocol"
+          ],
+          "why": [
+            "Thirst does not establish recovery of safe swallowing.",
+            "Abdominal comfort does not assess pharyngeal sensation.",
+            "Elapsed time alone is insufficient; follow protocol recovery criteria and assess swallowing safety.",
+            "Pharyngeal anaesthesia can temporarily impair airway protection."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "38b88366e98144a4ac8f1f4074ccc9e0b03a82c3a805c65d40a22236075aed59"
+    },
+    {
+      "id": "x-risk-030",
+      "status": "pass",
+      "assessment": "Contrasts mild improving expected symptoms with new breathing difficulty or severe persistent pain. The source directly supports the warning signs. No competing answers found.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c549fe3685cabf19380d5839b0280ffa99fd107492eca2eb3ccfde646001d812"
+    },
+    {
+      "id": "x-risk-031",
+      "status": "revise",
+      "assessment": "Current shock-type cues after biopsy support bleeding; meal and next-day options are cartoon distractors. Use clinically plausible cause/response alternatives.",
+      "issues": [
+        "Current shock-type cues after biopsy support bleeding; meal and next-day options are cartoon distractors. Use clinically plausible cause/response alternatives."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Give the prescribed analgesic and repeat vital signs at the routine interval before notifying the team",
+            "Urgently assess and escalate possible bleeding",
+            "Treat the lightheadedness as residual sedation because the biopsy dressing is dry",
+            "Assess whether the client can stand before deciding if the blood-pressure drop is significant"
+          ],
+          "why": [
+            "Analgesia alone risks delaying response to worsening pain with circulatory deterioration.",
+            "The combined findings suggest clinically important haemorrhage.",
+            "A dry dressing does not exclude internal bleeding and the combined trend needs urgent assessment.",
+            "Mobilization is unsafe while possible circulatory compromise is being assessed."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "1a3778969446c2a6f2fb596d5ecf7af573ca405661eabf4eee0530d8b69cf4cd"
+    },
+    {
+      "id": "x-risk-032",
+      "status": "revise",
+      "assessment": "Key is appropriate, but fasting reversing anticoagulation is an implausible mechanism.",
+      "issues": [
+        "Key is appropriate, but fasting reversing anticoagulation is an implausible mechanism."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Notify the procedural team before proceeding",
+            "Record the medicine and proceed because the most recent haemoglobin is normal",
+            "Tell the client to stop it for a week independently",
+            "Add the anticoagulant to the medication list without alerting the procedural team"
+          ],
+          "why": [
+            "Anticoagulant exposure changes bleeding-risk planning.",
+            "Normal haemoglobin does not establish that the anticoagulant-related procedure risk has been addressed.",
+            "Interruption requires a clinician-directed balance of bleeding and clotting risk.",
+            "Updating a list alone may not communicate the time-sensitive bleeding-risk change."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "99de81952a9c44aa09674671a36f34b6b880386d3febdd7d312904fd41595ca7"
+    },
+    {
+      "id": "x-risk-033",
+      "status": "revise",
+      "assessment": "Retention assessment is correct; several litres quickly and every change normal are exaggerated.",
+      "issues": [
+        "Retention assessment is correct; several litres quickly and every change normal are exaggerated."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Use the routine advice for mild burning and wait for symptoms to settle",
+            "Continue encouraging usual fluids without checking bladder distension or output",
+            "Arrange a routine urine culture and defer bladder assessment until the sample is obtained",
+            "Promptly assess and contact the procedural team"
+          ],
+          "why": [
+            "Painful inability to void differs from expected transient irritation.",
+            "The suspected retention/obstruction needs assessment rather than hydration advice alone.",
+            "Inability to void with pain requires timely assessment; inability to provide a sample is part of the concern.",
+            "Painful inability to void may indicate retention or obstruction."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "62ba3271db3d0dad84a92f14d12a6b1e876ca53a9f2c20f4bfeed14b5d708e20"
+    },
+    {
+      "id": "x-risk-034",
+      "status": "revise",
+      "assessment": "ERCP severe persistent pain/vomiting is a useful pattern, but large meal and fasting-only assumptions make the key obvious.",
+      "issues": [
+        "ERCP severe persistent pain/vomiting is a useful pattern, but large meal and fasting-only assumptions make the key obvious."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Give the prescribed antiemetic and assess only whether the vomiting stops",
+            "Discharge because the procedure report was normal",
+            "Escalate for assessment of a complication",
+            "Apply routine advice for transient post-endoscopy bloating without reviewing the pain pattern"
+          ],
+          "why": [
+            "The severe persistent abdominal pain also needs prompt complication assessment.",
+            "A normal procedural report does not exclude later complications.",
+            "Pancreatitis and other complications require prompt evaluation.",
+            "Severe persistent pain with vomiting is beyond expected mild transient bloating."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "3766341e24c9146df6552b53583b3f03e8c7095e79521d991169ed945c192e1a"
+    },
+    {
+      "id": "x-risk-035",
+      "status": "revise",
+      "assessment": "Vital trends/internal bleeding assessment are appropriate; eating ability is unrelated to the priority.",
+      "issues": [
+        "Vital trends/internal bleeding assessment are appropriate; eating ability is unrelated to the priority."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Assess only the puncture-site dressing and pain at its surface",
+            "Vital signs and their change from baseline",
+            "Abdominal discomfort and evidence of bleeding",
+            "Only whether the dressing remains dry"
+          ],
+          "why": [
+            "A local surface check alone can miss internal bleeding and impaired perfusion.",
+            "A trend can reveal impaired perfusion after biopsy.",
+            "These findings help assess a procedural bleeding complication.",
+            "A dry surface dressing does not exclude internal bleeding."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "904458931c500c4b54361a8d60ef8b5b8f63fd3b83ee51c91e5f35e052096f73"
+    },
+    {
+      "id": "x-risk-036",
+      "status": "pass",
+      "assessment": "Actual prior wheeze/facial swelling with contrast is the important exposure history; seafood labelling, spontaneous resolution and unauthorized self-premedication do not resolve risk. No regimen is prescribed independently.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7562ffcac96e0172bea30598614baee16f1e88578d6d4c6c59a40a604d35524a"
+    },
+    {
+      "id": "x-risk-037",
+      "status": "revise",
+      "assessment": "New renal decline should be communicated, but cancelling all future imaging is implausibly absolute.",
+      "issues": [
+        "New renal decline should be communicated, but cancelling all future imaging is implausibly absolute."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Assume last month's creatinine remains sufficient",
+            "Use an old normal result because the contrast order has already been signed",
+            "Start extra hydration without reviewing the prescribed fluid restriction",
+            "Communicate the change to the imaging team"
+          ],
+          "why": [
+            "An acute change makes the older result less relevant.",
+            "The imaging team must know about a new renal change before weighing current risks and benefits.",
+            "Hydration decisions must be individualized to current kidney and cardiac/fluid status.",
+            "Current renal status may alter imaging and hydration decisions."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "bcaf13548774e098dbbfe960d468f56839e85398fddbe9a05d585243e47878d1"
+    },
+    {
+      "id": "x-risk-038",
+      "status": "pass",
+      "assessment": "Unknown implant identity is a concrete MRI stop-and-verify issue; recent manufacture, absent magnet symptoms and removing jewellery cannot establish conditions. ACR/RSNA source supports screening before exposure.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "67991855061dfaea261659e072a52e89b2efb38dcb2a88a1548b6f0abe147ba1"
+    },
+    {
+      "id": "x-risk-039",
+      "status": "revise",
+      "assessment": "Early support planning is right; another person’s sedative is an obviously unsafe non-option.",
+      "issues": [
+        "Early support planning is right; another person’s sedative is an obviously unsafe non-option."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Promise the scan will be brief without checking",
+            "Notify the team early and plan support",
+            "Wait until the scan begins to discuss it",
+            "Arrange a sedative for the morning of the scan without checking radiology instructions, monitoring or transport"
+          ],
+          "why": [
+            "Inaccurate reassurance can undermine informed preparation.",
+            "Preparation allows individualized strategies or ordered medication planning.",
+            "Late disclosure limits preparation options.",
+            "Medication support needs coordinated authorization and a safe procedural/recovery plan."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "e71f4d8857a07266cce51087825f9b0a0bda904d167c0bd75f42d0eda3e2f319"
+    },
+    {
+      "id": "x-risk-040",
+      "status": "revise",
+      "assessment": "Pregnancy screening/communication is right; no nausea and permanent cancellation are unrealistic contrasts.",
+      "issues": [
+        "Pregnancy screening/communication is right; no nausea and permanent cancellation are unrealistic contrasts."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Follow screening policy and notify the imaging team",
+            "Use a previous negative pregnancy test as clearance without checking timing or current history",
+            "Automatically defer every radiographic examination until after delivery",
+            "Proceed without communicating because exposure is brief"
+          ],
+          "why": [
+            "Pregnancy status may affect imaging decisions and preparation.",
+            "A past result may not reflect current pregnancy possibility; apply the current screening policy.",
+            "Necessary imaging requires an individualized clinical risk-benefit decision, not universal deferral.",
+            "The team needs relevant pregnancy information regardless of duration."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "e6f801bb63c4439cc4432da6495cdf5f2bfd939ef3e91e99c4b5dc9f91564b56"
+    },
+    {
+      "id": "x-risk-041",
+      "status": "revise",
+      "assessment": "Order-conflict clarification is correct; another client’s instructions are unrelated to this client’s authorized plan.",
+      "issues": [
+        "Order-conflict clarification is correct; another client’s instructions are unrelated to this client’s authorized plan."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Choose whichever instruction is newest without checking",
+            "Apply a universal midnight-fast rule",
+            "Ask a colleague to choose the fasting rule they usually use for that procedure",
+            "Clarify with the procedural team before intake"
+          ],
+          "why": [
+            "The new order may not account for the planned procedure.",
+            "Fasting requirements vary by procedure and anaesthetic plan.",
+            "Habit does not resolve the specific contradictory instructions; clarify with the responsible team.",
+            "Procedure-specific fasting requirements need a consistent plan."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "4ff0edb37b4a9562100d07d38706cb488c6d06925bdad8325b344c487255f55b"
+    },
+    {
+      "id": "x-risk-042",
+      "status": "revise",
+      "assessment": "Accessible cues are important, but shouting from behind and removing every aid are conspicuous errors.",
+      "issues": [
+        "Accessible cues are important, but shouting from behind and removing every aid are conspicuous errors."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Give louder verbal instructions without checking whether the client can distinguish them",
+            "Explain the instructions only after sedation",
+            "Agree on accessible cues before starting",
+            "Remove a hearing aid needed for the procedure without agreeing on an alternative cue"
+          ],
+          "why": [
+            "Volume alone does not establish reliable communication for time-sensitive breath cues.",
+            "Sedation may reduce comprehension and recall.",
+            "Reliable communication supports cooperation during time-sensitive instructions.",
+            "If an aid must be removed, an accessible alternative must be established before starting."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "94163312fc91fea7847bdd4a4dd04c3d8e4800b566b7b77ecd4a5c768762758b"
+    },
+    {
+      "id": "x-risk-043",
+      "status": "pass",
+      "assessment": "Documenting a known chronic asymmetry and current neurological baseline enables interpretation after sedation. This is a specific preprocedure safety purpose; no automatic cancellation rule is imposed.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3a9e14225a636f6f023c837357b5fe08964cde2d620c847e5d3298b767a0d478"
+    },
+    {
+      "id": "x-risk-044",
+      "status": "pass",
+      "assessment": "A previous blistering antiseptic reaction needs clarification and team planning before exposure. Less product, improvised barrier cream or absent current rash do not establish tolerance.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7fd807678ab5115e9e3470134fa282a6bcd30d4c6f655117bf25499c1bbaea6a"
+    },
+    {
+      "id": "x-risk-045",
+      "status": "revise",
+      "assessment": "Difficulty staying awake warrants immediate respiratory/alertness assessment, not merely generic continued monitoring. Food and fictional recovery documentation are weak distractors.",
+      "issues": [
+        "Difficulty staying awake warrants immediate respiratory/alertness assessment, not merely generic continued monitoring. Food and fictional recovery documentation are weak distractors."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Discharge if a relative promises close observation",
+            "Allow extra sleep without checking respiratory depth, rate or responsiveness",
+            "Use the elapsed recovery time as the main criterion because the procedure was uncomplicated",
+            "Assess airway, breathing and responsiveness, continue monitoring and urgently escalate unmet recovery criteria"
+          ],
+          "why": [
+            "Home supervision does not replace adequate immediate recovery.",
+            "Persistent sedation can impair ventilation and requires active assessment.",
+            "The client’s current recovery and physiological state determine readiness.",
+            "Persistent difficulty arousing can indicate significant sedation effects; immediate assessment and appropriate help take priority over discharge timing."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "376b3b71a8cb527ae823b902dfc6b85153941d3a19da4aef43cc04bd021c1e71"
+    },
+    {
+      "id": "x-risk-046",
+      "status": "revise",
+      "assessment": "Increasing bleeding plus dyspnoea is the discriminating cue; thirst and discharge scheduling are irrelevant options.",
+      "issues": [
+        "Increasing bleeding plus dyspnoea is the discriminating cue; thirst and discharge scheduling are irrelevant options."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "A single small blood streak immediately after airway instrumentation",
+            "A mild sore throat that improves while the client rests",
+            "Increasing bleeding with respiratory symptoms",
+            "The mere presence of any cough"
+          ],
+          "why": [
+            "A small isolated streak can occur, unlike progressive bleeding with dyspnoea.",
+            "Improving local irritation is less concerning than new progressive bleeding and respiratory symptoms.",
+            "The new pattern suggests a complication needing urgent assessment.",
+            "Some coughing can occur after airway instrumentation."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "c2e8997c1c2612fb6e0c11b0348b891cd9b1a44bdf84754cf827d5b2eb26ff56"
+    },
+    {
+      "id": "x-risk-047",
+      "status": "revise",
+      "assessment": "Positional post-lumbar-puncture headache pattern is meaningful; disbelief and immediate prolonged walking are poor distractors.",
+      "issues": [
+        "Positional post-lumbar-puncture headache pattern is meaningful; disbelief and immediate prolonged walking are poor distractors."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Treat the symptoms as dehydration without reporting their relation to posture and the procedure",
+            "Assess and report the positional pattern",
+            "Diagnose migraine without further assessment",
+            "Document only the pain score while the client is lying comfortably"
+          ],
+          "why": [
+            "A clear postural/procedural pattern needs assessment and communication rather than assumption.",
+            "The pattern helps identify a postprocedural headache and guide treatment.",
+            "The temporal and positional features require procedure-related evaluation.",
+            "The positional change is essential information and should not be omitted because resting pain improves."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "db698943bb40188aa1411a34035f0438b6f9709baac596aa8f56d0702efdcaa6"
+    },
+    {
+      "id": "x-risk-048",
+      "status": "revise",
+      "assessment": "The unilateral post-thoracentesis respiratory change is useful, but meal/recheck is unrelated filler.",
+      "issues": [
+        "The unilateral post-thoracentesis respiratory change is useful, but meal/recheck is unrelated filler."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Activate urgent assessment for a respiratory complication",
+            "Encourage repeated forceful coughing first",
+            "Attribute symptoms to anxiety without examination",
+            "Arrange a routine chest radiograph and wait for the result before escalating the new symptoms"
+          ],
+          "why": [
+            "The findings may indicate pneumothorax or another complication.",
+            "This delays assessment of new respiratory compromise.",
+            "Unilateral findings require clinical investigation.",
+            "Imaging may be required, but active respiratory deterioration needs urgent assessment/support while it is arranged."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "35d9cf6a13324a99dc4dd862b965d5dc87589da2cbec2d950362a48626d7076f"
+    },
+    {
+      "id": "x-risk-049",
+      "status": "revise",
+      "assessment": "Written reinforcement with support is correct; faster instruction and exhaustive memorization are implausible. Include the agreed support person and teach-back.",
+      "issues": [
+        "Written reinforcement with support is correct; faster instruction and exhaustive memorization are implausible. Include the agreed support person and teach-back."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Repeat all verbal instructions once and discharge without checking what was understood",
+            "Rely on the signed discharge sheet",
+            "Ask the client to initial each warning on the sheet as the only understanding check",
+            "Review accessible written warnings with the client and designated support person, checking the action plan"
+          ],
+          "why": [
+            "Repetition alone does not address sedation-related recall impairment.",
+            "A signature does not demonstrate retained understanding.",
+            "Initials do not demonstrate retained understanding or an actionable follow-up plan.",
+            "Sedation may impair recall; agreed support and teach-back help reinforce essential actions while respecting consent."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "e5d36da9b9c4b56d6d30b0ffd827308ab70ed52c767501d15d34d64606eac5c6"
+    },
+    {
+      "id": "x-risk-050",
+      "status": "revise",
+      "assessment": "Recovery handover content is correct; routine meal choice is unrelated filler and the positives dominate by clinical relevance.",
+      "issues": [
+        "Recovery handover content is correct; routine meal choice is unrelated filler and the positives dominate by clinical relevance."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Only the procedure name and the planned discharge time",
+            "The admission observations without the postprocedure changes",
+            "Procedure-specific restrictions and monitoring orders",
+            "Sedation given and the last observations"
+          ],
+          "why": [
+            "These omit current recovery status and monitoring/restriction requirements.",
+            "Preprocedure values alone do not establish current sedation exposure or recovery trends.",
+            "These direct safe immediate recovery care.",
+            "These establish exposure and recovery trends."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "fb01a9ff423e638a90834b9a727ee0c2beb14d93bc671a2873714d62ee2c0aac"
+    }
+  ],
+  "scopeNote": "Clinical recognition is not a complete procedural protocol. All modified items need independent post-revision review; unlisted procedural details were not exhaustively source-checked.",
+  "reviewerTask": "/root/review_legacy"
+}

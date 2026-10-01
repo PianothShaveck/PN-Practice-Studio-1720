@@ -1,0 +1,517 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:04:15.265906+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/d/health-026.json",
+  "sourceSha256": "e7071d39b83f2103041ec34e4aa273294e100a26b31483986de47b4a1a5737f5",
+  "coverage": {
+    "sourceItems": 45,
+    "reviewedItems": 45,
+    "reviewedIds": [
+      "x-health-026",
+      "x-health-027",
+      "x-health-028",
+      "x-health-029",
+      "x-health-030",
+      "x-health-031",
+      "x-health-032",
+      "x-health-033",
+      "x-health-034",
+      "x-health-035",
+      "x-health-036",
+      "x-health-037",
+      "x-health-038",
+      "x-health-039",
+      "x-health-040",
+      "x-health-041",
+      "x-health-042",
+      "x-health-043",
+      "x-health-044",
+      "x-health-045",
+      "x-health-046",
+      "x-health-047",
+      "x-health-048",
+      "x-health-049",
+      "x-health-050",
+      "x-health-051",
+      "x-health-052",
+      "x-health-053",
+      "x-health-054",
+      "x-health-055",
+      "x-health-056",
+      "x-health-057",
+      "x-health-058",
+      "x-health-059",
+      "x-health-060",
+      "x-health-061",
+      "x-health-062",
+      "x-health-063",
+      "x-health-064",
+      "x-health-065",
+      "x-health-066",
+      "x-health-067",
+      "x-health-068",
+      "x-health-069",
+      "x-health-070"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.canada.ca/en/health-canada/services/canada-food-guide/resources/nutrition-healthy-term-infants/nutrition-healthy-term-infants-recommendations-birth-six-months/6-24-months.html",
+      "authority": "Health Canada with Canadian Paediatric Society and partner organizations",
+      "supports": [
+        "026 iron-rich complementary foods around six months",
+        "027 progressive texture and feeding skills",
+        "028 no honey under one year"
+      ],
+      "scope": "Specific infant-feeding claims; not validation of every item."
+    },
+    {
+      "url": "https://caringforkids.cps.ca/handouts/behavior-and-development/read_speak_sing_to_your_baby",
+      "authority": "Canadian Paediatric Society",
+      "supports": [
+        "032 responsive interaction and ability to learn more than one language"
+      ],
+      "scope": "Supports key and proposed language-restriction correction."
+    },
+    {
+      "url": "https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-2-vaccine-safety/page-3-contraindications-precautions-concerns.html",
+      "authority": "Public Health Agency of Canada",
+      "supports": [
+        "065 pre-vaccine reaction/current-health assessment",
+        "066 mild illness generally not contraindication",
+        "068 localized soreness distinct from anaphylaxis"
+      ],
+      "scope": "Vaccine-specific exceptions exist, including antibiotics with oral typhoid and nasal congestion affecting live intranasal delivery; revised065 should specify an injected non-live vaccine."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-health-026",
+      "status": "pass",
+      "assessment": "Developmental readiness and six-month timing support iron-rich complementary food alongside milk, not nutritionally weak replacement feeds.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d923e157520d08d23a54055fdc360a25bb5d9a6ee255bc0a5606e4ebdc6f6164"
+    },
+    {
+      "id": "x-health-027",
+      "status": "pass",
+      "assessment": "Comfort with mashed texture supports supervised soft finger-food progression without waiting for molars or perfect utensil skill.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "76d6caffe1716af45aa10d65c355f9395eb6a453955095a8b359cb8596f6d014"
+    },
+    {
+      "id": "x-health-028",
+      "status": "revise",
+      "assessment": "Avoiding honey before12months is correct; cereal thickening is a weak distractor unrelated to spores.",
+      "issues": [
+        "Avoiding honey before12months is correct; cereal thickening is a weak distractor unrelated to spores."
+      ],
+      "proposedChanges": [
+        "Replace option2 with: Heat the honey at home before adding it. Explain that routine domestic heating does not reliably remove botulism spores; attach primary infant-feeding guidance."
+      ],
+      "reviewedItemSha256": "fbda7c29990052a5f4512b68d39773ddc1bdd273ae6870dc0e7093c0520c703b"
+    },
+    {
+      "id": "x-health-029",
+      "status": "pass",
+      "assessment": "Upright supervised stable feeding addresses movement-associated risk; texture/portion changes alone do not.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "271b72bb2ab0407f1421cb925cf829de77e0ca0e9849348b087eb8816653c952"
+    },
+    {
+      "id": "x-health-030",
+      "status": "pass",
+      "assessment": "Turning away, closed mouth and satisfied relaxation support pause/stop; rooting supports interest. Foundation classification is appropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "aedf1a673bb486c4da3490f3ea0fc70f7a57d5e8543a9168c6d7a1bd7f4eef40"
+    },
+    {
+      "id": "x-health-031",
+      "status": "pass",
+      "assessment": "Safe crib placement and short calming break directly address expressed escalating anger; safe surface matters.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9115afca00040381910a45d282f2d36fa804304e97ad9335c2b6d4aa874ff1ee"
+    },
+    {
+      "id": "x-health-032",
+      "status": "revise",
+      "assessment": "Responsive family-language key is sound; restricting conversation to the nurses language is an artificial distractor.",
+      "issues": [
+        "Responsive family-language key is sound; restricting conversation to the nurses language is an artificial distractor."
+      ],
+      "proposedChanges": [
+        "Replace option1 with: Use only one family language until first words develop. Explain that responsive multilingual interaction need not be restricted solely because more than one language is used."
+      ],
+      "reviewedItemSha256": "8fe6f965b313792fbbfa8a4a90f031c04a49191ce8af6b331af6c2049daab9d1"
+    },
+    {
+      "id": "x-health-033",
+      "status": "revise",
+      "assessment": "Hearing/development assessment is sound; more background music is an implausible response.",
+      "issues": [
+        "Hearing/development assessment is sound; more background music is an implausible response."
+      ],
+      "proposedChanges": [
+        "Replace option1 with: Speak more loudly and defer assessment while waiting for first words. Explain that altered speaking volume does not establish hearing ability and may delay early support."
+      ],
+      "reviewedItemSha256": "1a251d3627ec9b8f03bded6e44a5e12e99a60ba2474ea0490bdadea4f800759b"
+    },
+    {
+      "id": "x-health-034",
+      "status": "revise",
+      "assessment": "Loss of established skills warrants prompt review; a language app then review next year is excessively delayed filler.",
+      "issues": [
+        "Loss of established skills warrants prompt review; a language app then review next year is excessively delayed filler."
+      ],
+      "proposedChanges": [
+        "Replace option0 with: Ask the family to practise words for a month before arranging assessment. Explain that home practice can accompany, but should not postpone, evaluation of regression."
+      ],
+      "reviewedItemSha256": "c88998a345754ebcd0955ca7684bf9331330f5ce65a9b5218fdc427eb1f917b7"
+    },
+    {
+      "id": "x-health-035",
+      "status": "pass",
+      "assessment": "Trajectory, technique and feeding/health context appropriately interpret unexpected weight; sibling weight is a recognizable comparison error.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fdf0958561f81bba04417f8a36d96baca3a9c4684fddce553df12fefa8452120"
+    },
+    {
+      "id": "x-health-036",
+      "status": "pass",
+      "assessment": "Corrected age and progress contextualize preterm development; cousin comparison and hospital duration are insufficient.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f4802847cfb18d11caadf068b558cdefdbcaadd42bca0f769afffb7ead697364"
+    },
+    {
+      "id": "x-health-037",
+      "status": "pass",
+      "assessment": "Caregiver-held gradual approach fits nonurgent assessment and age-typical stranger distress; no claim that distress proves disorder.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6eea2fba26fb7b3acd23bbba5f2eef9723baa5a8c25b6882624629a5a62ad7a3"
+    },
+    {
+      "id": "x-health-038",
+      "status": "pass",
+      "assessment": "Painless chalky tooth change warrants early dental review; excessive brushing pressure or waiting for permanent teeth is inappropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1bf5c47db53e521017443cf3a51e8e458979056a2181e748e56728f79959734f"
+    },
+    {
+      "id": "x-health-039",
+      "status": "pass",
+      "assessment": "Practice followed by adult assistance balances skill development with effective cleaning of missed surfaces.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ec401f718b466eab171ea2735525b08a81340729e5209c68954c82d0a7f1ce3c"
+    },
+    {
+      "id": "x-health-040",
+      "status": "pass",
+      "assessment": "Regular nutritious choices with child appetite-based amount form responsive toddler structure; clean-plate coercion does not.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9b8db563e2e25743c21f387e90b57abc53db63a12fbdc0df34a3a939839e8591"
+    },
+    {
+      "id": "x-health-041",
+      "status": "pass",
+      "assessment": "Strong resistance and absent signalling support readiness-based pause rather than forced sitting/fluid restriction.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "87c12e0aa784f58dd58706f300ffcb2f099cd69e777919644d5496ebbd999ccc"
+    },
+    {
+      "id": "x-health-042",
+      "status": "pass",
+      "assessment": "Two acceptable shirts provide bounded autonomy within necessary routine; broad yes/no task choice is a meaningful contrast.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "618f7d27f6162316ab58a7c38f43884f04f9e374c6d8e2f5e1e1087eedd13056"
+    },
+    {
+      "id": "x-health-043",
+      "status": "revise",
+      "assessment": "Correct preparation is defensible, but starting explanations weeks ahead is temporally impossible for a draw scheduled later today.",
+      "issues": [
+        "Correct preparation is defensible, but starting explanations weeks ahead is temporally impossible for a draw scheduled later today."
+      ],
+      "proposedChanges": [
+        "Replace option1 with: Use a detailed diagram of the circulation to explain the blood tests. Replace option2 with: Repeat the full procedure explanation throughout the day until the child can recite each step. Explain developmentally concrete, brief, near-term preparation."
+      ],
+      "reviewedItemSha256": "4025ae810f83e63ff901b5a9b36e75a05576387b6f6709bca40a05ee288cf260"
+    },
+    {
+      "id": "x-health-044",
+      "status": "revise",
+      "assessment": "Key correctly addresses magical thinking, but all alternatives endorse blame or causation unrealistically.",
+      "issues": [
+        "Key correctly addresses magical thinking, but all alternatives endorse blame or causation unrealistically."
+      ],
+      "proposedChanges": [
+        "Use distractors: Tell the child angry feelings are normal, then change the subject; Explain the disease mechanism using detailed medical terms; Invite the child to help care for the brother as a way to make amends. Explain why these fail to directly correct false causation or reinforce guilt."
+      ],
+      "reviewedItemSha256": "20b8aa266acce0969eb95083f78c2fa62706d0591a804dddf6eff883af435f81"
+    },
+    {
+      "id": "x-health-045",
+      "status": "pass",
+      "assessment": "Concrete cause/effect, supervised practice and shared manageable tasks support school-age self-care without sole refill responsibility.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3aea54bc174273b7a09bd08efa608468b24bdf363bd4c6158ea714bed7874f94"
+    },
+    {
+      "id": "x-health-046",
+      "status": "revise",
+      "assessment": "All wrong options are extreme/irrelevant (permanent school removal, withheld rewards, supplements only).",
+      "issues": [
+        "All wrong options are extreme/irrelevant (permanent school removal, withheld rewards, supplements only)."
+      ],
+      "proposedChanges": [
+        "Replace alternatives with: Review breakfast foods as the only focus; Start an attendance-reward plan before hearing the child perspective; Ask the parent about school while excluding the child account. Explain that contextual child-centred assessment follows reassuring initial review while remaining open to clinical changes."
+      ],
+      "reviewedItemSha256": "0f39a088793535a5c281e962b2065e46e73e42a1e0ffeb5409a37833a9b3215b"
+    },
+    {
+      "id": "x-health-047",
+      "status": "revise",
+      "assessment": "Routine screen-free intervention is sound; screen size is irrelevant filler.",
+      "issues": [
+        "Routine screen-free intervention is sound; screen size is irrelevant filler."
+      ],
+      "proposedChanges": [
+        "Replace option3 with: Move the device to the living room while keeping the same meal and bedtime viewing schedule. Explain that location alone does not address displacement at those routines."
+      ],
+      "reviewedItemSha256": "725c2b2f7395bc2bec5a3d47269fea3eba36feb69e79a378a626b72404c73043"
+    },
+    {
+      "id": "x-health-048",
+      "status": "pass",
+      "assessment": "Free enjoyable movement addresses cost barrier without equating activity with competitive organized sport.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3e5bc2f6420799e912f4c797d9bfc51aad94ad07a10fa04e1bfa9bb391e15481"
+    },
+    {
+      "id": "x-health-049",
+      "status": "pass",
+      "assessment": "Nonstigmatizing growth/routine assessment addresses distress while avoiding unassessed rapid restriction or appearance-based goals.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3e00398ff2ac1267399f3f92f9615f1b3a51ca6037def9eca3048a72c41050ea"
+    },
+    {
+      "id": "x-health-050",
+      "status": "pass",
+      "assessment": "Private puberty guidance about variation, practical questions and trusted resources is defensible; classmates alone do not set an individual standard.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "12560a39bd067331d910014f44a6eac949aa89cb25e161ec617f255c2c7224fc"
+    },
+    {
+      "id": "x-health-051",
+      "status": "revise",
+      "assessment": "Private opportunity and confidentiality limits are appropriate; parent guessing answers is implausible nursing practice.",
+      "issues": [
+        "Private opportunity and confidentiality limits are appropriate; parent guessing answers is implausible nursing practice."
+      ],
+      "proposedChanges": [
+        "Replace option2 with: Ask the teenager and parent to complete the sensitive-topic questionnaire together. Explain that a jointly completed form does not provide a confidential opportunity to speak."
+      ],
+      "reviewedItemSha256": "b120977449ce274c5957b9391377dfc48655e5ab0dfd5b37c808163fe04d4736"
+    },
+    {
+      "id": "x-health-052",
+      "status": "pass",
+      "assessment": "Practices/protection assessment avoids identity-based risk assumption and supports individualized prevention.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "40e33877a88d87c7b61478b9d1937e5b368f20584c9bc35d65b7b4968aecccf7"
+    },
+    {
+      "id": "x-health-053",
+      "status": "pass",
+      "assessment": "Asymptomatic infection possibility supports exposure/guidance-based screening without equating pregnancy prevention with STI testing.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8a9e4d6f60bba17a489d58455b5f0d86913b0fb04491fd3fe408a7745cb5abab"
+    },
+    {
+      "id": "x-health-054",
+      "status": "revise",
+      "assessment": "Separate pregnancy/infection prevention key is sound; stopping contraception before discussing risk is unrelated filler.",
+      "issues": [
+        "Separate pregnancy/infection prevention key is sound; stopping contraception before discussing risk is unrelated filler."
+      ],
+      "proposedChanges": [
+        "Replace option2 with: Delay condom discussion until the next device replacement visit. Explain that current new exposure warrants prevention discussion now, independent of device schedule."
+      ],
+      "reviewedItemSha256": "9a11fdd17206bbe22186ec4ff3916909baffe8699582a950d7138a7d2700982b"
+    },
+    {
+      "id": "x-health-055",
+      "status": "pass",
+      "assessment": "Supported condition explanation, booking and refill planning build gradual transition rather than abrupt task transfer.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c1d426c072a4ab110901f9afd9797877725b2c20a88dd88ad37359da26bd6271"
+    },
+    {
+      "id": "x-health-056",
+      "status": "pass",
+      "assessment": "Heavy bleeding with fatigue and school impairment warrants severity/anemia review beyond normalizing adolescent variability.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2f35c0cbcbeb8f6b67d22b94271c9d4373f97a55afe3969e8eefe056a8f2e2d3"
+    },
+    {
+      "id": "x-health-057",
+      "status": "revise",
+      "assessment": "Energy/overall-health assessment is correct; more training and race-results tracking are implausible clinical alternatives.",
+      "issues": [
+        "Energy/overall-health assessment is correct; more training and race-results tracking are implausible clinical alternatives."
+      ],
+      "proposedChanges": [
+        "Replace option0 with: Prioritize calcium supplementation without reviewing total energy intake. Replace option3 with: Discuss medication to produce regular bleeding before evaluating the change. Explain that these can miss underlying low energy availability and broader differential assessment."
+      ],
+      "reviewedItemSha256": "feead306961f94e0084764bea6c2025da83a379e63e591f08a9b659239ac638d"
+    },
+    {
+      "id": "x-health-058",
+      "status": "pass",
+      "assessment": "Dependence and stress-function exploration with cessation support responds to nicotine use without presenting smoking comparison as permission to start vaping.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "30e7062b6c70592580c959c4317ffd10a5fa26f818651de75429b670afd6128d"
+    },
+    {
+      "id": "x-health-059",
+      "status": "pass",
+      "assessment": "Base-tan misconception is appropriately corrected with multiple ultraviolet protection strategies.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "67e1d9d8878bcb2eec86ee8d9701cb9a18e23d55232d1d42d1e2cb6ac8e7a8dd"
+    },
+    {
+      "id": "x-health-060",
+      "status": "pass",
+      "assessment": "Consistent wake time, reduced bedtime stimulation and wind-down support sleep; energy drinks do not replace lost sleep.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9139ce5f4d79d03937e9e517080a67eb2daf841f7a265e5b08f04152ef366d81"
+    },
+    {
+      "id": "x-health-061",
+      "status": "pass",
+      "assessment": "Screening versus diagnosis distinction is correct; absence of symptoms cannot prove abnormal result false. Mainly foundation-level knowledge.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fcd9fa4682911e1e1111d4d25074edd933beb0c5ce1a0366a1f6b67709e4b28a"
+    },
+    {
+      "id": "x-health-062",
+      "status": "pass",
+      "assessment": "New persistent rectal bleeding requires symptom assessment independent of prior routine screening interval.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6f83d9e9f79ea32b14f8070fed1619bcdaf665c6a4dfcd3dfd0c4c0916dd9d78"
+    },
+    {
+      "id": "x-health-063",
+      "status": "pass",
+      "assessment": "Early cancer pattern in close relatives merits individualized risk assessment rather than automatic average-risk age rules or unselected markers.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "62046a34630df5cd51bf83969613903ebe149597b20210afb8dd9db87a357dde"
+    },
+    {
+      "id": "x-health-064",
+      "status": "pass",
+      "assessment": "Benefits, harms, follow-up and values support informed screening choice; selective fear/benefit framing does not.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c2bd598884a08903fa01c9be5f21e1f891ba8db659be979bc450a4eb913e68f9"
+    },
+    {
+      "id": "x-health-065",
+      "status": "revise",
+      "assessment": "Clinically correct but repeats predictable three-good/one-obvious-bad SATA pattern and booked-dose/age-only option is very weak.",
+      "issues": [
+        "Clinically correct but repeats predictable three-good/one-obvious-bad SATA pattern and booked-dose/age-only option is very weak."
+      ],
+      "proposedChanges": [
+        "Recast as findings needing clarification before vaccination, with two positive answers among five: prior anaphylaxis to same product and currently significant febrile illness; nonkeys may be brief prior local soreness, mild afebrile rhinorrhea, antibiotic use alone without relevant illness. Verify vaccine-specific details and keep wording assessment-focused rather than declaring universal contraindications."
+      ],
+      "reviewedItemSha256": "6a541754893da02f84b865081d1fc174a8303ea704318fdbeb95b71c4f6a4f91"
+    },
+    {
+      "id": "x-health-066",
+      "status": "pass",
+      "assessment": "Mild afebrile rhinitis alone generally does not defer vaccination; current vaccine-specific assessment avoids overgeneralization.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d7953146fa4cfb1cf831f56ee876f429b8be06d34850ab5908af9bc5bfc34f67"
+    },
+    {
+      "id": "x-health-067",
+      "status": "pass",
+      "assessment": "Available records and individualized catch-up assessment avoid indefinite delay or unselected restart assumptions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "bd6c2f00b3ff1363e7bfcb3d6ddc7bf49e02dd3c39c41dbd06bada975a42839c"
+    },
+    {
+      "id": "x-health-068",
+      "status": "revise",
+      "assessment": "Clarifying local soreness versus severe allergy is sound; leftover antibiotics before vaccines is cartoon unsafe.",
+      "issues": [
+        "Clarifying local soreness versus severe allergy is sound; leftover antibiotics before vaccines is cartoon unsafe."
+      ],
+      "proposedChanges": [
+        "Replace option3 with: Premedicate with an antihistamine before every future vaccine without further assessment. Explain that routine premedication does not establish a true allergy or replace reaction-specific assessment."
+      ],
+      "reviewedItemSha256": "0a026c776d1e49e0e6b7e973e95eefa3e202659ece8601150ac1eec2292350b6"
+    },
+    {
+      "id": "x-health-069",
+      "status": "revise",
+      "assessment": "Early itinerary/chronic-medication review is sound; tourism rating and antibiotics for every possible illness are filler.",
+      "issues": [
+        "Early itinerary/chronic-medication review is sound; tourism rating and antibiotics for every possible illness are filler."
+      ],
+      "proposedChanges": [
+        "Replace option1 with: Focus only on travel vaccines without reviewing chronic medication supply. Replace option2 with: Base advice on the destination country alone without itinerary or accommodation details. Explain that individual health, routes, activities and practical medication planning influence preparation."
+      ],
+      "reviewedItemSha256": "1bc8e15a9a152056d2235c93c44a7a3b02130e35f4d5f07588bd63acdd4cbabb"
+    },
+    {
+      "id": "x-health-070",
+      "status": "pass",
+      "assessment": "Age/dose history, conditions and exposure risks inform adult vaccination; a single childhood dose is not evidence of complete protection.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "eb54ac206359a5d10810a2fc28dd449b3b884e425eb07d6794bb963536b1930d"
+    }
+  ],
+  "batchNote": "SATA items occur every fifth ID and almost all have exactly first three choices keyed with one obvious nonkey. Vary context, option count, correct count and position across future batches; current editorial passes are not psychometric validation. Final source registry still needs item-specific claims distinguished from general reading.",
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

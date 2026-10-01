@@ -1,0 +1,54 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T18:16:43.455283+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/b-pharmacology-final3.json",
+  "sourceSha256": "8a76636b930f309cee7c2879e57dc4f60e488fb3396899bdbfe733f88ad4090d",
+  "coverage": {
+    "sourceItems": 3,
+    "reviewedItems": 3,
+    "reviewedIds": [
+      "x-pharmacology-151",
+      "x-pharmacology-171",
+      "x-pharmacology-187"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-pharmacology-151",
+      "status": "pass",
+      "assessment": "The revised antipyretic-and-restart proposal is a distinct unsafe reaction-management error, resolving ambiguity about appropriate adjunctive antipyresis. Chills, fever and back pain still require stopping exposure and the reaction pathway.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3b7bc9f59b65c2acbfa955035a60c385647475153a4814a9b9f12ed30c7e204f"
+    },
+    {
+      "id": "x-pharmacology-171",
+      "status": "pass",
+      "assessment": "The priority systemic-toxicity question now distinguishes exposure interruption/resuscitation readiness from ancillary glucose assessment or anxiety support; no unmentioned nausea is introduced.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "652741a2f6844827ea701b4562607a650a909b52fae2aefabb331b54f2888f4d"
+    },
+    {
+      "id": "x-pharmacology-187",
+      "status": "pass",
+      "assessment": "Parallel current-infection, future-acquisition, BCG-protection and baseline-purpose interpretations give credible screening misconceptions. The asymptomatic latent-reactivation explanation is defensible, with foundation metadata.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "682e0a8ee068dec24e883aba9448354b81df74242867f14b9455ff02ea0f614b"
+    }
+  ],
+  "activeSourceFile": "authoring/b/questions.json",
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

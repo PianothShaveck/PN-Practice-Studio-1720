@@ -1,0 +1,359 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:47:36.037472+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/b-adaptation-04.json",
+  "sourceSha256": "1a5abef11d3ef9b44e29e3c5dd7b9d0f683f4ffb1eb979c5ea9ef2ee88528793",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-adaptation-076",
+      "x-adaptation-077",
+      "x-adaptation-078",
+      "x-adaptation-079",
+      "x-adaptation-080",
+      "x-adaptation-081",
+      "x-adaptation-082",
+      "x-adaptation-083",
+      "x-adaptation-084",
+      "x-adaptation-085",
+      "x-adaptation-086",
+      "x-adaptation-087",
+      "x-adaptation-088",
+      "x-adaptation-089",
+      "x-adaptation-090",
+      "x-adaptation-091",
+      "x-adaptation-092",
+      "x-adaptation-093",
+      "x-adaptation-094",
+      "x-adaptation-095",
+      "x-adaptation-096",
+      "x-adaptation-097",
+      "x-adaptation-098",
+      "x-adaptation-099",
+      "x-adaptation-100"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://guidelines.diabetes.ca/GuideLines/media/Docs/cpg/Ch15-Hyperglycemic-Emergencies-in-Adults.pdf",
+      "supports": "083/084: total potassium deficits during DKA, serial electrolyte monitoring, and adding glucose-containing fluid while continuing insulin to address unresolved acidosis.",
+      "limitation": "Guideline mechanism only; no fixed infusion/dose regimen is incorporated and local authorized protocol governs care."
+    },
+    {
+      "url": "https://www.bcrenal.ca/resource-gallery/Documents/RR_PD-Dialysate_Effluent_Collection.pdf",
+      "supports": "093: suspected peritonitis warrants aseptic effluent sampling, and first cloudy effluent can be diagnostically useful.",
+      "limitation": "Not a blanket PN authorization for every dialysis procedure; item retains team/protocol wording."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-adaptation-076",
+      "status": "revise",
+      "assessment": "All wrong options advertise omission/delay through before-communicating, before-treatment and sole-indicator.",
+      "issues": [
+        "All wrong options advertise omission/delay through before-communicating, before-treatment and sole-indicator."
+      ],
+      "proposedChanges": [
+        "Use Repeat the potassium sample; Review dietary potassium sources; Assess muscle strength. Explain why ECG changes with6.8mmol/L require immediate cardiac/protocol response rather than delaying for confirmatory or lower-priority assessment."
+      ],
+      "reviewedItemSha256": "fe053128696aa8b9c85d8ae5f22aa96b30bdd0dc76cf68655c3f3f20e4a0098c"
+    },
+    {
+      "id": "x-adaptation-077",
+      "status": "revise",
+      "assessment": "Weekly delay, documenting normal from hemolysis and independent correction are exaggerated.",
+      "issues": [
+        "Weekly delay, documenting normal from hemolysis and independent correction are exaggerated."
+      ],
+      "proposedChanges": [
+        "Compare a fresh atraumatic redraw with re-analysis of the same hemolyzed specimen, routine clinic follow-up, and requesting corrective treatment from the single value. Keep reporting urgent and do not imply hemolysis proves a normal potassium."
+      ],
+      "reviewedItemSha256": "0aa8449f0be7ab1a65a6bed5a9b59c09fb17ab3cfc9ed46cb06b331a28ff4f70"
+    },
+    {
+      "id": "x-adaptation-078",
+      "status": "revise",
+      "assessment": "The question asks concerns but wrong options are reassurance/treatment assertions, while only keys are actual physiological concerns.",
+      "issues": [
+        "The question asks concerns but wrong options are reassurance/treatment assertions, while only keys are actual physiological concerns."
+      ],
+      "proposedChanges": [
+        "Use parallel possible consequences of hypokalemia, with rhythm risk and muscle/bowel hypomotility as keys and credible alternative electrolyte effects as distractors. Update all rationales; avoid falsely making useful assessment information incorrect through only/alone wording."
+      ],
+      "reviewedItemSha256": "583a04b75d4a3448ee8e87eb57d338ad2c7220212399f31bbf3e1cfb61c47fc0"
+    },
+    {
+      "id": "x-adaptation-079",
+      "status": "revise",
+      "assessment": "Rapid deep breathing to reduce anxiety is implausible; routine next-morning delay cues the key.",
+      "issues": [
+        "Rapid deep breathing to reduce anxiety is implausible; routine next-morning delay cues the key."
+      ],
+      "proposedChanges": [
+        "Compare parallel postoperative concerns: hypocalcemia/tetany, neck hematoma, recurrent laryngeal nerve injury and wound infection. The perioral tingling and hand spasm should identify the concern; explain airway assessment/urgent calcium review in the rationale."
+      ],
+      "reviewedItemSha256": "b4ce90ce5bc98b59abd0b97d2b278f4f78bca1d2ae578c58331cccd121df1b26"
+    },
+    {
+      "id": "x-adaptation-080",
+      "status": "revise",
+      "assessment": "Replacement-was-unnecessary-because-it-failed is illogical filler; sodium-rule-out and wait-for-bowel-resolution are weak.",
+      "issues": [
+        "Replacement-was-unnecessary-because-it-failed is illogical filler; sodium-rule-out and wait-for-bowel-resolution are weak."
+      ],
+      "proposedChanges": [
+        "Use parallel mechanisms explaining refractory potassium: magnesium depletion promoting renal potassium loss (key), simple dilution, transcellular potassium uptake from a specified recent treatment, or inadequate replacement after a new ongoing loss. Supply enough data to distinguish the magnesium contribution; do not add another equally supported ongoing cause and call it wrong."
+      ],
+      "reviewedItemSha256": "ab7a8730fc7aad6a66ece80b7b0e2a294008f2ae66649bb564b01e881d80467b"
+    },
+    {
+      "id": "x-adaptation-081",
+      "status": "revise",
+      "assessment": "Wait for another seizure, salty food as complete care and unrestricted water are cartoon unsafe choices.",
+      "issues": [
+        "Wait for another seizure, salty food as complete care and unrestricted water are cartoon unsafe choices."
+      ],
+      "proposedChanges": [
+        "Compare urgent protocol treatment with obtaining repeat sodium, preparing the routine oral sodium supplement, and collecting a full fluid-intake history. Keep airway/injury protection already underway and explain why a seizure with116mmol/L needs controlled emergency correction."
+      ],
+      "reviewedItemSha256": "945c8f3d99106baf001dce240f1f7aa1879e62ee53df3c8492d22b4de43e7776"
+    },
+    {
+      "id": "x-adaptation-082",
+      "status": "revise",
+      "assessment": "Only keys are actual observations; the three wrong options are implausible stop/speed treatment claims.",
+      "issues": [
+        "Only keys are actual observations; the three wrong options are implausible stop/speed treatment claims."
+      ],
+      "proposedChanges": [
+        "Ask which findings should guide safety during controlled correction and use comparable trend data, or keep nursing-action format with credible incomplete monitoring plans. Avoid thirst-proof, single-value-stop and rate-change statements that announce the error. Preserve serial sodium/neurology and fluid tolerance as necessary."
+      ],
+      "reviewedItemSha256": "fe5f87bfa761558a322dac76017f71ce52113d235dda02a77c5d1224d449901e"
+    },
+    {
+      "id": "x-adaptation-083",
+      "status": "revise",
+      "assessment": "Exclusively-in-blood overstates the reverse-shift misconception; inaccurate-glucose is unrelated filler.",
+      "issues": [
+        "Exclusively-in-blood overstates the reverse-shift misconception; inaccurate-glucose is unrelated filler."
+      ],
+      "proposedChanges": [
+        "Use Insulin moves potassium from cells into the blood for option1 and Insulin removes potassium directly through the kidneys for option2. Explain redistribution versus total-body deficit and the need for serial values."
+      ],
+      "reviewedItemSha256": "b9fbd6c9d370b4f40675d835bdc0c8d65750adc2567289319ce74097a53877f1"
+    },
+    {
+      "id": "x-adaptation-084",
+      "status": "revise",
+      "assessment": "Urine colour is irrelevant filler; solely/without-reviewing clauses cue the other wrong choices.",
+      "issues": [
+        "Urine colour is irrelevant filler; solely/without-reviewing clauses cue the other wrong choices."
+      ],
+      "proposedChanges": [
+        "Use Reassess resolution from urine output for option2; Stop insulin after reaching the glucose target for option1; Resume routine meals and the usual subcutaneous regimen for option3. State the current IV DKA protocol context, and explain that persistent ketones/acidosis require continued authorized treatment with glucose as indicated."
+      ],
+      "reviewedItemSha256": "14bb7db801be54da501eb6e992b105ff0f0128769288583cd5d95496ddffece4"
+    },
+    {
+      "id": "x-adaptation-085",
+      "status": "revise",
+      "assessment": "Normal aging, mild illness and simple fasting are implausible against profound dehydration/confusion/very high glucose.",
+      "issues": [
+        "Normal aging, mild illness and simple fasting are implausible against profound dehydration/confusion/very high glucose."
+      ],
+      "proposedChanges": [
+        "Give actual glucose/osmolality or appropriate severity data and compare HHS, DKA, hypoglycemia and uncomplicated dehydration as parallel possible concerns. Avoid claiming a definitive diagnosis or excluding mixed DKA/HHS solely because ketones are few."
+      ],
+      "reviewedItemSha256": "7c5e43c4a4a4c48fc6a900cd95738ed49290972d2093ece8abd50380a806ed82"
+    },
+    {
+      "id": "x-adaptation-086",
+      "status": "revise",
+      "assessment": "All-postoperative-patients-retain-water is cartoon overgeneralization; waiting for tomorrow's weight is exaggerated.",
+      "issues": [
+        "All-postoperative-patients-retain-water is cartoon overgeneralization; waiting for tomorrow's weight is exaggerated."
+      ],
+      "proposedChanges": [
+        "Use Continue the usual postoperative fluid allowance for option3 and Compare today's weight with yesterday's for option1. Keep the key prompt fluid-balance/DI review; explain why large dilute output and rising sodium need action beyond a routine daily measure."
+      ],
+      "reviewedItemSha256": "725a163c8e3752c681fc8f7edd746001e4f1e0775905a012c1d3106134f20ec7"
+    },
+    {
+      "id": "x-adaptation-087",
+      "status": "revise",
+      "assessment": "The SIADH setting does not change a direct foundational total-fluid accounting question.",
+      "issues": [
+        "The SIADH setting does not change a direct foundational total-fluid accounting question."
+      ],
+      "proposedChanges": [
+        "Set foundation if retaining current content. For application, provide a remaining allowance and actual drinks/ice/medicine-fluid record and ask what still counts or which practical allocation meets the prescribed total. No autonomous restriction change should be endorsed."
+      ],
+      "reviewedItemSha256": "db19a64b367c2e404b8abc3158c82be38e613ba7a2c8ea56274084e80d3bab8c"
+    },
+    {
+      "id": "x-adaptation-088",
+      "status": "revise",
+      "assessment": "Exercise for an unstable hypermetabolic client and waiting for a routine clinic appointment are cartoon alternatives.",
+      "issues": [
+        "Exercise for an unstable hypermetabolic client and waiting for a routine clinic appointment are cartoon alternatives."
+      ],
+      "proposedChanges": [
+        "Compare parallel concerns: thyroid storm, uncomplicated thyrotoxicosis, infection without endocrine decompensation and panic-related symptoms. Supply severity data and explain the urgent multisystem pattern rather than generic escalate-versus-ignore choices."
+      ],
+      "reviewedItemSha256": "5a091a52e5f41d3273ac7e648267535edff444c298e8520fd2d96cdee6fc8207"
+    },
+    {
+      "id": "x-adaptation-089",
+      "status": "revise",
+      "assessment": "Waiting until awake, warming hands first and improved relaxation are implausible.",
+      "issues": [
+        "Waiting until awake, warming hands first and improved relaxation are implausible."
+      ],
+      "proposedChanges": [
+        "Use four plausible immediate nursing priorities: ventilation/emergency support, warming measures, obtaining thyroid laboratory samples, and medication reconciliation. The depressed breathing/consciousness should determine priority; do not make only the key contain meaningful care."
+      ],
+      "reviewedItemSha256": "b11d4067c39710bb9abc694be827ec2afb0918ebf8f72f0db9c1567a17bc4eb8"
+    },
+    {
+      "id": "x-adaptation-090",
+      "status": "revise",
+      "assessment": "Sleep, outpatient nutrition and blanket fluid restriction are filler against known adrenal insufficiency with shock/electrolyte changes.",
+      "issues": [
+        "Sleep, outpatient nutrition and blanket fluid restriction are filler against known adrenal insufficiency with shock/electrolyte changes."
+      ],
+      "proposedChanges": [
+        "Compare adrenal crisis, septic shock, DKA and thyroid storm as parallel concerns with enough glucose/infection context if needed. Explain why known insufficiency plus vomiting/hypotension/Na-K pattern warrants urgent replacement/circulation support and why coexisting triggers still need evaluation."
+      ],
+      "reviewedItemSha256": "485866118caad7467d03f81830ded31c47906d93888d011173bd9236a8cd5af3"
+    },
+    {
+      "id": "x-adaptation-091",
+      "status": "revise",
+      "assessment": "Before-checking and volume-alone qualifiers advertise wrongness.",
+      "issues": [
+        "Before-checking and volume-alone qualifiers advertise wrongness."
+      ],
+      "proposedChanges": [
+        "Use Request an IV fluid bolus; Obtain renal-function blood tests; Encourage oral fluids; Inspect the tubing and drainage system. Explain why the positional timing and suprapubic discomfort make a reversible drainage obstruction the first assessment."
+      ],
+      "reviewedItemSha256": "e9ec0a463d00913db81c24b4ca104955e624e4d1c89d0b9f961a2d0689b2d3ea"
+    },
+    {
+      "id": "x-adaptation-092",
+      "status": "revise",
+      "assessment": "The question asks assessments, but wrong options are extreme declarations about stopping monitoring/replacement.",
+      "issues": [
+        "The question asks assessments, but wrong options are extreme declarations about stopping monitoring/replacement."
+      ],
+      "proposedChanges": [
+        "Give actual post-obstructive output, pressure and electrolyte trends and ask which findings require prompt review. Use new hypotension/tachycardia or low potassium as meaningful concerns, contrasted with relief of suprapubic pain or stable measurements. Preserve a clear source-supported fluid/electrolyte monitoring objective without artificial only-clarity options."
+      ],
+      "reviewedItemSha256": "d5c4fe1f0fc5211c77fce8136af79dc9cab10a8725f290fc231029e0ba69d59b"
+    },
+    {
+      "id": "x-adaptation-093",
+      "status": "revise",
+      "assessment": "Without-assessing and normal-after-every-dwell cue false choices.",
+      "issues": [
+        "Without-assessing and normal-after-every-dwell cue false choices."
+      ],
+      "proposedChanges": [
+        "Use Give the usual constipation advice for option0; Discard the drained bag through the usual disposal route for option2; Repeat the next exchange and compare clarity for option3. Explain why current cloudy effluent/pain warrants prompt team contact and aseptic specimen collection."
+      ],
+      "reviewedItemSha256": "84a6f85e927445e154e3ea3097ed1e98bf4efd493fea9efce653bb18d0111c48"
+    },
+    {
+      "id": "x-adaptation-094",
+      "status": "revise",
+      "assessment": "Tight dressing to raise intravessel pressure and BP-cuff testing on the fistula are cartoon actions.",
+      "issues": [
+        "Tight dressing to raise intravessel pressure and BP-cuff testing on the fistula are cartoon actions."
+      ],
+      "proposedChanges": [
+        "Use reassessment after hand exercise, delayed routine access review, and review of recent fluid intake as plausible competing responses. State that careful reassessment includes an absent bruit if appropriate, so the item does not miskey a further immediate access assessment. Explain urgent access-preservation concern."
+      ],
+      "reviewedItemSha256": "42f14f278c4c92fdd17cc0662f272e5a12e956d336227b69108845013d158dcf"
+    },
+    {
+      "id": "x-adaptation-095",
+      "status": "revise",
+      "assessment": "Every distractor dismisses or deliberately delays obvious neurological deterioration; generic alert-the-team key repeats many items.",
+      "issues": [
+        "Every distractor dismisses or deliberately delays obvious neurological deterioration; generic alert-the-team key repeats many items."
+      ],
+      "proposedChanges": [
+        "Provide blood pressure/glucose and timing during first dialysis, then compare plausible concerns such as dialysis disequilibrium, hypoglycemia, hypotensive cerebral hypoperfusion and baseline fatigue. Do not require a definitive diagnosis; explain why the described pattern needs immediate dialysis-team reassessment."
+      ],
+      "reviewedItemSha256": "42b094b064870602a8d9f22cf5b5504657d8398d3246321ba7557c202833cec0"
+    },
+    {
+      "id": "x-adaptation-096",
+      "status": "revise",
+      "assessment": "Complete-plan and only-pain qualifiers advertise deficiencies; waiting until stone recovery is exaggerated.",
+      "issues": [
+        "Complete-plan and only-pain qualifiers advertise deficiencies; waiting until stone recovery is exaggerated."
+      ],
+      "proposedChanges": [
+        "Use Increase oral fluids to encourage passage; Continue straining each void; Reassess pain after the next analgesic dose as distractors. Explain why fever/chills with obstruction risk demands urgent infection/drainage assessment rather than routine stone self-management."
+      ],
+      "reviewedItemSha256": "9b7f1968b5060792e06c86f50507ba863230801a963490dc7a90b0ac368a39e1"
+    },
+    {
+      "id": "x-adaptation-097",
+      "status": "revise",
+      "assessment": "All non-key options use only/normal-reassurance qualifiers.",
+      "issues": [
+        "All non-key options use only/normal-reassurance qualifiers."
+      ],
+      "proposedChanges": [
+        "Use parallel concerns: acute glomerular disease with retention, lower urinary infection, dehydration, and ureteric stone. Explain which combination of cola urine, edema, oliguria and hypertension supports renal glomerular involvement."
+      ],
+      "reviewedItemSha256": "9fd20faa845c3b4884029a4ff5306996ade6f9d2a3d914765f637abc4ec977a0"
+    },
+    {
+      "id": "x-adaptation-098",
+      "status": "revise",
+      "assessment": "Only keys are actual monitoring domains; distractors announce proof/sole/alone errors.",
+      "issues": [
+        "Only keys are actual monitoring domains; distractors announce proof/sole/alone errors."
+      ],
+      "proposedChanges": [
+        "Ask which trends require prompt reporting during rhabdomyolysis care and use concrete renal-output/creatinine and potassium/rhythm changes as keys, with improving muscle pain, clearing urine and stable temperature as comparable observations. Explain that those improvements do not independently establish resolution of all risk."
+      ],
+      "reviewedItemSha256": "0bd50f3651d06df2d68003a5775e5ec97cff76f29d6f2abee668e3f69a295a56"
+    },
+    {
+      "id": "x-adaptation-099",
+      "status": "revise",
+      "assessment": "Stopping measurements after the first large void and resuming all doses without review are exaggerated.",
+      "issues": [
+        "Stopping measurements after the first large void and resuming all doses without review are exaggerated."
+      ],
+      "proposedChanges": [
+        "Compare ongoing balance/electrolyte monitoring, returning to routine once-per-shift measurements, restoring the previous medication schedule, and teaching the usual maintenance fluid intake. Explain why high output and elevated creatinine can represent incomplete renal recovery; keep key length balanced."
+      ],
+      "reviewedItemSha256": "d479dbcf1064f760af2042c029e3287432800a879c8aa3e3d9e56305d1a85db9"
+    },
+    {
+      "id": "x-adaptation-100",
+      "status": "pass",
+      "assessment": "The combined transient potassium-shift and hypoglycemia explanation is defensible. Renal-elimination recovery and durable protection from the initial glucose dose are meaningful mechanism misconceptions; follow-up of both values is justified.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "948c7ec6f63f4f9d3ad894e80d55d570df856cff936ffaaf977ad393a127f3fb"
+    }
+  ],
+  "activeSourceFile": "authoring/b/adaptation-04.json",
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

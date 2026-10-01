@@ -1,0 +1,333 @@
+[
+  {
+    "sourceId": "a-consent",
+    "url": "https://www.cno.org/Assets/CNO/Documents/Standard-and-Learning/Practice-Standards/41020_consent.pdf",
+    "accessed": true,
+    "supportedTopics": [
+      "Ontario consent, capacity and substitutes"
+    ],
+    "notes": "Retrieved through web search and opened full page/PDF; source is a topic anchor, not independent validation of each authored vignette."
+  },
+  {
+    "sourceId": "a-code",
+    "url": "https://www.cno.org/Assets/CNO/Documents/Standard-and-Learning/Practice-Standards/49040_code-of-conduct.pdf",
+    "accessed": true,
+    "supportedTopics": [
+      "Dignity, equitable care, professional integrity and teamwork"
+    ],
+    "notes": "Retrieved through web search and opened full page/PDF; source is a topic anchor, not independent validation of each authored vignette."
+  },
+  {
+    "sourceId": "a-professional",
+    "url": "https://www.bccnm.ca/LPN/PracticeStandards/Pages/ProfessionalStandards.aspx",
+    "accessed": true,
+    "supportedTopics": [
+      "Competence, accountability, coordination and evaluation"
+    ],
+    "notes": "Retrieved through web search and opened full page/PDF; source is a topic anchor, not independent validation of each authored vignette."
+  },
+  {
+    "sourceId": "a-documentation",
+    "url": "https://www.bccnm.ca/RPN/PracticeStandards/Pages/documentation.aspx",
+    "accessed": true,
+    "supportedTopics": [
+      "Current all-nurses documentation standard effective April 2026"
+    ],
+    "notes": "Retrieved through web search and opened full page/PDF; source is a topic anchor, not independent validation of each authored vignette."
+  },
+  {
+    "sourceId": "a-privacy",
+    "url": "https://bccnm.ca/RN/PracticeStandards/Pages/privacyconfidentiality.aspx",
+    "accessed": true,
+    "supportedTopics": [
+      "Purpose-limited information access, disclosure and safeguards"
+    ],
+    "notes": "Retrieved through web search and opened full page/PDF; source is a topic anchor, not independent validation of each authored vignette."
+  },
+  {
+    "sourceId": "a-conflict",
+    "url": "https://bccnm.ca/RN/PracticeStandards/Pages/conflictofinterest.aspx",
+    "accessed": true,
+    "supportedTopics": [
+      "Financial conflicts and professional recommendations"
+    ],
+    "notes": "Retrieved through web search and opened full page/PDF; source is a topic anchor, not independent validation of each authored vignette."
+  },
+  {
+    "sourceId": "a-ipc",
+    "url": "https://www.canada.ca/en/public-health/services/publications/diseases-conditions/routine-practices-precautions-healthcare-associated-infections/part-b.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Routine practices, PPE, equipment, sharps and additional precautions"
+    ],
+    "notes": "Retrieved through web search and opened full page/PDF; source is a topic anchor, not independent validation of each authored vignette."
+  },
+  {
+    "sourceId": "a-transmission",
+    "url": "https://www.canada.ca/en/public-health/services/publications/diseases-conditions/routine-practices-precautions-healthcare-associated-infections/part-c.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Syndrome and organism transmission routes; local current protocols remain necessary"
+    ],
+    "notes": "Retrieved through web search and opened full page/PDF; source is a topic anchor, not independent validation of each authored vignette."
+  },
+  {
+    "sourceId": "a-safetytext",
+    "url": "https://openstax.org/books/fundamentals-nursing/pages/9-1-safety-individual-and-environmental",
+    "accessed": true,
+    "supportedTopics": [
+      "General safety, falls, restraints and environmental assessment; US legal framing not used"
+    ],
+    "notes": "Retrieved through web search and opened full page/PDF; source is a topic anchor, not independent validation of each authored vignette."
+  },
+  {
+    "sourceId": "a-infectiontext",
+    "url": "https://openstax.org/books/fundamentals-nursing/pages/10-4-infection-control-and-patient-safety",
+    "accessed": true,
+    "supportedTopics": [
+      "General infection prevention concepts"
+    ],
+    "notes": "Retrieved through web search and opened full page/PDF; source is a topic anchor, not independent validation of each authored vignette."
+  },
+  {
+    "sourceId": "a-handling",
+    "url": "https://www.ccohs.ca/oshanswers/hsprograms/patient_handling.html?=undefined",
+    "accessed": true,
+    "supportedTopics": [
+      "Equipment, worker training and individualized handling assessment"
+    ],
+    "notes": "Retrieved through web search and opened full page/PDF; source is a topic anchor, not independent validation of each authored vignette."
+  },
+  {
+    "sourceId": "a-violence",
+    "url": "https://www.ccohs.ca/oshanswers/hsprograms/alone/workingalone_patients.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Staff safety, exits, check-ins and violence response"
+    ],
+    "notes": "Retrieved through web search and opened full page/PDF; source is a topic anchor, not independent validation of each authored vignette."
+  },
+  {
+    "sourceId": "a-sleep",
+    "url": "https://www.canada.ca/en/health-canada/services/safe-sleep/safe-sleep-tips.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Infant sleep surfaces, positioning and entrapment risks"
+    ],
+    "notes": "Retrieved through web search and opened full page/PDF; source is a topic anchor, not independent validation of each authored vignette."
+  },
+  {
+    "sourceId": "a-battery",
+    "url": "https://www.canada.ca/en/health-canada/services/household-products/battery-safety/button.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Button battery ingestion urgency and prevention"
+    ],
+    "notes": "Retrieved through web search and opened full page/PDF; source is a topic anchor, not independent validation of each authored vignette."
+  },
+  {
+    "sourceId": "a-child",
+    "url": "https://www.canada.ca/en/health-canada/services/consumer-product-safety/reports-publications/consumer-education/your-child-safe/play-time.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Child play hazards; search result retrieved, full page to verify before specific claims"
+    ],
+    "notes": "Full Health Canada page opened on 2026-10-01."
+  },
+  {
+    "sourceId": "a-ncbi-unavailable",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK591826/",
+    "accessed": false,
+    "supportedTopics": [],
+    "notes": "Open returned CAPTCHA; not used as a source."
+  },
+  {
+    "sourceId": "a-cauti",
+    "url": "https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Closed drainage, bag position, aseptic sampling and replacement after disconnection"
+    ],
+    "notes": "Full authoritative page opened on 2026-10-01; topic anchor rather than independent validation of authored questions."
+  },
+  {
+    "sourceId": "a-eyewash",
+    "url": "https://www.ccohs.ca/oshanswers/safety_haz/emer_showers.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Immediate decontamination and product-specific exposure guidance"
+    ],
+    "notes": "Full authoritative page opened on 2026-10-01; topic anchor rather than independent validation of authored questions."
+  },
+  {
+    "sourceId": "a-sds",
+    "url": "https://www.ccohs.ca/oshanswers/chemicals/whmis_ghs/sds.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Hazard identification, protective equipment, handling and first aid"
+    ],
+    "notes": "Full authoritative page opened on 2026-10-01; topic anchor rather than independent validation of authored questions."
+  },
+  {
+    "sourceId": "a-co",
+    "url": "https://www.canada.ca/en/health-canada/services/air-quality/pollutants/carbon-monoxide.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Sources, symptoms and evacuation on alarm"
+    ],
+    "notes": "Full authoritative page opened on 2026-10-01; topic anchor rather than independent validation of authored questions."
+  },
+  {
+    "sourceId": "a-co-prevention",
+    "url": "https://www.canada.ca/en/health-canada/services/air-quality/pollutants/carbon-monoxide/preventing-exposure.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Alarms and fuel-burning equipment hazards"
+    ],
+    "notes": "Full authoritative page opened on 2026-10-01; topic anchor rather than independent validation of authored questions."
+  },
+  {
+    "sourceId": "a-water",
+    "url": "https://www.canada.ca/en/health-canada/services/injury-prevention/swimming-safety.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Supervision, lifejackets and child water safety"
+    ],
+    "notes": "Full authoritative page opened on 2026-10-01; topic anchor rather than independent validation of authored questions."
+  },
+  {
+    "sourceId": "a-poison",
+    "url": "https://www.canada.ca/en/health-canada/services/consumer-product-safety/reports-publications/consumer-education/your-child-safe/is-your-child-safe.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Child-resistant closures, chemical storage and poison prevention"
+    ],
+    "notes": "Full authoritative page opened on 2026-10-01; topic anchor rather than independent validation of authored questions."
+  },
+  {
+    "sourceId": "a-glucose",
+    "url": "https://www.cdc.gov/injection-safety/hcp/infection-control/index.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Single-person pens/lancing devices, professional meters and cross-contamination"
+    ],
+    "notes": "Authoritative page opened on 2026-10-01. Topic anchor, not independent validation of every scenario."
+  },
+  {
+    "sourceId": "a-cdiff",
+    "url": "https://www.cdc.gov/c-diff/hcp/clinical-guidance/index.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Sporicidal environmental cleaning; US EPA-specific regulatory details not used"
+    ],
+    "notes": "Authoritative page opened on 2026-10-01. Topic anchor, not independent validation of every scenario."
+  },
+  {
+    "sourceId": "a-lines",
+    "url": "https://www.cdc.gov/infection-control/hcp/intravascular-catheter-related-infections/summary-recommendations.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Dressing integrity, site care, device necessity, bathing and aseptic access"
+    ],
+    "notes": "Authoritative page opened on 2026-10-01. Topic anchor, not independent validation of every scenario."
+  },
+  {
+    "sourceId": "a-food",
+    "url": "https://www.canada.ca/en/health-canada/services/publications/food-nutrition/safe-food-handling-adults-ages-60-over.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Safe storage, leftovers and cross-contamination"
+    ],
+    "notes": "Authoritative page opened on 2026-10-01. Topic anchor, not independent validation of every scenario."
+  },
+  {
+    "sourceId": "a-food-storage",
+    "url": "https://www.canada.ca/en/health-canada/services/general-food-safety-tips/safe-food-storage.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Separation of raw foods and ready-to-eat foods"
+    ],
+    "notes": "Authoritative page opened on 2026-10-01. Topic anchor, not independent validation of every scenario."
+  },
+  {
+    "sourceId": "a-delegation",
+    "url": "https://www.bccnm.ca/RN/PracticeStandards/Pages/delegation.aspx",
+    "accessed": true,
+    "supportedTopics": [
+      "Current April 2026 restricted-activity delegation standard, competence, client-specific conditions and continuing nursing accountability"
+    ],
+    "notes": "Authoritative full page opened 2026-10-01."
+  },
+  {
+    "sourceId": "a-sterilization",
+    "url": "https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/summary-recommendations.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Critical-device processing and inadequate mechanical/chemical cycle monitoring; US regulatory details not transferred"
+    ],
+    "notes": "Authoritative full page opened 2026-10-01."
+  },
+  {
+    "sourceId": "a-magnets",
+    "url": "https://www.canada.ca/en/health-canada/services/toy-safety/magnets.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Immediate assessment for suspected magnet ingestion, including asymptomatic children"
+    ],
+    "notes": "Official page searched and opened on 2026-10-01 during independent-review revisions."
+  },
+  {
+    "sourceId": "a-cords",
+    "url": "https://www.canada.ca/en/health-canada/services/home-safety/blind-cord-safety.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Preventing child access to window cords and replacing unsafe coverings"
+    ],
+    "notes": "Official page searched and opened on 2026-10-01 during independent-review revisions."
+  },
+  {
+    "sourceId": "a-sleep",
+    "url": "https://www.canada.ca/en/health-canada/services/safe-sleep/safe-sleep-tips.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Initial back placement and no repeated repositioning after independent rolling",
+      "Clear firm sleep space"
+    ],
+    "notes": "Official current safe-sleep page reopened on 2026-10-01 for x-safety-106 rolling-specific revision."
+  },
+  {
+    "sourceId": "a-injection",
+    "url": "https://www.cdc.gov/injection-safety/hcp/clinical-safety/index.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Multidose vials entering an immediate treatment area become patient-dedicated; no US legal requirements tested"
+    ],
+    "notes": "Primary page/PDF retrieved and opened during review revisions on 2026-10-01."
+  },
+  {
+    "sourceId": "a-milk-allergy",
+    "url": "https://www.canada.ca/content/dam/hc-sc/documents/services/food-nutrition/reports-publications/food-safety/2017-milk-lait-eng.pdf",
+    "accessed": true,
+    "supportedTopics": [
+      "Milk protein allergy differs from lactose intolerance; verify uncertain ingredients"
+    ],
+    "notes": "Primary page/PDF retrieved and opened during review revisions on 2026-10-01."
+  },
+  {
+    "sourceId": "a-disposal",
+    "url": "https://www.canada.ca/en/health-canada/services/healthy-home/safe-disposal-prescription-drugs.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Return unused medicines through pharmacy or approved local disposal pathway"
+    ],
+    "notes": "Primary page/PDF retrieved and opened during review revisions on 2026-10-01."
+  },
+  {
+    "sourceId": "a-transfer-board",
+    "url": "https://www.uhn.ca/TorontoRehab/Spinal-Cord-Rehab/Spinal-Cord-Essentials/Documents/Mobility/SCE2-Ma1-Transferring-To-And-From-Your-Wheelchair.pdf",
+    "checkedDate": "2026-10-01",
+    "method": "Primary UHN PDF found with web system1 and opened; reviewed page0 lines25–30 and page1 lines55–60.",
+    "supports": "A transfer board must rest firmly on both surfaces before transfer; used for substantive replacement of safety185 after whole-bank duplicate finding.",
+    "limitations": "Does not endorse improvised padding or specify every transfer setup; question requires correcting observed unstable support using the established plan."
+  }
+]

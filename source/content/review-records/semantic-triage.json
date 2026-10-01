@@ -1,0 +1,163 @@
+{
+  "date": "2026-10-01",
+  "method": "Manual assessment of all11 pairs flagged by stem-only unigram TF-IDF at0.52 across1720 drafts. Lexical similarity is triage, not a semantic originality guarantee.",
+  "pairs": [
+    {
+      "similarity": 0.795,
+      "ids": [
+        "x-adaptation-047",
+        "x-risk-066"
+      ],
+      "stems": [
+        "A postoperative client has new unilateral calf swelling and tenderness without chest symptoms. What is most appropriate?",
+        "A postoperative client reports unilateral calf swelling and tenderness. What is the best action?"
+      ],
+      "disposition": "substantive replacement authored; final current-content review covered by release gate",
+      "reason": "Replace adaptation047 with recovery-plan evaluation after diagnosed/treated DVT."
+    },
+    {
+      "similarity": 0.685,
+      "ids": [
+        "x-basic-167",
+        "x-psychosocial-185"
+      ],
+      "stems": [
+        "A child becomes distressed by bright lights and several staff talking during routine care. Which plan best supports comfort?",
+        "An autistic adult becomes distressed by bright lights and several staff talking at once. What should the nurse do?"
+      ],
+      "disposition": "substantive replacement authored; final current-content review covered by release gate",
+      "reason": "Replace psychosocial185 with a distinct communication/support objective."
+    },
+    {
+      "similarity": 0.653,
+      "ids": [
+        "x-psychosocial-086",
+        "x-psychosocial-113"
+      ],
+      "stems": [
+        "A client agrees to involve family in relapse prevention. What information is most useful?",
+        "Which information is useful in a relapse-prevention plan? Select all that apply."
+      ],
+      "disposition": "substantive replacement authored; final current-content review covered by release gate",
+      "reason": "Replace psychosocial113 with a distinct relapse-prevention decision."
+    },
+    {
+      "similarity": 0.624,
+      "ids": [
+        "risk-02",
+        "x-management-137"
+      ],
+      "stems": [
+        "A client’s potassium result is 6.4 mmol/L (reference 3.5–5.0 mmol/L). What should the nurse do?",
+        "A stable client's oral potassium supplement is due. A new verified result is 6.1 mmol/L (reference 3.5–5.0 mmol/L); no adjustment parameters are supplied. What is the nurse's best action?"
+      ],
+      "disposition": "retain distinct objective",
+      "reason": "Different actions: acute hyperkalaemia assessment versus due-potassium medication safety."
+    },
+    {
+      "similarity": 0.601,
+      "ids": [
+        "x-pharmacology-015",
+        "x-risk-103"
+      ],
+      "stems": [
+        "An antibiotic trough was ordered immediately before the next dose, but the sample was drawn just after infusion completion. What should the nurse do?",
+        "A trough drug level is ordered immediately before the next dose, but the sample was drawn after administration. What should the nurse do?"
+      ],
+      "disposition": "substantive replacement authored; final current-content review covered by release gate",
+      "reason": "Replace pharmacology015 with renal-trend interpretation of a correctly timed level."
+    },
+    {
+      "similarity": 0.593,
+      "ids": [
+        "x-safety-185",
+        "x-basic-004"
+      ],
+      "stems": [
+        "A client who can perform the planned assisted standing transfer is seated in a wheelchair with brakes locked and both feet on the footplates. What preparation is needed?",
+        "A client cleared for a stand-pivot transfer is seated in a wheelchair. The brakes are locked, but the feet remain on the footplates. What should happen next?"
+      ],
+      "disposition": "substantive replacement authored; final current-content review covered by release gate",
+      "reason": "Replace safety185 with a distinct transfer equipment/surface safety decision."
+    },
+    {
+      "similarity": 0.571,
+      "ids": [
+        "x-risk-118",
+        "x-health-061"
+      ],
+      "stems": [
+        "A client asks whether an abnormal screening test proves cancer. What should the nurse explain?",
+        "An asymptomatic client receives an abnormal screening result and asks whether cancer is certain. What should the nurse explain?"
+      ],
+      "disposition": "substantive replacement authored; final current-content review covered by release gate",
+      "reason": "Replace health061 with a distinct screening/follow-up objective."
+    },
+    {
+      "similarity": 0.543,
+      "ids": [
+        "x-psychosocial-082",
+        "x-psychosocial-179"
+      ],
+      "stems": [
+        "Which nursing actions fit a coordinated plan for a client with acute mania? Select all that apply.",
+        "A client receiving eating-disorder treatment becomes distressed before a planned meal. Which actions fit a coordinated nursing plan? Select all that apply."
+      ],
+      "disposition": "retain distinct objective",
+      "reason": "Different clinical plans: acute mania versus mealtime support in eating-disorder treatment."
+    },
+    {
+      "similarity": 0.535,
+      "ids": [
+        "x-health-085",
+        "x-health-105"
+      ],
+      "stems": [
+        "Which assessments help tailor a client's quit plan? Select all that apply.",
+        "Which assessments help tailor health-promotion support for an older adult living alone? Select all that apply."
+      ],
+      "disposition": "retain distinct objective",
+      "reason": "Different assessment objectives: smoking cessation versus older-adult health support."
+    },
+    {
+      "similarity": 0.53,
+      "ids": [
+        "x-pharmacology-033",
+        "x-risk-010"
+      ],
+      "stems": [
+        "A client taking hydrochlorothiazide is newly confused. Sodium is 124 mmol/L, reference 135–145, and the next dose is due. What is the priority?",
+        "A client has sodium 122 mmol/L (reference 135–145) and new confusion. What is the best response?"
+      ],
+      "disposition": "retain distinct objective",
+      "reason": "Different decisions: medication due with thiazide-associated hyponatraemia versus immediate symptomatic electrolyte assessment."
+    },
+    {
+      "similarity": 0.523,
+      "ids": [
+        "x-psychosocial-004",
+        "x-psychosocial-158"
+      ],
+      "stems": [
+        "A capable client is deciding whether to tell an adult child about a diagnosis and asks, \"What would you do?\" What response best supports the client's decision?",
+        "Relatives ask the nurse not to tell a capable adult that a serious diagnosis was confirmed. What is the best next response?"
+      ],
+      "disposition": "retain distinct objective",
+      "reason": "Different ethical tasks: supporting client choice about family disclosure versus responding to a request to conceal the diagnosis from the capable client."
+    }
+  ],
+  "additionalManualFinding": {
+    "ids": [
+      "risk-02",
+      "x-adaptation-076"
+    ],
+    "action": "Replaced adaptation076 with interpretation of ECG response after calcium, distinct from urgent hyperkalaemia assessment. Independently reread by root; current UKKA source opened."
+  },
+  "finalAssemblyFinding": {
+    "ids": [
+      "x-pharmacology-188",
+      "x-risk-172"
+    ],
+    "action": "Replaced pharmacology188 with early ANC rise during prescribed filgrastim before the expected nadir; retained risk172 after-hours fever response. Full independent reread and Canadian manufacturer source check completed in b-pharmacology-188.replacement-review.json."
+  }
+}

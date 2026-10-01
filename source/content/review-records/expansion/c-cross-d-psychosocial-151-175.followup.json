@@ -1,0 +1,245 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewerTask": "/root/author_risk_basic",
+  "reviewedAt": "2026-10-01T18:30:27.743635+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/d/questions.json",
+  "coverage": {
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-psychosocial-151",
+      "x-psychosocial-152",
+      "x-psychosocial-153",
+      "x-psychosocial-154",
+      "x-psychosocial-155",
+      "x-psychosocial-156",
+      "x-psychosocial-157",
+      "x-psychosocial-158",
+      "x-psychosocial-159",
+      "x-psychosocial-160",
+      "x-psychosocial-161",
+      "x-psychosocial-162",
+      "x-psychosocial-163",
+      "x-psychosocial-164",
+      "x-psychosocial-165",
+      "x-psychosocial-166",
+      "x-psychosocial-167",
+      "x-psychosocial-168",
+      "x-psychosocial-169",
+      "x-psychosocial-170",
+      "x-psychosocial-171",
+      "x-psychosocial-172",
+      "x-psychosocial-173",
+      "x-psychosocial-174",
+      "x-psychosocial-175"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Actually reread all current fields of all25 applied revisions, including metadata changes, and reasoned each item against the prior findings. Independently inspected registration and honest access notes for the four added sources.",
+  "limitations": [
+    "Independent AI review, not clinician or psychometric validation.",
+    "Targeted source retrieval is recorded in the original151–175 report; no new full-page retrieval is claimed here."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-psychosocial-151",
+      "status": "pass",
+      "assessment": "The revised choices compare recognizable bereavement approaches. Uncertainty is distinguished from refusal; the key preserves informed personal choice, and direct perinatal-loss support is now registered.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d9ab6b8013e2ba2401886f1dfd740d21c6cd66dbfdd53c9266c1c688a199a6ce"
+    },
+    {
+      "id": "x-psychosocial-152",
+      "status": "pass",
+      "assessment": "All responses now have a plausible supportive intent. The open invitation addresses expressed guilt without unsupported causation or premature redirection; the uncertainty in the stem makes the key defensible.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3fa647ebd0840c3c8cd6a9d34c5be1f142a6fceed0b3f55776a669ad4b181a9d"
+    },
+    {
+      "id": "x-psychosocial-153",
+      "status": "pass",
+      "assessment": "Specific unmet food and prescription needs establish immediate practical priority over longer planning, reminiscence or a helpline. The rationales acknowledge that the alternative supports can still be useful.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8d9d71d25c299da7716993dffb661a42341b7424511381728f6f72e83ec5234e"
+    },
+    {
+      "id": "x-psychosocial-154",
+      "status": "pass",
+      "assessment": "The family’s own ritual priorities and feasible accommodations correctly guide the SATA. Cultural reference material and a default representative cannot substitute for those choices.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a564953b4404a8ccb54793b6ad6f7502e68c7c6316a56d9eb0fe7438a52c8145"
+    },
+    {
+      "id": "x-psychosocial-155",
+      "status": "pass",
+      "assessment": "All four actions are relevant to caregiver care. Poor sleep, missed meals and feeling trapped require direct caregiver assessment and relief planning before narrow behavioural teaching or recipient-focused review.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "64c5a293787c559df5e059d531560f511c9769b5a5e5b8e3f4e1e75c58a38571"
+    },
+    {
+      "id": "x-psychosocial-156",
+      "status": "pass",
+      "assessment": "Achievable client-valued participation addresses loss of role now. The alternatives are credible rehabilitation approaches but either defer adaptation or prioritize others without the client’s goals.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1a2df3d0cd345847086579b8529bd07790f5d4fd35ea5c925ec8293455f28732"
+    },
+    {
+      "id": "x-psychosocial-157",
+      "status": "pass",
+      "assessment": "Capable-client consent is the relevant distinction among plausible family-involvement plans. The key clarifies participation and sharing without assuming the primary caregiver must attend.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b8d4f423eb3fffea2a8c68209682fc2ee9bd4e3555253c720a2be36cd16cabea"
+    },
+    {
+      "id": "x-psychosocial-158",
+      "status": "pass",
+      "assessment": "Exploring family concerns while establishing the client’s own information preferences avoids both family control and automatic full disclosure regardless of the client’s wishes. Application metadata is reasonable.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a2c67fc48892cd58abe970a9940434df92b80298611d9ada7db75ae0946502a1"
+    },
+    {
+      "id": "x-psychosocial-159",
+      "status": "pass",
+      "assessment": "The revised stem clearly asks about coping resources and gaps. Admission counts and medicine schedules describe burden but do not directly identify the requested strengths or support, resolving the prior SATA task ambiguity.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c065683b5eb105679597b131acde1234702674332fee82964af4d67580b1cfed"
+    },
+    {
+      "id": "x-psychosocial-160",
+      "status": "pass",
+      "assessment": "Private current safety does not end assessment of partner-related danger. The key supports a tailored plan without requiring departure; the alternatives offer partial resources or potentially unsafe joint counselling. Direct safety-planning reference is registered.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "afcacb3ed3799930611a248da7b7bf291ba9b6392afff228635d56c98199427b"
+    },
+    {
+      "id": "x-psychosocial-161",
+      "status": "pass",
+      "assessment": "Text, email and history deletion now represent realistic but insufficient workarounds for monitored technology. Asking about a safe device and format correctly precedes sending resources; specialist technology-safety support is registered.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4bb14ee0efe33c51396f61340484f3b6d256c10dccc6c94407133c24d35c45a8"
+    },
+    {
+      "id": "x-psychosocial-162",
+      "status": "pass",
+      "assessment": "The added fact that requested care is blocked distinguishes unwanted control from an agreed division of tasks. Nonphysical coercion is appropriately framed as a possibility requiring assessment, with a pertinent government source.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "bbc2218e979b05e89edf504d4687e1a295f55e0c968388eb39f6c7c65b4116c4"
+    },
+    {
+      "id": "x-psychosocial-163",
+      "status": "pass",
+      "assessment": "The client has received urgent care and now needs informed reporting options rather than pressure, substitution by relatives or delay. The rationale explicitly preserves circumstance- and jurisdiction-dependent reporting limits; no universal legal rule is invented.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c21af41c6c87ea5bceb793ab7d095581598eabbe3f37e091620bf089a4b9f154"
+    },
+    {
+      "id": "x-psychosocial-164",
+      "status": "pass",
+      "assessment": "Private assessment and current food access take priority when exploitation is possible. A joint budget meeting and worksheet are plausible but premature. The SATA keys and new family-violence reference fit the case.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6f08806668783a3318f9b9152f99dce27c6e97a7f2259a85565d32d3d8ea36fb"
+    },
+    {
+      "id": "x-psychosocial-165",
+      "status": "pass",
+      "assessment": "Familiarity, slower pacing and simple preparation directly address the observed shower trigger. Added helpers, a complete demonstration or a reward do not reliably change rushed care; alternatives are no longer absurd.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3ebd91725c758e337041e4db64b87d5d6777b1717b9aa2e77ee70fb93f04de9d"
+    },
+    {
+      "id": "x-psychosocial-166",
+      "status": "pass",
+      "assessment": "Acknowledging worry and locating the accessible purse directly resolve the immediate concern. Documentation, redirection and memory education are credible alternatives but less responsive in this specific case.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a81728666281cfe6658f1937a78f445720a26c434a47accffaf4483ea31c98a3"
+    },
+    {
+      "id": "x-psychosocial-167",
+      "status": "pass",
+      "assessment": "One-shift onset with new inattention supports assessment for an acute cause rather than interpreting reduced activity as improvement. Revised alternatives are parallel interpretations and metadata reflects recognition.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8c678b42dbe856da610e81df63186e23a2e0f2bea40d695e5fed35b7a239f764"
+    },
+    {
+      "id": "x-psychosocial-168",
+      "status": "pass",
+      "assessment": "New grimacing and resistance after a fall support direct pain and injury assessment. Baseline information, calming and environmental review remain relevant but do not replace the immediate physical assessment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a8fc854fbc9706f0152c2841d3409039cd2af19376e421fe36cd5df08d14ae16"
+    },
+    {
+      "id": "x-psychosocial-169",
+      "status": "pass",
+      "assessment": "The supportive delirium measures are consistent with calm orientation and sensory access. Prolonged daytime darkness and performance-style testing are recognizable mistakes. The general item is honestly labelled foundation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5904562b482a60cbafdbcbea7a57e30d8a3d876b4b1fd844d10417032276a9d8"
+    },
+    {
+      "id": "x-psychosocial-170",
+      "status": "pass",
+      "assessment": "The stated afternoon role makes former routines the most useful information for individualized redirection. Mobility, exits and orientation scores remain relevant safety/background data but do not explain the pattern.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6d4f4004d3f01f4b61051c845d6e45aa4d7c351bd28d36eae5a6eb1107e35ff4"
+    },
+    {
+      "id": "x-psychosocial-171",
+      "status": "pass",
+      "assessment": "The vignette now gives usable ability and overload cues. Two suitable garments preserve the client’s demonstrated choice-making while avoiding the multi-option or written-ranking demands of the alternatives.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6a1931fc377a054c5e7bcbad2dbbc09f0dafdc92873907d5f1849c242216cfa0"
+    },
+    {
+      "id": "x-psychosocial-172",
+      "status": "pass",
+      "assessment": "The preventive action directly addresses unexpected approach and touch. Other explanations or distraction may help generally but do not establish visible, predictable preparation before contact.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "39acb07ca3cc6f7a07ceb97ce665c38079095ff0643c3e824e5788478344f8bb"
+    },
+    {
+      "id": "x-psychosocial-173",
+      "status": "pass",
+      "assessment": "The choices now compare plausible attempts to support memory. Strength-based connection best addresses family frustration from testing; the rationale does not promise restoration of lost recall.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ca31df7c1f7fb9fc62f1cacce0e7456c344ab5b631877b2da94ad037662932cb"
+    },
+    {
+      "id": "x-psychosocial-174",
+      "status": "pass",
+      "assessment": "The stem now asks which outcomes support effectiveness, resolving the earlier problem that negative findings also deserve tracking. Less distress, comfortable participation and met hygiene needs are coherent positive outcomes.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fbeeca591f343615745fb9426d5bfe2d31c7eab4e62ec1a9a35cee2395f74686"
+    },
+    {
+      "id": "x-psychosocial-175",
+      "status": "pass",
+      "assessment": "Parallel interpretations distinguish fluctuating attention from sustained recovery or chronic progression. The selected explanation addresses blame while preserving the need for reassessment and treatment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9a1ba2bf0ef5408d62b6ac9363d0b42a37c61eeca47f864c4243d113940fad7c"
+    }
+  ]
+}

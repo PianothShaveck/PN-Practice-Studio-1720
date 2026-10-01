@@ -1,0 +1,463 @@
+{
+  "reviewerTask": "/root/author_management_safety",
+  "checkedAt": "2026-10-01T18:11:09.612993+00:00",
+  "sourceFile": "bank-expansion/authoring/d/questions.json",
+  "reviewedItems": 90,
+  "currentMatchingPasses": 90,
+  "unresolvedIds": [],
+  "records": {
+    "x-health-111": {
+      "sha256": "4ff0748382a329c7913568b595441efdc523f49572add1f36db9a8e1d17f28d2",
+      "status": "pass",
+      "report": "cross-a-health-111-130.followup1.json"
+    },
+    "x-health-112": {
+      "sha256": "3ac0af6a998e48ec06585179dba0a1806e268709476b8520adb90d539ca33219",
+      "status": "pass",
+      "report": "cross-a-health-111-130.followup1.json"
+    },
+    "x-health-113": {
+      "sha256": "b0b1c632abb9bd7f72501e8079e112669878c0ad0f6368bd1b89c238160d1d00",
+      "status": "pass",
+      "report": "cross-a-health-111-130.followup1.json"
+    },
+    "x-health-114": {
+      "sha256": "68a501a0e398ab57f9dd7345d906e1a4c97e296fd3704dc073d03708f1ae3d8e",
+      "status": "pass",
+      "report": "cross-a-health-111-130.followup1.json"
+    },
+    "x-health-115": {
+      "sha256": "1ff2161e97392b7db480d6d37f3d89886d1346bef1269c1bf04875072ce8bde6",
+      "status": "pass",
+      "report": "cross-a-health-111-130.followup1.json"
+    },
+    "x-health-116": {
+      "sha256": "d222ce142de146e6e0f67e64826c486de9430b04e590ddb0eabf205debbefa85",
+      "status": "pass",
+      "report": "cross-a-health-111-130.followup1.json"
+    },
+    "x-health-117": {
+      "sha256": "f2f02b461d04f85929952df30568d8de1481f6f43b56ede414db1bea4a1bc96e",
+      "status": "pass",
+      "report": "cross-a-health-111-130.followup1.json"
+    },
+    "x-health-118": {
+      "sha256": "5a46ee95ca39c738857a084527d3c631e05e725a49fa6d82c89a72c80fc67f5a",
+      "status": "pass",
+      "report": "cross-a-health-111-130.followup1.json"
+    },
+    "x-health-119": {
+      "sha256": "d5bcf30d4a1b45f93a4d304fee2d09c3afca245073234897bd5bc59a213a8b41",
+      "status": "pass",
+      "report": "cross-a-health-111-130.review.json"
+    },
+    "x-health-120": {
+      "sha256": "33822bedbaf4c143ceee95f8a5416b04f308d876a79756822f7ce6bcd8d4cbd2",
+      "status": "pass",
+      "report": "cross-a-health-small.followup2.json"
+    },
+    "x-health-121": {
+      "sha256": "b12d25c0f04c61f774a1d2ab2fb39569d4a0a3685cee3645796936faf79c27c0",
+      "status": "pass",
+      "report": "cross-a-health-111-130.followup1.json"
+    },
+    "x-health-122": {
+      "sha256": "cf8169b237330891cf98896298035dfabd0efb4b55b08c21537563fcead84a41",
+      "status": "pass",
+      "report": "cross-a-health-111-130.followup1.json"
+    },
+    "x-health-123": {
+      "sha256": "8e5bc52e6039a65efef0f8ea7a51d6b4399ce85bbaba73565367d02bda7ae534",
+      "status": "pass",
+      "report": "cross-a-health-111-130.followup1.json"
+    },
+    "x-health-124": {
+      "sha256": "3c710d9fda2bbc18b1cdd23203c5aa39e50d076d9394595495c54681c6640b25",
+      "status": "pass",
+      "report": "cross-a-health-111-130.followup1.json"
+    },
+    "x-health-125": {
+      "sha256": "487b0b483353bc1e86a5074bea9f6e288b3699b02ae2d4704d7e19363986a227",
+      "status": "pass",
+      "report": "cross-a-health-111-130.followup1.json"
+    },
+    "x-health-126": {
+      "sha256": "c372a45e1cb0fb7ceed06490e09e311a8b23c563a5651ba220bbaa8e06969ab9",
+      "status": "pass",
+      "report": "cross-a-health-111-130.review.json"
+    },
+    "x-health-127": {
+      "sha256": "a13acbf9e2d25781f715eb6b9dd2a82805fae38e33227a5c55dcd4e5ba179baf",
+      "status": "pass",
+      "report": "cross-a-health-111-130.followup1.json"
+    },
+    "x-health-128": {
+      "sha256": "031df91b93b9592b41ba8f8d515ec7f449f342ece1957266df26a13c585d9ae3",
+      "status": "pass",
+      "report": "cross-a-health-111-130.followup1.json"
+    },
+    "x-health-129": {
+      "sha256": "ee3af1983bb58cf6e7d83807c5b3b189ac8098d82ae1c6995c4fe25a166516ba",
+      "status": "pass",
+      "report": "cross-a-health-111-130.followup1.json"
+    },
+    "x-health-130": {
+      "sha256": "c11043ed7b7cd5bf6b636b5e9932e05bb5c7004b5c9886a8daf773ad5e23f953",
+      "status": "pass",
+      "report": "cross-a-health-111-130.followup1.json"
+    },
+    "x-health-131": {
+      "sha256": "def53d5e61fdf39fadc44a0f1a394dc0633c2601ba59f03491215da9aea86906",
+      "status": "pass",
+      "report": "cross-a-health-131-155.followup1.json"
+    },
+    "x-health-132": {
+      "sha256": "ef849300b85fdee742d37d05f94a1ff9a5df23fcb32f7cb4b3f297fee1e62602",
+      "status": "pass",
+      "report": "cross-a-health-131-155.followup1.json"
+    },
+    "x-health-133": {
+      "sha256": "3794eb0746935b6d8dd8a5efeba03972d5ed19d45c149b1feee2e4aa5e6fc588",
+      "status": "pass",
+      "report": "cross-a-health-131-155.review.json"
+    },
+    "x-health-134": {
+      "sha256": "fd2648fabf46fda06bf3f266bdd2a1611291de3f1472d5ac23af75acae7a303d",
+      "status": "pass",
+      "report": "cross-a-health-131-155.followup1.json"
+    },
+    "x-health-135": {
+      "sha256": "f5d8919158320ea0313cf1e0b79549cd13fb2813dabd3d4dcb9c826831da5325",
+      "status": "pass",
+      "report": "cross-a-health-131-155.followup1.json"
+    },
+    "x-health-136": {
+      "sha256": "6fd806e308c7e58522d24d711110e0c4debc1377649edcadf6b2f82a5213e2f5",
+      "status": "pass",
+      "report": "cross-a-health-small.followup2.json"
+    },
+    "x-health-137": {
+      "sha256": "8e3bb309a35f4c1acd2aa008a9abbacd705c9c9ccc8d0b5ec08dd2355642bce1",
+      "status": "pass",
+      "report": "cross-a-health-131-155.followup1.json"
+    },
+    "x-health-138": {
+      "sha256": "4588379fb66eb32a8bff1faa8a2a7023ca544e1fc60be5c64ff04eb3befd40ee",
+      "status": "pass",
+      "report": "cross-a-health-131-155.followup1.json"
+    },
+    "x-health-139": {
+      "sha256": "1de0d5ccfaa41cfed0a83f8cfd7074f8488c7c2855bf715156360f9d401fe3b8",
+      "status": "pass",
+      "report": "cross-a-health-131-155.followup1.json"
+    },
+    "x-health-140": {
+      "sha256": "cd319a0070ed9cfd2456038241b53b750d47da5741b8104ad0b93ad5a9efbd62",
+      "status": "pass",
+      "report": "cross-a-health-131-155.review.json"
+    },
+    "x-health-141": {
+      "sha256": "81311d8825de160120c5356d65be251784d455b6a2caee74dfe7fed7f2761f9a",
+      "status": "pass",
+      "report": "cross-a-health-131-155.followup1.json"
+    },
+    "x-health-142": {
+      "sha256": "046295dd89c8ebf7abb16b487373ca876cfafdcbbe6e4cea99d2e7aa31540cd5",
+      "status": "pass",
+      "report": "cross-a-health-131-155.followup1.json"
+    },
+    "x-health-143": {
+      "sha256": "ee2b7ebac2d7a5cebd7cfc88f3c0d2765ac38bc350a7e7633e6c03051bb6471e",
+      "status": "pass",
+      "report": "cross-a-health-131-155.followup1.json"
+    },
+    "x-health-144": {
+      "sha256": "3f33b9f3c11b57ef2ec5b33c99c1078132bfcb0b661d46cd6c52084907e5d4f7",
+      "status": "pass",
+      "report": "cross-a-health-131-155.followup1.json"
+    },
+    "x-health-145": {
+      "sha256": "78e5321948a2660a5529d855f720858e650d73c328c93e294e8af486674d7bd7",
+      "status": "pass",
+      "report": "cross-a-health-131-155.followup1.json"
+    },
+    "x-health-146": {
+      "sha256": "c3ac10d1ea108709bb4660bd48dbf10bd3b40de7413085da1cb37b307e9d983d",
+      "status": "pass",
+      "report": "cross-a-health-131-155.followup1.json"
+    },
+    "x-health-147": {
+      "sha256": "3df45c6694c619f6ae5ff7ba1a1feb2a33832a1782ea193f52d8478bd79c2c26",
+      "status": "pass",
+      "report": "cross-a-health-131-155.followup1.json"
+    },
+    "x-health-148": {
+      "sha256": "98ec92a30b77697eaedfaaeb8711f06810777f984728c4325393379b6bf41f40",
+      "status": "pass",
+      "report": "cross-a-health-131-155.followup1.json"
+    },
+    "x-health-149": {
+      "sha256": "13ee7f33b9b1d9d929c9de69342329ae5bec6286d07c57a3baae04ebfb695d43",
+      "status": "pass",
+      "report": "cross-a-health-131-155.followup1.json"
+    },
+    "x-health-150": {
+      "sha256": "6393ec39f6f06523d1fff2d762dd9bd22d3384591991401a677462262e72474d",
+      "status": "pass",
+      "report": "cross-a-health-small.followup2.json"
+    },
+    "x-health-151": {
+      "sha256": "c3e82b0fcb22cb22b4043ef79185176efe06877b545b766bf1e0bb33cc821f1a",
+      "status": "pass",
+      "report": "cross-a-health-131-155.followup1.json"
+    },
+    "x-health-152": {
+      "sha256": "b0227204f9a3057fb85a7902bcffc8def8770884a57cf50ff206608eee48c535",
+      "status": "pass",
+      "report": "cross-a-health-131-155.followup1.json"
+    },
+    "x-health-153": {
+      "sha256": "410e2ec5277e63249d0aef60c1d1bd40c1a9b877a02dbc1adf3a649908f723b8",
+      "status": "pass",
+      "report": "cross-a-health-131-155.followup1.json"
+    },
+    "x-health-154": {
+      "sha256": "f1bd6ecaff8606dc4e2045aaebf5327879c20216fccb09aaa641ccfe4798f11e",
+      "status": "pass",
+      "report": "cross-a-health-131-155.followup1.json"
+    },
+    "x-health-155": {
+      "sha256": "48b4cce29e4e03c61c16813962d24babe1a80548eefb748c258ddc5fa69dc5f6",
+      "status": "pass",
+      "report": "cross-a-health-131-155.followup1.json"
+    },
+    "x-health-156": {
+      "sha256": "306eeffe8d4e4e9f13e3bd8cbdc90d7c75412b53d1988eb7e013be8c1a3412ee",
+      "status": "pass",
+      "report": "cross-a-health-156-180.followup1.json"
+    },
+    "x-health-157": {
+      "sha256": "88c08f61d59aa329027f516a04e31baeeb5a75e901d6f4951c8dcfad95b4d716",
+      "status": "pass",
+      "report": "cross-a-health-156-180.followup1.json"
+    },
+    "x-health-158": {
+      "sha256": "53508835234e043aa1b74681fd67ebc33c2c1c7a0aae8228858234dc975e6c42",
+      "status": "pass",
+      "report": "cross-a-health-156-180.followup1.json"
+    },
+    "x-health-159": {
+      "sha256": "76cf91fc7bec2a302253b2042fd9f1489a0bfad397e6d220e5208aec91134588",
+      "status": "pass",
+      "report": "cross-a-health-156-180.followup1.json"
+    },
+    "x-health-160": {
+      "sha256": "74197c5bcb4a1c91f89313821b14a5630b957f7506f7f33764dc8cd4950b4def",
+      "status": "pass",
+      "report": "cross-a-health-156-180.followup1.json"
+    },
+    "x-health-161": {
+      "sha256": "850077cf0950f8d9d40fc03240bedb86ac2f39f794cbf3a48a8396f61b7230cd",
+      "status": "pass",
+      "report": "cross-a-health-156-180.followup1.json"
+    },
+    "x-health-162": {
+      "sha256": "80378f9b4eb8b7b029a06cb5eb48f3fe0df8397f55ff94548b68e8fb00a5fd03",
+      "status": "pass",
+      "report": "cross-a-health-156-180.followup1.json"
+    },
+    "x-health-163": {
+      "sha256": "e009208560ca969ef680c34c9bf7972b23765719b2145b2caa06e4005ccdfda1",
+      "status": "pass",
+      "report": "cross-a-health-156-180.followup1.json"
+    },
+    "x-health-164": {
+      "sha256": "d56ea6bfb4a3cbfef35cab44b394273504b4d8bd6438232ea7093360e259d174",
+      "status": "pass",
+      "report": "cross-a-health-156-180.followup1.json"
+    },
+    "x-health-165": {
+      "sha256": "5e32e6754cc2dd02c9d2957d246ade079cf0993c30cef3f4fc67ae73dc3cbcbb",
+      "status": "pass",
+      "report": "cross-a-health-156-180.followup1.json"
+    },
+    "x-health-166": {
+      "sha256": "2d0754a1f391454cbc13626a3f680b3bddc2b13ef86bd64605e8f4bdb61c58b9",
+      "status": "pass",
+      "report": "cross-a-health-156-180.followup1.json"
+    },
+    "x-health-167": {
+      "sha256": "7078972fa1fdcb8d78af8b9bf1cf7dc20dbfebf97fb8a48bee8ca83481a0297a",
+      "status": "pass",
+      "report": "cross-a-health-156-180.followup1.json"
+    },
+    "x-health-168": {
+      "sha256": "be3a918ba3969682f9bff3b98b1f386ba3568f79d642570d1e8447bfb9e5769a",
+      "status": "pass",
+      "report": "cross-a-health-final-five.followup2.json"
+    },
+    "x-health-169": {
+      "sha256": "ce9bfe739e425a645b808be8e4e099813d9f3dac52729edb27977e1580c5e5b3",
+      "status": "pass",
+      "report": "cross-a-health-156-180.review.json"
+    },
+    "x-health-170": {
+      "sha256": "c667bf3aaf4931e4ea19457bfb25bfedf65651aa9e1bed44f3f9ffcb3716724b",
+      "status": "pass",
+      "report": "cross-a-health-156-180.followup1.json"
+    },
+    "x-health-171": {
+      "sha256": "b01905eae24b1197f7c0be6e09ab35febc3c7fa1441c65597d030578a4c8773a",
+      "status": "pass",
+      "report": "cross-a-health-156-180.review.json"
+    },
+    "x-health-172": {
+      "sha256": "688d70d96cc261a5191fd1f91bf42d6507de3d60ebdb841e3046ad799b771773",
+      "status": "pass",
+      "report": "cross-a-health-156-180.review.json"
+    },
+    "x-health-173": {
+      "sha256": "d3b1cc11737982fa58579d79f5095ba440c0e757a7b5f10a22d2b40b1c3df8cd",
+      "status": "pass",
+      "report": "cross-a-health-156-180.followup1.json"
+    },
+    "x-health-174": {
+      "sha256": "11495f325f9644f52ff60495678435cd84871ee0abe553f5542adf7aef1596c6",
+      "status": "pass",
+      "report": "cross-a-health-156-180.followup1.json"
+    },
+    "x-health-175": {
+      "sha256": "9cba6cd79bffa59e8022dcd6031b7a04e7420f89aabb5f245ac552d909230ebb",
+      "status": "pass",
+      "report": "cross-a-health-156-180.followup1.json"
+    },
+    "x-health-176": {
+      "sha256": "98a28512afb8325bdf23afed3ebe8eff92e6edcda62cc9a2b06a53e5d0a00d39",
+      "status": "pass",
+      "report": "cross-a-health-final-five.followup2.json"
+    },
+    "x-health-177": {
+      "sha256": "5004b2a0c4acdd8eecbfb2955298996c36dd6acb48ee956a86d1fb6a09674acd",
+      "status": "pass",
+      "report": "cross-a-health-156-180.followup1.json"
+    },
+    "x-health-178": {
+      "sha256": "e0db9d6f51dbdaa02c71ff5fe87e414826d238ff0cfe2a509b39fa5ded478e9d",
+      "status": "pass",
+      "report": "cross-a-health-156-180.followup1.json"
+    },
+    "x-health-179": {
+      "sha256": "c1016ed51e5b5d72a2666f377669102e6f0e842685f0203d3bc8f2ca84b33386",
+      "status": "pass",
+      "report": "cross-a-health-156-180.followup1.json"
+    },
+    "x-health-180": {
+      "sha256": "547d788948e9ff123e3ac11bb0771892e41ddfd0a46ca73da386ffb320e1f172",
+      "status": "pass",
+      "report": "cross-a-health-156-180.followup1.json"
+    },
+    "x-health-181": {
+      "sha256": "db76042911c78c2394bee21a8faf63451959bd6c164984eee2068d9258f6638e",
+      "status": "pass",
+      "report": "cross-a-health-181-200.review.json"
+    },
+    "x-health-182": {
+      "sha256": "d99b249275646ef58a126c17e665a546ce4846580e340e72a850be0646b77090",
+      "status": "pass",
+      "report": "cross-a-health-final-five.followup2.json"
+    },
+    "x-health-183": {
+      "sha256": "3b7dc9813711fd6fd2ad81d304e69aa85b27e684a351b375ce9b16b36ad58cab",
+      "status": "pass",
+      "report": "cross-a-health-181-200.followup1.json"
+    },
+    "x-health-184": {
+      "sha256": "f7afba79c8ee95bd280998a27bbb684b15d9d9970f49f044052aa14279464401",
+      "status": "pass",
+      "report": "cross-a-health-181-200.followup1.json"
+    },
+    "x-health-185": {
+      "sha256": "f48bef742bd77255340b4a0eac02a49bc46b263e4aa241dcc6cba293c808b7f6",
+      "status": "pass",
+      "report": "cross-a-health-181-200.followup1.json"
+    },
+    "x-health-186": {
+      "sha256": "005d81b4479da19ada1016bbae08f88044eff8afc94764fe9a76bb2587f92c92",
+      "status": "pass",
+      "report": "cross-a-health-181-200.followup1.json"
+    },
+    "x-health-187": {
+      "sha256": "400a733bed2190a420c6cd0e67e335b8ea3e1d209c41b0ee695bb346ad8efdc6",
+      "status": "pass",
+      "report": "cross-a-health-181-200.followup1.json"
+    },
+    "x-health-188": {
+      "sha256": "37893428280692ba4cac1c23fe74f00cc150546fe3bb7f991f46d07c3a740363",
+      "status": "pass",
+      "report": "cross-a-health-181-200.followup1.json"
+    },
+    "x-health-189": {
+      "sha256": "9b0b1c347ae14ef901ca5145ad366c07e51eaad106a2faebdc06bf6a973ae1dd",
+      "status": "pass",
+      "report": "cross-a-health-181-200.followup1.json"
+    },
+    "x-health-190": {
+      "sha256": "56d0a8f8bb780bb7734e3207c16651a6ae17031f8cfdc8a959e196bc656808ef",
+      "status": "pass",
+      "report": "cross-a-health-final-five.followup2.json"
+    },
+    "x-health-191": {
+      "sha256": "1f76e2d81d7bff13fed564295b2768d8d2428df0203a0d0e35ee2c8daa7a64da",
+      "status": "pass",
+      "report": "cross-a-health-181-200.followup1.json"
+    },
+    "x-health-192": {
+      "sha256": "7a1e0877a0baafed039e6024eb8bbc7a69d57d8fa9a2fe32b8085bfb6e5e2b83",
+      "status": "pass",
+      "report": "cross-a-health-181-200.followup1.json"
+    },
+    "x-health-193": {
+      "sha256": "7e24fe5abd9235a3f701683566513708b44cd1001db6eb0377611be7a11fa486",
+      "status": "pass",
+      "report": "cross-a-health-181-200.review.json"
+    },
+    "x-health-194": {
+      "sha256": "8f4291912d83dde8c36df2fd78ec9953662a3c644458fb9b9d1592451c41f50e",
+      "status": "pass",
+      "report": "cross-a-health-181-200.followup1.json"
+    },
+    "x-health-195": {
+      "sha256": "d88c8b27f69afdf9947525ea02d2cbe383f08600ee06cc279307bf013ba2615c",
+      "status": "pass",
+      "report": "cross-a-health-181-200.followup1.json"
+    },
+    "x-health-196": {
+      "sha256": "0a101f0e8d0d8ca76e3157168286578b3610a2d33d7690cf8deefc79f189e483",
+      "status": "pass",
+      "report": "cross-a-health-181-200.followup1.json"
+    },
+    "x-health-197": {
+      "sha256": "98e77ed180de5e12d8eb7b17a4ce501a43b563fac9475851fa0a00a1aab537d3",
+      "status": "pass",
+      "report": "cross-a-health-181-200.followup1.json"
+    },
+    "x-health-198": {
+      "sha256": "e0787ebd88eb55c76ecf99e600bf99fc4c9dcbf6c9eb744fc9eb4db6e09f2c14",
+      "status": "pass",
+      "report": "cross-a-health-181-200.followup1.json"
+    },
+    "x-health-199": {
+      "sha256": "c2de9b651475afddbcdba2f18dd5ad9769e516092a88ffd0546d7e8b9112cf52",
+      "status": "pass",
+      "report": "cross-a-health-181-200.followup1.json"
+    },
+    "x-health-200": {
+      "sha256": "cc2891ef57a4176a1b118db9890bc29b7065c8ea5a93a4a6fbd51cd17c695c7a",
+      "status": "pass",
+      "report": "cross-a-health-final-five.followup2.json"
+    }
+  },
+  "limitations": [
+    "Independent AI content review; not clinician or psychometric validation"
+  ]
+}

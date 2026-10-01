@@ -1,0 +1,73 @@
+{
+  "method": "TF-IDF unigrams and bigrams; lexical screening, not semantic or clinical validation",
+  "threshold": 0.53,
+  "count": 1720,
+  "pairs": [],
+  "reasoningSkills": {
+    "unclassified": 120,
+    "professional-judgement": 153,
+    "priority": 225,
+    "recognition": 172,
+    "intervention": 656,
+    "evaluation": 153,
+    "teaching": 231,
+    "calculation": 10
+  },
+  "difficulty": {
+    "unclassified": 120,
+    "application": 1446,
+    "foundation": 121,
+    "challenge": 33
+  },
+  "secondaryUnigramTriage": {
+    "threshold": 0.52,
+    "pairs": [
+      {
+        "ids": [
+          "risk-02",
+          "x-management-137"
+        ],
+        "score": 0.624,
+        "disposition": "retain distinct clinical objective",
+        "reason": "Critical-result assessment versus medication due with a new contraindicating result."
+      },
+      {
+        "ids": [
+          "x-pharmacology-033",
+          "x-risk-010"
+        ],
+        "score": 0.527,
+        "disposition": "retain distinct clinical objective",
+        "reason": "Medication-specific withholding/review versus symptomatic electrolyte assessment."
+      },
+      {
+        "ids": [
+          "x-health-085",
+          "x-health-105"
+        ],
+        "score": 0.536,
+        "disposition": "retain distinct clinical objective",
+        "reason": "Smoking-cessation assessment versus older-adult health-promotion assessment."
+      },
+      {
+        "ids": [
+          "x-psychosocial-004",
+          "x-psychosocial-158"
+        ],
+        "score": 0.526,
+        "disposition": "retain distinct clinical objective",
+        "reason": "Client choice about disclosure to family versus family request to conceal the diagnosis from the client."
+      },
+      {
+        "ids": [
+          "x-psychosocial-082",
+          "x-psychosocial-179"
+        ],
+        "score": 0.544,
+        "disposition": "retain distinct clinical objective",
+        "reason": "Acute mania care plan versus eating-disorder meal support."
+      }
+    ],
+    "limitations": "Lexical similarity only; flagged pairs received manual objective review. This does not prove exhaustive semantic uniqueness."
+  }
+}

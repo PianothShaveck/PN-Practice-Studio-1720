@@ -1,0 +1,537 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:35:34.770701+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/a-management-03-recheck3.json",
+  "sourceSha256": "84fb255b746cf5a19e0779deaab93b23ae957a0316653e280a89fb324844db06",
+  "coverage": {
+    "sourceItems": 50,
+    "reviewedItems": 50,
+    "reviewedIds": [
+      "x-management-101",
+      "x-management-102",
+      "x-management-103",
+      "x-management-104",
+      "x-management-105",
+      "x-management-106",
+      "x-management-107",
+      "x-management-108",
+      "x-management-109",
+      "x-management-110",
+      "x-management-111",
+      "x-management-112",
+      "x-management-113",
+      "x-management-114",
+      "x-management-115",
+      "x-management-116",
+      "x-management-117",
+      "x-management-118",
+      "x-management-119",
+      "x-management-120",
+      "x-management-121",
+      "x-management-122",
+      "x-management-123",
+      "x-management-124",
+      "x-management-125",
+      "x-management-126",
+      "x-management-127",
+      "x-management-128",
+      "x-management-129",
+      "x-management-130",
+      "x-management-131",
+      "x-management-132",
+      "x-management-133",
+      "x-management-134",
+      "x-management-135",
+      "x-management-136",
+      "x-management-137",
+      "x-management-138",
+      "x-management-139",
+      "x-management-140",
+      "x-management-141",
+      "x-management-142",
+      "x-management-143",
+      "x-management-144",
+      "x-management-145",
+      "x-management-146",
+      "x-management-147",
+      "x-management-148",
+      "x-management-149",
+      "x-management-150"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-management-101",
+      "status": "pass",
+      "assessment": "Specific competing volume goals and active same-day orders justify prompt coordinated reconciliation; all distractors reflect plausible order-selection shortcuts.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b4dba1d41406459b8fdef47bfce963892c8158202991770d196524764df83038"
+    },
+    {
+      "id": "x-management-102",
+      "status": "pass",
+      "assessment": "Explicit storage range and reliable pharmacy access make the selected arrangement feasible; intermittent refrigeration and unavailable neighbour do not meet requirements.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "81a4a0a615a0ea9c2a4012425cc6eaab91ce60f8b4bed0a6c2378598b28a1d99"
+    },
+    {
+      "id": "x-management-103",
+      "status": "revise",
+      "assessment": "Time-sensitive morning care appears only as an explicit defect in option3, rather than established clinical context.",
+      "issues": [
+        "Time-sensitive morning care appears only as an explicit defect in option3, rather than established clinical context."
+      ],
+      "proposedChanges": [
+        "State in the stem why care must occur by the morning deadline, then use Move the visit to the evening for option3. Other access choices and key are acceptable."
+      ],
+      "reviewedItemSha256": "c4fa0fddebf42f3a35d858da7f6e83788908a33c3f8018196cbe70e31da8820e"
+    },
+    {
+      "id": "x-management-104",
+      "status": "pass",
+      "assessment": "Unchanged pass reread: socially known interpreter creates a client-defined participation barrier that another qualified interpreter can address.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0d3bf5a097e14eb3d00568eb6557e5c813e6fe3ddb69cc293f904d2d1561486e"
+    },
+    {
+      "id": "x-management-105",
+      "status": "pass",
+      "assessment": "Validated response time and single-choice presentation support reliable direct engagement; bundled questions and premature supplied answers are meaningful communication errors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "11bf523205e1b895f4d2300bc5d4afe113d4c0a222675b5a4a7a8391071dd391"
+    },
+    {
+      "id": "x-management-106",
+      "status": "pass",
+      "assessment": "Required interval and two contradictory dates support verification of both intention and actual booking. The alternatives are now clinically plausible date-selection shortcuts, though0/3 overlap somewhat.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8460e47d8539bae42ba11965229522a201b2226bf1f57e5e1367b779f2d58054"
+    },
+    {
+      "id": "x-management-107",
+      "status": "pass",
+      "assessment": "Direct engagement with an available capable client comes before substitute-document or family investigation; parallel responses make the authority distinction useful.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "779d7fb9ea78c9f3325506f32285d13506a357f6950c2dca75a3d476c7baf8ca"
+    },
+    {
+      "id": "x-management-108",
+      "status": "pass",
+      "assessment": "Unchanged pass reread: accepting sink washing is not refusal of all hygiene; plan and documentation should reflect the accepted method.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4a7259416d53aea8e66b506859b3b43e1a20799eb9f3cc2d5aee114752d0cc0c"
+    },
+    {
+      "id": "x-management-109",
+      "status": "pass",
+      "assessment": "The telephone stop instruction creates a real discrepancy between dispensing, records and actual use. Multiple-source clarification is justified rather than relying on one dated document.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "71ca2a632defc16ffe0a1b4f2cec5ec1d5180124e67315d47581cf1b23e920f3"
+    },
+    {
+      "id": "x-management-110",
+      "status": "pass",
+      "assessment": "Stock, lead time and agency roles provide concrete coordination data; one ordering lead and shared checks are defensible, with duplication and a slow route plausible alternatives.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e757033a0f133dc214d5011d6248feb6f9611f88b15537e5a5cdbb28da1e4d5e"
+    },
+    {
+      "id": "x-management-111",
+      "status": "pass",
+      "assessment": "Client-accepted qualified telephone interpretation is available within the discharge timeframe. Leaflet, generic video and unverified bilingual staff do not provide equivalent interaction.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f5d4e8a59a2570c5c7ccf5c197e75ec10b6b84487039c91db914b354ca6fbb68"
+    },
+    {
+      "id": "x-management-112",
+      "status": "revise",
+      "assessment": "Repeatedly phoning until the nurse is free is still a contrived poor communication plan.",
+      "issues": [
+        "Repeatedly phoning until the nurse is free is still a contrived poor communication plan."
+      ],
+      "proposedChanges": [
+        "Replace option2 with Ask the caller to leave a callback message on the unit voicemail. Explain why an available authorized colleague can confirm an accountable callback arrangement while urgent care continues."
+      ],
+      "reviewedItemSha256": "1aec7e1131b694d963b61a79b24db9b72edc13e0dc1c43364218c5e3599f0f2a"
+    },
+    {
+      "id": "x-management-113",
+      "status": "pass",
+      "assessment": "The caregiver change and ongoing hands-on transfer needs make temporary support essential beyond the arrival transfer. Teaching and a next-day visit do not fill that gap.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c0672bf6d8371ad032ba434a265c1bf2270370e9e015597a63d82f8ecfcbbf45"
+    },
+    {
+      "id": "x-management-114",
+      "status": "revise",
+      "assessment": "Glucose option still advertises delay through before deciding whether help is needed.",
+      "issues": [
+        "Glucose option still advertises delay through before deciding whether help is needed."
+      ],
+      "proposedChanges": [
+        "Use Obtain a home glucose reading for option3. Keep the explanation that the reading can inform responders but must not postpone emergency activation for marked impaired responsiveness."
+      ],
+      "reviewedItemSha256": "85ebcc10f84a2de9c6f72f5206194419d986cb00b48eb02e2bd8848e7d940b9e"
+    },
+    {
+      "id": "x-management-115",
+      "status": "revise",
+      "assessment": "The photograph-only option advertises its defect and classifying improvement from old images is an obvious false claim.",
+      "issues": [
+        "The photograph-only option advertises its defect and classifying improvement from old images is an obvious false claim."
+      ],
+      "proposedChanges": [
+        "Recast as a single best next arrangement: improved lighting for another image, same-day in-person assessment (key), a telephone update the following day, or routine wound-clinic follow-up. Explain why spreading redness/chills exceeds unreliable remote review; align answer/type and rationales."
+      ],
+      "reviewedItemSha256": "5a53306e2e6637d5bcf95955b36484882ef0d1712ead74145b77e75dbc3e1122"
+    },
+    {
+      "id": "x-management-116",
+      "status": "pass",
+      "assessment": "Repeated failed teach-back after plain-language attempts establishes an unresolved dialect mismatch. A matched qualified interpreter is a specific corrective action.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8df01d680f9b15e462d50f2a3c8c8724e222c5aa229e7ced6a360b70a87f9641"
+    },
+    {
+      "id": "x-management-117",
+      "status": "pass",
+      "assessment": "A concrete informed refusal, stable comfort status and family disagreement support respecting the client and communicating consequences. It no longer relies on abstract intensity or visitor-frequency rules.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "501938f90643a000cface18ceb93541019ee5e7414a1feea1b8c5ce8a9ba6225"
+    },
+    {
+      "id": "x-management-118",
+      "status": "revise",
+      "assessment": "The repeat-CBC alternative appends an obviously unsafe routine-rounds delay.",
+      "issues": [
+        "The repeat-CBC alternative appends an obviously unsafe routine-rounds delay."
+      ],
+      "proposedChanges": [
+        "Use Please order a repeat blood count now. Explain that urgent bedside assessment is needed in addition to laboratory information for ongoing bleeding and hypotension."
+      ],
+      "reviewedItemSha256": "9f596df9db21ca7240ce1cf7c4b29b794fc84f47e67c9ad8217ae82a1361195c"
+    },
+    {
+      "id": "x-management-119",
+      "status": "pass",
+      "assessment": "Uncertain recent insulin administration creates meaningful duplicate-dose risk; a reachable administration record is better evidence than a regimen list or changing recollection.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c4a81c40581a9b687d8529011a4adde5217ec4df58aa70d515c6694a396b3adc"
+    },
+    {
+      "id": "x-management-120",
+      "status": "pass",
+      "assessment": "Concrete measurable transfer outcomes now contrast with legitimate staff interventions. Foundation classification is appropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b0b92e26615f7a334eb7250b822394bb9317876054054c79cdc9c5276a5fff52"
+    },
+    {
+      "id": "x-management-121",
+      "status": "revise",
+      "assessment": "The smaller-supply option advertises its inability to help using even-though wording, while the stem does not establish the smaller cost.",
+      "issues": [
+        "The smaller-supply option advertises its inability to help using even-though wording, while the stem does not establish the smaller cost."
+      ],
+      "proposedChanges": [
+        "State that the client has no funds for any initial supply, then use Request a smaller initial supply for option1. Explain why the immediately available access team is needed before tonight's dose."
+      ],
+      "reviewedItemSha256": "3706d5292e2f3292163fbb31f7ac11f8dd076a4bda43a9a463707c11eb076d83"
+    },
+    {
+      "id": "x-management-122",
+      "status": "pass",
+      "assessment": "Assessed teachable caregiver and same-day supervised training provide a feasible daily-care route despite client dexterity and weekly service limits. The key remains within coordinated care planning.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4bb118c30b6f4f9199808ac818642e6c75c1a09a68a7979cb380ced8a3e2f982"
+    },
+    {
+      "id": "x-management-123",
+      "status": "revise",
+      "assessment": "Lengthy-before-seeing advertises a delay; option3 asks observer to act before contacting the nurse although the stem says they already reported.",
+      "issues": [
+        "Lengthy-before-seeing advertises a delay; option3 asks observer to act before contacting the nurse although the stem says they already reported."
+      ],
+      "proposedChanges": [
+        "Use Obtain a written account of the statement for option1 and Ask the observer to obtain a verbal safety promise for option3. Keep immediate nursing assessment and protective observation; explain why a promise does not replace assessment."
+      ],
+      "reviewedItemSha256": "34402cd662b3e19d277dfcdb903c46d74f3de2c28462fac86da81c5d181576a3"
+    },
+    {
+      "id": "x-management-124",
+      "status": "pass",
+      "assessment": "The reasonable alternatives offer repetition, family support or the same recommendation; only the key addresses the requested additional professional opinion. Elective context is adequate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b1c3624c831a6c7b925fd36b69e242ef1168149b04e0f64454a4adfc04f3fead"
+    },
+    {
+      "id": "x-management-125",
+      "status": "revise",
+      "assessment": "Only the generic guide advertises inadequacy rather than letting personalized signal data discriminate.",
+      "issues": [
+        "Only the generic guide advertises inadequacy rather than letting personalized signal data discriminate."
+      ],
+      "proposedChanges": [
+        "Remove only from option1: Provide the generic manufacturer user guide. Explain the individualized signal is not guaranteed to be in generic instructions."
+      ],
+      "reviewedItemSha256": "d90ff3b23942ddc5aa60a786112658c2a5e779af513cd17b46ee54d5d9075661"
+    },
+    {
+      "id": "x-management-126",
+      "status": "pass",
+      "assessment": "An available qualified receiver and due task justify explicit accepted transfer; task lists/messages are plausible but unconfirmed handover methods.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fa1d85538a12b58f1acac7c9544ad7576f9d5f7532be4e7283c5fdbe0736cb73"
+    },
+    {
+      "id": "x-management-127",
+      "status": "pass",
+      "assessment": "Unchanged pass reread: privacy and qualified language support enable direct sensitive assessment; relative control can limit disclosure.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "14ead592ed2df27c351cdb7988c670f8a40ef3463b0465b67b6bf86a3fd32ac1"
+    },
+    {
+      "id": "x-management-128",
+      "status": "pass",
+      "assessment": "Distance from partner and inaccessible home create a specific two-sided transition concern. Exploring feasible alternatives is more targeted than repeating benefits or reassurance.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "87f99fc19cdfb9a677e481f9cb451e60a561443629e8b5c8e924dbe0e847603b"
+    },
+    {
+      "id": "x-management-129",
+      "status": "pass",
+      "assessment": "A changing wound discussion requires current two-way language access; prior teach-back and a translated summary cannot substitute for it.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8af6e08564ae0f5bda8092356c918266a7a6002237576e7036560fbb69eaa2f1"
+    },
+    {
+      "id": "x-management-130",
+      "status": "revise",
+      "assessment": "Wrong options advertise false relevance through as-main-current-complication and as-main-active-risk.",
+      "issues": [
+        "Wrong options advertise false relevance through as-main-current-complication and as-main-active-risk."
+      ],
+      "proposedChanges": [
+        "Ask Which facts most directly guide immediate receiving nursing care? Use The resolved postoperative nausea and The remote uncomplicated appendectomy for options0/3, keeping current assistance and pending-result ownership as keys. Explain historical versus actionable relevance in rationales."
+      ],
+      "reviewedItemSha256": "47dc54de4607f0138b45527d5e718db54babbfbf70fbcf8a25d190aeaf56b741"
+    },
+    {
+      "id": "x-management-131",
+      "status": "pass",
+      "assessment": "Unchanged pass reread: a shared plan should reflect a feasible current preference rather than repeated shift negotiation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f5b2b6f1ed4213afaac3e58dc8f6cc3e8b57e32f6a00f00467bc113d500c3fc9"
+    },
+    {
+      "id": "x-management-132",
+      "status": "pass",
+      "assessment": "Jurisdiction-specific restricted-activity trivia removed. New drowsiness/diaphoresis requires nurse assessment and reconsideration of support, without implying trained workers cannot obtain a glucose reading alongside nursing care.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a80f34cf32123628eaec10ab861aea694c13b8e498f4987e3d5b43cb60dd0164"
+    },
+    {
+      "id": "x-management-133",
+      "status": "pass",
+      "assessment": "Actual nonblanching tissue change, failed current protection and missing surface justify a specific timely risk/resource message. The alternatives address plausible but incomplete needs.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "afc11bda2efc2fbd02ff99cd26e8159de74893a4289ef9d6a8cbcfee3317bac4"
+    },
+    {
+      "id": "x-management-134",
+      "status": "pass",
+      "assessment": "A clear private-first request and elective meeting context support the chosen arrangement. Foundation classification accurately reflects the direct privacy principle.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "82bac6ecb1e433ac845137bcf1db21844a3d2f8281c0413a0eba764cb2cc83ad"
+    },
+    {
+      "id": "x-management-135",
+      "status": "revise",
+      "assessment": "Under the added cue criterion, defend-before-hearing makes the sole wrong option obvious; this was previously passed before the criterion was applied.",
+      "issues": [
+        "Under the added cue criterion, defend-before-hearing makes the sole wrong option obvious; this was previously passed before the criterion was applied."
+      ],
+      "proposedChanges": [
+        "Replace option1 with Reassure the client that staff have completed transfer training. Explain why training history does not resolve the reported event or need to assess the technique and plan."
+      ],
+      "reviewedItemSha256": "d2e9dbbb6133c0b22d254d9d0345b0121f790a4b77bdd985989245619cc72329"
+    },
+    {
+      "id": "x-management-136",
+      "status": "pass",
+      "assessment": "The interactive consent discussion addresses the specific language gap; form translation, witness impression and an information sheet are credible insufficient alternatives.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4d29bce0d23aedd7ccd8824cf90b611504c22e49e554b73b2ab2bad4aba89e56"
+    },
+    {
+      "id": "x-management-137",
+      "status": "pass",
+      "assessment": "A verified high potassium result makes further supplementation unsafe pending prompt assessment/clarification; changing timing or giving fluids does not resolve the order concern.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1ad52cd2cb5687bb2c495249426daf760c5390629b6d7fcb08b2d829de42f72d"
+    },
+    {
+      "id": "x-management-138",
+      "status": "pass",
+      "assessment": "Actual counts and equal exposure require separating changed event definitions from true event-rate or injury-rate conclusions. The numerical alternative is a credible but invalid calculation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "71d857a1432807b92421f294261d5f3f3e4d46b6348454e09967cee15d1b04f8"
+    },
+    {
+      "id": "x-management-139",
+      "status": "pass",
+      "assessment": "Direct observation tests the reported implementation gap, while education attendance and inventory totals are plausible indirect indicators. Specific case data support the key.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "597dda63e1ffbffa3295be54adb033844d201365189d940802ff58305e9f20d4"
+    },
+    {
+      "id": "x-management-140",
+      "status": "pass",
+      "assessment": "Unchanged pass reread: facts, named follow-up and questions support transparency; unsupported exact prognosis is inappropriate. The timing phrase describes a legitimate uncertainty distinction, not the sole reason the option is wrong.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "025b222a2eaf5fe30552ebd636b09d6ccda74bbcd9d311e806514bd80af4aa8e"
+    },
+    {
+      "id": "x-management-141",
+      "status": "revise",
+      "assessment": "Option3 explicitly says the misunderstanding remains unaddressed.",
+      "issues": [
+        "Option3 explicitly says the misunderstanding remains unaddressed."
+      ],
+      "proposedChanges": [
+        "Use Book the next usual-care visit for option3. Explain why booking alone does not clarify voluntary research participation."
+      ],
+      "reviewedItemSha256": "21188265ae86851d90f121566039626de780a779235dbf232da46c5b599d8345"
+    },
+    {
+      "id": "x-management-142",
+      "status": "revise",
+      "assessment": "Remaining in the doorway and forced entry for a routine dressing are exaggerated alternatives.",
+      "issues": [
+        "Remaining in the doorway and forced entry for a routine dressing are exaggerated alternatives."
+      ],
+      "proposedChanges": [
+        "Use Arrange a colleague to accompany the visit for option1 and Ask the visitor to explain why entry is blocked for option2. Explain why immediate withdrawal from the stated threat precedes further planning or negotiation."
+      ],
+      "reviewedItemSha256": "3040570f00e2b324d6eae3335a4743a27c491b8b8ef4a91eb8f53045920c6e77"
+    },
+    {
+      "id": "x-management-143",
+      "status": "pass",
+      "assessment": "Unchanged pass reread: receiving acceptance and essential handover prevent responsibility gaps; physical arrival or chart transfer alone is insufficient.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a65d493096e1e780c42c66b2f017c5bb6cf7bcceffef2efec3c20e59b6c4bd79"
+    },
+    {
+      "id": "x-management-144",
+      "status": "revise",
+      "assessment": "Options1/2 append assume-resolved and mark-complete mistakes, making otherwise plausible access actions artificially wrong.",
+      "issues": [
+        "Options1/2 append assume-resolved and mark-complete mistakes, making otherwise plausible access actions artificially wrong."
+      ],
+      "proposedChanges": [
+        "Use Obtain reading glasses and Play an audio recording for options1/2. The rationale can explain why preferred access and understanding should first be established; the key remains private collaborative exploration."
+      ],
+      "reviewedItemSha256": "396c42e25e90a81a23eea24afcab28722da27ab1866a7a09d86d4f9e46d33551"
+    },
+    {
+      "id": "x-management-145",
+      "status": "pass",
+      "assessment": "Unchanged pass reread: the actual urgency timing supports revision and another evaluation, not inferring effectiveness from implementation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "07dec83e48c54613e71bc7f7a41f2dc827ec287413a83c27575b926015c878b7"
+    },
+    {
+      "id": "x-management-146",
+      "status": "revise",
+      "assessment": "Despite added detail, corridor and doorway transfers remain exaggerated, and next-month rebooking is an extreme delay.",
+      "issues": [
+        "Despite added detail, corridor and doorway transfers remain exaggerated, and next-month rebooking is an extreme delay."
+      ],
+      "proposedChanges": [
+        "Use Arrange transfer to another accessible clinic today; Schedule a second visit for the physical examination; Ask the mobility team to assist in the booked room as the three distractors. Explain why the available equipped room after20 minutes directly solves the space/privacy/timing problem."
+      ],
+      "reviewedItemSha256": "f66b05daed7912ce4646ff77522423943cf896f5ba4db6f975cfcbbf54ef9e9d"
+    },
+    {
+      "id": "x-management-147",
+      "status": "pass",
+      "assessment": "Client permission, discrepant plan versions and multiple callers justify a current shared plan and agreed communication lead. Alternatives perpetuate uncoordinated information.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3dc6bd755a4dfa22a7e81f08c80137aa7c8863f02c8671ac2ef249a7c1fea6ea"
+    },
+    {
+      "id": "x-management-148",
+      "status": "revise",
+      "assessment": "Before-resolving identity flags option2; drawing from a guessed similar name is cartoon unsafe.",
+      "issues": [
+        "Before-resolving identity flags option2; drawing from a guessed similar name is cartoon unsafe."
+      ],
+      "proposedChanges": [
+        "Use Notify the prescriber for the chart currently open for option2 and Ask the laboratory to repeat analysis on the original specimen for option3. Explain why neither establishes whose specimen/result it is."
+      ],
+      "reviewedItemSha256": "1d258032f525b8705d704f3afd265aed7d58513d4194571794f71d187ec5271c"
+    },
+    {
+      "id": "x-management-149",
+      "status": "pass",
+      "assessment": "Foundation speaking-up item now uses equipment mismatch and credible seniority/debrief shortcuts. A pre-procedure pause is supported by uncertainty and prevention opportunity.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7ad317205b0c95a58b5a58df0d44514fd7fde269a75b65b4e42c7365f038f446"
+    },
+    {
+      "id": "x-management-150",
+      "status": "pass",
+      "assessment": "Unchanged pass reread: benefits-only teach-back exposes a material-risk gap requiring clarification before elective treatment; a signature cannot resolve that gap.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8b01bb978ab68cad9f937434e282c9521e8cccc464752755b20e9f127732ec77"
+    }
+  ],
+  "activeSourceFile": "authoring/a/management-03.json",
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

@@ -1,0 +1,307 @@
+{
+  "task": "/root/review_legacy",
+  "purpose": "Retrospective attribution of this reviewer\u2019s own c reports; not a fresh clinical review",
+  "updatedAt": "2026-10-01T18:22:35.569442+00:00",
+  "reports": [
+    {
+      "file": "c-basic-025.latest-recheck.json",
+      "beforeFileSha256": "2f11d0959f8923ff3c00e4edf80779b678f2e9334f75f1871b57f96f0829cdb7",
+      "afterFileSha256": "30fd4db9fd986d6125d7c05ddd38c12aeec14c7a645d34197f4b44fd68a87778",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-basic-026-050.changed-recheck.json",
+      "beforeFileSha256": "11009ee81e2e8159ffdbda8fcde88473b8e5f7703a84486828917580ba35b846",
+      "afterFileSha256": "36169d8df04b20f3965f34b694fd096df11647be03efa5700a4f0a55ccfeefd2",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-basic-026-050.legacy-review.json",
+      "beforeFileSha256": "902b09e2bdbb4a3848083032e63cc502194bc51728f9a9c5ea91d9510f1c9c3e",
+      "afterFileSha256": "f764d2a2e9e81d75f006c798142923b06b36e2d01e43fa61019b250b7016c64e",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-basic-029-039.final-recheck.json",
+      "beforeFileSha256": "f59e28760f8b3d4ab9f05cd8c880c4039909d9be77b5350b14d434113c6196ac",
+      "afterFileSha256": "76670fc151b0ecf67a0bacb9d79aea670805efcee525785957a12a0601c1a552",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-basic-051-075.changed-recheck.json",
+      "beforeFileSha256": "38c1e12eb51e8d375593c7651401e6617dd16eb82c1e0889489851eda8a91bca",
+      "afterFileSha256": "88b42b9e018c180d0b474d56394313be8a0bdea54dbb2ddfe46292ec514e584d",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-basic-076-100.changed-recheck.json",
+      "beforeFileSha256": "606e3936529124a48f9731d6746b8439fbbfae5a50a3a4282c60567fd31434c3",
+      "afterFileSha256": "a4e27e50385c78cbffa75d559caf828e88c181862f4917d519ed01a22467fe49",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-basic-096.final-recheck.json",
+      "beforeFileSha256": "8c968895c82b8a408491aaf2dc439c2b54c6b9d48a9723784c262dd587b9466d",
+      "afterFileSha256": "58dbc60f442b3f117c9822605411c4309099b5a76285b42407903a2cb842f262",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-basic-101-125.changed-recheck.json",
+      "beforeFileSha256": "0abe39753e9aa8e29eac1f6cacef899df374f0554d8c22ef628ba0582d3bbcc6",
+      "afterFileSha256": "fcbaae67e0a8c598851fac1befe18b4f983d5fd332d0408868e59ac73e9b4888",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-basic-101-125.legacy-review.json",
+      "beforeFileSha256": "f80f84162b68c4b324be0f7e6f0f2966440a73d87f02a5aac000cbb506e54b5b",
+      "afterFileSha256": "5e6dfda8b955027922a63ac35a6a0ed77eba27583623f6093bcedef2a534bab3",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-basic-114-115-124.final-recheck.json",
+      "beforeFileSha256": "4ab0e624621761bc96286717568ea9fb70a607b2723dceab30c589bd5439c42f",
+      "afterFileSha256": "ab5624f609dd7d023a494a272f407f60c1f66e94c55cf609248567bfe43183bb",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-basic-126-150.changed-recheck.json",
+      "beforeFileSha256": "3159a13196a4754172b9938668ea3e3fe95d03752be9062a780b823975145ee9",
+      "afterFileSha256": "e640cb0f7c2dd8e0a63158f1f8a0a7466223c8520ebcac99ace1fb5fce8e0e76",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-basic-126-150.legacy-review.json",
+      "beforeFileSha256": "092ab77c41f4e8a041d1aef4c4ae8ee2924a78a3c83ddeb51973a981509d4de5",
+      "afterFileSha256": "60a70a6c021b9bcd361afaa69a9221019a6b7e0761c7f39c07152b75900c083c",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-basic-151-175.changed-recheck.json",
+      "beforeFileSha256": "8fc26f3978b31317cc0ab773831a400177244a55e4e5f2d1451616daae5655a5",
+      "afterFileSha256": "7d8172ebccae5329774b0599b0ebe7d6124530cb4eb4f6ecda7910246259a7db",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-basic-151-175.legacy-review.json",
+      "beforeFileSha256": "c26375ada4c62102ac0b02649f28615ac7f7c9c92489b09718c0740b5b763df2",
+      "afterFileSha256": "ab1321ef62497addaf1d773ad2a3764caad3e0b2a74502354bd62f4cea084e2b",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-basic-176-200.changed-recheck.json",
+      "beforeFileSha256": "47c0fe18541bd7c0655714c89c2ddef57c29962cde2623640688440896edaf26",
+      "afterFileSha256": "91dc29eab77694c85fce105cccd853db57afe92a0fe39feea57831aa9d5c86fe",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-basic-176-200.legacy-review.json",
+      "beforeFileSha256": "4b6a705d277674c0eca8608968184a60a754321911948e602e561f55ac4d8a14",
+      "afterFileSha256": "c11c2bcca63d8161b0a0a335ce9c0a15bb0b17cc4144531831a4b06463d7459f",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-final-basic035.recheck.json",
+      "beforeFileSha256": "720850e80ba6ceb1b9544de33c7852d4eb3a0c00da856aed398c322eaeecf2aa",
+      "afterFileSha256": "7eb868b8d5aa7e207b63d4a732aee69d5d677576f6a3b2d7e33f7b727a5d775a",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-final-basic089-097.recheck.json",
+      "beforeFileSha256": "3c2362b219d26c253dd70899ebb6c4092c58d4878d4b092211db03d143017616",
+      "afterFileSha256": "7f635d38875b47c2ae7a8e4016dce311f5aa8e36660f2b6cfa811570c86309ed",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-final-basic153-158-159.recheck.json",
+      "beforeFileSha256": "a8661e91f177319e65ab72964dd8bff8ad19c7258c5d3815bc3148b107837b7a",
+      "afterFileSha256": "dd74cb945523e330c44d095ffb901852b0516b4f6c441cb45f38dde3a3919d38",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-final-basic180-190-200.recheck.json",
+      "beforeFileSha256": "de7c8069789ef0a9f9ac85eb41dae6810696352fd29872d3050fa250f92c165e",
+      "afterFileSha256": "10b3355a9a7b56e69e8cc5a62d91fb86042ee11fa5284e354416d348aa4a4ee7",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-final-risk069-075.recheck.json",
+      "beforeFileSha256": "94932f04c2186eb23a04065533b36e80b469a1238ee438af67a2eac387eef626",
+      "afterFileSha256": "4e0380c660ff852193cd9fcbeff19008b1e6591629ebe483cac6fa9329a9f0eb",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-final-risk083-087.recheck.json",
+      "beforeFileSha256": "ce3705641447c283eb5290b0323499aa55d1edef5297b4e5d58e4127ae27f944",
+      "afterFileSha256": "bb37bb8db6f7817493b9f1e08b363726ba65f5d6394fc3403dfb7b2611489090",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-final-risk101-111-116.recheck.json",
+      "beforeFileSha256": "d55c215d02ab567e0275d3cac9ae2185f415ef57df868a8e501ab30d3609c783",
+      "afterFileSha256": "ebb59906e4db9545c9a657a437522e810dcc26a99e5aec870bfb2852be010b2f",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-final-risk127-145-147-148-149.recheck.json",
+      "beforeFileSha256": "d9ce7a50e1dbee9fa83393cdfeaf16bf2da1e93fe3a5acc50412070bc18b4a60",
+      "afterFileSha256": "3a39c4a84abba2bb7dcac13854a2e6b8ef4d66ca8ce8e6e5beb74449364f6a5e",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-risk-001-025.changed-recheck.json",
+      "beforeFileSha256": "0c3e10c21f7d04eec15eafb545602a3b531ea5696fe239cef64481bdb84082e6",
+      "afterFileSha256": "f5fb99b5d90574495801ecfb6ff0d79b62f29b97af05d44f1dd2a144288fb2dc",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-risk-001-025.legacy-review.json",
+      "beforeFileSha256": "465985d201c102a0e1c3353c33aebd8eb9774fea9d6dd1562733d4d24e4492a8",
+      "afterFileSha256": "74014b7b7c355b165e59008bcc9f5cbf4566d0c3f3f0e835730522bf7ca97608",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-risk-009-011-025.final-recheck.json",
+      "beforeFileSha256": "f354f8e63d73281c89515f59f7191e89bd1d3c78e2baea38642002bf7ffec8c8",
+      "afterFileSha256": "03f9856106377a664b0e8479cfd0629638c821aecf92fee2b58af573aaf36067",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-risk-026-050.changed-recheck.json",
+      "beforeFileSha256": "9989ae6c73dfa5772000161c0f4b29e62436f1a95d13e7a05e5c1fb81e2dfc5d",
+      "afterFileSha256": "eb0af299018b99597eac6203260c25fb1ec8126170f7dac403425deb961fa8a7",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-risk-026-050.legacy-review.json",
+      "beforeFileSha256": "ad02ff9e2e6409cc76221333753d5f676b01c66ae2a6d5af910fd4bcac097d3a",
+      "afterFileSha256": "f7c75ba10bfaf08efbcb212733da7ff82587cc1ffcd80a1f50ea461f795289d1",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-risk-035-045-050.final-recheck.json",
+      "beforeFileSha256": "285b23e0ac114e6dae002546a8b75d5c3996f9c61d96d786a4bc1eef43d8217c",
+      "afterFileSha256": "8bdee761171d6cbedb15a7863493afcd64478cf33e669c951d476d85cfadbc85",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-risk-051-075.changed-recheck.json",
+      "beforeFileSha256": "5d8559d75787e3b759c036fd97f1d6cc6a6dfa7b8d31fcfbc2ffc319521e70a9",
+      "afterFileSha256": "49083dfa9a8b0991e710e23d935419b20efb13e44b150adaf546c86b54992e8d",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-risk-051-075.legacy-review.json",
+      "beforeFileSha256": "8a375ac6c8da910ee840adb06cf9169e2e3b80b3dd92de2109fcf0bf34a2538d",
+      "afterFileSha256": "2de63597717f7c78065b0fe587c1decfd85a56927d6d6846be6c14bbcb5a8a02",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-risk-069.final-content-recheck.json",
+      "beforeFileSha256": "4b13f45b93910cc91a27f474e9c8b96e6b59f5642e2e3b3bc08f5a872c06f5a5",
+      "afterFileSha256": "9dbcacc0f7571b36cf4904dca051144bb987a0205d3a84e774a091aa7baaa9e9",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-risk-076-100.changed-recheck.json",
+      "beforeFileSha256": "dfd6dcb31ba4d4ef906fc539448af5c4ef7c24cb09cc2d4b68015a8ae32c9040",
+      "afterFileSha256": "fcbc2e5a11604dadf4e9a515cd6a40cb89786fc1dc8711694e871384eb1df704",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-risk-076-100.legacy-review.json",
+      "beforeFileSha256": "b1af45cd852c21dae409b1babfaa2078ac4f7c2f4ad8deb5e7009d87ea0bd647",
+      "afterFileSha256": "e6780f91674cffa8cde7b41a61ff7f895bf9bfe288c1e5807b7b729475f0de99",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-risk-101-125.changed-recheck.json",
+      "beforeFileSha256": "4f34168a513df00e169120296073f3fa54fe802aa4668ebe2296c3dcd50bdd7f",
+      "afterFileSha256": "520b537b6945563bb028abef4f308f78041eeb44b29e7c71e9e21706e8b09c05",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-risk-101-125.legacy-review.json",
+      "beforeFileSha256": "72c28c87dfa6fed2a75cf11346f1dfc04c5887df8eeb52a3d27a483128a36f5f",
+      "afterFileSha256": "3c9d46c255d681800ca3288af33014c7b8bdbb83890cede14c88392cc494ca96",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-risk-126-150.changed-recheck.json",
+      "beforeFileSha256": "51a82d57036b6a45a9578b4d82f9816e37502b9d1981673e415633a12e9a0086",
+      "afterFileSha256": "ab6ee6ce284ce2ccecdd54d88a8f4e726df356b2ca9932b6a164c6977d599374",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-risk-126-150.legacy-review.json",
+      "beforeFileSha256": "bb286ba3cdb7eec7614ebcec872ccbe85eafa8be00ccbf2d62925ed470a1bb00",
+      "afterFileSha256": "0a605b3630f597572eb21f767b70913cbd9f13dad00f4b2ee4d98d30f40bad11",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-risk163.final-residual-recheck.json",
+      "beforeFileSha256": "514cd1a35b9dac759850e973611dc767346aa98bea2a7598cf41308077fbc648",
+      "afterFileSha256": "c8b3ef1338539fd16b8382af07ccaaa38e40a49120c951625948eac1d43aaa26",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-risk181-195.final-residual-recheck.json",
+      "beforeFileSha256": "dfe01935a172d651ea90350faae087122b3863148b495e1276f235fed4a44f9e",
+      "afterFileSha256": "6bd458c4afa0b3873321539d5873f8f88e92fbb8fc91568ca16fb83c14843c68",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-source-only-basic-026-050.recheck.json",
+      "beforeFileSha256": "14bde7bd2d0f0168f1c5d30383ba21338ae7a9ea42b776b31f53542a41ac896a",
+      "afterFileSha256": "639ff80fe7ea3ce8ca3e00d592e0aaf0e6e05b02a0ca0840867624d9189a86aa",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-source-only-basic-051-075.recheck.json",
+      "beforeFileSha256": "401248607ef418ab5dfaf952dc3dce25729fe3e3162c7a79c0289f453c6b4740",
+      "afterFileSha256": "4b831a192804ae5039d8781e87bc5d74a8dc6e88525f6ad6a98f24e7a2905f0a",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-source-only-basic-076-100.recheck.json",
+      "beforeFileSha256": "39f708d1adbd150f4dfe9a27fdd6f4d85ee28449ef4c7f7389c8a8728e31cf39",
+      "afterFileSha256": "eebd713c1f24606e6bbf28a46474b7284b2ca7f68f68a01e005b05967f70b2b2",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-source-only-basic-101-125.recheck.json",
+      "beforeFileSha256": "506cdc50daf02acc42f1292f4b8cbf2d18e645da96fd17690efa5ca829b8d340",
+      "afterFileSha256": "5d025b280e567aad4129234cda4652ad76505ca424c49e5e28e03b3310a75f3e",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-source-only-basic-176-200.recheck.json",
+      "beforeFileSha256": "8d78fd4872d35221e77766a556ed2d53a4b89935cac76058e459fed7b443bfe8",
+      "afterFileSha256": "387b2fe00a7f6e940336d0c2b9c16e909c4c7bf24a695c011f2ea857d6128ccb",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-source-only-risk-001-025.recheck.json",
+      "beforeFileSha256": "0fc2546db1bc7151a96dd5bf2b526691ec83bd68ec231f0e9c639997afc0dca8",
+      "afterFileSha256": "2515fed604dc5136ff921255a34a9e7b21245314106936a9ba4fef4cd993eba1",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-source-only-risk-026-050.recheck.json",
+      "beforeFileSha256": "23066d23e17df695dd77e86db00d7c9097fa6907fc985075b20b70c55bffdc72",
+      "afterFileSha256": "4333a03c2570374b7ee5e52a04e85f055b69883122247b7aff9565b5a4b6dab7",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-source-only-risk-051-075.recheck.json",
+      "beforeFileSha256": "2bdcf8f9950719c03695fd7a413251c7c88fbfef199b7c2043c58c913899bce0",
+      "afterFileSha256": "88ff4be3b710acf98e5b28f731891e4585c85107ec0a3e94db6a1e093d0ad2c6",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    },
+    {
+      "file": "c-source-only-risk-076-100.recheck.json",
+      "beforeFileSha256": "b8236b09ae76d28c4cec9f85b05e6d17bbcee5cf45094e9c880f2627d8ea6149",
+      "afterFileSha256": "0715bd1433b88a1f380c1b7e0e0f806d8ef789b015aef698d2d9ac3d972eaa3a",
+      "change": "Added reviewerTask only; dates, judgments, source and item hashes preserved."
+    }
+  ]
+}

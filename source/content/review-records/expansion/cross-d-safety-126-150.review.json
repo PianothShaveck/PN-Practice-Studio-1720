@@ -1,0 +1,524 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:40:53.111008+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-snapshot.json",
+  "sourceSha256": "e342198928340b8e1b78b3440be0bdef2f40eadc4adbed1569f1ad51e0bea4cc",
+  "coverage": {
+    "sourceItems": 200,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-safety-126",
+      "x-safety-127",
+      "x-safety-128",
+      "x-safety-129",
+      "x-safety-130",
+      "x-safety-131",
+      "x-safety-132",
+      "x-safety-133",
+      "x-safety-134",
+      "x-safety-135",
+      "x-safety-136",
+      "x-safety-137",
+      "x-safety-138",
+      "x-safety-139",
+      "x-safety-140",
+      "x-safety-141",
+      "x-safety-142",
+      "x-safety-143",
+      "x-safety-144",
+      "x-safety-145",
+      "x-safety-146",
+      "x-safety-147",
+      "x-safety-148",
+      "x-safety-149",
+      "x-safety-150"
+    ],
+    "unreviewedIds": [
+      "x-safety-001",
+      "x-safety-002",
+      "x-safety-003",
+      "x-safety-004",
+      "x-safety-005",
+      "x-safety-006",
+      "x-safety-007",
+      "x-safety-008",
+      "x-safety-009",
+      "x-safety-010",
+      "x-safety-011",
+      "x-safety-012",
+      "x-safety-013",
+      "x-safety-014",
+      "x-safety-015",
+      "x-safety-016",
+      "x-safety-017",
+      "x-safety-018",
+      "x-safety-019",
+      "x-safety-020",
+      "x-safety-021",
+      "x-safety-022",
+      "x-safety-023",
+      "x-safety-024",
+      "x-safety-025",
+      "x-safety-026",
+      "x-safety-027",
+      "x-safety-028",
+      "x-safety-029",
+      "x-safety-030",
+      "x-safety-031",
+      "x-safety-032",
+      "x-safety-033",
+      "x-safety-034",
+      "x-safety-035",
+      "x-safety-036",
+      "x-safety-037",
+      "x-safety-038",
+      "x-safety-039",
+      "x-safety-040",
+      "x-safety-041",
+      "x-safety-042",
+      "x-safety-043",
+      "x-safety-044",
+      "x-safety-045",
+      "x-safety-046",
+      "x-safety-047",
+      "x-safety-048",
+      "x-safety-049",
+      "x-safety-050",
+      "x-safety-051",
+      "x-safety-052",
+      "x-safety-053",
+      "x-safety-054",
+      "x-safety-055",
+      "x-safety-056",
+      "x-safety-057",
+      "x-safety-058",
+      "x-safety-059",
+      "x-safety-060",
+      "x-safety-061",
+      "x-safety-062",
+      "x-safety-063",
+      "x-safety-064",
+      "x-safety-065",
+      "x-safety-066",
+      "x-safety-067",
+      "x-safety-068",
+      "x-safety-069",
+      "x-safety-070",
+      "x-safety-071",
+      "x-safety-072",
+      "x-safety-073",
+      "x-safety-074",
+      "x-safety-075",
+      "x-safety-076",
+      "x-safety-077",
+      "x-safety-078",
+      "x-safety-079",
+      "x-safety-080",
+      "x-safety-081",
+      "x-safety-082",
+      "x-safety-083",
+      "x-safety-084",
+      "x-safety-085",
+      "x-safety-086",
+      "x-safety-087",
+      "x-safety-088",
+      "x-safety-089",
+      "x-safety-090",
+      "x-safety-091",
+      "x-safety-092",
+      "x-safety-093",
+      "x-safety-094",
+      "x-safety-095",
+      "x-safety-096",
+      "x-safety-097",
+      "x-safety-098",
+      "x-safety-099",
+      "x-safety-100",
+      "x-safety-101",
+      "x-safety-102",
+      "x-safety-103",
+      "x-safety-104",
+      "x-safety-105",
+      "x-safety-106",
+      "x-safety-107",
+      "x-safety-108",
+      "x-safety-109",
+      "x-safety-110",
+      "x-safety-111",
+      "x-safety-112",
+      "x-safety-113",
+      "x-safety-114",
+      "x-safety-115",
+      "x-safety-116",
+      "x-safety-117",
+      "x-safety-118",
+      "x-safety-119",
+      "x-safety-120",
+      "x-safety-121",
+      "x-safety-122",
+      "x-safety-123",
+      "x-safety-124",
+      "x-safety-125",
+      "x-safety-151",
+      "x-safety-152",
+      "x-safety-153",
+      "x-safety-154",
+      "x-safety-155",
+      "x-safety-156",
+      "x-safety-157",
+      "x-safety-158",
+      "x-safety-159",
+      "x-safety-160",
+      "x-safety-161",
+      "x-safety-162",
+      "x-safety-163",
+      "x-safety-164",
+      "x-safety-165",
+      "x-safety-166",
+      "x-safety-167",
+      "x-safety-168",
+      "x-safety-169",
+      "x-safety-170",
+      "x-safety-171",
+      "x-safety-172",
+      "x-safety-173",
+      "x-safety-174",
+      "x-safety-175",
+      "x-safety-176",
+      "x-safety-177",
+      "x-safety-178",
+      "x-safety-179",
+      "x-safety-180",
+      "x-safety-181",
+      "x-safety-182",
+      "x-safety-183",
+      "x-safety-184",
+      "x-safety-185",
+      "x-safety-186",
+      "x-safety-187",
+      "x-safety-188",
+      "x-safety-189",
+      "x-safety-190",
+      "x-safety-191",
+      "x-safety-192",
+      "x-safety-193",
+      "x-safety-194",
+      "x-safety-195",
+      "x-safety-196",
+      "x-safety-197",
+      "x-safety-198",
+      "x-safety-199",
+      "x-safety-200"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-safety-126",
+      "status": "revise",
+      "assessment": "Balancing oxygen continuity with fall prevention is useful, but knots and permanent walker removal are cartoon alternatives.",
+      "issues": [
+        "Balancing oxygen continuity with fall prevention is useful, but knots and permanent walker removal are cartoon alternatives."
+      ],
+      "proposedChanges": [
+        "Compare supplier-guided routing, changing to a shorter tube that limits destination access, taping tubing across the walkway, and moving the chair nearer the concentrator. Give relevant room layout and preserve prescribed delivery."
+      ],
+      "reviewedItemSha256": "f735e61c6f6204a1551ca1b6fa808d20ba3e1e1d372f3432c84bba0252b64de4"
+    },
+    {
+      "id": "x-safety-127",
+      "status": "revise",
+      "assessment": "Backup-plan activation is correct; increasing an unpowered concentrator setting and improvised oxygen are implausible.",
+      "issues": [
+        "Backup-plan activation is correct; increasing an unpowered concentrator setting and improvised oxygen are implausible."
+      ],
+      "proposedChanges": [
+        "Compare activating the prescribed backup cylinder, calling supplier first, moving to a neighbour with power, and arranging emergency transport. Include stable symptoms and readily available backup to distinguish first action."
+      ],
+      "reviewedItemSha256": "aea2fb0cadd4dc852559ea6094f559d3757f3a0107b2becd30d46937cb1c8f3a"
+    },
+    {
+      "id": "x-safety-128",
+      "status": "pass",
+      "assessment": "Maintenance, ignition separation and contingency planning are correct teach-back statements; adjusting prescribed flow for anxiety is a plausible misuse misconception with a clear rationale.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "283b471a9ce57bafbd570804f7adcc86c039121f4eb78ebf4dfbb73aad744b02"
+    },
+    {
+      "id": "x-safety-129",
+      "status": "revise",
+      "assessment": "Label-directed single-product use is correct. Close sniffing is a conspicuous unsafe foil.",
+      "issues": [
+        "Label-directed single-product use is correct. Close sniffing is a conspicuous unsafe foil."
+      ],
+      "proposedChanges": [
+        "Replace it with mixing small amounts outdoors or increasing ventilation during mixing. Explain that ventilation/small volume does not establish chemical compatibility."
+      ],
+      "reviewedItemSha256": "5731ccbd9df75571787d38e647324732d93a1da69696db93245ba46a5891658b"
+    },
+    {
+      "id": "x-safety-130",
+      "status": "revise",
+      "assessment": "Original labelled secure storage is appropriate, but food colouring and explicit no-label storage are weak.",
+      "issues": [
+        "Original labelled secure storage is appropriate, but food colouring and explicit no-label storage are weak."
+      ],
+      "proposedChanges": [
+        "Compare original labelled secure container, adding a cleaner label to the beverage bottle, placing that bottle on a high shelf, and notifying family. Do not direct transfer of an unidentified chemical into a guessed original container; specify identity known."
+      ],
+      "reviewedItemSha256": "a710d2baf4f926707e22cba6ba24d227bb982610eb7efc6dd50250aa20efc00b"
+    },
+    {
+      "id": "x-safety-131",
+      "status": "revise",
+      "assessment": "Accessible exit is important but decorative rearrangement, annual delay and faster movement are filler.",
+      "issues": [
+        "Accessible exit is important but decorative rearrangement, annual delay and faster movement are filler."
+      ],
+      "proposedChanges": [
+        "Compare clearing a mobility-aid-wide route, placing emergency numbers beside phone, installing an extra smoke alarm, and arranging a practice evacuation. Scenario should establish physical obstruction as current limiting factor."
+      ],
+      "reviewedItemSha256": "cab38acedbc153968840d3f1f83edb78971e2caf0608c73549eef83bc75c3413"
+    },
+    {
+      "id": "x-safety-132",
+      "status": "revise",
+      "assessment": "Individualized backup and evacuation plan is correct. Any-outage phone power and only-elevator wording advertise flaws.",
+      "issues": [
+        "Individualized backup and evacuation plan is correct. Any-outage phone power and only-elevator wording advertise flaws."
+      ],
+      "proposedChanges": [
+        "Use actual plans: charged spare power source, identified contact network, elevator-dependent evacuation, and a manual mobility backup the client cannot transfer into. Ask which need modification or select viable plans with functional cues."
+      ],
+      "reviewedItemSha256": "fa1d789535f946cb9ff36dbff9b078485ac7318d6b51870aefa4f03bf75d599d"
+    },
+    {
+      "id": "x-safety-133",
+      "status": "revise",
+      "assessment": "Exit access/support is sound. Arguing privately and waiting until completely calm are caricatures.",
+      "issues": [
+        "Exit access/support is sound. Arguing privately and waiting until completely calm are caricatures."
+      ],
+      "proposedChanges": [
+        "Compare moving toward a clear exit, moving closer to hear the visitor, asking visitor to sit before continuing, and reassuring them while remaining seated. State escalating threat and available unobstructed route; keep key concise."
+      ],
+      "reviewedItemSha256": "8db6d48a3282237ad30141ad3126df4f6e3dacd3a602ac7d1f1a96483e7e819d"
+    },
+    {
+      "id": "x-safety-134",
+      "status": "revise",
+      "assessment": "Missed-check-in protocol is appropriate, but sending a client to find the worker is implausible.",
+      "issues": [
+        "Missed-check-in protocol is appropriate, but sending a client to find the worker is implausible."
+      ],
+      "proposedChanges": [
+        "Compare starting defined contact/escalation sequence, sending a second worker to the address, calling the next scheduled client, and allowing the usual visit-overrun interval. Specify check-in threshold has been exceeded."
+      ],
+      "reviewedItemSha256": "e917ea1e147f8eea1f87ab69373cbcb12f91e256e03ca54d3399474ca0376fd0"
+    },
+    {
+      "id": "x-safety-135",
+      "status": "revise",
+      "assessment": "Space and coordinated calm support are correct but all other choices signal deliberate provocation; key is longest/comprehensive.",
+      "issues": [
+        "Space and coordinated calm support are correct but all other choices signal deliberate provocation; key is longest/comprehensive."
+      ],
+      "proposedChanges": [
+        "Compare stepping back and using one calm speaker, bringing several colleagues into the room, offering a detailed explanation of the procedure, and asking the client to sit for assessment. Specify no immediate hands-on care need and explain stimulation/threat."
+      ],
+      "reviewedItemSha256": "604ea33444e966fd9eefcfc31bd9429bd42c357ad25e31c373dbfc9c8deeafc0"
+    },
+    {
+      "id": "x-safety-136",
+      "status": "revise",
+      "assessment": "Security response is correct but asking a client to confirm is filler and solo confrontation/search duplicate risks.",
+      "issues": [
+        "Security response is correct but asking a client to confirm is filler and solo confrontation/search duplicate risks."
+      ],
+      "proposedChanges": [
+        "Compare discreetly activating security response, asking the visitor whether they carry a weapon, asking them to leave the unit, and moving the reporting visitor to another room. State immediate safety and local protocol; key should not combine every good action uniquely."
+      ],
+      "reviewedItemSha256": "404726f89b75aa2d33e67d223dc62d0e52790f05bcd165a4361b7ac633188bba"
+    },
+    {
+      "id": "x-safety-137",
+      "status": "revise",
+      "assessment": "Observed behaviour, effective approaches and agreed measures belong in handover. Always-dangerous label is an obvious nonkey.",
+      "issues": [
+        "Observed behaviour, effective approaches and agreed measures belong in handover. Always-dangerous label is an obvious nonkey."
+      ],
+      "proposedChanges": [
+        "Use concrete chart entries after a defined event, including exact behaviour/trigger, effective distance/tone, unverified inference about intent, and current precautions. Avoid explicit derogatory wording as the only distractor."
+      ],
+      "reviewedItemSha256": "65e09a852ecd70233df10aa7337cccae62316bc7cf025a3951d101f6c180e0c9"
+    },
+    {
+      "id": "x-safety-138",
+      "status": "revise",
+      "assessment": "Reporting and preserving a credible threat is correct. Challenging the sender and deleting evidence are weak competing responses.",
+      "issues": [
+        "Reporting and preserving a credible threat is correct. Challenging the sender and deleting evidence are weak competing responses."
+      ],
+      "proposedChanges": [
+        "Compare preserving/reporting through safety process, contacting former client to clarify intent, blocking the number, and discussing it with the next-shift nurse. Explain why formal risk response is needed beyond informal measures."
+      ],
+      "reviewedItemSha256": "04d538dec53abc8552ce9a503060685a3a00ca6a5bc9b3da6827190619e64892"
+    },
+    {
+      "id": "x-safety-139",
+      "status": "revise",
+      "assessment": "Avoiding unnecessary force is correct but when-safe-alternatives-exist directly supplies the judgment; substantial overlap with133.",
+      "issues": [
+        "Avoiding unnecessary force is correct but when-safe-alternatives-exist directly supplies the judgment; substantial overlap with133."
+      ],
+      "proposedChanges": [
+        "Give a concrete available panic alarm and clear nearby safe retreat versus blocked primary exit. Ask for best next action with plausible options, rather than a negative question whose long answer embeds why it is wrong."
+      ],
+      "reviewedItemSha256": "c1dced62f7f2bb0a18893826759c92a4b788e712769cf90423099d509a62ce23"
+    },
+    {
+      "id": "x-safety-140",
+      "status": "revise",
+      "assessment": "One coordinated communicator is sound, but volume increase and unsupported novice lead are cartoon options.",
+      "issues": [
+        "One coordinated communicator is sound, but volume increase and unsupported novice lead are cartoon options."
+      ],
+      "proposedChanges": [
+        "Compare one lead communicator, rotating speakers every minute, having each discipline explain its concern, and moving all staff closer to show support. Explain reducing conflicting messages in the specific scene."
+      ],
+      "reviewedItemSha256": "8beff654c1787c5a805b15aae2846dfbccdacf3c54ad94bd23a80e9cfa0ad09b"
+    },
+    {
+      "id": "x-safety-141",
+      "status": "revise",
+      "assessment": "Follow-up reporting/review/support are appropriate, but exclude-near-misses is an obvious nonkey and repeated generic3-of4.",
+      "issues": [
+        "Follow-up reporting/review/support are appropriate, but exclude-near-misses is an obvious nonkey and repeated generic3-of4."
+      ],
+      "proposedChanges": [
+        "Use a concrete near miss with no injury and proposed actions such as recording objective events, changing room layout, deleting identifiers from the clinical chart, and offering staff support; distinguish clinical documentation from safety reporting accurately. Vary count/positions."
+      ],
+      "reviewedItemSha256": "90682049b46aad974ee2121cf3aaaf4854c30852305280089b3564573d03fe66"
+    },
+    {
+      "id": "x-safety-142",
+      "status": "revise",
+      "assessment": "Environment/support review is sensible. Only-closed-door and promise options are weak; key uniquely combines safe processes.",
+      "issues": [
+        "Environment/support review is sensible. Only-closed-door and promise options are weak; key uniquely combines safe processes."
+      ],
+      "proposedChanges": [
+        "Compare preparing a room with fewer loose objects and coordinated support, assigning additional staff inside the crowded room, obtaining a verbal agreement, and moving supplies to the far side of the same room. Explain actual access/exit risks."
+      ],
+      "reviewedItemSha256": "cb2dcdbea6f6e2160450b0408c49139d86860c372b21cdf2b2cae073a130848b"
+    },
+    {
+      "id": "x-safety-143",
+      "status": "revise",
+      "assessment": "Pain/illness assessment follows grimacing and abdominal guarding, but assumption of aggression and rapid instructions are not plausible nursing priorities.",
+      "issues": [
+        "Pain/illness assessment follows grimacing and abdominal guarding, but assumption of aggression and rapid instructions are not plausible nursing priorities."
+      ],
+      "proposedChanges": [
+        "Compare pausing to assess abdominal pain, administering an available agitation PRN, rescheduling the hygiene procedure, and using a familiar caregiver to complete it. Explain why new physical cues require assessment before treating behaviour alone."
+      ],
+      "reviewedItemSha256": "8444b9cde447f15955fc497065fda1f3b87c80926a0683b1913875e2882c753e"
+    },
+    {
+      "id": "x-safety-144",
+      "status": "revise",
+      "assessment": "Safety limits and support preserve urgent care; asking a client to restrain visitor and stopping all treatment are implausible extremes.",
+      "issues": [
+        "Safety limits and support preserve urgent care; asking a client to restrain visitor and stopping all treatment are implausible extremes."
+      ],
+      "proposedChanges": [
+        "Compare a clear boundary plus support, assigning one nurse to extended explanation, asking the client to reassure visitor, and transferring care to a quieter room. Use treatment urgency and active interference to select the immediate response."
+      ],
+      "reviewedItemSha256": "5b33fea01bc07609b3299e9662f3fff9b3ec8fbcb3e9bf241840343bf8e3266e"
+    },
+    {
+      "id": "x-safety-145",
+      "status": "revise",
+      "assessment": "Individual risk assessment is appropriate, but solely-diagnosis and avoiding trigger questions advertise poor practice.",
+      "issues": [
+        "Individual risk assessment is appropriate, but solely-diagnosis and avoiding trigger questions advertise poor practice."
+      ],
+      "proposedChanges": [
+        "Compare behaviour/history/environment assessment, using diagnosis-based observation level, relying on current calm presentation, and applying prior admission precautions unchanged. Avoid unsupported absolutes; frame foundation versus application honestly."
+      ],
+      "reviewedItemSha256": "5e4aa160f8d0f57342748854d6e5dff7c94c2b143033cb96c3d84dacd4627911"
+    },
+    {
+      "id": "x-safety-146",
+      "status": "revise",
+      "assessment": "Constructive near-miss response is correct but incompetence accusation is a conspicuous nonkey.",
+      "issues": [
+        "Constructive near-miss response is correct but incompetence accusation is a conspicuous nonkey."
+      ],
+      "proposedChanges": [
+        "Use actual leadership responses such as reviewing process, assessing immediate impact, delaying report until harm is confirmed, and arranging focused education from findings. Make all options realistic and vary SATA pattern."
+      ],
+      "reviewedItemSha256": "4587c2a7c29ded434fcaacee351c97469ff123867330c3a838fe7f2cac2aa088"
+    },
+    {
+      "id": "x-safety-147",
+      "status": "revise",
+      "assessment": "Secure animal separation is appropriate, but tray on floor out of reach is logically contradictory for a dog and feeding during procedure is filler.",
+      "issues": [
+        "Secure animal separation is appropriate, but tray on floor out of reach is logically contradictory for a dog and feeding during procedure is filler."
+      ],
+      "proposedChanges": [
+        "Compare secure separation, asking client to hold the collar, positioning sterile tray on a high table, and asking a second worker to distract the dog. Explain reliable environmental control before opening supplies."
+      ],
+      "reviewedItemSha256": "34ee59016d86aa50e99de87b04629b0cf5af0e9e8458f70d3b95273726d18ce0"
+    },
+    {
+      "id": "x-safety-148",
+      "status": "revise",
+      "assessment": "Immediate ignition control is correct but vague; only-open-window and continuing cigarette at reduced flow are easy foils.",
+      "issues": [
+        "Immediate ignition control is correct but vague; only-open-window and continuing cigarette at reduced flow are easy foils."
+      ],
+      "proposedChanges": [
+        "Use a concrete safe instruction to extinguish the cigarette and maintain distance/help as needed, versus disconnecting oxygen, opening windows, or documenting smoking for follow-up. Do not imply grabbing a burning cigarette or escalating confrontation."
+      ],
+      "reviewedItemSha256": "09bd162bb250b7085565a116c7c66c0fb3600980c59f50576b7b535737f33a6b"
+    },
+    {
+      "id": "x-safety-149",
+      "status": "revise",
+      "assessment": "Accessible authorized emergency details are sound, but only/solely qualifiers reveal incorrect options.",
+      "issues": [
+        "Accessible authorized emergency details are sound, but only/solely qualifiers reveal incorrect options."
+      ],
+      "proposedChanges": [
+        "Compare documented access instructions and visible address correction, telling the assigned nurse, leaving instructions in an indoor binder, and describing house colour to the family. Keep the key concise and explain responder accessibility."
+      ],
+      "reviewedItemSha256": "01b5103ad068beaa4110f457de39cc9fbc7f446b2b53c4e33aa567aaedeccae2"
+    },
+    {
+      "id": "x-safety-150",
+      "status": "revise",
+      "assessment": "Secure storage and approved return are correct. Mixing unknown tablets into a shared bottle is a cartoon nonkey.",
+      "issues": [
+        "Secure storage and approved return are correct. Mixing unknown tablets into a shared bottle is a cartoon nonkey."
+      ],
+      "proposedChanges": [
+        "Replace mixing option with disposing intact tablets in household garbage or flushing them. Explain Canadian approved medication-return guidance; retain plausible sharing misconception and verify exact disposal exceptions if introduced."
+      ],
+      "reviewedItemSha256": "9a9f3ce376a6d2798f1f384c558b70972992bfd4dc1c62ad4b21782a9c5cb82b"
+    }
+  ],
+  "reviewerTask": "/root/author_health_psych",
+  "authorSourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/a/safety.json",
+  "sourceCheckNote": "Full per-item reasoning and plausibility review. No new item-specific source retrieval claimed in this batch; keys generally align with established principles, with targeted source verification still required if revisions introduce technical requirements."
+}

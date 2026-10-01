@@ -1,0 +1,221 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:23:21.775882+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/d-health-026-recheck.json",
+  "sourceSha256": "46d91a909e950a9e27b8d85afbf2286f1f5ad6ba761400ceae2ff56fe16a6b0a",
+  "coverage": {
+    "sourceItems": 45,
+    "reviewedItems": 14,
+    "reviewedIds": [
+      "x-health-028",
+      "x-health-032",
+      "x-health-033",
+      "x-health-034",
+      "x-health-043",
+      "x-health-044",
+      "x-health-046",
+      "x-health-047",
+      "x-health-051",
+      "x-health-054",
+      "x-health-057",
+      "x-health-065",
+      "x-health-068",
+      "x-health-069"
+    ],
+    "unreviewedIds": [
+      "x-health-026",
+      "x-health-027",
+      "x-health-029",
+      "x-health-030",
+      "x-health-031",
+      "x-health-035",
+      "x-health-036",
+      "x-health-037",
+      "x-health-038",
+      "x-health-039",
+      "x-health-040",
+      "x-health-041",
+      "x-health-042",
+      "x-health-045",
+      "x-health-048",
+      "x-health-049",
+      "x-health-050",
+      "x-health-052",
+      "x-health-053",
+      "x-health-055",
+      "x-health-056",
+      "x-health-058",
+      "x-health-059",
+      "x-health-060",
+      "x-health-061",
+      "x-health-062",
+      "x-health-063",
+      "x-health-064",
+      "x-health-066",
+      "x-health-067",
+      "x-health-070"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-health-028",
+      "status": "pass",
+      "assessment": "The alternatives now test specific misconceptions about juice substitution, domestic heat and pasteurization; infant-age cue and key align with verified honey guidance.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "04539cf876ac725e73da36d082decf61db5f8d9858251c6cb9a2b08cd2be6fea"
+    },
+    {
+      "id": "x-health-032",
+      "status": "revise",
+      "assessment": "The language restriction misconception is useful, but option3 explicitly says without responding to gestures.",
+      "issues": [
+        "The language restriction misconception is useful, but option3 explicitly says without responding to gestures."
+      ],
+      "proposedChanges": [
+        "Replace option3 with Practise naming the same pictures repeatedly. Explain that responsive turn-taking includes the infant's gestures. Consider foundation because this remains a direct teaching principle."
+      ],
+      "reviewedItemSha256": "2dc2c0431c7d31b02eeefc860eaf3d5053c69066dafa8878f7e5165ec896feee"
+    },
+    {
+      "id": "x-health-033",
+      "status": "revise",
+      "assessment": "Two alternatives both wait for speech; comparing only parental milestones is weak filler. Infant age and prior screening context are missing.",
+      "issues": [
+        "Two alternatives both wait for speech; comparing only parental milestones is weak filler. Infant age and prior screening context are missing."
+      ],
+      "proposedChanges": [
+        "Give an age and newborn-screen history. Compare prompt hearing evaluation, repeating observations at the next routine visit, using louder interactive toys, and keeping a monthly first-word log. Explain why a past screen does not resolve a current persistent concern."
+      ],
+      "reviewedItemSha256": "3c94f12ed07e21940915a0253be5683f989adf8ad5340b36a03a4563aa1a892f"
+    },
+    {
+      "id": "x-health-034",
+      "status": "pass",
+      "assessment": "Specific loss of both words and pointing supports prompt evaluation; home practice and attributing change to family stress are plausible but insufficient explanations of regression.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "91717e3a20d4246b60da1941d444d7834b06871bb631b05db1165960f00c960c"
+    },
+    {
+      "id": "x-health-043",
+      "status": "revise",
+      "assessment": "Repeating until the child recites is still implausible; key is markedly longer than the alternatives.",
+      "issues": [
+        "Repeating until the child recites is still implausible; key is markedly longer than the alternatives."
+      ],
+      "proposedChanges": [
+        "Replace repetition with giving the parent a preparation booklet to read with the child. Keep options parallel concrete preparation methods; shorten key to Demonstrate the steps on a doll shortly beforehand, retaining honest simple explanation in rationale."
+      ],
+      "reviewedItemSha256": "fe7e2c4df4da74ebc7b6920cf5e6d599b9163cd266d9de151aaee0e1c7b46879"
+    },
+    {
+      "id": "x-health-044",
+      "status": "pass",
+      "assessment": "Emotional validation, technical explanation and making amends are distinct plausible approaches; the latter incorrectly reinforces causation. Direct correction specifically addresses magical thinking.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "78dad644618614950cb2d27235656ca43d7b74de409b70c29f552b17917e116d"
+    },
+    {
+      "id": "x-health-046",
+      "status": "revise",
+      "assessment": "All wrong options are made wrong by only-focus, before-hearing and without-involving qualifiers.",
+      "issues": [
+        "All wrong options are made wrong by only-focus, before-hearing and without-involving qualifiers."
+      ],
+      "proposedChanges": [
+        "Use Review the breakfast and symptom diary; Begin a school-attendance reward plan; Ask the parent about school experiences. Explain why the child's account and school/peer context are the priority after reassuring medical assessment. Keep key length comparable."
+      ],
+      "reviewedItemSha256": "43828af135ff1118adbaf47ef36fed038c98c039514cd0dfc1b1243cefdcaef9"
+    },
+    {
+      "id": "x-health-047",
+      "status": "pass",
+      "assessment": "Device location is now a plausible but insufficient environmental change; educational content and quiet behaviour do not address displaced routines.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "bd5767c838d1947868af307136080541a157be1829f1f4e12e1c8cd8a0c9fd95"
+    },
+    {
+      "id": "x-health-051",
+      "status": "revise",
+      "assessment": "Joint questionnaire is improved, but postponing sexual-health questions until adulthood remains implausible.",
+      "issues": [
+        "Joint questionnaire is improved, but postponing sexual-health questions until adulthood remains implausible."
+      ],
+      "proposedChanges": [
+        "Replace adulthood delay with Offer a take-home sexual-health questionnaire. Explain that a routine private conversation and clear confidentiality limits enable timely supported disclosure."
+      ],
+      "reviewedItemSha256": "bc89b4cb0553dc3de97d864687da1fa007d93a2e4f81d845b4bd0c75de3d3e62"
+    },
+    {
+      "id": "x-health-054",
+      "status": "revise",
+      "assessment": "Waiting until device replacement, often years away, is still implausible for a new relationship.",
+      "issues": [
+        "Waiting until device replacement, often years away, is still implausible for a new relationship."
+      ],
+      "proposedChanges": [
+        "Replace option2 with Reassure the client if the new partner has no symptoms. Explain that asymptomatic infection remains possible and contraception does not provide STI prevention; classify foundation if retaining the direct teaching format."
+      ],
+      "reviewedItemSha256": "24d8bd053a91ac15f26f84deb6ea20c01549a6f696794267880fad535f2f7a7a"
+    },
+    {
+      "id": "x-health-057",
+      "status": "revise",
+      "assessment": "Options0 and3 advertise omissions through without-reviewing and before-evaluating clauses.",
+      "issues": [
+        "Options0 and3 advertise omissions through without-reviewing and before-evaluating clauses."
+      ],
+      "proposedChanges": [
+        "Use Recommend a daily calcium supplement; Refer for discussion of hormonal cycle regulation. The explanation should establish why these do not address the broader priority of low energy availability and medical evaluation."
+      ],
+      "reviewedItemSha256": "000eca4feec653751c13c51fc0f26e4b0efe614e3f7993b0784a95a15f8483a1"
+    },
+    {
+      "id": "x-health-065",
+      "status": "pass",
+      "assessment": "The injected non-live context removes oral/intranasal exceptions. Anaphylaxis and significant febrile illness require clarification; minor illness, prior local soreness and antibiotic use alone are reasonable noncontraindication distractors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "06f97ce91896d05a0286b5b93bbcf404a9fe44afa76628aeea0a332109dc67d7"
+    },
+    {
+      "id": "x-health-068",
+      "status": "revise",
+      "assessment": "All three distractors still overreact absurdly to one day of local soreness, and the antihistamine option announces missing assessment. Overlaps065 unless counselling reasoning improves.",
+      "issues": [
+        "All three distractors still overreact absurdly to one day of local soreness, and the antihistamine option announces missing assessment. Overlaps065 unless counselling reasoning improves."
+      ],
+      "proposedChanges": [
+        "Compare reaction-specific counselling with automatic allergy referral, switching vaccine brands, and recommending premedication for all future doses. Use parallel concise actions and explain why the described reaction supports normal expected-effect counselling rather than allergy labelling."
+      ],
+      "reviewedItemSha256": "8fbd37ae6dc32d66bb3d8cae0172b37d7fe860a0689bb2485a2107e3deaffde6"
+    },
+    {
+      "id": "x-health-069",
+      "status": "revise",
+      "assessment": "Without-checking and only-country qualifiers advertise errors; broad key is the most comprehensive option.",
+      "issues": [
+        "Without-checking and only-country qualifiers advertise errors; broad key is the most comprehensive option."
+      ],
+      "proposedChanges": [
+        "Use plausible plans: Book a travel-health appointment now; Obtain vaccine advice during the departure-week refill; Prepare an extra supply of regular medicines; Print the destination health advisory. Explain why an early individualized review integrates time-dependent preventive planning for this chronic condition."
+      ],
+      "reviewedItemSha256": "327c5e519713579bd6a02ffd2e15f1de98bff554dbc0f37418e5836590b14ed7"
+    }
+  ],
+  "activeSourceFile": "authoring/d/health-026.json",
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

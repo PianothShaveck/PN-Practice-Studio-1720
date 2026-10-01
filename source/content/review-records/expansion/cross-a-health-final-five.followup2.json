@@ -1,0 +1,65 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewerTask": "/root/author_management_safety",
+  "reviewedAt": "2026-10-01T18:11:09.608723+00:00",
+  "sourceFile": "bank-expansion/reviews/expansion/cross-a-health-final-five-snapshot.json",
+  "coverage": {
+    "reviewedItems": 5,
+    "reviewedIds": [
+      "x-health-168",
+      "x-health-176",
+      "x-health-182",
+      "x-health-190",
+      "x-health-200"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Reread all fields and reassessed the exact remaining ambiguity or distractor flaw for each revised item.",
+  "limitations": [
+    "Not external clinician or psychometric validation",
+    "No new source verification claimed for these wording corrections"
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-health-168",
+      "status": "pass",
+      "assessment": "The fruit-juice alternative is now a credible sugar-exposure misconception, and the concise water recommendation directly addresses frequent sipping.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "be3a918ba3969682f9bff3b98b1f386ba3568f79d642570d1e8447bfb9e5769a"
+    },
+    {
+      "id": "x-health-176",
+      "status": "pass",
+      "assessment": "The diary option is now a plausible supplemental assessment method; the combined snoring and daytime change still warrants arranging clinical evaluation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "98a28512afb8325bdf23afed3ebe8eff92e6edcda62cc9a2b06a53e5d0a00d39"
+    },
+    {
+      "id": "x-health-182",
+      "status": "pass",
+      "assessment": "All alternatives are now plausible postpartum comfort/referral responses, with symptom and healing assessment appropriately preceding selection.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d99b249275646ef58a126c17e665a546ce4846580e340e72a850be0646b77090"
+    },
+    {
+      "id": "x-health-190",
+      "status": "pass",
+      "assessment": "The nonkey now makes the invalid representativeness inference explicitly, rather than rejecting a potentially useful attendee survey itself.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "56d0a8f8bb780bb7734e3207c16651a6ae17031f8cfdc8a959e196bc656808ef"
+    },
+    {
+      "id": "x-health-200",
+      "status": "pass",
+      "assessment": "The stated18:00 meal and17:00–20:00 uninterrupted work establish an actual conflict; timing adaptation, safe storage and follow-up are appropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "cc2891ef57a4176a1b118db9890bc29b7065c8ea5a93a4a6fbd51cd17c695c7a"
+    }
+  ]
+}

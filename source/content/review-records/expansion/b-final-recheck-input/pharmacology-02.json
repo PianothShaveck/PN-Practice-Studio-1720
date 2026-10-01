@@ -1,0 +1,814 @@
+[
+  {
+    "id": "x-pharmacology-026",
+    "cat": "pharmacology",
+    "title": "Respond to possible ACE inhibitor angioedema",
+    "stem": "A client taking ramipril for several months develops a swollen tongue and muffled voice. There is no rash. What is the priority?",
+    "type": "single",
+    "options": [
+      "Observe until a rash develops to confirm allergy",
+      "Withhold tomorrow's ramipril and arrange routine follow-up",
+      "Activate emergency help and assess airway patency",
+      "Give an oral antihistamine before deciding whether to escalate"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "ACE inhibitor angioedema may occur without an itchy rash.",
+      "Stopping future exposure does not manage the current airway threat.",
+      "Tongue swelling and voice change may rapidly progress to airway obstruction.",
+      "Oral treatment can delay airway care and may be unsafe to swallow."
+    ],
+    "takeaway": "Tongue swelling and voice change may rapidly progress to airway obstruction.",
+    "refs": [
+      "b-cardio-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Cardiovascular medicines",
+    "learningObjective": "Prioritize a threatened airway in suspected ACE inhibitor angioedema without rash.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-027",
+    "cat": "pharmacology",
+    "title": "Evaluate a new cough during ACE therapy",
+    "stem": "A client has a persistent dry cough after starting an ACE inhibitor. Temperature, oxygenation and weight are unchanged, and there is no dyspnea. What is most appropriate?",
+    "type": "single",
+    "options": [
+      "Begin fluid restriction for presumed pulmonary congestion",
+      "Advise stopping all antihypertensives until the cough disappears",
+      "Request antibiotics based on cough duration alone",
+      "Report the cough for medication review"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "The assessment does not demonstrate congestion warranting that intervention.",
+      "An indiscriminate interruption may destabilize blood pressure control.",
+      "A persistent dry cough alone does not establish bacterial infection.",
+      "The timing and otherwise stable assessment support considering an ACE inhibitor effect."
+    ],
+    "takeaway": "The timing and otherwise stable assessment support considering an ACE inhibitor effect.",
+    "refs": [
+      "b-cardio-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Cardiovascular medicines",
+    "learningObjective": "Consider an ACE inhibitor adverse effect after a dry cough with otherwise stable findings.",
+    "reasoningSkill": "intervention",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-028",
+    "cat": "pharmacology",
+    "title": "Assess potassium-sparing therapy safely",
+    "stem": "A client taking spironolactone plans to replace table salt with a potassium-based substitute. Potassium is currently 4.8 mmol/L, reference 3.5–5.0. What is best?",
+    "type": "single",
+    "options": [
+      "Review the substitute with the prescriber or pharmacist first",
+      "Approve it because today's potassium is within range",
+      "Separate the salt substitute from spironolactone by two hours",
+      "Start it now and review potassium at the usual annual visit"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Spironolactone and added potassium can together cause hyperkalemia.",
+      "A current normal value does not predict safety after potassium intake increases.",
+      "Dose separation does not remove the potassium-retaining effect of spironolactone.",
+      "A substantial new potassium source warrants review before routine use."
+    ],
+    "takeaway": "Spironolactone and added potassium can together cause hyperkalemia.",
+    "refs": [
+      "b-cardio-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Cardiovascular medicines",
+    "learningObjective": "Review concentrated potassium intake in a client using potassium-sparing therapy.",
+    "reasoningSkill": "intervention",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-029",
+    "cat": "pharmacology",
+    "title": "Assess possible digoxin accumulation",
+    "stem": "A client's pulse falls from 76 to 48/min after several days of poor intake and worsening kidney function. Digoxin is due; nausea and yellow-tinged vision are new. What should happen?",
+    "type": "single",
+    "options": [
+      "Encourage oral fluids and reassess after the next dose",
+      "Withhold the dose and arrange urgent rhythm and toxicity assessment",
+      "Give it because the serum level was therapeutic last week",
+      "Treat nausea first and give digoxin once it settles"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Giving another dose before review may worsen toxicity.",
+      "Renal decline, bradycardia and characteristic symptoms suggest possible digoxin accumulation.",
+      "A previous level does not reflect the current renal and clinical changes.",
+      "Suppressing one symptom does not address possible cardiac toxicity."
+    ],
+    "takeaway": "Renal decline, bradycardia and characteristic symptoms suggest possible digoxin accumulation.",
+    "refs": [
+      "b-cardio-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Cardiovascular medicines",
+    "learningObjective": "Integrate renal decline, pulse trend and new symptoms when assessing digoxin toxicity.",
+    "reasoningSkill": "intervention",
+    "difficulty": "challenge",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-030",
+    "cat": "pharmacology",
+    "title": "Assess severe muscle symptoms on a statin",
+    "stem": "A client taking atorvastatin reports diffuse muscle pain, weakness and tea-coloured urine after no unusual exercise. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Encourage exercise to distinguish stiffness from medication effects",
+      "Wait for the next scheduled lipid panel before reporting",
+      "Arrange prompt assessment for muscle injury and renal complications",
+      "Suggest taking the next dose with food to reduce intolerance"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Exertion may worsen injury and delay assessment.",
+      "Lipid results do not assess an acute muscle-injury complication.",
+      "This symptom combination is concerning for serious statin-associated muscle injury.",
+      "Food does not address muscle breakdown or dark urine."
+    ],
+    "takeaway": "This symptom combination is concerning for serious statin-associated muscle injury.",
+    "refs": [
+      "b-cardio-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Cardiovascular medicines",
+    "learningObjective": "Recognize the muscle and renal warning pattern associated with statin therapy.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-031",
+    "cat": "pharmacology",
+    "title": "Clarify nitrate use after a PDE5 inhibitor",
+    "stem": "A client with chest discomfort has a nitroglycerin order and reports sildenafil use earlier today. Blood pressure is 116/72 mmHg. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Give nitrate because systolic pressure is above 100 mmHg",
+      "Give half the nitrate dose before seeking advice",
+      "Wait for the sildenafil effect to wear off before assessing pain",
+      "Withhold nitrate and urgently notify the chest-pain team"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "The initial pressure does not remove the drug interaction.",
+      "An unprescribed partial dose does not establish interaction safety.",
+      "Chest discomfort still needs immediate assessment and an alternative plan.",
+      "The combination can cause severe hypotension despite an initially normal pressure."
+    ],
+    "takeaway": "The combination can cause severe hypotension despite an initially normal pressure.",
+    "refs": [
+      "b-cardio-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Cardiovascular medicines",
+    "learningObjective": "Identify nitrate interaction risk despite an initially acceptable blood pressure.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-032",
+    "cat": "pharmacology",
+    "title": "Distinguish diuretic benefit from adverse effects",
+    "stem": "A client receives furosemide for congestion. Which follow-up findings support benefit rather than excessive diuresis? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Ankle edema decreases while standing blood pressure remains stable",
+      "Weight falls and the client becomes faint on standing",
+      "Urine output rises but oxygen needs also rise",
+      "Serum potassium falls below the supplied reference range",
+      "Breathlessness decreases at the same activity level"
+    ],
+    "answer": [
+      0,
+      4
+    ],
+    "why": [
+      "Reduced edema without postural instability supports useful fluid removal.",
+      "Faintness suggests potentially excessive volume loss despite weight reduction.",
+      "Diuresis alone does not demonstrate improving pulmonary status.",
+      "Electrolyte depletion is an adverse effect rather than a treatment goal.",
+      "Improved exertional breathing supports reduced pulmonary congestion."
+    ],
+    "takeaway": "Improved exertional breathing supports reduced pulmonary congestion.",
+    "refs": [
+      "b-cardio-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Cardiovascular medicines",
+    "learningObjective": "Differentiate useful decongestion from diuretic-related perfusion and electrolyte adverse effects.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-033",
+    "cat": "pharmacology",
+    "title": "Respond to symptomatic thiazide-associated hyponatremia",
+    "stem": "A client taking hydrochlorothiazide is newly confused. Sodium is 124 mmol/L, reference 135–145, and the next dose is due. What is the priority?",
+    "type": "single",
+    "options": [
+      "Plan repeat sodium testing at the next routine visit",
+      "Withhold the dose pending urgent assessment of symptomatic hyponatremia",
+      "Encourage additional plain water for presumed dehydration",
+      "Give the dose because blood pressure remains elevated"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "New confusion makes routine delayed reassessment inadequate.",
+      "Neurological symptoms with markedly low sodium require prompt review.",
+      "Free water can worsen a dilutional sodium problem.",
+      "Blood pressure alone does not outweigh this acute electrolyte concern."
+    ],
+    "takeaway": "Neurological symptoms with markedly low sodium require prompt review.",
+    "refs": [
+      "b-cardio-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Cardiovascular medicines",
+    "learningObjective": "Escalate neurological symptoms with marked hyponatremia before further thiazide dosing.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-034",
+    "cat": "pharmacology",
+    "title": "Explain safe beta-blocker continuation",
+    "stem": "A client taking metoprolol for angina wants to stop because there has been no chest pain for weeks. What is the best response?",
+    "type": "single",
+    "options": [
+      "Stop now and restart if the pulse rises",
+      "Take it on alternating days until the supply is gone",
+      "Discuss any change with the prescriber and avoid abrupt withdrawal",
+      "Use it only when chest pain returns"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "A reactive restart does not safely manage withdrawal risk.",
+      "An improvised taper is not an individualized discontinuation plan.",
+      "Symptom control may reflect treatment, and abrupt withdrawal can provoke ischemia.",
+      "Changing maintenance therapy to symptom-triggered use may reduce protection."
+    ],
+    "takeaway": "Symptom control may reflect treatment, and abrupt withdrawal can provoke ischemia.",
+    "refs": [
+      "b-cardio-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Cardiovascular medicines",
+    "learningObjective": "Explain why controlled angina does not justify abrupt beta-blocker withdrawal.",
+    "reasoningSkill": "teaching",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-035",
+    "cat": "pharmacology",
+    "title": "Address postural symptoms after treatment",
+    "stem": "After a first antihypertensive dose, a client becomes light-headed on standing. Supine pressure is 128/76 and standing pressure is 98/60 mmHg. Which actions are appropriate? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Help the client sit or lie safely and reassess symptoms",
+      "Report the positional readings for regimen review",
+      "Reassure because the supine pressure is normal",
+      "Give a large glass of water and immediately repeat standing without checking restrictions",
+      "Independently omit all future antihypertensive doses"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "why": [
+      "Positioning limits immediate fall risk during symptomatic pressure reduction.",
+      "The measurable symptomatic change can guide treatment adjustment.",
+      "A normal supine reading does not explain away postural instability.",
+      "A fluid intervention requires context and does not replace safe positioning and reassessment.",
+      "Longer-term changes require a treatment plan rather than blanket withdrawal."
+    ],
+    "takeaway": "Positioning limits immediate fall risk during symptomatic pressure reduction.",
+    "refs": [
+      "b-cardio-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Cardiovascular medicines",
+    "learningObjective": "Use positional readings and symptoms to guide immediate safety and regimen review.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-036",
+    "cat": "pharmacology",
+    "title": "Tailor once-daily diuretic timing",
+    "stem": "A client takes prescribed once-daily furosemide at 22:00 and wakes repeatedly to urinate. There is no prescribed bedtime requirement. What should be discussed?",
+    "type": "single",
+    "options": [
+      "Move dosing earlier with the treatment team's timing guidance",
+      "Reduce the prescribed dose to reduce nighttime urine",
+      "Avoid daytime fluid intake so less is excreted at night",
+      "Take the dose only after a day of ankle swelling"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Earlier administration can reduce nocturnal diuresis while preserving therapy.",
+      "Dose reduction may compromise congestion control.",
+      "Unnecessary restriction can cause dehydration without resolving timing.",
+      "Symptom-triggered use changes the prescribed maintenance schedule."
+    ],
+    "takeaway": "Earlier administration can reduce nocturnal diuresis while preserving therapy.",
+    "refs": [
+      "b-cardio-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Cardiovascular medicines",
+    "learningObjective": "Address nocturia through a feasible prescribed diuretic schedule.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-037",
+    "cat": "pharmacology",
+    "title": "Recognize heparin-associated thrombosis",
+    "stem": "Six days after starting heparin, a client's platelets fall by more than half and a new painful swollen leg develops. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Apply compression and repeat platelets tomorrow",
+      "Stop heparin and urgently escalate under protocol",
+      "Give the next heparin dose while awaiting routine review",
+      "Request a lower heparin dose to reduce bruising risk"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Local measures do not address a potentially serious medication reaction.",
+      "Thrombocytopenia with new thrombosis raises concern for heparin-induced thrombocytopenia.",
+      "Continued exposure can worsen immune-mediated thrombosis.",
+      "The concern is a prothrombotic immune reaction, not simply excessive anticoagulation."
+    ],
+    "takeaway": "Thrombocytopenia with new thrombosis raises concern for heparin-induced thrombocytopenia.",
+    "refs": [
+      "b-anticoag"
+    ],
+    "exhibit": null,
+    "subtopic": "Anticoagulants and antiplatelets",
+    "learningObjective": "Recognize thrombocytopenia with thrombosis as possible heparin-induced thrombocytopenia.",
+    "reasoningSkill": "priority",
+    "difficulty": "challenge",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-038",
+    "cat": "pharmacology",
+    "title": "Evaluate head injury during anticoagulation",
+    "stem": "A client taking apixaban strikes the head in a fall. They deny headache and are alert with equal pupils. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Check INR before deciding whether assessment is needed",
+      "Withhold one dose and consider the injury managed",
+      "Arrange urgent head-injury assessment and follow the escalation pathway",
+      "Continue usual checks unless a headache develops"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "INR does not reliably measure apixaban's anticoagulant effect.",
+      "Medication review alone does not evaluate possible internal injury.",
+      "Early normal findings do not exclude anticoagulant-associated intracranial bleeding.",
+      "Waiting for symptoms may delay recognition of occult bleeding."
+    ],
+    "takeaway": "Early normal findings do not exclude anticoagulant-associated intracranial bleeding.",
+    "refs": [
+      "b-anticoag"
+    ],
+    "exhibit": null,
+    "subtopic": "Anticoagulants and antiplatelets",
+    "learningObjective": "Arrange head-injury assessment despite initially normal findings during anticoagulation.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-039",
+    "cat": "pharmacology",
+    "title": "Respond to possible antiplatelet-related bleeding",
+    "stem": "A client taking clopidogrel reports black sticky stools and dizziness. They have not taken iron or bismuth. What is the priority?",
+    "type": "single",
+    "options": [
+      "Provide constipation advice and review stool appearance tomorrow",
+      "Request a routine outpatient fecal screening test",
+      "Give the scheduled dose and report symptoms at handover",
+      "Assess circulation and urgently report suspected gastrointestinal bleeding"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "This presentation suggests bleeding rather than simple constipation.",
+      "A screening pathway is inappropriate for possible active symptomatic bleeding.",
+      "Administration and delayed reporting may worsen an unresolved bleeding event.",
+      "Melena with dizziness may indicate clinically significant blood loss."
+    ],
+    "takeaway": "Melena with dizziness may indicate clinically significant blood loss.",
+    "refs": [
+      "b-anticoag"
+    ],
+    "exhibit": null,
+    "subtopic": "Anticoagulants and antiplatelets",
+    "learningObjective": "Prioritize suspected active gastrointestinal bleeding during antiplatelet therapy.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-040",
+    "cat": "pharmacology",
+    "title": "Obtain a procedure-specific anticoagulant plan",
+    "stem": "A client taking a direct oral anticoagulant has surgery in two days but no interruption instructions. Kidney function has recently declined. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Obtain a plan incorporating the drug, renal function and procedure",
+      "Use the interruption schedule from a different anticoagulant",
+      "Continue because the latest INR is normal",
+      "Ask the client to choose whether bleeding or clotting is more concerning"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "These factors affect interruption and restart decisions.",
+      "Drug-specific elimination and bleeding risk differ.",
+      "A normal INR does not establish absent direct-anticoagulant effect.",
+      "The client needs an informed clinical plan, not an unsupported risk choice."
+    ],
+    "takeaway": "These factors affect interruption and restart decisions.",
+    "refs": [
+      "b-anticoag"
+    ],
+    "exhibit": null,
+    "subtopic": "Anticoagulants and antiplatelets",
+    "learningObjective": "Obtain an individualized perioperative anticoagulant plan accounting for renal function.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-041",
+    "cat": "pharmacology",
+    "title": "Apply anticoagulant precautions to daily care",
+    "stem": "A client starting anticoagulation describes their usual routines. Which planned changes are appropriate? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Use a normal INR to decide whether a dose is needed",
+      "Take a missed dose together with the next one routinely",
+      "Use a soft toothbrush for gentle oral care",
+      "Check before adding nonprescription anti-inflammatory medicines",
+      "Stop anticoagulation for every small bruise"
+    ],
+    "answer": [
+      2,
+      3
+    ],
+    "why": [
+      "Not all anticoagulants are titrated by INR.",
+      "Missed-dose instructions are drug specific, and automatic doubling may be unsafe.",
+      "Reducing gum trauma helps limit preventable bleeding.",
+      "Many NSAIDs increase bleeding risk when combined with anticoagulation.",
+      "Unplanned interruptions can increase thrombosis risk."
+    ],
+    "takeaway": "Reducing gum trauma helps limit preventable bleeding.",
+    "refs": [
+      "b-anticoag"
+    ],
+    "exhibit": null,
+    "subtopic": "Anticoagulants and antiplatelets",
+    "learningObjective": "Apply bleeding precautions without creating unplanned anticoagulant interruptions.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-042",
+    "cat": "pharmacology",
+    "title": "Explain direct anticoagulant follow-up",
+    "stem": "A client taking apixaban believes no follow-up is necessary because INR tests are not scheduled. Which response is best?",
+    "type": "single",
+    "options": [
+      "Check only for large visible bruises",
+      "Monitor only if the prescribed dose changes",
+      "Bleeding, kidney function and medication changes still need review",
+      "Ask for weekly INR tests to confirm effectiveness"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Important bleeding can occur internally without large bruises.",
+      "Renal function and interacting therapy can change exposure at the same dose.",
+      "Absence of routine INR titration does not eliminate safety monitoring.",
+      "INR is not used to routinely titrate apixaban."
+    ],
+    "takeaway": "Absence of routine INR titration does not eliminate safety monitoring.",
+    "refs": [
+      "b-anticoag"
+    ],
+    "exhibit": null,
+    "subtopic": "Anticoagulants and antiplatelets",
+    "learningObjective": "Explain ongoing safety monitoring when an anticoagulant is not titrated by INR.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-043",
+    "cat": "pharmacology",
+    "title": "Recognize clinically important nitrate hypotension",
+    "stem": "After prescribed nitrate treatment, chest pain improves but pressure falls to 78/44 mmHg and the client feels faint. What is the priority?",
+    "type": "single",
+    "options": [
+      "Give another dose because some discomfort remains",
+      "Repeat the blood pressure in the other arm before calling for help",
+      "Recheck at the usual medication-effect interval",
+      "Activate urgent assessment and support circulation under protocol"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Additional vasodilation can worsen circulatory instability.",
+      "Rapid confirmation can accompany but must not delay response to severe symptomatic hypotension.",
+      "The new instability requires immediate reassessment rather than routine timing.",
+      "Severe symptomatic hypotension threatens perfusion despite pain improvement."
+    ],
+    "takeaway": "Severe symptomatic hypotension threatens perfusion despite pain improvement.",
+    "refs": [
+      "b-cardio-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Cardiovascular medicines",
+    "learningObjective": "Prioritize severe nitrate-related hypotension despite improvement in chest discomfort.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-044",
+    "cat": "pharmacology",
+    "title": "Identify possible excessive diuresis",
+    "stem": "A client treated for edema loses weight rapidly, develops dry mouth and becomes dizzy on standing. Lung sounds are now clear. What should guide the next review?",
+    "type": "single",
+    "options": [
+      "Possible intravascular depletion despite reduced edema",
+      "Persistent fluid overload because some ankle edema remains",
+      "Successful treatment requiring no further assessment",
+      "A need to increase diuretic frequency"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Improved congestion can coexist with excessive circulating-volume loss.",
+      "Residual peripheral edema does not exclude depleted circulating volume.",
+      "Postural symptoms suggest an adverse physiological effect.",
+      "More diuresis may worsen the symptoms of depletion."
+    ],
+    "takeaway": "Improved congestion can coexist with excessive circulating-volume loss.",
+    "refs": [
+      "b-cardio-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Cardiovascular medicines",
+    "learningObjective": "Recognize intravascular depletion despite residual peripheral edema.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-045",
+    "cat": "pharmacology",
+    "title": "Evaluate amlodipine-associated edema",
+    "stem": "A client develops bilateral ankle edema after an amlodipine increase. Weight, lung sounds and exercise tolerance are unchanged. What is most appropriate?",
+    "type": "single",
+    "options": [
+      "Delay reporting until breathlessness develops",
+      "Assess and report possible medication-related peripheral edema",
+      "Request an automatic diuretic increase for heart failure",
+      "Tell the client to stop amlodipine permanently"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "A medication adverse effect can warrant review before respiratory compromise.",
+      "The timing and absence of pulmonary symptoms support reviewing amlodipine.",
+      "The assessment does not establish systemic congestion as the cause.",
+      "Medication changes need an individualized blood-pressure treatment plan."
+    ],
+    "takeaway": "The timing and absence of pulmonary symptoms support reviewing amlodipine.",
+    "refs": [
+      "b-cardio-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Cardiovascular medicines",
+    "learningObjective": "Consider amlodipine-related edema when pulmonary congestion findings are absent.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-046",
+    "cat": "pharmacology",
+    "title": "Prioritize a rate-slowing drug combination",
+    "stem": "A client taking diltiazem and metoprolol has new near-syncope and pulse 42/min. Both morning doses are due. What should happen?",
+    "type": "single",
+    "options": [
+      "Give only diltiazem because it is not a beta-blocker",
+      "Give metoprolol alone because diltiazem was added more recently",
+      "Withhold pending urgent assessment of symptomatic bradycardia",
+      "Give both because blood pressure is within range"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Diltiazem can also slow cardiac conduction and rate.",
+      "Both slow the heart rate, and an arbitrary selection does not resolve symptomatic bradycardia.",
+      "Combined rate-slowing effects may be contributing to instability.",
+      "A normal pressure does not remove the danger of symptomatic bradycardia."
+    ],
+    "takeaway": "Combined rate-slowing effects may be contributing to instability.",
+    "refs": [
+      "b-cardio-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Cardiovascular medicines",
+    "learningObjective": "Recognize symptomatic bradycardia with concurrent rate-slowing medicines.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-047",
+    "cat": "pharmacology",
+    "title": "Plan ACE inhibitor safety monitoring",
+    "stem": "A client starts an ACE inhibitor while also receiving a diuretic. Which follow-up information is particularly relevant? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Creatinine and potassium trends",
+      "Only a single pretreatment kidney result",
+      "Repeat only serum sodium because a diuretic is prescribed",
+      "Medication review only if edema appears",
+      "Blood pressure and postural symptoms"
+    ],
+    "answer": [
+      0,
+      4
+    ],
+    "why": [
+      "ACE inhibitors can affect renal function and potassium balance.",
+      "A baseline does not show changes after therapy begins.",
+      "Sodium alone misses the relevant potassium, renal and hemodynamic changes.",
+      "Relevant adverse effects can develop without peripheral swelling.",
+      "Combined therapy can produce clinically important hypotension."
+    ],
+    "takeaway": "Combined therapy can produce clinically important hypotension.",
+    "refs": [
+      "b-cardio-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Cardiovascular medicines",
+    "learningObjective": "Select hemodynamic, renal and potassium follow-up for ACE inhibitor therapy.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-048",
+    "cat": "pharmacology",
+    "title": "Explain a prescribed nitrate-free interval",
+    "stem": "A client removes a nitrate patch for a prescribed daily interval but worries this means treatment is failing. What explanation is most useful?",
+    "type": "single",
+    "options": [
+      "The interval helps preserve nitrate responsiveness",
+      "The interval is needed only when a rash appears",
+      "An extra patch before the interval provides lasting protection",
+      "The interval means chest symptoms need no action"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Continuous nitrate exposure can produce tolerance and reduce effect.",
+      "Its purpose includes limiting tolerance, independently of local irritation.",
+      "Extra exposure changes the dose and can cause hypotension.",
+      "New or worsening symptoms still require the client's acute-care plan."
+    ],
+    "takeaway": "Continuous nitrate exposure can produce tolerance and reduce effect.",
+    "refs": [
+      "b-cardio-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Cardiovascular medicines",
+    "learningObjective": "Explain the role of a prescribed nitrate-free interval in limiting tolerance.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-049",
+    "cat": "pharmacology",
+    "title": "Clarify an undocumented anticoagulant transition",
+    "stem": "A transfer list contains both warfarin and a direct oral anticoagulant, without a transition plan. The client cannot explain the change. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Hold both for several days to ensure clearance",
+      "Clarify the intended transition before uncertain doses",
+      "Continue both until the next routine INR result",
+      "Choose the medicine the client used longest"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "An arbitrary interruption may create avoidable thrombosis risk.",
+      "Unplanned overlap can cause bleeding, while an incorrect omission can leave thrombosis untreated.",
+      "The list alone does not authorize overlap and INR may be insufficient.",
+      "Duration of prior use does not establish current treatment intent."
+    ],
+    "takeaway": "Unplanned overlap can cause bleeding, while an incorrect omission can leave thrombosis untreated.",
+    "refs": [
+      "b-anticoag"
+    ],
+    "exhibit": null,
+    "subtopic": "Anticoagulants and antiplatelets",
+    "learningObjective": "Resolve an undocumented anticoagulant transition before uncertain overlapping doses.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-050",
+    "cat": "pharmacology",
+    "title": "Address a timing barrier to adherence",
+    "stem": "A client skips antihypertensive doses because rotating shifts make the schedule difficult. They understand the purpose and can afford the medicine. What is the most useful intervention?",
+    "type": "single",
+    "options": [
+      "Arrange financial assistance as the first step",
+      "Add a fixed-time alarm without discussing the rotating shifts",
+      "Develop a feasible prescribed schedule with the client and team",
+      "Repeat the explanation of long-term stroke risk only"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Cost is not the barrier reported in this scenario.",
+      "A reminder alone may not make the prescribed schedule feasible.",
+      "This directly addresses the identified timing barrier.",
+      "The client already understands the purpose; practical scheduling remains unresolved."
+    ],
+    "takeaway": "This directly addresses the identified timing barrier.",
+    "refs": [
+      "b-cardio-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Cardiovascular medicines",
+    "learningObjective": "Match adherence support to a rotating-shift scheduling barrier.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  }
+]

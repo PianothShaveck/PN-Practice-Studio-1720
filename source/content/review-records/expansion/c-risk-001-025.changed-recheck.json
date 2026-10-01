@@ -1,0 +1,257 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:21:29.705389+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/risk-001-025.json",
+  "sourceSha256": "0941a161298b067c06e91779d977090fe2b7a86b723653ff75a814f952575210",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 19,
+    "reviewedIds": [
+      "x-risk-002",
+      "x-risk-005",
+      "x-risk-006",
+      "x-risk-008",
+      "x-risk-009",
+      "x-risk-010",
+      "x-risk-011",
+      "x-risk-013",
+      "x-risk-014",
+      "x-risk-016",
+      "x-risk-017",
+      "x-risk-018",
+      "x-risk-019",
+      "x-risk-020",
+      "x-risk-021",
+      "x-risk-022",
+      "x-risk-023",
+      "x-risk-024",
+      "x-risk-025"
+    ],
+    "unreviewedIds": [
+      "x-risk-001",
+      "x-risk-003",
+      "x-risk-004",
+      "x-risk-007",
+      "x-risk-012",
+      "x-risk-015"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-risk-002",
+      "status": "pass",
+      "assessment": "Full-minute apical assessment is superior to abbreviated extrapolation or an automated rate alone for observed irregularity; meaningful symptomatic context retained.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b873825f029b319fc0bf0144c3f4380a89974c38cee63a6172d3608725e2915d"
+    },
+    {
+      "id": "x-risk-005",
+      "status": "pass",
+      "assessment": "Comparable repeat measurement addresses both scale and clothing differences; arbitrary correction or averaging cannot establish a real weight change.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7671c116e016983176618b5a2ee1490a2688a02e2180617e91d0b51f3655cf7c"
+    },
+    {
+      "id": "x-risk-006",
+      "status": "pass",
+      "assessment": "Stable status and conflicting chart/report make clarification and assessment appropriate; documenting invented measured volumes or confirmed anuria would misrepresent the evidence.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2cca9c47d9eea96642a4a768406f893607c43c21b22ea3d53e99e6024f76b368"
+    },
+    {
+      "id": "x-risk-008",
+      "status": "pass",
+      "assessment": "Large symptomatic postoperative haemoglobin fall needs immediate bleeding/perfusion assessment and escalation. Dilution/lab error are now plausible alternatives but cannot justify delaying assessment of symptoms.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e0f911235579b8290f627e663dc89c4bcd05ba4442d6bd1b154e84cd0fd589b7"
+    },
+    {
+      "id": "x-risk-009",
+      "status": "revise",
+      "assessment": "Only/without qualifiers reveal the original SATA keys, and report-action alternatives mismatch the data keys. Test interpretation of the renal change with comparable clinical statements.",
+      "issues": [
+        "Only/without qualifiers reveal the original SATA keys, and report-action alternatives mismatch the data keys. Test interpretation of the renal change with comparable clinical statements."
+      ],
+      "proposedChanges": [
+        {
+          "stem": "A dehydrated adult’s creatinine rises from 70 to 145 µmol/L in two days. Which interpretations should guide the nurse’s report? Select all that apply.",
+          "options": [
+            "Recent medicines and contrast exposure may help explain the change",
+            "A potassium result within range would exclude important renal impairment",
+            "A normal voiding frequency would show that the creatinine rise is insignificant",
+            "Urine volumes and fluid balance help characterize the current response"
+          ],
+          "why": [
+            "Potential renal stressors should be reported with the acute trend.",
+            "A potassium result alone cannot exclude renal impairment.",
+            "Frequency does not establish total output or negate the acute creatinine change.",
+            "Measured output and balance help describe renal and volume status alongside the laboratory trend."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "36c2a0005be811183de05bca3ffedfa9bf7bf30086a268a99f53af9820079309"
+    },
+    {
+      "id": "x-risk-010",
+      "status": "pass",
+      "assessment": "New confusion with sodium122 warrants prompt neurological assessment/escalation; repeat sampling, rest or unilateral fluid treatment cannot replace timely assessment. No correction regimen is prescribed.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "112b71b59376ac1068c52cc21c0d64263560a041603b521136593fba6c7cbfc4"
+    },
+    {
+      "id": "x-risk-011",
+      "status": "revise",
+      "assessment": "Explicit6.7 result improves urgency, but removing it from handover is still conspicuously unreasonable. Use a plausible normal-clinical-observation misconception.",
+      "issues": [
+        "Explicit6.7 result improves urgency, but removing it from handover is still conspicuously unreasonable. Use a plausible normal-clinical-observation misconception."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Wait for the routine morning laboratory draw because haemolysis usually raises potassium",
+            "Assess and urgently arrange verification with the team",
+            "Use a normal pulse rate to decide that the elevated value is an artefact",
+            "Treat the value as definitive without noting haemolysis"
+          ],
+          "why": [
+            "Possible artefact does not exclude dangerous true hyperkalaemia.",
+            "Assess promptly and urgently verify with the team; specimen quality affects interpretation.",
+            "A normal pulse rate does not exclude clinically important hyperkalaemia.",
+            "The haemolysis warning is relevant to verification and treatment decisions."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "3225750454758730bc90b7c7bdb78956d7ff9c11ea98c7aac37149c65fd4b3f6"
+    },
+    {
+      "id": "x-risk-013",
+      "status": "pass",
+      "assessment": "Prescribed therapeutic target plus bleeding assessment is the correct reference; untreated range, prior value alone and equating elevation with active bleeding are meaningful interpretive errors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9a7866dd5c1f9d187e405f173d6a9975a767dce04444f1f4d44815afba8ecf7e"
+    },
+    {
+      "id": "x-risk-014",
+      "status": "pass",
+      "assessment": "Symptomatic potassium2.9 makes cardiac rate/rhythm a defensible priority over detailed weakness, loss history or bowel motility. Item appropriately asks assessment priority rather than prescribing replacement.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "cfd8ce663c65bf6f422aed6d284bdd0d3dfaa6bc6bdac8b1950dfe91384e3c72"
+    },
+    {
+      "id": "x-risk-016",
+      "status": "pass",
+      "assessment": "Unclean collection with mixed flora supports discussing clean recollection; neither selecting one organism nor dismissing ongoing symptoms is justified.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3008ddd50c7d50d1efe7c7079a40e0c1192dac3ee488aa95679b86a455826e09"
+    },
+    {
+      "id": "x-risk-017",
+      "status": "pass",
+      "assessment": "Missing a timed void threatens validity; laboratory-directed restart is preferable to arbitrary interval extension or undisclosed incomplete submission.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fb7524d2fe736d2cb5072be99d13798db02c2403c73cd37c62da6866853e0796"
+    },
+    {
+      "id": "x-risk-018",
+      "status": "pass",
+      "assessment": "Midstream timing and avoiding interior contact are appropriate independent-collection instructions. First-catch and inner-lid surface contamination are realistic technique errors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fd2c75b0c338173e42fd62ce12b9ca874ed15f621bf1fb22ddc760684961809f"
+    },
+    {
+      "id": "x-risk-019",
+      "status": "pass",
+      "assessment": "Deep-cough recollection targets lower-respiratory material; pooling saliva or judging volume alone does not correct quality. Preparatory mouthwash remains test-instruction dependent.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "26b8414d4fbb819128ce30448d1163a937e267abbeda95a3af4d179bb4cb32be"
+    },
+    {
+      "id": "x-risk-020",
+      "status": "pass",
+      "assessment": "Current-kit instructions govern collection and preparation; applying an old kit’s restrictions or switching to a generic container is a plausible but unsupported shortcut.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d7897924f3051225ad5a31eca232c81ce9bdf05df313dc7ce60f7c2c74ecade8"
+    },
+    {
+      "id": "x-risk-021",
+      "status": "pass",
+      "assessment": "Prompt pretreatment culture collection is appropriate when it does not delay urgent antimicrobial care. Fever-peak, routine-visit and result-waiting delays are clinically meaningful sequencing errors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fa1e4d0c7b14f80301cc5182445496adee7c34052ad48873a8e3052303b3854d"
+    },
+    {
+      "id": "x-risk-022",
+      "status": "pass",
+      "assessment": "Conflicting date of birth requires resolution before attribution; rechecking the name alone does not resolve identity. Repetitive name-only alternatives limit difficulty but no ambiguity is present.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "30c69b06a5f552a1d2a1d28040a6aabd03cbd2ac29a7625a085c02811d07ee76"
+    },
+    {
+      "id": "x-risk-023",
+      "status": "pass",
+      "assessment": "Named result-review responsibility and a client contact route reduce pending-result loss. Documentation alone and interpreting silence as normal are common follow-up process failures.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8a2d601c206eec8da942f620b3788daef8923316c2e01524527f901cb6e66173"
+    },
+    {
+      "id": "x-risk-024",
+      "status": "pass",
+      "assessment": "Storage/time history must be checked with the laboratory; later refrigeration cannot erase an unrecorded delay. Freezing without instructions risks specimen integrity.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e7d55ffebaee9d42590c311b986bd62678ba34eef970d5aca27cb3d087fec93a"
+    },
+    {
+      "id": "x-risk-025",
+      "status": "revise",
+      "assessment": "Question asks which details belong but an option is a reporting sequence, and only-computerflag is cued. Ask for the most direct urgency context with comparable details.",
+      "issues": [
+        "Question asks which details belong but an option is a reporting sequence, and only-computerflag is cued. Ask for the most direct urgency context with comparable details."
+      ],
+      "proposedChanges": [
+        {
+          "stem": "When reporting a clinically important laboratory change, which details most directly help the receiving clinician judge its urgency? Select all that apply.",
+          "options": [
+            "Current symptoms and relevant treatment",
+            "The date of the next routine outpatient appointment",
+            "The client’s usual diet before admission",
+            "Previous value and collection times"
+          ],
+          "why": [
+            "The client’s response and treatment context help establish urgency and possible causes.",
+            "A routine appointment date does not show how urgently the current change needs assessment.",
+            "Background diet may add context for some results, but current symptoms and the magnitude/rate of change more directly establish urgency.",
+            "Comparing values and times shows the magnitude and rate of change."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "d6c4911f96549515a27a7bb84d3ed0b7741cfa4faea0a76b031f1e7cacfeaf23"
+    }
+  ],
+  "reviewScope": "All nineteen changed items re-read after author applied first review. Six previously passed IDs are not relabelled. New patch proposals remain review recommendations, not independently approved content.",
+  "reviewerTask": "/root/review_legacy"
+}

@@ -1,0 +1,279 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T18:20:05.174959+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/b-final-recheck-input/adaptation-02-replacement047.json",
+  "sourceSha256": "cb9a88c68ba8cad3e1b1be166fc9d08849cd39acb024cc93d69a803d3c8d0db5",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-adaptation-026",
+      "x-adaptation-027",
+      "x-adaptation-028",
+      "x-adaptation-029",
+      "x-adaptation-030",
+      "x-adaptation-031",
+      "x-adaptation-032",
+      "x-adaptation-033",
+      "x-adaptation-034",
+      "x-adaptation-035",
+      "x-adaptation-036",
+      "x-adaptation-037",
+      "x-adaptation-038",
+      "x-adaptation-039",
+      "x-adaptation-040",
+      "x-adaptation-041",
+      "x-adaptation-042",
+      "x-adaptation-043",
+      "x-adaptation-044",
+      "x-adaptation-045",
+      "x-adaptation-046",
+      "x-adaptation-047",
+      "x-adaptation-048",
+      "x-adaptation-049",
+      "x-adaptation-050"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Full manual reread of all25 current cases, all alternatives, keyed answers, explanations, takeaway and metadata. The new047 replacement was reviewed as new content, not inherited from the previous suspected-DVT item. Final exact content hashes are snapshot-anchored.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "ids": [
+        "x-adaptation-044"
+      ],
+      "url": "https://www.escardio.org/communities/councils/cardiology-practice/scientific-documents-and-publications/ejournal/volume-15/Cardiac-tamponade-a-clinical-challenge/",
+      "checked": true,
+      "accessMode": "primary professional-society search excerpt",
+      "note": "Retrieved tamponade discussion including the hypotension, venous-distension and muffled-heart-sound cluster. Item expresses urgent concern rather than requiring universal presence of that triad."
+    },
+    {
+      "ids": [
+        "x-adaptation-045"
+      ],
+      "url": "https://www.nhlbi.nih.gov/health/heart-inflammation/endocarditis",
+      "checked": true,
+      "accessMode": "full primary public-health page opened",
+      "note": "Page identifies prosthetic-valve risk, fever/murmur/fatigue, skin vascular spots and embolization to other sites. Sudden neurological change still requires immediate stroke assessment, not waiting for an endocarditis diagnosis."
+    },
+    {
+      "ids": [
+        "x-adaptation-047"
+      ],
+      "url": "https://www.nhs.uk/conditions/deep-vein-thrombosis-dvt/",
+      "checked": true,
+      "accessMode": "full primary health-service page opened; recovery passage inspected",
+      "note": "Recovery guidance supports regular comfortable activity and raising the affected leg while sitting. The item supplies prescribed anticoagulation, improving stable findings and a team-approved walking plan; it does not authorize activity before assessment of untreated or unstable disease."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-adaptation-026",
+      "status": "pass",
+      "assessment": "Tachycardia, cool peripheries and oliguria after fluid loss indicate impaired perfusion despite near-baseline pressure. Mild loss, isolated obstruction and anxiety do not integrate the systemic findings; compensated compromise is a concern rather than an asserted final diagnosis.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b746bf0f4cbfe08877a54dc9613db3720b5fe32b3eb59f06070e37d32cbe6d6f"
+    },
+    {
+      "id": "x-adaptation-027",
+      "status": "pass",
+      "assessment": "Improving urine output and warmth, and improving alertness, independently support a response to resuscitation. Higher pressure with worsening confusion, a sedative-associated pulse fall, and new crackles with increasing oxygen needs are meaningful false-improvement alternatives.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "48dbc9fd8468ca8d8311add37b8e18b1d08e79bdca18fe551cd6f53081c814fc"
+    },
+    {
+      "id": "x-adaptation-028",
+      "status": "pass",
+      "assessment": "New crackles and dyspnoea during a fluid challenge in heart failure require pausing delivery and urgent review. Completing or accelerating the challenge could worsen intolerance; coughing instruction does not address the new fluid-related respiratory change.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "da67ca75eb16a4cfe99d75a29d1def5e2cc2f21ff79c0e059df780eaee24c7c6"
+    },
+    {
+      "id": "x-adaptation-029",
+      "status": "pass",
+      "assessment": "Diabetes with new sweating, nausea and dyspnoea at rest warrants acute coronary assessment despite absent chest pain. Current glucose6.2 does not support hypoglycaemia; gastrointestinal and anxiety explanations cannot safely settle the combined pattern.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2625fc7d0651f337e8d594a36dcbc9da1131822ec8158046779f088117c618e5"
+    },
+    {
+      "id": "x-adaptation-030",
+      "status": "pass",
+      "assessment": "Recurrent chest pressure and sweating after a nondiagnostic ECG require renewed chest-pain evaluation. The earlier tracing or an antacid response cannot exclude evolving ischaemia, while routine follow-up underweights new symptoms.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3e46290a424d98d686f7d515ea9013453dc27e686afa0357e0dfb2314e5b5c41"
+    },
+    {
+      "id": "x-adaptation-031",
+      "status": "pass",
+      "assessment": "Previously brief exertional angina becoming prolonged at rest changes urgency. Assessment now is more appropriate than routine stress testing, reducing exercise or treating the old pattern as reassurance.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "125d7ed8b73e3573849c4f66b5195f7a4bf4347b46827853c6c92d5712c0f60d"
+    },
+    {
+      "id": "x-adaptation-032",
+      "status": "pass",
+      "assessment": "Active femoral bleeding with an expanding haematoma calls for competent protocol-based direct pressure while obtaining help. Distal checks, repeated observations and communication can accompany care but must not delay local bleeding control.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "30ef396d4d7676247b42966337ac445d18e7e596a89101bd6163042efd8fd0ab"
+    },
+    {
+      "id": "x-adaptation-033",
+      "status": "pass",
+      "assessment": "New flank/back pain with hypotension after femoral access raises concern for concealed retroperitoneal bleeding despite a dry dressing. Fasting, sedation and a vagal explanation fit the combined site-related pain and instability less well.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4d977686c84a3315b39261b6820323d94d7e639c3dcde32a027f51a52110334a"
+    },
+    {
+      "id": "x-adaptation-034",
+      "status": "pass",
+      "assessment": "Chest pressure, confusion and hypotension determine urgency during a rapid irregular rhythm. Identifying the exact rhythm, past tolerance and continued wakefulness do not override current evidence of poor perfusion.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ce07957914cec8cdf9018ec95224aecf411db0b2978c2da31ff461a715e0ad33"
+    },
+    {
+      "id": "x-adaptation-035",
+      "status": "pass",
+      "assessment": "A pulse38 with new faintness/confusion is more urgent than a known asymptomatic52 baseline. The case correctly uses symptoms and change from baseline to distinguish urgency rather than imposing a rate threshold alone.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f3ff3811d3f4a5770c67963cfc5ba226aa4678ea4878e582c265304c4584a2f7"
+    },
+    {
+      "id": "x-adaptation-036",
+      "status": "pass",
+      "assessment": "Pacing spikes not followed by QRS complexes with new dizziness support failure to capture. Failure to sense, rapid intrinsic rhythm and expected pacing do not explain this pattern; the rationale appropriately prioritizes pulse/perfusion assessment and urgent review.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f4c6fca4b06fd6d29824f1d26120f9601af4f30afb0a6ba529039b2823bf298e"
+    },
+    {
+      "id": "x-adaptation-037",
+      "status": "pass",
+      "assessment": "Abrupt severe chest/back pain plus a repeatedly confirmed inter-arm pressure difference requires urgent assessment for an acute aortic syndrome. Uncomplicated hypertension, musculoskeletal pain and reflux do not explain the full cue cluster; no definitive diagnosis is claimed.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b9392b6152b9d40ca1794f3bf5aebb4b9a109b653b0bfccc22ffe5f8d839654a"
+    },
+    {
+      "id": "x-adaptation-038",
+      "status": "pass",
+      "assessment": "Sudden abdominal/back pain, pallor and falling pressure with a known abdominal aneurysm require emergency activation. Repeating measurements, further local examination and analgesia preparation must not postpone response to possible rupture.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2aa866757d0b2d52bfe423809ccd5faf1e99e66a720e9caabae3a04348363e43"
+    },
+    {
+      "id": "x-adaptation-039",
+      "status": "pass",
+      "assessment": "A suddenly cold, pale, painful pulseless foot requires urgent vascular review and protection of the limb. Compression, high elevation and walking are plausible but inappropriate venous/claudication strategies for acute arterial compromise.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4ba20cd6933360eeb904e648732411c81fa4d555b36a7b3c912abce1507e24cd"
+    },
+    {
+      "id": "x-adaptation-040",
+      "status": "pass",
+      "assessment": "New rest pain and a cool toe ulcer after intermittent claudication indicate threatened tissue perfusion requiring prompt review. The old walking plan, venous elevation and dressing changes do not address worsening arterial supply.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0990b53e4fe6cb95caf06fc5e12b5125367507f8f3221ba945d2875892a821d2"
+    },
+    {
+      "id": "x-adaptation-041",
+      "status": "pass",
+      "assessment": "Less orthopnoea on the same oxygen and weight moving toward the goal with stable perfusion support improvement in heart failure. More oxygen, quieter anxiety with limited speech, and less oedema accompanied by oliguria/dizziness can conceal deterioration.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e30e3fdcca0fcb6262eac90b464e7c9bacc0e7befd4f2c4d9fe08a96875fd67c"
+    },
+    {
+      "id": "x-adaptation-042",
+      "status": "pass",
+      "assessment": "More pillows, swelling and reduced walking tolerance warrant prompt contact under the heart-failure action plan. Rest, leg elevation and waiting for the next routine weight review accommodate the symptoms without evaluating the deteriorating pattern.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6158c6151fa3b885e15ead665fec9a1a99209b7d410abe996deedfcf7283732e"
+    },
+    {
+      "id": "x-adaptation-043",
+      "status": "pass",
+      "assessment": "Hypotension, slow pulse and warm dry skin after a high spinal injury fit loss of sympathetic tone. The rationale preserves assessment for concurrent bleeding; alternatives involve different mechanisms and do not explain the distinctive pulse/skin pattern as well.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7326ec7e024683e802390c067e88a5169d693a22b42d9f119afb214514871a3a"
+    },
+    {
+      "id": "x-adaptation-044",
+      "status": "pass",
+      "assessment": "New hypotension, tachycardia, jugular venous distension and muffled heart sounds after a cardiac procedure support urgent concern for tamponade. Clear lungs and the clinical cluster make pulmonary oedema, dehydration and a vagal response less consistent; the rationale does not require every classic sign in all cases.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a31eac91a4c23e90bf3707c8ced93460b7b57ec1eeda74040a1ba043bc38ec07"
+    },
+    {
+      "id": "x-adaptation-045",
+      "status": "pass",
+      "assessment": "Fever and fatigue with a prosthetic valve are made more concerning for endocarditis by a new murmur, petechiae and sudden focal neurological signs. The neurological option explicitly requires urgent stroke response. A usual valve click and therapeutic INR are relevant but do not add evidence for infection; no diagnosis is established from these signs alone.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4867d5464e1dd3026e1c6dfbf88769979bb31a1e4b1ab31111adcc6b39f74be1"
+    },
+    {
+      "id": "x-adaptation-046",
+      "status": "pass",
+      "assessment": "Continuing firm direct pressure while help is coming is the immediate response to ongoing bleeding through a pressure dressing. Lifting or replacing clot-adherent material and marking spread before control can undermine haemostasis or delay treatment; the explanation permits additional material according to protocol.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ce3f49227bc44914cd4d9b5981ce05a385911107c68ed1a413cb2bb5d9f19fe6"
+    },
+    {
+      "id": "x-adaptation-047",
+      "status": "pass",
+      "assessment": "The replacement tests recovery teaching after confirmed DVT and established prescribed anticoagulation, with improving symptoms and a team-approved walking plan. Short comfortable walks and leg elevation at rest fit that plan. Waiting for clot disappearance, restricting activity throughout the entire course or forcing a long walk daily are plausible misconceptions. This is distinct from the replaced suspected-DVT recognition objective.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9b8d90936b8268af4f121ec2f3e9799478eca07500f24b2381689f603f020233"
+    },
+    {
+      "id": "x-adaptation-048",
+      "status": "pass",
+      "assessment": "A verified simultaneous apical110/radial84 difference requires documenting both rates with rhythm, symptoms and perfusion. Averaging the measurements obscures the deficit; repeating routine values without the discrepancy would lose clinically useful information.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "15d5b431132c767f38114546457bffc5fb34a602ba8845036bc27b5df8b4f26c"
+    },
+    {
+      "id": "x-adaptation-049",
+      "status": "pass",
+      "assessment": "Acute gastrointestinal bleeding with tachycardia, pallor and falling pressure remains urgent despite an initially normal haemoglobin concentration. Early concentration can lag actual blood loss; the competing laboratory-centred interpretations wrongly dismiss the clinical perfusion trend.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5722eefd4ed4bfb3872ca0aafb8980d47121478b43e706a870ada1102cb8ec53"
+    },
+    {
+      "id": "x-adaptation-050",
+      "status": "pass",
+      "assessment": "After syncope, reassessing current observations/symptoms against baseline and examining the event, injuries and medicines are both required. Wakefulness or one supine pressure cannot establish recovery safety, and an unassisted walking trial or routine follow-up does not replace assessment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "02e118df5ca60b323e64c718687cb2f7740d93ce62db6305694f7306e13dcd06"
+    }
+  ],
+  "activeSourceFile": "authoring/b/adaptation-02.json",
+  "reviewerTask": "/root/review_legacy"
+}

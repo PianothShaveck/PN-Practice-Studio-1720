@@ -1,0 +1,291 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewerTask": "/root/author_management_safety",
+  "reviewedAt": "2026-10-01T17:53:49.522617+00:00",
+  "sourceFile": "bank-expansion/reviews/expansion/cross-a-health-snapshot.json",
+  "coverage": {
+    "reviewedItems": 20,
+    "reviewedIds": [
+      "x-health-181",
+      "x-health-182",
+      "x-health-183",
+      "x-health-184",
+      "x-health-185",
+      "x-health-186",
+      "x-health-187",
+      "x-health-188",
+      "x-health-189",
+      "x-health-190",
+      "x-health-191",
+      "x-health-192",
+      "x-health-193",
+      "x-health-194",
+      "x-health-195",
+      "x-health-196",
+      "x-health-197",
+      "x-health-198",
+      "x-health-199",
+      "x-health-200"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Read every supplied field and reasoned through each key, distractor, rationale, objective and difficulty. Targeted primary-source checks are recorded separately; a reference alone was not treated as validation.",
+  "limitations": [
+    "Not external clinician or psychometric validation",
+    "Source verification is targeted; general educational and communication principles were reviewed for internal and clinical coherence."
+  ],
+  "sourceChecks": [
+    {
+      "ids": [
+        "x-health-191",
+        "x-health-195"
+      ],
+      "url": "https://caringforkids.cps.ca/handouts/health-conditions-and-treatments/jaundice_in_newborns",
+      "method": "Primary Canadian Paediatric Society page retrieved through search and opened",
+      "finding": "Newborn jaundice and feeding concerns need clinical evaluation; reviewed the principle, not treatment thresholds or bilirubin calculations."
+    },
+    {
+      "ids": [
+        "x-health-192",
+        "x-health-194"
+      ],
+      "url": "https://www.canada.ca/en/public-health/services/publications/healthy-living/maternity-newborn-care-guidelines-chapter-5.html",
+      "method": "Primary PHAC postpartum chapter retrieved through search and opened",
+      "finding": "Postpartum warning patterns include infection findings and sudden heavy bleeding with dizziness; no exact numeric treatment threshold introduced."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-health-181",
+      "status": "pass",
+      "assessment": "The item honestly tests foundation knowledge: past agreement and relationship status do not establish current voluntary consent. The explanation separates consent from contraception and absence of objection.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "db76042911c78c2394bee21a8faf63451959bd6c164984eee2068d9258f6638e"
+    },
+    {
+      "id": "x-health-182",
+      "status": "revise",
+      "assessment": "Private postpartum pain assessment is correct, but annual delay, emotional-only attribution and partner substitution are conspicuous errors.",
+      "issues": [
+        "Private postpartum pain assessment is correct, but annual delay, emotional-only attribution and partner substitution are conspicuous errors."
+      ],
+      "proposedChanges": [
+        "Compare assessment of healing/symptoms with lubricant advice, a routine postpartum appointment and pelvic-floor referral. Give timing and symptoms so assessment determines which support is appropriate."
+      ],
+      "reviewedItemSha256": "0743e4716d1390cce89694a046b596761502c052fdc256e639a04a8a0f0f7920"
+    },
+    {
+      "id": "x-health-183",
+      "status": "revise",
+      "assessment": "Reviewing pregnancy prevention is appropriate, but three nonkeys restate the same unsupported infertility assumption while the key is the only comprehensive clinical action.",
+      "issues": [
+        "Reviewing pregnancy prevention is appropriate, but three nonkeys restate the same unsupported infertility assumption while the key is the only comprehensive clinical action."
+      ],
+      "proposedChanges": [
+        "Compare continuing current contraception pending review, switching to symptom/cycle tracking, requesting menopause assessment and changing to a barrier method. Give relevant age/history if needed; do not invent a universal stopping interval."
+      ],
+      "reviewedItemSha256": "0effc89fd79bf44765c4828755d90153ed86b3e1d9645ec2bb8cbb4590be036b"
+    },
+    {
+      "id": "x-health-184",
+      "status": "revise",
+      "assessment": "An evolving asymmetric colour-changing lesion merits assessment despite no pain, but year-long delay, moisturizer and usual tanning make it too easy.",
+      "issues": [
+        "An evolving asymmetric colour-changing lesion merits assessment despite no pain, but year-long delay, moisturizer and usual tanning make it too easy."
+      ],
+      "proposedChanges": [
+        "Compare prompt assessment with serial photographs, planned routine skin review and self-monitoring for bleeding. Make the timing and documented evolution distinguish clinical review; avoid an invented urgency threshold."
+      ],
+      "reviewedItemSha256": "a641c94b2163c2590e226ce9792f06acdc74dcd7052dc4221360ca1f30a629f9"
+    },
+    {
+      "id": "x-health-185",
+      "status": "revise",
+      "assessment": "Medication review, oral prevention and hydration assessment are appropriate, but stopping all prescribed medicines independently is a caricature sole nonkey.",
+      "issues": [
+        "Medication review, oral prevention and hydration assessment are appropriate, but stopping all prescribed medicines independently is a caricature sole nonkey."
+      ],
+      "proposedChanges": [
+        "Replace with a realistic attempted remedy such as frequent sugary lozenges and explain caries risk. Consider an actual dry-mouth case with relevant medication timing and oral findings."
+      ],
+      "reviewedItemSha256": "0e7bf7172ffbeb21df1d4f447ea672fb66feaa1c44f2761fc1066da5ac9d7a31"
+    },
+    {
+      "id": "x-health-186",
+      "status": "revise",
+      "assessment": "Adapting protection/timing preserves useful gardening, but indefinite cessation and cloudy-day-only medication are extreme distractors.",
+      "issues": [
+        "Adapting protection/timing preserves useful gardening, but indefinite cessation and cloudy-day-only medication are extreme distractors."
+      ],
+      "proposedChanges": [
+        "Compare protective clothing/timing, higher sunscreen SPF alone, taking the medicine at night and relying on shade. Explain which plan addresses exposure without independently altering treatment."
+      ],
+      "reviewedItemSha256": "90e2590beb9ffb2688aeaff2356b9ab5df1c2a1d486e97f15c6ee89253a1115f"
+    },
+    {
+      "id": "x-health-187",
+      "status": "revise",
+      "assessment": "Food access assessment is correct, but flavour-only and trusting advertising are implausible professional alternatives.",
+      "issues": [
+        "Food access assessment is correct, but flavour-only and trusting advertising are implausible professional alternatives."
+      ],
+      "proposedChanges": [
+        "Compare buying a supplement, a feasible food plan, referral for nutrition review and a food-support resource. Add ability to eat and absence of a prescribed supplement need to distinguish the immediate plan."
+      ],
+      "reviewedItemSha256": "352f6b868d07c422b510ae0a352b3e382333b0b30e1bd56c289a62a5db531a27"
+    },
+    {
+      "id": "x-health-188",
+      "status": "revise",
+      "assessment": "Accessible activity planning is appropriate, but all nonkeys repeat walking/standing as exclusive goals; overlaps149.",
+      "issues": [
+        "Accessible activity planning is appropriate, but all nonkeys repeat walking/standing as exclusive goals; overlaps149."
+      ],
+      "proposedChanges": [
+        "Use concrete available wheelchair-accessible exercise options and actual upper-limb endurance or shoulder limitations. Compare goals that differ in feasibility and required rehabilitation assessment rather than generic inclusivity."
+      ],
+      "reviewedItemSha256": "677d1c427ce47876301566d1faaf3c19ec9f631f0a0ec5c2b17958f368d74508"
+    },
+    {
+      "id": "x-health-189",
+      "status": "revise",
+      "assessment": "Respectful correction is correct, but insulting intelligence and ending the class are cartoon professional responses.",
+      "issues": [
+        "Respectful correction is correct, but insulting intelligence and ending the class are cartoon professional responses."
+      ],
+      "proposedChanges": [
+        "Compare clarifying the evidence to the group, speaking privately after class, inviting participant sources and distributing a later resource. Give an immediately consequential claim so timely public clarification is best."
+      ],
+      "reviewedItemSha256": "b7cdef917e77da36a66fd7da2854d551e53c22a80fcef21fd537f7202938312e"
+    },
+    {
+      "id": "x-health-190",
+      "status": "revise",
+      "assessment": "Nonattender input and community partnership fit the reach problem, but only-satisfaction signals the nonkey.",
+      "issues": [
+        "Nonattender input and community partnership fit the reach problem, but only-satisfaction signals the nonkey."
+      ],
+      "proposedChanges": [
+        "Remove only and phrase the competing evaluation directly, e.g surveying current attendees about convenience. Explain why it does not adequately represent people the service is failing to reach."
+      ],
+      "reviewedItemSha256": "6dc25f5b277e1c760d7904c6da0056f0954a3e7cd1a3f637ee04f8f0a470bc2c"
+    },
+    {
+      "id": "x-health-191",
+      "status": "revise",
+      "assessment": "Worsening jaundice with unusual sleepiness is a genuine warning pattern, but the key contains an explicit reassuring alternative and sunlight/feet thresholds are conspicuous foils.",
+      "issues": [
+        "Worsening jaundice with unusual sleepiness is a genuine warning pattern, but the key contains an explicit reassuring alternative and sunlight/feet thresholds are conspicuous foils."
+      ],
+      "proposedChanges": [
+        "Shorten the key to prompt clinical assessment. Compare feeding-support visit, repeat weight check and bilirubin/clinical assessment pathways, ensuring hard-to-wake status calls for urgent assessment rather than routine scheduling. Add a direct CPS newborn jaundice source."
+      ],
+      "reviewedItemSha256": "147d45e4478dbc96ccf2bbb0690521fd783757d77cd4601925b8a35fe55905e4"
+    },
+    {
+      "id": "x-health-192",
+      "status": "revise",
+      "assessment": "Fever, pelvic pain and foul discharge support prompt assessment; activity for drainage and leftover antibiotics are implausible nurse advice.",
+      "issues": [
+        "Fever, pelvic pain and foul discharge support prompt assessment; activity for drainage and leftover antibiotics are implausible nurse advice."
+      ],
+      "proposedChanges": [
+        "Compare prompt assessment with hygiene review, temperature recheck after an antipyretic and a scheduled postpartum review. Add actual postpartum day and fever if useful, and explain why the combined infection cues override routine care."
+      ],
+      "reviewedItemSha256": "769dcff186c3f22e11387487851c8c07a1d3e7b20161ad486d3f6e381e5db6b3"
+    },
+    {
+      "id": "x-health-193",
+      "status": "pass",
+      "assessment": "The client is explicitly cleared to mobilize after uncomplicated birth. Gentle planned movement is appropriate; delaying until bleeding stops, substituting ankle movement and relying on compression each reflect plausible overcautious prevention choices with specific limits.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7e24fe5abd9235a3f701683566513708b44cd1001db6eb0377611be7a11fa486"
+    },
+    {
+      "id": "x-health-194",
+      "status": "revise",
+      "assessment": "Sudden heavy bleeding and faintness warrant emergency help, but overnight recording and routine activity are exaggerated delays.",
+      "issues": [
+        "Sudden heavy bleeding and faintness warrant emergency help, but overnight recording and routine activity are exaggerated delays."
+      ],
+      "proposedChanges": [
+        "Compare emergency activation with calling the routine postpartum line, arranging family transport and resting with oral fluids while monitoring. Explain why possible circulatory compromise favours emergency response; keep options similar length."
+      ],
+      "reviewedItemSha256": "50b41c89a53b745244a53676d53a56ffa903fdca98879a67dbd9eaaef268d5fd"
+    },
+    {
+      "id": "x-health-195",
+      "status": "revise",
+      "assessment": "Feeding, breathing and alertness warning signs matter, but a major feeding change waiting a month is a cartoon sole nonkey.",
+      "issues": [
+        "Feeding, breathing and alertness warning signs matter, but a major feeding change waiting a month is a cartoon sole nonkey."
+      ],
+      "proposedChanges": [
+        "Use actual caregiver observations, including a benign transient feeding/sleep variation versus persistent poor feeding, difficult waking or respiratory distress. Clarify emergency escalation for significant breathing difficulty rather than an undifferentiated contact route."
+      ],
+      "reviewedItemSha256": "ccba3422139b46a73d879879d1ac65ae531a876e088392a96ea42c0164c3b200"
+    },
+    {
+      "id": "x-health-196",
+      "status": "revise",
+      "assessment": "Whole-child context is correct, but all-care-from-fever and never-deteriorates are extreme absolutes against a comprehensive key.",
+      "issues": [
+        "Whole-child context is correct, but all-care-from-fever and never-deteriorates are extreme absolutes against a comprehensive key."
+      ],
+      "proposedChanges": [
+        "Use two or more short concrete child observations or plausible assessment priorities. Specify age if fever urgency is tested and compare behaviour, hydration, breathing and measured temperature without an all-encompassing uniquely long key."
+      ],
+      "reviewedItemSha256": "1e6df693a6a1d999efb06f160a9fda02e58cf16c94dca48cd4088704176aeb85"
+    },
+    {
+      "id": "x-health-197",
+      "status": "revise",
+      "assessment": "Honest sensations and coping support are appropriate; equipment brand is irrelevant and caregiver-all-answers weak.",
+      "issues": [
+        "Honest sensations and coping support are appropriate; equipment brand is irrelevant and caregiver-all-answers weak."
+      ],
+      "proposedChanges": [
+        "Compare an honest brief description with demonstration of equipment, distraction, caregiver explanation and reassurance as appropriate. Replace the brand foil and keep the response developmentally direct."
+      ],
+      "reviewedItemSha256": "750108effbd101a34ecda7b81cd2bfb1de7bc39e016d7e9fcca9f156306d6d63"
+    },
+    {
+      "id": "x-health-198",
+      "status": "revise",
+      "assessment": "Coordinated current guidance is correct, but memory-alone and exclusion-from-every-session advertise poor care.",
+      "issues": [
+        "Coordinated current guidance is correct, but memory-alone and exclusion-from-every-session advertise poor care."
+      ],
+      "proposedChanges": [
+        "Name one concrete practice difference and compare shared demonstration/teach-back, giving a current leaflet, asking parents to relay guidance and scheduling a separate caregiver session. Explain why consistent practical understanding is needed."
+      ],
+      "reviewedItemSha256": "e69a3e72d11d80969e30764953736011802c02d2d633967c03f23db859da2206"
+    },
+    {
+      "id": "x-health-199",
+      "status": "revise",
+      "assessment": "Simple responsive play is valid, but price-predicts-benefit and only-specialized-toys are broad marketing caricatures; label does not match direct recall.",
+      "issues": [
+        "Simple responsive play is valid, but price-predicts-benefit and only-specialized-toys are broad marketing caricatures; label does not match direct recall."
+      ],
+      "proposedChanges": [
+        "Compare concrete play experiences such as caregiver turn-taking with simple objects, prerecorded electronic prompts and independent activity-centre play. Either add infant cues for an applied decision or label foundation."
+      ],
+      "reviewedItemSha256": "0f7b5058d4bda6e6c49d0331dc8c48d483dd432fc9d332041597c4d5a7efce01"
+    },
+    {
+      "id": "x-health-200",
+      "status": "revise",
+      "assessment": "Reassessment and adaptation fit a new work schedule, but interpreting change as failed learning is an implausible sole nonkey.",
+      "issues": [
+        "Reassessment and adaptation fit a new work schedule, but interpreting change as failed learning is an implausible sole nonkey."
+      ],
+      "proposedChanges": [
+        "Replace with a plausible plan action, such as retaining the previous meal timing until the next routine review or compensating with one larger meal. Add shift/meal access cues so adaptation options are clinically and practically grounded."
+      ],
+      "reviewedItemSha256": "a977a4637822096a1e636c34f85fda45d18e42d05d5f82e34b2d40ae07e60544"
+    }
+  ]
+}

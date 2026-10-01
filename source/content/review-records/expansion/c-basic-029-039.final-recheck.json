@@ -1,0 +1,67 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:21:29.704098+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/basic-026-050.json",
+  "sourceSha256": "24fc8ccd59fe262fecec4166364a2c5f24f54e04bb0232ed065d753373a76094",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 2,
+    "reviewedIds": [
+      "x-basic-029",
+      "x-basic-039"
+    ],
+    "unreviewedIds": [
+      "x-basic-026",
+      "x-basic-027",
+      "x-basic-028",
+      "x-basic-030",
+      "x-basic-031",
+      "x-basic-032",
+      "x-basic-033",
+      "x-basic-034",
+      "x-basic-035",
+      "x-basic-036",
+      "x-basic-037",
+      "x-basic-038",
+      "x-basic-040",
+      "x-basic-041",
+      "x-basic-042",
+      "x-basic-043",
+      "x-basic-044",
+      "x-basic-045",
+      "x-basic-046",
+      "x-basic-047",
+      "x-basic-048",
+      "x-basic-049",
+      "x-basic-050"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-basic-029",
+      "status": "pass",
+      "assessment": "The stem no longer gives the method; observed firm-brush trauma supports soft gentle mechanical cleaning. Alternatives are comparable oral-care changes and explain why reduced frequency/floss introduction/rinse substitution do not solve the problem.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8ca568ced85d93a3b8e712ce5814adf4d4a92cb8e54303890df6ad9de7549c9f"
+    },
+    {
+      "id": "x-basic-039",
+      "status": "pass",
+      "assessment": "Warfarin plus fragile skin supports electric shaving as lower-cut-risk method; the device is no longer supplied in the stem. All alternatives are plausible blade-shaving variations, with parallel rationales.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "084f7e88406c2819bbe76b58e62503c503a715b0708d5e2e508421da05963a93"
+    }
+  ],
+  "reviewerTask": "/root/review_legacy"
+}

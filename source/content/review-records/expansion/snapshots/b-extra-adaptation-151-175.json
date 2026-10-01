@@ -1,0 +1,808 @@
+[
+  {
+    "id": "x-adaptation-151",
+    "cat": "adaptation",
+    "title": "Look beyond an electrical entry wound",
+    "stem": "An adult is assessed after an electrical injury. There are small marks on one hand and foot, and the client briefly lost consciousness at the scene. Which concern should guide the initial assessment?",
+    "type": "single",
+    "options": [
+      "The visible wound size may underestimate cardiac and deeper tissue injury",
+      "The intact surrounding skin makes a significant injury unlikely",
+      "Pain at the hand is the best measure of the current overall risk",
+      "Local dressing needs should determine whether further observation is needed"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Electrical current can injure internal tissues and affect rhythm despite small skin wounds; assess and monitor according to the emergency plan.",
+      "Surface appearance does not establish the path or effect of the current.",
+      "Pain is relevant but does not assess arrhythmia or deep injury.",
+      "The loss of consciousness and mechanism require assessment beyond local wound care."
+    ],
+    "takeaway": "Use the injury mechanism, not surface area alone, to assess electrical injury risk.",
+    "refs": [
+      "ba-burns"
+    ],
+    "exhibit": null,
+    "subtopic": "Electrical injury assessment",
+    "learningObjective": "Use the injury mechanism, not surface area alone, to assess electrical injury risk.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-152",
+    "cat": "adaptation",
+    "title": "Decontaminate a dry chemical exposure",
+    "stem": "A worker arrives with dry caustic powder on the forearm and sleeve. The safety data sheet instructs removal of dry material followed by water irrigation. Which actions are appropriate? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Use suitable protective equipment before assisting",
+      "Brush away loose powder and remove contaminated clothing carefully",
+      "Apply a household acid to neutralize the powder on the skin",
+      "Cover the contaminated sleeve with a wet dressing for transport"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "why": [
+      "Protecting staff prevents secondary exposure during decontamination.",
+      "Following the substance-specific instructions limits ongoing contact before the recommended irrigation.",
+      "Attempted neutralization can produce heat or additional injury and is not the supplied decontamination method.",
+      "A wet covering leaves contaminated material in contact with skin and does not follow the instructions."
+    ],
+    "takeaway": "Follow substance-specific decontamination guidance while preventing secondary exposure.",
+    "refs": [
+      "ba-chemical"
+    ],
+    "exhibit": null,
+    "subtopic": "Chemical burn decontamination",
+    "learningObjective": "Follow substance-specific decontamination guidance while preventing secondary exposure.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-153",
+    "cat": "adaptation",
+    "title": "Cool a burn while protecting body temperature",
+    "stem": "A child has just sustained a hot-water scald to one forearm. The child is alert and breathing normally. Which initial approach best limits local injury while avoiding hypothermia?",
+    "type": "single",
+    "options": [
+      "Immerse the child in a cold bath until the arm pain resolves",
+      "Cover the arm with butter and wrap the child in a blanket",
+      "Cool the affected area with running water while keeping the rest of the child warm",
+      "Place ice directly on the arm and repeatedly inspect for numbness"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Whole-body cold immersion can cause excessive heat loss and is not needed for the localized injury.",
+      "Butter is not appropriate burn first aid and can interfere with assessment.",
+      "Localized water cooling with protection of uninjured areas addresses the burn without unnecessarily cooling the whole child; obtain assessment according to burn severity.",
+      "Direct ice can damage tissue and numbness is not a safe endpoint."
+    ],
+    "takeaway": "Cool the injury while preserving the person's overall temperature.",
+    "refs": [
+      "ba-burn-first-aid"
+    ],
+    "exhibit": null,
+    "subtopic": "Localized scald first aid",
+    "learningObjective": "Cool the injury while preserving the person's overall temperature.",
+    "reasoningSkill": "intervention",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-154",
+    "cat": "adaptation",
+    "title": "Evaluate a prescribed burn-fluid plan",
+    "stem": "A client with a major burn is receiving prescribed fluid resuscitation with individualized urine and perfusion targets. Which changes suggest the plan needs prompt reassessment? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Urine output remains below the prescribed target despite confirmed catheter patency",
+      "Alertness improves and peripheral perfusion becomes warmer",
+      "New crackles and increasing oxygen needs appear",
+      "Pulse moves toward baseline while BP and urine meet their targets"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "why": [
+      "Persistent low output may indicate inadequate perfusion or another complication and requires review of the overall response.",
+      "This is a favourable trend when considered with the other targets.",
+      "Respiratory deterioration may indicate poor fluid tolerance or another complication; further fluid should not be assumed to be the solution.",
+      "Convergent improvement supports the current response rather than an automatic change."
+    ],
+    "takeaway": "Burn resuscitation requires repeated assessment for both inadequate perfusion and excess fluid effects.",
+    "refs": [
+      "ba-burns"
+    ],
+    "exhibit": null,
+    "subtopic": "Burn fluid response",
+    "learningObjective": "Burn resuscitation requires repeated assessment for both inadequate perfusion and excess fluid effects.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "challenge",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-155",
+    "cat": "adaptation",
+    "title": "Recognize restricted chest expansion",
+    "stem": "A client with a circumferential deep burn of the chest develops increasing work of breathing. Chest movement is becoming limited even though the airway remains patent. What is the priority nursing response?",
+    "type": "single",
+    "options": [
+      "Increase the frequency of incentive-spirometer practice",
+      "Obtain urgent assessment of ventilation and possible chest-wall restriction",
+      "Apply a tighter chest dressing to reduce discomfort with movement",
+      "Encourage oral fluid intake to loosen respiratory secretions"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Exercises do not address progressive mechanical restriction of the chest.",
+      "A restrictive eschar can impair ventilation and requires urgent specialist assessment and respiratory support.",
+      "More external restriction could worsen ventilation.",
+      "Hydration does not correct mechanical restriction or the immediate respiratory threat."
+    ],
+    "takeaway": "A patent airway does not exclude a serious problem with chest expansion and ventilation.",
+    "refs": [
+      "ba-burns"
+    ],
+    "exhibit": null,
+    "subtopic": "Circumferential chest burn",
+    "learningObjective": "A patent airway does not exclude a serious problem with chest expansion and ventilation.",
+    "reasoningSkill": "priority",
+    "difficulty": "challenge",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-156",
+    "cat": "adaptation",
+    "title": "Reduce heat loss during burn care",
+    "stem": "A client with extensive burns becomes cold during a prolonged dressing change. Which adjustments help preserve temperature while continuing necessary care? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Expose one treatment area at a time where feasible",
+      "Leave all dressings off together so evaporative drying occurs evenly",
+      "Use the prescribed warming measures and monitor temperature",
+      "Increase room airflow across the exposed wet surfaces"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "why": [
+      "Limiting exposed surface area reduces heat loss while allowing staged care.",
+      "Widespread exposure promotes heat and fluid loss.",
+      "Active temperature monitoring and appropriate warming support safe completion of care.",
+      "Airflow across wet skin increases evaporative cooling."
+    ],
+    "takeaway": "Plan burn care to reduce exposure-related heat loss.",
+    "refs": [
+      "ba-burns"
+    ],
+    "exhibit": null,
+    "subtopic": "Burn temperature protection",
+    "learningObjective": "Plan burn care to reduce exposure-related heat loss.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-157",
+    "cat": "adaptation",
+    "title": "Interpret low pain in a deep burn",
+    "stem": "Two burn areas are assessed: one is red, moist and very painful; another is dry, leathery and relatively insensate. Which interpretation is most appropriate?",
+    "type": "single",
+    "options": [
+      "The less painful area is likely to need less assessment and treatment",
+      "The painful area is deeper because pain intensity reflects tissue depth",
+      "The absence of pain indicates that the second area has already healed",
+      "The insensate area may be deeper because nerve endings have been damaged"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Low pain does not make a burn less severe.",
+      "Superficial and partial-thickness burns can be very painful because functioning nerves remain.",
+      "Dry leathery tissue after an acute burn is not evidence of healing.",
+      "Full-thickness injury may damage sensory structures; depth assessment uses multiple tissue findings."
+    ],
+    "takeaway": "Pain intensity alone does not measure burn severity.",
+    "refs": [
+      "ba-burns"
+    ],
+    "exhibit": null,
+    "subtopic": "Burn depth interpretation",
+    "learningObjective": "Pain intensity alone does not measure burn severity.",
+    "reasoningSkill": "recognition",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-158",
+    "cat": "adaptation",
+    "title": "Support movement after a hand burn",
+    "stem": "A client's hand burn has healed sufficiently for the burn therapist to prescribe specific range-of-motion exercises and splint periods. The client stops exercising because stretching feels tight. What is the best nursing response?",
+    "type": "single",
+    "options": [
+      "Advise prolonged immobilization until the skin feels completely normal",
+      "Review the prescribed technique and pain plan, and report limiting symptoms",
+      "Suggest forceful stretching beyond the prescribed range to shorten rehabilitation",
+      "Replace the exercise sessions with massage whenever tightness occurs"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Unnecessary immobilization can contribute to stiffness and contracture.",
+      "Support the individualized rehabilitation plan while assessing whether pain or tissue changes require adjustment.",
+      "Forceful movement can injure healing tissues.",
+      "An unplanned substitute may not meet the therapeutic goal and should be reviewed with the therapist."
+    ],
+    "takeaway": "Address barriers to prescribed rehabilitation rather than abandoning or intensifying it independently.",
+    "refs": [
+      "ba-burn-rehab"
+    ],
+    "exhibit": null,
+    "subtopic": "Burn contracture rehabilitation",
+    "learningObjective": "Address barriers to prescribed rehabilitation rather than abandoning or intensifying it independently.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-159",
+    "cat": "adaptation",
+    "title": "Recognize a systemic complication after a long-bone fracture",
+    "stem": "Twenty-four hours after a femoral fracture, a client becomes confused and breathless. SpO2 has fallen, and new petechiae are seen on the upper chest. Which response is best?",
+    "type": "single",
+    "options": [
+      "Attribute the confusion to poor sleep and reassess after rest",
+      "Focus on the skin findings and request a routine dermatology review",
+      "Initiate urgent respiratory support and report the combined pattern",
+      "Encourage coughing and wait to see whether the oxygen reading improves"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "The simultaneous respiratory and neurological change needs urgent assessment.",
+      "The rash is part of a systemic pattern, not an isolated skin complaint.",
+      "The pattern is concerning for a fat embolism complication or another acute cause; stabilize and escalate.",
+      "A routine pulmonary exercise alone is insufficient for new hypoxaemia with confusion."
+    ],
+    "takeaway": "Combine neurological, respiratory and skin changes after a long-bone injury.",
+    "refs": [
+      "ba-fractures"
+    ],
+    "exhibit": null,
+    "subtopic": "Fat embolism warning pattern",
+    "learningObjective": "Combine neurological, respiratory and skin changes after a long-bone injury.",
+    "reasoningSkill": "priority",
+    "difficulty": "challenge",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-160",
+    "cat": "adaptation",
+    "title": "Do not rely on a palpable pulse in a painful cast",
+    "stem": "A client with a new lower-leg cast reports rapidly increasing pain despite analgesia. Passive toe movement markedly increases pain, and the toes feel tingling. A pedal pulse is palpable. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Seek immediate assessment for compartment or neurovascular compromise",
+      "Reassure the client that the pulse confirms adequate tissue circulation",
+      "Give the next analgesic dose and assess whether sleep becomes possible",
+      "Encourage toe exercises to reduce the pressure before requesting review"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Pain out of proportion, stretch pain and sensory change require urgent assessment; a pulse can remain present early.",
+      "A distal pulse does not exclude harmful tissue pressure.",
+      "Analgesia should not delay assessment of possible limb-threatening compromise.",
+      "Exercise is not the treatment for suspected compartment syndrome."
+    ],
+    "takeaway": "A palpable pulse cannot overrule a concerning pain and sensory pattern.",
+    "refs": [
+      "ba-compartment"
+    ],
+    "exhibit": null,
+    "subtopic": "Compartment syndrome recognition",
+    "learningObjective": "A palpable pulse cannot overrule a concerning pain and sensory pattern.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-161",
+    "cat": "adaptation",
+    "title": "Respond to a sudden hip change after replacement",
+    "stem": "During a chair transfer after hip replacement, a client develops sudden severe hip pain. The operated leg appears shortened and abnormally rotated. Which action is most appropriate?",
+    "type": "single",
+    "options": [
+      "Assist the client to take a few steps to distinguish spasm from dislocation",
+      "Support the limb in the current position and request urgent assessment",
+      "Try gentle rotation until the leg looks symmetrical with the other side",
+      "Give prescribed analgesia and complete the planned transfer before review"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Weight-bearing could worsen an injury and is not an appropriate diagnostic trial.",
+      "Protect the limb and obtain urgent assessment for dislocation or another complication.",
+      "Attempted reduction should not be performed by unqualified staff.",
+      "Pain relief is useful, but the changed alignment requires assessment before further transfer."
+    ],
+    "takeaway": "New pain with altered limb alignment requires protection and prompt assessment.",
+    "refs": [
+      "ba-hip"
+    ],
+    "exhibit": null,
+    "subtopic": "Hip prosthesis dislocation",
+    "learningObjective": "New pain with altered limb alignment requires protection and prompt assessment.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-162",
+    "cat": "adaptation",
+    "title": "Restore the prescribed traction setup",
+    "stem": "A client in prescribed skin traction has slid down the bed. The weight now rests on the floor and discomfort has increased. Which action should the trained nurse take?",
+    "type": "single",
+    "options": [
+      "Add an extra weight to compensate for the loss of pull",
+      "Remove the weight until the client has slept comfortably",
+      "Reposition the client with assistance and restore free suspension as prescribed",
+      "Place the weight on a stool to keep it close to the bed"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "The prescribed force should not be changed independently.",
+      "Interrupting traction without a clinical plan may alter alignment and pain.",
+      "Correcting positioning and free suspension restores the intended setup; reassess alignment, skin and neurovascular status.",
+      "A supported weight does not provide the intended continuous traction."
+    ],
+    "takeaway": "Check the mechanical setup before interpreting traction-related discomfort as a need for more force.",
+    "refs": [
+      "ba-traction"
+    ],
+    "exhibit": null,
+    "subtopic": "Traction function",
+    "learningObjective": "Check the mechanical setup before interpreting traction-related discomfort as a need for more force.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-163",
+    "cat": "adaptation",
+    "title": "Assess a changing external-fixator pin site",
+    "stem": "A client with an external fixator has new purulent drainage, increasing redness and pain at one pin site. The pin appears looser than yesterday. What is the best response?",
+    "type": "single",
+    "options": [
+      "Tighten the pin and repeat routine site care",
+      "Use a stronger cleaning solution than the prescribed one",
+      "Cover the drainage and review it at the next weekly appointment",
+      "Report the changes promptly for infection and fixation assessment"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Adjusting fixation hardware requires appropriate expertise and authorization.",
+      "A stronger product does not address possible infection or instability and may damage tissue.",
+      "The combined change warrants earlier assessment.",
+      "New local infection signs and possible loosening require prompt team review while continuing authorized care."
+    ],
+    "takeaway": "Assess both tissue infection and device stability when a pin site changes.",
+    "refs": [
+      "ba-fractures"
+    ],
+    "exhibit": null,
+    "subtopic": "External fixation complication",
+    "learningObjective": "Assess both tissue infection and device stability when a pin site changes.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-164",
+    "cat": "adaptation",
+    "title": "Evaluate osteomyelitis treatment teaching",
+    "stem": "A client being treated for osteomyelitis reports less pain and asks whether the remaining prescribed antimicrobial course is still needed. Which response is best?",
+    "type": "single",
+    "options": [
+      "Explain that symptom relief can precede control of infection and review the prescribed course",
+      "Recommend stopping once the temperature has been normal for two days",
+      "Suggest saving the remaining medicine for a future return of bone pain",
+      "Advise taking the medicine on painful days to reduce exposure"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Clinical improvement does not independently determine the treatment endpoint; follow the team plan and seek review for adverse effects or concerns.",
+      "A brief symptom-free interval is not a substitute for the individualized treatment plan.",
+      "Stored leftover medicine is not a safe plan for a recurrent or persistent bone infection.",
+      "Intermittent symptom-based use can compromise treatment."
+    ],
+    "takeaway": "Use the prescribed treatment endpoint rather than pain relief alone when evaluating infection recovery.",
+    "refs": [
+      "ba-osteomyelitis"
+    ],
+    "exhibit": null,
+    "subtopic": "Osteomyelitis treatment continuation",
+    "learningObjective": "Use the prescribed treatment endpoint rather than pain relief alone when evaluating infection recovery.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-165",
+    "cat": "adaptation",
+    "title": "Assess an acutely painful paediatric joint",
+    "stem": "A previously well 6-year-old develops fever, a painful swollen knee and refusal to bear weight. There was no clear injury. Which action is most appropriate?",
+    "type": "single",
+    "options": [
+      "Arrange urgent assessment for possible joint infection",
+      "Encourage a short walk to determine the degree of stiffness",
+      "Apply the usual minor-sprain plan and reassess in several days",
+      "Book routine physiotherapy to improve movement"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "An acutely painful joint with fever and inability to bear weight needs prompt assessment to protect the joint and address infection.",
+      "Forced weight-bearing adds pain and does not safely exclude a serious cause.",
+      "The systemic symptoms and absent injury history do not support assuming a simple sprain.",
+      "Rehabilitation should follow assessment of the acute cause."
+    ],
+    "takeaway": "A febrile child who will not bear weight needs timely evaluation of an acute joint problem.",
+    "refs": [
+      "ba-paediatric-joint"
+    ],
+    "exhibit": null,
+    "subtopic": "Septic arthritis recognition",
+    "learningObjective": "A febrile child who will not bear weight needs timely evaluation of an acute joint problem.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-166",
+    "cat": "adaptation",
+    "title": "Investigate new foot drop after surgery",
+    "stem": "After lower-leg surgery, a client who could dorsiflex the ankle at handover can no longer lift the front of the foot. There is new numbness on the top of the foot. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Encourage repeated walking to rebuild strength",
+      "Attribute the change to bed rest and reassess at discharge",
+      "Report the new motor and sensory deficit and assess for compression or injury",
+      "Record the symptom as expected because the surgical wound is painful"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Walking with a new motor deficit may be unsafe and does not identify the cause.",
+      "Acute change over a shift is not adequately explained by ordinary deconditioning.",
+      "New motor and sensory loss requires prompt neurovascular assessment and escalation.",
+      "Wound pain should not be used to normalize a new focal neurological deficit."
+    ],
+    "takeaway": "Compare postoperative motor and sensory function with the documented baseline.",
+    "refs": [
+      "ba-neurovascular"
+    ],
+    "exhibit": null,
+    "subtopic": "Postoperative nerve compromise",
+    "learningObjective": "Compare postoperative motor and sensory function with the documented baseline.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-167",
+    "cat": "adaptation",
+    "title": "Assess phantom limb pain constructively",
+    "stem": "A client after below-knee amputation reports burning pain in the missing foot. The residual limb has no new skin or perfusion changes. Which response is most appropriate?",
+    "type": "single",
+    "options": [
+      "Explain that pain in an absent foot indicates difficulty accepting the amputation",
+      "Acknowledge the pain and assess it for the individualized treatment plan",
+      "Reassure the client that the feeling will end if it is ignored",
+      "Focus the assessment on the wound because it is the remaining physical structure"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Phantom pain is a recognized experience and should not be reduced to a psychological judgment.",
+      "A real pain experience needs characterization and a suitable multimodal management plan.",
+      "Dismissal may leave pain untreated and discourage reporting.",
+      "Wound assessment is important, but does not replace assessment of phantom pain."
+    ],
+    "takeaway": "Different pain mechanisms after amputation require assessment and an appropriate plan.",
+    "refs": [
+      "ba-amputation"
+    ],
+    "exhibit": null,
+    "subtopic": "Phantom limb pain",
+    "learningObjective": "Different pain mechanisms after amputation require assessment and an appropriate plan.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-168",
+    "cat": "adaptation",
+    "title": "Separate residual-limb deterioration from phantom pain",
+    "stem": "A client with a history of phantom sensations reports new severe pain in the residual limb. The skin is now pale and cool compared with the previous assessment. What is the priority response?",
+    "type": "single",
+    "options": [
+      "Use the established phantom-pain imagery exercise and reassess afterward",
+      "Offer distraction because the client has experienced similar sensations before",
+      "Apply a heating pad to restore warmth before contacting the team",
+      "Seek urgent assessment of the new tissue and perfusion findings"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "The new physical changes require assessment for a different cause.",
+      "The history of phantom sensations does not explain pale, cool tissue.",
+      "Direct heat can injure tissue and does not correct the underlying cause.",
+      "New pain with perfusion changes requires prompt assessment rather than reuse of the phantom-pain explanation."
+    ],
+    "takeaway": "A familiar pain history should not obscure new objective tissue changes.",
+    "refs": [
+      "ba-amputation"
+    ],
+    "exhibit": null,
+    "subtopic": "Residual-limb perfusion",
+    "learningObjective": "A familiar pain history should not obscure new objective tissue changes.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-169",
+    "cat": "adaptation",
+    "title": "Evaluate neurovascular status around splinting",
+    "stem": "A client with a forearm injury is about to receive a prescribed splint. Which information should be compared before and after application? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Distal sensation and active finger movement",
+      "The client's usual daily step count",
+      "Distal skin colour, warmth and perfusion findings",
+      "The number of previous appointments for the injury"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "why": [
+      "A before-and-after comparison can identify new sensory or motor compromise.",
+      "This does not establish the injured upper limb's immediate neurovascular status.",
+      "Changes in distal perfusion may reveal constriction or deterioration after immobilization.",
+      "Appointment frequency does not measure current limb function or circulation."
+    ],
+    "takeaway": "Document a baseline so changes after immobilization can be recognized.",
+    "refs": [
+      "ba-neurovascular"
+    ],
+    "exhibit": null,
+    "subtopic": "Splint neurovascular comparison",
+    "learningObjective": "Document a baseline so changes after immobilization can be recognized.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-170",
+    "cat": "adaptation",
+    "title": "Evaluate a functional rehabilitation goal",
+    "stem": "After ankle-fracture treatment, a client may bear weight as tolerated using a prescribed walker. The goal is a safe bathroom transfer. Which findings best show progress toward that goal? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "The client performs the transfer with the agreed assistance and no loss of balance",
+      "The client repeats the names of the walker parts correctly",
+      "Pain remains within the agreed range during and after the transfer",
+      "The exercise sheet is signed even though the transfer has not been attempted"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "why": [
+      "Observed safe performance directly measures the functional goal.",
+      "Knowledge of equipment terms does not demonstrate safe use.",
+      "Tolerable symptoms during and after the task support the ability to continue the plan.",
+      "Documentation of exercises does not establish transfer ability."
+    ],
+    "takeaway": "Evaluate rehabilitation using observed function and the physiological response to the task.",
+    "refs": [
+      "ba-fractures"
+    ],
+    "exhibit": null,
+    "subtopic": "Fracture rehabilitation outcomes",
+    "learningObjective": "Evaluate rehabilitation using observed function and the physiological response to the task.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-171",
+    "cat": "adaptation",
+    "title": "Recognize heat illness with cognitive change",
+    "stem": "At an outdoor event, an adult who has been working in intense heat becomes confused and unsteady. The skin is hot, and the client cannot reliably follow swallowing instructions. Which action is best?",
+    "type": "single",
+    "options": [
+      "Offer repeated large drinks and review alertness after hydration",
+      "Move to a cool area, summon emergency help and begin rapid cooling",
+      "Give a fever-reducing medicine and wait for its effect",
+      "Ask the client to walk slowly to a distant air-conditioned building"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Oral fluid is unsafe when swallowing cannot be managed reliably, and confusion suggests severe illness.",
+      "Neurological change during heat exposure is an emergency; start cooling and support assessment while help arrives.",
+      "Antipyretics do not correct the mechanism of heat stroke and would delay needed care.",
+      "Exertion and a long walk can worsen the condition and delay cooling."
+    ],
+    "takeaway": "Heat exposure with altered cognition requires immediate cooling and emergency assessment.",
+    "refs": [
+      "ba-heat"
+    ],
+    "exhibit": null,
+    "subtopic": "Severe heat illness",
+    "learningObjective": "Heat exposure with altered cognition requires immediate cooling and emergency assessment.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-172",
+    "cat": "adaptation",
+    "title": "Interpret cessation of shivering",
+    "stem": "A cold-exposed adult remains wet and cold. Earlier the person shivered vigorously; now shivering has stopped and speech is slurred. Which interpretation is safest?",
+    "type": "single",
+    "options": [
+      "Stopping shivering means enough heat has been generated",
+      "The main remaining problem is local frostbite in the hands",
+      "Reduced shivering with cognitive change may indicate worsening hypothermia",
+      "The person is ready to walk briskly to complete rewarming"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Cessation without actual rewarming can indicate deterioration.",
+      "Systemic cognitive change requires attention beyond local skin injury.",
+      "Reduced heat-generating response and neurological impairment are concerning; arrange emergency care and handle gently while preventing further heat loss.",
+      "Exertion is not the safe response to significant hypothermia and impaired coordination."
+    ],
+    "takeaway": "Interpret shivering in relation to temperature recovery and neurological status.",
+    "refs": [
+      "ba-cold"
+    ],
+    "exhibit": null,
+    "subtopic": "Hypothermia deterioration",
+    "learningObjective": "Interpret shivering in relation to temperature recovery and neurological status.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-173",
+    "cat": "adaptation",
+    "title": "Protect frostbitten fingers",
+    "stem": "A client with frostbitten fingers has reached a heated clinic where refreezing can be prevented. The treatment team is arranging controlled rewarming. Which actions should the nurse avoid? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Rubbing the numb fingers briskly to restore circulation",
+      "Removing rings carefully before swelling increases",
+      "Applying direct dry heat from a heating pad to numb skin",
+      "Protecting the affected hand from additional trauma"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "why": [
+      "Rubbing can further damage injured tissue.",
+      "Removing constricting jewellery, when possible without trauma, is appropriate.",
+      "Numb tissue can be burned by poorly controlled direct heat.",
+      "Protection from trauma is part of appropriate care."
+    ],
+    "takeaway": "Prevent mechanical and thermal injury while following a controlled rewarming plan.",
+    "refs": [
+      "ba-cold"
+    ],
+    "exhibit": null,
+    "subtopic": "Frostbite tissue protection",
+    "learningObjective": "Prevent mechanical and thermal injury while following a controlled rewarming plan.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-174",
+    "cat": "adaptation",
+    "title": "Assess symptoms after a water rescue",
+    "stem": "A child has been rescued after brief submersion and is now awake. Persistent coughing, rapid breathing and increasing tiredness are present. Which response is best?",
+    "type": "single",
+    "options": [
+      "Arrange urgent medical assessment and monitor breathing closely",
+      "Give a large meal to restore energy and observe at home",
+      "Use wakefulness as the main criterion for returning to normal activities",
+      "Ask the child to lie face down to drain water from the lungs"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Ongoing respiratory symptoms after submersion require urgent evaluation even when the child is awake.",
+      "Feeding is not the priority during a respiratory concern and may increase aspiration risk.",
+      "Alertness alone does not establish respiratory recovery.",
+      "Attempts to drain the lungs delay effective airway and breathing care."
+    ],
+    "takeaway": "Persistent respiratory symptoms after submersion require assessment, not reassurance based on consciousness alone.",
+    "refs": [
+      "ba-drowning"
+    ],
+    "exhibit": null,
+    "subtopic": "Submersion respiratory deterioration",
+    "learningObjective": "Persistent respiratory symptoms after submersion require assessment, not reassurance based on consciousness alone.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-175",
+    "cat": "adaptation",
+    "title": "Evaluate initial cooling after heat exposure",
+    "stem": "A confused client is receiving emergency care and active cooling after heat exposure. The skin feels cooler, but the client remains disoriented and pulse is 128/min. Which conclusion is most appropriate?",
+    "type": "single",
+    "options": [
+      "Skin cooling shows that the dangerous phase has ended",
+      "Persistent confusion should be attributed to anxiety about the event",
+      "The client can be discharged if they report less discomfort",
+      "Clinical recovery remains incomplete and requires continued monitored treatment"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Surface temperature alone does not establish core cooling or organ recovery.",
+      "Ongoing neurological impairment needs physiological reassessment.",
+      "Subjective comfort is insufficient for discharge with persistent abnormal cognition and tachycardia.",
+      "Continue the authorized cooling and monitoring plan, using the team's clinical and temperature targets."
+    ],
+    "takeaway": "Evaluate heat-illness treatment using neurological and physiological recovery, not skin feel alone.",
+    "refs": [
+      "ba-heat"
+    ],
+    "exhibit": null,
+    "subtopic": "Heat illness response evaluation",
+    "learningObjective": "Evaluate heat-illness treatment using neurological and physiological recovery, not skin feel alone.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  }
+]

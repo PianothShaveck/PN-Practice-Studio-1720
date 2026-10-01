@@ -1,0 +1,344 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:55:15.409078+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/b-pharmacology-06-final.json",
+  "sourceSha256": "7b1427d3c0ab7a5158d1b37adca192591837a05984a44895c56e5c69ee32d250",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-pharmacology-126",
+      "x-pharmacology-127",
+      "x-pharmacology-128",
+      "x-pharmacology-129",
+      "x-pharmacology-130",
+      "x-pharmacology-131",
+      "x-pharmacology-132",
+      "x-pharmacology-133",
+      "x-pharmacology-134",
+      "x-pharmacology-135",
+      "x-pharmacology-136",
+      "x-pharmacology-137",
+      "x-pharmacology-138",
+      "x-pharmacology-139",
+      "x-pharmacology-140",
+      "x-pharmacology-141",
+      "x-pharmacology-142",
+      "x-pharmacology-143",
+      "x-pharmacology-144",
+      "x-pharmacology-145",
+      "x-pharmacology-146",
+      "x-pharmacology-147",
+      "x-pharmacology-148",
+      "x-pharmacology-149",
+      "x-pharmacology-150"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-pharmacology-126",
+      "status": "revise",
+      "assessment": "Correct prevention concepts, but wet-brushing and swallowing rinse to improve lung absorption are implausible distractors; task is factual teaching.",
+      "issues": [
+        "Correct prevention concepts, but wet-brushing and swallowing rinse to improve lung absorption are implausible distractors; task is factual teaching."
+      ],
+      "proposedChanges": [
+        "Use rinsing before the dose, reducing prescribed dosing frequency, or applying a spacer to an incompatible device as identifiable misconceptions. Classify foundation unless a meaningful technique scenario is added."
+      ],
+      "reviewedItemSha256": "526429ae6840301ed1ef8372211c00ed0e9a4e2d8c8f6da3ef31fd43540bc9f0"
+    },
+    {
+      "id": "x-pharmacology-127",
+      "status": "revise",
+      "assessment": "LABA monotherapy concern is correct, but device colour and only lack of wheeze are weak or cued alternatives.",
+      "issues": [
+        "LABA monotherapy concern is correct, but device colour and only lack of wheeze are weak or cued alternatives."
+      ],
+      "proposedChanges": [
+        "Compare checking dispensing history, checking reliever use, arranging spirometry, and clarifying the anti-inflammatory regimen as plain competing actions."
+      ],
+      "reviewedItemSha256": "fbbf9c4b4a526dfaa93e261af2d4f46cb7a1a742f97a910ce72e2a60dc470a09"
+    },
+    {
+      "id": "x-pharmacology-128",
+      "status": "pass",
+      "assessment": "The observed mask leak identifies a correctable source of eye exposure; closed eyes and local symptom treatment are recognizable competing technique responses.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7a8677d1109361a4a4259be721913b105c191c337864afcb2a8bc0d237ea151c"
+    },
+    {
+      "id": "x-pharmacology-129",
+      "status": "revise",
+      "assessment": "The toxicity cluster is useful, but inhaler-technique main response is unrelated and next-clinic delay advertises rejection.",
+      "issues": [
+        "The toxicity cluster is useful, but inhaler-technique main response is unrelated and next-clinic delay advertises rejection."
+      ],
+      "proposedChanges": [
+        "Use a focused palpitation assessment, reviewing new interacting medicine, food-with-dose advice, and symptom treatment as plain competing actions; avoid having the correct option subsume all others unnecessarily."
+      ],
+      "reviewedItemSha256": "1fb7dcc8a49e1cf8520854788cbbc349e255b4e1e8cfa3d6350edbfba06effbe"
+    },
+    {
+      "id": "x-pharmacology-130",
+      "status": "revise",
+      "assessment": "Loss of asthma control is sound; alone/regardless/as-complete-response modifiers carry the discrimination.",
+      "issues": [
+        "Loss of asthma control is sound; alone/regardless/as-complete-response modifiers carry the discrimination."
+      ],
+      "proposedChanges": [
+        "Remove those qualifiers and give plain actions: refill supply, return to prior dose schedule, assess current breath sounds, or review recent control/action plan. Explain limitations in rationale."
+      ],
+      "reviewedItemSha256": "de713b1e0d0d204d7be41de1941ca8f6c0e7205e9c98e8a8cb5252636ba08ccf"
+    },
+    {
+      "id": "x-pharmacology-131",
+      "status": "revise",
+      "assessment": "Device-specific technique is defensible but this is straightforward instruction recall.",
+      "issues": [
+        "Device-specific technique is defensible but this is straightforward instruction recall."
+      ],
+      "proposedChanges": [
+        "Classify foundation or add an observed technique failure that requires interpreting its effect. Consider replacing generic apply-MDI-instructions with a concrete slow inhalation technique."
+      ],
+      "reviewedItemSha256": "a4a05997bea6e8e0fa4fc0569615a7d0576e273865277f4e9f24080b995def61"
+    },
+    {
+      "id": "x-pharmacology-132",
+      "status": "revise",
+      "assessment": "Montelukast behavioural warning is important, but self-harm statements need immediate safety assessment, not merely an unspecified prompt call. Stable/improved distractors make the new findings obvious.",
+      "issues": [
+        "Montelukast behavioural warning is important, but self-harm statements need immediate safety assessment, not merely an unspecified prompt call. Stable/improved distractors make the new findings obvious."
+      ],
+      "proposedChanges": [
+        "Clarify immediate assessment/communication for self-harm concern in explanation, and use credible new findings for distractors rather than unchanged baselines; maintain distinct sleep and behavioural symptoms."
+      ],
+      "reviewedItemSha256": "37359d2470fbe9d549fa3c804abaa6a851c51e580dad06583dfb5afcae532737"
+    },
+    {
+      "id": "x-pharmacology-133",
+      "status": "revise",
+      "assessment": "Hypertension interaction is correct; absence of nosebleed and maximum dose for faster relief are weak distractors.",
+      "issues": [
+        "Hypertension interaction is correct; absence of nosebleed and maximum dose for faster relief are weak distractors."
+      ],
+      "proposedChanges": [
+        "Compare a lower-dose trial, longer-acting formulation, topical/saline alternatives discussion, or pharmacy review using enough detail for one best response."
+      ],
+      "reviewedItemSha256": "8d82dc91d66c3851ebf809addd037ec84febd0873f2c8d2569f3de92ebbd95cf"
+    },
+    {
+      "id": "x-pharmacology-134",
+      "status": "revise",
+      "assessment": "The side-effect pattern is correct, but both keys are the only new abnormal findings in an all-baseline/improvement distractor set.",
+      "issues": [
+        "The side-effect pattern is correct, but both keys are the only new abnormal findings in an all-baseline/improvement distractor set."
+      ],
+      "proposedChanges": [
+        "Use plausible new symptoms that do not fit sedative/anticholinergic effects, or present several concrete medication-change observations with distinct mechanisms."
+      ],
+      "reviewedItemSha256": "ae4335a27a4841c63818e402f10a597996120b5eda0bf778021a88c7094009a3"
+    },
+    {
+      "id": "x-pharmacology-135",
+      "status": "revise",
+      "assessment": "Ambiguous key: worsening diarrhea and unchanged cognition also help evaluate the plan, as the current stem asks.",
+      "issues": [
+        "Ambiguous key: worsening diarrhea and unchanged cognition also help evaluate the plan, as the current stem asks."
+      ],
+      "proposedChanges": [
+        "Ask which findings indicate a favourable response with acceptable tolerance, preserving keys0/1. Remove sole from the appetite distractor and align all explanations to the revised question."
+      ],
+      "reviewedItemSha256": "099084d2a1fc9bf6cf96ca39d85bee18e033fca43e5eeecf56b99e57b993e24c"
+    },
+    {
+      "id": "x-pharmacology-136",
+      "status": "revise",
+      "assessment": "The safe formulation decision is sound, but two near-identical dry-granule choices add little discrimination.",
+      "issues": [
+        "The safe formulation decision is sound, but two near-identical dry-granule choices add little discrimination."
+      ],
+      "proposedChanges": [
+        "Replace one with a plausible request for a thickened preparation, keeping the product-required fluid volume explicit. The explanation should distinguish formulation assessment from independently concentrating the product."
+      ],
+      "reviewedItemSha256": "4f934b5600507bcd38e4ba2a5175f3d661e6328c103e50a38a6993cd1c05b3be"
+    },
+    {
+      "id": "x-pharmacology-137",
+      "status": "pass",
+      "assessment": "The meal/snack, coating and symptom-monitoring instructions are medication-specific and credible. Distinguish the broader adaptation enzyme item by changing its objective rather than duplicating this task.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fa1dce739f8242d42d9592b258ba08131bbd4053995e08f94e3eabdfe325034e"
+    },
+    {
+      "id": "x-pharmacology-138",
+      "status": "revise",
+      "assessment": "Key is markedly longer and all competitors are obviously inaccurate dose methods; whole daily supply in a jug is weak.",
+      "issues": [
+        "Key is markedly longer and all competitors are obviously inaccurate dose methods; whole daily supply in a jug is weak."
+      ],
+      "proposedChanges": [
+        "Use comparable technique choices such as accurate syringe delivery to inner cheek, accurately measured dose mixed in a small drink, straw administration where appropriate, or rinsing before dosing. Verify formulation/age suitability and leave only one best supported method."
+      ],
+      "reviewedItemSha256": "d5efbc2d2f2ff3eb4b2a56267fcca0134d930611f3ebf9a606f97b795175ef5e"
+    },
+    {
+      "id": "x-pharmacology-139",
+      "status": "revise",
+      "assessment": "Ongoing intrinsic-factor deficiency is a useful explanation; sole symptom-based stopping and waiting for recurrence are conspicuous.",
+      "issues": [
+        "Ongoing intrinsic-factor deficiency is a useful explanation; sole symptom-based stopping and waiting for recurrence are conspicuous."
+      ],
+      "proposedChanges": [
+        "Use parallel explanations about replacement duration, oral-versus-injected route, restored stores versus persistent absorption impairment, and dietary improvement; keep routes individualized."
+      ],
+      "reviewedItemSha256": "64fbedbc1e29ddf784d438ccc3f30a5c1f836e3f3ab5a9f1086a4b888dc05e42"
+    },
+    {
+      "id": "x-pharmacology-140",
+      "status": "revise",
+      "assessment": "Only/sole/investigations-can-stop clauses make every distractor easy to reject.",
+      "issues": [
+        "Only/sole/investigations-can-stop clauses make every distractor easy to reject."
+      ],
+      "proposedChanges": [
+        "Ask which cluster best supports B12 evaluation, comparing neurological signs with plausible folate/iron-related clinical features; retain the masking concern in explanation."
+      ],
+      "reviewedItemSha256": "d53878a4d98d8893b1710445f8a47c5c39e2ad0149eac62f42fb7a2e7dbccdcc"
+    },
+    {
+      "id": "x-pharmacology-141",
+      "status": "revise",
+      "assessment": "Hypertension safety is correct, but monthly delay, automatic approval and injection-site solution are weak.",
+      "issues": [
+        "Hypertension safety is correct, but monthly delay, automatic approval and injection-site solution are weak."
+      ],
+      "proposedChanges": [
+        "Supply actual blood-pressure readings/parameters and compare specific plan-consistent decisions, or ask which change is most relevant to dose clarification."
+      ],
+      "reviewedItemSha256": "9ef908294d849be2c3a6b6a907c72c91a2fa7eec8d9f70aa73583f01626ee0c3"
+    },
+    {
+      "id": "x-pharmacology-142",
+      "status": "revise",
+      "assessment": "Meal timing concept is useful; thirst timing is unrelated filler.",
+      "issues": [
+        "Meal timing concept is useful; thirst timing is unrelated filler."
+      ],
+      "proposedChanges": [
+        "Replace thirst with a plausible timing error such as taking the binder a fixed interval after meals or before breakfast alone; consider foundation difficulty."
+      ],
+      "reviewedItemSha256": "736c7143fc8869efa7179e9f7d7c8bbde63ecfa4475f3010b21aae0b51f21a40"
+    },
+    {
+      "id": "x-pharmacology-143",
+      "status": "revise",
+      "assessment": "Symptomatic hypercalcaemia warrants review, but extra calcium, only phosphate, and food timing create an all-weak distractor set.",
+      "issues": [
+        "Symptomatic hypercalcaemia warrants review, but extra calcium, only phosphate, and food timing create an all-weak distractor set."
+      ],
+      "proposedChanges": [
+        "Use parallel possible adverse-effect interpretations or relevant assessment findings; if asking an action, make each alternative a credible clinical response."
+      ],
+      "reviewedItemSha256": "4d2a5588a184f705b64ee8e4aa064072333e485889d3183736a2f5260701607f"
+    },
+    {
+      "id": "x-pharmacology-144",
+      "status": "revise",
+      "assessment": "All false choices are marked complete/only and the key is the sole comprehensive assessment set.",
+      "issues": [
+        "All false choices are marked complete/only and the key is the sole comprehensive assessment set."
+      ],
+      "proposedChanges": [
+        "Use comparable assessment clusters with plausible disease/treatment links, e.g bicarbonate/fluid measures versus potassium/ECG, nutritional markers, or renal-clearance measures; explain why the chosen cluster addresses both efficacy and sodium burden."
+      ],
+      "reviewedItemSha256": "307fefb756400bcc5b540b1af99895a19534f810df1ce2054e498da04c5a08e2"
+    },
+    {
+      "id": "x-pharmacology-145",
+      "status": "revise",
+      "assessment": "Renal magnesium accumulation is useful; only/sole and OTC-equals-safe wording telegraph the answer.",
+      "issues": [
+        "Renal magnesium accumulation is useful; only/sole and OTC-equals-safe wording telegraph the answer."
+      ],
+      "proposedChanges": [
+        "Give plain actions such as changing timing, reviewing frequency, trying another formulation, or assessing renal safety; or compare magnesium with relevant antacid ingredients."
+      ],
+      "reviewedItemSha256": "dad17e13acc828de811b20d57cb7e9304b50a037d7d709099e8373030667451e"
+    },
+    {
+      "id": "x-pharmacology-146",
+      "status": "revise",
+      "assessment": "Technique and rationale are defensible but the task is direct instruction recall.",
+      "issues": [
+        "Technique and rationale are defensible but the task is direct instruction recall."
+      ],
+      "proposedChanges": [
+        "Classify foundation, or add an observed administration sequence requiring correction."
+      ],
+      "reviewedItemSha256": "7b9ecd463321638628873f7406972162805b2089c7baa7e8f53a3b592f8c4b60"
+    },
+    {
+      "id": "x-pharmacology-147",
+      "status": "revise",
+      "assessment": "Spacing and sequence are defensible but this is direct instruction recall.",
+      "issues": [
+        "Spacing and sequence are defensible but this is direct instruction recall."
+      ],
+      "proposedChanges": [
+        "Classify foundation. If retaining application, provide a return-demonstration sequence and ask which step risks washout."
+      ],
+      "reviewedItemSha256": "b80d12372b01a4c4c667af038bf5e4f8d772e497335d9df08bb5c17ad686531f"
+    },
+    {
+      "id": "x-pharmacology-148",
+      "status": "revise",
+      "assessment": "Product measure and gloves are correct, but yesterday application paper is implausible filler.",
+      "issues": [
+        "Product measure and gloves are correct, but yesterday application paper is implausible filler."
+      ],
+      "proposedChanges": [
+        "Replace reuse with a realistic measurement misconception such as a fixed treated skin area, and classify foundation unless a dose/product scenario is added."
+      ],
+      "reviewedItemSha256": "f88928c34f2dfa347598fa2095b52fd6e7adc3b2f49e1f4ee22af81b2b70c2ab"
+    },
+    {
+      "id": "x-pharmacology-149",
+      "status": "revise",
+      "assessment": "Compatibility and replacement planning are correct; discard the medication schedule is cartoon wording.",
+      "issues": [
+        "Compatibility and replacement planning are correct; discard the medication schedule is cartoon wording."
+      ],
+      "proposedChanges": [
+        "Replace with removing the patch and applying the next one at its usual scheduled time; explain why product-specific replacement timing must be checked."
+      ],
+      "reviewedItemSha256": "8df4470e9a35995930c03d84f4ad19f785c85472de03b54627794a6a2eea708d"
+    },
+    {
+      "id": "x-pharmacology-150",
+      "status": "revise",
+      "assessment": "Partly discharging a single-use device is physically questionable, and brand/box-appearance distractors are implausible.",
+      "issues": [
+        "Partly discharging a single-use device is physically questionable, and brand/box-appearance distractors are implausible."
+      ],
+      "proposedChanges": [
+        "Use concrete plausible demonstration errors: thumb over the wrong end, wrong injection site or inadequate device-specific hold sequence. Specify the device instructions when timing matters; retain trainer use and post-use emergency help."
+      ],
+      "reviewedItemSha256": "33b2b0a45376fef25bae4bde462206ca95e3b584a6ec22eec94ffc1311ed4e2a"
+    }
+  ],
+  "activeSourceFile": "authoring/b/pharmacology-06.json",
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

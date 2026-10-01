@@ -1,0 +1,166 @@
+[
+  {
+    "id": "x-health-168",
+    "cat": "health",
+    "title": "Preventing prolonged sugar exposure",
+    "stem": "A school-age child sips a sweet drink throughout the afternoon. Which change best targets dental risk?",
+    "type": "single",
+    "options": [
+      "Substitute unsweetened fruit juice for the drink",
+      "Add a straw while maintaining continuous sipping",
+      "Offer water for drinking between meals",
+      "Brush the child's teeth after the afternoon drink period"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Unsweetened juice still contains naturally occurring sugars, so frequent sipping can sustain dental exposure.",
+      "A straw does not eliminate repeated sugar contact.",
+      "Water reduces repeated exposure that promotes decay.",
+      "Brushing remains important, but reducing repeated sugary exposure directly addresses the pattern described."
+    ],
+    "takeaway": "Reduce the frequency and duration of sugary drink exposure.",
+    "refs": [
+      "d-oral"
+    ],
+    "exhibit": null,
+    "subtopic": "Oral-health prevention",
+    "learningObjective": "Reduce the frequency and duration of sugary drink exposure.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-176",
+    "cat": "health",
+    "title": "Persistent childhood snoring",
+    "stem": "A parent reports nightly loud snoring, restless sleep and new daytime behaviour difficulties in a child. Which recommendation is most appropriate?",
+    "type": "single",
+    "options": [
+      "Arrange a clinical assessment of sleep and breathing",
+      "Keep a sleep diary for a planned follow-up",
+      "Introduce an earlier bedtime and review behaviour next month",
+      "Change bedding to reduce possible environmental allergens"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "The combined nocturnal and daytime pattern warrants assessment for sleep-disordered breathing and other causes.",
+      "A diary can support assessment, but starting with record keeping does not itself evaluate the combined breathing and daytime symptoms.",
+      "Sleep routines matter, but do not assess a possible breathing-related disturbance.",
+      "Allergen review may be relevant, but should not replace assessment of the full symptom pattern."
+    ],
+    "takeaway": "Assess persistent snoring with disrupted sleep or daytime effects.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Childhood sleep health",
+    "learningObjective": "Assess persistent snoring with disrupted sleep or daytime effects.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-182",
+    "cat": "health",
+    "title": "New pain with sexual activity",
+    "stem": "Eight weeks after birth, a client reports repeated pain during intercourse and worries that a repaired tear has not healed. They have no fever or heavy bleeding. What should the nurse do first?",
+    "type": "single",
+    "options": [
+      "Suggest a lubricant for the next attempt at intercourse",
+      "Offer a private assessment of symptoms and healing",
+      "Discuss positions that reduce pressure on the perineum",
+      "Refer directly for a pelvic-floor exercise program"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Lubricant may help some causes, but the reported healing concern needs assessment before assuming dryness.",
+      "A private review can distinguish healing, tissue, muscle and other contributors and guide appropriate support.",
+      "Position changes may improve comfort, but do not clarify the cause of repeated pain or the client's concern about healing.",
+      "Pelvic-floor support may be useful after assessing the nature of the discomfort."
+    ],
+    "takeaway": "Invite assessment of postpartum sexual discomfort without assumptions.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Postpartum sexual health",
+    "learningObjective": "Invite assessment of postpartum sexual discomfort without assumptions.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-190",
+    "cat": "health",
+    "title": "Assessing health-program reach",
+    "stem": "A free clinic attracts mostly people who already use preventive services. Which changes may improve reach to underserved clients? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Ask nonattenders about access barriers",
+      "Partner with trusted local organizations",
+      "Use current attendees' preferences to represent nonattenders' needs",
+      "Adapt location or hours based on community feedback"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "why": [
+      "Nonattender perspectives reveal barriers current users may not face.",
+      "Trusted partnerships can improve relevance and access.",
+      "Current attendees may not face the barriers that prevent others from using the clinic; their responses alone do not represent the unreached group.",
+      "Practical adaptation can address barriers identified by intended users."
+    ],
+    "takeaway": "Evaluate who is missing from a program as well as who attends.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Population health promotion",
+    "learningObjective": "Evaluate who is missing from a program as well as who attends.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-200",
+    "cat": "health",
+    "title": "Evaluating a prevention plan over time",
+    "stem": "A client met a regular-meal goal that included dinner at 18:00. They are moving to evening shifts with uninterrupted duties from 17:00 to 20:00 and a meal break at 20:00. A refrigerator is available. Which adaptations are useful? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Review meal times and foods that fit the new break",
+      "Prepare meals that can be stored safely at work",
+      "Keep the previous meal times for the first month",
+      "Arrange a follow-up to review the new routine"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "why": [
+      "Planning around actual break availability makes the goal feasible in the changed schedule.",
+      "Available storage can support a practical meal strategy matched to the workplace.",
+      "The previous 18:00 meal conflicts with the stated period of uninterrupted duties, so retaining that timing does not adapt the plan to the new conditions.",
+      "Early review allows the client and nurse to evaluate and refine the adaptation."
+    ],
+    "takeaway": "Reassess and adapt health-promotion plans when circumstances change.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Longitudinal health promotion",
+    "learningObjective": "Reassess and adapt health-promotion plans when circumstances change.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  }
+]

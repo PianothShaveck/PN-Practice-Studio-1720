@@ -1,0 +1,34 @@
+[
+  {
+    "id": "x-pharmacology-188",
+    "cat": "pharmacology",
+    "title": "Interpret an early neutrophil rise during filgrastim",
+    "stem": "On day 4 of a chemotherapy cycle, a client asks whether filgrastim can be stopped because the neutrophil count has risen from 2.4 to 5.2 × 10⁹/L (reference 1.5–7.5). For this cycle, the prescription is filgrastim 300 micrograms subcutaneously daily on days 2–8. The oncology team expects the lowest count around day 7 and has scheduled a blood count and treatment review on day 6. The client feels well. Which advice is best?",
+    "type": "single",
+    "options": [
+      "Continue the prescribed daily doses and scheduled blood tests; an early rise may be temporary.",
+      "Stop the remaining doses and keep the blood tests; a normal count indicates marrow recovery.",
+      "Give the remaining doses every other day; the rising count suggests the daily schedule is excessive.",
+      "Pause doses until the expected nadir; restart daily injections if the count then becomes low."
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Filgrastim can produce an early transient neutrophil rise. This count precedes the expected nadir and does not establish recovery afterward; continue the current plan pending scheduled review.",
+      "A normal early count is not evidence that the later chemotherapy-related decline has passed. Stopping now could withdraw the prescribed support prematurely.",
+      "The count is within the supplied reference range and does not establish excessive dosing. Frequency changes require the oncology team to interpret the full treatment course.",
+      "This is prescribed preventive support, not a plan to wait for neutropenia. Delaying doses changes the regimen and could leave the anticipated decline unsupported."
+    ],
+    "takeaway": "Evaluate filgrastim response in relation to the anticipated nadir and the individualized oncology plan, not one early normal neutrophil count.",
+    "refs": [
+      "b-filgrastim-course"
+    ],
+    "exhibit": null,
+    "subtopic": "Granulocyte growth-factor monitoring",
+    "learningObjective": "Interpret an early normal neutrophil count during prescribed filgrastim without mistaking it for recovery after the chemotherapy nadir.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  }
+]

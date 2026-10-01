@@ -1,0 +1,254 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewerTask": "/root/author_management_safety",
+  "reviewedAt": "2026-10-01T18:22:39.614137+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-a-psych-101-125-revised-snapshot.json",
+  "coverage": {
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-psychosocial-101",
+      "x-psychosocial-102",
+      "x-psychosocial-103",
+      "x-psychosocial-104",
+      "x-psychosocial-105",
+      "x-psychosocial-106",
+      "x-psychosocial-107",
+      "x-psychosocial-108",
+      "x-psychosocial-109",
+      "x-psychosocial-110",
+      "x-psychosocial-111",
+      "x-psychosocial-112",
+      "x-psychosocial-113",
+      "x-psychosocial-114",
+      "x-psychosocial-115",
+      "x-psychosocial-116",
+      "x-psychosocial-117",
+      "x-psychosocial-118",
+      "x-psychosocial-119",
+      "x-psychosocial-120",
+      "x-psychosocial-121",
+      "x-psychosocial-122",
+      "x-psychosocial-123",
+      "x-psychosocial-124",
+      "x-psychosocial-125"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Full reread of saved revised items including every option, key, rationale and metadata; reasoned through the case discriminator and the previously reported issue. Previously passed included items were also reread; no automated editorial acceptance.",
+  "limitations": [
+    "Not external clinician or psychometric validation",
+    "Source verification is targeted; prior reports document checks and newly supplied author references are not presumed independently verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.canada.ca/en/health-canada/services/substance-use/controlled-illegal-drugs/benzodiazepines.html",
+      "checked": "Targeted primary Health Canada search confirms alcohol plus benzodiazepines increases overdose risk; used for121 combined-depressant principle, not a dosage recommendation."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-psychosocial-101",
+      "status": "pass",
+      "assessment": "Observed success with immediate single-step cues supports guided practice; full demonstration, written sequence and caregiver completion have plausible but less direct purposes.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f06b1ebb3306000ae9b1557134ec2f13c0a24b21ca5c48d52de9c4dddc60059e"
+    },
+    {
+      "id": "x-psychosocial-102",
+      "status": "pass",
+      "assessment": "The requested opening exploration distinguishes acknowledgment and inquiry from reassurance, distraction and persuasion; all responses are plausible and parallel.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "26fb96c3ddb31709d676e515c76d014f94a3e8a5bb9ba482c4e07e66f833b5ac"
+    },
+    {
+      "id": "x-psychosocial-103",
+      "status": "pass",
+      "assessment": "New sustained suspiciousness with missed classes and distressing voices differ meaningfully from transient stress responses and stable preferences with preserved function.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "cc5a5059f65642d0bb98e83deeb15aebad7ad96ee3acd8342637dd9a1e691d9d"
+    },
+    {
+      "id": "x-psychosocial-104",
+      "status": "pass",
+      "assessment": "Accepted cultural meaning is already established, so the unresolved distress/function question appropriately precedes further contextual or service information.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "264a3400ace766fdd00053ae1e2407e655593074f4f2a73152655f89b870fa80"
+    },
+    {
+      "id": "x-psychosocial-105",
+      "status": "pass",
+      "assessment": "The specific new threat and available means outrank nonspecific changes or baseline experiences; the case avoids relying on diagnosis alone for violence prediction.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5f64fe5216809a92187821785b1e8516e931a2ba71c799a644ba69536e3d5516"
+    },
+    {
+      "id": "x-psychosocial-106",
+      "status": "pass",
+      "assessment": "The client asks about their own overheard handoff, making private relevant explanation more directly responsive than general reassurance or postponement.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8440db5b021abe8eae7f4471656ce465c6f4d520e4869adca1ff45e70208f403"
+    },
+    {
+      "id": "x-psychosocial-107",
+      "status": "pass",
+      "assessment": "New minimal responsiveness, poor intake and tachycardia support urgent clinical assessment rather than routine observation or motivation-focused care.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0160a667182becf7a493e33c8e41ca5ce4bda977ac2cba7af15c5654be815f1e"
+    },
+    {
+      "id": "x-psychosocial-108",
+      "status": "pass",
+      "assessment": "The stated participation/self-management goal makes completed library activity, coping use and chosen hours appropriate outcomes; symptom score and information receipt do not directly establish those targets.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "943eac724aec4a9123787c557e00fd8b1f60830083ae32bfa2da941f52e29847"
+    },
+    {
+      "id": "x-psychosocial-109",
+      "status": "pass",
+      "assessment": "The frightened relative needs acknowledgment plus inquiry about harmful commands; reassurance, source checking and distraction do not first establish current safety.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3b48737406a6164a07fa9389b2896123372c995034c83a17810c4e72ad29a370"
+    },
+    {
+      "id": "x-psychosocial-110",
+      "status": "pass",
+      "assessment": "Observed distraction around heat supports directly supervised graded cooking with fewer distractions; the alternatives either assume premature independence or do not build the chosen skill.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1366cf0c5fb2506308b05f9a2742d5f454590770b101d39e02e1ec4a0b4e50c3"
+    },
+    {
+      "id": "x-psychosocial-111",
+      "status": "pass",
+      "assessment": "All replies address realistic disclosure boundaries; the explicit refusal prohibits diagnosis, medication class and treatment-goal disclosure. Foundation label is honest.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8a5d58da8e2830b15fe8078d4becec1cf5eb6efd7d24318a301877cb2d0c58cf"
+    },
+    {
+      "id": "x-psychosocial-112",
+      "status": "pass",
+      "assessment": "The established day-centre routine and consent create a usable contact point while shelters and phone access are unstable; continuing outreach avoids repeat-referral fragmentation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "927a7b0226f2f358351248d80a9a346f7082d847692b73fc145949af9c5bb44e"
+    },
+    {
+      "id": "x-psychosocial-113",
+      "status": "pass",
+      "assessment": "Memory prompts remain matched to independent phone use and a daily visual routine, distinct from additional education or changing who books appointments.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "af0e16d648f45e96366a29b5e7b35cab7367eec82a1f256981f57e3d06c41328"
+    },
+    {
+      "id": "x-psychosocial-114",
+      "status": "pass",
+      "assessment": "Previous withdrawal seizure requires prospective planning before surgical interruption; routine scoring and other useful care do not replace preparation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e04c4fdd672426777f7236b0da3f70e3a73aa6a815755522fc48b37e1508c209"
+    },
+    {
+      "id": "x-psychosocial-115",
+      "status": "pass",
+      "assessment": "The stated withdrawal-risk purpose selects recent quantity and timing from equally respectful broader assessment questions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8cee43dc9eca20cb38bc3ef3554947ffc4f6b7c1061ae3616e009be5d469c8e5"
+    },
+    {
+      "id": "x-psychosocial-116",
+      "status": "pass",
+      "assessment": "Unchanged injury/intoxication case still appropriately prioritizes airway and neurological injury assessment after an unwitnessed fall.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "72d2c6221643e79d155dc83fc50e3a9d24db671960333f575574d09cdf66d35e"
+    },
+    {
+      "id": "x-psychosocial-117",
+      "status": "revise",
+      "assessment": "The supplied notification threshold makes the correct action defensible, but moving outpatient follow-up is irrelevant to present monitored deterioration. The explicit rule makes this foundation rather than application.",
+      "issues": [
+        "The supplied notification threshold makes the correct action defensible, but moving outpatient follow-up is irrelevant to present monitored deterioration. The explicit rule makes this foundation rather than application."
+      ],
+      "proposedChanges": [
+        "Replace option2 with \"Increase observations to every 15 minutes\"; explain that closer monitoring is useful but does not replace notification once the stated threshold is met. Change difficulty to foundation."
+      ],
+      "reviewedItemSha256": "18fb3f26c3988dbf56bd007131cf83be2ff4e9aadea4c136ca709053b93a8e03"
+    },
+    {
+      "id": "x-psychosocial-118",
+      "status": "pass",
+      "assessment": "New neurological deterioration is contrasted with clinically relevant stable withdrawal symptoms; urgent escalation is correctly distinguished from routine monitoring.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9d9827ed922f7f88de9c28da918c4d67dd1ff3b0878147f5160f6cc3870aedae"
+    },
+    {
+      "id": "x-psychosocial-119",
+      "status": "pass",
+      "assessment": "The stated ongoing recovery purpose distinguishes continuing AUD treatment from physical monitoring and recurrence-based advice.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9bf7643277ff1612d699dcb6fda7d982c4079075232de6cc0ae4c7df34391f59"
+    },
+    {
+      "id": "x-psychosocial-120",
+      "status": "pass",
+      "assessment": "A neutral invitation about current use and circumstances supports reassessment after shame-related avoidance; other responses prematurely reassure or plan.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1132129a215df7087ffbdf051e6b1ebe1046f86f50bb79db94a95be7ab91250b"
+    },
+    {
+      "id": "x-psychosocial-121",
+      "status": "pass",
+      "assessment": "Named benzodiazepine exposure makes additive CNS depression concrete; timing, beverage strength and self-skipping are plausible misconceptions rather than advertised omissions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9ad2efa80570ec22a465ff2eb3ebbdf4a494fed634c050b45c03937deb4257c3"
+    },
+    {
+      "id": "x-psychosocial-122",
+      "status": "pass",
+      "assessment": "The reflection accurately includes both expressed values, whereas education, advice and a reduction plan move beyond the client’s current ambivalence.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b64a2c526fce99d48fa798eca5f6c7d7d9159b603c6e50f5b83c498f1554ab1d"
+    },
+    {
+      "id": "x-psychosocial-123",
+      "status": "pass",
+      "assessment": "A known trigger period, preferred activity and available trusted person establish why the evening walk fits better than trigger exposure, solitary distraction or delayed social activity.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a5a857c6fccd3a537509ac59383587f2cd847fa4cb2d739cba5907c9dd759d29"
+    },
+    {
+      "id": "x-psychosocial-124",
+      "status": "pass",
+      "assessment": "Candidate notes distinguish observed/reported facts from unsupported causal or motivational interpretations; no derogatory labels are needed and foundation is appropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "cf7a40b1c38b85d827108506b66fd0457453003d81ad3ada7710a4aa6ed12756"
+    },
+    {
+      "id": "x-psychosocial-125",
+      "status": "pass",
+      "assessment": "Persisting severe postoperative pain after authorized measures and normal respiratory observations support coordinated review, with ongoing OUD care preserved rather than automatically replaced.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2c50a967727d565f7d5bbb11c2cb17364d3cf2f14d4f1852e9dab8b6a6cff4c2"
+    }
+  ]
+}

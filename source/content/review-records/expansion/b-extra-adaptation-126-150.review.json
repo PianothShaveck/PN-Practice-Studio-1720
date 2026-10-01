@@ -1,0 +1,349 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:53:48.290621+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/b-extra-adaptation-126-150.json",
+  "sourceSha256": "25b9971c6e9355e9a814bcd79b76d2267cbcbea6c3c7082fc78455c0c48fd216",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-adaptation-126",
+      "x-adaptation-127",
+      "x-adaptation-128",
+      "x-adaptation-129",
+      "x-adaptation-130",
+      "x-adaptation-131",
+      "x-adaptation-132",
+      "x-adaptation-133",
+      "x-adaptation-134",
+      "x-adaptation-135",
+      "x-adaptation-136",
+      "x-adaptation-137",
+      "x-adaptation-138",
+      "x-adaptation-139",
+      "x-adaptation-140",
+      "x-adaptation-141",
+      "x-adaptation-142",
+      "x-adaptation-143",
+      "x-adaptation-144",
+      "x-adaptation-145",
+      "x-adaptation-146",
+      "x-adaptation-147",
+      "x-adaptation-148",
+      "x-adaptation-149",
+      "x-adaptation-150"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://professionaleducation.blood.ca/en/transfusion/clinical-guide/transfusion-reactions",
+      "claims": "TACO can include hypertension/venous congestion; delayed haemolytic reactions typically occur after24 hours, median1–2 weeks. Supports137/138 clinical premise, not current distractor quality."
+    },
+    {
+      "url": "https://cps.ca/en/documents/position/acute-complications-with-sickle-cell",
+      "claims": "Primary Canadian paediatric source opened for sickle-cell complication context; source-specific facts require matching section, not blanket authorization of every nursing action."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-adaptation-126",
+      "status": "revise",
+      "assessment": "The saturation-versus-oxygen-content concept is useful, but discarding the haemoglobin result is an implausible competitor.",
+      "issues": [
+        "The saturation-versus-oxygen-content concept is useful, but discarding the haemoglobin result is an implausible competitor."
+      ],
+      "proposedChanges": [
+        "Replace the discard-result option with a plausible inference, such as using an oxygen-response trial to decide whether anaemia explains the symptoms."
+      ],
+      "reviewedItemSha256": "05cf27620fe67260ebb975e17a6e6311581ed9f2008cba138127c2edfc02da7b"
+    },
+    {
+      "id": "x-adaptation-127",
+      "status": "revise",
+      "assessment": "Pacing is appropriate, but every distractor visibly undermines safe independence.",
+      "issues": [
+        "Pacing is appropriate, but every distractor visibly undermines safe independence."
+      ],
+      "proposedChanges": [
+        "Compare plausible activity plans: rest before a standing shower, partial assistance with a usual shower, shorter hygiene at the basin, or seated shower with breaks. Add context that makes one plan best; avoid making all reasonable alternatives correct."
+      ],
+      "reviewedItemSha256": "c704db3edae30c1dad5b85a1df88f0dc11608826f5d0149c0bb94d9e3e9debc2"
+    },
+    {
+      "id": "x-adaptation-128",
+      "status": "revise",
+      "assessment": "The acute chest-symptom priority is sound; iron-rich foods and oral iron after lunch are too remote from current instability.",
+      "issues": [
+        "The acute chest-symptom priority is sound; iron-rich foods and oral iron after lunch are too remote from current instability."
+      ],
+      "proposedChanges": [
+        "Ask which new finding changes urgency or compare relevant immediate assessments rather than nutrition tasks."
+      ],
+      "reviewedItemSha256": "d7b0ee0adee630984cd2ce87057a70f3a7c912e767958923c9e7298eb9c87baf"
+    },
+    {
+      "id": "x-adaptation-129",
+      "status": "revise",
+      "assessment": "Thrombocytopenia and increasing headache justify urgent review, but after-sleep and before-deciding clauses advertise delay.",
+      "issues": [
+        "Thrombocytopenia and increasing headache justify urgent review, but after-sleep and before-deciding clauses advertise delay."
+      ],
+      "proposedChanges": [
+        "Use plain competing actions such as analgesia, a focused previous-headache history, and local injury assessment; explain their insufficient priority in the rationale."
+      ],
+      "reviewedItemSha256": "a95244d9c6daabb8832026acf05f31688d5dcc10dda20ff5492778c70a72b31c"
+    },
+    {
+      "id": "x-adaptation-130",
+      "status": "pass",
+      "assessment": "Specific positioning and direct pressure are foundational first aid; common head-back, flat-position and clot-disruption errors make this a useful technique item.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b869134ad201bdaf6b5609c8e11f56497e834fc77b8c0e1bde1506eaba248fd2"
+    },
+    {
+      "id": "x-adaptation-131",
+      "status": "revise",
+      "assessment": "Prompt authorized analgesia is correct, but all three alternatives explicitly postpone it, leaving one humane and reasonable answer.",
+      "issues": [
+        "Prompt authorized analgesia is correct, but all three alternatives explicitly postpone it, leaving one humane and reasonable answer."
+      ],
+      "proposedChanges": [
+        "Compare credible pain-management plans, such as usual PRN sequence, individualized episode plan, previous effective dose verification, and nonpharmacological support alongside rather than instead of medication; contextualize why the individualized plan leads."
+      ],
+      "reviewedItemSha256": "3124fa98ce81e8aac09b0a4cfea31cd05ec99ecbf12899ecc7a90a1f9623f397"
+    },
+    {
+      "id": "x-adaptation-132",
+      "status": "revise",
+      "assessment": "New hypoxaemia suggests acute chest complications, but a longer walk and a cup of fluid are conspicuously poor alternatives.",
+      "issues": [
+        "New hypoxaemia suggests acute chest complications, but a longer walk and a cup of fluid are conspicuously poor alternatives."
+      ],
+      "proposedChanges": [
+        "Use parallel clinical interpretations or relevant competing assessments. Do not make exercise during distress a distractor."
+      ],
+      "reviewedItemSha256": "4fab070ba69cbc1ab31cc08106c87fd328eef275d3a956a8aa92085ca76dc107"
+    },
+    {
+      "id": "x-adaptation-133",
+      "status": "revise",
+      "assessment": "Hydration tolerance is useful, but unprescribed rate increase and ignoring respiratory signs are weak competitors; challenge difficulty is inflated.",
+      "issues": [
+        "Hydration tolerance is useful, but unprescribed rate increase and ignoring respiratory signs are weak competitors; challenge difficulty is inflated."
+      ],
+      "proposedChanges": [
+        "Compare possible overload, acute chest, simple dehydration, or expected analgesic-related findings, or provide a more discriminating ordered-fluid evaluation; use application unless substantial integration is added."
+      ],
+      "reviewedItemSha256": "0285e6160189384c776b326fd5ca7efac598bf2eee6f860ca1e9bc1bed7d8e53"
+    },
+    {
+      "id": "x-adaptation-134",
+      "status": "revise",
+      "assessment": "The caregiver-baseline and sequestration cues are clinically useful, but snack/next-week-ultrasound/routine-documentation alternatives make the emergency obvious.",
+      "issues": [
+        "The caregiver-baseline and sequestration cues are clinically useful, but snack/next-week-ultrasound/routine-documentation alternatives make the emergency obvious."
+      ],
+      "proposedChanges": [
+        "Compare possible causes of the changed presentation (sequestration, vaso-occlusive pain, medication sedation, aplastic crisis) or ask for the most informative immediate finding. Keep no definitive independent PN diagnosis."
+      ],
+      "reviewedItemSha256": "6cb64f5aabc1a1d4bf0600de8c9366a4a5802d7af1a3dabea2e037f0346761a7"
+    },
+    {
+      "id": "x-adaptation-135",
+      "status": "pass",
+      "assessment": "Protection and the authorized haemostatic plan address suspected joint bleeding; early range of motion and massage are recognizable but inappropriate rehabilitation errors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "32513f9b71769a0925365bdef8235402469984bdf747cbd609335ce5a7cb7adb"
+    },
+    {
+      "id": "x-adaptation-136",
+      "status": "revise",
+      "assessment": "The preserved-component task is distinct and correct, but reconnecting a serious-reaction bag is a poor competitor and application difficulty overstates recall.",
+      "issues": [
+        "The preserved-component task is distinct and correct, but reconnecting a serious-reaction bag is a poor competitor and application difficulty overstates recall."
+      ],
+      "proposedChanges": [
+        "Use credible handling alternatives, such as return labelled bag only, retain bag and tubing, discard after documenting identifiers, or send a new recipient sample only; classify foundation."
+      ],
+      "reviewedItemSha256": "373c02beaf6648b6f4b0675d0315fb1d79e28c36b981a70a750512401d2a5102"
+    },
+    {
+      "id": "x-adaptation-137",
+      "status": "revise",
+      "assessment": "TACO pattern is supported, but mild isolated allergy and local IV reaction do not meaningfully compete with pulmonary congestion.",
+      "issues": [
+        "TACO pattern is supported, but mild isolated allergy and local IV reaction do not meaningfully compete with pulmonary congestion."
+      ],
+      "proposedChanges": [
+        "Use TACO, TRALI, acute haemolysis, and anaphylaxis as parallel concerns; explain the relative support from hypertension and venous congestion without claiming certainty."
+      ],
+      "reviewedItemSha256": "da13fe58c5b7f8b97f00ad9703d72967653576995913580c38e318bba16e845e"
+    },
+    {
+      "id": "x-adaptation-138",
+      "status": "revise",
+      "assessment": "Delayed haemolysis timing is valid, but next-month review and waiting for fever advertise wrong answers.",
+      "issues": [
+        "Delayed haemolysis timing is valid, but next-month review and waiting for fever advertise wrong answers."
+      ],
+      "proposedChanges": [
+        "Use parallel explanations of the jaundice/urine/fatigue pattern, or plain competing advice without arbitrary delay clauses."
+      ],
+      "reviewedItemSha256": "eec538f44b74e66cfb81f079a8f6163865dcda098c3f67b33d4ee1c31210b696"
+    },
+    {
+      "id": "x-adaptation-139",
+      "status": "revise",
+      "assessment": "Afebrile neutropenic shock is important, but warm-drink temperature repeat, sleep and next scheduled blood count are cartoon delays.",
+      "issues": [
+        "Afebrile neutropenic shock is important, but warm-drink temperature repeat, sleep and next scheduled blood count are cartoon delays."
+      ],
+      "proposedChanges": [
+        "Ask which data cluster requires emergency response or which handover interpretation is best, with plausible shock differentials; consider application rather than challenge."
+      ],
+      "reviewedItemSha256": "1ebeff54e1b74a847d8b7ff7e02629d6056673a0b043a6e740bb9c6e8923d5a8"
+    },
+    {
+      "id": "x-adaptation-140",
+      "status": "revise",
+      "assessment": "Severe mucositis affecting intake and medicines merits coordinated review, but rough food and dose reduction are implausible alternatives.",
+      "issues": [
+        "Severe mucositis affecting intake and medicines merits coordinated review, but rough food and dose reduction are implausible alternatives."
+      ],
+      "proposedChanges": [
+        "Use plausible competing plans such as pre-dose topical pain care, requesting liquid formulations, arranging IV hydration review, or comprehensive route/pain/hydration review with balanced option length and enough context for one best response."
+      ],
+      "reviewedItemSha256": "53e8c37468d3a124e61d6aeb6ac8f62cadaf8ade18abafb0bec620fa82f20119"
+    },
+    {
+      "id": "x-adaptation-141",
+      "status": "revise",
+      "assessment": "Severity and dehydration support urgent oncology contact; juice, next visit and extra doses beyond the plan are conspicuously weak.",
+      "issues": [
+        "Severity and dehydration support urgent oncology contact; juice, next visit and extra doses beyond the plan are conspicuously weak."
+      ],
+      "proposedChanges": [
+        "Compare the supplied lower-grade home-care steps with the oncology escalation step using a brief protocol exhibit or clinically credible alternative actions."
+      ],
+      "reviewedItemSha256": "dc326c80cf683c07d4019345396f4c7009ee5e969f895b6778fe3724a9d2cc41"
+    },
+    {
+      "id": "x-adaptation-142",
+      "status": "revise",
+      "assessment": "TLS pattern is useful, but without-investigation, correcting-itself and next-cycle qualifiers telegraph rejection.",
+      "issues": [
+        "TLS pattern is useful, but without-investigation, correcting-itself and next-cycle qualifiers telegraph rejection."
+      ],
+      "proposedChanges": [
+        "Use parallel mechanisms such as tumour-cell breakdown, dehydration-related renal retention, treatment-associated SIADH, or poor intake; explain the distinctive combined urate/phosphate/potassium/calcium pattern."
+      ],
+      "reviewedItemSha256": "07cf86262edfbfc8d60caecbc2c44f39e439101e31ed9f9241b352401b138fe5"
+    },
+    {
+      "id": "x-adaptation-143",
+      "status": "revise",
+      "assessment": "Stem states supine worsening and the key repeats the obvious opposite; face into pillow is unsafe filler.",
+      "issues": [
+        "Stem states supine worsening and the key repeats the obvious opposite; face into pillow is unsafe filler."
+      ],
+      "proposedChanges": [
+        "Replace with a different SVCS task, such as identifying the pattern requiring urgent review among clinical findings, or compare meaningful supportive plans without face-obstruction distractors."
+      ],
+      "reviewedItemSha256": "9bc8a8c202571429c341f605918b47a0d65e48c15357f2cc5035f237406e783e"
+    },
+    {
+      "id": "x-adaptation-144",
+      "status": "revise",
+      "assessment": "Cord-compression cues are clear, but routine physiotherapy, walking and before-contacting clauses make the answer guessable.",
+      "issues": [
+        "Cord-compression cues are clear, but routine physiotherapy, walking and before-contacting clauses make the answer guessable."
+      ],
+      "proposedChanges": [
+        "Use a discriminating neurological assessment/interpretation task or credible immediate actions with plain wording."
+      ],
+      "reviewedItemSha256": "0d68a1337bc6ad0c4cd04702d107e1ccdf342ca3f990a6689287ccf610ea154d"
+    },
+    {
+      "id": "x-adaptation-145",
+      "status": "pass",
+      "assessment": "SATA distinguishes emerging fluid-related harm and persistent metabolic effects from combined clinical/laboratory improvement.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "59b204626840ded879b02088984b8b77bdb12c2d70aa69853eced7bbbd6de8da"
+    },
+    {
+      "id": "x-adaptation-146",
+      "status": "revise",
+      "assessment": "Protecting a suspected pathological fracture is correct, but repeated movement, standing and massage are an all-unsafe distractor set.",
+      "issues": [
+        "Protecting a suspected pathological fracture is correct, but repeated movement, standing and massage are an all-unsafe distractor set."
+      ],
+      "proposedChanges": [
+        "Compare supporting the limb, administering ordered analgesia, assessing distal neurovascular findings, and contacting the team; define whether the task asks first physical action, most informative assessment, or handover concern."
+      ],
+      "reviewedItemSha256": "d6efe2f52c9c4b35ecfcd42838b98b6c43266e2defa28de34bd4e17bf64e4d3e"
+    },
+    {
+      "id": "x-adaptation-147",
+      "status": "revise",
+      "assessment": "Acute inflammation with fever warrants review, but vigorous massage/tighter sleeve/future appointment advertise poor care.",
+      "issues": [
+        "Acute inflammation with fever warrants review, but vigorous massage/tighter sleeve/future appointment advertise poor care."
+      ],
+      "proposedChanges": [
+        "Use normal compression care, measured circumference, elevation, and infection assessment as plain plausible competing responses; preserve context that acute systemic signs change the priority."
+      ],
+      "reviewedItemSha256": "fb2b5a4667dc08e4dd8a920b3b07f51c82c2f0a257b60a654d7207ffcebd538e"
+    },
+    {
+      "id": "x-adaptation-148",
+      "status": "revise",
+      "assessment": "The correct comfort-care principle is valid, but withholding assessment, forcing meals and limiting discussion to girth are caricatures.",
+      "issues": [
+        "The correct comfort-care principle is valid, but withholding assessment, forcing meals and limiting discussion to girth are caricatures."
+      ],
+      "proposedChanges": [
+        "Give realistic competing symptom plans and client preferences, such as adjusting meal size, positioning, scheduled symptom medication review or discussion of therapeutic drainage; ask which addresses the stated priority."
+      ],
+      "reviewedItemSha256": "78244c9eed5fe5c081a8cbff0aa092ee6438d8c8b8e691a51ef7fd621b47aba9"
+    },
+    {
+      "id": "x-adaptation-149",
+      "status": "revise",
+      "assessment": "Moist desquamation needs reassessment; fragranced lotion, direct tape and scrubbing are cartoon skin-care choices.",
+      "issues": [
+        "Moist desquamation needs reassessment; fragranced lotion, direct tape and scrubbing are cartoon skin-care choices."
+      ],
+      "proposedChanges": [
+        "Compare plausible skin-care plans, such as continuing a prior dry-skin emollient plan, protective nonadherent dressing assessment, saline cleansing, or topical steroid request, with sufficient context and authority for a single best answer."
+      ],
+      "reviewedItemSha256": "119f062f1796e3f92c1cab913eec1d7e778aa71cfef9e577ee622e93155903ce"
+    },
+    {
+      "id": "x-adaptation-150",
+      "status": "revise",
+      "assessment": "This repeats bowel-obstruction recognition in110/111/115; cancer context alone does not create a distinct task, and fluid/fibre alternatives are weak.",
+      "issues": [
+        "This repeats bowel-obstruction recognition in110/111/115; cancer context alone does not create a distinct task, and fluid/fibre alternatives are weak."
+      ],
+      "proposedChanges": [
+        "Use malignant-obstruction care under explicit comfort goals, evaluating symptom control or route of delivery rather than repeating recognize-and-call; keep 200 items through replacement."
+      ],
+      "reviewedItemSha256": "8974b98e8a1150d4f5ebc737bf83ebf0d252130859752765becf8d5842ccd680"
+    }
+  ],
+  "activeSourceFile": "authoring/b-extra/adaptation-126-150.json",
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

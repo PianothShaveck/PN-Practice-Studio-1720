@@ -1,0 +1,814 @@
+[
+  {
+    "id": "x-risk-151",
+    "cat": "risk",
+    "title": "Young infant fever",
+    "stem": "A parent reports a rectal temperature of 38.2 °C in a six-week-old infant who is feeding less than usual. The infant’s sibling has a cold. What should the nurse advise?",
+    "type": "single",
+    "options": [
+      "Give an age-appropriate antipyretic and use the repeat temperature to decide about assessment",
+      "Arrange urgent in-person assessment now, explaining the significance of fever at this age",
+      "Book the next available office visit if reduced feeding continues after the fever settles",
+      "Monitor feeding at home because the sibling’s illness provides a likely viral explanation"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Temperature reduction does not exclude important infection in a young infant and should not delay assessment.",
+      "Measured fever with reduced feeding at six weeks needs urgent evaluation; treatment is determined after assessment.",
+      "Waiting for persistent symptoms delays assessment during an age of greater infection risk.",
+      "A household viral illness does not establish the cause or severity of this infant’s fever."
+    ],
+    "takeaway": "Treat fever in a young infant as requiring prompt assessment.",
+    "refs": [
+      "c-infant-fever"
+    ],
+    "exhibit": null,
+    "subtopic": "Risk surveillance across life stages",
+    "learningObjective": "Treat fever in a young infant as requiring prompt assessment.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-152",
+    "cat": "risk",
+    "title": "Infant hydration assessment",
+    "stem": "An eight-month-old with diarrhoea is following a clinician-prescribed oral-rehydration plan. Compared with the assessment four hours ago, which new findings suggest deterioration? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Wet nappies have become less frequent and contain much less urine",
+      "The infant is unusually drowsy and no longer takes the offered small amounts",
+      "The infant now takes frequent small amounts without vomiting",
+      "Tears have returned during crying after being absent earlier"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "why": [
+      "Declining urine output suggests the replacement plan may not be maintaining hydration.",
+      "Worsening arousal and inability to take fluids require prompt reassessment of hydration and illness.",
+      "Improved tolerance of the prescribed fluid supports progress rather than deterioration.",
+      "Returning tears is a reassuring trend when considered with the other hydration observations."
+    ],
+    "takeaway": "Evaluate the direction of intake, urine and alertness changes during oral rehydration.",
+    "refs": [
+      "c-child-dehydration"
+    ],
+    "exhibit": null,
+    "subtopic": "Risk surveillance across life stages",
+    "learningObjective": "Evaluate the direction of intake, urine and alertness changes during oral rehydration.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-153",
+    "cat": "risk",
+    "title": "Bronchiolitis feeding endurance",
+    "stem": "An infant with bronchiolitis repeatedly stops sucking to breathe and now takes much less than usual. Which assessment has priority at the bedside?",
+    "type": "single",
+    "options": [
+      "The bottle, nipple flow and technique used during the infant’s usual feeds",
+      "The cumulative feed and urine volumes documented over the preceding 24 hours",
+      "The infant’s weight trajectory compared with measurements before the illness",
+      "The current work of breathing and ability to coordinate sucking, swallowing and breathing"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Feeding equipment may contribute, but the observed respiratory interruptions require current physiological assessment first.",
+      "Intake and output quantify consequences; they do not establish whether the infant can safely sustain the present feed.",
+      "Growth history provides context but does not resolve the immediate breathing-related feeding difficulty.",
+      "The respiratory pauses may make feeding unsafe or ineffective; current breathing and endurance guide the immediate plan."
+    ],
+    "takeaway": "Assess how respiratory illness affects an infant's feeding ability.",
+    "refs": [
+      "c-bronchiolitis"
+    ],
+    "exhibit": null,
+    "subtopic": "Risk surveillance across life stages",
+    "learningObjective": "Assess how respiratory illness affects an infant's feeding ability.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-154",
+    "cat": "risk",
+    "title": "Early newborn jaundice",
+    "stem": "A newborn is visibly jaundiced at 14 hours of age. Feeding has appeared effective and vital signs are stable. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Increase feeding support and use the next feed’s response to decide whether testing is needed",
+      "Review maternal and infant blood groups before deciding whether to request a bilirubin level",
+      "Arrange bilirubin measurement and clinical review under the newborn jaundice protocol",
+      "Reassess the distribution of visible yellowing at the next routine observation round"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Feeding support is useful, but jaundice this early requires assessment without waiting for a feeding response.",
+      "Blood-group information may help establish cause but should not delay assessment of early jaundice.",
+      "Jaundice in the first 24 hours warrants prompt bilirubin and clinical assessment; treatment depends on age and risk.",
+      "Visual appearance cannot reliably quantify bilirubin or justify delaying assessment at this early age."
+    ],
+    "takeaway": "Escalate jaundice appearing in the first day of life.",
+    "refs": [
+      "c-jaundice"
+    ],
+    "exhibit": null,
+    "subtopic": "Risk surveillance across life stages",
+    "learningObjective": "Escalate jaundice appearing in the first day of life.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-155",
+    "cat": "risk",
+    "title": "Bilirubin interpretation",
+    "stem": "A newborn’s bilirubin result arrives without the collection time or age at sampling. What information is most important to verify before the team applies a treatment threshold?",
+    "type": "single",
+    "options": [
+      "The laboratory high flag and the routine reference interval printed beside the value",
+      "The postnatal age at sampling, gestational age and relevant clinical risk factors",
+      "The numerical difference from the previous result whose collection time is also missing",
+      "The feeding frequency and wet-nappy count during the most recent nursing shift"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "A generic laboratory flag does not replace an age- and risk-specific neonatal treatment threshold.",
+      "Neonatal bilirubin thresholds depend on age in hours and risk context; missing timing must be resolved.",
+      "Without elapsed time, the apparent change cannot be interpreted reliably as a rate of rise.",
+      "Feeding and output are important context but cannot substitute for age and risk when applying a threshold."
+    ],
+    "takeaway": "Interpret newborn bilirubin using age and relevant risk factors.",
+    "refs": [
+      "c-jaundice"
+    ],
+    "exhibit": null,
+    "subtopic": "Risk surveillance across life stages",
+    "learningObjective": "Interpret newborn bilirubin using age and relevant risk factors.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-156",
+    "cat": "risk",
+    "title": "Newborn intake warning",
+    "stem": "A four-day-old with jaundice has a feeding-support plan and a bilirubin recheck booked. Which changes since yesterday warrant contacting the newborn team before the booked review? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "The infant now needs repeated stimulation to wake and cannot sustain feeds",
+      "The number and amount of wet nappies have declined despite the feeding plan",
+      "The infant asks to feed more frequently and has audible swallowing during feeds",
+      "The stools are becoming yellow while the infant wakes readily for feeds"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "why": [
+      "Poor arousal with worsening intake can accompany significant illness or jaundice and requires earlier assessment.",
+      "Falling urine output suggests inadequate intake or hydration and may undermine the jaundice management plan.",
+      "More frequent effective feeding is not itself deterioration and may support intake and bilirubin elimination.",
+      "Stool transition with ready arousal supports feeding progress rather than the concerning change described by the keyed findings."
+    ],
+    "takeaway": "Recognize feeding and arousal changes that require earlier reassessment during neonatal jaundice follow-up.",
+    "refs": [
+      "c-jaundice",
+      "c-child-dehydration"
+    ],
+    "exhibit": null,
+    "subtopic": "Risk surveillance across life stages",
+    "learningObjective": "Recognize feeding and arousal changes that require earlier reassessment during neonatal jaundice follow-up.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-157",
+    "cat": "risk",
+    "title": "Green emesis in infancy",
+    "stem": "A two-month-old has green vomit and increasing abdominal distension. The infant previously had uncomplicated spit-ups. Which plan has priority?",
+    "type": "single",
+    "options": [
+      "Offer small frequent oral-rehydration amounts and reassess after the next vomiting episode",
+      "Use smaller feeds and an upright feeding position to manage a possible reflux flare",
+      "Give the previously prescribed antiemetic and review the response before seeking assessment",
+      "Arrange urgent assessment and withhold further feeds while following the emergency plan"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "An oral trial may suit some vomiting illnesses, but bilious emesis with distension raises concern for obstruction.",
+      "The new green emesis and distension differ from uncomplicated reflux and need urgent evaluation.",
+      "Suppressing vomiting does not address a possible obstructive cause and should not postpone assessment.",
+      "The new pattern may indicate obstruction; urgent assessment and protocol-directed feeding precautions are needed."
+    ],
+    "takeaway": "Treat green vomiting with distension in an infant as urgent.",
+    "refs": [
+      "c-child-vomit"
+    ],
+    "exhibit": null,
+    "subtopic": "Risk surveillance across life stages",
+    "learningObjective": "Treat green vomiting with distension in an infant as urgent.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-158",
+    "cat": "risk",
+    "title": "Child oral-rehydration failure",
+    "stem": "A three-year-old on a home oral-rehydration plan is becoming lethargic and vomits even the small amounts offered. What should the nurse advise now?",
+    "type": "single",
+    "options": [
+      "Reduce each oral amount further and evaluate the next hour’s intake at home",
+      "Give the prescribed antiemetic and restart the oral schedule before deciding about review",
+      "Obtain prompt reassessment of circulation, hydration and the route of fluid replacement",
+      "Resume the planned oral replacement schedule when a vomiting-free interval occurs"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "A further home trial does not address worsening alertness and failed tolerance of the existing small-volume plan.",
+      "An antiemetic may be part of treatment, but its trial should not delay assessment of this deterioration.",
+      "Lethargy and failure to retain fluids mean the current plan may no longer be sufficient or safe.",
+      "Waiting for vomiting to pause delays evaluation while intake and clinical condition are worsening."
+    ],
+    "takeaway": "Escalate when oral rehydration is failing and the child deteriorates.",
+    "refs": [
+      "c-child-dehydration"
+    ],
+    "exhibit": null,
+    "subtopic": "Risk surveillance across life stages",
+    "learningObjective": "Escalate when oral rehydration is failing and the child deteriorates.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-159",
+    "cat": "risk",
+    "title": "Postpartum bleeding pattern",
+    "stem": "Two hours after birth, a client rapidly soaks pads, passes large clots and appears pale. Pulse is 124/min and blood pressure is 88/54 mm Hg. What should the nurse do first?",
+    "type": "single",
+    "options": [
+      "Weigh the used pads to quantify loss before contacting the obstetric team",
+      "Activate the haemorrhage response and begin circulatory assessment and support under protocol",
+      "Assist the client to the toilet to relieve possible bladder-related uterine displacement",
+      "Collect the ordered haemoglobin sample and use the result to determine the urgency"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Quantification is useful during the response but should not postpone help for haemodynamic instability.",
+      "Heavy bleeding with tachycardia and hypotension requires an immediate coordinated response and support.",
+      "Bladder management may be needed, but walking a hypotensive client is unsafe and does not take priority over the response.",
+      "Clinical instability establishes urgency; laboratory results may lag and must not delay treatment."
+    ],
+    "takeaway": "Assess postpartum bleeding by amount, trend, and systemic effects.",
+    "refs": [
+      "c-postpartum"
+    ],
+    "exhibit": null,
+    "subtopic": "Risk surveillance across life stages",
+    "learningObjective": "Assess postpartum bleeding by amount, trend, and systemic effects.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-160",
+    "cat": "risk",
+    "title": "Postpartum headache assessment",
+    "stem": "Five days after birth, a client with previously normal antenatal blood pressure reports severe headache, blurred vision and upper abdominal pain. What should the nurse advise?",
+    "type": "single",
+    "options": [
+      "Arrange urgent maternity or emergency assessment, including blood pressure and clinical evaluation",
+      "Record several home blood-pressure readings over the afternoon before deciding about assessment",
+      "Take the usual analgesic, rest in a dark room and use symptom relief to decide whether to call",
+      "Book a later same-day primary-care visit because blood pressure was normal during pregnancy"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "The symptom combination can indicate postpartum hypertensive disease or another serious problem even after a normotensive pregnancy.",
+      "Home measurements may provide information but should not delay assessment of these severe symptoms.",
+      "Analgesic response cannot safely exclude a serious postpartum cause of headache and visual symptoms.",
+      "Normal antenatal readings do not rule out new postpartum disease; the current symptoms set the urgency."
+    ],
+    "takeaway": "Recognize postpartum hypertensive warning symptoms even after discharge.",
+    "refs": [
+      "c-postpartum"
+    ],
+    "exhibit": null,
+    "subtopic": "Risk surveillance across life stages",
+    "learningObjective": "Recognize postpartum hypertensive warning symptoms even after discharge.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-161",
+    "cat": "risk",
+    "title": "Postpartum infection cues",
+    "stem": "On day four after caesarean birth, which new findings warrant assessment for infection? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Foul-smelling lochia accompanied by worsening pelvic pain",
+      "Cramping during breastfeeding that settles after the feed",
+      "Incision discomfort with coughing that is less than yesterday",
+      "Fever accompanied by increasing uterine tenderness"
+    ],
+    "answer": [
+      0,
+      3
+    ],
+    "why": [
+      "This combination differs from expected lochia and raises concern for uterine or pelvic infection.",
+      "Transient feed-related afterpains can accompany uterine involution and are less suggestive of infection.",
+      "Improving movement-related incisional discomfort is consistent with recovery unless other concerning findings develop.",
+      "New fever with increasing uterine tenderness requires prompt assessment of a possible postpartum infection."
+    ],
+    "takeaway": "Assess worsening postpartum pain with fever or abnormal discharge.",
+    "refs": [
+      "c-postpartum"
+    ],
+    "exhibit": null,
+    "subtopic": "Risk surveillance across life stages",
+    "learningObjective": "Assess worsening postpartum pain with fever or abnormal discharge.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-162",
+    "cat": "risk",
+    "title": "Pregnancy reduced movement",
+    "stem": "At 32 weeks of pregnancy, a client reports that the baby’s movements are clearly reduced today compared with the usual pattern. Yesterday’s maternity assessment was reassuring. What should the nurse advise?",
+    "type": "single",
+    "options": [
+      "Eat a meal and complete a further period of movement counting before contacting maternity care",
+      "Use yesterday’s reassuring assessment to guide observation at home until the pattern returns",
+      "Contact the maternity assessment service promptly about the new reduction",
+      "Check for a heartbeat with a home Doppler and call if it cannot be found"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "A meaningful new reduction should be reported promptly rather than delaying contact for another home test.",
+      "Yesterday’s findings do not establish fetal wellbeing during a new change today.",
+      "The maternity team should assess a new reduction in the individual movement pattern.",
+      "Audible fetal cardiac activity at home does not establish current wellbeing or replace assessment."
+    ],
+    "takeaway": "Act on a meaningful reduction in the established fetal movement pattern.",
+    "refs": [
+      "c-fetal-movement"
+    ],
+    "exhibit": null,
+    "subtopic": "Risk surveillance across life stages",
+    "learningObjective": "Act on a meaningful reduction in the established fetal movement pattern.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-163",
+    "cat": "risk",
+    "title": "Pregnancy vomiting risk",
+    "stem": "A client at 12 weeks of pregnancy has persistent vomiting. Which findings most directly show that hydration or circulation may be compromised? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Nausea begins when the client smells hot food in the kitchen",
+      "Measured urine totals 120 mL over eight hours despite attempted fluid intake",
+      "Pulse rises from 88/min supine to 118/min standing, with marked dizziness",
+      "Vomiting occurs more often after large meals than after small snacks"
+    ],
+    "answer": [
+      1,
+      2
+    ],
+    "why": [
+      "Odour sensitivity helps identify triggers but does not measure hydration or circulatory effects.",
+      "Low measured urine in this context suggests inadequate fluid balance and needs prompt assessment.",
+      "A substantial postural pulse change with dizziness supports concern about circulatory tolerance.",
+      "Meal-related patterns guide symptom management but do not directly establish volume compromise."
+    ],
+    "takeaway": "Distinguish vomiting triggers from objective evidence of maternal hydration or circulation compromise.",
+    "refs": [
+      "c-assessment",
+      "c-pregnancy-position"
+    ],
+    "exhibit": null,
+    "subtopic": "Risk surveillance across life stages",
+    "learningObjective": "Distinguish vomiting triggers from objective evidence of maternal hydration or circulation compromise.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-164",
+    "cat": "risk",
+    "title": "Postoperative child pain change",
+    "stem": "On day three after abdominal surgery, a child who had been improving develops temperature 38.6 °C, guarding and increasing abdominal pain. Which nursing action has priority?",
+    "type": "single",
+    "options": [
+      "Arrange prompt surgical review while assessing the new abdominal and systemic findings",
+      "Give the prescribed analgesic and judge the need for review from the next pain score",
+      "Assist walking to relieve presumed gas and reassess the abdomen afterwards",
+      "Offer a graded oral-fluid trial to see whether bowel recovery continues"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "A reversal of recovery with fever and guarding requires assessment for a complication before routine recovery measures.",
+      "Analgesia may be appropriate, but response should not determine whether this new pattern receives review.",
+      "Gas discomfort does not adequately explain the combined fever, guarding and worsening trajectory.",
+      "An oral trial does not assess the cause of new guarding and fever and should not precede review."
+    ],
+    "takeaway": "Investigate a reversal in postoperative recovery rather than following the usual timeline.",
+    "refs": [
+      "c-assessment",
+      "c-postoperative"
+    ],
+    "exhibit": null,
+    "subtopic": "Risk surveillance across life stages",
+    "learningObjective": "Investigate a reversal in postoperative recovery rather than following the usual timeline.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-165",
+    "cat": "risk",
+    "title": "Adolescent exercise syncope",
+    "stem": "An adolescent faints while running and reports chest tightness immediately before the collapse. They are now awake and speaking normally. What plan is most appropriate?",
+    "type": "single",
+    "options": [
+      "Provide oral fluids and attempt a gradual return once resting symptoms resolve",
+      "Check glucose and change the pre-exercise snack before resuming training",
+      "Arrange a routine sports-health visit while allowing activity below the usual intensity",
+      "Arrange urgent clinical evaluation and withhold further exertion pending assessment"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Dehydration is possible but does not safely explain exertional syncope preceded by chest symptoms.",
+      "Glucose may be relevant to assessment, but a snack change does not address the concerning exertional pattern.",
+      "Lower-intensity sport still exposes the adolescent to exertion before an important cause has been evaluated.",
+      "This combination warrants urgent assessment before return to exercise; no specific diagnosis can be assumed."
+    ],
+    "takeaway": "Assess exertional syncope before resuming activity.",
+    "refs": [
+      "c-child-syncope"
+    ],
+    "exhibit": null,
+    "subtopic": "Risk surveillance across life stages",
+    "learningObjective": "Assess exertional syncope before resuming activity.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-166",
+    "cat": "risk",
+    "title": "Older adult delirium fluctuation",
+    "stem": "An older adult was attentive at breakfast but is now intermittently inattentive and disorganized. Family confirm a sudden departure from baseline. Which plan best addresses the immediate concern?",
+    "type": "single",
+    "options": [
+      "Review sedating medication times and ask the next shift to compare the cognitive pattern",
+      "Use familiar objects and a quieter room as the main response to the change",
+      "Assess for delirium and current physiological contributors while reviewing medications and baseline",
+      "Arrange formal cognitive screening after the client has had an uninterrupted night’s sleep"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Medication review matters, but postponing current assessment may miss hypoxia, infection or another reversible acute cause.",
+      "Environmental support may help but does not identify the cause of acute fluctuating inattention.",
+      "The rapid fluctuating change suggests possible delirium and calls for prompt assessment of contributing illness and exposures.",
+      "Later cognitive testing cannot replace assessment of an acute change from a confirmed baseline."
+    ],
+    "takeaway": "Use onset and fluctuation to distinguish acute change from chronic baseline.",
+    "refs": [
+      "c-delirium",
+      "c-assessment"
+    ],
+    "exhibit": null,
+    "subtopic": "Risk surveillance across life stages",
+    "learningObjective": "Use onset and fluctuation to distinguish acute change from chronic baseline.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-167",
+    "cat": "risk",
+    "title": "Reduced sensation after injury",
+    "stem": "Swelling has increased beneath a hand dressing, and the client reports new fingertip numbness. The radial pulse remains palpable. Which assessment is still most urgent?",
+    "type": "single",
+    "options": [
+      "The amount of wound drainage, dressing staining and time since the last dressing change",
+      "Distal colour, warmth, sensation and movement, including possible dressing constriction",
+      "The original wound depth, contamination history and appearance of the wound edges",
+      "The pain score, analgesic timing and change in wound discomfort after medication"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Drainage monitoring is useful but does not evaluate the new distal neurological change.",
+      "A proximal palpable pulse does not exclude evolving distal nerve or perfusion compromise from pressure.",
+      "Wound history helps ongoing care but is less direct than current neurovascular assessment for new numbness.",
+      "Pain response does not establish intact sensation or distal perfusion beneath a swelling dressing."
+    ],
+    "takeaway": "Reassess neurovascular status when swelling changes under a dressing.",
+    "refs": [
+      "c-neurovascular"
+    ],
+    "exhibit": null,
+    "subtopic": "Risk surveillance across life stages",
+    "learningObjective": "Reassess neurovascular status when swelling changes under a dressing.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-168",
+    "cat": "risk",
+    "title": "Burn limb surveillance",
+    "stem": "A client with a circumferential lower-leg burn has serial neurovascular observations. Which new findings require prompt review? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Tingling progresses to reduced sensation in the toes",
+      "The foot becomes cooler and capillary refill is slower than at baseline",
+      "Pain decreases after the prescribed analgesic and supported positioning",
+      "A small amount of clear wound fluid appears within the expected dressing pattern"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "why": [
+      "New sensory loss may signal nerve or circulation compromise as swelling develops.",
+      "Worsening distal perfusion can indicate constriction from the circumferential injury.",
+      "Improved comfort is useful but is not itself evidence of worsening neurovascular status.",
+      "Expected local drainage needs monitoring but does not indicate distal perfusion loss like the keyed changes."
+    ],
+    "takeaway": "Monitor distal function as swelling evolves beneath circumferential injury.",
+    "refs": [
+      "c-neurovascular"
+    ],
+    "exhibit": null,
+    "subtopic": "Risk surveillance across life stages",
+    "learningObjective": "Monitor distal function as swelling evolves beneath circumferential injury.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-169",
+    "cat": "risk",
+    "title": "Splint discharge understanding",
+    "stem": "A client is discharged with a temporary forearm splint while swelling settles. Which statement shows appropriate understanding of the warning signs?",
+    "type": "single",
+    "options": [
+      "If I can still move my fingers, a new change in their colour can wait for the follow-up visit",
+      "If elevation relieves the aching, I can use that improvement to judge new numbness",
+      "Because the splint is removable, I can manage new cold fingers by adjusting it without calling",
+      "If numbness or colour changes develop, I will seek advice even when the aching has improved"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Retained movement does not establish adequate distal perfusion when a new colour change develops.",
+      "Pain relief with elevation does not rule out a separate new neurological warning sign.",
+      "The ability to remove a device does not remove the need for prompt assessment of cold fingers.",
+      "New neurovascular symptoms need review independently of whether pain has partially improved."
+    ],
+    "takeaway": "Teach specific distal warning signs with immobilization devices.",
+    "refs": [
+      "c-neurovascular"
+    ],
+    "exhibit": null,
+    "subtopic": "Risk surveillance across life stages",
+    "learningObjective": "Teach specific distal warning signs with immobilization devices.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-170",
+    "cat": "risk",
+    "title": "Foreign-body wound history",
+    "stem": "A client has a foot puncture through footwear with a small surface opening. Which history set most directly identifies deep contamination, retained-material and tetanus risks?",
+    "type": "single",
+    "options": [
+      "Previous foot problems, usual footwear fit and the most recent analgesic dose",
+      "Baseline walking ability, current activity demands and the change in pain with weight bearing",
+      "Time of injury, penetrating object, possible depth and tetanus immunization history",
+      "Home cleansing already performed, available dressing supplies and access to follow-up"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "These provide useful context but do not characterize the penetrating material or immunization protection.",
+      "Function and pain matter, but a small painful or painless opening can conceal a deep puncture.",
+      "Mechanism, timing and immunization help direct assessment of contamination, retained material and tetanus prevention.",
+      "Aftercare history matters but does not replace the injury mechanism and immunization history."
+    ],
+    "takeaway": "Assess the mechanism and preventive history of a puncture wound.",
+    "refs": [
+      "c-tetanus",
+      "c-assessment"
+    ],
+    "exhibit": null,
+    "subtopic": "Risk surveillance across life stages",
+    "learningObjective": "Assess the mechanism and preventive history of a puncture wound.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-171",
+    "cat": "risk",
+    "title": "Confusion and retention",
+    "stem": "After catheter removal, a frail older adult becomes restless and repeatedly voids small drops. Which information most directly evaluates suspected incomplete bladder emptying? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "The time and amount of the most recent sedating medication",
+      "Bladder distension and a retained-volume measurement obtained under protocol",
+      "The removal time and measured volume and timing of subsequent voids",
+      "The sleep pattern and frequency of environmental interruptions overnight"
+    ],
+    "answer": [
+      1,
+      2
+    ],
+    "why": [
+      "Medications may contribute to retention or confusion, but this information does not measure emptying.",
+      "Examination and an appropriate bladder-volume assessment directly evaluate retained urine.",
+      "The post-removal output pattern establishes whether meaningful emptying has occurred.",
+      "Sleep disruption may contribute to restlessness but does not establish the degree of urinary retention."
+    ],
+    "takeaway": "Include painful retention among reversible causes of new restlessness.",
+    "refs": [
+      "c-catheter"
+    ],
+    "exhibit": null,
+    "subtopic": "Risk surveillance across life stages",
+    "learningObjective": "Include painful retention among reversible causes of new restlessness.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-172",
+    "cat": "risk",
+    "title": "Immunosuppressed fever",
+    "stem": "Eight days after cytotoxic chemotherapy, a client calls at 21:00 with temperature 38.4 °C and chills. The oncology team supplied an after-hours fever plan. What should the nurse advise?",
+    "type": "single",
+    "options": [
+      "Use the oncology fever plan to obtain urgent assessment tonight",
+      "Arrange a routine blood count tomorrow before deciding whether to contact oncology",
+      "Take the prescribed antipyretic and use the temperature response to decide about assessment",
+      "Contact the usual daytime clinic when it opens if the fever remains"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Fever during a period of possible treatment-related immunosuppression can signal serious infection and requires the urgent pathway.",
+      "A blood count may be needed, but arranging a routine test should not delay assessment of measured fever and chills.",
+      "An antipyretic can lower temperature without treating the cause or reducing the need for assessment.",
+      "Waiting for the daytime service delays care despite an available after-hours fever plan."
+    ],
+    "takeaway": "Apply the prescribed urgent fever plan for immunosuppressed clients.",
+    "refs": [
+      "c-cancer-fever"
+    ],
+    "exhibit": null,
+    "subtopic": "Risk surveillance across life stages",
+    "learningObjective": "Apply the prescribed urgent fever plan for immunosuppressed clients.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-173",
+    "cat": "risk",
+    "title": "New bleeding after discharge",
+    "stem": "Four days after colonoscopic polyp removal, a client has repeated episodes of rectal bleeding and new weakness after an initially uncomplicated recovery. What should the nurse advise?",
+    "type": "single",
+    "options": [
+      "Use the usual haemorrhoid treatment and reassess whether the next stool contains blood",
+      "Measure further stool loss at home and call if it continues through the next bowel movement",
+      "Seek advice about the anticoagulant schedule before deciding whether examination is needed",
+      "Arrange urgent assessment of the bleeding and weakness despite the delayed onset"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "A previous haemorrhoid history would not safely explain new repeated bleeding with weakness after polypectomy.",
+      "Measurement can help the clinical team but should not postpone assessment when systemic symptoms accompany bleeding.",
+      "Medication information is important during assessment, but clarification should not delay review of active symptomatic bleeding.",
+      "Delayed post-procedure bleeding can be clinically important; the current symptoms require evaluation."
+    ],
+    "takeaway": "Teach that significant delayed bleeding still needs urgent assessment.",
+    "refs": [
+      "c-colonoscopy"
+    ],
+    "exhibit": null,
+    "subtopic": "Risk surveillance across life stages",
+    "learningObjective": "Teach that significant delayed bleeding still needs urgent assessment.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-174",
+    "cat": "risk",
+    "title": "Home-monitoring barriers",
+    "stem": "A client with heart failure is prescribed home weight monitoring but cannot stand safely on the available scale. Which plan best preserves useful monitoring?",
+    "type": "single",
+    "options": [
+      "Use serial ankle measurements as the replacement for the prescribed weight measurements",
+      "Record intake and output and omit weights until standing balance returns",
+      "Arrange an accessible calibrated weighing method and agree the monitoring plan with the team",
+      "Have a family member steady the client on the standard scale for each measurement"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Ankle measurements may supplement assessment but are not interchangeable with a comparable body-weight trend.",
+      "Fluid records may help but should not silently replace a prescribed measure without an agreed clinical plan.",
+      "An accessible method can provide comparable measurements while meeting the client’s mobility needs.",
+      "Family steadying may create a fall risk and distort the measurement; a suitable accessible method is needed."
+    ],
+    "takeaway": "Adapt surveillance methods when disability prevents standard measurement.",
+    "refs": [
+      "c-heart-failure",
+      "c-mobility"
+    ],
+    "exhibit": null,
+    "subtopic": "Risk surveillance across life stages",
+    "learningObjective": "Adapt surveillance methods when disability prevents standard measurement.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-175",
+    "cat": "risk",
+    "title": "Caregiver observation escalation",
+    "stem": "A familiar caregiver reports that a nonverbal adult is breathing faster than usual and cannot tolerate transfers that were manageable yesterday. Which assessment has priority?",
+    "type": "single",
+    "options": [
+      "Review the transfer technique, joint range and equipment fit with the caregiver",
+      "Assess current breathing, oxygenation and circulation against the known baseline",
+      "Review recent environmental changes and usual behavioural calming strategies",
+      "Establish an adapted pain tool and review the client’s usual ways of showing discomfort"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Musculoskeletal and equipment checks may follow, but they do not explain away the simultaneous new respiratory change.",
+      "New faster breathing with functional decline can signal physiological deterioration and needs prompt assessment.",
+      "Environmental support may be useful but should not replace assessment of new respiratory and activity intolerance.",
+      "Pain communication is important, but current respiratory and circulatory assessment takes priority with these combined changes."
+    ],
+    "takeaway": "Use informed caregiver observations to recognize change from baseline.",
+    "refs": [
+      "c-assessment"
+    ],
+    "exhibit": null,
+    "subtopic": "Risk surveillance across life stages",
+    "learningObjective": "Use informed caregiver observations to recognize change from baseline.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  }
+]

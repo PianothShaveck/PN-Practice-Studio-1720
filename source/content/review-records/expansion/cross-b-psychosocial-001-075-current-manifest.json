@@ -1,0 +1,543 @@
+{
+  "reviewerTask": "/root/author_pharm_adaptation",
+  "createdAt": "2026-10-01T18:23:46.252404+00:00",
+  "scope": "x-psychosocial-001 through x-psychosocial-075",
+  "method": "Manifest indexes matching-hash passes from actual full-item review and reread reports; no new pass status is inferred by the indexing script.",
+  "activeSourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/d/questions.json",
+  "coverage": {
+    "reviewedItems": 75,
+    "matchingHashPasses": 75,
+    "unresolvedIds": []
+  },
+  "items": [
+    {
+      "id": "x-psychosocial-001",
+      "status": "pass",
+      "reviewedItemSha256": "3d12259f79edbebc67cfd68fb30667c370decc45f4387e96e4a9a6fa0e8a023d",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-001-025.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-002",
+      "status": "pass",
+      "reviewedItemSha256": "c7f1d46f164bd818775f488f0c725b4eec5052d39d56c7d3b94ba7d2328c8dc7",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-001-025.review.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-003",
+      "status": "pass",
+      "reviewedItemSha256": "79487cbaba50412b6027bbffc9744b22983eecab4c3c5a524dd297115d1bf67d",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-001-025.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-004",
+      "status": "pass",
+      "reviewedItemSha256": "8f672d16413831a009f1bfa9c99670019fd06d305fbac5e26e6ce730001e46d3",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-001-025.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-005",
+      "status": "pass",
+      "reviewedItemSha256": "e506e72046be11ac1e96e522a468264f5779513cc899e1ca1a95a7382fc3ec63",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-001-025.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-006",
+      "status": "pass",
+      "reviewedItemSha256": "525128bf116f8ee9e1e86306ca2948ef64094a7f43ac5c910fe483074ed25f31",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-001-025.review.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-007",
+      "status": "pass",
+      "reviewedItemSha256": "e04bdd7847f443008a70585df855a93d46c1bf722d821a1fef11f9d388feff4c",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-001-025.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-008",
+      "status": "pass",
+      "reviewedItemSha256": "a860befaffbb4062aa84ce231f27f97a806c99b42f666ca46444f90681c8a374",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-001-025.review.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-009",
+      "status": "pass",
+      "reviewedItemSha256": "12b5386de8bad04e44b6ee9c6947524ba49f2f965ffe981f0507533f8b6ebcb8",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-001-025.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-010",
+      "status": "pass",
+      "reviewedItemSha256": "ef65f12e004ad5bb1bc3b1e6e46b7ae76fcd2b0b8739f469631edd3dbe8e766e",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-001-025.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-011",
+      "status": "pass",
+      "reviewedItemSha256": "7492fdedd59d16b2e2a070e480ea59749afad31f9ba9d9996a4ad45b14f998b5",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-001-025.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-012",
+      "status": "pass",
+      "reviewedItemSha256": "c7c33088b609c77e8def0222f4c527f1588b1cf04e775727a5752cec47c2c3af",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-001-025.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-013",
+      "status": "pass",
+      "reviewedItemSha256": "e427f350389c9625f4bd71a333fb689682af60610c7bfe9175dc09b19ccf3f29",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-001-025.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-014",
+      "status": "pass",
+      "reviewedItemSha256": "5675735e7b68d5a5c7827b7107ce4309553b323c0136a06e22c512e34094b2bc",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-001-025.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-015",
+      "status": "pass",
+      "reviewedItemSha256": "d6965ac39210b44448ca9fa0cafd008dd564c1ecb71183080a554ff392e6bd67",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-001-025.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-016",
+      "status": "pass",
+      "reviewedItemSha256": "b626f90a2f59b49786fbcfe175770891fe0cfaf4068cde0a428193776116e266",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-001-025.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-017",
+      "status": "pass",
+      "reviewedItemSha256": "e20b81016ddd3e465e3273b929c3fe1f864e259debb6c32c7ca8adeab7429d7a",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-001-025.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-018",
+      "status": "pass",
+      "reviewedItemSha256": "e12c249a22935c2e0d8798d34a743c57e83943502b3bfc3acbb74e49a9261975",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-001-025.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-019",
+      "status": "pass",
+      "reviewedItemSha256": "b7f6011307d5b0436cb265224683dcfe5bae88bcb970520a53e4b0b16683276b",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-001-025.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-020",
+      "status": "pass",
+      "reviewedItemSha256": "d363ce1e962893aad574d65f8219e315132b952edc8e010a03ce2a9947a8d88b",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-001-025.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-021",
+      "status": "pass",
+      "reviewedItemSha256": "5d5a46403b6cbceb9b8c5c50f47b4c6d359fb823b1ebc28d0bcc16e4197fcf94",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-001-025.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-022",
+      "status": "pass",
+      "reviewedItemSha256": "887f38b1b1dfd6b511888a8795cbf911a873e07caad8f4501b487376cf542e47",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-001-025.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-023",
+      "status": "pass",
+      "reviewedItemSha256": "e891068b2c02df6ac4bde9a2d7c931bca18c9724bdd9d850e4ca3db8e5aad783",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-001-025.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-024",
+      "status": "pass",
+      "reviewedItemSha256": "9f0e8d8ac59c6cd5dcd0cefbb6ea20477b180cbf6431f8b6434b0f36f3cb3773",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-001-025.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-025",
+      "status": "pass",
+      "reviewedItemSha256": "0a855c3be5c37b1304b79d4eb53e7c00382bad09c02cc1a15bbe356d022662d4",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-001-025.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-026",
+      "status": "pass",
+      "reviewedItemSha256": "e3edb5c8dd6c869a4a27afd09b5ff1e69364872212be9fb629f25127620b98ca",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-026-050.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-027",
+      "status": "pass",
+      "reviewedItemSha256": "f4ea5963028c61dcab0bd2d180b05fea755d3586f24fb8311a6a3c85153e6566",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-026-050.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-028",
+      "status": "pass",
+      "reviewedItemSha256": "b17c17dceada804cb1a6c85b88b8c30972ef2c2e65430da8c571e37e5c248b00",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-026-050.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-029",
+      "status": "pass",
+      "reviewedItemSha256": "3497c4d5acddb14e142a8ef320ed8957ba36b7d9948d3a9c0108261334ecca1e",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-051-075-029.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-030",
+      "status": "pass",
+      "reviewedItemSha256": "54b44057c03f08017b37604a58deb089ae01be6340aff70474da23b4b757172d",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-026-050.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-031",
+      "status": "pass",
+      "reviewedItemSha256": "c421ddbd2165273bbd9fe6d35349d9fd0c99251cc3ffc13484b28065f524d53d",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-026-050.review.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-032",
+      "status": "pass",
+      "reviewedItemSha256": "208776ec32d5d2d96864ef52c970c475a65fb72120a18850884622f77043016c",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-026-050.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-033",
+      "status": "pass",
+      "reviewedItemSha256": "c64b1b435c0699447075416f3177f28d799bc591cf9491f8517873db5d41a627",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-026-050.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-034",
+      "status": "pass",
+      "reviewedItemSha256": "a14dd3d7b022a5aaa30857d4fad5f40ceaa5fd81f500c476b230efa3f6a68458",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-026-050.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-035",
+      "status": "pass",
+      "reviewedItemSha256": "18de9b07cc6efd21aa9b7802a9e0bcb5a2503adba06a951538b564f8156254ce",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-026-050.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-036",
+      "status": "pass",
+      "reviewedItemSha256": "086c7ced9d09b6b3c1b4bd8f1303ad97e4880eecec80beb6cfe4f55a3da7f4d8",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-026-050.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-037",
+      "status": "pass",
+      "reviewedItemSha256": "ca2f33aa6fb611261dd8f9186f8b39fc9e870c56e5385b6ff5a7552d329038ec",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-026-050.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-038",
+      "status": "pass",
+      "reviewedItemSha256": "5d2eebf2c357257ba6ba5fc47b3211a8445b258e93c79f80718a23fd1faffa2e",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-026-050.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-039",
+      "status": "pass",
+      "reviewedItemSha256": "95557b7683e927c020f971954e15d7fdbfbdae470dd4cd6e5866d7030beb457e",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-026-050.review.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-040",
+      "status": "pass",
+      "reviewedItemSha256": "1fdb59c5b6c1bdbfef15c20f4bb8859e397c0405b145f289d5d0d5e61605f971",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-026-050.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-041",
+      "status": "pass",
+      "reviewedItemSha256": "4f9841e9f37dd7767ccfa6ec05f7b43f8fb36f06a402d2efc4659a8f5488ea3e",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-026-050.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-042",
+      "status": "pass",
+      "reviewedItemSha256": "e6df66056c6fce63bd59e3c00f56c9796262b4e7f1640b3c30ed92311906e8da",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-026-050.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-043",
+      "status": "pass",
+      "reviewedItemSha256": "268f7e77da859125b9f5ab2afbb7bf67033cd1e45c1ade6730d91536a990b183",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-026-050.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-044",
+      "status": "pass",
+      "reviewedItemSha256": "92d48993120fe796d33c2cb1f4890dc9bdd9887879080fc2319b4a57590020e2",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-026-050.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-045",
+      "status": "pass",
+      "reviewedItemSha256": "044a97a4113ed7610403f2dfed4d83a35b134533708afdfcd67734ad4c1697fb",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-026-050.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-046",
+      "status": "pass",
+      "reviewedItemSha256": "f13c087ebf5bc33cb3fa9fb641752ad9b02efc4450455b9064b1cd9b7cea31fe",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-026-050.review.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-047",
+      "status": "pass",
+      "reviewedItemSha256": "fd1e2ec518f90d2b4be448a8de78e84676973f8cf2d75a995aa78d50fbc79381",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-026-050.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-048",
+      "status": "pass",
+      "reviewedItemSha256": "9347b0eeb38aaebff045a88ffefee8174e53bf297f53c8b485929b8a35089fda",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-026-050.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-049",
+      "status": "pass",
+      "reviewedItemSha256": "f9f9a08512af99e7ce14e4e2b3f250bf882be2b9ebc902b2fbcfb7df79311ea7",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-026-050.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-050",
+      "status": "pass",
+      "reviewedItemSha256": "a6fa0a77e87cd74d06b5021e54dc27f24dc2d942361eaf56a89630f1b2cd40ef",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-026-050.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-051",
+      "status": "pass",
+      "reviewedItemSha256": "1587cd51087eb365767713abd6fd617e362839eee7d012950e48cb5016cb33e4",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-051-075-029.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-052",
+      "status": "pass",
+      "reviewedItemSha256": "f930144c8ac8a8f9c52be8f4ff186e533c7eb3e45375dfa790a12f18d50a92ea",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-051-075-029.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-053",
+      "status": "pass",
+      "reviewedItemSha256": "15c5ac96c3ffa6e0e8b8ca1be23ef2af0b81d9e314fd7ee7b431bc48c7e3a3ca",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-051-075-029.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-054",
+      "status": "pass",
+      "reviewedItemSha256": "55da57c912cd2f0ebc1a2a26a0f72700d5ffe10c07022d66122ba1dcfef2655e",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-051-075-029.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-055",
+      "status": "pass",
+      "reviewedItemSha256": "a0a8771f0769dca72bec9867855fe56e151c263700744f74fb4140eb88517d86",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-051-075-029.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-056",
+      "status": "pass",
+      "reviewedItemSha256": "74c7b8e157ead51b239f66c5ff2eba625d66d0d2f8bd7568225cd16bcada1cbd",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-051-075-029.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-057",
+      "status": "pass",
+      "reviewedItemSha256": "1c294cb23328c68ea5cd6409598c07884981dc8ba0e9adebf36b59092c71b3b5",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-051-075-029.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-058",
+      "status": "pass",
+      "reviewedItemSha256": "6abfde078ac692979123545740c82b5e7d0b38bc19198beb11715f7180191605",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-051-075-029.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-059",
+      "status": "pass",
+      "reviewedItemSha256": "500065fcc56c932f03828fbfb81b8875e784bacc7b52d16f63ecdff902248d8e",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-051-075-029.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-060",
+      "status": "pass",
+      "reviewedItemSha256": "a3532d7fdb42672c1fd48eebf8696bcee9db7be50e0cb68da65a84918e7d169c",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-051-075-029.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-061",
+      "status": "pass",
+      "reviewedItemSha256": "1d9d709b92118652bb113072f7261324b011cb8a2d62fc83af751789b77b516f",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-051-075-029.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-062",
+      "status": "pass",
+      "reviewedItemSha256": "c03fe1e156b1fa763eaf94b147b199ae533cba7036af9cf8095412b4243105eb",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-051-075-029.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-063",
+      "status": "pass",
+      "reviewedItemSha256": "c9256ac10371af3fefc08ac3aa7070cd34594f897343187b4ef4f27a5ef9ea04",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-051-075-029.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-064",
+      "status": "pass",
+      "reviewedItemSha256": "e8b1a4574a67253544e7099528b952cc62ff43d3ed3d48ad824101ac00c15525",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-051-075-029.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-065",
+      "status": "pass",
+      "reviewedItemSha256": "c1a98df03682e42bc9417d8c97ae705cb35a691e0b72bfd88d6160a7e484c6fb",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-051-075-029.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-066",
+      "status": "pass",
+      "reviewedItemSha256": "c766392e949408eaaef11503899051900eb83404d25024dd15d3c92d966e7197",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-051-075-029.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-067",
+      "status": "pass",
+      "reviewedItemSha256": "33071527866be37954b995d7172b83940c3a7bcccf679004b7fa2d36295ee9b2",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-051-075-029.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-068",
+      "status": "pass",
+      "reviewedItemSha256": "d92964554210610e9794e099dd80cec327305ef23950c1a0c9530cf59e10805f",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-051-075-029.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-069",
+      "status": "pass",
+      "reviewedItemSha256": "4182b7388d386c3b6407fa17f22b1fb21179004b25cfd3f7fcebf011ad215082",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-051-075-029.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-070",
+      "status": "pass",
+      "reviewedItemSha256": "fdd902c24fe32aeaf8a578b0abdb0c7f1888d4cbac6f38d1f454520c379e8d25",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-051-075-029.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-071",
+      "status": "pass",
+      "reviewedItemSha256": "b06ea20aaac48808320139286330bd12982f02eaca654ea9791de43b6ef04c75",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-051-075-029.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-072",
+      "status": "pass",
+      "reviewedItemSha256": "0606243d7920d3f026121d0cc78561afc5b232fa82b35efe514f3d93e7e9ae07",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-051-075-029.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-073",
+      "status": "pass",
+      "reviewedItemSha256": "467230cffa997a9968977063a6f29a1c68c2b02d13146b161836fe77d885f00b",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-051-075-029.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-074",
+      "status": "pass",
+      "reviewedItemSha256": "1b76d0719f55f8abdb69c46401968d1b4463e0b571dccb1c04c4b9623acfd4d4",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-051-075-029.followup1.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    },
+    {
+      "id": "x-psychosocial-075",
+      "status": "pass",
+      "reviewedItemSha256": "742322251be350559360c15eeab011ed5558de1830be8f1c4dcba3668ec3a90d",
+      "reviewReport": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-b-psychosocial-075.followup2.json",
+      "reviewerTask": "/root/author_pharm_adaptation"
+    }
+  ],
+  "limitations": [
+    "Independent AI review, not external qualified-clinician or psychometric validation.",
+    "Initial076–100 review is separately recorded; final recheck ownership transferred by coordinator."
+  ]
+}

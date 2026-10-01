@@ -1,0 +1,910 @@
+[
+  {
+    "id": "x-pharmacology-176",
+    "cat": "pharmacology",
+    "title": "Isotretinoin and missed menstrual period",
+    "stem": "A 22-year-old taking oral isotretinoin reports a missed menstrual period and a condom break two weeks ago. A pregnancy test has not yet been performed. Which instruction is most appropriate now?",
+    "type": "single",
+    "options": [
+      "Stop isotretinoin and contact the prescriber today for pregnancy assessment.",
+      "Continue isotretinoin until a pregnancy test confirms the missed period's cause.",
+      "Take isotretinoin every other day while arranging the next clinic appointment.",
+      "Repeat a home pregnancy test in one week and discuss the result at follow-up."
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Possible pregnancy during isotretinoin exposure requires immediate action because of serious fetal risk; testing and counselling must be arranged promptly.",
+      "Waiting for confirmation prolongs a potentially harmful exposure; a suspected pregnancy is sufficient reason to stop and seek advice.",
+      "An unprescribed dose reduction does not address the fetal risk or the need for prompt assessment.",
+      "Testing is necessary, but this delayed plan leaves immediate medication management and possible exposure unaddressed."
+    ],
+    "takeaway": "Possible pregnancy during isotretinoin exposure requires immediate action because of serious fetal risk; testing and counselling must be arranged promptly.",
+    "refs": [
+      "b-isotretinoin"
+    ],
+    "exhibit": null,
+    "subtopic": "medicines across the lifespan",
+    "learningObjective": "Recognize a possible pregnancy during isotretinoin therapy as requiring immediate interruption and prescriber contact.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-177",
+    "cat": "pharmacology",
+    "title": "Pregnancy planning with epilepsy",
+    "stem": "A client whose epilepsy has been controlled with valproate for three years wants to become pregnant in six months. They are using reliable contraception and have not changed treatment. Which counselling points should the nurse include? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Continue the current seizure medicine until an individualized change is prescribed.",
+      "Discuss contraception and folic acid with the prescribing team.",
+      "Reduce the valproate dose once the first menstrual period is missed.",
+      "Use a normal ultrasound result to decide whether medication review is needed.",
+      "Arrange a preconception medication review with the epilepsy specialist."
+    ],
+    "answer": [
+      0,
+      1,
+      4
+    ],
+    "why": [
+      "Abrupt withdrawal can precipitate seizures, so treatment changes require a supervised plan.",
+      "Pregnancy prevention during the review and an individualized supplementation plan are relevant parts of preconception counselling.",
+      "A self-directed reduction after possible conception is both late for prevention and potentially destabilizing for seizure control.",
+      "A later ultrasound cannot replace preconception risk assessment or exclude every medication-related developmental risk.",
+      "Valproate has substantial fetal risks; a planned review permits consideration of safer effective treatment before pregnancy."
+    ],
+    "takeaway": "Valproate has substantial fetal risks; a planned review permits consideration of safer effective treatment before pregnancy.",
+    "refs": [
+      "b-valproate",
+      "b-cns"
+    ],
+    "exhibit": null,
+    "subtopic": "medicines across the lifespan",
+    "learningObjective": "Support specialist review of valproate before conception while protecting against abrupt loss of seizure control.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-178",
+    "cat": "pharmacology",
+    "title": "Breastfeeding medication assessment",
+    "stem": "A breastfeeding parent asks whether a newly prescribed medicine is compatible with feeding. Their infant was born at 30 weeks and is now three weeks old. The parent has not yet taken the first dose. Which approach best supports a safe recommendation?",
+    "type": "single",
+    "options": [
+      "Recommend taking the dose immediately after a feed to minimize the next milk concentration.",
+      "Use the medicine's low adult dose as the main reason to continue breastfeeding.",
+      "Review the exact drug and dose with pharmacy using the infant's gestational and postnatal ages.",
+      "Base advice on whether the medicine was considered acceptable during pregnancy."
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Dose timing can help for selected drugs but cannot establish compatibility, especially when feeding intervals and drug half-life vary.",
+      "An adult dose alone does not establish infant exposure, absorption or clearance; drug-specific review is required.",
+      "A premature infant may clear drugs less effectively; compatibility depends on the specific exposure and infant vulnerability.",
+      "Placental exposure and transfer through milk are different, and pregnancy advice does not establish safety for this premature infant."
+    ],
+    "takeaway": "A premature infant may clear drugs less effectively; compatibility depends on the specific exposure and infant vulnerability.",
+    "refs": [
+      "b-lactation"
+    ],
+    "exhibit": null,
+    "subtopic": "medicines across the lifespan",
+    "learningObjective": "Identify infant maturity and the actual medicine exposure as essential to individualized lactation advice.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-179",
+    "cat": "pharmacology",
+    "title": "Current weight and pediatric dose",
+    "stem": "A child weighed 18 kg six months ago and weighs 23 kg on today's calibrated scale. A new weight-based antibiotic order was calculated using the older weight. The child is stable and the first dose is due in one hour. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Administer the ordered dose because the previous weight produces a smaller amount.",
+      "Recalculate and administer from today's weight using the old mg/kg instruction.",
+      "Repeat today's weight on a second scale to decide whether clarification is needed.",
+      "Ask the prescriber and pharmacist to verify the order using the current weight."
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "A smaller dose is not automatically appropriate and may undertreat infection.",
+      "The nurse should not independently replace a questioned prescription; the intended authorized dose needs clarification.",
+      "The current calibrated measurement already establishes a meaningful discrepancy; reweighing may verify it but does not resolve an order intentionally based on old data.",
+      "The confirmed weight discrepancy may affect safety and effectiveness, so the authorized dose should be resolved before the first administration."
+    ],
+    "takeaway": "The confirmed weight discrepancy may affect safety and effectiveness, so the authorized dose should be resolved before the first administration.",
+    "refs": [
+      "bcmed"
+    ],
+    "exhibit": null,
+    "subtopic": "pediatric medication verification",
+    "learningObjective": "Resolve a clinically important discrepancy in the weight used for a pediatric medication order.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-180",
+    "cat": "pharmacology",
+    "title": "Salicylate choice during viral illness",
+    "stem": "A parent plans to give a 10-year-old with influenza an over-the-counter headache powder. The label lists acetylsalicylic acid. The child has no specialist-prescribed aspirin therapy. Which response is best?",
+    "type": "single",
+    "options": [
+      "Avoid this product and ask about a suitable non-salicylate fever medicine.",
+      "Use the children's dose printed on another acetylsalicylic acid product.",
+      "Give the powder with food to reduce the most relevant risk.",
+      "Choose an enteric-coated aspirin tablet instead of the powder."
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Aspirin use during viral illness in children is associated with Reye syndrome; the ingredient, not the powder format, determines the concern.",
+      "Reducing the amount does not remove the viral-illness precaution for this child.",
+      "Food may reduce gastric discomfort but does not prevent Reye syndrome.",
+      "Changing the coating does not remove systemic salicylate exposure or its viral-illness risk."
+    ],
+    "takeaway": "Aspirin use during viral illness in children is associated with Reye syndrome; the ingredient, not the powder format, determines the concern.",
+    "refs": [
+      "b-reye"
+    ],
+    "exhibit": null,
+    "subtopic": "pediatric medication precautions",
+    "learningObjective": "Recognize an aspirin-containing product as inappropriate self-treatment for a child's viral illness.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-181",
+    "cat": "pharmacology",
+    "title": "Oxytocin and uterine overstimulation",
+    "stem": "A nurse with obstetric competence is monitoring oxytocin. The supplied local protocol says to reduce the rate for excessive contraction frequency with a reassuring fetal heart pattern, and stop oxytocin if excessive activity accompanies fetal deterioration. There are seven contractions per 10 minutes averaged over 30 minutes, little relaxation, and a new prolonged fetal deceleration. Which pump action is indicated while the team responds?",
+    "type": "single",
+    "options": [
+      "Pause during the next contraction and resume with relaxation.",
+      "Stop the oxytocin infusion.",
+      "Reduce the oxytocin infusion to half its current rate.",
+      "Maintain the current rate during a cervical examination."
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Intermittent cycling is neither of the protocol's responses and does not reliably reverse overstimulation.",
+      "The excessive activity is accompanied by fetal deterioration, meeting the stopping branch of the supplied protocol.",
+      "Rate reduction corresponds to the protocol's reassuring-fetal-pattern branch, which does not describe this client.",
+      "The observations already meet the specified stopping criterion; a cervical examination should not postpone the pump action."
+    ],
+    "takeaway": "The excessive activity is accompanied by fetal deterioration, meeting the stopping branch of the supplied protocol.",
+    "refs": [
+      "b-oxytocin"
+    ],
+    "exhibit": null,
+    "subtopic": "obstetric medicines",
+    "learningObjective": "Interrupt oxytocin when excessive uterine activity accompanies fetal deterioration under the established response protocol.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-182",
+    "cat": "pharmacology",
+    "title": "Ergometrine and hypertension",
+    "stem": "A postpartum client is bleeding from uterine atony despite first-line measures. The obstetric team is at the bedside. Blood pressure is 174/112 mmHg, and an order for ergometrine is received. Which response is most appropriate?",
+    "type": "single",
+    "options": [
+      "Request the same ergometrine dose by a slower route.",
+      "Request a reduced ergometrine dose because the pressure is high.",
+      "Raise the severe hypertension and request an alternative uterotonic.",
+      "Administer ergometrine and repeat pressure after bleeding slows."
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Changing administration speed does not remove the systemic vasoconstrictive risk.",
+      "A dose-reduction proposal does not by itself resolve a severe-hypertension contraindication; an appropriate alternative is needed.",
+      "Ergometrine can worsen severe hypertension, so the team should urgently review the drug choice while haemorrhage treatment continues.",
+      "Monitoring after exposure does not address the severe hypertension already present."
+    ],
+    "takeaway": "Ergometrine can worsen severe hypertension, so the team should urgently review the drug choice while haemorrhage treatment continues.",
+    "refs": [
+      "b-uterotonics"
+    ],
+    "exhibit": null,
+    "subtopic": "obstetric medicines",
+    "learningObjective": "Use maternal blood pressure and medication properties to identify a uterotonic order requiring urgent clarification.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-183",
+    "cat": "pharmacology",
+    "title": "Carboprost and respiratory history",
+    "stem": "A postpartum client has ongoing uterine atony, and carboprost is being considered. Which history should the nurse communicate most urgently before administration?",
+    "type": "single",
+    "options": [
+      "Gestational diabetes controlled with nutrition during pregnancy.",
+      "Iron-deficiency anemia treated with oral iron during pregnancy.",
+      "Gastroesophageal reflux managed with occasional antacid tablets.",
+      "Asthma requiring a rescue inhaler several times this month."
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "This matters to overall care but is not the major carboprost-related risk presented by these histories.",
+      "Anemia increases the consequence of blood loss but does not create the drug-specific bronchospasm risk.",
+      "Reflux may influence comfort and aspiration assessment but is less relevant to carboprost selection than asthma.",
+      "Carboprost may provoke bronchospasm; active asthma is important when the team chooses a uterotonic."
+    ],
+    "takeaway": "Carboprost may provoke bronchospasm; active asthma is important when the team chooses a uterotonic.",
+    "refs": [
+      "b-uterotonics-asthma"
+    ],
+    "exhibit": null,
+    "subtopic": "obstetric medicines",
+    "learningObjective": "Identify asthma as a clinically important precaution when selecting treatment for uterine atony.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-184",
+    "cat": "pharmacology",
+    "title": "Postpartum Rh immune globulin purpose",
+    "stem": "An Rh-negative postpartum client has a negative antibody screen and an Rh-positive newborn. Rh immune globulin is prescribed. The client asks why they need it when this newborn is well. Which explanation is best?",
+    "type": "single",
+    "options": [
+      "It helps prevent you from forming anti-D after exposure to the baby's red cells.",
+      "It removes anti-D that your body has already formed.",
+      "It treats anemia that the newborn developed during pregnancy.",
+      "It prevents incompatibility from any future difference in blood group."
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "The aim is to prevent sensitization in an unsensitized Rh-negative parent, reducing risk to a future Rh-positive pregnancy.",
+      "Rh immune globulin does not reverse established sensitization; the negative antibody screen is relevant to prevention.",
+      "The postpartum maternal dose prevents sensitization rather than treating current newborn anemia.",
+      "Anti-D prophylaxis addresses RhD sensitization, not every possible maternal-fetal blood-group incompatibility."
+    ],
+    "takeaway": "The aim is to prevent sensitization in an unsensitized Rh-negative parent, reducing risk to a future Rh-positive pregnancy.",
+    "refs": [
+      "b-rh-immunoglobulin"
+    ],
+    "exhibit": null,
+    "subtopic": "obstetric medicines",
+    "learningObjective": "Explain preventive Rh immune globulin to an unsensitized Rh-negative parent after an Rh-positive birth.",
+    "reasoningSkill": "teaching",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-185",
+    "cat": "pharmacology",
+    "title": "Tacrolimus and grapefruit routine",
+    "stem": "A kidney-transplant recipient taking tacrolimus twice daily plans to drink grapefruit juice at lunch, six hours after the morning dose. Which instruction should the nurse give?",
+    "type": "single",
+    "options": [
+      "Choose whole grapefruit instead of juice to reduce the interaction.",
+      "Avoid grapefruit and check alternative juice choices with the transplant team.",
+      "Keep grapefruit at lunch and move the evening tacrolimus dose later.",
+      "Use the same amount of grapefruit each day so the prescribed dose remains effective."
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "The interacting substances can also be present in the fruit, so changing its form does not establish safety.",
+      "Grapefruit can increase tacrolimus exposure through effects that outlast a single meal, so separating the doses does not reliably prevent toxicity.",
+      "A longer gap does not reliably prevent the metabolic interaction.",
+      "Consistent intake is not a substitute for the transplant team's avoidance advice and therapeutic monitoring."
+    ],
+    "takeaway": "Grapefruit can increase tacrolimus exposure through effects that outlast a single meal, so separating the doses does not reliably prevent toxicity.",
+    "refs": [
+      "b-tacrolimus"
+    ],
+    "exhibit": null,
+    "subtopic": "immunosuppressive medicines",
+    "learningObjective": "Recognize that separating grapefruit and tacrolimus by a few hours does not reliably prevent the interaction.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-186",
+    "cat": "pharmacology",
+    "title": "Vaccination during immunosuppression",
+    "stem": "A transplant recipient receiving tacrolimus and prednisone asks about measles-mumps-rubella vaccine and the inactivated influenza injection. Which responses are appropriate? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Treat the live and inactivated vaccines as having the same infection risk.",
+      "Use a reduced live-vaccine dose to make routine administration safer.",
+      "Have the transplant team review the live MMR vaccine before it is given.",
+      "Discuss receiving the inactivated influenza vaccine according to the transplant schedule.",
+      "Explain that immunosuppression may reduce the vaccine's protective response."
+    ],
+    "answer": [
+      2,
+      3,
+      4
+    ],
+    "why": [
+      "The ability of a live vaccine to replicate is a meaningful distinction for this recipient.",
+      "Dose reduction is not a substitute for evaluating whether a live vaccine is appropriate during immunosuppression.",
+      "Live vaccines may cause disease during significant immunosuppression and require specialist assessment.",
+      "Inactivated vaccines cannot replicate, although timing and immune response require consideration.",
+      "Reduced immune response can occur even when an inactivated vaccine is appropriate, so additional prevention measures may remain important."
+    ],
+    "takeaway": "Live vaccines may cause disease during significant immunosuppression and require specialist assessment.",
+    "refs": [
+      "b-immunization-immunocompromised"
+    ],
+    "exhibit": null,
+    "subtopic": "immunosuppressive medicines",
+    "learningObjective": "Distinguish live-vaccine precautions from inactivated-vaccine planning for an immunocompromised client.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-187",
+    "cat": "pharmacology",
+    "title": "Latent tuberculosis before biologic therapy",
+    "stem": "A client with rheumatoid arthritis feels well and is scheduled to start a tumour necrosis factor inhibitor. They ask why tuberculosis screening was ordered when they have no cough. Which explanation is best?",
+    "type": "single",
+    "options": [
+      "It creates a comparison result for any future TB exposure.",
+      "It determines whether current joint symptoms are an active lung infection.",
+      "It establishes which childhood vaccines were received.",
+      "It identifies latent infection that the medicine could reactivate."
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "A baseline can be useful, but the immediate purpose is to address infection already present before immunosuppression.",
+      "The asymptomatic screening is not a test that reclassifies the arthritis as pulmonary disease.",
+      "TB screening does not reconstruct the vaccination record or replace an immunization history.",
+      "TB may be present without cough or other symptoms; identifying it permits a prevention or treatment plan before TNF inhibition."
+    ],
+    "takeaway": "TB may be present without cough or other symptoms; identifying it permits a prevention or treatment plan before TNF inhibition.",
+    "refs": [
+      "b-biologic-tb"
+    ],
+    "exhibit": null,
+    "subtopic": "immunosuppressive medicines",
+    "learningObjective": "Explain why tuberculosis screening matters before tumour necrosis factor inhibitor therapy.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-188",
+    "cat": "pharmacology",
+    "title": "Fever during neutropenic nadir",
+    "stem": "Eight days after chemotherapy, a client calls with a temperature of 38.3°C and chills. Today's neutrophil count is 0.3 × 10⁹/L (reference 1.5–7.5). The oncology plan says a single temperature of 38.0°C or higher requires immediate assessment. What should the nurse advise?",
+    "type": "single",
+    "options": [
+      "Follow the emergency assessment plan now and identify recent chemotherapy.",
+      "Take the prescribed acetaminophen and call back if chills persist after one hour.",
+      "Recheck the temperature using a different thermometer before choosing where to seek care.",
+      "Contact the clinic at its next opening to arrange a repeat neutrophil count."
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "The fever meets the supplied threshold, and profound neutropenia permits serious infection to progress with few localizing signs.",
+      "Antipyresis does not address potential neutropenic infection and would delay the required assessment.",
+      "The existing reading and symptoms already meet the explicit action threshold; confirmation must not postpone care.",
+      "A repeat count later does not resolve the immediate infection concern during profound neutropenia."
+    ],
+    "takeaway": "The fever meets the supplied threshold, and profound neutropenia permits serious infection to progress with few localizing signs.",
+    "refs": [
+      "b-oncology-fever"
+    ],
+    "exhibit": null,
+    "subtopic": "antineoplastic medicines",
+    "learningObjective": "Apply a supplied fever threshold to a chemotherapy client with profound neutropenia.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-189",
+    "cat": "pharmacology",
+    "title": "Rectal medication during marrow suppression",
+    "stem": "A chemotherapy client has constipation, neutrophils 0.4 × 10⁹/L (reference 1.5–7.5) and platelets 22 × 10⁹/L (reference 150–400). A bisacodyl suppository is prescribed. The abdomen is soft, and there is no vomiting or severe pain. Which action is best?",
+    "type": "single",
+    "options": [
+      "Perform a digital rectal examination to guide the bowel treatment.",
+      "Request a suitable non-rectal bowel regimen.",
+      "Lubricate the suppository generously and insert it gently.",
+      "Substitute a small-volume enema for the suppository."
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "This introduces the same trauma and infection concern; an invasive rectal assessment is not the best initial response here.",
+      "Marked neutropenia and thrombocytopenia increase infection and bleeding risks from mucosal injury; the benign abdomen permits clarification of a safer route.",
+      "Gentler technique does not remove the concern about rectal mucosal trauma with these blood counts.",
+      "An enema still uses rectal instrumentation and may injure vulnerable mucosa."
+    ],
+    "takeaway": "Marked neutropenia and thrombocytopenia increase infection and bleeding risks from mucosal injury; the benign abdomen permits clarification of a safer route.",
+    "refs": [
+      "b-oncology-neutropenia"
+    ],
+    "exhibit": null,
+    "subtopic": "antineoplastic medicines",
+    "learningObjective": "Question a traumatic administration route when chemotherapy has caused neutropenia and thrombocytopenia.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-190",
+    "cat": "pharmacology",
+    "title": "Handling oral antineoplastic tablets",
+    "stem": "A client's partner will help give an oral antineoplastic tablet. Pharmacy instructions for this product specify swallowing tablets whole and keeping them in the original container. Which directions should the nurse reinforce? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Follow the pharmacy's glove instructions when another person handles tablets.",
+      "Contact the pharmacy about a broken tablet.",
+      "Wash hands after handling the container or removing gloves.",
+      "Crush a difficult-to-swallow tablet inside a sealed food container.",
+      "Transfer tablets into the shared weekly organizer with other medicines."
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "why": [
+      "Caregiver handling precautions reduce unnecessary skin exposure to hazardous medicine.",
+      "A damaged tablet may release powder and cannot be assumed suitable for use or further division.",
+      "Hand hygiene reduces transfer of possible residues to other surfaces.",
+      "Crushing conflicts with the whole-tablet instruction and may release hazardous particles; swallowing problems need pharmacy review.",
+      "This conflicts with this product's original-container instructions and can increase exposure or mix-up risk."
+    ],
+    "takeaway": "Caregiver handling precautions reduce unnecessary skin exposure to hazardous medicine.",
+    "refs": [
+      "b-oral-cancer-medicines"
+    ],
+    "exhibit": null,
+    "subtopic": "antineoplastic medicines",
+    "learningObjective": "Apply home handling precautions to intact oral cancer medication and damaged tablets.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-191",
+    "cat": "pharmacology",
+    "title": "Oral suspension volume",
+    "stem": "This is a calculation-only task: the child's amoxicillin prescription has been clinically verified as 450 mg orally every 12 hours for 7 days. The suspension contains 400 mg per 5 mL. What volume is needed for one dose, rounded to the nearest 0.1 mL?",
+    "type": "single",
+    "options": [
+      "5.0 mL",
+      "11.3 mL",
+      "0.9 mL",
+      "5.6 mL"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "5 mL provides 400 mg, so it does not contain the prescribed 450 mg dose.",
+      "This approximates the combined volume for two doses, not one administration.",
+      "This result does not account correctly for the 5 mL concentration volume and would provide far less than 450 mg.",
+      "450 mg × 5 mL ÷ 400 mg = 5.625 mL, which rounds to 5.6 mL."
+    ],
+    "takeaway": "450 mg × 5 mL ÷ 400 mg = 5.625 mL, which rounds to 5.6 mL.",
+    "refs": [
+      "bcmed"
+    ],
+    "exhibit": [
+      [
+        "Verified order",
+        "Amoxicillin 450 mg orally every 12 hours for 7 days"
+      ],
+      [
+        "Supplied suspension",
+        "400 mg per 5 mL"
+      ],
+      [
+        "Requested result",
+        "mL for one dose; nearest 0.1 mL"
+      ]
+    ],
+    "subtopic": "medication calculation",
+    "learningObjective": "Convert a prescribed milligram dose into millilitres and round only the final volume.",
+    "reasoningSkill": "calculation",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-192",
+    "cat": "pharmacology",
+    "title": "Two-stage preparation and pump rate",
+    "stem": "This is a calculation-only task with a verified order: cefazolin 1.2 g IV every 8 hours, each dose infused over 45 minutes. The reconstituted vial contains 100 mg/mL. Pharmacy instructions require dilution to a final total volume of 60 mL. Which withdrawal volume and pump rate are correct?",
+    "type": "single",
+    "options": [
+      "Withdraw 12 mL; set the pump to 80 mL/h.",
+      "Withdraw 12 mL; set the pump to 16 mL/h.",
+      "Withdraw 1.2 mL; set the pump to 80 mL/h.",
+      "Withdraw 12 mL; set the pump to 96 mL/h."
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "1.2 g = 1200 mg; 1200 ÷ 100 = 12 mL. The final 60 mL divided by 0.75 hour gives 80 mL/h.",
+      "The withdrawal volume is correct, but 16 mL/h uses the 12 mL concentrate instead of the final 60 mL volume.",
+      "The rate matches the final volume, but the withdrawal misses the gram-to-milligram conversion and gives one tenth of the dose.",
+      "The final volume already includes the withdrawn drug; adding another 12 mL incorrectly produces a 72 mL calculation."
+    ],
+    "takeaway": "1.2 g = 1200 mg; 1200 ÷ 100 = 12 mL. The final 60 mL divided by 0.75 hour gives 80 mL/h.",
+    "refs": [
+      "bcmed"
+    ],
+    "exhibit": [
+      [
+        "Verified order",
+        "Cefazolin 1.2 g IV every 8 hours"
+      ],
+      [
+        "Reconstituted concentration",
+        "100 mg/mL"
+      ],
+      [
+        "Final diluted dose volume",
+        "60 mL"
+      ],
+      [
+        "Infusion duration",
+        "45 minutes"
+      ]
+    ],
+    "subtopic": "medication calculation",
+    "learningObjective": "Keep reconstituted withdrawal volume separate from final diluted infusion volume when calculating a pump rate.",
+    "reasoningSkill": "calculation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-193",
+    "cat": "pharmacology",
+    "title": "Weight-based infusion conversion",
+    "stem": "For this calculation-only task, a verified heparin protocol orders a continuous IV infusion of 18 units/kg/hour for a client weighing 75 kg. The bag contains 25,000 units in a final volume of 250 mL. No bolus is part of this calculation. What pump rate is required, rounded to the nearest 0.1 mL/hour?",
+    "type": "single",
+    "options": [
+      "135.0 mL/hour",
+      "13.5 mL/hour",
+      "1.4 mL/hour",
+      "18.0 mL/hour"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "This rate is ten times the required volume and would deliver 13,500 units/hour from the stated bag.",
+      "18 × 75 = 1350 units/hour; the concentration is 100 units/mL, so 1350 ÷ 100 = 13.5 mL/hour.",
+      "This introduces a tenfold concentration error; at the actual concentration it would deliver about one tenth of the ordered amount.",
+      "18 is the weight-based units rate, not the volume rate; the client's weight and bag concentration must both be included."
+    ],
+    "takeaway": "18 × 75 = 1350 units/hour; the concentration is 100 units/mL, so 1350 ÷ 100 = 13.5 mL/hour.",
+    "refs": [
+      "bcmed"
+    ],
+    "exhibit": [
+      [
+        "Weight",
+        "75 kg"
+      ],
+      [
+        "Verified continuous order",
+        "Heparin 18 units/kg/hour; no bolus in this task"
+      ],
+      [
+        "Prepared bag",
+        "25,000 units in a final 250 mL"
+      ],
+      [
+        "Requested result",
+        "mL/hour; nearest 0.1"
+      ]
+    ],
+    "subtopic": "medication calculation",
+    "learningObjective": "Convert a verified units-per-kilogram-per-hour infusion order into millilitres per hour.",
+    "reasoningSkill": "calculation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-194",
+    "cat": "pharmacology",
+    "title": "Gravity infusion rate",
+    "stem": "For a calculation-only exercise, the verified order is 500 mL of 0.9% sodium chloride IV over 4 hours using gravity tubing labelled 15 drops/mL. What rate, rounded to the nearest whole drop per minute, corresponds to that order?",
+    "type": "single",
+    "options": [
+      "21 drops/minute",
+      "63 drops/minute",
+      "31 drops/minute",
+      "125 drops/minute"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "This result does not use the stated 15 drops/mL factor correctly and would underdeliver the ordered volume.",
+      "This approximately doubles the correct rate, corresponding to about a two-hour delivery instead of four hours.",
+      "500 × 15 ÷ 240 minutes = 31.25 drops/minute, rounded to 31.",
+      "125 is the volume in mL/hour; it is not the drop rate for this tubing."
+    ],
+    "takeaway": "500 × 15 ÷ 240 minutes = 31.25 drops/minute, rounded to 31.",
+    "refs": [
+      "bcmed"
+    ],
+    "exhibit": [
+      [
+        "Verified fluid order",
+        "0.9% sodium chloride 500 mL IV over 4 hours"
+      ],
+      [
+        "Tubing factor",
+        "15 drops/mL"
+      ],
+      [
+        "Requested result",
+        "Nearest whole drop/minute"
+      ]
+    ],
+    "subtopic": "medication calculation",
+    "learningObjective": "Convert a verified fluid volume and duration into whole drops per minute using the tubing factor.",
+    "reasoningSkill": "calculation",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-195",
+    "cat": "pharmacology",
+    "title": "Acetaminophen across two products",
+    "stem": "A client has received four scheduled doses of acetaminophen 650 mg orally every 6 hours and one PRN combination tablet containing oxycodone 5 mg/acetaminophen 325 mg in the current rolling 24 hours. The combination is ordered one tablet orally every 4 hours PRN moderate pain. Another tablet is now requested and its interval is met, but the care plan limits total acetaminophen to 3000 mg in any 24 hours. Which calculation and action are correct?",
+    "type": "single",
+    "options": [
+      "The proposed total is 2925 mg; give the requested tablet within the interval.",
+      "The proposed total is 2600 mg; give the requested tablet within the interval.",
+      "The proposed total is 3900 mg; clarify the analgesia plan before giving the tablet.",
+      "The proposed total is 3250 mg; clarify the analgesia plan before giving the tablet."
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "2925 mg is the amount already received; the requested tablet adds another 325 mg.",
+      "This counts only scheduled acetaminophen and omits the same ingredient in both combination tablets.",
+      "Clarification is warranted, but 3900 mg overcounts the actual listed doses and misrepresents the medication history.",
+      "Four doses give 2600 mg and two combination tablets give 650 mg; 3250 mg exceeds this client's explicit 3000 mg limit."
+    ],
+    "takeaway": "Four doses give 2600 mg and two combination tablets give 650 mg; 3250 mg exceeds this client's explicit 3000 mg limit.",
+    "refs": [
+      "bcmed",
+      "b-analgesia"
+    ],
+    "exhibit": [
+      [
+        "Current 24-hour scheduled doses",
+        "Acetaminophen 650 mg × 4"
+      ],
+      [
+        "Current 24-hour combination tablets",
+        "One tablet containing acetaminophen 325 mg"
+      ],
+      [
+        "Proposed PRN dose",
+        "One additional combination tablet containing acetaminophen 325 mg"
+      ],
+      [
+        "Individualized total limit",
+        "3000 mg in any rolling 24 hours"
+      ]
+    ],
+    "subtopic": "medication calculation",
+    "learningObjective": "Calculate the projected 24-hour acetaminophen total before giving a combination analgesic.",
+    "reasoningSkill": "calculation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-196",
+    "cat": "pharmacology",
+    "title": "Accounting for ordered fluid volumes",
+    "stem": "For this calculation-only exercise, a 24-hour plan limits total intake to 1200 mL. Parenteral nutrition is prescribed continuously at 40 mL/hour; two IV medication doses each have a final volume of 50 mL; six line flushes each contain 10 mL. These are the entire planned IV intake. How much remains for oral intake and other fluids during the same 24 hours?",
+    "type": "single",
+    "options": [
+      "80 mL",
+      "140 mL",
+      "240 mL",
+      "180 mL"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Parenteral nutrition supplies 960 mL, medications 100 mL and flushes 60 mL: 1120 mL total. The remaining allowance is 1200 − 1120 = 80 mL.",
+      "This subtracts nutrition and medication volumes but omits the 60 mL of flushes.",
+      "This subtracts nutrition alone and omits both medication carriers and line flushes.",
+      "This omits the two 50 mL medication doses from the total intake calculation."
+    ],
+    "takeaway": "Parenteral nutrition supplies 960 mL, medications 100 mL and flushes 60 mL: 1120 mL total. The remaining allowance is 1200 − 1120 = 80 mL.",
+    "refs": [
+      "b-parenteral-nutrition"
+    ],
+    "exhibit": [
+      [
+        "24-hour intake limit",
+        "1200 mL"
+      ],
+      [
+        "Parenteral nutrition",
+        "40 mL/hour for 24 hours"
+      ],
+      [
+        "Medication volumes",
+        "Two doses × 50 mL final volume"
+      ],
+      [
+        "Flushes",
+        "Six × 10 mL"
+      ]
+    ],
+    "subtopic": "medication calculation",
+    "learningObjective": "Include parenteral nutrition, medication carriers and flushes in a prescribed daily fluid allowance.",
+    "reasoningSkill": "calculation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-197",
+    "cat": "pharmacology",
+    "title": "Two insulin formulations in one syringe",
+    "stem": "A client has verified orders for insulin glargine subcutaneously once daily and insulin lispro subcutaneously with meals. At breakfast both are due. The client asks the nurse to combine them in one syringe to reduce injections. What is the best response?",
+    "type": "single",
+    "options": [
+      "Ask to move all of the lispro to the evening glargine administration time.",
+      "Give the two prescribed formulations as separate injections.",
+      "Draw lispro first and then add glargine to the same syringe.",
+      "Mix the two insulins immediately before administration and inject promptly."
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Lispro is intended for mealtime coverage; changing its timing would not solve the mixing restriction and may leave breakfast uncovered.",
+      "Insulin glargine must not be mixed with other insulins; separate administration preserves the product's intended action.",
+      "Drawing short-acting insulin first is relevant to some compatible combinations, but it does not make glargine compatible for mixing.",
+      "Immediate use does not remove the formulation incompatibility."
+    ],
+    "takeaway": "Insulin glargine must not be mixed with other insulins; separate administration preserves the product's intended action.",
+    "refs": [
+      "b-glargine"
+    ],
+    "exhibit": null,
+    "subtopic": "insulin preparations",
+    "learningObjective": "Distinguish a verified two-insulin regimen from permission to mix its formulations.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-198",
+    "cat": "pharmacology",
+    "title": "Jaw wound during bisphosphonate therapy",
+    "stem": "An older adult taking alendronate weekly reports jaw pain and a nonhealing gum wound three weeks after a tooth extraction. They can swallow normally and have no heartburn. Which concern should the nurse communicate to the dental and prescribing teams?",
+    "type": "single",
+    "options": [
+      "A local dental infection considered unrelated to the medicine.",
+      "A calcium deficit suitable for increased home supplementation.",
+      "A possible medication-associated problem with jaw healing.",
+      "Esophageal irritation from the weekly alendronate tablet."
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Local infection is a possible contributor, but the bisphosphonate exposure must be included rather than prematurely treated as irrelevant.",
+      "A supplement change does not evaluate the local wound or exclude a significant jaw complication.",
+      "Persistent jaw pain and a nonhealing extraction site warrant dental and prescribing-team assessment; the nurse should not claim osteonecrosis is established from this history alone.",
+      "Esophageal injury causes swallowing or retrosternal symptoms rather than a focal nonhealing gum wound."
+    ],
+    "takeaway": "Persistent jaw pain and a nonhealing extraction site warrant dental and prescribing-team assessment; the nurse should not claim osteonecrosis is established from this history alone.",
+    "refs": [
+      "b-alendronate"
+    ],
+    "exhibit": null,
+    "subtopic": "bone medicines",
+    "learningObjective": "Recognize persistent jaw symptoms after dental work as a reportable bisphosphonate complication.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-199",
+    "cat": "pharmacology",
+    "title": "Opioid effect on breathlessness",
+    "stem": "A client with advanced disease has a comfort-focused plan and prescribed low-dose oral morphine for refractory breathlessness after reversible contributors were assessed. Thirty minutes after a dose, the client says breathing feels easier and can speak with family; respiratory rate is 18/minute and they are readily alert. Which interpretation is best?",
+    "type": "single",
+    "options": [
+      "The dose has been ineffective because oxygen saturation has not increased.",
+      "The improvement mainly shows that morphine has corrected the underlying lung disease.",
+      "The respiratory rate must fall below the usual range before benefit is established.",
+      "The dose has reduced breathlessness with no current sign of excessive sedation."
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Opioids may reduce the sensation of breathlessness without changing oxygen saturation; comfort and safety are key evaluation measures.",
+      "The medicine provides symptom relief; it does not reverse the underlying advanced disease.",
+      "A lower-than-normal respiratory rate is not a treatment target; excessive respiratory depression would be an adverse effect.",
+      "The client's reduced distress and preserved alertness support the intended symptom benefit; ongoing monitoring remains necessary."
+    ],
+    "takeaway": "The client's reduced distress and preserved alertness support the intended symptom benefit; ongoing monitoring remains necessary.",
+    "refs": [
+      "b-palliative-dyspnea"
+    ],
+    "exhibit": null,
+    "subtopic": "palliative medicines",
+    "learningObjective": "Evaluate prescribed palliative opioid therapy using distress and function as well as respiratory safety.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-200",
+    "cat": "pharmacology",
+    "title": "Disintegrating tablet and aspiration risk",
+    "stem": "A client with a new stroke is awaiting a swallowing assessment and has an order to remain NPO, including medicines. An orally disintegrating antiemetic has been prescribed. The product dissolves on the tongue and is then swallowed with saliva. The client is nauseated but has not vomited. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Clarify a suitable non-oral route while the swallowing restriction remains in effect.",
+      "Place the tablet on the tongue because no drinking water is required.",
+      "Crush the tablet into a small amount of thickened fluid.",
+      "Give the tablet during a period when the client is fully awake."
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Dissolving in the mouth does not bypass swallowing or aspiration risk for this product; the route conflicts with the current restriction.",
+      "Water is not the deciding issue; the dissolved medicine and saliva still must be swallowed safely.",
+      "Changing texture does not replace the pending assessment or the explicit NPO order, and the formulation needs no crushing.",
+      "Alertness is helpful but does not by itself establish safe swallowing after a stroke."
+    ],
+    "takeaway": "Dissolving in the mouth does not bypass swallowing or aspiration risk for this product; the route conflicts with the current restriction.",
+    "refs": [
+      "bcmed"
+    ],
+    "exhibit": null,
+    "subtopic": "oral formulations and swallowing",
+    "learningObjective": "Recognize that an orally disintegrating formulation does not bypass the need for safe swallowing.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  }
+]

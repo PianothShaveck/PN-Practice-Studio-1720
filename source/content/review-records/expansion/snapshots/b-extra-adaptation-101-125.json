@@ -1,0 +1,807 @@
+[
+  {
+    "id": "x-adaptation-101",
+    "cat": "adaptation",
+    "title": "Stabilize before a bleeding investigation",
+    "stem": "A 67-year-old vomits dark granular material and becomes dizzy on sitting. BP is 86/52 mmHg and pulse 124/min. A stool specimen and an endoscopy request are pending. Which action should the practical nurse prioritize?",
+    "type": "single",
+    "options": [
+      "Obtain the stool specimen to establish whether bleeding is ongoing",
+      "Activate urgent assistance and begin circulatory support under protocol",
+      "Complete the endoscopy checklist so the procedure can proceed",
+      "Ask about recent iron use to explain the dark material"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "A specimen can inform investigation, but the current observations already indicate impaired circulation.",
+      "Hypotension, tachycardia and positional dizziness require immediate stabilization and escalation while the cause is investigated.",
+      "Preparation is important after urgent physiological needs are addressed.",
+      "Medication history may explain colour, but cannot safely explain away this haemodynamic pattern."
+    ],
+    "takeaway": "Physiological instability determines urgency before a definitive bleeding investigation.",
+    "refs": [
+      "ba-uppergi"
+    ],
+    "exhibit": null,
+    "subtopic": "GI haemorrhage stabilization",
+    "learningObjective": "Physiological instability determines urgency before a definitive bleeding investigation.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-102",
+    "cat": "adaptation",
+    "title": "Look for encephalopathy precipitants",
+    "stem": "A client with cirrhosis who was oriented yesterday is now inattentive. Which new information should the nurse highlight when the team assesses possible hepatic encephalopathy? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "No bowel movement for four days",
+      "A longstanding painless umbilical hernia",
+      "Fever with new burning during urination",
+      "Spider-like skin vessels unchanged for months"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "why": [
+      "Constipation can contribute to encephalopathy and is a relevant recent change.",
+      "A stable chronic hernia does not explain the abrupt cognitive change in this case.",
+      "Infection can precipitate deterioration and needs prompt assessment.",
+      "A chronic skin sign provides background evidence of liver disease rather than a new precipitant."
+    ],
+    "takeaway": "Seek treatable new contributors to cognitive change instead of attributing it to the chronic diagnosis.",
+    "refs": [
+      "ba-hepatic"
+    ],
+    "exhibit": null,
+    "subtopic": "Hepatic encephalopathy triggers",
+    "learningObjective": "Seek treatable new contributors to cognitive change instead of attributing it to the chronic diagnosis.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-103",
+    "cat": "adaptation",
+    "title": "Ascites with a new painful abdomen",
+    "stem": "A client with cirrhosis and chronic ascites develops diffuse abdominal tenderness, temperature 38.5°C and new confusion. Which action is most appropriate?",
+    "type": "single",
+    "options": [
+      "Measure abdominal girth and compare it with tomorrow's weight",
+      "Administer the prescribed bowel regimen and assess its effect",
+      "Help the client sit upright and reassess abdominal pressure",
+      "Arrange urgent clinical review for a possible infectious complication"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Girth helps track fluid but is insufficient for fever, tenderness and acute cognitive change.",
+      "Constipation may contribute to confusion, but would not safely account for the full new pattern.",
+      "Positioning can improve comfort but does not address the suspected acute complication.",
+      "The combined changes raise concern for infection such as spontaneous bacterial peritonitis and require urgent assessment."
+    ],
+    "takeaway": "New fever or tenderness in ascites warrants assessment beyond routine fluid tracking.",
+    "refs": [
+      "ba-hepatic"
+    ],
+    "exhibit": null,
+    "subtopic": "Ascites complication",
+    "learningObjective": "New fever or tenderness in ascites warrants assessment beyond routine fluid tracking.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-104",
+    "cat": "adaptation",
+    "title": "Reassess after paracentesis",
+    "stem": "After prescribed drainage of ascites, a client reports less abdominal tightness but becomes light-headed. BP has fallen from 118/70 to 88/54 mmHg and pulse has risen from 84 to 116/min. What should the nurse do first?",
+    "type": "single",
+    "options": [
+      "Help the client remain safely recumbent and obtain urgent reassessment",
+      "Encourage a walk to assess whether reduced abdominal pressure improves mobility",
+      "Offer the next planned meal to replace the energy used during the procedure",
+      "Repeat the abdominal girth to quantify the benefit before contacting the team"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "The symptom and haemodynamic changes suggest a circulatory complication despite abdominal relief; prevent a fall and escalate.",
+      "Walking with current hypotension creates avoidable risk.",
+      "Food does not address the acute perfusion concern.",
+      "Documenting fluid reduction must not delay assessment of new instability."
+    ],
+    "takeaway": "A procedure can relieve its target symptom while causing a separate urgent complication.",
+    "refs": [
+      "ba-hepatic"
+    ],
+    "exhibit": null,
+    "subtopic": "Post-paracentesis response",
+    "learningObjective": "A procedure can relieve its target symptom while causing a separate urgent complication.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-105",
+    "cat": "adaptation",
+    "title": "Protect the airway during haematemesis",
+    "stem": "A client with known oesophageal varices is actively vomiting blood and is becoming less responsive. Help has been summoned. Which action has the highest immediate priority?",
+    "type": "single",
+    "options": [
+      "Obtain a detailed estimate of alcohol intake during the preceding week",
+      "Prepare the blood collection tubes requested for crossmatching",
+      "Position for drainage and keep suction ready while supporting the airway",
+      "Reconcile medicines that may have increased the risk of bleeding"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "The history may inform treatment after immediate airway protection.",
+      "Crossmatching is important, but impaired consciousness with active vomiting creates a more immediate airway threat.",
+      "Ongoing haematemesis and reduced responsiveness increase aspiration risk; provide airway support within training while emergency help arrives.",
+      "Medication review is relevant, but must follow immediate stabilization."
+    ],
+    "takeaway": "Active bleeding plus reduced consciousness changes the immediate priority to airway protection.",
+    "refs": [
+      "ba-uppergi"
+    ],
+    "exhibit": null,
+    "subtopic": "Variceal bleeding airway",
+    "learningObjective": "Active bleeding plus reduced consciousness changes the immediate priority to airway protection.",
+    "reasoningSkill": "priority",
+    "difficulty": "challenge",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-106",
+    "cat": "adaptation",
+    "title": "Use tolerance to guide feeding recovery",
+    "stem": "A client recovering from uncomplicated pancreatitis has a prescribed oral-feeding trial. Pain and nausea have settled, and the client is hungry. Which nursing approach best evaluates the trial?",
+    "type": "single",
+    "options": [
+      "Require a normal enzyme result before offering the prescribed food",
+      "Offer the ordered food and assess pain, nausea and intake afterward",
+      "Substitute clear juice for the meal until bowel sounds become loud",
+      "Encourage completion of the meal to meet the calorie target"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "A laboratory trend alone should not replace the prescribed clinical feeding plan.",
+      "Assessing actual tolerance evaluates whether the client can progress with the ordered nutrition.",
+      "A substitute diet and a particular bowel-sound intensity are not justified by the information given.",
+      "Intake targets should not override symptoms of intolerance."
+    ],
+    "takeaway": "Evaluate an authorized feeding trial using the client's clinical response.",
+    "refs": [
+      "ba-pancreatitis"
+    ],
+    "exhibit": null,
+    "subtopic": "Pancreatitis recovery feeding",
+    "learningObjective": "Evaluate an authorized feeding trial using the client's clinical response.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-107",
+    "cat": "adaptation",
+    "title": "Identify systemic deterioration in pancreatitis",
+    "stem": "Which new findings in a hospitalized client with acute pancreatitis require prompt escalation? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "New breathlessness with increasing oxygen requirements",
+      "Pain decreases after prescribed analgesia",
+      "Urine output falls while pulse becomes faster",
+      "The client tolerates a small prescribed meal"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "why": [
+      "Worsening respiratory function may indicate a systemic complication and needs urgent assessment.",
+      "Pain relief is a favourable response if other observations remain stable.",
+      "The combined change may reflect impaired perfusion or evolving organ dysfunction.",
+      "Tolerance of authorized intake is generally a favourable recovery finding."
+    ],
+    "takeaway": "In pancreatitis, assess respiratory and circulatory changes alongside abdominal pain.",
+    "refs": [
+      "ba-pancreatitis"
+    ],
+    "exhibit": null,
+    "subtopic": "Pancreatitis systemic complications",
+    "learningObjective": "In pancreatitis, assess respiratory and circulatory changes alongside abdominal pain.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-108",
+    "cat": "adaptation",
+    "title": "Evaluate pancreatic enzyme teaching",
+    "stem": "A client with chronic pancreatic insufficiency continues to have oily stools and weight loss. The client takes all prescribed pancreatic enzymes at bedtime, several hours after eating. Which response best addresses this finding?",
+    "type": "single",
+    "options": [
+      "Suggest that the client remove fat from every meal before changing the routine",
+      "Recommend an extra bedtime dose whenever a stool appears oily",
+      "Ask the client to record stool colour until the next routine appointment",
+      "Review taking the prescribed enzymes with meals and snacks as directed"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "A restrictive diet can worsen nutrition and does not correct the observed timing problem.",
+      "An independent dose increase is not justified; the first identified issue is administration with food.",
+      "Monitoring alone leaves a remediable cause of poor digestion unaddressed.",
+      "Enzymes need to accompany food; clarify the prescribed meal/snack instructions and follow up on symptoms and weight."
+    ],
+    "takeaway": "Investigate how a treatment is used before assuming the prescribed treatment has failed.",
+    "refs": [
+      "ba-pancreatic-insufficiency"
+    ],
+    "exhibit": null,
+    "subtopic": "Pancreatic insufficiency treatment use",
+    "learningObjective": "Investigate how a treatment is used before assuming the prescribed treatment has failed.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-109",
+    "cat": "adaptation",
+    "title": "Check interrupted gastric decompression",
+    "stem": "A client being treated for bowel obstruction has a nasogastric tube on prescribed suction. Drainage stops, nausea returns, and a loop of tubing is visibly compressed under the bedrail. Which action should the nurse take first?",
+    "type": "single",
+    "options": [
+      "Remove the visible compression and reassess drainage and symptoms",
+      "Increase suction above the prescribed level to overcome the blockage",
+      "Withdraw the tube slightly until gastric fluid appears in the line",
+      "Give the prescribed antiemetic and evaluate its effect on nausea"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Correcting an external mechanical obstruction is a focused first action; reassess and escalate if function does not return.",
+      "Changing the ordered suction is not needed before correcting the visible problem.",
+      "Repositioning an internal tube requires appropriate checks and authorization; a clear external cause is present.",
+      "Antiemetic treatment may help symptoms but does not restore decompression."
+    ],
+    "takeaway": "Check correctable external causes when an established drainage system stops functioning.",
+    "refs": [
+      "ba-obstruction"
+    ],
+    "exhibit": null,
+    "subtopic": "Bowel obstruction decompression",
+    "learningObjective": "Check correctable external causes when an established drainage system stops functioning.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-110",
+    "cat": "adaptation",
+    "title": "Recognize a change in obstruction pain",
+    "stem": "A client awaiting treatment for small-bowel obstruction previously had intermittent cramping. Pain is now constant, the abdomen is tender, pulse is 122/min and temperature is 38.3°C. Which response is best?",
+    "type": "single",
+    "options": [
+      "Encourage ambulation to stimulate passage of the obstruction",
+      "Increase oral fluids to compensate for reduced intake",
+      "Seek urgent surgical reassessment of the changed pattern",
+      "Offer the prescribed as-needed analgesic and review at the next round"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Mobilization is not the priority when new signs suggest a serious complication.",
+      "Oral fluid may be inappropriate in obstruction and does not address possible bowel compromise.",
+      "Constant pain with tenderness and systemic changes can signal ischaemia, perforation or another complication requiring urgent review.",
+      "Analgesia may be given as ordered, but its effect must not be used to postpone escalation."
+    ],
+    "takeaway": "A change from colicky to persistent pain with systemic deterioration requires prompt reassessment.",
+    "refs": [
+      "ba-obstruction"
+    ],
+    "exhibit": null,
+    "subtopic": "Obstruction deterioration",
+    "learningObjective": "A change from colicky to persistent pain with systemic deterioration requires prompt reassessment.",
+    "reasoningSkill": "priority",
+    "difficulty": "challenge",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-111",
+    "cat": "adaptation",
+    "title": "Distinguish a Crohn disease complication",
+    "stem": "A client with Crohn disease usually has several loose stools daily. Today there is increasing distension, repeated vomiting and no passage of stool or flatus. Which nursing interpretation is most useful?",
+    "type": "single",
+    "options": [
+      "The change indicates that the antidiarrhoeal plan is achieving its goal",
+      "A possible obstructive complication needs assessment before routine bowel treatment",
+      "The usual inflammatory pattern explains the change in bowel frequency",
+      "Reduced food intake is the most likely explanation for the absent stool"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Reduced stool is not evidence of improvement when accompanied by distension and vomiting.",
+      "The new combination differs from the usual pattern and may indicate obstruction; assess and escalate rather than apply the routine diarrhoea plan.",
+      "A chronic diagnosis does not make a new symptom pattern expected.",
+      "Reduced intake alone would not safely explain the obstructive features."
+    ],
+    "takeaway": "Compare new symptoms with the individual's baseline before applying a familiar treatment plan.",
+    "refs": [
+      "ba-crohns"
+    ],
+    "exhibit": null,
+    "subtopic": "Crohn disease obstruction cues",
+    "learningObjective": "Compare new symptoms with the individual's baseline before applying a familiar treatment plan.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-112",
+    "cat": "adaptation",
+    "title": "Assess severe colitis deterioration",
+    "stem": "A client hospitalized with severe ulcerative colitis develops marked abdominal distension and fever. Which additional findings heighten concern for an acute complication? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Increasing pulse with falling blood pressure",
+      "Fewer stools accompanied by worsening abdominal tenderness",
+      "Improving appetite with a soft, less tender abdomen",
+      "Reduced urgency with stable observations and less bleeding"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "why": [
+      "Haemodynamic deterioration adds evidence of serious systemic illness.",
+      "Reduced stool frequency is not reassuring when distension and tenderness worsen; motility may be impaired.",
+      "These findings suggest clinical improvement rather than the described deterioration.",
+      "A favourable symptom change with stable observations is less concerning than reduced stool with worsening abdominal signs."
+    ],
+    "takeaway": "A lower stool count can be misleading when abdominal and systemic findings worsen.",
+    "refs": [
+      "ba-ulcerative-colitis"
+    ],
+    "exhibit": null,
+    "subtopic": "Severe colitis complication",
+    "learningObjective": "A lower stool count can be misleading when abdominal and systemic findings worsen.",
+    "reasoningSkill": "recognition",
+    "difficulty": "challenge",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-113",
+    "cat": "adaptation",
+    "title": "Assess a newly dusky stoma",
+    "stem": "A newly created ileostomy was red and moist at handover. Two hours later it appears dusky purple and feels cool; the appliance is not constricting it. Which action is most appropriate?",
+    "type": "single",
+    "options": [
+      "Seek immediate surgical assessment of stoma perfusion",
+      "Apply a warm compress and compare colour at the next pouch change",
+      "Enlarge the skin barrier opening and wait for the colour to recover",
+      "Document postoperative bruising and continue routine output measurement"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "A change suggesting impaired perfusion requires prompt specialist assessment.",
+      "Warming does not establish or restore an adequate blood supply and can delay review.",
+      "The appliance has already been assessed for constriction; changing it is not sufficient for these findings.",
+      "A new cool dusky stoma should not be attributed to expected bruising."
+    ],
+    "takeaway": "A stoma's new colour and temperature changes require perfusion assessment.",
+    "refs": [
+      "ba-ostomy"
+    ],
+    "exhibit": null,
+    "subtopic": "Stoma ischaemia",
+    "learningObjective": "A stoma's new colour and temperature changes require perfusion assessment.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-114",
+    "cat": "adaptation",
+    "title": "Evaluate high ileostomy losses",
+    "stem": "A client with an ileostomy reports much more watery output than usual, thirst and light-headedness. Which observations best support concern about fluid depletion? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "A decrease in measured urine output",
+      "A red, moist stoma of unchanged size",
+      "Postural dizziness with a faster pulse",
+      "A small amount of mucus passed from the rectum"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "why": [
+      "Reduced urine suggests the kidneys are conserving fluid or perfusion is reduced.",
+      "This describes a healthy stoma rather than systemic fluid depletion.",
+      "The combined postural symptom and pulse change supports circulatory volume loss.",
+      "A retained distal bowel can still produce mucus; this does not quantify the current fluid deficit."
+    ],
+    "takeaway": "Assess urine and circulation when intestinal fluid losses rise above baseline.",
+    "refs": [
+      "ba-ileostomy"
+    ],
+    "exhibit": null,
+    "subtopic": "High-output ileostomy",
+    "learningObjective": "Assess urine and circulation when intestinal fluid losses rise above baseline.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-115",
+    "cat": "adaptation",
+    "title": "Respond to absent ileostomy output",
+    "stem": "An adult with an established ileostomy develops cramping, increasing distension and nausea. Output has stopped for six hours, despite usual intake. What advice is most appropriate?",
+    "type": "single",
+    "options": [
+      "Take the usual medicine for loose output to reduce bowel activity",
+      "Eat a bulky high-fibre meal to push retained contents forward",
+      "Arrange prompt clinical assessment for a possible blockage",
+      "Perform an irrigation using the equipment kept for pouch cleaning"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Reducing motility can be inappropriate when obstruction is suspected.",
+      "A bulky meal can aggravate a possible blockage.",
+      "The symptom combination and loss of output need timely assessment; follow the individual's urgent-care instructions.",
+      "Ileostomy irrigation is not a routine self-treatment for these symptoms."
+    ],
+    "takeaway": "Loss of output accompanied by cramping and distension is different from a harmless change in stool volume.",
+    "refs": [
+      "ba-ileostomy"
+    ],
+    "exhibit": null,
+    "subtopic": "Ileostomy blockage",
+    "learningObjective": "Loss of output accompanied by cramping and distension is different from a harmless change in stool volume.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-116",
+    "cat": "adaptation",
+    "title": "Reassess symptoms labelled as reflux",
+    "stem": "A client who manages reflux with smaller meals now reports food sticking when swallowing and unintentional weight loss. Which response is best?",
+    "type": "single",
+    "options": [
+      "Review avoiding late evening meals and monitor for another month",
+      "Recommend taking smaller bites until the scheduled annual review",
+      "Ask the client to identify foods associated with the heartburn",
+      "Arrange prompt assessment of the new swallowing and weight changes"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Meal timing may help reflux but does not address new alarm symptoms.",
+      "Changing bite size may mask progression and delay assessment.",
+      "Trigger tracking is useful for familiar reflux symptoms, not sufficient for new dysphagia and weight loss.",
+      "These new findings require investigation rather than an assumption that reflux control has worsened."
+    ],
+    "takeaway": "New dysphagia or unexplained weight loss changes the evaluation of familiar reflux symptoms.",
+    "refs": [
+      "ba-reflux"
+    ],
+    "exhibit": null,
+    "subtopic": "Reflux alarm symptoms",
+    "learningObjective": "New dysphagia or unexplained weight loss changes the evaluation of familiar reflux symptoms.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-117",
+    "cat": "adaptation",
+    "title": "Prioritize an oesophageal food impaction",
+    "stem": "After eating meat, an adult reports a sensation of food stuck behind the sternum. The client can speak and breathe but repeatedly spits out saliva because it cannot be swallowed. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Obtain urgent assessment while keeping oral intake withheld",
+      "Offer repeated small sips of water to move the food into the stomach",
+      "Encourage a soft piece of bread to push the food past the obstruction",
+      "Arrange a routine swallowing review if breathing remains comfortable"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Inability to manage secretions suggests a significant obstruction and aspiration risk despite a currently patent airway.",
+      "More fluid may pool above an obstruction and be aspirated.",
+      "Additional food can worsen the blockage.",
+      "Comfortable breathing does not make complete swallowing obstruction suitable for routine follow-up."
+    ],
+    "takeaway": "Ability to breathe does not rule out an urgent oesophageal obstruction.",
+    "refs": [
+      "ba-food-impaction"
+    ],
+    "exhibit": null,
+    "subtopic": "Oesophageal impaction",
+    "learningObjective": "Ability to breathe does not rule out an urgent oesophageal obstruction.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-118",
+    "cat": "adaptation",
+    "title": "Adapt meals after gastric surgery",
+    "stem": "A client develops cramping, diarrhoea and light-headedness soon after drinking a large sweetened beverage with lunch following gastric surgery. The team identifies early dumping symptoms. Which meal plan best addresses this pattern?",
+    "type": "single",
+    "options": [
+      "Concentrate daily calories into two large meals with fluids",
+      "Use smaller meals and separate drinks according to the dietitian's plan",
+      "Replace solid food with sweetened liquid supplements at each meal",
+      "Drink an extra glass of juice when light-headedness begins"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Large meals and a fluid load can worsen rapid delivery into the small bowel.",
+      "Smaller meals and individualized fluid timing can reduce the load that triggers symptoms.",
+      "A concentrated sugary liquid can aggravate the reported pattern.",
+      "Additional juice may worsen early dumping; assess symptoms and follow the agreed plan."
+    ],
+    "takeaway": "Link post-gastric-surgery symptoms to meal composition and timing.",
+    "refs": [
+      "ba-dumping"
+    ],
+    "exhibit": null,
+    "subtopic": "Early dumping syndrome",
+    "learningObjective": "Link post-gastric-surgery symptoms to meal composition and timing.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-119",
+    "cat": "adaptation",
+    "title": "Recognize possible anastomotic deterioration",
+    "stem": "Three days after oesophageal surgery, a client develops new chest pain, temperature 38.4°C and pulse 118/min. Drainage changes from a small serous amount to cloudy fluid. Which action is best?",
+    "type": "single",
+    "options": [
+      "Encourage prescribed breathing exercises and recheck after mobilizing",
+      "Give the ordered antacid and assess whether the chest discomfort settles",
+      "Notify the surgical team promptly with the combined changes",
+      "Request a different meal texture before the next feeding trial"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Breathing exercises may remain part of care but do not address the concerning combined pattern.",
+      "Treating pain as reflux would overlook new systemic and drainage findings.",
+      "The new pattern may indicate a serious postoperative complication, including leakage, and requires urgent assessment.",
+      "A diet adjustment does not address the possible complication."
+    ],
+    "takeaway": "Interpret new pain, systemic changes and drain findings together after surgery.",
+    "refs": [
+      "ba-esophagectomy"
+    ],
+    "exhibit": null,
+    "subtopic": "GI anastomotic complication",
+    "learningObjective": "Interpret new pain, systemic changes and drain findings together after surgery.",
+    "reasoningSkill": "priority",
+    "difficulty": "challenge",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-120",
+    "cat": "adaptation",
+    "title": "Do not equate quieter bleeding with recovery",
+    "stem": "After an episode of upper GI bleeding, a client has not vomited again. BP is now 90/56 mmHg, pulse 120/min and urine output is 15 mL in the last hour. Which statement best summarizes the response for urgent handover?",
+    "type": "single",
+    "options": [
+      "Bleeding symptoms have stopped, so recovery observations can be reduced",
+      "The low urine volume is expected because the client has not eaten",
+      "The pulse is the remaining issue because vomiting has resolved",
+      "Visible loss has stopped, but perfusion findings remain concerning"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Absence of visible blood does not establish circulatory recovery.",
+      "Low intake may contribute to volume loss, but does not make this perfusion pattern safe.",
+      "Pulse, pressure and urine must be interpreted together, rather than isolating one sign.",
+      "Persistent hypotension, tachycardia and low urine require ongoing stabilization and evaluation for loss or inadequate circulating volume."
+    ],
+    "takeaway": "Evaluate bleeding treatment by physiological response as well as visible loss.",
+    "refs": [
+      "ba-uppergi"
+    ],
+    "exhibit": null,
+    "subtopic": "GI bleeding response",
+    "learningObjective": "Evaluate bleeding treatment by physiological response as well as visible loss.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-121",
+    "cat": "adaptation",
+    "title": "Escalate a changing biliary presentation",
+    "stem": "A client awaiting gallstone treatment develops fever, shaking chills and jaundice. BP falls from 122/74 to 88/50 mmHg. What is the priority nursing response?",
+    "type": "single",
+    "options": [
+      "Activate urgent assessment for a possible biliary infection with shock",
+      "Offer the prescribed low-fat meal and compare pain afterward",
+      "Apply a warm pack and give the ordered analgesic before reassessment",
+      "Schedule a repeat bilirubin with the next routine blood collection"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "The combination of biliary symptoms, infection signs and hypotension requires immediate escalation and circulatory support.",
+      "A meal plan does not address systemic instability.",
+      "Comfort treatment must not postpone assessment of possible shock.",
+      "A future laboratory result should not delay intervention for current instability."
+    ],
+    "takeaway": "A familiar biliary condition can become a systemic emergency when infection and hypotension develop.",
+    "refs": [
+      "ba-cholangitis"
+    ],
+    "exhibit": null,
+    "subtopic": "Acute biliary infection",
+    "learningObjective": "A familiar biliary condition can become a systemic emergency when infection and hypotension develop.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-122",
+    "cat": "adaptation",
+    "title": "Recognize a changed ulcer pattern",
+    "stem": "A client being treated for peptic ulcer disease suddenly develops severe generalized abdominal pain and a rigid abdomen. The pain is different from the previous meal-related discomfort. Which action is appropriate?",
+    "type": "single",
+    "options": [
+      "Give the ordered oral antacid and assess the response",
+      "Withhold oral intake and seek immediate medical assessment",
+      "Offer a light snack because earlier pain improved after food",
+      "Arrange a nonurgent review of the acid-suppressing prescription"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "An oral symptom trial may delay assessment of a possible perforation.",
+      "Sudden severe generalized pain with rigidity requires urgent assessment and no further oral intake while the plan is established.",
+      "The new pattern should not be treated as the previous uncomplicated pain.",
+      "Routine medication adjustment is insufficient for possible acute abdominal deterioration."
+    ],
+    "takeaway": "A sudden change in pain quality and abdominal findings outweighs the history of familiar ulcer discomfort.",
+    "refs": [
+      "ba-ulcer"
+    ],
+    "exhibit": null,
+    "subtopic": "Peptic ulcer complication",
+    "learningObjective": "A sudden change in pain quality and abdominal findings outweighs the history of familiar ulcer discomfort.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-123",
+    "cat": "adaptation",
+    "title": "Detect an early bariatric complication",
+    "stem": "On the first day after bariatric surgery, a client's pulse rises from 88 to 126/min. There is new left shoulder and upper abdominal pain and increasing restlessness. Temperature is 37.2°C. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Encourage walking for presumed insufflation gas and reassess after the walk",
+      "Give the next prescribed analgesic and judge progress by the pain score",
+      "Seek prompt surgical review despite the absence of fever",
+      "Begin the planned oral-fluid trial to assess tolerance"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Residual gas can cause discomfort, but should not be assumed to explain this new systemic pattern.",
+      "Pain relief does not establish that the underlying problem is benign.",
+      "New sustained tachycardia and pain may signal a serious complication; a normal temperature does not exclude an early leak or bleeding.",
+      "A fluid trial should not precede assessment of suspected deterioration."
+    ],
+    "takeaway": "Early postoperative complications may present before fever develops.",
+    "refs": [
+      "ba-bariatric"
+    ],
+    "exhibit": null,
+    "subtopic": "Bariatric postoperative deterioration",
+    "learningObjective": "Early postoperative complications may present before fever develops.",
+    "reasoningSkill": "priority",
+    "difficulty": "challenge",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-124",
+    "cat": "adaptation",
+    "title": "Interpret distal mucus after diversion",
+    "stem": "A client with a temporary diverting ileostomy is passing a small amount of clear mucus from the rectum. The stoma output is usual and there is no pain, fever or blood. Which explanation is best?",
+    "type": "single",
+    "options": [
+      "The diversion has failed because anything passed rectally indicates stool flow",
+      "Mucus means an infection is developing in the unused bowel",
+      "The stoma appliance is leaking internally into the rectum",
+      "The retained bowel can produce mucus even when the faecal stream is diverted"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "A small mucus discharge does not by itself mean the diversion has failed.",
+      "The supplied findings do not establish infection; new pain, bleeding or fever would change the assessment.",
+      "The external appliance cannot leak internally into the retained bowel in this way.",
+      "The retained bowel lining continues to secrete mucus; explain what changes should prompt review."
+    ],
+    "takeaway": "Interpret expected changes after diversion using the anatomy and associated symptoms.",
+    "refs": [
+      "ba-ileostomy"
+    ],
+    "exhibit": null,
+    "subtopic": "Diverted bowel mucus",
+    "learningObjective": "Interpret expected changes after diversion using the anatomy and associated symptoms.",
+    "reasoningSkill": "teaching",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-125",
+    "cat": "adaptation",
+    "title": "Evaluate encephalopathy recovery",
+    "stem": "After treatment of a precipitant of hepatic encephalopathy, which findings best support meaningful cognitive improvement? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "The client sustains attention while following a two-step instruction",
+      "The client sleeps through the shift after a sedating medicine",
+      "The client correctly describes the day and care plan on repeated checks",
+      "The serum bilirubin is lower while disorientation persists"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "why": [
+      "Improved attention and task following directly assess cognitive function.",
+      "Sedation can reduce activity without showing cognitive recovery.",
+      "Consistent orientation and understanding demonstrate functional improvement.",
+      "A liver-related laboratory change does not establish resolution of ongoing cognitive impairment."
+    ],
+    "takeaway": "Assess encephalopathy outcomes using repeated cognition and function, not quiet behaviour alone.",
+    "refs": [
+      "ba-hepatic"
+    ],
+    "exhibit": null,
+    "subtopic": "Hepatic encephalopathy recovery",
+    "learningObjective": "Assess encephalopathy outcomes using repeated cognition and function, not quiet behaviour alone.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  }
+]

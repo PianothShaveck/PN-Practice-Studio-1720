@@ -1,0 +1,492 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:15:23.936102+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/d-health-071.json",
+  "sourceSha256": "4ab0a858bd643fe033795b06375a3451f4406f259177da19690b8f7c55bcdd1e",
+  "coverage": {
+    "sourceItems": 40,
+    "reviewedItems": 40,
+    "reviewedIds": [
+      "x-health-071",
+      "x-health-072",
+      "x-health-073",
+      "x-health-074",
+      "x-health-075",
+      "x-health-076",
+      "x-health-077",
+      "x-health-078",
+      "x-health-079",
+      "x-health-080",
+      "x-health-081",
+      "x-health-082",
+      "x-health-083",
+      "x-health-084",
+      "x-health-085",
+      "x-health-086",
+      "x-health-087",
+      "x-health-088",
+      "x-health-089",
+      "x-health-090",
+      "x-health-091",
+      "x-health-092",
+      "x-health-093",
+      "x-health-094",
+      "x-health-095",
+      "x-health-096",
+      "x-health-097",
+      "x-health-098",
+      "x-health-099",
+      "x-health-100",
+      "x-health-101",
+      "x-health-102",
+      "x-health-103",
+      "x-health-104",
+      "x-health-105",
+      "x-health-106",
+      "x-health-107",
+      "x-health-108",
+      "x-health-109",
+      "x-health-110"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-health-071",
+      "status": "revise",
+      "assessment": "All distractors are nonessential theory/brand filler, so recognizing complications is the only reasonable option without interpreting the vignette.",
+      "issues": [
+        "All distractors are nonessential theory/brand filler, so recognizing complications is the only reasonable option without interpreting the vignette."
+      ],
+      "proposedChanges": [
+        "Use three credible discharge priorities (supply procurement, routine dressing sequence, moisture protection) competing with escalation signs/contact; state which routine skills have already been demonstrated to make the safety gap decisive."
+      ],
+      "reviewedItemSha256": "18165b5db0898f45c4fe2f1309d68b645ad26f8a0a92a15151bda15b2542b7f4"
+    },
+    {
+      "id": "x-health-072",
+      "status": "revise",
+      "assessment": "Drug-name recall and longer pharmacology discussion are irrelevant filler; key is the sole practical response.",
+      "issues": [
+        "Drug-name recall and longer pharmacology discussion are irrelevant filler; key is the sole practical response."
+      ],
+      "proposedChanges": [
+        "Use competing practical assessments: availability/cost of supply; adverse effects; caregiving schedule; ability to open packaging. Include confirming cues that other barriers are absent while morning-care conflict persists."
+      ],
+      "reviewedItemSha256": "6c537b0c9e495fbd3f2ec40b50ee21e6747b987f67f3fc440cab81999a531ae0"
+    },
+    {
+      "id": "x-health-073",
+      "status": "revise",
+      "assessment": "Large print and verbal recall do not plausibly address observed arthritis; longest key uniquely combines every good action.",
+      "issues": [
+        "Large print and verbal recall do not plausibly address observed arthritis; longest key uniquely combines every good action."
+      ],
+      "proposedChanges": [
+        "State the client wants independent monitoring and no helper is available during testing. Compare an assessed accessible device/packaging adaptation with caregiver-preopening, repeated use of current packaging and deferral to home nursing. Keep choices similar in length and explain independence/availability cues."
+      ],
+      "reviewedItemSha256": "a4f63e56f8484e4751cfb96143dbccb3fd5fdf6746f4f18ffb259183216fadaf"
+    },
+    {
+      "id": "x-health-074",
+      "status": "pass",
+      "assessment": "Verbal accuracy versus observed contamination directly distinguishes recall from performance, a meaningful teaching-evaluation contrast; coaching/reassessment key is defensible.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "89604288d97e5cc1c9be1e10affd829be46b3932650b8b4cb1c2e2312364cd5b"
+    },
+    {
+      "id": "x-health-075",
+      "status": "pass",
+      "assessment": "Direct engagement and short interpreted segments support accurate teaching; interpreter decision substitution and unauthorized family involvement are relevant errors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "bf2448a05b5b5ae72cbf39e69f2523b5dcae91507387edd7bd3fd9c8f2914302"
+    },
+    {
+      "id": "x-health-076",
+      "status": "revise",
+      "assessment": "Bottle colour is filler; key is longest and uniquely includes equipment plus observed practice. Overlaps pharmacology004 oral-syringe selection.",
+      "issues": [
+        "Bottle colour is filler; key is longest and uniquely includes equipment plus observed practice. Overlaps pharmacology004 oral-syringe selection."
+      ],
+      "proposedChanges": [
+        "Shift objective to teach-back of actual volume after device already supplied: caregiver draws a concrete incorrect volume, and nurse must identify unit/decimal misunderstanding through a second demonstration. Use plausible measurement interpretations, not colour or theory alone."
+      ],
+      "reviewedItemSha256": "436d906f7a1c4e07ad92217690fc937f61f5268dbf2e0b1b308fd0310865a5eb"
+    },
+    {
+      "id": "x-health-077",
+      "status": "revise",
+      "assessment": "Faster repetition and memorizing the discharge summary are cartoon poor teaching; comprehensive key is easily guessed.",
+      "issues": [
+        "Faster repetition and memorizing the discharge summary are cartoon poor teaching; comprehensive key is easily guessed."
+      ],
+      "proposedChanges": [
+        "Compare reasonable formats: verbal review in one session; written prioritized action checklist with coached practice; a full technical discharge summary; separate specialist leaflets without a shared sequence. Add a client-specific overload cue and explain why chosen structure fits."
+      ],
+      "reviewedItemSha256": "71558ccd65e05b07d2135503df7cac3b7cfeae70a7d678010ba231c2342f4ac3"
+    },
+    {
+      "id": "x-health-078",
+      "status": "revise",
+      "assessment": "Medical terminology in guide is unrelated filler and permanent family takeover is exaggerated.",
+      "issues": [
+        "Medical terminology in guide is unrelated filler and permanent family takeover is exaggerated."
+      ],
+      "proposedChanges": [
+        "Replace option2 with assessment of available family help for guide use; option3 with prior ostomy knowledge. Keep current visual-access assessment key and explain new glasses/avoidance cue; do not use permanent transfer language."
+      ],
+      "reviewedItemSha256": "3a4a9081ffd09a7946e23c8cd8ef9ba74f16426fe44817c21494c42cb9f656b7"
+    },
+    {
+      "id": "x-health-079",
+      "status": "pass",
+      "assessment": "Observed inability despite agreed goal calls for identifying difficult steps and adaptation, rather than equating teaching delivery with learning.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "483b7eb29ecbcf69dfd95a4158721eb7083970f8fc1572d55364487cce4da615"
+    },
+    {
+      "id": "x-health-080",
+      "status": "revise",
+      "assessment": "Colour preference replacing intended-use check is obvious nonsense and makes SATA mechanically easy.",
+      "issues": [
+        "Colour preference replacing intended-use check is obvious nonsense and makes SATA mechanically easy."
+      ],
+      "proposedChanges": [
+        "Replace option3 with Whether an app-store rating is sufficient evidence of clinical accuracy. Add a fifth option about alignment with intended symptom-tracking purpose as appropriate and vary correct count/positions."
+      ],
+      "reviewedItemSha256": "244eac3f58a4f6d322a777eed9ed51ea8e3e5b39ea0474472507c1c89f6a88d8"
+    },
+    {
+      "id": "x-health-081",
+      "status": "revise",
+      "assessment": "Key is much longer and more specific than vague fitness, neighbour comparison or unrelated weight-only options.",
+      "issues": [
+        "Key is much longer and more specific than vague fitness, neighbour comparison or unrelated weight-only options."
+      ],
+      "proposedChanges": [
+        "Use four concrete walking plans of comparable length: mutually agreed short scheduled walks with review (key); prior-activity target despite current baseline; unscheduled walking only when motivation is high; daily distance increases without tolerance checks. Include baseline tolerance and review interval."
+      ],
+      "reviewedItemSha256": "6169c9259d22d04941069479a81f22249d39ae88c5b1c32f637e38851d205c77"
+    },
+    {
+      "id": "x-health-082",
+      "status": "pass",
+      "assessment": "Stated benefit and recognized harm create authentic ambivalence; exploring both sides is preferable to imposed quit date or warnings alone.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "50b954b423e82fec1e306263809bc60c75e9a00e42cbf475d5c74b44c915a23b"
+    },
+    {
+      "id": "x-health-083",
+      "status": "revise",
+      "assessment": "Restart only after months of smoking is implausible and delays support without rationale.",
+      "issues": [
+        "Restart only after months of smoking is implausible and delays support without rationale."
+      ],
+      "proposedChanges": [
+        "Replace option1 with: Reset the same quit plan without discussing the argument. Explain that lapse-trigger review can reveal a missing coping strategy rather than treating calendar restart as sufficient."
+      ],
+      "reviewedItemSha256": "1952f1bf912109884c5444532eeca89929a0166a40f38f076e8a13ac268efc7f"
+    },
+    {
+      "id": "x-health-084",
+      "status": "revise",
+      "assessment": "Total dietary restriction and small changes cannot affect habits are extreme; only key respects any reasonable care.",
+      "issues": [
+        "Total dietary restriction and small changes cannot affect habits are extreme; only key respects any reasonable care."
+      ],
+      "proposedChanges": [
+        "Use plausible alternatives: add several goals at once to maximize benefit; track daily weight instead of the selected behaviour; give general dietary education without specifying when substitution occurs. Explain implementation cue/review rather than merely praise small change."
+      ],
+      "reviewedItemSha256": "b83c23b2bb9b44570a440331f54171e35fb53ca62643bae289dec9baad52fc2a"
+    },
+    {
+      "id": "x-health-085",
+      "status": "pass",
+      "assessment": "Triggers and prior attempts are meaningful individualization data; brand alone and nurse-preferred date do not establish readiness or dependence.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "dad3e2bf1ee212c17ff2d49db0201f32f0ed1a4c5edc8e7b636c166bf630208f"
+    },
+    {
+      "id": "x-health-086",
+      "status": "revise",
+      "assessment": "Generic comprehensive key is the only safe response against no exercise/faster painful walking; little clinical discrimination.",
+      "issues": [
+        "Generic comprehensive key is the only safe response against no exercise/faster painful walking; little clinical discrimination."
+      ],
+      "proposedChanges": [
+        "Add tolerated activity and pain-pattern details. Offer comparable options such as supervised lower-impact trial, shorter painful walks without assessment, stretching-only plan and complete rest until pain-free. Explain why alternative loading preserves goals for stable disease."
+      ],
+      "reviewedItemSha256": "d53eed01555ea786655a2695315488298b21563df0f1a6874cb37114c80544a0"
+    },
+    {
+      "id": "x-health-087",
+      "status": "revise",
+      "assessment": "Stretching indefinitely and waiting for strength to return spontaneously are implausible extremes.",
+      "issues": [
+        "Stretching indefinitely and waiting for strength to return spontaneously are implausible extremes."
+      ],
+      "proposedChanges": [
+        "Replace option1 with return based solely on the old calendar schedule; option3 with flexibility exercises as the only initial plan despite a stated endurance goal. Specify current functional capacity to distinguish gradual progression."
+      ],
+      "reviewedItemSha256": "2029acad4fd6d4d56c956dfcea5473f9a0733c9ad87069bb89897075ce352295"
+    },
+    {
+      "id": "x-health-088",
+      "status": "revise",
+      "assessment": "Calories and caffeine do not compete as interventions for prolonged sitting; key can be selected by matching words alone.",
+      "issues": [
+        "Calories and caffeine do not compete as interventions for prolonged sitting; key can be selected by matching words alone."
+      ],
+      "proposedChanges": [
+        "Use competing activity plans: planned brief workday movement breaks; longer weekend exercise only; standing continuously without movement variation; tracking step totals without addressing long uninterrupted sitting. Explain sedentary-pattern cue."
+      ],
+      "reviewedItemSha256": "7ebc0ba65dee0565ba862239f4bfb74109b06081bc3c222bfee5a00b22a167ea"
+    },
+    {
+      "id": "x-health-089",
+      "status": "revise",
+      "assessment": "Near-duplicate of c-basic066 sodium/serving-size objective; price and advertising are filler.",
+      "issues": [
+        "Near-duplicate of c-basic066 sodium/serving-size objective; price and advertising are filler."
+      ],
+      "proposedChanges": [
+        "Replace with an unused applied nutrition objective, e.g. an adult eating plant-based meals who needs to improve non-heme iron absorption: compare adding vitamin-C food with tea/coffee or calcium at that meal. Source-check and write a clinical/dietary context; retain item count with a distinct learning objective."
+      ],
+      "reviewedItemSha256": "da8fb65e597732cf57134ebe6a23c193dc60e82855d356864a4765dde5840fc2"
+    },
+    {
+      "id": "x-health-090",
+      "status": "pass",
+      "assessment": "Budget-sensitive frozen/canned and low-cost protein planning addresses material access without equating nutritional quality with specialty fresh foods.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d412721dc3bea6827e823be0347f509324f309c9fc3d2042b5093b5ca72d1189"
+    },
+    {
+      "id": "x-health-091",
+      "status": "pass",
+      "assessment": "Heat plus prescribed restriction requires individualized balance; standard unlimited drinking or rigid unchanged limit can each be wrong. This is a useful competing-risk case.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "abad1e0cfe5ec98d990d661952ef930fa81887cad7b86557c1a1efc64f47fbdb"
+    },
+    {
+      "id": "x-health-092",
+      "status": "revise",
+      "assessment": "Sleep only on days off is cartoon unsafe; caffeine/screens do not meaningfully compete with the stated household-noise barrier.",
+      "issues": [
+        "Sleep only on days off is cartoon unsafe; caffeine/screens do not meaningfully compete with the stated household-noise barrier."
+      ],
+      "proposedChanges": [
+        "Compare environmental/schedule plans: protected dark quiet sleep period (key); longer days-off sleep without household changes; eye mask with sleep time still dictated by family; frequent brief naps in shared living space. Explain protected opportunity rather than generic sleep advice."
+      ],
+      "reviewedItemSha256": "68c4154255f9d5461741dbc2534556e532200c9b7b69aecfb4fa94a4cb230212"
+    },
+    {
+      "id": "x-health-093",
+      "status": "pass",
+      "assessment": "Witnessed pauses plus snoring and sleepiness despite adequate opportunity supports breathing-disorder assessment over sleep-hygiene alone.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d393b939fdbe5ea045148d9a311fa53f6b0b7c99ec0e3aff6d28badde76ec3da"
+    },
+    {
+      "id": "x-health-094",
+      "status": "revise",
+      "assessment": "All distractors concern brand/peer approval/social acceptance, while key bundles every relevant clinical variable and is longest.",
+      "issues": [
+        "All distractors concern brand/peer approval/social acceptance, while key bundles every relevant clinical variable and is longest."
+      ],
+      "proposedChanges": [
+        "Use equally relevant assessment questions: usual amount/timing in a typical week (key for quantifying exposure); prior reduction attempts; social pressure; goals for change. Explain why clarifying the undefined exposure precedes tailoring advice."
+      ],
+      "reviewedItemSha256": "ea5f2ad7865bbc92e9dbaae026b82254b82c3db05c4b024ff8e96065beaa30f5"
+    },
+    {
+      "id": "x-health-095",
+      "status": "pass",
+      "assessment": "Clinically feasible combined services and transport support directly address rural access; remote care cannot universally replace examinations.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "abdb405689c0744e9ffca876bd290b5b6fa5fb3e26214c3a77fdf5148c9a51d9"
+    },
+    {
+      "id": "x-health-096",
+      "status": "revise",
+      "assessment": "One treatment for every menopause client is an implausible absolute; broad key dominates by comprehensiveness.",
+      "issues": [
+        "One treatment for every menopause client is an implausible absolute; broad key dominates by comprehensiveness."
+      ],
+      "proposedChanges": [
+        "Replace option0 with providing a general hot-flash booklet without asking impact; keep other plausible premature tests/treatment actions and shorten key to Assess symptom burden and individual treatment risks. Add specific history cue if testing options need distinction."
+      ],
+      "reviewedItemSha256": "c9fe49518a60e75d9371e76b875da38b1a1039a2239ed14ca5f13d1f1f26d8a3"
+    },
+    {
+      "id": "x-health-097",
+      "status": "revise",
+      "assessment": "Timely assessment key is sound; dietary iron before follow-up is unrelated to slight new postmenopausal spotting.",
+      "issues": [
+        "Timely assessment key is sound; dietary iron before follow-up is unrelated to slight new postmenopausal spotting."
+      ],
+      "proposedChanges": [
+        "Replace option3 with Arrange routine cervical screening as the sole follow-up. Explain new bleeding needs diagnostic assessment of its cause rather than a routine screening substitute."
+      ],
+      "reviewedItemSha256": "e452d618076f0ed763cd85c89a2910130f86eae58ad28357ceb9439860c67242"
+    },
+    {
+      "id": "x-health-098",
+      "status": "revise",
+      "assessment": "Key is uniquely long and comprehensive; avoid all activity is an unrealistic opposite.",
+      "issues": [
+        "Key is uniquely long and comprehensive; avoid all activity is an unrealistic opposite."
+      ],
+      "proposedChanges": [
+        "Use concise key Arrange bone-risk review and tailor activity/nutrition. Replace total avoidance with flexibility-only activity until bone-density testing; compare plausible but incomplete calcium-only or prior-fitness-based high-impact plans. Add age/history context supporting risk evaluation."
+      ],
+      "reviewedItemSha256": "283ce000a2a8ce1eada6e5a614c8b33651b2905a81f8eddf37e44c1682697d9e"
+    },
+    {
+      "id": "x-health-099",
+      "status": "revise",
+      "assessment": "Vigorous stretching and waiting for a fall are implausible; vertebral-fracture key is the only reasonable option.",
+      "issues": [
+        "Vigorous stretching and waiting for a fall are implausible; vertebral-fracture key is the only reasonable option."
+      ],
+      "proposedChanges": [
+        "Use competing plans: routine osteoporosis screening at next annual review; treat presumed muscle strain before investigating height loss; increase posture exercises without assessing new pain. Explain height loss plus new back pain warrants earlier fracture/other-cause assessment."
+      ],
+      "reviewedItemSha256": "46dcd34c66d6bd17be45518d3cd00db4a62c6111212ed668268e672f36db2c41"
+    },
+    {
+      "id": "x-health-100",
+      "status": "pass",
+      "assessment": "All options are comparable vision observations; functional medication/driver impairment discriminates evaluation need from correction/light preference alone.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "dfbc8f2ef8d2ebf658d31e2da823cd13b40228e947ee70fd4bdaa34ed3090680"
+    },
+    {
+      "id": "x-health-101",
+      "status": "revise",
+      "assessment": "Replacing all interaction with writing is an unrealistic restriction; key alone combines two good actions.",
+      "issues": [
+        "Replacing all interaction with writing is an unrealistic restriction; key alone combines two good actions."
+      ],
+      "proposedChanges": [
+        "Shorten key to Arrange hearing review and reduce background noise. Replace option3 with provide written group summaries without reviewing hearing/participation barriers; explain why this supports information but does not restore the chosen discussion activity."
+      ],
+      "reviewedItemSha256": "a10d3371e1fc1c8ed19d2f86ed11ddaea23bd60b136deb78b1a33d7741f2e768"
+    },
+    {
+      "id": "x-health-102",
+      "status": "revise",
+      "assessment": "Staying home permanently is an exaggerated choice that weakens a clinically useful continence case.",
+      "issues": [
+        "Staying home permanently is an exaggerated choice that weakens a clinically useful continence case."
+      ],
+      "proposedChanges": [
+        "Replace option3 with Use absorbent pads for outings without discussing urgency assessment. Explain containment can help but does not establish cause or individualized continence plan."
+      ],
+      "reviewedItemSha256": "4e237c88d87856773fdd16da384a57c3d3b9ebbaf89b4a52afcbc5b151f891b1"
+    },
+    {
+      "id": "x-health-103",
+      "status": "revise",
+      "assessment": "Only key is comprehensive assessment and longest; generic low-fat advice is implausible for unintentional loss.",
+      "issues": [
+        "Only key is comprehensive assessment and longest; generic low-fat advice is implausible for unintentional loss."
+      ],
+      "proposedChanges": [
+        "Recast with concrete assessment data that distinguish physical versus practical causes (e.g. intact swallowing and oral function, partner formerly did shopping/cooking, meals now skipped). Compare equally plausible next assessments/interventions tied to those findings, rather than broad assess-everything key against filler."
+      ],
+      "reviewedItemSha256": "b012ddad3ec12396b18dc4ca6e7128e20f2ed27a29da869cd39b9155911708c7"
+    },
+    {
+      "id": "x-health-104",
+      "status": "pass",
+      "assessment": "Near misses/distance judgment changes require timely functional assessment and interim transport planning rather than age-only decisions or waiting for collision.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6fb4854bb45ac51d26a859bc7f2ed868d8337a69213d6cdd0341205cd7425426"
+    },
+    {
+      "id": "x-health-105",
+      "status": "pass",
+      "assessment": "Food and complex daily-task ability support individual independence assessment; chronological age/family preference alone do not.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "053163c614ea53466498b9243cfecf3789a60696f8b9a15c9c716b1494df98ba"
+    },
+    {
+      "id": "x-health-106",
+      "status": "revise",
+      "assessment": "Accepting loneliness as required by retirement is an implausible dismissive distractor.",
+      "issues": [
+        "Accepting loneliness as required by retirement is an implausible dismissive distractor."
+      ],
+      "proposedChanges": [
+        "Replace option2 with: Offer an unscheduled list of social services without linking to interests. Explain that a chosen small recurring activity better fits sustained contact and dislike of large groups."
+      ],
+      "reviewedItemSha256": "27acbc3d94df6d4ff13ddc4f684d9aeb2660e9f13e2246feae705b32228d4af5"
+    },
+    {
+      "id": "x-health-107",
+      "status": "pass",
+      "assessment": "Private goals/prevention assessment addresses later-life sexual health without equating menopause with no infection risk or substituting children for capable adult.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "677c614f52e8f550315bc394129e0f185946f61f2f6dd05231c0b7c959d8b463"
+    },
+    {
+      "id": "x-health-108",
+      "status": "pass",
+      "assessment": "Early values discussion preserves full participation and communicates meaning beyond a form; future emergency-only planning loses that opportunity.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6df1f334820b9a74a583bbbc505c77d25415ea05a6c07174efd98ce5cae64f7f"
+    },
+    {
+      "id": "x-health-109",
+      "status": "revise",
+      "assessment": "Permanently stopping all caregiving is an exaggerated response to appointment-time cover needs.",
+      "issues": [
+        "Permanently stopping all caregiving is an exaggerated response to appointment-time cover needs."
+      ],
+      "proposedChanges": [
+        "Replace option1 with: Reschedule the caregiver appointments repeatedly around the current care routine without arranging replacement help. Explain that recurring supervision gap needs a feasible support plan."
+      ],
+      "reviewedItemSha256": "d85977d0b6a7a28dce11a5e03776d2692c463c0697e2a2c28937d441c59ef9c2"
+    },
+    {
+      "id": "x-health-110",
+      "status": "revise",
+      "assessment": "Identical footwear purchase is irrelevant filler as a program outcome.",
+      "issues": [
+        "Identical footwear purchase is irrelevant filler as a program outcome."
+      ],
+      "proposedChanges": [
+        "Replace option3 with Staff delivered every planned education session. Explain this measures implementation, while participant attendance/tolerance and sustained goals measure meaningful program uptake."
+      ],
+      "reviewedItemSha256": "1bc6d6464c34906e7aeff135e551263ef3af8ddfb4fc2a04054fb2af2f7ace40"
+    }
+  ],
+  "activeSourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/d/health-071.json",
+  "rubricUpdate": "Each item screened for key length/comprehensiveness cues, only-reasonable-answer bias, clinical context, explanation and overlap. Snapshot is immutable; active file may later change.",
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

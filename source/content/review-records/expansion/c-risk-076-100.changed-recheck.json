@@ -1,0 +1,222 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:33:20.159918+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/risk-076-100.json",
+  "sourceSha256": "d732b92c3fc142815e46584f61a936e4e4a655e5d63f763300fc000e673e3e4c",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 18,
+    "reviewedIds": [
+      "x-risk-076",
+      "x-risk-077",
+      "x-risk-078",
+      "x-risk-079",
+      "x-risk-080",
+      "x-risk-082",
+      "x-risk-083",
+      "x-risk-084",
+      "x-risk-086",
+      "x-risk-089",
+      "x-risk-090",
+      "x-risk-091",
+      "x-risk-092",
+      "x-risk-093",
+      "x-risk-094",
+      "x-risk-095",
+      "x-risk-098",
+      "x-risk-100"
+    ],
+    "unreviewedIds": [
+      "x-risk-081",
+      "x-risk-085",
+      "x-risk-087",
+      "x-risk-088",
+      "x-risk-096",
+      "x-risk-097",
+      "x-risk-099"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.niddk.nih.gov/health-information/kidney-disease/kidney-failure/hemodialysis/eating-nutrition",
+      "checked": true,
+      "ids": [
+        "x-risk-083"
+      ],
+      "note": "NIDDK primary page opened for renal diet/salt substitute content; potassium-containing substitutes can conflict with individualized restrictions."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-risk-076",
+      "status": "pass",
+      "assessment": "Support requirement is part of respiratory trajectory; current saturation alone can conceal worsening. The brand distraction is replaced by plausible incomplete summaries.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7f55abb5f82d6861eea7624b64a3308241dcbb2f16ade3cf621ee18a6438903b"
+    },
+    {
+      "id": "x-risk-077",
+      "status": "pass",
+      "assessment": "Current Health Canada source is now present. Worsening symptoms require broader assessment/escalation despite a reassuring display; neither fixed correction nor probe repetition with deferred review is justified.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3f9822f4c103899ca75f00264f0afcf293462ddee787b99403b3fb880db62a2b"
+    },
+    {
+      "id": "x-risk-078",
+      "status": "pass",
+      "assessment": "Respiratory work/function and support/rate trends evaluate response; antibiotic timing and sample collection are comparable process data. Narrow stem makes the distinction unambiguous.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "24f61717a8041e5577a94a1af3980529022b3d5b07c2e3b8fb51e9a9a9767486"
+    },
+    {
+      "id": "x-risk-079",
+      "status": "pass",
+      "assessment": "New drowsiness with failed clearance changes airway urgency; improved sputum clearance, stable rate and baseline discomfort are coherent comparison findings.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9f8d8ea47b9e31fc6ba45293d9b75abe147e6c92bde98980031b405e6e973db0"
+    },
+    {
+      "id": "x-risk-080",
+      "status": "pass",
+      "assessment": "Actual intake/losses and perfusion observations characterize current depletion better than offered fluids, frequency alone or home habits. Key does not merely rely on unrelated filler.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c926498846e9e44afe4d771072b2d5c3f099cf301adb650deacaa851fcc77d09"
+    },
+    {
+      "id": "x-risk-082",
+      "status": "pass",
+      "assessment": "Prostate enlargement plus pressure/minimal voiding makes retention the most direct concern; alternatives now describe other physiological explanations rather than preferences or instructions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "63047a53a63f1c35932c4b12bf42e15a5ddd346ae5c9c791ab506c313455057b"
+    },
+    {
+      "id": "x-risk-083",
+      "status": "revise",
+      "assessment": "The replacement has a useful potassium-substitute objective and appropriate NIDDK source, but doubling seasoning and choosing by taste are implausible distractors. Use realistic mistaken clearance criteria.",
+      "issues": [
+        "The replacement has a useful potassium-substitute objective and appropriate NIDDK source, but doubling seasoning and choosing by taste are implausible distractors. Use realistic mistaken clearance criteria."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Use the package’s serving size to decide whether it fits the plan",
+            "Review whether potassium chloride is an ingredient with the renal team",
+            "Continue using it while symptoms of high potassium are absent",
+            "Use the last normal potassium result as clearance for regular use"
+          ],
+          "why": [
+            "Serving size alone does not establish potassium content or fit with the prescribed restriction.",
+            "Some low-sodium substitutes contain potassium chloride and need review against the renal plan.",
+            "Important potassium elevation may occur without reliable warning symptoms.",
+            "A prior normal result does not establish safety of a new regular potassium source."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "deebc4fb20e3e7cb53e3d2e0846de668ca9e36211eaacd8434164a163d180eed"
+    },
+    {
+      "id": "x-risk-084",
+      "status": "pass",
+      "assessment": "Key now includes immediate responsiveness/airway/breathing assessment and urgent review rather than a communication-only response. New arousal decline must not be normalized as evening fatigue.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "47438013c9beddb8e9aa6db04eafe99a0d4fd891dfa4c94896e35295f9270546"
+    },
+    {
+      "id": "x-risk-086",
+      "status": "pass",
+      "assessment": "Unusual prolonged unresponsiveness differs from the known post-seizure pattern; key explicitly assesses airway/breathing/responsiveness with urgent review. No unsafe oral administration remains.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e25f3ca70375243664c9d96cc7c40cd9ab93781a39056e2709930f07400bbfd5"
+    },
+    {
+      "id": "x-risk-089",
+      "status": "pass",
+      "assessment": "The stem limits focus to bleeding extent and injury exposure. Trauma and other bleeding sites fit; meal timing and one old bruise’s colour do not assess that new pattern.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "63c67c3985718ae1b9e859f1fb64ee68fb5688f886d9f800bbaa7149ef4653fa"
+    },
+    {
+      "id": "x-risk-090",
+      "status": "pass",
+      "assessment": "New functional decline/cough/poor intake warrant acute-illness assessment without requiring fever. Supplements and cough suppression alone are plausible premature symptom management.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "680764f475f5a078fee275bba11b5724e64b67658f95607f3d1af75fe1dd47a9"
+    },
+    {
+      "id": "x-risk-091",
+      "status": "pass",
+      "assessment": "Direct positional symptoms and measured change best describe the event. Medication timing/glucose/history are relevant accompanying context but do not substitute for observed response.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "cabdc770a19d9889479e84c6ad64f1ed19464b088e500734e33f9c9bc1e5e7e7"
+    },
+    {
+      "id": "x-risk-092",
+      "status": "pass",
+      "assessment": "Current mental-status/abdominal trends identify deterioration; stable old veins/oedema are now parallel baseline comparators. No competing acute key remains.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "78836c81ce77770e5b7528236ca47b5ee3709818f528b919897b87b2da007551"
+    },
+    {
+      "id": "x-risk-093",
+      "status": "pass",
+      "assessment": "Symptomatic high ileostomy losses warrant hydration assessment/team contact; plain-water escalation with delay may not address electrolyte needs and larger pouch only changes containment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "67722e92019de2904813dcc12af66b526f274f51e6205c9ff744ed22edfd4520"
+    },
+    {
+      "id": "x-risk-094",
+      "status": "pass",
+      "assessment": "Severe pain/vomiting/no flatus require urgent obstruction review before routine laxative or diet treatment. Antiemetic relief must not postpone assessment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "127503cf607cfaaa25bb84e9b80ccea2c44dbba17eef88f74fd49ac65eb7ee42"
+    },
+    {
+      "id": "x-risk-095",
+      "status": "pass",
+      "assessment": "All alternatives now interpret the old screen against new clinical evidence. Later cough/weight loss justify swallowing reassessment; screening is not permanent clearance.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "212777a839180e3d06c499120ece1142cb764864b66351cfb948a00fbf9724f2"
+    },
+    {
+      "id": "x-risk-098",
+      "status": "pass",
+      "assessment": "Inspecting the symptomatic device contact area takes precedence over reassuring global score or adding unassessed padding. Necessary oxygen therapy is no longer presented as stopped indefinitely.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e492953eb8da93254ea4e73135f4913d9c1c86c66617fef75f26d03313ea5ce8"
+    },
+    {
+      "id": "x-risk-100",
+      "status": "pass",
+      "assessment": "New palpitations after unexplained syncope need reassessment/escalation despite transient recovery. Routine rest/recheck or anxiety attribution are relevant premature closure errors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c49bb9b4829f82cea6f3c9ce7932650676d5814f7ceac0767ddc9caf6d94b61f"
+    }
+  ],
+  "reviewScope": "Seventeen previously revised IDs plus full replacement083 independently read; unchanged earlier pass hashes not relabelled.",
+  "reviewerTask": "/root/review_legacy"
+}

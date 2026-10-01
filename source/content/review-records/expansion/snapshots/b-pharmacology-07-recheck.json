@@ -1,0 +1,831 @@
+[
+  {
+    "id": "x-pharmacology-151",
+    "cat": "pharmacology",
+    "title": "Respond to a new transfusion reaction",
+    "stem": "During red-cell transfusion, a client develops new chills, fever and back discomfort. Which actions belong in the immediate reaction response? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Discard the bag and tubing immediately.",
+      "Administer the prescribed antipyretic for the fever.",
+      "Stop the transfusion and promptly assess the client.",
+      "Notify the team and follow the reaction investigation protocol.",
+      "Slow the transfusion until the chills settle."
+    ],
+    "answer": [
+      2,
+      3
+    ],
+    "why": [
+      "The component and set may be needed for investigation; follow the reaction protocol's handling instructions.",
+      "Symptom treatment may be ordered, but it must not displace stopping exposure and implementing the reaction response.",
+      "Further exposure should cease while the new systemic symptoms are assessed for a potentially serious reaction.",
+      "Coordinated assessment, samples and product handling help establish the cause and guide treatment.",
+      "Reducing the rate still continues exposure to a component that may be causing a serious reaction."
+    ],
+    "takeaway": "Further exposure should cease while the new systemic symptoms are assessed for a potentially serious reaction.",
+    "refs": [
+      "b-transfusion",
+      "b-transfusion-reactions"
+    ],
+    "exhibit": null,
+    "subtopic": "Acute transfusion reactions",
+    "learningObjective": "Initiate the transfusion-reaction pathway when new systemic symptoms develop during blood administration.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-152",
+    "cat": "pharmacology",
+    "title": "Differentiate possible transfusion overload",
+    "stem": "An older client with heart failure develops breathlessness during transfusion. Which findings particularly support circulatory overload in the differential? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Rising blood pressure with venous congestion.",
+      "Isolated urticaria with unchanged breathing and pressure.",
+      "Severe back pain with hypotension and dark urine.",
+      "New fever and rigors with clear lungs and stable pressure.",
+      "New crackles with increasing oxygen requirement."
+    ],
+    "answer": [
+      0,
+      4
+    ],
+    "why": [
+      "The pressure and venous findings support increased circulatory volume during transfusion.",
+      "This pattern more strongly supports an allergic skin reaction than circulatory overload.",
+      "This pattern raises concern for hemolysis rather than isolated volume overload.",
+      "A febrile or other reaction needs urgent evaluation, but this pattern does not specifically support congestion.",
+      "Pulmonary congestion can impair oxygenation and supports overload in the differential."
+    ],
+    "takeaway": "Pulmonary congestion can impair oxygenation and supports overload in the differential.",
+    "refs": [
+      "b-transfusion",
+      "b-transfusion-reactions"
+    ],
+    "exhibit": null,
+    "subtopic": "Acute transfusion reactions",
+    "learningObjective": "Recognize a circulatory-overload pattern during transfusion while arranging urgent assessment.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-153",
+    "cat": "pharmacology",
+    "title": "Report delayed transfusion symptoms",
+    "stem": "A client is discharged after an uncomplicated transfusion. Which new findings should be reported promptly with mention of the recent transfusion? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "A small venipuncture bruise becomes lighter over several days.",
+      "New jaundice or unusually dark urine.",
+      "Unexpected fever, worsening fatigue or breathlessness.",
+      "Mild resolving tenderness where the cannula was removed.",
+      "Gradually improving tolerance of usual activities."
+    ],
+    "answer": [
+      1,
+      2
+    ],
+    "why": [
+      "A resolving localized bruise is not the same pattern as new jaundice, dark urine or systemic illness.",
+      "Delayed hemolysis can become apparent after discharge; recent transfusion is important assessment information.",
+      "New systemic symptoms require prompt assessment and the transfusion history can guide investigation.",
+      "A improving local insertion-site symptom is less concerning than new systemic deterioration.",
+      "Functional improvement may reflect the intended benefit of red-cell treatment."
+    ],
+    "takeaway": "Delayed hemolysis can become apparent after discharge; recent transfusion is important assessment information.",
+    "refs": [
+      "b-transfusion",
+      "b-transfusion-reactions"
+    ],
+    "exhibit": null,
+    "subtopic": "Post-transfusion teaching",
+    "learningObjective": "Include delayed warning symptoms in post-transfusion discharge teaching.",
+    "reasoningSkill": "teaching",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-154",
+    "cat": "pharmacology",
+    "title": "Resolve a blood-unit identity discrepancy",
+    "stem": "A blood unit's compatibility label has an identification number that differs from the client's wristband by one digit. The name matches. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Ask the client to confirm their blood group",
+      "Correct the number on the label at the bedside",
+      "Stop the verification process and resolve the discrepancy",
+      "Use the matching name to approve the unit"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "A remembered blood group cannot replace compatibility and identity checks.",
+      "A handwritten correction does not establish the blood bank's intended compatibility.",
+      "All required identifiers must agree before exposing the client to the component.",
+      "A name match does not resolve a potentially serious identification error."
+    ],
+    "takeaway": "All required identifiers must agree before exposing the client to the component.",
+    "refs": [
+      "b-transfusion"
+    ],
+    "exhibit": null,
+    "subtopic": "Blood-component verification",
+    "learningObjective": "Verify concordant client and component identifiers before transfusion.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-155",
+    "cat": "pharmacology",
+    "title": "Confirm compatible red-cell tubing fluid",
+    "stem": "A red-cell unit is ready, but the intended line contains dextrose solution. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Connect the unit through the existing dextrose line.",
+      "Reduce the dextrose rate during transfusion.",
+      "Use the dextrose solution to prime the blood filter.",
+      "Establish an approved compatible blood-administration setup."
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "The dextrose solution's appearance does not establish compatibility with red cells.",
+      "A lower rate does not remove contact between the incompatible solution and blood.",
+      "Priming still leaves the solution in the pathway where it will contact the cells.",
+      "Red cells need a suitable fluid and tubing plan; normal saline is commonly used according to local policy."
+    ],
+    "takeaway": "Red cells need a suitable fluid and tubing plan; normal saline is commonly used according to local policy.",
+    "refs": [
+      "b-transfusion"
+    ],
+    "exhibit": null,
+    "subtopic": "Blood-component verification",
+    "learningObjective": "Use approved compatibility guidance for fluids sharing red-cell administration tubing.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-156",
+    "cat": "pharmacology",
+    "title": "Assess a new fever before transfusion",
+    "stem": "Immediately before a planned nonemergency transfusion, a client reports chills. Temperature is newly 38.4°C on two measurements; the nurse has assessed vital signs and current symptoms, and the unit is not connected. What is the best next action?",
+    "type": "single",
+    "options": [
+      "Report the changed baseline and clarify whether to start.",
+      "Obtain the routine pretransfusion premedication prescription.",
+      "Repeat the temperature once more after a rest period.",
+      "Collect cultures if they are part of the existing illness orders."
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "The new febrile illness needs review before transfusion and would complicate assessment of any subsequent reaction.",
+      "Premedication does not explain the current symptoms or establish that starting is appropriate.",
+      "The elevation has already been confirmed and assessed; further repetition should not replace communication of the change.",
+      "Cultures may be useful but do not resolve the decision about initiating the planned component in a changed clinical state."
+    ],
+    "takeaway": "The new febrile illness needs review before transfusion and would complicate assessment of any subsequent reaction.",
+    "refs": [
+      "b-transfusion"
+    ],
+    "exhibit": null,
+    "subtopic": "Blood-component verification",
+    "learningObjective": "Establish and communicate a changed baseline before initiating a prescribed blood component.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-157",
+    "cat": "pharmacology",
+    "title": "Evaluate a platelet transfusion response",
+    "stem": "A client with thrombocytopenia receives prescribed platelets for mucosal bleeding. Which observations most directly assess the intended hemostatic response? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Less mucosal oozing and no additional bleeding sites.",
+      "An increased hemoglobin with better exertional tolerance.",
+      "A normal temperature with no chills during administration.",
+      "A stable weight and blood pressure after the infusion.",
+      "The platelet count measured at the ordered post-transfusion time."
+    ],
+    "answer": [
+      0,
+      4
+    ],
+    "why": [
+      "Clinical hemostasis shows whether the intended bleeding problem is improving.",
+      "This cluster more directly evaluates correction of red-cell anemia than platelet response.",
+      "These are important safety findings but do not demonstrate hemostatic effectiveness.",
+      "These help assess fluid tolerance rather than the intended platelet-count and bleeding response.",
+      "An appropriately timed result helps assess the platelet increment."
+    ],
+    "takeaway": "An appropriately timed result helps assess the platelet increment.",
+    "refs": [
+      "b-transfusion"
+    ],
+    "exhibit": null,
+    "subtopic": "Component effectiveness",
+    "learningObjective": "Use platelet and bleeding findings to evaluate platelet-component therapy.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-158",
+    "cat": "pharmacology",
+    "title": "Explain a prescribed plasma component",
+    "stem": "A client with a documented clotting-factor deficiency is prescribed plasma and asks why red cells are not being used instead. What explanation is most accurate?",
+    "type": "single",
+    "options": [
+      "Plasma directly increases the circulating platelet count.",
+      "Plasma stimulates the bone marrow to produce replacement red cells.",
+      "Plasma supplies clotting factors for the identified deficiency.",
+      "Plasma raises oxygen-carrying capacity in the same way as red cells."
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "A platelet component, rather than plasma, supplies platelets when that is the indicated need.",
+      "Plasma supplies proteins; it is not an erythropoiesis-stimulating treatment.",
+      "The component is selected to replace the deficient coagulation proteins.",
+      "Oxygen transport is primarily a red-cell function, not the principal purpose of plasma here."
+    ],
+    "takeaway": "The component is selected to replace the deficient coagulation proteins.",
+    "refs": [
+      "b-transfusion"
+    ],
+    "exhibit": null,
+    "subtopic": "Component selection",
+    "learningObjective": "Distinguish clotting-factor replacement from red-cell or platelet replacement.",
+    "reasoningSkill": "recognition",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-159",
+    "cat": "pharmacology",
+    "title": "Manage an unexpected PN interruption",
+    "stem": "A client's continuous high-dextrose parenteral nutrition stops unexpectedly because the line fails. Alternative access and the prescribed interruption plan are being arranged. Why is an early glucose check particularly relevant?",
+    "type": "single",
+    "options": [
+      "Glucose must immediately rise when any PN infusion is interrupted.",
+      "The lost protein supply causes a glucose decline before carbohydrate changes matter.",
+      "A normal glucose before the interruption predicts stability until the next bag.",
+      "Glucose may fall after the abrupt reduction in carbohydrate delivery."
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Stopping the carbohydrate supply does not predict an immediate rise; the actual response must be measured.",
+      "The immediate interruption concern is the change in dextrose delivery rather than rapid depletion of body protein.",
+      "A previous reading cannot establish the response to an abrupt change in substrate delivery.",
+      "The metabolic response to continuous glucose delivery may persist after it stops; assessment guides the ordered contingency treatment."
+    ],
+    "takeaway": "The metabolic response to continuous glucose delivery may persist after it stops; assessment guides the ordered contingency treatment.",
+    "refs": [
+      "b-parenteral-nutrition"
+    ],
+    "exhibit": null,
+    "subtopic": "Parenteral nutrition interruptions",
+    "learningObjective": "Explain glucose monitoring after an abrupt interruption of continuous high-dextrose parenteral nutrition.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-160",
+    "cat": "pharmacology",
+    "title": "Monitor a new PN regimen",
+    "stem": "During the first two days of PN in a malnourished client, which trends require prompt review? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Glucose increases to 19 mmol/L above the prescribed target of 6–10.",
+      "Phosphate falls to 0.45 mmol/L (reference 0.80–1.45).",
+      "New fever accompanies redness and tenderness at the catheter site.",
+      "Weight rises 0.1 kg while pressure, lung sounds and balance remain stable.",
+      "The client remains alert with glucose within the prescribed target."
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "why": [
+      "Significant hyperglycemia indicates a need to review metabolic tolerance and the authorized regimen.",
+      "The decline during refeeding can be clinically important and requires electrolyte and nutrition-plan review.",
+      "The combination raises concern for a vascular-access infection and needs prompt assessment.",
+      "This small isolated change does not itself establish fluid intolerance, although trends remain necessary.",
+      "These observations are reassuring at that time and do not represent the new problems being sought."
+    ],
+    "takeaway": "Significant hyperglycemia indicates a need to review metabolic tolerance and the authorized regimen.",
+    "refs": [
+      "b-parenteral-nutrition"
+    ],
+    "exhibit": null,
+    "subtopic": "Parenteral nutrition monitoring",
+    "learningObjective": "Select metabolic, fluid and access assessments after parenteral nutrition is initiated.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-161",
+    "cat": "pharmacology",
+    "title": "Verify central PN access requirements",
+    "stem": "A PN bag is labelled for central administration, but only a peripheral cannula is currently usable. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Dilute the bag at the bedside to make it peripheral",
+      "Clarify access or an alternative formulation before infusion",
+      "Use the peripheral cannula because it flushes easily",
+      "Run the central formulation slowly through the peripheral line"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Unapproved dilution compromises formulation and compounding safety.",
+      "A central formulation may be unsuitable for peripheral veins.",
+      "Patency does not establish that the formulation is suitable for that vessel.",
+      "A slower rate does not necessarily make its concentration appropriate."
+    ],
+    "takeaway": "A central formulation may be unsuitable for peripheral veins.",
+    "refs": [
+      "b-parenteral-nutrition"
+    ],
+    "exhibit": null,
+    "subtopic": "Parenteral nutrition access",
+    "learningObjective": "Match a central PN formulation to a verified appropriate vascular-access route.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-162",
+    "cat": "pharmacology",
+    "title": "Protect a dedicated PN lumen",
+    "stem": "A client has a designated central-lumen PN infusion and another usable lumen. Which practices support safe delivery? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Verify a proposed co-infusion with an approved compatibility resource.",
+      "Add an ordered IV medicine into the hanging PN bag.",
+      "Use the PN lumen for the next antibiotic while the other lumen remains available.",
+      "Join a medicine to PN after checking that both fluids are clear.",
+      "Continue PN through its designated lumen."
+    ],
+    "answer": [
+      0,
+      4
+    ],
+    "why": [
+      "PN contains multiple ingredients, so compatibility requires specific confirmation.",
+      "Bedside addition is not an approved compounding method and can affect stability and dose delivery.",
+      "A separate suitable lumen avoids unnecessary PN interruption and mixing; access choice should follow the dedicated-lumen plan.",
+      "Some incompatibilities are not visible, so clarity cannot replace a compatibility determination.",
+      "Dedicated use limits unnecessary interruption and reduces opportunities for incompatible mixing."
+    ],
+    "takeaway": "Dedicated use limits unnecessary interruption and reduces opportunities for incompatible mixing.",
+    "refs": [
+      "b-parenteral-nutrition"
+    ],
+    "exhibit": null,
+    "subtopic": "Parenteral nutrition access",
+    "learningObjective": "Limit incompatibility and unnecessary manipulation of the parenteral-nutrition pathway.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-163",
+    "cat": "pharmacology",
+    "title": "Recognize refeeding-associated electrolyte decline",
+    "stem": "Within a day of restarting nutrition, a severely malnourished client develops weakness and phosphate falls from 1.0 to 0.32 mmol/L (reference 0.80–1.45). Kidney function is unchanged and there are no new gastrointestinal losses. Which mechanism is most concerning?",
+    "type": "single",
+    "options": [
+      "Reduced kidney excretion causing phosphate retention.",
+      "A newly inadequate ongoing dietary phosphate intake.",
+      "Simple dilution from a large-volume fluid bolus.",
+      "An intracellular electrolyte shift associated with refeeding."
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Retention would tend to increase phosphate and does not fit the marked fall with unchanged renal function.",
+      "The abrupt decline after feeding starts is more suggestive of redistribution than a new reduction in intake.",
+      "No such exposure is described; the severe malnutrition and timing after nutrition support refeeding physiology.",
+      "Renewed carbohydrate metabolism can drive phosphate into cells; the abrupt fall and weakness require urgent review of electrolytes and nutrition progression."
+    ],
+    "takeaway": "Renewed carbohydrate metabolism can drive phosphate into cells; the abrupt fall and weakness require urgent review of electrolytes and nutrition progression.",
+    "refs": [
+      "b-parenteral-nutrition"
+    ],
+    "exhibit": null,
+    "subtopic": "Refeeding complications",
+    "learningObjective": "Escalate new phosphate depletion and weakness after nutrition is restarted in severe malnutrition.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-164",
+    "cat": "pharmacology",
+    "title": "Explain prescribed isotonic volume replacement",
+    "stem": "A client with vomiting and circulatory volume depletion is prescribed an isotonic crystalloid. What is the principal immediate treatment goal?",
+    "type": "single",
+    "options": [
+      "Support extracellular volume and circulating perfusion.",
+      "Replace intracellular free water as its main purpose.",
+      "Expand plasma oncotic pressure through added protein.",
+      "Supply the glucose needed for immediate caloric replacement."
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "An isotonic crystalloid can restore extracellular volume when vomiting has reduced intravascular filling.",
+      "This is more characteristic of a hypotonic free-water strategy than isotonic volume resuscitation.",
+      "A crystalloid does not provide colloid protein for that purpose.",
+      "The stated isotonic volume goal does not establish a glucose-containing nutritional prescription."
+    ],
+    "takeaway": "An isotonic crystalloid can restore extracellular volume when vomiting has reduced intravascular filling.",
+    "refs": [
+      "b-parenteral"
+    ],
+    "exhibit": null,
+    "subtopic": "Intravenous fluids",
+    "learningObjective": "Connect an isotonic crystalloid prescription with treatment of extracellular volume depletion.",
+    "reasoningSkill": "recognition",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-165",
+    "cat": "pharmacology",
+    "title": "Monitor prescribed hypertonic saline",
+    "stem": "A client receives hypertonic saline under a protocol that limits the sodium rise to 8 mmol/L in any 24 hours and requires serial neurological and sodium checks. Which findings require prompt action under that protocol? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Sodium rises from 112 to 123 mmol/L within 10 hours.",
+      "New headache and declining alertness develop during infusion.",
+      "Sodium rises 2 mmol/L in four hours while alertness improves.",
+      "Blood pressure remains close to its pretreatment value.",
+      "The verified pump rate matches the current authorized order."
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "why": [
+      "The 11 mmol/L rise already exceeds the supplied 24-hour limit and requires urgent review of correction safety.",
+      "A neurological change during correction requires immediate assessment rather than being assumed to reflect recovery.",
+      "This finding alone does not exceed the stated limit, though the full ongoing 24-hour trend must still be monitored.",
+      "A stable pressure is not a new warning finding and does not replace sodium and neurological checks.",
+      "A correct setting is necessary but does not eliminate the need to act on adverse clinical or laboratory trends."
+    ],
+    "takeaway": "The 11 mmol/L rise already exceeds the supplied 24-hour limit and requires urgent review of correction safety.",
+    "refs": [
+      "b-parenteral"
+    ],
+    "exhibit": null,
+    "subtopic": "Controlled electrolyte infusions",
+    "learningObjective": "Apply controlled-rate and neurological monitoring during authorized hypertonic saline treatment.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-166",
+    "cat": "pharmacology",
+    "title": "Assess urine output before potassium replacement",
+    "stem": "An IV potassium replacement order requires urine output of at least 30 mL/hour before infusion. Potassium from two hours ago is 3.3 mmol/L (reference 3.5–5.0). Output has fallen to 10 mL/hour with rising creatinine, and the infusion has not started. What is the best action?",
+    "type": "single",
+    "options": [
+      "Use a more dilute preparation for the same dose.",
+      "Request a new potassium level and proceed with the current order meanwhile.",
+      "Hold initiation and clarify the replacement order.",
+      "Start the dose because the recent potassium remains low."
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Dilution changes concentration but not the total potassium load or unmet start criterion.",
+      "A repeat may be needed, but administering during clarification would disregard the specified output parameter.",
+      "The new renal findings violate the supplied condition and may reduce potassium elimination, so the plan needs review.",
+      "The low value does not override the explicit urine-output condition or the new renal change."
+    ],
+    "takeaway": "The new renal findings violate the supplied condition and may reduce potassium elimination, so the plan needs review.",
+    "refs": [
+      "b-parenteral"
+    ],
+    "exhibit": null,
+    "subtopic": "Controlled electrolyte infusions",
+    "learningObjective": "Recognize reduced potassium elimination as relevant before a replacement infusion.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-167",
+    "cat": "pharmacology",
+    "title": "Recognize magnesium toxicity",
+    "stem": "A client receiving magnesium sulfate has a respiratory rate of 8/minute, absent deep-tendon reflexes and falling urine output. Another nurse is activating emergency help and supporting breathing. What medication-related action should occur first under the toxicity protocol?",
+    "type": "single",
+    "options": [
+      "Draw the ordered magnesium blood sample.",
+      "Review the total magnesium received during the shift.",
+      "Prepare the prescribed calcium rescue medicine.",
+      "Stop the magnesium infusion."
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "A sample supports assessment but should not delay stopping the suspected toxic infusion.",
+      "Exposure history is useful for the team, but the current clinical toxicity requires an immediate infusion action.",
+      "Rescue preparation may be urgent, but continued magnesium exposure should be stopped as that treatment is arranged.",
+      "Stopping further exposure addresses the suspected toxicity while respiratory support and the rest of the emergency protocol proceed."
+    ],
+    "takeaway": "Stopping further exposure addresses the suspected toxicity while respiratory support and the rest of the emergency protocol proceed.",
+    "refs": [
+      "b-magnesium-obstetric"
+    ],
+    "exhibit": null,
+    "subtopic": "Obstetric magnesium therapy",
+    "learningObjective": "Escalate respiratory depression and loss of reflexes during magnesium sulfate infusion.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-168",
+    "cat": "pharmacology",
+    "title": "Distinguish seizure prophylaxis from pressure control",
+    "stem": "A client with severe preeclampsia receives magnesium sulfate and a separate antihypertensive. They ask why both are needed. What is best?",
+    "type": "single",
+    "options": [
+      "Magnesium reduces seizure risk; the other medicine treats hypertension.",
+      "Magnesium treats hypertension; the other medicine prevents seizures.",
+      "Magnesium removes retained fluid; the other medicine treats hypertension.",
+      "Magnesium relaxes the uterus; the other medicine prevents seizures."
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "The two prescriptions address distinct complications of severe preeclampsia.",
+      "This reverses their principal intended roles in the stated plan.",
+      "Magnesium is not prescribed here primarily as a diuretic.",
+      "These purposes do not explain the prescribed seizure-prevention and pressure-control regimen."
+    ],
+    "takeaway": "The two prescriptions address distinct complications of severe preeclampsia.",
+    "refs": [
+      "b-magnesium-obstetric"
+    ],
+    "exhibit": null,
+    "subtopic": "Obstetric magnesium therapy",
+    "learningObjective": "Explain why magnesium and a separate antihypertensive may both be prescribed in severe preeclampsia.",
+    "reasoningSkill": "teaching",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-169",
+    "cat": "pharmacology",
+    "title": "Review a possibly contaminated heparin sample",
+    "stem": "A heparin-monitoring sample drawn through the infusing lumen is unexpectedly very high. The nurse has reported the critical result and sampling route; the client has no new bleeding. The local protocol requires team guidance for a possibly contaminated result. What should follow?",
+    "type": "single",
+    "options": [
+      "Repeat the sample through the same infusing lumen.",
+      "Obtain interim protocol guidance and a fresh appropriate-site sample.",
+      "Apply the routine dose-reduction table to this value.",
+      "Verify the infusion pump and use its setting to accept the result."
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Repeating the same collection problem may produce another contaminated result unless an appropriate validated sampling method is used.",
+      "The value might be genuinely high or contaminated; immediate guidance plus valid repeat testing avoids both dismissal and unverified dose changes.",
+      "Possible contamination changes interpretation, and the supplied protocol requires guidance before using the routine table.",
+      "Checking programming is useful but does not establish that the sample reflects systemic anticoagulation."
+    ],
+    "takeaway": "The value might be genuinely high or contaminated; immediate guidance plus valid repeat testing avoids both dismissal and unverified dose changes.",
+    "refs": [
+      "b-anticoag"
+    ],
+    "exhibit": null,
+    "subtopic": "Infusion monitoring",
+    "learningObjective": "Consider sampling contamination before interpreting an unexpected anticoagulation result.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-170",
+    "cat": "pharmacology",
+    "title": "Recognize an unexpectedly high neuraxial block",
+    "stem": "During epidural analgesia, an alert client develops numbness extending into both hands, increasing limb heaviness, low blood pressure and difficulty taking a deep breath. Which complication is most concerning?",
+    "type": "single",
+    "options": [
+      "A vasovagal episode.",
+      "Hypovolemia from earlier fasting.",
+      "An unexpectedly high neuraxial block.",
+      "Opioid-related sedation."
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "A vagal response can lower pressure but does not explain the ascending bilateral numbness and motor heaviness.",
+      "Low volume can contribute to hypotension but does not explain the new level of sensory and motor blockade.",
+      "Ascending sensory and motor changes with respiratory and circulatory effects require immediate epidural-protocol response and anesthesia review.",
+      "The client is alert and has a spreading sensory-motor block, which is more specific than isolated opioid sedation."
+    ],
+    "takeaway": "Ascending sensory and motor changes with respiratory and circulatory effects require immediate epidural-protocol response and anesthesia review.",
+    "refs": [
+      "b-epidural"
+    ],
+    "exhibit": null,
+    "subtopic": "Regional analgesia complications",
+    "learningObjective": "Escalate spreading weakness and breathing difficulty during epidural analgesia.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-171",
+    "cat": "pharmacology",
+    "title": "Recognize systemic local-anesthetic toxicity",
+    "stem": "During a local-anesthetic procedure, a client develops ringing ears, metallic taste and slurred speech. Which responses are appropriate? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Ask the client to practise slow breathing for procedural anxiety.",
+      "Offer a brief pause and then complete the remaining anesthetic dose.",
+      "Alert the procedural team and stop further anesthetic administration.",
+      "Prepare airway and circulatory support according to the emergency protocol.",
+      "Use the prescribed antiemetic to treat the metallic taste and nausea."
+    ],
+    "answer": [
+      2,
+      3
+    ],
+    "why": [
+      "Anxiety support may help distress but is not an adequate response to these drug-related neurological warning symptoms.",
+      "Resuming exposure before the team resolves the suspected toxicity could worsen the event.",
+      "Tinnitus, metallic taste and slurred speech can be early systemic toxicity; preventing further exposure is urgent.",
+      "Toxicity can progress to seizures and cardiac instability, so early resuscitation readiness matters.",
+      "Symptom treatment does not address the characteristic neurological toxicity pattern."
+    ],
+    "takeaway": "Tinnitus, metallic taste and slurred speech can be early systemic toxicity; preventing further exposure is urgent.",
+    "refs": [
+      "b-regional-anesthesia"
+    ],
+    "exhibit": null,
+    "subtopic": "Regional analgesia complications",
+    "learningObjective": "Respond to early neurological warning symptoms during local-anesthetic administration.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-172",
+    "cat": "pharmacology",
+    "title": "Respond to an open central-line system",
+    "stem": "A central-line connection opens and the client develops sudden dyspnea and chest discomfort. Which immediate physical action best interrupts the suspected mechanism while help is summoned?",
+    "type": "single",
+    "options": [
+      "Occlude the open central-line system.",
+      "Apply supplemental oxygen.",
+      "Measure blood pressure and oxygen saturation.",
+      "Reconnect the monitoring leads."
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Sealing the open pathway prevents further air entry while emergency assessment and treatment proceed.",
+      "Oxygen is important supportive care but does not stop additional air entering through the open connection.",
+      "Measurements guide care but do not interrupt the source of possible air entry.",
+      "Monitoring may support assessment but does not stop the open-line mechanism."
+    ],
+    "takeaway": "Sealing the open pathway prevents further air entry while emergency assessment and treatment proceed.",
+    "refs": [
+      "b-parenteral",
+      "b-central-lines"
+    ],
+    "exhibit": null,
+    "subtopic": "Central-line emergencies",
+    "learningObjective": "Stop further air entry and escalate sudden symptoms after central-line disconnection.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-173",
+    "cat": "pharmacology",
+    "title": "Account for medicine remaining in tubing",
+    "stem": "A small-volume IV medicine has left the bag, but medication-containing fluid remains in the tubing. A compatible flush volume and rate are prescribed. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Increase the next dose to replace the estimated residual",
+      "Complete the prescribed flush at the specified rate",
+      "Disconnect immediately because the medication bag is empty",
+      "Flush rapidly to finish the medication round"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Dose compensation is unprescribed and the residual should be managed now.",
+      "This delivers the residual medicine without an unintended rapid bolus.",
+      "An empty bag does not mean the full intended dose has reached the client.",
+      "Rapid flushing can deliver residual medicine faster than prescribed."
+    ],
+    "takeaway": "This delivers the residual medicine without an unintended rapid bolus.",
+    "refs": [
+      "b-parenteral"
+    ],
+    "exhibit": null,
+    "subtopic": "Medication infusion completion",
+    "learningObjective": "Use the prescribed compatible flush plan to deliver residual medicine safely after a small-volume infusion.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-174",
+    "cat": "pharmacology",
+    "title": "Maintain blood integrity when transfusion is delayed",
+    "stem": "A nonemergency transfusion is postponed after the blood unit arrives on the unit. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Keep the unit at the bedside until the new start time is confirmed.",
+      "Put the unit in an ice-filled cooler from the ward.",
+      "Contact the blood bank and follow its return or storage instructions.",
+      "Place the unit in the ward medication refrigerator."
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "The period of uncontrolled storage matters even when the intended delay appears short.",
+      "Improvised cooling can expose the component to unvalidated temperatures and does not replace an approved storage process.",
+      "Blood integrity depends on validated time-temperature control; the service can guide safe handling of this delayed unit.",
+      "An ordinary medication refrigerator may not provide validated blood-storage conditions."
+    ],
+    "takeaway": "Blood integrity depends on validated time-temperature control; the service can guide safe handling of this delayed unit.",
+    "refs": [
+      "b-transfusion"
+    ],
+    "exhibit": null,
+    "subtopic": "Blood-component handling",
+    "learningObjective": "Follow blood-bank time and storage requirements when an issued component cannot be started.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-175",
+    "cat": "pharmacology",
+    "title": "Limit injection-site bruising",
+    "stem": "After a prescribed subcutaneous enoxaparin injection, the client sees a small drop of blood and begins rubbing the site. Which technique should the nurse reinforce?",
+    "type": "single",
+    "options": [
+      "Massage briefly to disperse the medicine under the skin.",
+      "Rub the site with an alcohol swab until the drop disappears.",
+      "Press and rub an adhesive dressing firmly over the site.",
+      "Hold gentle gauze pressure if needed and avoid rubbing."
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Massage is not needed to disperse enoxaparin and can increase local trauma.",
+      "Repeated rubbing can worsen bruising and is not the appropriate way to control oozing.",
+      "A dressing may be used as indicated, but rubbing pressure is not the supported postinjection technique.",
+      "Gentle pressure can control minor oozing; rubbing adds tissue trauma and bruising risk."
+    ],
+    "takeaway": "Gentle pressure can control minor oozing; rubbing adds tissue trauma and bruising risk.",
+    "refs": [
+      "b-anticoag"
+    ],
+    "exhibit": null,
+    "subtopic": "Subcutaneous anticoagulant technique",
+    "learningObjective": "Apply product-specific subcutaneous anticoagulant technique and avoid unnecessary tissue trauma.",
+    "reasoningSkill": "teaching",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  }
+]

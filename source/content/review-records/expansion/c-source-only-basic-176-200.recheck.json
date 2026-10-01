@@ -1,0 +1,151 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:43:52.864342+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/basic-176-200.json",
+  "sourceSha256": "29e8d619867a1a552305c600af6d9d749c266c284478427d92ce12b5e20125fa",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 6,
+    "reviewedIds": [
+      "x-basic-176",
+      "x-basic-177",
+      "x-basic-178",
+      "x-basic-181",
+      "x-basic-194",
+      "x-basic-195"
+    ],
+    "unreviewedIds": [
+      "x-basic-179",
+      "x-basic-180",
+      "x-basic-182",
+      "x-basic-183",
+      "x-basic-184",
+      "x-basic-185",
+      "x-basic-186",
+      "x-basic-187",
+      "x-basic-188",
+      "x-basic-189",
+      "x-basic-190",
+      "x-basic-191",
+      "x-basic-192",
+      "x-basic-193",
+      "x-basic-196",
+      "x-basic-197",
+      "x-basic-198",
+      "x-basic-199",
+      "x-basic-200"
+    ]
+  },
+  "method": "Each listed stem/topic and new reference mapping was manually examined. Replacing current refs with the recorded oldRefs reproduces a prior independently approved full-item hash; this proves all other fields are unchanged. The present pass approves the manually assessed reference relevance while carrying forward that exact unchanged-content review. It is not a new full clinical review or an automated pass based solely on hash equality.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-basic-176",
+      "status": "pass",
+      "assessment": "Parkinson freezing guidance is more direct support than general transfer guidance for using an already rehearsed cue. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3fce63fe04b228efb5a1c56ee942f4ffc0338d13e775cd957dacaa06a212e877"
+    },
+    {
+      "id": "x-basic-177",
+      "status": "pass",
+      "assessment": "Parkinson motor-symptom reference is related to planning around an observed better-function period; no medicine adjustment is taught. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b362fa5abcd693fc1bcb6555057adc9257506891327f5318c2a9b1d1290ce590"
+    },
+    {
+      "id": "x-basic-178",
+      "status": "pass",
+      "assessment": "Prosthetic skin-care source directly fits assessing focal pressure from a sock wrinkle. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "aa6cb4d17c49c4ccf0d6ff3464ef6cafb536d2b4908e2e8a41cf3d95a149f9c4"
+    },
+    {
+      "id": "x-basic-181",
+      "status": "pass",
+      "assessment": "MS-fatigue source is relevant to the observed heat-related deterioration and cooler seated adaptation. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e8cd16c338f0144166a71da82863e84618c56130fd81dcf042900f4c3bc6ed7c"
+    },
+    {
+      "id": "x-basic-194",
+      "status": "pass",
+      "assessment": "Hygiene and mobility guidance match assessing bathing access while retaining independent washing. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5357f4ad81b99aec0de09041cf5afca8f4eed47ce11bf6af5490cb7c80e7473a"
+    },
+    {
+      "id": "x-basic-195",
+      "status": "pass",
+      "assessment": "Positioning guidance matches comfort/tissue-tolerance evaluation under an already authorized elevation plan. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c0972a1cbf5148d8770575e60cd11fa5fef89bb7ab480d85ab156e8ce9045853"
+    }
+  ],
+  "referenceProofs": {
+    "x-basic-176": {
+      "priorPassReport": "c-basic-176-200.legacy-review.json",
+      "priorPassHash": "7f1a7c7547b98cb38d8f2359e1031c26910d9b16d9b4b230d7cb638534bd04f9",
+      "newRefs": [
+        "c-parkinson"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-177": {
+      "priorPassReport": "c-basic-176-200.legacy-review.json",
+      "priorPassHash": "3bf7a6c72dfd94a86be7a6f577d2d53a71b2bbbd5196e63e80895745f1f765a8",
+      "newRefs": [
+        "c-parkinson-motor"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-178": {
+      "priorPassReport": "c-basic-176-200.legacy-review.json",
+      "priorPassHash": "ea4aaa6824f84230183ec154faae173a0576fe44055f6cb105c0110e24b975f6",
+      "newRefs": [
+        "c-prosthetic-skin"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-181": {
+      "priorPassReport": "c-basic-176-200.legacy-review.json",
+      "priorPassHash": "3ce6767314d4ced376362af04166946904ea5e18fa032db8fa4d055a5959cefb",
+      "newRefs": [
+        "c-ms-fatigue"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-194": {
+      "priorPassReport": "c-basic-176-200.legacy-review.json",
+      "priorPassHash": "a51f19d7ef7ce0e279d6b2b1a3c91ca804cf45073bed077e3bee90750e2c15a3",
+      "newRefs": [
+        "c-hygiene",
+        "c-mobility"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-195": {
+      "priorPassReport": "c-basic-176-200.legacy-review.json",
+      "priorPassHash": "ff47a00f55eaa8fd0475f812bbc9a9f1c1796e19b8e71f225aa099500a7a976d",
+      "newRefs": [
+        "c-position"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    }
+  },
+  "sourceCheckLimit": "New source names, registered scopes and mapped item topics were inspected. Complete source texts were not independently retrieved for every mapping; no full-source or clinician validation is claimed.",
+  "reviewerTask": "/root/review_legacy"
+}

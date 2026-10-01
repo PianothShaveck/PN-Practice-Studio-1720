@@ -1,0 +1,814 @@
+[
+  {
+    "id": "x-pharmacology-051",
+    "cat": "pharmacology",
+    "title": "Apply a type 1 diabetes sick-day plan",
+    "stem": "A client with type 1 diabetes has influenza and poor appetite. They plan to stop basal insulin until eating normally. Which teaching priority addresses the most urgent misconception?",
+    "type": "single",
+    "options": [
+      "How to choose tolerated carbohydrate-containing foods",
+      "How to match mealtime doses to the amount eaten",
+      "How to resume usual activity after the fever settles",
+      "How to continue basal insulin under the sick-day plan"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Food planning matters, but it does not correct the dangerous plan to omit basal insulin.",
+      "Mealtime adjustment is relevant but does not replace the continuing basal requirement.",
+      "Recovery activity is less urgent than preventing current insulin deficiency.",
+      "Without basal insulin, ketoacidosis can develop despite poor food intake."
+    ],
+    "takeaway": "Without basal insulin, ketoacidosis can develop despite poor food intake.",
+    "refs": [
+      "b-endocrine-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Diabetes medicines",
+    "learningObjective": "Maintain an individualized insulin and monitoring plan during illness with poor intake.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-052",
+    "cat": "pharmacology",
+    "title": "Address lipohypertrophy before dose escalation",
+    "stem": "A client has erratic glucose despite prescribed insulin use. They inject into the same firm abdominal lump because it hurts less. What is the most useful next step?",
+    "type": "single",
+    "options": [
+      "Assess injection sites and teach rotation into healthy tissue",
+      "Request a higher insulin dose for the persistent high readings",
+      "Rotate daily between the abdomen, upper arms and thighs",
+      "Teach deeper injections into the same lump"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Lipohypertrophy can cause unpredictable absorption and needs correction before assuming dose failure.",
+      "Increasing insulin before correcting unpredictable absorption can cause hypoglycaemia when injections move into healthy tissue.",
+      "Frequent changes between body regions may add absorption variation; a consistent site-rotation plan within suitable healthy tissue is needed.",
+      "Changing depth does not restore normal absorption in damaged tissue."
+    ],
+    "takeaway": "Lipohypertrophy can cause unpredictable absorption and needs correction before assuming dose failure.",
+    "refs": [
+      "b-endocrine-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Diabetes medicines",
+    "learningObjective": "Address injection-site lipohypertrophy before assuming the prescribed insulin dose is ineffective.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-053",
+    "cat": "pharmacology",
+    "title": "Explain why insulin pens are individual devices",
+    "stem": "Two spouses use the same insulin product and ask to share a pen with separate needles. What is the best explanation?",
+    "type": "single",
+    "options": [
+      "Cleaning the outer pen permits sharing",
+      "Blood contamination may occur inside the pen",
+      "Sharing is acceptable when neither has a known infection",
+      "Sharing is acceptable if both prescribed doses match"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "External cleaning does not disinfect its internal fluid pathway.",
+      "Changing the needle does not make a pen safe for another person.",
+      "Unrecognized bloodborne infection still makes shared use unsafe.",
+      "Matching doses does not address contamination inside the device."
+    ],
+    "takeaway": "Changing the needle does not make a pen safe for another person.",
+    "refs": [
+      "b-endocrine-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Diabetes medicines",
+    "learningObjective": "Explain why changing needles does not make insulin pens safe to share.",
+    "reasoningSkill": "teaching",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-054",
+    "cat": "pharmacology",
+    "title": "Verify a concentrated insulin transition",
+    "stem": "A client's insulin prescription changes to a concentrated pen. They want to withdraw the insulin using their old syringe because it feels familiar. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Explain the new pen instructions and ask the client to repeat the prescribed dose",
+      "Use the old syringe markings while following the new pen label",
+      "Reteach dosing with the prescribed pen and return demonstration",
+      "Convert to the old syringe volume using the previous label"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Repeating the dose checks recall but does not establish the ability to use the unfamiliar concentrated-insulin device correctly.",
+      "The syringe markings may not correspond to the concentrated pen product.",
+      "Observed device-specific technique helps prevent a concentration-related dosing error.",
+      "Old volume instructions may deliver the wrong amount of concentrated insulin."
+    ],
+    "takeaway": "Observed device-specific technique helps prevent a concentration-related dosing error.",
+    "refs": [
+      "b-endocrine-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Diabetes medicines",
+    "learningObjective": "Verify device-specific administration when a concentrated insulin product is prescribed.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-055",
+    "cat": "pharmacology",
+    "title": "Link a sulfonylurea to skipped-meal symptoms",
+    "stem": "A client taking gliclazide reports shakiness during a shift after missing lunch. They have a glucose meter available. What should the nurse advise first?",
+    "type": "single",
+    "options": [
+      "Eat a routine snack and check at the next scheduled time",
+      "Rest first and check glucose only if symptoms persist",
+      "Arrange a change to tomorrow's dose before assessing the symptoms",
+      "Check glucose now and follow the low-glucose plan if needed"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "A routine snack and delayed check may not adequately identify or treat a current low.",
+      "The meter is available, and rest does not determine whether glucose is dangerously low.",
+      "A future regimen adjustment does not address the possible current hypoglycemia.",
+      "Gliclazide plus a missed meal makes the current shakiness concerning for hypoglycemia."
+    ],
+    "takeaway": "Gliclazide plus a missed meal makes the current shakiness concerning for hypoglycemia.",
+    "refs": [
+      "b-endocrine-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Diabetes medicines",
+    "learningObjective": "Assess possible sulfonylurea-associated hypoglycemia after a missed meal.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-056",
+    "cat": "pharmacology",
+    "title": "Review metformin during acute renal decline",
+    "stem": "A client taking metformin is admitted with vomiting, dehydration and new acute kidney injury. A usual dose is due. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Seek prompt medication review before administering the dose",
+      "Give it because the long-term prescription has not changed",
+      "Give half the dose without contacting the team",
+      "Give it with food and defer the kidney result"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Acute renal impairment and dehydration can change metformin safety.",
+      "The acute illness changes the assessment required before administration.",
+      "An arbitrary reduction is not an authorized renal-adjustment plan.",
+      "Food does not remove the accumulation concern from acute renal impairment."
+    ],
+    "takeaway": "Acute renal impairment and dehydration can change metformin safety.",
+    "refs": [
+      "b-endocrine-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Diabetes medicines",
+    "learningObjective": "Reassess metformin safety when dehydration and acute renal impairment develop.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-057",
+    "cat": "pharmacology",
+    "title": "Recognize possible euglycemic ketoacidosis",
+    "stem": "A client taking empagliflozin has persistent vomiting, abdominal pain and deep breathing. Glucose is only moderately elevated. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Repeat capillary glucose in one hour to decide whether emergency assessment is needed",
+      "Urgently assess for ketones and acid-base disturbance",
+      "Use the glucose value to exclude a diabetic emergency",
+      "Hydrate while arranging routine sick-day telephone review later"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Glucose may understate SGLT2-associated ketoacidosis; persistent vomiting, abdominal pain and deep breathing warrant urgent assessment now.",
+      "SGLT2-associated ketoacidosis can be serious even when glucose is only moderately elevated.",
+      "Moderate glucose does not exclude ketoacidosis with this medication and symptom pattern.",
+      "Persistent vomiting and deep breathing require more urgent assessment."
+    ],
+    "takeaway": "SGLT2-associated ketoacidosis can be serious even when glucose is only moderately elevated.",
+    "refs": [
+      "b-endocrine-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Diabetes medicines",
+    "learningObjective": "Recognize ketoacidosis warning symptoms during SGLT2 therapy despite modest glucose elevation.",
+    "reasoningSkill": "intervention",
+    "difficulty": "challenge",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-058",
+    "cat": "pharmacology",
+    "title": "Evaluate severe symptoms during GLP-1 therapy",
+    "stem": "A client taking semaglutide reports severe persistent upper abdominal pain and repeated vomiting. Mild nausea had occurred previously. What is best?",
+    "type": "single",
+    "options": [
+      "Use small frequent drinks and judge the response by whether nausea settles",
+      "Request a smaller dose at the next routine medication review",
+      "Arrange prompt clinical assessment before further dosing",
+      "Apply the previous mild-nausea plan and reassess tomorrow"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Nausea relief does not exclude a serious cause of continuing severe upper-abdominal pain.",
+      "A routine dose discussion is too delayed for persistent severe pain with repeated vomiting.",
+      "Severe persistent pain differs from earlier mild nausea and requires evaluation.",
+      "The changed severity makes routine delayed self-management insufficient."
+    ],
+    "takeaway": "Severe persistent pain differs from earlier mild nausea and requires evaluation.",
+    "refs": [
+      "b-endocrine-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Diabetes medicines",
+    "learningObjective": "Distinguish severe persistent abdominal symptoms from mild expected GLP-1 intolerance.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-059",
+    "cat": "pharmacology",
+    "title": "Assess hyperglycemia after glucocorticoids",
+    "stem": "A client starts systemic prednisone and subsequently has thirst and repeatedly elevated glucose despite no prior diabetes diagnosis. What interpretation best guides care?",
+    "type": "single",
+    "options": [
+      "A previous normal glucose rules out a medication contribution",
+      "The results reflect undiagnosed diabetes unrelated to prednisone",
+      "Thirst is sufficient evidence to reduce prednisone independently",
+      "The steroid may have increased glucose and monitoring needs"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Normal pretreatment values do not exclude steroid-associated hyperglycemia.",
+      "The temporal association warrants assessment of a steroid contribution without assuming a permanent diagnosis.",
+      "Treatment changes require review of the indication and glucose management plan.",
+      "Glucocorticoids can raise glucose even without previously diagnosed diabetes."
+    ],
+    "takeaway": "Glucocorticoids can raise glucose even without previously diagnosed diabetes.",
+    "refs": [
+      "b-endocrine-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Endocrine medicines",
+    "learningObjective": "Connect new hyperglycemia with systemic glucocorticoid exposure and monitoring needs.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-060",
+    "cat": "pharmacology",
+    "title": "Verify practical insulin readiness",
+    "stem": "An older adult is preparing to manage a new insulin pen independently at home. Which findings support readiness? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "The client accurately demonstrates selecting and delivering the prescribed dose",
+      "The client explains when and how to treat low glucose",
+      "The client agrees with every instruction but cannot show dose selection",
+      "The client identifies the pen only by cap colour",
+      "The client relies on a family member who will not be present"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "why": [
+      "Return demonstration tests practical ability rather than verbal agreement.",
+      "Recognizing and responding to hypoglycemia supports safer independent use.",
+      "Agreement alone does not demonstrate the ability to administer insulin.",
+      "Colour cannot reliably establish the prescribed insulin product.",
+      "A plan dependent on unavailable assistance does not support independent use."
+    ],
+    "takeaway": "Return demonstration tests practical ability rather than verbal agreement.",
+    "refs": [
+      "b-endocrine-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Diabetes medicines",
+    "learningObjective": "Evaluate demonstrated insulin administration and hypoglycemia-management competence.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-061",
+    "cat": "pharmacology",
+    "title": "Plan discontinuation after prolonged steroid use",
+    "stem": "A client has taken systemic prednisone daily for months and wants to stop because symptoms improved. What is the best response?",
+    "type": "single",
+    "options": [
+      "Reuse the taper schedule provided for a previous brief course of prednisone",
+      "Arrange a prescriber-directed taper and discuss adrenal suppression",
+      "Stop when the current package is finished regardless of dose",
+      "Alternate full doses and no doses based on daily symptoms"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "A schedule for a brief course may not account for months of adrenal suppression or the current underlying disease.",
+      "Prolonged therapy can suppress endogenous cortisol, making abrupt withdrawal hazardous.",
+      "Package completion does not establish a safe discontinuation schedule.",
+      "An improvised schedule does not address adrenal recovery reliably."
+    ],
+    "takeaway": "Prolonged therapy can suppress endogenous cortisol, making abrupt withdrawal hazardous.",
+    "refs": [
+      "b-endocrine-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Endocrine medicines",
+    "learningObjective": "Explain the need for a supervised discontinuation plan after prolonged systemic steroid use.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-062",
+    "cat": "pharmacology",
+    "title": "Improve levothyroxine administration consistency",
+    "stem": "A client takes levothyroxine with iron on some mornings and without breakfast on others. Thyroid results have become variable. What is the best teaching focus?",
+    "type": "single",
+    "options": [
+      "Alternate breakfast and fasting administration according to convenience",
+      "Request a higher dose before addressing administration technique",
+      "Use consistent instructed timing and separate interacting supplements",
+      "Separate iron only on days when thyroid blood tests are scheduled"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Variable food exposure can continue to produce variable absorption.",
+      "Correcting inconsistent administration may prevent unnecessary dose escalation.",
+      "Variable food and iron exposure can alter levothyroxine absorption.",
+      "Absorption consistency is needed between tests, not just on sampling days."
+    ],
+    "takeaway": "Variable food and iron exposure can alter levothyroxine absorption.",
+    "refs": [
+      "b-endocrine-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Endocrine medicines",
+    "learningObjective": "Address inconsistent levothyroxine absorption from variable meals and interacting supplements.",
+    "reasoningSkill": "teaching",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-063",
+    "cat": "pharmacology",
+    "title": "Recognize possible thyroid overreplacement",
+    "stem": "After a levothyroxine increase, a client develops palpitations, heat intolerance and tremor. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Move the levothyroxine dose to bedtime to reduce daytime symptoms",
+      "Reassure that symptoms reflect adjustment and keep routine follow-up",
+      "Provide relaxation teaching and defer thyroid review unless anxiety persists",
+      "Report symptoms for thyroid and cardiovascular assessment"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Timing changes do not evaluate or correct possible excessive hormone exposure after a dose increase.",
+      "The adrenergic symptom cluster after a dose increase warrants earlier review.",
+      "Relaxation alone does not address possible excessive hormone replacement.",
+      "The temporal pattern suggests possible overreplacement requiring review."
+    ],
+    "takeaway": "The temporal pattern suggests possible overreplacement requiring review.",
+    "refs": [
+      "b-endocrine-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Endocrine medicines",
+    "learningObjective": "Identify possible thyroid overreplacement from new symptoms after a dose increase.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-064",
+    "cat": "pharmacology",
+    "title": "Report fever during antithyroid treatment",
+    "stem": "A client taking methimazole develops fever and a sore throat. They ask whether to treat it as a usual cold. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Promptly contact the treatment team for assessment and blood-count guidance",
+      "Use cold remedies and report only if symptoms persist a week",
+      "Arrange a thyroid-function test and use its result to decide about review",
+      "Treat it as an allergy solely because fever followed treatment"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Agranulocytosis is uncommon but serious and must be considered.",
+      "Delayed assessment may miss a serious drug-associated infection risk.",
+      "Thyroid hormone control does not assess neutrophil suppression or infection risk; these symptoms need prompt review and blood-count guidance.",
+      "Fever and sore throat require evaluation rather than an assumed mechanism."
+    ],
+    "takeaway": "Agranulocytosis is uncommon but serious and must be considered.",
+    "refs": [
+      "b-endocrine-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Endocrine medicines",
+    "learningObjective": "Escalate fever and sore throat during methimazole therapy for marrow-toxicity assessment.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-065",
+    "cat": "pharmacology",
+    "title": "Evaluate oral bisphosphonate suitability",
+    "stem": "A client prescribed oral alendronate cannot remain upright because of an acute back condition. What should the nurse do before administration?",
+    "type": "single",
+    "options": [
+      "Crush it into a small volume of food",
+      "Clarify an appropriate treatment plan or alternative",
+      "Give it with breakfast to protect the esophagus",
+      "Give it just before sleep to minimize discomfort"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Changing formulation does not establish safety and can increase irritation.",
+      "Upright positioning is part of reducing esophageal injury with oral alendronate.",
+      "Food reduces absorption and does not replace positioning requirements.",
+      "Recumbency increases the risk of esophageal exposure."
+    ],
+    "takeaway": "Upright positioning is part of reducing esophageal injury with oral alendronate.",
+    "refs": [
+      "b-endocrine-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Endocrine medicines",
+    "learningObjective": "Clarify oral bisphosphonate suitability when upright positioning is not possible.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-066",
+    "cat": "pharmacology",
+    "title": "Recognize desmopressin-associated water retention",
+    "stem": "A client taking desmopressin drinks unusually large amounts of water, passes less urine and develops headache, confusion and weight gain. What is the priority concern?",
+    "type": "single",
+    "options": [
+      "Dehydration from inadequate antidiuretic effect",
+      "Hyperglycemia-related osmotic fluid loss",
+      "Water retention with possible hyponatremia",
+      "A medication headache without a fluid disturbance"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Inadequate effect would favour excessive urine loss rather than retention and weight gain.",
+      "Osmotic diuresis would more typically increase urine output and cause volume loss.",
+      "Reduced water excretion plus excess intake can dilute sodium and affect neurological function.",
+      "Reduced urine output, weight gain and confusion suggest a wider water-balance problem."
+    ],
+    "takeaway": "Reduced water excretion plus excess intake can dilute sodium and affect neurological function.",
+    "refs": [
+      "b-endocrine-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Endocrine medicines",
+    "learningObjective": "Recognize neurological warning symptoms of water retention during desmopressin therapy.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-067",
+    "cat": "pharmacology",
+    "title": "Escalate failed oral adrenal replacement",
+    "stem": "A client with adrenal insufficiency cannot keep prescribed hydrocortisone down during gastroenteritis and feels increasingly weak. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Wait until the next routine tablet time",
+      "Take smaller bites of food before retrying for several hours",
+      "Replace the missed medicine with extra salt and water",
+      "Urgently follow the emergency sick-day replacement plan"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Delay can allow adrenal crisis to develop.",
+      "A prolonged trial of oral intake can delay necessary parenteral replacement.",
+      "Fluids and salt cannot replace deficient glucocorticoid activity.",
+      "Vomiting can prevent absorption when illness increases cortisol needs."
+    ],
+    "takeaway": "Vomiting can prevent absorption when illness increases cortisol needs.",
+    "refs": [
+      "b-endocrine-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Endocrine medicines",
+    "learningObjective": "Activate emergency replacement planning when vomiting prevents oral glucocorticoid absorption.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-068",
+    "cat": "pharmacology",
+    "title": "Prepare for new exercise with insulin",
+    "stem": "An insulin-treated client plans to start prolonged evening exercise. Which elements belong in a safe individualized plan? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Continue exercising through shakiness until a planned break",
+      "Monitor glucose around activity and afterward as instructed",
+      "Keep rapid carbohydrate readily available",
+      "Assume an adequate pre-exercise meal prevents every low",
+      "Omit all basal insulin on exercise days"
+    ],
+    "answer": [
+      1,
+      2
+    ],
+    "why": [
+      "Symptoms require timely assessment rather than continued exertion.",
+      "Exercise can alter glucose during activity and later recovery.",
+      "Accessible treatment supports a prompt response to low glucose.",
+      "Delayed hypoglycemia can still occur despite prior food intake.",
+      "Blanket basal omission can create significant insulin deficiency."
+    ],
+    "takeaway": "Exercise can alter glucose during activity and later recovery.",
+    "refs": [
+      "b-endocrine-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Diabetes medicines",
+    "learningObjective": "Plan glucose monitoring and hypoglycemia treatment around a new exercise pattern.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-069",
+    "cat": "pharmacology",
+    "title": "Plan insulin use across time zones",
+    "stem": "A client using basal and mealtime insulin will cross several time zones. Which preparations are appropriate? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Keep basal and mealtime doses on the home clock throughout the trip",
+      "Pack all insulin with ice directly against the cartridges",
+      "Adjust mealtime doses after arrival according to appetite at each meal",
+      "Obtain an individualized dosing and monitoring schedule",
+      "Carry accessible supplies and hypoglycemia treatment"
+    ],
+    "answer": [
+      3,
+      4
+    ],
+    "why": [
+      "Maintaining every home-clock dose may mismatch changed meal times and dose intervals; an individualized travel plan is needed.",
+      "Freezing can damage insulin and make it unreliable.",
+      "Appetite alone does not establish carbohydrate intake, glucose status or the appropriate dose intervals across time zones.",
+      "Time changes can alter intervals between doses and meals.",
+      "Lost checked luggage should not interrupt essential treatment."
+    ],
+    "takeaway": "Time changes can alter intervals between doses and meals.",
+    "refs": [
+      "b-endocrine-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Diabetes medicines",
+    "learningObjective": "Prepare an individualized insulin schedule for travel across time zones.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-070",
+    "cat": "pharmacology",
+    "title": "Evaluate emergency glucagon teaching",
+    "stem": "A partner receives training with the client's prescribed glucagon rescue device. Which statement shows appropriate understanding?",
+    "type": "single",
+    "options": [
+      "I will try to give a drink before using it even if swallowing is unsafe",
+      "I will practise by partly discharging the real rescue device",
+      "I will use the device as taught and call for emergency help",
+      "If the person wakes, no further glucose checks are needed"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Oral intake during impaired consciousness creates aspiration risk.",
+      "A partially used single-use device may not provide the intended emergency dose.",
+      "Severe hypoglycemia needs rescue treatment plus assessment and continued monitoring.",
+      "Low glucose can recur and the cause still needs review."
+    ],
+    "takeaway": "Severe hypoglycemia needs rescue treatment plus assessment and continued monitoring.",
+    "refs": [
+      "b-endocrine-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Diabetes medicines",
+    "learningObjective": "Evaluate a caregiver's understanding of prescribed glucagon rescue and subsequent monitoring.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-071",
+    "cat": "pharmacology",
+    "title": "Assess abnormal insulin appearance",
+    "stem": "A clear insulin product now contains visible particles after being left near a heater. What should the nurse advise?",
+    "type": "single",
+    "options": [
+      "Use it if the next glucose reading is normal",
+      "Increase the dose to compensate for possible loss of potency",
+      "Refrigerate it again and assume potency is restored",
+      "Do not use it and arrange a verified replacement"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "A glucose result cannot verify the damaged product's reliability.",
+      "The degree of damage is unknown, making dose compensation unsafe.",
+      "Cooling cannot reverse damage already caused by improper storage.",
+      "Unexpected particles and heat exposure raise concern about product integrity."
+    ],
+    "takeaway": "Unexpected particles and heat exposure raise concern about product integrity.",
+    "refs": [
+      "b-endocrine-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Diabetes medicines",
+    "learningObjective": "Respond to abnormal insulin appearance after possible heat damage.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-072",
+    "cat": "pharmacology",
+    "title": "Respond to interrupted pump delivery",
+    "stem": "A client with type 1 diabetes finds that insulin pump delivery stopped several hours ago. They feel well but glucose is rising. What should happen?",
+    "type": "single",
+    "options": [
+      "Check glucose and ketones as directed and activate the backup insulin plan",
+      "Wait for symptoms before using the backup plan",
+      "Give a correction through the same unverified malfunctioning system",
+      "Reconnect and postpone all monitoring until bedtime"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Pump interruption can quickly lead to insulin deficiency and ketoacidosis.",
+      "Feeling well does not exclude evolving insulin deficiency.",
+      "The intended dose may not be delivered until function is confirmed.",
+      "Restored connection alone does not show that glucose and ketones are safe."
+    ],
+    "takeaway": "Pump interruption can quickly lead to insulin deficiency and ketoacidosis.",
+    "refs": [
+      "b-endocrine-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Diabetes medicines",
+    "learningObjective": "Activate a backup insulin plan when pump interruption causes rising glucose.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-073",
+    "cat": "pharmacology",
+    "title": "Distinguish antithyroid benefit from excessive suppression",
+    "stem": "A client starts treatment for hyperthyroidism. Which change best supports the intended response?",
+    "type": "single",
+    "options": [
+      "The client reports a new sore throat and fever",
+      "Resting tachycardia and tremor decrease without new cold intolerance",
+      "Weight rises rapidly with profound lethargy and cold intolerance",
+      "Palpitations persist but the client is less worried"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "These can indicate an important adverse effect requiring assessment.",
+      "This suggests reduced excess hormone effect without clear hypothyroid symptoms.",
+      "These findings may suggest excessive suppression rather than balanced treatment.",
+      "Reduced anxiety does not establish a physiological treatment response."
+    ],
+    "takeaway": "This suggests reduced excess hormone effect without clear hypothyroid symptoms.",
+    "refs": [
+      "b-endocrine-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Endocrine medicines",
+    "learningObjective": "Distinguish controlled hyperthyroidism from excessive suppression or treatment toxicity.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-074",
+    "cat": "pharmacology",
+    "title": "Clarify an incomplete correction scale",
+    "stem": "A client's premeal glucose lies above the highest range on the prescribed insulin correction scale. The client is alert and the meal is available. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Use the highest listed dose as the final plan",
+      "Repeat the glucose after the meal before contacting the prescriber",
+      "Contact the authorized prescriber or follow the escalation instruction",
+      "Extend the scale by repeating its last numerical increment"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "That dose may be insufficient or inappropriate for the unlisted range.",
+      "A later value does not replace current clarification of a result outside the authorized dosing scale.",
+      "The incomplete scale does not authorize extrapolation to an unlisted range.",
+      "A pattern in listed doses is not a prescription for higher values."
+    ],
+    "takeaway": "The incomplete scale does not authorize extrapolation to an unlisted range.",
+    "refs": [
+      "bcmed"
+    ],
+    "exhibit": null,
+    "subtopic": "Diabetes medicines",
+    "learningObjective": "Seek an authorized dose when a correction scale omits the current glucose range.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-075",
+    "cat": "pharmacology",
+    "title": "Recognize complications during chronic corticosteroid therapy",
+    "stem": "A client taking long-term systemic corticosteroids is reviewing when to call the clinic. Which changes need prompt same-day assessment rather than routine teaching? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "New fever with a worsening cough",
+      "Black sticky stools with new light-headedness",
+      "Joint pain improves enough to walk farther",
+      "Mild sleep difficulty after a dose taken late in the day",
+      "Mild appetite improvement without other changes"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "why": [
+      "Immunosuppression raises concern about infection and its progression.",
+      "This pattern may indicate gastrointestinal bleeding.",
+      "Functional improvement may be an intended anti-inflammatory benefit.",
+      "This merits timing advice or routine review but is less urgent than infection or bleeding signs.",
+      "This can occur with corticosteroids and is less urgent than the listed red flags."
+    ],
+    "takeaway": "Immunosuppression raises concern about infection and its progression.",
+    "refs": [
+      "b-endocrine-drugs"
+    ],
+    "exhibit": null,
+    "subtopic": "Endocrine medicines",
+    "learningObjective": "Identify infection and bleeding warning symptoms during chronic systemic corticosteroid use.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  }
+]

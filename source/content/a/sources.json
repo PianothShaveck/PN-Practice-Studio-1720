@@ -1,0 +1,247 @@
+{
+  "a-consent": {
+    "name": "CNO Consent",
+    "url": "https://www.cno.org/Assets/CNO/Documents/Standard-and-Learning/Practice-Standards/41020_consent.pdf",
+    "kind": "regulator",
+    "checkedDate": "2026-10-01",
+    "scope": "Ontario consent, capacity and substitutes"
+  },
+  "a-code": {
+    "name": "CNO Code of Conduct",
+    "url": "https://www.cno.org/Assets/CNO/Documents/Standard-and-Learning/Practice-Standards/49040_code-of-conduct.pdf",
+    "kind": "regulator",
+    "checkedDate": "2026-10-01",
+    "scope": "Dignity, equitable care, professional integrity and teamwork"
+  },
+  "a-professional": {
+    "name": "BCCNM LPN Professional Standards",
+    "url": "https://www.bccnm.ca/LPN/PracticeStandards/Pages/ProfessionalStandards.aspx",
+    "kind": "regulator",
+    "checkedDate": "2026-10-01",
+    "scope": "Competence, accountability, coordination and evaluation"
+  },
+  "a-documentation": {
+    "name": "BCCNM Nurses: Documentation",
+    "url": "https://www.bccnm.ca/RPN/PracticeStandards/Pages/documentation.aspx",
+    "kind": "regulator",
+    "checkedDate": "2026-10-01",
+    "scope": "Current all-nurses documentation standard effective April 2026"
+  },
+  "a-privacy": {
+    "name": "BCCNM Nurses: Privacy and Confidentiality",
+    "url": "https://bccnm.ca/RN/PracticeStandards/Pages/privacyconfidentiality.aspx",
+    "kind": "regulator",
+    "checkedDate": "2026-10-01",
+    "scope": "Purpose-limited information access, disclosure and safeguards"
+  },
+  "a-conflict": {
+    "name": "BCCNM Nurses: Conflict of Interest",
+    "url": "https://bccnm.ca/RN/PracticeStandards/Pages/conflictofinterest.aspx",
+    "kind": "regulator",
+    "checkedDate": "2026-10-01",
+    "scope": "Financial conflicts and professional recommendations"
+  },
+  "a-ipc": {
+    "name": "PHAC Routine Practices and Additional Precautions, Part B",
+    "url": "https://www.canada.ca/en/public-health/services/publications/diseases-conditions/routine-practices-precautions-healthcare-associated-infections/part-b.html",
+    "kind": "public-health",
+    "checkedDate": "2026-10-01",
+    "scope": "Routine practices, PPE, equipment, sharps and additional precautions"
+  },
+  "a-transmission": {
+    "name": "PHAC Transmission characteristics and precautions, Part C",
+    "url": "https://www.canada.ca/en/public-health/services/publications/diseases-conditions/routine-practices-precautions-healthcare-associated-infections/part-c.html",
+    "kind": "public-health",
+    "checkedDate": "2026-10-01",
+    "scope": "Syndrome and organism transmission routes; local current protocols remain necessary"
+  },
+  "a-safetytext": {
+    "name": "OpenStax Fundamentals of Nursing 9.1 Safety: Individual and Environmental",
+    "url": "https://openstax.org/books/fundamentals-nursing/pages/9-1-safety-individual-and-environmental",
+    "kind": "reference",
+    "checkedDate": "2026-10-01",
+    "scope": "General safety, falls, restraints and environmental assessment; US legal framing not used"
+  },
+  "a-infectiontext": {
+    "name": "OpenStax Fundamentals of Nursing 10.4 Infection Control and Patient Safety",
+    "url": "https://openstax.org/books/fundamentals-nursing/pages/10-4-infection-control-and-patient-safety",
+    "kind": "reference",
+    "checkedDate": "2026-10-01",
+    "scope": "General infection prevention concepts"
+  },
+  "a-handling": {
+    "name": "CCOHS Safe Patient Handling Program",
+    "url": "https://www.ccohs.ca/oshanswers/hsprograms/patient_handling.html?=undefined",
+    "kind": "reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Equipment, worker training and individualized handling assessment"
+  },
+  "a-violence": {
+    "name": "CCOHS Working Alone: Working With Patients",
+    "url": "https://www.ccohs.ca/oshanswers/hsprograms/alone/workingalone_patients.html",
+    "kind": "reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Staff safety, exits, check-ins and violence response"
+  },
+  "a-sleep": {
+    "name": "Health Canada Safe Sleep Tips",
+    "url": "https://www.canada.ca/en/health-canada/services/safe-sleep/safe-sleep-tips.html",
+    "kind": "public-health",
+    "checkedDate": "2026-10-01",
+    "scope": "Infant sleep surfaces, positioning and entrapment risks"
+  },
+  "a-battery": {
+    "name": "Health Canada Button Battery Safety",
+    "url": "https://www.canada.ca/en/health-canada/services/household-products/battery-safety/button.html",
+    "kind": "public-health",
+    "checkedDate": "2026-10-01",
+    "scope": "Button battery ingestion urgency and prevention"
+  },
+  "a-child": {
+    "name": "Health Canada Is Your Child Safe? Play Time",
+    "url": "https://www.canada.ca/en/health-canada/services/consumer-product-safety/reports-publications/consumer-education/your-child-safe/play-time.html",
+    "kind": "public-health",
+    "checkedDate": "2026-10-01",
+    "scope": "Child play hazards; search result retrieved, full page to verify before specific claims"
+  },
+  "a-cauti": {
+    "name": "CDC Summary of Recommendations: CAUTI",
+    "url": "https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html",
+    "kind": "public-health",
+    "checkedDate": "2026-10-01",
+    "scope": "Closed drainage, bag position, aseptic sampling and replacement after disconnection"
+  },
+  "a-eyewash": {
+    "name": "CCOHS Emergency Showers and Eyewash Stations",
+    "url": "https://www.ccohs.ca/oshanswers/safety_haz/emer_showers.html",
+    "kind": "public-health",
+    "checkedDate": "2026-10-01",
+    "scope": "Immediate decontamination and product-specific exposure guidance"
+  },
+  "a-sds": {
+    "name": "CCOHS WHMIS Safety Data Sheet",
+    "url": "https://www.ccohs.ca/oshanswers/chemicals/whmis_ghs/sds.html",
+    "kind": "public-health",
+    "checkedDate": "2026-10-01",
+    "scope": "Hazard identification, protective equipment, handling and first aid"
+  },
+  "a-co": {
+    "name": "Health Canada Carbon Monoxide Overview",
+    "url": "https://www.canada.ca/en/health-canada/services/air-quality/pollutants/carbon-monoxide.html",
+    "kind": "public-health",
+    "checkedDate": "2026-10-01",
+    "scope": "Sources, symptoms and evacuation on alarm"
+  },
+  "a-co-prevention": {
+    "name": "Health Canada Preventing Carbon Monoxide Exposure",
+    "url": "https://www.canada.ca/en/health-canada/services/air-quality/pollutants/carbon-monoxide/preventing-exposure.html",
+    "kind": "public-health",
+    "checkedDate": "2026-10-01",
+    "scope": "Alarms and fuel-burning equipment hazards"
+  },
+  "a-water": {
+    "name": "Health Canada Swimming Safety",
+    "url": "https://www.canada.ca/en/health-canada/services/injury-prevention/swimming-safety.html",
+    "kind": "public-health",
+    "checkedDate": "2026-10-01",
+    "scope": "Supervision, lifejackets and child water safety"
+  },
+  "a-poison": {
+    "name": "Health Canada Is Your Child Safe",
+    "url": "https://www.canada.ca/en/health-canada/services/consumer-product-safety/reports-publications/consumer-education/your-child-safe/is-your-child-safe.html",
+    "kind": "public-health",
+    "checkedDate": "2026-10-01",
+    "scope": "Child-resistant closures, chemical storage and poison prevention"
+  },
+  "a-glucose": {
+    "name": "CDC Infection Prevention for Glucose Monitoring and Insulin",
+    "url": "https://www.cdc.gov/injection-safety/hcp/infection-control/index.html",
+    "kind": "public-health",
+    "checkedDate": "2026-10-01",
+    "scope": "Single-person pens/lancing devices, professional meters and cross-contamination"
+  },
+  "a-cdiff": {
+    "name": "CDC C. difficile Infection Prevention",
+    "url": "https://www.cdc.gov/c-diff/hcp/clinical-guidance/index.html",
+    "kind": "public-health",
+    "checkedDate": "2026-10-01",
+    "scope": "Sporicidal environmental cleaning; US EPA-specific regulatory details not used"
+  },
+  "a-lines": {
+    "name": "CDC Intravascular Catheter Infection Prevention Recommendations",
+    "url": "https://www.cdc.gov/infection-control/hcp/intravascular-catheter-related-infections/summary-recommendations.html",
+    "kind": "public-health",
+    "checkedDate": "2026-10-01",
+    "scope": "Dressing integrity, site care, device necessity, bathing and aseptic access"
+  },
+  "a-food": {
+    "name": "Health Canada Safe Food Handling for Adults 60 and Over",
+    "url": "https://www.canada.ca/en/health-canada/services/publications/food-nutrition/safe-food-handling-adults-ages-60-over.html",
+    "kind": "public-health",
+    "checkedDate": "2026-10-01",
+    "scope": "Safe storage, leftovers and cross-contamination"
+  },
+  "a-food-storage": {
+    "name": "Health Canada Safe Food Storage",
+    "url": "https://www.canada.ca/en/health-canada/services/general-food-safety-tips/safe-food-storage.html",
+    "kind": "public-health",
+    "checkedDate": "2026-10-01",
+    "scope": "Separation of raw foods and ready-to-eat foods"
+  },
+  "a-delegation": {
+    "name": "BCCNM Nurses: Delegation to Unregulated Care Providers",
+    "url": "https://www.bccnm.ca/RN/PracticeStandards/Pages/delegation.aspx",
+    "kind": "regulator",
+    "checkedDate": "2026-10-01",
+    "scope": "Current April 2026 restricted-activity delegation standard, competence, client-specific conditions and continuing nursing accountability"
+  },
+  "a-sterilization": {
+    "name": "CDC Disinfection and Sterilization Recommendations",
+    "url": "https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/summary-recommendations.html",
+    "kind": "public-health",
+    "checkedDate": "2026-10-01",
+    "scope": "Critical-device processing and inadequate mechanical/chemical cycle monitoring; US regulatory details not transferred"
+  },
+  "a-magnets": {
+    "name": "Health Canada magnet safety",
+    "url": "https://www.canada.ca/en/health-canada/services/toy-safety/magnets.html",
+    "kind": "government",
+    "checkedDate": "2026-10-01",
+    "scope": "Immediate assessment for suspected magnet ingestion, including asymptomatic children"
+  },
+  "a-cords": {
+    "name": "Health Canada window covering safety",
+    "url": "https://www.canada.ca/en/health-canada/services/home-safety/blind-cord-safety.html",
+    "kind": "government",
+    "checkedDate": "2026-10-01",
+    "scope": "Preventing child access to window cords and replacing unsafe coverings"
+  },
+  "a-injection": {
+    "name": "CDC preventing unsafe injection practices",
+    "url": "https://www.cdc.gov/injection-safety/hcp/clinical-safety/index.html",
+    "kind": "government",
+    "checkedDate": "2026-10-01",
+    "scope": "Multidose vials entering an immediate treatment area become patient-dedicated; no US legal requirements tested"
+  },
+  "a-milk-allergy": {
+    "name": "Health Canada milk allergy guidance",
+    "url": "https://www.canada.ca/content/dam/hc-sc/documents/services/food-nutrition/reports-publications/food-safety/2017-milk-lait-eng.pdf",
+    "kind": "government",
+    "checkedDate": "2026-10-01",
+    "scope": "Milk protein allergy differs from lactose intolerance; verify uncertain ingredients"
+  },
+  "a-disposal": {
+    "name": "Health Canada safe disposal of prescription drugs",
+    "url": "https://www.canada.ca/en/health-canada/services/healthy-home/safe-disposal-prescription-drugs.html",
+    "kind": "government",
+    "checkedDate": "2026-10-01",
+    "scope": "Return unused medicines through pharmacy or approved local disposal pathway"
+  },
+  "a-transfer-board": {
+    "name": "University Health Network Toronto Rehab — Transferring to and from Your Wheelchair",
+    "url": "https://www.uhn.ca/TorontoRehab/Spinal-Cord-Rehab/Spinal-Cord-Essentials/Documents/Mobility/SCE2-Ma1-Transferring-To-And-From-Your-Wheelchair.pdf",
+    "kind": "Canadian rehabilitation patient education",
+    "checkedDate": "2026-10-01",
+    "scope": "Firm support of a transfer board on both surfaces; individualized therapist practice"
+  }
+}

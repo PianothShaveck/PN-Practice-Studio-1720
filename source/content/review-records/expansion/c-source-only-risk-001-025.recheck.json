@@ -1,0 +1,152 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:43:52.864794+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/risk-001-025.json",
+  "sourceSha256": "c3db45c2424e0bacc2cf360d3be26b5d3a4a346c032d8daa6ffc038c08e1ce59",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 6,
+    "reviewedIds": [
+      "x-risk-009",
+      "x-risk-013",
+      "x-risk-015",
+      "x-risk-019",
+      "x-risk-020",
+      "x-risk-021"
+    ],
+    "unreviewedIds": [
+      "x-risk-001",
+      "x-risk-002",
+      "x-risk-003",
+      "x-risk-004",
+      "x-risk-005",
+      "x-risk-006",
+      "x-risk-007",
+      "x-risk-008",
+      "x-risk-010",
+      "x-risk-011",
+      "x-risk-012",
+      "x-risk-014",
+      "x-risk-016",
+      "x-risk-017",
+      "x-risk-018",
+      "x-risk-022",
+      "x-risk-023",
+      "x-risk-024",
+      "x-risk-025"
+    ]
+  },
+  "method": "Each listed stem/topic and new reference mapping was manually examined. Replacing current refs with the recorded oldRefs reproduces a prior independently approved full-item hash; this proves all other fields are unchanged. The present pass approves the manually assessed reference relevance while carrying forward that exact unchanged-content review. It is not a new full clinical review or an automated pass based solely on hash equality.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-risk-009",
+      "status": "pass",
+      "assessment": "Creatinine testing plus focused assessment fits acute renal trend interpretation with output/exposure context. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4e303748acd9bf63450922feccd6330a9cbb5c4b83e1a08700b57fc134a65bdc"
+    },
+    {
+      "id": "x-risk-013",
+      "status": "pass",
+      "assessment": "INR-specific test guidance directly matches prescribed therapeutic target versus untreated laboratory interval. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f9df8cff58683c02e83f342fd25dd1183651a19d7becd90838655d7b7bd16719"
+    },
+    {
+      "id": "x-risk-015",
+      "status": "pass",
+      "assessment": "Albumin/nutrition references are related; the specific inflammation-versus-malnutrition limitation was independently checked against ASPEN in the earlier review. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0704cff96698166bad8c5ca3772b89aa679ddef715fa57f01769c2db470abf20"
+    },
+    {
+      "id": "x-risk-019",
+      "status": "pass",
+      "assessment": "Sputum-culture guidance directly fits saliva versus lower-respiratory specimen quality. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "23c2269cbc9e15bed2ce711d9406f062192ec7dfbd97ced2b94915f2c7febfb9"
+    },
+    {
+      "id": "x-risk-020",
+      "status": "pass",
+      "assessment": "FOBT-kit guidance matches current-kit-specific preparation and collection instructions. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "db82fdad157d8a08a80296f4a1efdd96e17d6ab02a9dafa65f3a8b1c0bf286ff"
+    },
+    {
+      "id": "x-risk-021",
+      "status": "pass",
+      "assessment": "Blood-culture reference directly relates to collection timing; earlier primary sepsis review preserves the no-urgent-treatment-delay limitation. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0a28d4e1a41fd059b421915139ebc695e0076eeb4b3d5c0683db796f5ae93dd2"
+    }
+  ],
+  "referenceProofs": {
+    "x-risk-009": {
+      "priorPassReport": "c-risk-009-011-025.final-recheck.json",
+      "priorPassHash": "888964ed0290be982193f94253c08f33ccd29ef1f1abba31345b76c3f6fce15a",
+      "newRefs": [
+        "c-creatinine",
+        "c-assessment"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-risk-013": {
+      "priorPassReport": "c-risk-001-025.changed-recheck.json",
+      "priorPassHash": "9a7866dd5c1f9d187e405f173d6a9975a767dce04444f1f4d44815afba8ecf7e",
+      "newRefs": [
+        "c-inr"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-risk-015": {
+      "priorPassReport": "c-risk-001-025.legacy-review.json",
+      "priorPassHash": "53bfa7322fce067acd57ee071410067a500359ecb7dfaff3d6323bb116e36fb2",
+      "newRefs": [
+        "c-albumin",
+        "c-nutrition"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-risk-019": {
+      "priorPassReport": "c-risk-001-025.changed-recheck.json",
+      "priorPassHash": "26b8414d4fbb819128ce30448d1163a937e267abbeda95a3af4d179bb4cb32be",
+      "newRefs": [
+        "c-sputum"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-risk-020": {
+      "priorPassReport": "c-risk-001-025.changed-recheck.json",
+      "priorPassHash": "d7897924f3051225ad5a31eca232c81ce9bdf05df313dc7ce60f7c2c74ecade8",
+      "newRefs": [
+        "c-stool-test"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-risk-021": {
+      "priorPassReport": "c-risk-001-025.changed-recheck.json",
+      "priorPassHash": "fa1e4d0c7b14f80301cc5182445496adee7c34052ad48873a8e3052303b3854d",
+      "newRefs": [
+        "c-blood-culture"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    }
+  },
+  "sourceCheckLimit": "New source names, registered scopes and mapped item topics were inspected. Complete source texts were not independently retrieved for every mapping; no full-source or clinician validation is claimed.",
+  "reviewerTask": "/root/review_legacy"
+}

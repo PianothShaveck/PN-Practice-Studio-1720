@@ -1,0 +1,118 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:35:34.769458+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/a-management-02-recheck3.json",
+  "sourceSha256": "0b6c8c77226e999b77ca032de741b7e2ae8fade94cd246f6a2bef424c845d1bb",
+  "coverage": {
+    "sourceItems": 50,
+    "reviewedItems": 5,
+    "reviewedIds": [
+      "x-management-052",
+      "x-management-069",
+      "x-management-081",
+      "x-management-084",
+      "x-management-089"
+    ],
+    "unreviewedIds": [
+      "x-management-051",
+      "x-management-053",
+      "x-management-054",
+      "x-management-055",
+      "x-management-056",
+      "x-management-057",
+      "x-management-058",
+      "x-management-059",
+      "x-management-060",
+      "x-management-061",
+      "x-management-062",
+      "x-management-063",
+      "x-management-064",
+      "x-management-065",
+      "x-management-066",
+      "x-management-067",
+      "x-management-068",
+      "x-management-070",
+      "x-management-071",
+      "x-management-072",
+      "x-management-073",
+      "x-management-074",
+      "x-management-075",
+      "x-management-076",
+      "x-management-077",
+      "x-management-078",
+      "x-management-079",
+      "x-management-080",
+      "x-management-082",
+      "x-management-083",
+      "x-management-085",
+      "x-management-086",
+      "x-management-087",
+      "x-management-088",
+      "x-management-090",
+      "x-management-091",
+      "x-management-092",
+      "x-management-093",
+      "x-management-094",
+      "x-management-095",
+      "x-management-096",
+      "x-management-097",
+      "x-management-098",
+      "x-management-099",
+      "x-management-100"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-management-052",
+      "status": "pass",
+      "assessment": "Shortened key retains resolving the conflict and impartial options; explanation correctly distinguishes disclosure from conflict resolution.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "601dabc6e414af75deff844f3b9767d51c052f1ee3bca67a5d2f5fa59f6e0650"
+    },
+    {
+      "id": "x-management-069",
+      "status": "pass",
+      "assessment": "Competing evidence-use actions now stand on their own, with the missing suitability/authorization appraisal explained in rationales.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "521f56fecc5206ca5d7d351a078593f6a8eab8b6da937518f5fafbb7d7222dc9"
+    },
+    {
+      "id": "x-management-081",
+      "status": "pass",
+      "assessment": "Unregulated-worker designation removes ambiguity about qualified assessment; foundation prioritization is defensible.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ee11df4227590bd89cf0b910c71d15b2fd985117c5e389e346922f8928dd5a7f"
+    },
+    {
+      "id": "x-management-084",
+      "status": "pass",
+      "assessment": "Question and all options are now actions; immediate airway assessment clearly takes priority over a routine comfort task.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0589cc93157c6a90084e8e5301b4b14141256a42ae240fd879f4a31bc0a813c5"
+    },
+    {
+      "id": "x-management-089",
+      "status": "pass",
+      "assessment": "Current capable wishes and valid orders appropriately resolve document uncertainty. This is a relatively direct application; changed difficulty reflects that.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a5054efe8ca11be0f0bbb99924fd5626d7e399c03491987711ea0c79ddb76aed"
+    }
+  ],
+  "activeSourceFile": "authoring/a/management-02.json",
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

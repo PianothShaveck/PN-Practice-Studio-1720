@@ -1,0 +1,351 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:53:54.608357+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/c-final50-review-input/risk-151-175.json",
+  "sourceSha256": "ed9ef3eb6f56ba30bb859c376f7e16b57d9a9670dcb953ce54c7b4d1ebb3b4e8",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-risk-151",
+      "x-risk-152",
+      "x-risk-153",
+      "x-risk-154",
+      "x-risk-155",
+      "x-risk-156",
+      "x-risk-157",
+      "x-risk-158",
+      "x-risk-159",
+      "x-risk-160",
+      "x-risk-161",
+      "x-risk-162",
+      "x-risk-163",
+      "x-risk-164",
+      "x-risk-165",
+      "x-risk-166",
+      "x-risk-167",
+      "x-risk-168",
+      "x-risk-169",
+      "x-risk-170",
+      "x-risk-171",
+      "x-risk-172",
+      "x-risk-173",
+      "x-risk-174",
+      "x-risk-175"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Read all fifty frozen snapshot items with stem, options, key, rationale, takeaway, exhibit and metadata, and compared root’s precise prior findings. Each assessment below was written manually. These snapshot copies preserve the exact input before the author applies residual fixes.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "ids": [
+        "x-risk-151"
+      ],
+      "url": "https://cps.ca/en/documents/position/management-of-well-appearing-febrile-young-infants-aged-90-days",
+      "checked": true,
+      "note": "Opened current CPS statement (updatedMay2026); rectal≥38C in≤90days warrants assessment with individualized risk-stratified management."
+    },
+    {
+      "ids": [
+        "x-risk-154",
+        "x-risk-155",
+        "x-risk-156"
+      ],
+      "url": "https://caringforkids.cps.ca/handouts/health-conditions-and-treatments/jaundice_in_newborns",
+      "checked": true,
+      "note": "Opened and read early<24h concern, age-at-test interpretation, poor feeding/arousal and stool transition."
+    },
+    {
+      "ids": [
+        "x-risk-155"
+      ],
+      "url": "https://cps.ca/en/documents/position/hyperbilirubinemia-newborns",
+      "checked": true,
+      "note": "Opened current CPS guideline and targeted gestation/risk passages; age-specific thresholds incorporate gestation and neurotoxicity factors. No numerical treatment threshold imported."
+    },
+    {
+      "ids": [
+        "x-risk-157"
+      ],
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/Vomiting/",
+      "checked": true,
+      "note": "Opened bilious-vomiting guideline: green vomiting/distension requires urgent surgical assessment; symptom cessation does not rule out serious pathology. No antiemetic regimen validated for the two-month-old."
+    },
+    {
+      "ids": [
+        "x-risk-159",
+        "x-risk-160",
+        "x-risk-161"
+      ],
+      "url": "https://www.canada.ca/en/public-health/services/publications/healthy-living/maternity-newborn-care-guidelines-chapter-5.html",
+      "checked": true,
+      "note": "Opened and read haemorrhage/systemic signs, infection, endometritis and headache/visual warning-sign passages. Its warning table says72h; separate ACOG source supports the day-five case."
+    },
+    {
+      "ids": [
+        "x-risk-160"
+      ],
+      "url": "https://www.acog.org/womens-health/experts-and-stories/the-latest/3-conditions-to-watch-for-after-childbirth",
+      "checked": true,
+      "accessMode": "primary-source search excerpt",
+      "note": "Retrieved ACOG excerpt explicitly describing postpartum preeclampsia after normal antenatal pressure and within days/up to6weeks. Full page was not opened in this recheck."
+    },
+    {
+      "ids": [
+        "x-risk-162"
+      ],
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/your-babys-movements/",
+      "checked": true,
+      "note": "Opened and read immediate-contact advice for changed/reduced movements and warning that home Doppler does not establish wellbeing."
+    },
+    {
+      "ids": [
+        "x-risk-163"
+      ],
+      "url": "https://www.nhs.uk/pregnancy/common-symptoms/vomiting-and-morning-sickness/",
+      "checked": true,
+      "note": "Opened full page; low/no urine and weakness/dizziness/faintness when standing during vomiting are warning signs. This is a focused replacement for the irrelevant positional-faintness source."
+    },
+    {
+      "ids": [
+        "x-risk-165"
+      ],
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/chest_pain/",
+      "checked": true,
+      "note": "Opened and found exertional chest pain and syncope among concerning arrhythmia histories; supports evaluation, not a diagnosis."
+    },
+    {
+      "ids": [
+        "x-risk-172"
+      ],
+      "url": "https://www.cancer.gov/about-cancer/treatment/side-effects/infection",
+      "checked": true,
+      "note": "Opened and read fever/chills urgent infection assessment and antipyretic masking; no exact regimen or universal nadir assumed."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-risk-151",
+      "status": "pass",
+      "assessment": "Rectal fever at six weeks plus reduced intake warrants urgent assessment despite viral exposure. Antipyretic response, later booking and presumed viral cause are distinct plausible delay errors; the key does not prescribe a universal investigation or treatment regimen.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9747476fa77a9fb303ef6f70d0b5d6312c467a5672988b93f0ab848437cffc74"
+    },
+    {
+      "id": "x-risk-152",
+      "status": "pass",
+      "assessment": "The four-hour comparison makes declining urine and arousal/intake changes evidence of deterioration. Tolerated small volumes and returning tears are clinically relevant improving trends; both selected findings are supported.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "da22d5a64d2c931bc3e95714b1e4784b50fc62c3cee4e51294bf84e1596b370f"
+    },
+    {
+      "id": "x-risk-153",
+      "status": "pass",
+      "assessment": "Interrupted suck-swallow-breathe coordination requires current respiratory/endurance assessment before useful equipment, cumulative-intake or growth-history reviews. Alternatives are parallel assessment domains rather than irrelevant tasks.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "31b9bb6df05f481255b3711f46f574c96b52e67696595e193726b270ab1fb8c6"
+    },
+    {
+      "id": "x-risk-154",
+      "status": "pass",
+      "assessment": "Visible jaundice at fourteen hours warrants prompt bilirubin/clinical assessment despite apparently effective feeding. The alternatives are useful information or supportive measures incorrectly used to postpone measurement; no unsupported treatment threshold is asserted.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f3ae6ba3a6e3e7dc5f2a161ea48150ab8605df37a1ea78e51c35dbb2111d5a79"
+    },
+    {
+      "id": "x-risk-155",
+      "status": "pass",
+      "assessment": "Age at sampling, gestation and neurotoxicity context are necessary to apply a bilirubin treatment threshold. A generic flag, untimed prior value and feeding/output history cannot replace them. The sets are comparably detailed.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a1af8e6a62b4600f541d0e5cb1703745a4168fc88e4060fec0c5e9f096a500ce"
+    },
+    {
+      "id": "x-risk-156",
+      "status": "pass",
+      "assessment": "Worsening arousal and urine output justify earlier neonatal reassessment during the existing jaundice plan. Effective frequent feeds and stool transition are relevant improving patterns. This applies the hydration/arousal principle to bilirubin follow-up rather than repeating the generic rehydration decision verbatim.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e2abbcce1d5feb38a12f3c1feca797d385f4ae3370a8015ca031df0e72a71c69"
+    },
+    {
+      "id": "x-risk-157",
+      "status": "pass",
+      "assessment": "New green emesis and distension change the interpretation of prior uncomplicated spit-ups and justify urgent assessment with feeding precautions. Oral trials, reflux adjustments and symptom suppression delay evaluation of possible obstruction; the key does not claim obstruction is already diagnosed.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e905243273a4d7589ebcf77f41fad744e6428af1fa7fa0e15cee1f315d9af24d"
+    },
+    {
+      "id": "x-risk-158",
+      "status": "pass",
+      "assessment": "Lethargy plus failure of prescribed small oral amounts requires reassessment of circulation and fluid route. Further oral or antiemetic trials are plausible treatment extensions but should not postpone assessment of the worsening child.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "87eb413375993b85a4d8a71e46743fa3d95ac250234750890718338b5dc956a7"
+    },
+    {
+      "id": "x-risk-159",
+      "status": "pass",
+      "assessment": "Heavy postpartum loss with pulse124 and pressure88/54 establishes instability requiring a coordinated haemorrhage response. Weighing pads and blood sampling belong within the response; walking the client to void is unsafe. The key remains protocol based.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7352b742a4e446bc78bbb5382dd981b72681012818c5235c6a0ec2778a649700"
+    },
+    {
+      "id": "x-risk-160",
+      "status": "pass",
+      "assessment": "Severe headache, visual symptoms and upper abdominal pain five days postpartum require urgent assessment even after normal antenatal pressure. A home pressure series, analgesic trial or delayed visit cannot rule out postpartum hypertensive disease. ACOG targeted evidence supports the delayed presentation, extending beyond the PHAC table wording.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3cf347ea601120f0045223e46606083dc646ce236a3d85c81a7f9f4b74ca775d"
+    },
+    {
+      "id": "x-risk-161",
+      "status": "pass",
+      "assessment": "Day-four fever/uterine tenderness and foul lochia with worsening pelvic pain distinguish concerning infection patterns from transient breastfeeding afterpains and improving cough-related incisional discomfort.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8033c8e7921cca976649ad8c43de53b3eba358448b48da7658332976c802780a"
+    },
+    {
+      "id": "x-risk-162",
+      "status": "pass",
+      "assessment": "A new reduction from the established movement pattern at32weeks requires prompt maternity contact despite yesterday’s reassurance. Eating/counting or a home Doppler cannot establish current fetal wellbeing; all distractors test familiar but unsafe reassurance strategies.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2880eaa1119e9cc217320ccbdfc6fe13d617369311d7b546b90abb0152cabbb2"
+    },
+    {
+      "id": "x-risk-163",
+      "status": "revise",
+      "assessment": "The clinical selection is sound: measured low urine and symptomatic postural tachycardia directly address volume tolerance, unlike vomiting triggers. The pregnancy-position reference is specifically about supine faintness and is not a suitable topic anchor for vomiting-related dehydration.",
+      "issues": [
+        "The clinical selection is sound: measured low urine and symptomatic postural tachycardia directly address volume tolerance, unlike vomiting triggers. The pregnancy-position reference is specifically about supine faintness and is not a suitable topic anchor for vomiting-related dehydration."
+      ],
+      "proposedChanges": [
+        {
+          "refs": [
+            "c-assessment",
+            "c-pregnancy-vomiting"
+          ]
+        },
+        "Register c-pregnancy-vomiting as the NHS vomiting-and-morning-sickness page listed in sourceChecks; leave clinical content unchanged."
+      ],
+      "reviewedItemSha256": "5631cdd77a9783d03e9061c08bcaadd21e553b55fcd34b93dde582948f4e1d26"
+    },
+    {
+      "id": "x-risk-164",
+      "status": "pass",
+      "assessment": "Fever, guarding and a reversal of abdominal recovery justify prompt surgical review with assessment. Analgesia is not denied, but response to it must not determine escalation. Ambulation and oral trials are relevant routine recovery actions that do not address this new pattern.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ae85eae8f9d59b5a29f0a8f0ecec64d3564ada87e8d104ad577987a158ae8f70"
+    },
+    {
+      "id": "x-risk-165",
+      "status": "pass",
+      "assessment": "Exertional syncope preceded by chest tightness requires urgent clinical evaluation before more sport. Hydration, glucose/snack changes and a routine sports review are plausible premature explanations; no cardiac diagnosis is assumed.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "53593a263c71c977c0baf90b3ffa89d552d1d427dcf26c186136d4c7da877b10"
+    },
+    {
+      "id": "x-risk-166",
+      "status": "pass",
+      "assessment": "Acute fluctuating inattention with a collateral baseline supports prompt delirium/physiological assessment. Medication timing, environmental measures and later cognitive screening are useful components but incomplete or delayed responses to this acute change.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b6116c22fa1c4b1053ea08d934cbe3d3fa577ba0738651b5486c053f315e46a7"
+    },
+    {
+      "id": "x-risk-167",
+      "status": "pass",
+      "assessment": "A retained proximal pulse does not settle new distal numbness under a swollen dressing. The keyed neurovascular/constriction assessment directly addresses the risk; drainage, wound history and analgesic response are relevant but less urgent assessment sets.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2a07a047f83e8a2a0a86a6f6e3b8d62cdcf5a35509e939daa5f2add1dc229761"
+    },
+    {
+      "id": "x-risk-168",
+      "status": "pass",
+      "assessment": "Progressive sensory loss and worsening distal temperature/refill are concerning serial findings with a circumferential burn. Analgesic-associated comfort and expected local exudate are not equivalent evidence of distal compromise. The item does not infer adequate perfusion from pain relief alone.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9f74890abf59c46cfdc40e07e87bb971bd23b476316de9eb69a570f21e8a747a"
+    },
+    {
+      "id": "x-risk-169",
+      "status": "pass",
+      "assessment": "The teaching key recognizes neurovascular warning signs independently of improved aching. Motion, elevation response and removability are plausible but insufficient reassurance. The wrong alternatives do not imply that cold fingers can safely be managed solely by self-adjustment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "93022876b9962657b1c19f4236e22529c37081a23a14a7313cc1236a99ee7e49"
+    },
+    {
+      "id": "x-risk-170",
+      "status": "pass",
+      "assessment": "The targeted history set addresses penetrating material, timing/depth and tetanus protection for a small puncture through footwear. Other sets remain useful to overall care, but do not answer the defined contamination/retained-material question as directly.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2f70a3866c9f2bf106a5adceb5a17aec28bc6b11f8dcc780c95a5f302459fe83"
+    },
+    {
+      "id": "x-risk-171",
+      "status": "pass",
+      "assessment": "Post-removal void timing/volume and protocol-directed retained-volume assessment directly evaluate emptying. Sedating medicines and sleep history can inform restlessness but do not quantify retained urine; both selected options are independently appropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "23b08e8da12852e1b082de0412fd35fb4c69db0e6d4df841ba9bde35c219e8a2"
+    },
+    {
+      "id": "x-risk-172",
+      "status": "pass",
+      "assessment": "Measured fever/chills after cytotoxic therapy and an available after-hours plan support urgent assessment tonight. Routine CBC, antipyretic response and next-day contact are plausible delay errors. The nurse applies the supplied plan rather than prescribing a neutropenic regimen.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1e551e7f7fc420b8d8854cb3f27a5d68c7c638b3408cf7ce97d56b4c2cc7cb3d"
+    },
+    {
+      "id": "x-risk-173",
+      "status": "pass",
+      "assessment": "Repeated bleeding with weakness after polypectomy warrants urgent assessment despite delayed onset. Haemorrhoid treatment, further home observation and anticoagulant clarification do not take priority over symptomatic bleeding evaluation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "04b64ae02816b3c0707521bb2db71eda33e9bb02ad8425d3b42d189c4f9ad6d5"
+    },
+    {
+      "id": "x-risk-174",
+      "status": "pass",
+      "assessment": "An accessible calibrated weighing method agreed with the team preserves comparability and safety. Ankle circumference and intake/output may supplement surveillance but are not silent replacements for prescribed weight trends; family steadying risks falls and distorted readings.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "dc49d6f9ac18c465ba601ebd7e4b97fc549c2cb26807fedf5068dab103b142d4"
+    },
+    {
+      "id": "x-risk-175",
+      "status": "pass",
+      "assessment": "A familiar caregiver’s report combines new respiratory and functional changes, making current breathing/oxygenation/circulation assessment the priority. Transfer technique, environment and adapted pain tools remain relevant subsequent assessments rather than irrelevant distractors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "dc6081e1327802795f0900db1c0f4a4ca5fa506b2787183736eb41d4bc027887"
+    }
+  ],
+  "reviewerTask": "/root/review_legacy",
+  "reviewType": "Independent recheck of root-reviewed author-c revisions",
+  "authoritativeLiveFiles": [
+    "authoring/c/risk-151-175.json",
+    "authoring/c/risk-176-200.json"
+  ]
+}

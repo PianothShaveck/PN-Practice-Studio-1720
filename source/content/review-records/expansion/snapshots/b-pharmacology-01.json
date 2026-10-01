@@ -1,0 +1,811 @@
+[
+  {
+    "id": "x-pharmacology-001",
+    "cat": "pharmacology",
+    "title": "Resolve a changed-strength barcode alert",
+    "stem": "A client's tablet strength was changed this morning. Scanning the evening tablet produces a wrong-strength alert, although the drug name matches. What should the nurse do next?",
+    "type": "single",
+    "options": [
+      "Give it and ask pharmacy to update the barcode",
+      "Compare the current order with the supplied product",
+      "Split the tablet to match yesterday's dose",
+      "Use the barcode from the morning package"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "The discrepancy must be resolved before an uncertain dose is given.",
+      "The alert may reflect an outdated supply after the dose change.",
+      "Yesterday's dose does not establish the current prescription or tablet suitability.",
+      "A different package's barcode cannot verify the tablet being administered."
+    ],
+    "takeaway": "The alert may reflect an outdated supply after the dose change.",
+    "refs": [
+      "bcmed"
+    ],
+    "exhibit": null,
+    "subtopic": "Medication administration",
+    "learningObjective": "Verify current strength and supply when scanning detects a medication discrepancy.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-002",
+    "cat": "pharmacology",
+    "title": "Replace a contaminated controlled medication",
+    "stem": "While preparing a prescribed controlled analgesic, a tablet falls onto the floor. The client reports severe pain. What is the best action?",
+    "type": "single",
+    "options": [
+      "Place the dropped tablet in the client's drawer for later disposal",
+      "Discard it now and request replacement at the next scheduled dose",
+      "Arrange documented disposal and a replacement dose promptly",
+      "Document the dropped tablet as administered and obtain another"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Unsecured storage leaves an unidentified controlled medication accessible.",
+      "Waiting until the next dose unnecessarily leaves the current pain untreated.",
+      "This maintains safe medication handling while addressing pain without unnecessary delay.",
+      "Incorrect administration documentation can create a false cumulative dose record."
+    ],
+    "takeaway": "This maintains safe medication handling while addressing pain without unnecessary delay.",
+    "refs": [
+      "bcmed"
+    ],
+    "exhibit": null,
+    "subtopic": "Medication administration",
+    "learningObjective": "Replace a contaminated controlled analgesic while preserving accountability and timely pain relief.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-003",
+    "cat": "pharmacology",
+    "title": "Investigate uncertain prior administration",
+    "stem": "An antihypertensive is due. The client says another nurse already gave it, but the administration record is blank. Blood pressure is stable. What should happen first?",
+    "type": "single",
+    "options": [
+      "Give it because the electronic record is blank",
+      "Mark it refused because the client questioned it",
+      "Wait one hour and give it if pressure is unchanged",
+      "Verify administration with the nurse and available records"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "A blank entry does not exclude an undocumented dose.",
+      "Questioning prior administration is different from declining treatment.",
+      "Blood pressure alone cannot establish whether the earlier dose occurred.",
+      "A stable client allows clarification that prevents duplicate dosing."
+    ],
+    "takeaway": "A stable client allows clarification that prevents duplicate dosing.",
+    "refs": [
+      "bcmed"
+    ],
+    "exhibit": null,
+    "subtopic": "Medication administration",
+    "learningObjective": "Resolve possible undocumented administration before exposing the client to a duplicate dose.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-004",
+    "cat": "pharmacology",
+    "title": "Select an accurate oral measuring device",
+    "stem": "A child is prescribed 1.8 mL of an oral liquid. The caregiver's cup has 5-mL markings. What should the nurse provide?",
+    "type": "single",
+    "options": [
+      "A calibrated oral syringe with suitable graduations",
+      "A second cup with the same graduations",
+      "Instructions to fill just below the cup's first mark",
+      "Instructions to round to 2.5 mL for convenience"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Fine mL markings allow measurement of the small prescribed volume.",
+      "Another coarsely marked cup does not improve measurement accuracy.",
+      "Visual estimation below 5 mL is imprecise for 1.8 mL.",
+      "Rounding the prescribed volume this far changes the intended dose."
+    ],
+    "takeaway": "Fine mL markings allow measurement of the small prescribed volume.",
+    "refs": [
+      "bcmed"
+    ],
+    "exhibit": null,
+    "subtopic": "Medication administration",
+    "learningObjective": "Match an oral measuring device's graduations to a small prescribed volume.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-005",
+    "cat": "pharmacology",
+    "title": "Review redosing after vomiting",
+    "stem": "Ten minutes after an oral antibiotic, a child vomits. No intact medicine is visible and the child is now comfortable. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Reschedule the next dose sooner without consultation",
+      "Assess timing and obtain drug-specific redosing guidance",
+      "Repeat the full dose because vomiting was early",
+      "Give half a dose as a compromise"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Changing the interval can unintentionally increase exposure.",
+      "Some medication may have been absorbed, so replacement needs specific guidance.",
+      "Early vomiting does not prove that none of the dose was absorbed.",
+      "An arbitrary half-dose does not resolve uncertainty about absorption."
+    ],
+    "takeaway": "Some medication may have been absorbed, so replacement needs specific guidance.",
+    "refs": [
+      "bcmed"
+    ],
+    "exhibit": null,
+    "subtopic": "Medication administration",
+    "learningObjective": "Seek drug-specific guidance when vomiting makes absorption uncertain.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-006",
+    "cat": "pharmacology",
+    "title": "Address a tolerability-related refusal",
+    "stem": "A client declines a scheduled antibiotic because the last dose caused nausea without rash or breathing symptoms. What is the best response?",
+    "type": "single",
+    "options": [
+      "Document refusal and leave the concern for discharge teaching",
+      "Recommend stopping the course until all nausea resolves",
+      "Assess the nausea and discuss an acceptable treatment plan",
+      "Record an allergy and request permanent avoidance of the class"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Deferring discussion misses a current barrier to necessary treatment.",
+      "Unreviewed interruption may leave the infection inadequately treated.",
+      "A manageable adverse effect may be addressed while respecting the refusal.",
+      "Isolated nausea does not establish an immune-mediated allergy."
+    ],
+    "takeaway": "A manageable adverse effect may be addressed while respecting the refusal.",
+    "refs": [
+      "bcmed"
+    ],
+    "exhibit": null,
+    "subtopic": "Medication administration",
+    "learningObjective": "Address a tolerability barrier while respecting an informed medication refusal.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-007",
+    "cat": "pharmacology",
+    "title": "Handle a single-dose vial remainder",
+    "stem": "A nurse withdraws a dose from a vial labelled single-dose. A second dose for the same client is due that evening. What should happen to the remainder?",
+    "type": "single",
+    "options": [
+      "Refrigerate it because only one client will receive it",
+      "Label it with the usual multidose discard date",
+      "Withdraw the evening dose into a labelled syringe for bedside storage",
+      "Discard it according to policy after preparation"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Same-client use does not change the container's single-dose designation.",
+      "A multidose beyond-use policy does not apply to this vial.",
+      "Future preparation and storage require an approved process, not repurposing opened single-dose supply.",
+      "Single-dose packaging is not intended for storage after opening."
+    ],
+    "takeaway": "Single-dose packaging is not intended for storage after opening.",
+    "refs": [
+      "bcmed"
+    ],
+    "exhibit": null,
+    "subtopic": "Medication administration",
+    "learningObjective": "Distinguish single-dose vial handling from approved multidose storage.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-008",
+    "cat": "pharmacology",
+    "title": "Verify a client-owned product",
+    "stem": "A client brings a weekly organizer after admission. One tablet does not match the current medication list. The client says it is the usual heart medicine. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Have the medication identified and the intended order verified",
+      "Give it because it was placed in today's compartment",
+      "Use the old discharge list as the active prescription",
+      "Omit only the unfamiliar tablet for the entire admission"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Both product identity and current treatment intent remain uncertain.",
+      "Organizer placement is not independent verification of the product.",
+      "An older list may omit subsequent changes or discontinued therapy.",
+      "An unresolved omission may interrupt necessary treatment."
+    ],
+    "takeaway": "Both product identity and current treatment intent remain uncertain.",
+    "refs": [
+      "bcmed"
+    ],
+    "exhibit": null,
+    "subtopic": "Medication administration",
+    "learningObjective": "Verify both product identity and current authorization for client-owned medicines.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-009",
+    "cat": "pharmacology",
+    "title": "Prevent transdermal duplication",
+    "stem": "A client using a daily medicated patch sometimes forgets where yesterday's patch was placed. Which strategies are appropriate? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Apply the new patch first and search later",
+      "Use the same small skin area every day",
+      "Write a replacement schedule from memory each morning",
+      "Check for and remove the old patch before replacement",
+      "Record the application time and site"
+    ],
+    "answer": [
+      3,
+      4
+    ],
+    "why": [
+      "This permits unintended overlapping exposure while the old patch remains.",
+      "Repeated placement can irritate skin and does not ensure old-patch removal.",
+      "Reconstructing timing from memory is unreliable when forgetfulness is the problem.",
+      "An old patch may continue delivering medication after a new one is applied.",
+      "A simple record helps identify patches and prevents duplicate applications."
+    ],
+    "takeaway": "An old patch may continue delivering medication after a new one is applied.",
+    "refs": [
+      "bcmed"
+    ],
+    "exhibit": null,
+    "subtopic": "Medication administration",
+    "learningObjective": "Use a reliable patch-removal and application record to prevent duplicate exposure.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-010",
+    "cat": "pharmacology",
+    "title": "Maintain eye-drop sterility",
+    "stem": "During teaching, a client repeatedly steadies an eye-drop bottle by resting its tip on the lower lashes. Which correction is most useful?",
+    "type": "single",
+    "options": [
+      "Hold the bottle farther away and squeeze several drops",
+      "Aim at the centre of the eye to avoid the lashes",
+      "Support the hand on the face while keeping the tip clear",
+      "Wipe the tip after each contact and continue"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "A distant, forceful technique wastes medicine and reduces accuracy.",
+      "Direct corneal placement causes discomfort and does not solve contamination risk.",
+      "Hand support can improve control without contaminating the dropper tip.",
+      "Post-contact wiping does not reliably restore sterility."
+    ],
+    "takeaway": "Hand support can improve control without contaminating the dropper tip.",
+    "refs": [
+      "bcmed"
+    ],
+    "exhibit": null,
+    "subtopic": "Medication administration",
+    "learningObjective": "Correct eye-drop technique to improve control while maintaining tip sterility.",
+    "reasoningSkill": "teaching",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-011",
+    "cat": "pharmacology",
+    "title": "Perform an independent dose check",
+    "stem": "Policy requires an independent check of a high-alert infusion. Which actions preserve independence? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "The second nurse verifies only that the pump is running",
+      "The second nurse signs after reviewing yesterday's dose",
+      "Each nurse calculates from the original prescription",
+      "Both compare results before administration begins",
+      "One nurse states the answer while the other calculates"
+    ],
+    "answer": [
+      2,
+      3
+    ],
+    "why": [
+      "Pump operation does not establish that the programmed dose is correct.",
+      "Yesterday's treatment cannot verify the current preparation and order.",
+      "Separate calculations reduce the chance of carrying forward the same arithmetic error.",
+      "Differences can then be resolved before the client is exposed.",
+      "Knowing the first answer can bias the second calculation."
+    ],
+    "takeaway": "Separate calculations reduce the chance of carrying forward the same arithmetic error.",
+    "refs": [
+      "bcmed"
+    ],
+    "exhibit": null,
+    "subtopic": "Medication administration",
+    "learningObjective": "Preserve independence when performing a required high-alert medication double check.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-012",
+    "cat": "pharmacology",
+    "title": "Administer verified medicines through a tube",
+    "stem": "A client receives four immediate-release medicines through a gastric tube. Pharmacy has confirmed each formulation is suitable for the tube; mixing them has not been assessed. Which practices support safe administration? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Flush between medicines using the prescribed fluid plan",
+      "Combine all preparations to reduce nursing time",
+      "Add the medicines to the full feeding container",
+      "Use the same flushing volume for every client",
+      "Give each prepared medicine separately"
+    ],
+    "answer": [
+      0,
+      4
+    ],
+    "why": [
+      "Flushing clears residual medicine while respecting the client's fluid allowance.",
+      "Compatibility for individual tube use does not establish mixture compatibility.",
+      "The client may not receive the complete dose if feeding is interrupted.",
+      "Fluid restrictions and tube characteristics require an individualized plan.",
+      "Separate administration reduces interaction and blockage risks and supports complete dosing."
+    ],
+    "takeaway": "Separate administration reduces interaction and blockage risks and supports complete dosing.",
+    "refs": [
+      "bcmed"
+    ],
+    "exhibit": null,
+    "subtopic": "Medication administration",
+    "learningObjective": "Separate tube medications and apply an individualized flushing plan.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-013",
+    "cat": "pharmacology",
+    "title": "Relate renal decline to drug exposure",
+    "stem": "A frail adult's creatinine rises during dehydration. A scheduled medicine is eliminated mainly by the kidneys, and the client is newly drowsy. What concern should guide review?",
+    "type": "single",
+    "options": [
+      "A dosing error is the only possible explanation",
+      "Accumulation despite an unchanged prescribed dose",
+      "Reduced absorption caused by the creatinine rise",
+      "Tolerance requiring a higher dose"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Correctly administered doses can accumulate when organ function changes.",
+      "Reduced clearance can increase exposure even when administration has not changed.",
+      "The main stated change affects elimination rather than proving poor absorption.",
+      "New drowsiness during renal decline suggests increased effect, not reduced response."
+    ],
+    "takeaway": "Reduced clearance can increase exposure even when administration has not changed.",
+    "refs": [
+      "b-pk"
+    ],
+    "exhibit": null,
+    "subtopic": "Pharmacokinetics",
+    "learningObjective": "Connect acute renal decline with possible accumulation of a renally eliminated medicine.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-014",
+    "cat": "pharmacology",
+    "title": "Evaluate additive sedation",
+    "stem": "A client stable on an opioid becomes unusually sleepy after a sedative is added. Respirations are currently 14/min and regular. What is the best next action?",
+    "type": "single",
+    "options": [
+      "Reduce only the opioid without reviewing the new drug",
+      "Reassess after the client has completed a full sleep cycle",
+      "Assess sedation and breathing before further sedating doses",
+      "Give the next sedative because respirations exceed 12/min"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Both agents may contribute, and independent dose changes lack a treatment plan.",
+      "Waiting may miss progressive sedation and ventilatory impairment.",
+      "Combined effects can progress, so current safety and the regimen need review.",
+      "A single respiratory rate does not establish safety with increasing sedation."
+    ],
+    "takeaway": "Combined effects can progress, so current safety and the regimen need review.",
+    "refs": [
+      "b-pk"
+    ],
+    "exhibit": null,
+    "subtopic": "Pharmacokinetics",
+    "learningObjective": "Assess increasing sedation before further doses of interacting central depressants.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-015",
+    "cat": "pharmacology",
+    "title": "Recognize a mistimed trough level",
+    "stem": "An antibiotic trough was ordered immediately before the next dose, but the sample was drawn just after infusion completion. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Interpret it using the usual trough range",
+      "Delay all future doses until the number decreases",
+      "Request a dose reduction based only on the reported number",
+      "Report the exact sampling and infusion times"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "A post-infusion concentration cannot be treated as a trough.",
+      "Dosing decisions require review of the mistimed result and clinical context.",
+      "A misleading sampling time can produce an inappropriate dose adjustment.",
+      "Accurate timing allows the team to determine whether repeat sampling is needed."
+    ],
+    "takeaway": "Accurate timing allows the team to determine whether repeat sampling is needed.",
+    "refs": [
+      "b-pk"
+    ],
+    "exhibit": null,
+    "subtopic": "Pharmacokinetics",
+    "learningObjective": "Recognize when specimen timing prevents interpretation against a trough range.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-016",
+    "cat": "pharmacology",
+    "title": "Evaluate an antiemetic beyond sedation",
+    "stem": "After a prescribed antiemetic, a client is mildly sleepy but wakes easily and remains alert during conversation. They can swallow safely and have no intake restriction but have not attempted fluids. Which assessment best determines the intended therapeutic response?",
+    "type": "single",
+    "options": [
+      "Ask about nausea and assess tolerance of a small permitted intake",
+      "Record sleep as proof that nausea resolved",
+      "Measure respiratory rate as the only evidence of nausea relief",
+      "Wait for a full meal before reassessing"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "This measures the target symptom and its functional effect.",
+      "Sedation can occur without relief of nausea.",
+      "Respiratory rate assesses safety rather than the intended antiemetic outcome.",
+      "A smaller permitted intake can evaluate response sooner and more tolerably."
+    ],
+    "takeaway": "This measures the target symptom and its functional effect.",
+    "refs": [
+      "bcmed"
+    ],
+    "exhibit": null,
+    "subtopic": "Medication administration",
+    "learningObjective": "Evaluate nausea relief separately from medication-related sedation and safety findings.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-017",
+    "cat": "pharmacology",
+    "title": "Resolve uncertain Y-site compatibility",
+    "stem": "A maintenance infusion runs through the only available lumen. A new IV medicine is due, but Y-site compatibility is not documented. The client is stable. What comes first?",
+    "type": "single",
+    "options": [
+      "Stop the maintenance fluid without assessing its purpose",
+      "Verify compatibility and an appropriate administration method",
+      "Run the medicine slowly through the Y-site",
+      "Look for cloudiness after starting the medicine"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Interrupting an essential infusion may itself be harmful and needs planning.",
+      "The nurse needs a safe plan before the solutions contact each other.",
+      "A slower rate cannot establish chemical compatibility.",
+      "Some incompatibilities are not visible, and exposure has already occurred."
+    ],
+    "takeaway": "The nurse needs a safe plan before the solutions contact each other.",
+    "refs": [
+      "bcmed"
+    ],
+    "exhibit": null,
+    "subtopic": "Parenteral administration",
+    "learningObjective": "Verify a safe administration method when Y-site compatibility is unknown.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-018",
+    "cat": "pharmacology",
+    "title": "Identify the correct infusion pathway",
+    "stem": "Two similar clear infusions run through separate lumens. A replacement bag is ready, but one tubing label has detached. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Choose the bag whose remaining volume matches the record",
+      "Replace the label using the previous shift's diagram",
+      "Trace the relevant tubing from bag to client",
+      "Use the pump positioned nearest the correct lumen"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Estimated volume cannot verify the tubing connection.",
+      "A diagram may not reflect connections changed since handover.",
+      "Physical tracing confirms the actual connections before the bag is changed.",
+      "Equipment position does not reliably identify the connected pathway."
+    ],
+    "takeaway": "Physical tracing confirms the actual connections before the bag is changed.",
+    "refs": [
+      "bcmed"
+    ],
+    "exhibit": null,
+    "subtopic": "Parenteral administration",
+    "learningObjective": "Trace actual infusion connections rather than relying on device position or old labels.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-019",
+    "cat": "pharmacology",
+    "title": "Respond to resistance during flushing",
+    "stem": "A peripheral catheter flushed easily earlier but now resists flushing and causes pain. What is the safest next action?",
+    "type": "single",
+    "options": [
+      "Use a smaller syringe to generate more pressure",
+      "Reposition the arm and start the medicine without reassessment",
+      "Flush until blood return appears",
+      "Stop using the catheter and assess the site and patency"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Higher pressure can damage the catheter or surrounding tissue.",
+      "Repositioning alone does not resolve unexplained pain and resistance.",
+      "Continuing against resistance can worsen a catheter complication.",
+      "New pain and resistance suggest a complication requiring assessment."
+    ],
+    "takeaway": "New pain and resistance suggest a complication requiring assessment.",
+    "refs": [
+      "bcmed"
+    ],
+    "exhibit": null,
+    "subtopic": "Parenteral administration",
+    "learningObjective": "Stop catheter use and assess new pain with flushing resistance.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-020",
+    "cat": "pharmacology",
+    "title": "Differentiate phlebitis from infiltration",
+    "stem": "A peripheral IV site is warm and red, with tenderness tracking along the vein. There is no cool swelling. Which problem is most consistent?",
+    "type": "single",
+    "options": [
+      "Phlebitis",
+      "Simple nonvesicant infiltration",
+      "A dressing-related skin reaction only",
+      "Systemic fluid overload"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Vein-tracking warmth and tenderness favour venous inflammation.",
+      "Infiltration more often causes localized swelling and coolness.",
+      "A localized adhesive pattern would not explain tenderness along the vein.",
+      "Fluid overload does not explain this focal vein-tracking inflammation."
+    ],
+    "takeaway": "Vein-tracking warmth and tenderness favour venous inflammation.",
+    "refs": [
+      "bcmed"
+    ],
+    "exhibit": null,
+    "subtopic": "Parenteral administration",
+    "learningObjective": "Differentiate vein-tracking inflammation from infiltration or adhesive irritation.",
+    "reasoningSkill": "intervention",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-021",
+    "cat": "pharmacology",
+    "title": "Teach a sublingual formulation",
+    "stem": "A client prescribed a sublingual tablet says they will swallow it quickly to avoid the taste. What should the nurse explain?",
+    "type": "single",
+    "options": [
+      "It can be mixed into a drink if the full drink is taken",
+      "It should dissolve under the tongue as directed",
+      "Chewing is equivalent to letting it dissolve",
+      "Taking it after food gives the same onset"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "This converts the intended route to gastrointestinal administration.",
+      "The prescribed formulation relies on absorption through oral mucosa.",
+      "Chewing changes intended administration and may affect absorption.",
+      "Swallowing with food does not reproduce the sublingual route."
+    ],
+    "takeaway": "The prescribed formulation relies on absorption through oral mucosa.",
+    "refs": [
+      "bcmed"
+    ],
+    "exhibit": null,
+    "subtopic": "Medication administration",
+    "learningObjective": "Explain how swallowing changes an intended sublingual administration route.",
+    "reasoningSkill": "teaching",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-022",
+    "cat": "pharmacology",
+    "title": "Address inhaler coordination difficulty",
+    "stem": "A client presses a metered-dose inhaler before starting inhalation despite repeated coaching. Hand strength is adequate. What is the most useful next step?",
+    "type": "single",
+    "options": [
+      "Repeat written instructions without observing technique",
+      "Switch directly to a dry-powder device without assessment",
+      "Trial a compatible spacer with return demonstration",
+      "Add extra puffs to compensate for estimated loss"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "The barrier is demonstrated coordination rather than missing written information.",
+      "A different device requires adequate inspiratory ability and technique assessment.",
+      "A spacer reduces the timing coordination required for delivery.",
+      "The delivered amount remains uncertain and the prescription is altered."
+    ],
+    "takeaway": "A spacer reduces the timing coordination required for delivery.",
+    "refs": [
+      "bcmed"
+    ],
+    "exhibit": null,
+    "subtopic": "Medication administration",
+    "learningObjective": "Select a device aid for an observed inhaler-coordination barrier.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-023",
+    "cat": "pharmacology",
+    "title": "Prevent wrong-route liquid delivery",
+    "stem": "An oral liquid must be given through a feeding tube while the client also has an IV line. Which preparation best reduces a route mix-up?",
+    "type": "single",
+    "options": [
+      "Use an IV syringe but place it beside the feeding pump",
+      "Prepare it early in an unlabelled oral syringe",
+      "Ask another nurse to give it without identifying the route",
+      "Use a labelled enteral syringe and trace the tube"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Location alone cannot prevent connection to vascular access.",
+      "Dedicated equipment does not remove the need for identification.",
+      "Handover must include the medication and intended route.",
+      "Dedicated equipment and tracing reduce wrong-route connection risk."
+    ],
+    "takeaway": "Dedicated equipment and tracing reduce wrong-route connection risk.",
+    "refs": [
+      "bcmed"
+    ],
+    "exhibit": null,
+    "subtopic": "Medication administration",
+    "learningObjective": "Use dedicated labelled enteral equipment and line tracing to prevent route errors.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-024",
+    "cat": "pharmacology",
+    "title": "Manage an unavailable time-critical dose",
+    "stem": "A client's prescribed time-critical medicine is due, but the dispensing cabinet is empty. The previous dose was given on time. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Contact pharmacy promptly and escalate any anticipated delay",
+      "Document omission immediately and wait for routine restocking",
+      "Move the dose to the next medication round independently",
+      "Use a similar medicine available in the cabinet"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Timely supply coordination protects continuity and allows an alternate plan if needed.",
+      "The supply problem may be resolved before a clinically important delay.",
+      "Changing timing may reduce therapeutic coverage without review.",
+      "Therapeutic substitution requires an authorized plan."
+    ],
+    "takeaway": "Timely supply coordination protects continuity and allows an alternate plan if needed.",
+    "refs": [
+      "bcmed"
+    ],
+    "exhibit": null,
+    "subtopic": "Medication administration",
+    "learningObjective": "Escalate a supply delay affecting time-critical therapy without unauthorized substitution.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-025",
+    "cat": "pharmacology",
+    "title": "Apply a localized topical order",
+    "stem": "A topical corticosteroid is prescribed twice daily to one small elbow lesion. The client asks for it on new undiagnosed facial redness too. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Use the facial rash response to confirm its diagnosis",
+      "Treat the ordered area and arrange review of the facial rash",
+      "Apply a thinner layer to the face using the same order",
+      "Use a weaker steroid left from a previous prescription on the face"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "An empiric steroid response does not establish a safe diagnosis.",
+      "A new site and diagnosis require assessment before extending therapy.",
+      "Less product does not authorize a new treatment site.",
+      "An old prescription does not establish the new diagnosis or current treatment authorization."
+    ],
+    "takeaway": "A new site and diagnosis require assessment before extending therapy.",
+    "refs": [
+      "bcmed"
+    ],
+    "exhibit": null,
+    "subtopic": "Medication administration",
+    "learningObjective": "Distinguish an authorized topical treatment site from a new undiagnosed rash.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  }
+]

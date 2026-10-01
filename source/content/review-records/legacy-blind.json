@@ -1,0 +1,1599 @@
+[
+  {
+    "id": "management-01",
+    "cat": "management",
+    "stem": "At the start of a shift, which client should the practical nurse assess first?",
+    "type": "single",
+    "options": [
+      "A client awaiting routine discharge teaching",
+      "A client with new stridor after neck surgery",
+      "A client requesting assistance with a scheduled bath",
+      "A client with chronic knee pain unchanged from yesterday"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "management-02",
+    "cat": "management",
+    "stem": "A capable adult declines a prescribed dressing change after the nurse explains its purpose. What is the best next action?",
+    "type": "single",
+    "options": [
+      "Ask a relative to overrule the refusal",
+      "Proceed because the treatment is prescribed",
+      "Explore the concern, respect the decision and communicate/document it",
+      "Ask the client to leave the service"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "management-03",
+    "cat": "management",
+    "stem": "Which task is the best candidate for assignment to a trained unregulated care provider, with clear instructions and supervision consistent with local policy?",
+    "type": "single",
+    "options": [
+      "Assess new chest pain",
+      "Help a stable client with an established bathing routine",
+      "Decide whether a PRN sedative is appropriate",
+      "Teach a newly diagnosed client to adjust insulin"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "management-04",
+    "cat": "management",
+    "stem": "A nurse notices a neighbour’s name in the electronic client list but is not involved in their care. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Open the chart only to check whether the neighbour is well",
+      "Read the chart but do not discuss it",
+      "Ask a colleague to open the chart",
+      "Do not access the record without a legitimate care-related purpose"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "management-05",
+    "cat": "management",
+    "stem": "A nurse is asked to perform a procedure they have never been trained to do. The client is stable. What is the best response?",
+    "type": "single",
+    "options": [
+      "Explain the competence gap and arrange qualified support",
+      "Attempt it because a prescriber ordered it",
+      "Ask the client for instructions",
+      "Complete it and seek training afterward"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "management-06",
+    "cat": "management",
+    "stem": "Which information belongs in a concise handover for a client with worsening shortness of breath? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Current respiratory findings and vital-sign trends",
+      "Relevant history and interventions already given",
+      "An unrelated disagreement from the previous shift",
+      "The specific assessment or assistance being requested",
+      "The nurse’s unverified assumption that the client is exaggerating"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "management-07",
+    "cat": "management",
+    "stem": "A nurse discovers an incorrect entry in an electronic client record. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Delete the record so no one sees the error",
+      "Use the approved correction process that preserves the audit trail",
+      "Ask another nurse to sign a replacement entry",
+      "Leave it unchanged because corrections look suspicious"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "management-08",
+    "cat": "management",
+    "stem": "A client with limited English needs an explanation of a non-urgent invasive procedure. What is the best approach?",
+    "type": "single",
+    "options": [
+      "Speak louder and ask for a signature",
+      "Use the client’s young child to interpret",
+      "Arrange a qualified interpreter and confirm understanding",
+      "Assume a nod indicates informed agreement"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "management-09",
+    "cat": "management",
+    "stem": "An unregulated care provider reports that a usually alert client is suddenly confused. What should the nurse do first?",
+    "type": "single",
+    "options": [
+      "Ask them to observe until the next shift",
+      "Document dementia in the care plan",
+      "Ask the family to confirm a diagnosis",
+      "Assess the client promptly and escalate concerning findings"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "management-10",
+    "cat": "management",
+    "stem": "Which action best supports a safe transition home for a client with several medication changes?",
+    "type": "single",
+    "options": [
+      "Reconcile the medication list and ask the client to explain the plan back",
+      "Hand over all previous lists without discussion",
+      "Tell the client that the pharmacy will explain everything",
+      "Discuss only the newest medication"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "management-11",
+    "cat": "management",
+    "stem": "A nurse believes an assignment exceeds their ability to provide safe care. Which actions are appropriate? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Communicate specific risks promptly to the person responsible",
+      "Leave without arranging continuity of care",
+      "Request a revised assignment or additional qualified support",
+      "Follow the escalation process and document relevant communication",
+      "Accept silently because raising concerns is unprofessional"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "management-12",
+    "cat": "management",
+    "stem": "A client says previous experiences of discrimination make hospital care frightening. Which response is most therapeutic?",
+    "type": "single",
+    "options": [
+      "Everyone here is treated exactly the same",
+      "Tell me what would help you feel safer while we plan your care",
+      "You should not think about the past",
+      "I know exactly what your community needs"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "safety-01",
+    "cat": "safety",
+    "stem": "After removing gloves used during personal care, what should the nurse do?",
+    "type": "single",
+    "options": [
+      "Put on clean gloves without cleaning the hands",
+      "Clean the hands using the method appropriate to the situation",
+      "Clean the hands only if the gloves tore",
+      "Use lotion instead of hand hygiene"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "safety-02",
+    "cat": "safety",
+    "stem": "Which actions support infection prevention? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Clean hands before an aseptic task",
+      "Reuse a syringe for a second client if the needle is changed",
+      "Select protective equipment for the anticipated exposure",
+      "Clean shared equipment between clients",
+      "Wear the same gloves from one client to the next"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "safety-03",
+    "cat": "safety",
+    "stem": "A nurse sustains a used-needle puncture. After immediately washing the area, what is the priority?",
+    "type": "single",
+    "options": [
+      "Wait to see whether a fever develops",
+      "Finish the shift before reporting",
+      "Promptly report and access the occupational exposure protocol",
+      "Apply glue to seal the wound"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "safety-04",
+    "cat": "safety",
+    "stem": "An older adult becomes dizzy on standing after a new antihypertensive dose. What should the nurse do first?",
+    "type": "single",
+    "options": [
+      "Encourage them to walk quickly to improve circulation",
+      "Assist them to sit or lie safely and assess",
+      "Leave to find the chart while they stand",
+      "Apply restraints for the remainder of the day"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "safety-05",
+    "cat": "safety",
+    "stem": "A client is being assessed for infectious pulmonary tuberculosis. Which placement is most appropriate when available?",
+    "type": "single",
+    "options": [
+      "A shared room with another coughing client",
+      "An airborne infection isolation room with the door closed",
+      "Any room with a fan blowing into the hallway",
+      "A positive-pressure protective room"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "safety-06",
+    "cat": "safety",
+    "stem": "During sterile dressing setup, a nonsterile sleeve touches the centre of the sterile field. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Continue if the sleeve looks clean",
+      "Cover the area with a sterile towel and continue",
+      "Treat the field as contaminated and establish a new sterile field",
+      "Spray the field with alcohol"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "safety-07",
+    "cat": "safety",
+    "stem": "Which instructions are appropriate for a client using oxygen at home? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Keep oxygen away from smoking and open flames",
+      "Use petroleum jelly around the cannula",
+      "Secure cylinders as instructed by the supplier",
+      "Follow the prescribed flow and equipment instructions",
+      "Allow visitors to smoke if a window is open"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "safety-08",
+    "cat": "safety",
+    "stem": "Before administering a medication, which approach best verifies the client’s identity?",
+    "type": "single",
+    "options": [
+      "Use the room number and diagnosis",
+      "Ask a visitor to identify the client",
+      "Compare two approved identifiers with the record and client identification",
+      "Recognize the client from yesterday"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "safety-09",
+    "cat": "safety",
+    "stem": "Which change is most useful for a client at risk of falling during night-time toileting?",
+    "type": "single",
+    "options": [
+      "Place personal items across the room to encourage exercise",
+      "Keep the route lit and clear, with the call bell and walking aid accessible",
+      "Raise the bed to its highest position",
+      "Tell the client to avoid drinking all evening"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "safety-10",
+    "cat": "safety",
+    "stem": "The label on a prepared syringe is unreadable. What is the safest action?",
+    "type": "single",
+    "options": [
+      "Identify the drug by its colour",
+      "Ask another nurse to guess",
+      "Use it if it came from the correct room",
+      "Do not administer it; obtain a correctly identified preparation"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "safety-11",
+    "cat": "safety",
+    "stem": "A nurse finds two look-alike medication packages stored together after a near miss. What is the best response?",
+    "type": "single",
+    "options": [
+      "Report the near miss and work with the team to reduce selection risk",
+      "Discard every medicine in the storage area",
+      "Keep it quiet because no dose reached a client",
+      "Rely only on remembering the packaging difference"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "safety-12",
+    "cat": "safety",
+    "stem": "A reusable blood-pressure cuff has been used for a client on additional precautions. What is the best action before use for another client?",
+    "type": "single",
+    "options": [
+      "Wipe it on a clean sheet",
+      "Follow the required cleaning/disinfection process and product contact time",
+      "Use it immediately if no soil is visible",
+      "Cover it with a glove"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "health-01",
+    "cat": "health",
+    "stem": "Which request best checks a client’s understanding of a new inhaler?",
+    "type": "single",
+    "options": [
+      "Do you understand everything?",
+      "Please show me how you will use this inhaler at home",
+      "You have used inhalers before, right?",
+      "Can you sign to say that teaching was completed?"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "health-02",
+    "cat": "health",
+    "stem": "A client reports severe postoperative pain when the nurse begins discharge teaching. What is the best initial action?",
+    "type": "single",
+    "options": [
+      "Complete the teaching quickly before giving analgesia",
+      "Give a longer handout instead",
+      "Address the pain and reassess readiness to learn",
+      "Ask the client to memorize the handout overnight"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "health-03",
+    "cat": "health",
+    "stem": "Which advice supports safer sleep for a healthy infant?",
+    "type": "single",
+    "options": [
+      "Place the infant on the abdomen with a pillow",
+      "Place the infant on the back on a firm, flat, separate sleep surface without loose bedding",
+      "Use a sofa so the caregiver can stay close",
+      "Add a weighted blanket to reduce waking"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "health-04",
+    "cat": "health",
+    "stem": "A client planning pregnancy asks why folic acid is discussed before conception. What is the best explanation?",
+    "type": "single",
+    "options": [
+      "It helps reduce neural tube defects during very early development",
+      "It guarantees that the baby will have no abnormalities",
+      "It replaces the need for a balanced diet",
+      "It is only helpful after the third trimester"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "health-05",
+    "cat": "health",
+    "stem": "A parent is worried about recommended childhood vaccines. Which response best supports informed decision-making?",
+    "type": "single",
+    "options": [
+      "Refuse to discuss concerns",
+      "Ask what worries them and discuss benefits and risks using current local guidance",
+      "Promise that no adverse effects are possible",
+      "Tell them all online information is false"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "health-06",
+    "cat": "health",
+    "stem": "Which statements indicate appropriate foot-care understanding? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "I will inspect my feet daily",
+      "I will walk barefoot outdoors to toughen my skin",
+      "I will check inside my shoes before wearing them",
+      "I will report a new blister or wound promptly",
+      "I will use a heating pad directly on numb feet"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "health-07",
+    "cat": "health",
+    "stem": "A client says, “I want to quit smoking, but I have failed before.” Which response is best?",
+    "type": "single",
+    "options": [
+      "If you wanted it enough you would already have stopped",
+      "What helped before, and what made it difficult? We can plan support around that",
+      "There is no benefit after many years of smoking",
+      "Do not consider medication or support"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "health-08",
+    "cat": "health",
+    "stem": "A client has difficulty reading the discharge instructions. Which changes may help? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Use plain language and short sections",
+      "Provide a dense page of medical abbreviations",
+      "Discuss the most important actions and use teach-back",
+      "Offer suitable pictures or demonstrations",
+      "Assume the client cannot participate in decisions"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "health-09",
+    "cat": "health",
+    "stem": "An older adult with hearing difficulty is learning wound care. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Speak from behind while organizing supplies",
+      "Shout rapidly to finish the teaching",
+      "Reduce background noise, face the client and check preferred communication supports",
+      "Ask the family to make all decisions"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "health-10",
+    "cat": "health",
+    "stem": "A caregiver asks about a child with diarrhea. Which finding requires prompt clinical assessment?",
+    "type": "single",
+    "options": [
+      "Normal play and usual urine output",
+      "Marked lethargy with very little urine",
+      "Asking for a favourite toy",
+      "A single loose stool with normal drinking"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "health-11",
+    "cat": "health",
+    "stem": "An adult reports a new persistent breast lump. What is the most appropriate advice?",
+    "type": "single",
+    "options": [
+      "Ignore it if it is painless",
+      "Arrange timely clinical assessment rather than waiting for routine screening",
+      "Wait until it becomes larger",
+      "Assume that a recent normal screening test excludes a problem"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "health-12",
+    "cat": "health",
+    "stem": "A pregnant client reports a new severe headache, visual changes and upper abdominal pain. What is the most appropriate advice?",
+    "type": "single",
+    "options": [
+      "Wait for the next routine prenatal visit",
+      "Arrange urgent maternity assessment",
+      "Take extra vitamins and rest for several days",
+      "Restrict all fluids without assessment"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "psychosocial-01",
+    "cat": "psychosocial",
+    "stem": "A client begins to cry after receiving difficult news. What is the best initial response?",
+    "type": "single",
+    "options": [
+      "Stay present and invite them to share what they are feeling",
+      "Tell them everything will be fine",
+      "Change the subject immediately",
+      "Explain that other people have worse problems"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "psychosocial-02",
+    "cat": "psychosocial",
+    "stem": "A client says, “There is no point in living.” What is the best response?",
+    "type": "single",
+    "options": [
+      "You do not really mean that",
+      "Ask directly about suicidal thoughts, intent, plan and access to means",
+      "Promise to keep everything secret",
+      "Leave them alone to reflect"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "psychosocial-03",
+    "cat": "psychosocial",
+    "stem": "A client says a voice is ordering them to hurt someone. Which response is the priority?",
+    "type": "single",
+    "options": [
+      "Agree that the voice must be obeyed",
+      "Argue that hearing voices is impossible",
+      "Assess the command, intent and immediate risk, and seek appropriate help",
+      "Ignore it unless the client acts"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "psychosocial-04",
+    "cat": "psychosocial",
+    "stem": "A client is acutely anxious, breathing rapidly and unable to follow long instructions. What is most helpful initially?",
+    "type": "single",
+    "options": [
+      "Give a detailed lecture about anxiety mechanisms",
+      "Stay with the client, use short calm statements and assess physical safety",
+      "Ask several staff to question the client at once",
+      "Insist that they make several decisions immediately"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "psychosocial-05",
+    "cat": "psychosocial",
+    "stem": "Which response is most appropriate to “I should be over this loss by now”?",
+    "type": "single",
+    "options": [
+      "Everyone finishes grieving within six months",
+      "You must stop talking about it",
+      "There is no single timetable. How is this affecting your daily life?",
+      "The best solution is to keep busy constantly"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "psychosocial-06",
+    "cat": "psychosocial",
+    "stem": "A client says, “The television is sending secret instructions only to me.” Which response is best?",
+    "type": "single",
+    "options": [
+      "Yes, I can hear the instructions too",
+      "That is ridiculous",
+      "I do not receive those messages, but I can see this is distressing for you",
+      "Prove it by writing every message down"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "psychosocial-07",
+    "cat": "psychosocial",
+    "stem": "Which actions may help when a client is becoming verbally agitated but has not assaulted anyone? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Use a calm tone and simple choices",
+      "Block the exit to force the client to listen",
+      "Maintain appropriate personal space",
+      "Reduce unnecessary stimulation and call for support as needed",
+      "Threaten punishment to gain compliance"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "psychosocial-08",
+    "cat": "psychosocial",
+    "stem": "A hospitalized client who abruptly stopped heavy alcohol use develops tremor, sweating and agitation. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Assume the client is simply uncooperative",
+      "Assess promptly and escalate for withdrawal management under protocol",
+      "Provide alcohol without an order",
+      "Delay assessment until hallucinations occur"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "psychosocial-09",
+    "cat": "psychosocial",
+    "stem": "Which actions support trauma-informed care during a physical assessment? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Explain each step and ask permission before touch",
+      "Tell the client to comply without questions",
+      "Offer reasonable choices and a way to pause",
+      "Protect privacy and ask about preferences",
+      "Require disclosure of past trauma before care"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "psychosocial-10",
+    "cat": "psychosocial",
+    "stem": "A client with dementia repeatedly asks to go home. What is a helpful response?",
+    "type": "single",
+    "options": [
+      "Argue until they remember where they live",
+      "Acknowledge the wish and explore comfort or familiar routines",
+      "Tell them they asked that question ten times",
+      "Restrain them immediately for asking"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "psychosocial-11",
+    "cat": "psychosocial",
+    "stem": "A client offers the nurse an expensive personal gift in return for extra attention. What is the best response?",
+    "type": "single",
+    "options": [
+      "Accept privately so colleagues do not know",
+      "Accept if the client signs a consent form",
+      "Discuss the meaning respectfully and follow professional boundary and organizational guidance",
+      "Provide extra attention only after accepting"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "psychosocial-12",
+    "cat": "psychosocial",
+    "stem": "A client’s partner answers every question and refuses to leave. The client seems fearful. What should the nurse arrange when safe?",
+    "type": "single",
+    "options": [
+      "A private conversation with the client using a safe, routine approach",
+      "A confrontation with the partner in front of the client",
+      "A promise that reporting is never required",
+      "An assumption that the client wants the relationship ended"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "basic-01",
+    "cat": "basic",
+    "stem": "A client coughs repeatedly and develops a wet voice while drinking after a stroke. What should the nurse do first?",
+    "type": "single",
+    "options": [
+      "Encourage larger sips to finish quickly",
+      "Stop oral intake and seek assessment according to the swallowing protocol",
+      "Give thin liquid through a straw",
+      "Lay the client flat and continue feeding"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "basic-02",
+    "cat": "basic",
+    "stem": "Which actions support pressure injury prevention for an immobile client? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Inspect skin and reassess risk",
+      "Massage persistent redness over a bony prominence",
+      "Individualize repositioning and offload heels",
+      "Address moisture and nutritional needs",
+      "Assume a special mattress removes the need for assessment"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "basic-03",
+    "cat": "basic",
+    "stem": "A client can wash their face and upper body but needs help with the legs. What is the best approach?",
+    "type": "single",
+    "options": [
+      "Perform all care because it is faster",
+      "Encourage the client’s abilities and assist where needed",
+      "Leave the client to manage all washing alone",
+      "Tell the client not to try until fully recovered"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "basic-04",
+    "cat": "basic",
+    "stem": "An alert client reports pain of 8/10 while appearing calm. What should guide the assessment?",
+    "type": "single",
+    "options": [
+      "Dismiss the rating because the client is not crying",
+      "Use the client’s report and assess location, character, function and associated findings",
+      "Use only heart rate to decide if pain is real",
+      "Wait for a family member to confirm the pain"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "basic-05",
+    "cat": "basic",
+    "stem": "After an ordered analgesic and repositioning, what is the most useful next step?",
+    "type": "single",
+    "options": [
+      "Assume the intervention worked",
+      "Reassess pain, function and adverse effects at an appropriate interval",
+      "Document success before reassessing",
+      "Avoid asking because it may remind the client of pain"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "basic-06",
+    "cat": "basic",
+    "stem": "Which plan best supports bowel function in a stable client without fluid or dietary restrictions?",
+    "type": "single",
+    "options": [
+      "Increase immobility to conserve energy",
+      "Use regular toileting opportunities, suitable fluids, fibre and activity",
+      "Ignore the urge to defecate until bedtime",
+      "Use a laxative after every meal without an order or plan"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "basic-07",
+    "cat": "basic",
+    "stem": "Which actions help maintain a safely functioning indwelling urinary drainage system? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Keep the bag below bladder level without resting it on the floor",
+      "Disconnect the tubing routinely to inspect it",
+      "Prevent dependent loops and kinks that obstruct flow",
+      "Maintain the closed system unless a clinical indication requires change",
+      "Raise the bag above the bladder during transfers"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "basic-08",
+    "cat": "basic",
+    "stem": "A client cannot bear weight reliably. What is the safest plan for moving them from bed to chair?",
+    "type": "single",
+    "options": [
+      "Have one nurse lift the client under the arms",
+      "Use the assessed transfer plan and appropriate lift with trained assistance",
+      "Ask the client to jump toward the chair",
+      "Let the strongest family member decide the method"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "basic-09",
+    "cat": "basic",
+    "stem": "Which intervention is most appropriate for a stable inpatient reporting interrupted sleep?",
+    "type": "single",
+    "options": [
+      "Cluster suitable care activities and reduce avoidable noise and light",
+      "Wake the client hourly for nonessential conversation",
+      "Offer caffeine near bedtime",
+      "Use a sedative before assessing possible causes"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "basic-10",
+    "cat": "basic",
+    "stem": "A dependent client with reduced alertness needs oral hygiene. What is most appropriate?",
+    "type": "single",
+    "options": [
+      "Pour a cup of water into the mouth",
+      "Use an assessed positioning and suction-assisted oral-care approach under protocol",
+      "Omit oral care entirely",
+      "Ask the client to gargle despite being unable to follow instructions"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "basic-11",
+    "cat": "basic",
+    "stem": "An older client has poor appetite and becomes fatigued during meals. Which plan is most appropriate?",
+    "type": "single",
+    "options": [
+      "Remove preferred foods to encourage discipline",
+      "Assess causes and offer small, suitable nutrient-dense meals with assistance as needed",
+      "Assume this is unavoidable with age",
+      "Give only water between meals and no snacks"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "basic-12",
+    "cat": "basic",
+    "stem": "A dying client has a dry mouth but cannot safely swallow. What is the most appropriate comfort measure?",
+    "type": "single",
+    "options": [
+      "Force oral fluids to meet a daily target",
+      "Provide frequent gentle mouth care and lip moisture using appropriate products",
+      "Withhold all mouth care",
+      "Tell the family that comfort care is no longer useful"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "pharmacology-01",
+    "cat": "pharmacology",
+    "stem": "A client’s home medication list differs from the admission orders. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Automatically administer both lists",
+      "Clarify and reconcile discrepancies with the appropriate team before uncertain doses",
+      "Discard the home list",
+      "Assume all omissions are intentional"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "pharmacology-02",
+    "cat": "pharmacology",
+    "stem": "A client’s meal is unexpectedly delayed just before a scheduled rapid-acting mealtime insulin dose. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Give the dose and assume food will arrive",
+      "Check glucose and coordinate the dose with meal availability and the prescribed plan",
+      "Double the next dose",
+      "Cancel every insulin dose for the day"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "pharmacology-03",
+    "cat": "pharmacology",
+    "stem": "Which statement by a client taking warfarin indicates appropriate understanding?",
+    "type": "single",
+    "options": [
+      "I will stop all vitamin K foods permanently",
+      "I will keep vitamin K intake reasonably consistent and attend INR monitoring",
+      "I can start any herbal product without checking",
+      "I should double the next dose if I forget one"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "pharmacology-04",
+    "cat": "pharmacology",
+    "stem": "After an opioid dose, a client is difficult to arouse with slow, shallow respirations. What is the priority?",
+    "type": "single",
+    "options": [
+      "Allow uninterrupted sleep",
+      "Withhold further opioid, call for urgent help and support airway/breathing; follow reversal protocol",
+      "Give another dose for presumed discomfort",
+      "Offer a drink to wake them"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "pharmacology-05",
+    "cat": "pharmacology",
+    "stem": "A nurse receives an order for concentrated potassium chloride by direct IV push. What should happen?",
+    "type": "single",
+    "options": [
+      "Administer slowly over one minute",
+      "Clarify the unsafe order and do not give direct IV push potassium",
+      "Dilute in a small flush and administer",
+      "Give it if the client’s potassium is low"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "pharmacology-06",
+    "cat": "pharmacology",
+    "stem": "Soon after an antibiotic begins, a client develops wheezing, facial swelling and hypotension. What is the priority?",
+    "type": "single",
+    "options": [
+      "Slow the antibiotic and reassess next hour",
+      "Stop the infusion, activate emergency help and follow the anaphylaxis protocol",
+      "Reassure the client this is an expected effect",
+      "Wait for a skin rash before acting"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "pharmacology-07",
+    "cat": "pharmacology",
+    "stem": "Which findings require clarification before administration? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "The dose is missing",
+      "A documented allergy conflicts with the prescribed medication",
+      "The client’s identity has been verified",
+      "The route is unclear",
+      "The prescription and available concentration have been safely verified"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "pharmacology-08",
+    "cat": "pharmacology",
+    "stem": "A peripheral IV site becomes cool, swollen and painful while a non-vesicant fluid is infusing. What should the nurse do first?",
+    "type": "single",
+    "options": [
+      "Increase the rate to clear the line",
+      "Stop the infusion and assess/manage the site under protocol",
+      "Apply pressure while continuing the infusion",
+      "Ignore it if the pump has not alarmed"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "pharmacology-09",
+    "cat": "pharmacology",
+    "stem": "Which medication dose notation is clearest and safest?",
+    "type": "single",
+    "options": [
+      ".5 mg",
+      "0.5 mg",
+      "0.50. mg",
+      "5.0 mg when 0.5 mg is intended"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "pharmacology-10",
+    "cat": "pharmacology",
+    "stem": "A client with swallowing difficulty has an extended-release tablet prescribed. What is the best action?",
+    "type": "single",
+    "options": [
+      "Crush it into applesauce without checking",
+      "Ask the pharmacist/prescriber about a suitable alternative or approved administration method",
+      "Dissolve it in hot water",
+      "Split all tablets into quarters"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "pharmacology-11",
+    "cat": "pharmacology",
+    "stem": "A client taking a loop diuretic reports weakness and palpitations. Which prescribed laboratory test is particularly relevant to review promptly?",
+    "type": "single",
+    "options": [
+      "Serum potassium",
+      "A remote blood-group result",
+      "A routine allergy skin test",
+      "A stool screening test"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "pharmacology-12",
+    "cat": "pharmacology",
+    "stem": "Which instructions support safe use of a new medicine at home? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Explain its purpose and prescribed schedule",
+      "Explain important adverse effects and when to seek help",
+      "Tell the client to share unused doses with relatives",
+      "Check for understanding and relevant nonprescription products",
+      "Tell the client to stop every other medicine automatically"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "risk-01",
+    "cat": "risk",
+    "stem": "A postoperative client’s observations are shown below. What is the best response?",
+    "type": "single",
+    "options": [
+      "Continue routine observations only",
+      "Assess promptly and escalate possible bleeding or circulatory deterioration",
+      "Offer sleep medication",
+      "Document improvement because the temperature is normal"
+    ],
+    "exhibit": [
+      [
+        "Observation",
+        "08:00",
+        "10:00"
+      ],
+      [
+        "Heart rate",
+        "84/min",
+        "118/min"
+      ],
+      [
+        "Blood pressure",
+        "122/76 mmHg",
+        "88/54 mmHg"
+      ],
+      [
+        "Urine output",
+        "45 mL/hour",
+        "15 mL/hour"
+      ]
+    ]
+  },
+  {
+    "id": "risk-02",
+    "cat": "risk",
+    "stem": "A client’s potassium result is 6.4 mmol/L (reference 3.5–5.0 mmol/L). What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Offer potassium-rich food",
+      "Promptly assess and notify the responsible clinician; arrange cardiac monitoring as indicated",
+      "Ignore it if the client has no symptoms",
+      "Wait for the next routine clinic appointment"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "risk-03",
+    "cat": "risk",
+    "stem": "A client is found on the floor after an unwitnessed fall. What should happen before routinely lifting the client?",
+    "type": "single",
+    "options": [
+      "Assess responsiveness, immediate threats and possible injury, and summon help",
+      "Move them quickly to avoid embarrassment",
+      "Ask them to stand and prove they are uninjured",
+      "Complete the incident report first"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "risk-04",
+    "cat": "risk",
+    "stem": "Which actions can help reduce postoperative complications when appropriate to the client and care plan? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Encourage prescribed deep breathing and supported coughing",
+      "Assist early mobilization when safe",
+      "Maintain complete bed rest for all clients",
+      "Assess pain and support adequate analgesia",
+      "Ignore new calf swelling until discharge"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "risk-05",
+    "cat": "risk",
+    "stem": "A client with a new lower-leg cast reports worsening pain despite analgesia and numb toes. What is the priority?",
+    "type": "single",
+    "options": [
+      "Reassure them that severe pain is always expected",
+      "Assess neurovascular status and seek urgent review",
+      "Insert an object under the cast",
+      "Wait until the cast is removed at follow-up"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "risk-06",
+    "cat": "risk",
+    "stem": "A client scheduled for a non-urgent procedure says, “I signed, but I do not know what they are going to do.” What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Treat the signature as sufficient",
+      "Pause preparation and arrange clarification of understanding and consent with the appropriate clinician",
+      "Give sedation to reduce questions",
+      "Ask a visitor to sign another form"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "risk-07",
+    "cat": "risk",
+    "stem": "A client taking an anticoagulant reports hitting their head and now has a worsening headache. What is the most appropriate action?",
+    "type": "single",
+    "options": [
+      "Suggest sleeping it off",
+      "Arrange urgent clinical assessment",
+      "Stop all medicines permanently",
+      "Wait until visible bruising appears"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "risk-08",
+    "cat": "risk",
+    "stem": "Which findings are useful when assessing a client for fluid overload? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Change in weight measured consistently",
+      "New breathlessness or crackles",
+      "An isolated old height measurement",
+      "Peripheral edema and intake/output trends",
+      "The colour of the client’s clothing"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "risk-09",
+    "cat": "risk",
+    "stem": "A postoperative wound develops spreading redness, warmth, increasing pain and purulent drainage. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Document normal healing only",
+      "Assess the client including systemic signs and report possible infection",
+      "Seal the wound with household adhesive",
+      "Ignore it if the dressing hides the drainage"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "risk-10",
+    "cat": "risk",
+    "stem": "Shortly after a blood transfusion starts, a client develops chills, back pain and dyspnea. What is the priority?",
+    "type": "single",
+    "options": [
+      "Increase the rate to finish the unit",
+      "Stop the transfusion and activate the transfusion-reaction protocol with urgent assessment",
+      "Give the next unit instead",
+      "Record it only at the end of the shift"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "risk-11",
+    "cat": "risk",
+    "stem": "A client suddenly develops facial asymmetry and arm weakness. Which information is especially important to determine while urgent help is activated?",
+    "type": "single",
+    "options": [
+      "The last time the client was known to be at their usual neurological baseline",
+      "The date of their last dental appointment",
+      "Their preferred discharge meal",
+      "The number of visitors last week"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "risk-12",
+    "cat": "risk",
+    "stem": "A pulse oximeter reads 82% on a cold finger, but the client is alert and speaking comfortably. What is best?",
+    "type": "single",
+    "options": [
+      "Ignore the reading permanently",
+      "Immediately give a sedative",
+      "Assess the client and verify sensor placement/perfusion while responding to any clinical distress",
+      "Assume all low readings are artifacts"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "adaptation-01",
+    "cat": "adaptation",
+    "stem": "An adult with diabetes is alert, can swallow safely and has mild symptoms with glucose 3.5 mmol/L. Under the treatment protocol, what is appropriate?",
+    "type": "single",
+    "options": [
+      "Give rapid-acting insulin",
+      "Give 15 g of fast-acting carbohydrate and recheck glucose in 15 minutes",
+      "Give only water",
+      "Wait an hour before rechecking"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "adaptation-02",
+    "cat": "adaptation",
+    "stem": "A client begins a generalized tonic-clonic seizure in bed. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Force a spoon between the teeth",
+      "Hold the limbs down firmly",
+      "Protect from injury, time the seizure and support airway/safety according to protocol",
+      "Give oral water during the seizure"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "adaptation-03",
+    "cat": "adaptation",
+    "stem": "An adult with a suspected infection becomes confused, breathes rapidly and has a blood pressure of 84/48 mmHg. What is the priority?",
+    "type": "single",
+    "options": [
+      "Wait for the culture result before reporting",
+      "Activate urgent assessment and treatment for possible sepsis/shock",
+      "Encourage the client to walk to the bathroom",
+      "Provide discharge instructions"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "adaptation-04",
+    "cat": "adaptation",
+    "stem": "A client develops new crushing chest discomfort with sweating and shortness of breath. What is the most appropriate action?",
+    "type": "single",
+    "options": [
+      "Have them walk to relieve anxiety",
+      "Promptly assess and activate the chest-pain/emergency pathway",
+      "Wait to see if lunch improves the pain",
+      "Assume it is indigestion because the client is young"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "adaptation-05",
+    "cat": "adaptation",
+    "stem": "A nurse finds an adult unresponsive and not breathing normally. What is the appropriate immediate response?",
+    "type": "single",
+    "options": [
+      "Leave to complete documentation",
+      "Activate emergency response and begin the appropriate resuscitation sequence, using an AED as soon as available",
+      "Offer water",
+      "Wait for a family member’s interpretation"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "adaptation-06",
+    "cat": "adaptation",
+    "stem": "A client becomes severely breathless while lying flat and coughs pink frothy sputum. What is the priority?",
+    "type": "single",
+    "options": [
+      "Encourage extra oral fluids",
+      "Position to support breathing as tolerated, activate urgent help and assess/support oxygenation under protocol",
+      "Keep flat and leave to find the chart",
+      "Offer a meal to improve strength"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "adaptation-07",
+    "cat": "adaptation",
+    "stem": "A postoperative client suddenly develops dyspnea, pleuritic chest pain and tachycardia. What is the best response?",
+    "type": "single",
+    "options": [
+      "Massage the calves",
+      "Activate urgent assessment, limit exertion and support breathing as indicated",
+      "Tell them to walk it off",
+      "Reassess at the next scheduled round"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "adaptation-08",
+    "cat": "adaptation",
+    "stem": "Soon after birth, a client has rapidly increasing vaginal bleeding, pallor and dizziness. What is the priority?",
+    "type": "single",
+    "options": [
+      "Count the pads again in two hours",
+      "Activate the obstetric emergency response and immediately assess/support circulation under protocol",
+      "Encourage unassisted walking",
+      "Explain that all postpartum bleeding is normal"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "adaptation-09",
+    "cat": "adaptation",
+    "stem": "A conscious adult cannot speak, breathe or cough effectively after taking a bite of food. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Offer water to wash the food down",
+      "Encourage the client to lie down and wait",
+      "Activate help and give the appropriate adult choking interventions according to current resuscitation training",
+      "Perform a blind finger sweep"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "adaptation-10",
+    "cat": "adaptation",
+    "stem": "Which findings can indicate significant volume depletion in an adult? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Reduced urine output",
+      "Tachycardia with postural symptoms",
+      "A stable pattern of moist mucosa and usual urine output",
+      "Hypotension with worsening weakness",
+      "Sudden improvement in all vital signs"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "adaptation-11",
+    "cat": "adaptation",
+    "stem": "A client with diabetes is unresponsive and has a glucose of 2.1 mmol/L. Which action is appropriate?",
+    "type": "single",
+    "options": [
+      "Pour juice into the mouth",
+      "Protect the airway, activate urgent help and give authorized non-oral glucose treatment under protocol",
+      "Wait for the client to wake before treating",
+      "Give scheduled mealtime insulin"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "adaptation-12",
+    "cat": "adaptation",
+    "stem": "Which observations warrant prompt assessment for respiratory deterioration? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "New inability to finish a sentence because of breathlessness",
+      "Marked use of accessory muscles",
+      "Stable comfortable breathing at baseline",
+      "New confusion with respiratory symptoms",
+      "Normal conversation without symptoms"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "management-13",
+    "cat": "management",
+    "stem": "Four clients are receiving morning care. Which report requires the practical nurse to interrupt routine medication preparation and assess immediately?",
+    "type": "single",
+    "options": [
+      "A client with stable COPD is at their prescribed oxygen target and reports usual exertional breathlessness",
+      "A client taking an anticoagulant reports a new severe headache and vomiting after a fall last night",
+      "A client awaiting discharge has questions about a medication stopped yesterday",
+      "A client with arthritis requests their prescribed analgesic before physiotherapy"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "management-14",
+    "cat": "management",
+    "stem": "A care provider has safely assisted a client with walking for several days. Today the client reports new weakness and nearly falls when standing. What should the nurse do before the next walk?",
+    "type": "single",
+    "options": [
+      "Continue the same assignment because the worker is experienced",
+      "Ask the worker to document the change after the next walk",
+      "Reassess the client and revise the assistance and supervision plan",
+      "Ask a second unregulated worker to join without further assessment"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "management-15",
+    "cat": "management",
+    "stem": "A nurse reports a sudden deterioration to the responsible clinician but receives instructions for routine observation only. The client continues to worsen. What is the best next action?",
+    "type": "single",
+    "options": [
+      "Follow the original instruction until the next scheduled round",
+      "Continue immediate assessment/support and escalate through the urgent-response chain",
+      "Ask a colleague to document disagreement but make no further contact",
+      "Wait for a family member to request a second opinion"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "management-16",
+    "cat": "management",
+    "stem": "A capable adult accepts symptom treatment but refuses a proposed blood transfusion. A family member insists it should proceed. What should guide the nurse’s response?",
+    "type": "single",
+    "options": [
+      "The family’s preference takes priority because the treatment could be life-saving",
+      "The client’s informed decision should be respected while alternatives and concerns are addressed",
+      "The nurse should ask the family to sign on behalf of the client",
+      "Any disagreement automatically means the client lacks decision-making capacity"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "management-17",
+    "cat": "management",
+    "stem": "Which progress note most clearly communicates an observed response to pain treatment?",
+    "type": "single",
+    "options": [
+      "Client doing much better; no concerns",
+      "Client complained too much before the medicine",
+      "Thirty minutes after the prescribed IV analgesic, client reports pain decreased from 8/10 to 3/10; alert, respirations 16/min",
+      "Pain medication effective as usual"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "management-18",
+    "cat": "management",
+    "stem": "A client signs a procedure form, then asks whether they can change their mind before it begins. What is the best response?",
+    "type": "single",
+    "options": [
+      "The signature makes the decision final",
+      "Only the person performing the procedure can discuss withdrawal",
+      "You can withdraw consent; let us discuss your concerns and notify the team",
+      "Withdrawal is allowed only if a family member agrees"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "management-19",
+    "cat": "management",
+    "stem": "Under a policy allowing telephone medication orders, the nurse cannot clearly hear the dose. What is the most appropriate next step?",
+    "type": "single",
+    "options": [
+      "Select the usual adult dose and document it",
+      "Ask the prescriber to repeat and clarify, then read back the complete order according to policy",
+      "Record both possible doses and ask the next shift to choose",
+      "Use the dose administered to another client with the same diagnosis"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "management-20",
+    "cat": "management",
+    "stem": "An adult client’s friend asks the nurse for investigation results. The client is alert and available, and no consent to disclose has been established. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Share only the normal results",
+      "Confirm the client’s wishes and authorization before disclosing information",
+      "Share the results because the friend knows the client’s birth date",
+      "Ask the friend to sign a confidentiality agreement and then disclose"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "pharmacology-13",
+    "cat": "pharmacology",
+    "stem": "A medication order is for 0.25 mg. The available tablets contain 0.5 mg each and are approved for splitting. A colleague prepares two tablets. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Administer them because the tablet strength is smaller than 1 mg",
+      "Stop and correct the preparation: the prescribed amount is half a tablet",
+      "Give one tablet now and one later",
+      "Ask the client which dose they usually prefer"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "pharmacology-14",
+    "cat": "pharmacology",
+    "stem": "A fictional medicine is ordered at 18 mg/kg/day in three equal doses for a 20 kg child. What amount is prescribed per dose?",
+    "type": "single",
+    "options": [
+      "120 mg",
+      "360 mg",
+      "6 mg",
+      "1,080 mg"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "pharmacology-15",
+    "cat": "pharmacology",
+    "stem": "A scheduled beta-blocker has a prescribed hold parameter for pulse below 55/min. The nurse obtains a pulse of 48/min and the client reports dizziness. What is best?",
+    "type": "single",
+    "options": [
+      "Administer it because the blood pressure remains above the hold threshold",
+      "Withhold according to the parameter, assess the client and contact the responsible clinician",
+      "Give half the dose without an order",
+      "Ask the client to walk until the pulse reaches 55/min"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "pharmacology-16",
+    "cat": "pharmacology",
+    "stem": "A client receiving an IV vesicant reports burning, and swelling is visible near the cannula. What is the best immediate response?",
+    "type": "single",
+    "options": [
+      "Flush the cannula to check patency before stopping",
+      "Stop the infusion and follow the extravasation protocol, retaining access initially if needed for aspiration/treatment",
+      "Remove the cannula immediately and discard it before assessment",
+      "Slow the infusion and apply the same warm compress used for all medications"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "safety-13",
+    "cat": "safety",
+    "stem": "A nurse will irrigate a wound where splashing of fluid is anticipated. Which protective approach is most appropriate?",
+    "type": "single",
+    "options": [
+      "Gloves alone because blood contact is not certain",
+      "Gloves, protective clothing and face/eye protection appropriate to the anticipated splash",
+      "A respirator for every wound regardless of exposure",
+      "Hand hygiene alone if the wound is not known to be infected"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "safety-14",
+    "cat": "safety",
+    "stem": "A client who understands the call-bell instructions gets up alone at night to urgently urinate. Which revision best addresses the identified problem?",
+    "type": "single",
+    "options": [
+      "Repeat the same instructions more firmly",
+      "Assess toileting patterns and arrange timely assistance with accessible equipment",
+      "Remove the walking aid so the client cannot get up",
+      "Document noncompliance as the only change to the plan"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "health-13",
+    "cat": "health",
+    "stem": "After teaching a client newly prescribed a metered-dose inhaler, which outcome best demonstrates learning?",
+    "type": "single",
+    "options": [
+      "The client states that the handout was easy to read",
+      "The client correctly demonstrates the prescribed device technique and identifies when to seek help",
+      "The client can name all medicines used for lung disease",
+      "The client agrees that the nurse explained everything"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "health-14",
+    "cat": "health",
+    "stem": "A client brings home blood-pressure readings taken immediately after climbing stairs with an incorrectly sized cuff. What is the best initial teaching focus?",
+    "type": "single",
+    "options": [
+      "Ask the client to average the readings and change the dose independently",
+      "Review correct technique, equipment fit and the prescribed monitoring/reporting plan",
+      "Stop all home monitoring because the readings vary",
+      "Record only the lowest readings"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "psychosocial-13",
+    "cat": "psychosocial",
+    "stem": "A client says they have collected pills and intend to take them tonight. What is the priority?",
+    "type": "single",
+    "options": [
+      "Arrange a routine counselling appointment next month",
+      "Stay with the client, activate immediate safety support and restrict access to means when safe",
+      "Ask the client to promise not to act and then leave them alone",
+      "Complete the full social history before alerting anyone"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "psychosocial-14",
+    "cat": "psychosocial",
+    "stem": "An older adult with mild, stable dementia becomes acutely inattentive and fluctuates between drowsiness and agitation after surgery. What is most appropriate?",
+    "type": "single",
+    "options": [
+      "Attribute it to expected progression of dementia",
+      "Assess for delirium and reversible contributors, and communicate the acute change",
+      "Use memory exercises as the only intervention",
+      "Delay assessment until the client is consistently agitated"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "basic-13",
+    "cat": "basic",
+    "stem": "A client reports incisional pain of 7/10 and refuses planned postoperative walking. Which response best balances comfort and recovery?",
+    "type": "single",
+    "options": [
+      "Cancel all mobilization until the client has no pain",
+      "Assess pain and barriers, provide prescribed relief, then reassess and assist graded activity",
+      "Insist on walking before any analgesia",
+      "Tell the client that pain medication replaces the need to mobilize"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "basic-14",
+    "cat": "basic",
+    "stem": "A client with reduced mobility has intact skin over the sacrum that remains red and does not blanch with gentle pressure. What is the best response?",
+    "type": "single",
+    "options": [
+      "Massage the area to restore circulation",
+      "Relieve pressure and reassess/document the skin while updating the prevention plan",
+      "Wait for an open wound before changing care",
+      "Place the client on the same area to avoid disturbing the redness"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "risk-13",
+    "cat": "risk",
+    "stem": "A client with heart failure has the following observations. Which change is the highest priority to report after immediate assessment?",
+    "type": "single",
+    "options": [
+      "A usual mild ankle swelling that resolves overnight",
+      "New breathlessness at rest with oxygen saturation below the prescribed target",
+      "A request to review the low-sodium meal choices",
+      "An unchanged daily weight taken on the same scale"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "risk-14",
+    "cat": "risk",
+    "stem": "A client receiving anticoagulation has new black tarry stools and dizziness. Which action is most appropriate?",
+    "type": "single",
+    "options": [
+      "Document the stool colour and wait for the next scheduled INR",
+      "Assess circulation and symptoms and promptly escalate possible bleeding",
+      "Increase dietary fibre as the only response",
+      "Reassure the client because bruising is the only important bleeding sign"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "adaptation-13",
+    "cat": "adaptation",
+    "stem": "A client with low glucose is initially awake but becomes too drowsy to swallow safely while oral treatment is being prepared. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Continue oral treatment using a straw",
+      "Change to the authorized non-oral emergency pathway and support the airway",
+      "Give the same oral amount more slowly",
+      "Wait for the next glucose check before changing the route"
+    ],
+    "exhibit": null
+  },
+  {
+    "id": "adaptation-14",
+    "cat": "adaptation",
+    "stem": "A postoperative client reports sudden dyspnea and looks pale. The nurse is about to give the client’s routine oral medicines. What is the best initial action?",
+    "type": "single",
+    "options": [
+      "Finish the routine medicines so they are not late",
+      "Stop the routine task, assess airway/breathing/circulation and summon appropriate help",
+      "Ask the client to wait while routine documentation is completed",
+      "Offer reassurance first and reassess only if symptoms persist for an hour"
+    ],
+    "exhibit": null
+  }
+]

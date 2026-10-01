@@ -1,0 +1,252 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:43:52.863836+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/basic-101-125.json",
+  "sourceSha256": "5b6e0ade9abcdb2279f14c0c9349921be3347505eba211efdb38547d5c0ba85f",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 12,
+    "reviewedIds": [
+      "x-basic-112",
+      "x-basic-113",
+      "x-basic-115",
+      "x-basic-116",
+      "x-basic-117",
+      "x-basic-118",
+      "x-basic-119",
+      "x-basic-120",
+      "x-basic-121",
+      "x-basic-122",
+      "x-basic-123",
+      "x-basic-125"
+    ],
+    "unreviewedIds": [
+      "x-basic-101",
+      "x-basic-102",
+      "x-basic-103",
+      "x-basic-104",
+      "x-basic-105",
+      "x-basic-106",
+      "x-basic-107",
+      "x-basic-108",
+      "x-basic-109",
+      "x-basic-110",
+      "x-basic-111",
+      "x-basic-114",
+      "x-basic-124"
+    ]
+  },
+  "method": "Each listed stem/topic and new reference mapping was manually examined. Replacing current refs with the recorded oldRefs reproduces a prior independently approved full-item hash; this proves all other fields are unchanged. The present pass approves the manually assessed reference relevance while carrying forward that exact unchanged-content review. It is not a new full clinical review or an automated pass based solely on hash equality.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-basic-112",
+      "status": "pass",
+      "assessment": "BC Cancer taste/smell guidance provides relevant food-odour coping context; this is related support, not a claim every treatment-related nausea cause is identical. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e9533da2ed147fdda23fa5f11376c31d20a091b81b6476417eb2c05fa41046d5"
+    },
+    {
+      "id": "x-basic-113",
+      "status": "pass",
+      "assessment": "Positioning plus focused assessment is appropriate to immediate safe assistance for a weak vomiting client. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1303b0bff3f93a206c3bb6d087a8223a76bb00ccd45b3ddfbf27e11a7a8c7ec8"
+    },
+    {
+      "id": "x-basic-115",
+      "status": "pass",
+      "assessment": "Sleep guidance fits the relationship of daytime sleep pattern to poor night-time sleep. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "affb601f6cac117462e0249ae4ce0770e399bc935147a17d0fc6a50af22ca823"
+    },
+    {
+      "id": "x-basic-116",
+      "status": "pass",
+      "assessment": "Heart-failure and sleep sources relate to breathlessness/orthopnoea interrupting sleep; item appropriately requests assessment rather than making the diagnosis. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "469e0267dfcd6cd9e0044cd1c61a696ec5eb8d74f8ff587905ec2ca20f260619"
+    },
+    {
+      "id": "x-basic-117",
+      "status": "pass",
+      "assessment": "Sleep guidance fits noise management matched to the documented main disturbance. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1040a813e13be75bbbb6a364900929514daac3bfe70b4eae4ad0d7d355a86438"
+    },
+    {
+      "id": "x-basic-118",
+      "status": "pass",
+      "assessment": "Sleep guidance fits appropriate care clustering while preserving necessary monitoring. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "27e090fa0de9dfea956d7f1837541c5224260ab877b4c0a4e249c18b8c4e19df"
+    },
+    {
+      "id": "x-basic-119",
+      "status": "pass",
+      "assessment": "Sleep guidance fits a trial targeting late caffeine exposure. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "15d69b47adb5eb5aca9cacc2932405e6c6c3ee2ad6f9e8da29837e7af7c70b3c"
+    },
+    {
+      "id": "x-basic-120",
+      "status": "pass",
+      "assessment": "CPAP plus pressure-injury guidance matches mask discomfort/fit while preserving prescribed treatment. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5dc47592550f800b0d3226589b59688ad6006440ead7206858b5868d33549263"
+    },
+    {
+      "id": "x-basic-121",
+      "status": "pass",
+      "assessment": "Pain and positioning guidance provides related support for tolerated repositioning; end-of-life goals in the supplied stem still govern individualization. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "87324f529af47495d9637d7aee16396d971d3305f5af7c53425d319578672a30"
+    },
+    {
+      "id": "x-basic-122",
+      "status": "pass",
+      "assessment": "Palliative oral-nutrition guidance is directly relevant to comfort goals and reduced appetite in dying. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b6d5b6d35acb21bb3d453e28af63bc8da2dd2c2445c0bcc3ec491db8451f2f28"
+    },
+    {
+      "id": "x-basic-123",
+      "status": "pass",
+      "assessment": "Focused respiratory assessment and positioning guidance fit supporting an individually relieving posture and reassessing symptoms. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "64f61390faf6fe5805d0a72bfa3d2290f9c88e292b1532ad80ed3000477caa63"
+    },
+    {
+      "id": "x-basic-125",
+      "status": "pass",
+      "assessment": "Mobility/rest guidance is related support for pacing limited energy around a personally valued task; the priority itself is supplied by the client. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ccb2213021412f97e2e6d5e37ab5e34edf349ef7b8aa7338eb7e4cb7bf1e266a"
+    }
+  ],
+  "referenceProofs": {
+    "x-basic-112": {
+      "priorPassReport": "c-basic-101-125.changed-recheck.json",
+      "priorPassHash": "6f0471e3cb5451c4ac5355e79dd47e757dcc41f4f12397536d62c6714bbe3c45",
+      "newRefs": [
+        "c-cancer-taste"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-113": {
+      "priorPassReport": "c-basic-101-125.legacy-review.json",
+      "priorPassHash": "9a03b89c27a9d70744253bd08813ea2145acd41e5a71b27ff0438c39fff513c0",
+      "newRefs": [
+        "c-position",
+        "c-assessment"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-115": {
+      "priorPassReport": "c-basic-114-115-124.final-recheck.json",
+      "priorPassHash": "655cd87bc32db40169411ced9bc73737a92d955d4592887bfaa6ebd71fddf7c9",
+      "newRefs": [
+        "c-sleep"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-116": {
+      "priorPassReport": "c-basic-101-125.changed-recheck.json",
+      "priorPassHash": "5d6f501555579b815328c749240edc9471e15cacc506651ce3f1b81ce174aa3e",
+      "newRefs": [
+        "c-heart-failure",
+        "c-sleep"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-117": {
+      "priorPassReport": "c-basic-101-125.changed-recheck.json",
+      "priorPassHash": "fc2429e034204f25e6a0c217a6988a960601e566a80f77d6b87db773f28164ae",
+      "newRefs": [
+        "c-sleep"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-118": {
+      "priorPassReport": "c-basic-101-125.legacy-review.json",
+      "priorPassHash": "11c8407ed578d828be605bfa63bb3dd53be1c47a025e4beecdb748659fba6b8e",
+      "newRefs": [
+        "c-sleep"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-119": {
+      "priorPassReport": "c-basic-101-125.legacy-review.json",
+      "priorPassHash": "561e5a5bfa28b6bf6028be4b6124efd566d1ee3490d24f009957891b6e6b1c10",
+      "newRefs": [
+        "c-sleep"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-120": {
+      "priorPassReport": "c-basic-101-125.legacy-review.json",
+      "priorPassHash": "fd0ae96ec36d81f8a71133621713d84902de47e599aabca3b68d4262697468c7",
+      "newRefs": [
+        "c-cpap",
+        "c-pressure"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-121": {
+      "priorPassReport": "c-basic-101-125.changed-recheck.json",
+      "priorPassHash": "0993d9d56bc87bbded609ffd7899ecc8a67696ab2419f3311dc6d31bd5d32f6e",
+      "newRefs": [
+        "c-pain",
+        "c-position"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-122": {
+      "priorPassReport": "c-basic-101-125.changed-recheck.json",
+      "priorPassHash": "f52257b37ba82432acfdb9f025b3cba230c623cac7cbfa5f2546b6ed0acb145e",
+      "newRefs": [
+        "c-palliative-food"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-123": {
+      "priorPassReport": "c-basic-101-125.changed-recheck.json",
+      "priorPassHash": "359549240fe3ad30bf40d1baee5d6600095377da99b6b8a56098c25a7e629418",
+      "newRefs": [
+        "c-assessment",
+        "c-position"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-125": {
+      "priorPassReport": "c-basic-101-125.changed-recheck.json",
+      "priorPassHash": "5ebab21ad511a2177a905d6edbe170b1c20c5f22d5bb4edfabdbd6726de12207",
+      "newRefs": [
+        "c-mobility",
+        "c-sleep"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    }
+  },
+  "sourceCheckLimit": "New source names, registered scopes and mapped item topics were inspected. Complete source texts were not independently retrieved for every mapping; no full-source or clinician validation is claimed.",
+  "reviewerTask": "/root/review_legacy"
+}

@@ -1,0 +1,531 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T18:09:31.211272+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/cross-b-psychosocial-all.json",
+  "sourceSha256": "fa2be5061cbaf86ead0e0a6b4411bad15e0bef679829126b644cd50009a7bee6",
+  "coverage": {
+    "sourceItems": 200,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-psychosocial-026",
+      "x-psychosocial-027",
+      "x-psychosocial-028",
+      "x-psychosocial-029",
+      "x-psychosocial-030",
+      "x-psychosocial-031",
+      "x-psychosocial-032",
+      "x-psychosocial-033",
+      "x-psychosocial-034",
+      "x-psychosocial-035",
+      "x-psychosocial-036",
+      "x-psychosocial-037",
+      "x-psychosocial-038",
+      "x-psychosocial-039",
+      "x-psychosocial-040",
+      "x-psychosocial-041",
+      "x-psychosocial-042",
+      "x-psychosocial-043",
+      "x-psychosocial-044",
+      "x-psychosocial-045",
+      "x-psychosocial-046",
+      "x-psychosocial-047",
+      "x-psychosocial-048",
+      "x-psychosocial-049",
+      "x-psychosocial-050"
+    ],
+    "unreviewedIds": [
+      "x-psychosocial-001",
+      "x-psychosocial-002",
+      "x-psychosocial-003",
+      "x-psychosocial-004",
+      "x-psychosocial-005",
+      "x-psychosocial-006",
+      "x-psychosocial-007",
+      "x-psychosocial-008",
+      "x-psychosocial-009",
+      "x-psychosocial-010",
+      "x-psychosocial-011",
+      "x-psychosocial-012",
+      "x-psychosocial-013",
+      "x-psychosocial-014",
+      "x-psychosocial-015",
+      "x-psychosocial-016",
+      "x-psychosocial-017",
+      "x-psychosocial-018",
+      "x-psychosocial-019",
+      "x-psychosocial-020",
+      "x-psychosocial-021",
+      "x-psychosocial-022",
+      "x-psychosocial-023",
+      "x-psychosocial-024",
+      "x-psychosocial-025",
+      "x-psychosocial-051",
+      "x-psychosocial-052",
+      "x-psychosocial-053",
+      "x-psychosocial-054",
+      "x-psychosocial-055",
+      "x-psychosocial-056",
+      "x-psychosocial-057",
+      "x-psychosocial-058",
+      "x-psychosocial-059",
+      "x-psychosocial-060",
+      "x-psychosocial-061",
+      "x-psychosocial-062",
+      "x-psychosocial-063",
+      "x-psychosocial-064",
+      "x-psychosocial-065",
+      "x-psychosocial-066",
+      "x-psychosocial-067",
+      "x-psychosocial-068",
+      "x-psychosocial-069",
+      "x-psychosocial-070",
+      "x-psychosocial-071",
+      "x-psychosocial-072",
+      "x-psychosocial-073",
+      "x-psychosocial-074",
+      "x-psychosocial-075",
+      "x-psychosocial-076",
+      "x-psychosocial-077",
+      "x-psychosocial-078",
+      "x-psychosocial-079",
+      "x-psychosocial-080",
+      "x-psychosocial-081",
+      "x-psychosocial-082",
+      "x-psychosocial-083",
+      "x-psychosocial-084",
+      "x-psychosocial-085",
+      "x-psychosocial-086",
+      "x-psychosocial-087",
+      "x-psychosocial-088",
+      "x-psychosocial-089",
+      "x-psychosocial-090",
+      "x-psychosocial-091",
+      "x-psychosocial-092",
+      "x-psychosocial-093",
+      "x-psychosocial-094",
+      "x-psychosocial-095",
+      "x-psychosocial-096",
+      "x-psychosocial-097",
+      "x-psychosocial-098",
+      "x-psychosocial-099",
+      "x-psychosocial-100",
+      "x-psychosocial-101",
+      "x-psychosocial-102",
+      "x-psychosocial-103",
+      "x-psychosocial-104",
+      "x-psychosocial-105",
+      "x-psychosocial-106",
+      "x-psychosocial-107",
+      "x-psychosocial-108",
+      "x-psychosocial-109",
+      "x-psychosocial-110",
+      "x-psychosocial-111",
+      "x-psychosocial-112",
+      "x-psychosocial-113",
+      "x-psychosocial-114",
+      "x-psychosocial-115",
+      "x-psychosocial-116",
+      "x-psychosocial-117",
+      "x-psychosocial-118",
+      "x-psychosocial-119",
+      "x-psychosocial-120",
+      "x-psychosocial-121",
+      "x-psychosocial-122",
+      "x-psychosocial-123",
+      "x-psychosocial-124",
+      "x-psychosocial-125",
+      "x-psychosocial-126",
+      "x-psychosocial-127",
+      "x-psychosocial-128",
+      "x-psychosocial-129",
+      "x-psychosocial-130",
+      "x-psychosocial-131",
+      "x-psychosocial-132",
+      "x-psychosocial-133",
+      "x-psychosocial-134",
+      "x-psychosocial-135",
+      "x-psychosocial-136",
+      "x-psychosocial-137",
+      "x-psychosocial-138",
+      "x-psychosocial-139",
+      "x-psychosocial-140",
+      "x-psychosocial-141",
+      "x-psychosocial-142",
+      "x-psychosocial-143",
+      "x-psychosocial-144",
+      "x-psychosocial-145",
+      "x-psychosocial-146",
+      "x-psychosocial-147",
+      "x-psychosocial-148",
+      "x-psychosocial-149",
+      "x-psychosocial-150",
+      "x-psychosocial-151",
+      "x-psychosocial-152",
+      "x-psychosocial-153",
+      "x-psychosocial-154",
+      "x-psychosocial-155",
+      "x-psychosocial-156",
+      "x-psychosocial-157",
+      "x-psychosocial-158",
+      "x-psychosocial-159",
+      "x-psychosocial-160",
+      "x-psychosocial-161",
+      "x-psychosocial-162",
+      "x-psychosocial-163",
+      "x-psychosocial-164",
+      "x-psychosocial-165",
+      "x-psychosocial-166",
+      "x-psychosocial-167",
+      "x-psychosocial-168",
+      "x-psychosocial-169",
+      "x-psychosocial-170",
+      "x-psychosocial-171",
+      "x-psychosocial-172",
+      "x-psychosocial-173",
+      "x-psychosocial-174",
+      "x-psychosocial-175",
+      "x-psychosocial-176",
+      "x-psychosocial-177",
+      "x-psychosocial-178",
+      "x-psychosocial-179",
+      "x-psychosocial-180",
+      "x-psychosocial-181",
+      "x-psychosocial-182",
+      "x-psychosocial-183",
+      "x-psychosocial-184",
+      "x-psychosocial-185",
+      "x-psychosocial-186",
+      "x-psychosocial-187",
+      "x-psychosocial-188",
+      "x-psychosocial-189",
+      "x-psychosocial-190",
+      "x-psychosocial-191",
+      "x-psychosocial-192",
+      "x-psychosocial-193",
+      "x-psychosocial-194",
+      "x-psychosocial-195",
+      "x-psychosocial-196",
+      "x-psychosocial-197",
+      "x-psychosocial-198",
+      "x-psychosocial-199",
+      "x-psychosocial-200"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.canada.ca/en/public-health/services/publications/health-risks-safety/trauma-violence-informed-approaches-policy-practice.html",
+      "checked": "Primary PHAC search-retrieved text states disclosure is not the goal and support can be provided without requiring trauma histories; supports039 and related trauma items, not every individual option.",
+      "retrieval": "turn235search0"
+    },
+    {
+      "url": "https://www.nice.org.uk/guidance/cg31/chapter/Recommendations",
+      "checked": "Primary NICE search-retrieved guidance advises OCD expertise when uncertainty exists about intrusive aggressive/sexual/death-related thoughts; supports cautious assessment rather than equating intrusive thoughts with intent in034.",
+      "retrieval": "turn235search1"
+    },
+    {
+      "url": "https://www.camh.ca/-/media/health-info-files/guides-and-publications/ocd-guide-en.pdf",
+      "checked": "Primary CAMH search-retrieved guide explains family ritual participation can impede progress; supports029 and031, not a universal abrupt withdrawal regimen.",
+      "retrieval": "turn235search36"
+    }
+  ],
+  "items": [
+    {
+      "id": "x-psychosocial-026",
+      "status": "revise",
+      "assessment": "The planned follow-up, exploration of distress and reassessment of new concerns are clinically sound and avoid dismissing symptoms. The generic selection task does not justify challenge metadata.",
+      "issues": [
+        "The planned follow-up, exploration of distress and reassessment of new concerns are clinically sound and avoid dismissing symptoms. The generic selection task does not justify challenge metadata."
+      ],
+      "proposedChanges": [
+        "Retain clinical content and change difficulty to application."
+      ],
+      "reviewedItemSha256": "e3117e2d1f24f30a6b64cdbfc15691b3cc0bfcc7287e9e41f9b2bfafaf630491"
+    },
+    {
+      "id": "x-psychosocial-027",
+      "status": "revise",
+      "assessment": "Function and distress assessment is appropriate, but germ-free reassurance and endorsing rituals make the comprehensive key too easy.",
+      "issues": [
+        "Function and distress assessment is appropriate, but germ-free reassurance and endorsing rituals make the comprehensive key too easy."
+      ],
+      "proposedChanges": [
+        "Use a concrete assessment task with parallel relevant questions about time spent washing, skin damage, feared consequences and family involvement; specify which missing information determines the immediate plan."
+      ],
+      "reviewedItemSha256": "6208f8b081647110a1c2b26631331cf597b6241c9922380e6c22f0f9714671db"
+    },
+    {
+      "id": "x-psychosocial-028",
+      "status": "revise",
+      "assessment": "Support during interrupted rituals is appropriate; physically preventing every ritual and participating until anxiety disappears are exaggerated alternatives.",
+      "issues": [
+        "Support during interrupted rituals is appropriate; physically preventing every ritual and participating until anxiety disappears are exaggerated alternatives."
+      ],
+      "proposedChanges": [
+        "Supply an actual agreed response-prevention step and compare specific nursing responses, including temporary reassurance, rescheduling the interruption, coached coping and ritual accommodation. Avoid all/without-a-plan qualifiers."
+      ],
+      "reviewedItemSha256": "7c1f1fd3ec366a5ec97fa29b0b8ec2edf4d1bab6284a304235422d33838d9f89"
+    },
+    {
+      "id": "x-psychosocial-029",
+      "status": "revise",
+      "assessment": "Coordinated reduction of family accommodation is defensible, but withdrawing all support, debating until concession and rituals as main therapy are implausible competitors.",
+      "issues": [
+        "Coordinated reduction of family accommodation is defensible, but withdrawing all support, debating until concession and rituals as main therapy are implausible competitors."
+      ],
+      "proposedChanges": [
+        "Compare concrete family responses such as a reassurance schedule, a repeated checklist, doing one check for the client or the agreed gradual reduction. Keep supportive contact distinct from ritual participation. Use application unless a true competing priority is added."
+      ],
+      "reviewedItemSha256": "30f4fe6192e8d33e39d7ba0bca5b302ad85ef690f14a48ac38b5a3b0b7a32d96"
+    },
+    {
+      "id": "x-psychosocial-030",
+      "status": "revise",
+      "assessment": "Reduced checking with independent community functioning is the best outcome, but it is the only option with a clear meaningful outcome.",
+      "issues": [
+        "Reduced checking with independent community functioning is the best outcome, but it is the only option with a clear meaningful outcome."
+      ],
+      "proposedChanges": [
+        "Give comparable follow-up trends: less subjective distress with unchanged ritual time; independent departure after shorter checking; leaving on time after family checking; better trigger identification with continued lateness. Tie the question to an explicit functional goal."
+      ],
+      "reviewedItemSha256": "d139a64825ce13fe6ca62ba83b0a58c353c7803260d1413ddfdba40a5fde5667"
+    },
+    {
+      "id": "x-psychosocial-031",
+      "status": "pass",
+      "assessment": "The therapist-directed and agreed plan supports coping, documenting the response and avoiding coercion; staff completing the ritual is a plausible accommodation error. Consent and planned exposure distinguish the correct actions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c421ddbd2165273bbd9fe6d35349d9fd0c99251cc3ffc13484b28065f524d53d"
+    },
+    {
+      "id": "x-psychosocial-032",
+      "status": "revise",
+      "assessment": "Skin care plus compulsive-symptom treatment is sound, but ignoring wounds, indefinite hygiene restriction and focusing solely on soap are overtly wrong.",
+      "issues": [
+        "Skin care plus compulsive-symptom treatment is sound, but ignoring wounds, indefinite hygiene restriction and focusing solely on soap are overtly wrong."
+      ],
+      "proposedChanges": [
+        "Supply wound severity and ask a bounded care decision with plausible wound protection, cleanser substitution, reassurance or treatment-team coordination. Avoid making several appropriate treatments falsely exclusive."
+      ],
+      "reviewedItemSha256": "aa9534d34c68c09e1b905974530cc53aa735b6f40e23a450c8e8da723e234b97"
+    },
+    {
+      "id": "x-psychosocial-033",
+      "status": "revise",
+      "assessment": "Collaborative safety planning is appropriate, but discarding without consent, calling belongings worthless and complete clearance as the only goal are cartoon distractors.",
+      "issues": [
+        "Collaborative safety planning is appropriate, but discarding without consent, calling belongings worthless and complete clearance as the only goal are cartoon distractors."
+      ],
+      "proposedChanges": [
+        "Use a client who accepts one change and compare clearing an exit, sorting a low-risk room, obtaining valuations or arranging whole-home clearance. Explicit blocked-exit cues should determine the first negotiated goal."
+      ],
+      "reviewedItemSha256": "898eb6e066b2110771d8087b12931974c61603dfeb31ae18ccdf74d829dd9b8b"
+    },
+    {
+      "id": "x-psychosocial-034",
+      "status": "revise",
+      "assessment": "Distinguishing unwanted intrusive thoughts from intent is essential, but any thought proves intent and a secrecy promise make the key the only reasonable response.",
+      "issues": [
+        "Distinguishing unwanted intrusive thoughts from intent is essential, but any thought proves intent and a secrecy promise make the key the only reasonable response."
+      ],
+      "proposedChanges": [
+        "Use parallel assessment questions and actual client cues about unwanted thoughts, distress and feared meaning; assess intent and ability to maintain safety without presuming either dangerousness or safety from the diagnosis. Shorten the key to match alternatives."
+      ],
+      "reviewedItemSha256": "93f37664238d77cd2e1c7a6bc30cfe1296ffb1825724cc350e66ceac63fdf6cf"
+    },
+    {
+      "id": "x-psychosocial-035",
+      "status": "revise",
+      "assessment": "A request to stop a nonurgent examination must be respected. Continuing against refusal and immediately demanding the trauma story make this a trivial selection.",
+      "issues": [
+        "A request to stop a nonurgent examination must be respected. Continuing against refusal and immediately demanding the trauma story make this a trivial selection."
+      ],
+      "proposedChanges": [
+        "State that the nurse has stopped, then compare realistic next responses: explore the requested change, explain the procedure again, offer a chaperone or reschedule. Give the client's concern so the preferred response restores their specific choice."
+      ],
+      "reviewedItemSha256": "3c3c2ddfd9295a28aee73922de3977c1f4d8e165fa585b22416bd868ab123967"
+    },
+    {
+      "id": "x-psychosocial-036",
+      "status": "revise",
+      "assessment": "The selected stop signal, predictable steps and choices are appropriate trauma-informed practices; requiring disclosure before accommodation is a recognized misconception. This is foundational principle recognition.",
+      "issues": [
+        "The selected stop signal, predictable steps and choices are appropriate trauma-informed practices; requiring disclosure before accommodation is a recognized misconception. This is foundational principle recognition."
+      ],
+      "proposedChanges": [
+        "Retain clinical content and label difficulty foundation, or add a concrete agreed care sequence to justify application."
+      ],
+      "reviewedItemSha256": "809b4778aa8125e1678221e4f4349f91442d8b344291786fec7d186873cf825e"
+    },
+    {
+      "id": "x-psychosocial-037",
+      "status": "revise",
+      "assessment": "Present-focused orientation is appropriate during a flashback, but rapid approach from behind is implausible and the remaining alternatives are overtly confrontational.",
+      "issues": [
+        "Present-focused orientation is appropriate during a flashback, but rapid approach from behind is implausible and the remaining alternatives are overtly confrontational."
+      ],
+      "proposedChanges": [
+        "Compare calm present-focused grounding with asking for a support person, discussing the trigger or offering a change of location. State whether the client can engage with a simple cue so the immediate response is distinguishable."
+      ],
+      "reviewedItemSha256": "241a88be5097d39e5f808c55d0fe7c7808ddce661800ca93e06fb8d8c48f8050"
+    },
+    {
+      "id": "x-psychosocial-038",
+      "status": "revise",
+      "assessment": "Function, safety and coping matter, but voluntary dream control and comparing others' trauma are filler and the key contains every useful domain.",
+      "issues": [
+        "Function, safety and coping matter, but voluntary dream control and comparing others' trauma are filler and the key contains every useful domain."
+      ],
+      "proposedChanges": [
+        "Use parallel focused assessment clusters and specify what is already known and what critical information is missing; explain the priority from the client's missed appointments and sleep impairment."
+      ],
+      "reviewedItemSha256": "ada77bbc17bce663cbbb2192c336a1920fa889ca7bd33061d039c560b847ac15"
+    },
+    {
+      "id": "x-psychosocial-039",
+      "status": "pass",
+      "assessment": "The client has expressly declined details; offering safety support without requiring the trauma narrative respects that boundary. The alternatives illustrate common history-taking and proxy-disclosure errors. The key is concise and source-supported.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "95557b7683e927c020f971954e15d7fdbfbdae470dd4cd6e5866d7030beb457e"
+    },
+    {
+      "id": "x-psychosocial-040",
+      "status": "revise",
+      "assessment": "Accommodating a feasible door preference is appropriate, but demanding proof or cancelling automatically are not credible alternatives.",
+      "issues": [
+        "Accommodating a feasible door preference is appropriate, but demanding proof or cancelling automatically are not credible alternatives."
+      ],
+      "proposedChanges": [
+        "Use comparable privacy-preserving adaptations and ask which best implements the client's expressed preference, with an actual confidentiality constraint. Avoid a generic comply-versus-refuse task."
+      ],
+      "reviewedItemSha256": "9015b959527de73539ce5d91d2f7677793f16e3f8ef1bd1c463a42e206a4dec7"
+    },
+    {
+      "id": "x-psychosocial-041",
+      "status": "revise",
+      "assessment": "Explaining questions, seeking permission for touch and predicting changes are sound; surprise to prevent anticipatory anxiety is a recognizable misconception. No case-specific application is required.",
+      "issues": [
+        "Explaining questions, seeking permission for touch and predicting changes are sound; surprise to prevent anticipatory anxiety is a recognizable misconception. No case-specific application is required."
+      ],
+      "proposedChanges": [
+        "Change difficulty to foundation, retaining the clinical content."
+      ],
+      "reviewedItemSha256": "562efef19399fa0408cc457de9e2ca481f1aea804bd02e6988e569915a6ae522"
+    },
+    {
+      "id": "x-psychosocial-042",
+      "status": "revise",
+      "assessment": "Pausing and grounding a client who reports unreality is sound, but deliberate-avoidance labeling and many staff questioning at once advertise the wrong choices.",
+      "issues": [
+        "Pausing and grounding a client who reports unreality is sound, but deliberate-avoidance labeling and many staff questioning at once advertise the wrong choices."
+      ],
+      "proposedChanges": [
+        "Compare pausing for a present-focused sensory cue, providing quiet rest, repeating the question or changing the interview topic. Preserve assessment for safety/medical causes in the rationale when indicated."
+      ],
+      "reviewedItemSha256": "b662762dde101d2508cd829ae6290837e06d1ed5ab0d3cf57219c4fd50a46486"
+    },
+    {
+      "id": "x-psychosocial-043",
+      "status": "revise",
+      "assessment": "Practical needs and preferred support after a collision are appropriate; forced retelling, inevitable PTSD and permanent avoidance are exaggerated alternatives.",
+      "issues": [
+        "Practical needs and preferred support after a collision are appropriate; forced retelling, inevitable PTSD and permanent avoidance are exaggerated alternatives."
+      ],
+      "proposedChanges": [
+        "Offer comparable concrete supports such as arranging transport/contact, scheduling a screening visit, discussing formal therapy referral or structured debriefing. The immediate safe, supported context should determine the first offer."
+      ],
+      "reviewedItemSha256": "e97af5d186f1680083362258d545f27baaa0f7a2ea9b25ab292218540441dc3a"
+    },
+    {
+      "id": "x-psychosocial-044",
+      "status": "revise",
+      "assessment": "Respecting a nonurgent examiner preference is correct, but proceeding against refusal and treating the request as proof of unwillingness are implausible distractors.",
+      "issues": [
+        "Respecting a nonurgent examiner preference is correct, but proceeding against refusal and treating the request as proof of unwillingness are implausible distractors."
+      ],
+      "proposedChanges": [
+        "Use plausible responses such as a chaperone offer, explaining examiner credentials, arranging the requested examiner or suggesting a later appointment; make the client's stated preference and available alternatives decisive."
+      ],
+      "reviewedItemSha256": "34fb493bb5892f7fd31821bd28542b623223a08613165b3735cbd5d8025804f7"
+    },
+    {
+      "id": "x-psychosocial-045",
+      "status": "revise",
+      "assessment": "Knowing the plan and being able to pause supports agency, but relinquishing decisions and suppressing preferences are obvious failures.",
+      "issues": [
+        "Knowing the plan and being able to pause supports agency, but relinquishing decisions and suppressing preferences are obvious failures."
+      ],
+      "proposedChanges": [
+        "Compare realistic positive client statements about knowing the sequence and stop signal, naming coping methods, agreeing to return despite anxiety or understanding the procedure. Ask specifically which demonstrates control and predictability."
+      ],
+      "reviewedItemSha256": "32ce4d2d03e0fbe0429cf64e71b2330227774cea7190ef79e9a1c434b206be65"
+    },
+    {
+      "id": "x-psychosocial-046",
+      "status": "pass",
+      "assessment": "Permission is bounded to teaching and excludes the examination; following that boundary and reassessing if preferences change are justified. Generalizing permission to every encounter is a plausible consent misconception.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f13c087ebf5bc33cb3fa9fb641752ad9b02efc4450455b9064b1cd9b7cea31fe"
+    },
+    {
+      "id": "x-psychosocial-047",
+      "status": "revise",
+      "assessment": "Loss of interest and poor concentration warrant depression assessment despite denial of sadness; excluding depression, attributing solely to aging and waiting for every test are overtly wrong.",
+      "issues": [
+        "Loss of interest and poor concentration warrant depression assessment despite denial of sadness; excluding depression, attributing solely to aging and waiting for every test are overtly wrong."
+      ],
+      "proposedChanges": [
+        "Compare specific assessment questions about pleasure, sleep, medication effects and supports; include enough existing findings to show which missing assessment addresses possible depression without dismissing medical evaluation."
+      ],
+      "reviewedItemSha256": "5d346acc08c0aa7d5a9cf3c52444b3f02c3485ac5288f5d832ee140759d357be"
+    },
+    {
+      "id": "x-psychosocial-048",
+      "status": "revise",
+      "assessment": "Graded assistance with a consented shower addresses low initiation, but comparing with more independent clients and requiring unsupported completion are implausible.",
+      "issues": [
+        "Graded assistance with a consented shower addresses low initiation, but comparing with more independent clients and requiring unsupported completion are implausible."
+      ],
+      "proposedChanges": [
+        "Use concrete care plans such as completing the bath for the client, agreeing one first step with assistance, deferring until later or substituting a less demanding wash; explain the agreed functional goal."
+      ],
+      "reviewedItemSha256": "2cdcbb006305fe6fccc8fe6f86c9ea3f58f0a33f2b1326e8b42d12c27bc56f38"
+    },
+    {
+      "id": "x-psychosocial-049",
+      "status": "revise",
+      "assessment": "Exploring worth and work identity is therapeutic, but telling the client they are wrong and that others have it worse makes the key the only respectful reply.",
+      "issues": [
+        "Exploring worth and work identity is therapeutic, but telling the client they are wrong and that others have it worse makes the key the only respectful reply."
+      ],
+      "proposedChanges": [
+        "Compare respectful actual dialogue: encouraging existing contributions, asking about work capacity, offering social-work support or reflecting the meaning of work. Ask which best explores the belief before problem-solving."
+      ],
+      "reviewedItemSha256": "027a7bc02319267adc5b10fa83c14f9ec02bbe38f8361db5f189ce9f03d9c782"
+    },
+    {
+      "id": "x-psychosocial-050",
+      "status": "revise",
+      "assessment": "A brief valued activity supports behavioural activation, but waiting for all symptoms to resolve and using only the nurse's favourite activity are exaggerated errors.",
+      "issues": [
+        "A brief valued activity supports behavioural activation, but waiting for all symptoms to resolve and using only the nurse's favourite activity are exaggerated errors."
+      ],
+      "proposedChanges": [
+        "Give the client's valued activity, energy and agreed goal; compare a five-minute meaningful action with planning/reading about it, passive distraction or a longer group session. Keep distinct from048's graded ADL assistance."
+      ],
+      "reviewedItemSha256": "6846c0cca9f1367efb25567a332bfca4df03edf4b213a24bf9c2a4aa44e944e7"
+    }
+  ],
+  "reviewerTask": "/root/author_pharm_adaptation",
+  "activeSourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/d/questions.json"
+}

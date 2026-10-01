@@ -1,0 +1,624 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:27:53.085703+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/basic-151-175.json",
+  "sourceSha256": "4a540f0b293e05354b6d8ca4f1ccb769b89654289975e4539475cf99f9e83748",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-basic-151",
+      "x-basic-152",
+      "x-basic-153",
+      "x-basic-154",
+      "x-basic-155",
+      "x-basic-156",
+      "x-basic-157",
+      "x-basic-158",
+      "x-basic-159",
+      "x-basic-160",
+      "x-basic-161",
+      "x-basic-162",
+      "x-basic-163",
+      "x-basic-164",
+      "x-basic-165",
+      "x-basic-166",
+      "x-basic-167",
+      "x-basic-168",
+      "x-basic-169",
+      "x-basic-170",
+      "x-basic-171",
+      "x-basic-172",
+      "x-basic-173",
+      "x-basic-174",
+      "x-basic-175"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://cps.ca/en/documents/position/pain-assessment-and-management",
+      "checked": true,
+      "ids": [
+        "x-basic-152"
+      ],
+      "note": "CPS primary guidance retrieved: developmentally appropriate self-report should be prioritized when feasible; behavioural tools if needed. Specific tool instructions still apply."
+    },
+    {
+      "url": "https://cps.ca/en/documents/position/managing-pain-and-distress",
+      "checked": true,
+      "ids": [
+        "x-basic-153"
+      ],
+      "note": "CPS primary statement retrieved for supportive procedural approaches; no claim that these adjuncts replace appropriate analgesia."
+    },
+    {
+      "url": "https://www.nhs.uk/pregnancy/common-symptoms/common-health-problems/",
+      "checked": true,
+      "ids": [
+        "x-basic-165"
+      ],
+      "note": "NHS primary page opened/find: turn onto the side if faint while supine in later pregnancy."
+    },
+    {
+      "url": "https://opentextbc.ca/hcalabtheoryandpractice/chapter/assisting-with-eating/",
+      "checked": true,
+      "ids": [
+        "x-basic-169",
+        "x-basic-170",
+        "x-basic-171",
+        "x-basic-174",
+        "x-basic-175"
+      ],
+      "note": "Actual chapter opened: adaptive eating assistance, independence and mealtime prayer/cultural preferences are covered. It does not establish the unrelated pediatric and pregnancy claims flagged separately."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-basic-151",
+      "status": "revise",
+      "assessment": "Safe finger foods address observed self-feeding preference, but every-meal preferred drink is an extreme alternative.",
+      "issues": [
+        "Safe finger foods address observed self-feeding preference, but every-meal preferred drink is an extreme alternative."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Offer milk before the meal to improve intake before trying food",
+            "Offer suitable finger foods with supervision",
+            "Offer the same spoon-fed meal more frequently",
+            "Ask a second adult to assist spoon-feeding"
+          ],
+          "why": [
+            "A filling drink may displace food and does not address the demonstrated interest in self-feeding.",
+            "Self-feeding uses the child's emerging independence.",
+            "Frequency does not address the observed wish for control.",
+            "Another feeder may reproduce the same barrier."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "295eae3a1b404194a15ca50052f1c9681b2cdff6d95cdf7674606e3e4b7c676d"
+    },
+    {
+      "id": "x-basic-152",
+      "status": "revise",
+      "assessment": "Faces tool fits ability, but louder-number question is implausible. Replace with repeating an unsuitable developmental approach and use CPS pain-assessment source.",
+      "issues": [
+        "Faces tool fits ability, but louder-number question is implausible. Replace with repeating an unsuitable developmental approach and use CPS pain-assessment source."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Use an age-appropriate faces tool as instructed",
+            "Practise the numerical ranking several more times before offering another scale",
+            "Use the parent's estimate instead of trying self-report",
+            "Infer severity from whether the child plays briefly"
+          ],
+          "why": [
+            "The tool matches the child's demonstrated communication ability.",
+            "The demonstrated difficulty suggests adapting the tool rather than insisting on an unsuitable abstract scale.",
+            "The child may report reliably with an appropriate tool.",
+            "Play does not exclude pain or replace assessment."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "4127f8d548bb624f5af61add12dbd9ed993dde0b418f00316b43118eba9f17d5"
+    },
+    {
+      "id": "x-basic-153",
+      "status": "revise",
+      "assessment": "Comfort position and choice of distraction are appropriate. Every technical detail is implausible; use a common anxious-child teaching error.",
+      "issues": [
+        "Comfort position and choice of distraction are appropriate. Every technical detail is implausible; use a common anxious-child teaching error."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Use an agreed safe comfort position",
+            "Promise the needle will not hurt",
+            "Give a long explanation immediately before insertion to prevent the child asking questions",
+            "Offer an age-appropriate distraction choice"
+          ],
+          "why": [
+            "Supportive positioning can improve security during the procedure.",
+            "An inaccurate promise can undermine trust.",
+            "Preparation should be developmentally appropriate and paced to coping, not overloaded just before the needle.",
+            "Chosen distraction can reduce procedural distress."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "19000351ffd20a948e89ec2d4a3b7abaadb38386219d30b25967db58b9ea1e85"
+    },
+    {
+      "id": "x-basic-154",
+      "status": "revise",
+      "assessment": "Child dignity/privacy is correct, but adults-only privacy is a cartoon distractor and c-nutrition does not support this topic.",
+      "issues": [
+        "Child dignity/privacy is correct, but adults-only privacy is a cartoon distractor and c-nutrition does not support this topic."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Explain the child's care needs in front of visitors",
+            "Ask the parent to choose without involving the child",
+            "Restore privacy and ask about participation preferences",
+            "Finish the exposed part of care before asking the visitors to leave"
+          ],
+          "why": [
+            "That may increase unwanted disclosure and embarrassment.",
+            "The child's developmental ability supports meaningful participation.",
+            "School-age children benefit from control over exposure and self-care.",
+            "Restore privacy promptly rather than prolonging the child’s discomfort."
+          ]
+        },
+        "Replace the unrelated c-nutrition feeding reference with an appropriate topic-specific primary/regulator reference; document actual source access and update refs before recheck."
+      ],
+      "reviewedItemSha256": "5ead14ad5b5184d0fad3d5387f2784cfa6e08f43b46bf9d7ce151110d95db0d8"
+    },
+    {
+      "id": "x-basic-155",
+      "status": "revise",
+      "assessment": "Familiar routine is reasonable but all familiar objects removal is overbroad; c-nutrition is unrelated to pediatric sleep.",
+      "issues": [
+        "Familiar routine is reasonable but all familiar objects removal is overbroad; c-nutrition is unrelated to pediatric sleep."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Explain the entire hospital schedule at bedtime",
+            "Incorporate the familiar routine when feasible",
+            "Move bedtime later until the child is exhausted",
+            "Use the ward’s standard bedtime activity instead of the usual story"
+          ],
+          "why": [
+            "Detailed information may stimulate rather than settle the child.",
+            "Predictable cues can support sleep in an unfamiliar setting.",
+            "Exhaustion can increase distress and does not restore routine.",
+            "A standard substitute may not provide the familiar settling cue the child is missing."
+          ]
+        },
+        "Replace the unrelated c-nutrition feeding reference with an appropriate topic-specific primary/regulator reference; document actual source access and update refs before recheck."
+      ],
+      "reviewedItemSha256": "42b93638545a906822c30d8b60f08494cbf5c5b3c93ca44837717293eb81c545"
+    },
+    {
+      "id": "x-basic-156",
+      "status": "pass",
+      "assessment": "Turning away/stopped sucking with comfortable breathing supports pausing and assessing completion rather than forcing a fixed volume or faster flow. Satiety is not asserted as certain without assessment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fb0de5057cc2b56e7b6f4dae4bc7849f8852f514cf2e98a841bc357127b6f5c6"
+    },
+    {
+      "id": "x-basic-157",
+      "status": "pass",
+      "assessment": "New faster flow followed by coughing/gulping warrants stopping the feed and reassessing coordination. It does not require finishing before review or independently prescribing thickener.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c44de997bb617db2bee53155518bc4b26f74fa5b71a3b76ed8c932b73f74c1ff"
+    },
+    {
+      "id": "x-basic-158",
+      "status": "revise",
+      "assessment": "Position-support key is sound, but feeding-assistance reference is not topic-specific breastfeeding support.",
+      "issues": [
+        "Position-support key is sound, but feeding-assistance reference is not topic-specific breastfeeding support."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Suggest shorter feeds before assessing positioning",
+            "Place support only beneath the parent's feet",
+            "Bring the supported infant toward the breast",
+            "Raise the feeding chair while leaving the infant at the same unsupported height"
+          ],
+          "why": [
+            "Reducing feeding time does not correct the posture.",
+            "Foot support may help but does not directly bring the infant closer.",
+            "Adequate support reduces prolonged forward bending.",
+            "Changing the chair alone may preserve the need to lean; support the infant near the breast."
+          ]
+        },
+        "Replace the unrelated c-nutrition feeding reference with an appropriate topic-specific primary/regulator reference; document actual source access and update refs before recheck."
+      ],
+      "reviewedItemSha256": "82742ff2fd9bb056d9fae52e52a6ae2fdae6246660492d281274e01f821b7157"
+    },
+    {
+      "id": "x-basic-159",
+      "status": "revise",
+      "assessment": "Key supports desired feeding role, but unsupported-strengthening and directly-on-painful-incision options are conspicuous errors. Add breastfeeding/postoperative support reference.",
+      "issues": [
+        "Key supports desired feeding role, but unsupported-strengthening and directly-on-painful-incision options are conspicuous errors. Add breastfeeding/postoperative support reference."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Keep the usual position and shorten each feed when the incision hurts",
+            "Assist a supported position avoiding incision pressure",
+            "Use the usual cross-body position with a pillow pressing against the incision",
+            "Arrange for staff to give every feed while the parent remains in bed"
+          ],
+          "why": [
+            "Shortening feeds does not correct the mechanical pressure and may interfere with feeding.",
+            "Position adaptation can preserve the parent's chosen feeding role.",
+            "A pillow is not helpful if it maintains pressure on the painful area; individualize support.",
+            "Temporary help may be useful, but full substitution is unnecessary if a comfortable supported position is feasible."
+          ]
+        },
+        "Replace the unrelated c-nutrition feeding reference with an appropriate topic-specific primary/regulator reference; document actual source access and update refs before recheck."
+      ],
+      "reviewedItemSha256": "74d027fed7bc3d2aed2568c8fcdf8e7170ce0b7c2769cf8124ef9a705ac6778a"
+    },
+    {
+      "id": "x-basic-160",
+      "status": "revise",
+      "assessment": "Small frequent prescribed oral rehydration is appropriate; rest-of-day withholding is exaggerated.",
+      "issues": [
+        "Small frequent prescribed oral rehydration is appropriate; rest-of-day withholding is exaggerated."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Offer the prescribed solution in small frequent amounts",
+            "Give the full planned amount rapidly again",
+            "Substitute undiluted juice without reviewing the plan",
+            "Withhold the planned solution until the next scheduled meal"
+          ],
+          "why": [
+            "Smaller volumes may be better tolerated.",
+            "Repeated large volumes reproduce the trigger.",
+            "High-sugar drinks may worsen gastrointestinal symptoms.",
+            "Prolonged interruption may worsen dehydration; use smaller tolerated amounts according to the plan."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "dd69472ee42a18aa78b6c60058d132d98752a6d1ba6fab83979a9bad036b2149"
+    },
+    {
+      "id": "x-basic-161",
+      "status": "revise",
+      "assessment": "Gentle cleaning/barrier and prompt change are appropriate, but tighten-nappy alternative is implausible; feeding reference does not support diaper dermatitis.",
+      "issues": [
+        "Gentle cleaning/barrier and prompt change are appropriate, but tighten-nappy alternative is implausible; feeding reference does not support diaper dermatitis."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Use gentle cleansing and the recommended barrier",
+            "Use perfumed wipes repeatedly until the area feels dry",
+            "Apply a thicker barrier layer and extend the interval between changes",
+            "Change soiled nappies promptly"
+          ],
+          "why": [
+            "This protects fragile skin without excessive friction.",
+            "Fragrance and repeated rubbing may worsen irritation.",
+            "Barrier products do not replace reducing contact with stool and moisture.",
+            "Reduced stool contact limits further irritation."
+          ]
+        },
+        "Replace the unrelated c-nutrition feeding reference with an appropriate topic-specific primary/regulator reference; document actual source access and update refs before recheck."
+      ],
+      "reviewedItemSha256": "8a8dd3b25ee2b0afc9799ecefd683967a6f891f3b6b48ee0b53e2eb8f42c23e5"
+    },
+    {
+      "id": "x-basic-162",
+      "status": "revise",
+      "assessment": "Supportive routines/assessment are appropriate; deliberate noncooperation is judgmental filler and feeding reference is unrelated.",
+      "issues": [
+        "Supportive routines/assessment are appropriate; deliberate noncooperation is judgmental filler and feeding reference is unrelated."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Restart a demanding training schedule immediately",
+            "Wait for the child to manage without reminders",
+            "Assess illness-related barriers and offer supportive routines",
+            "Use the pre-admission toileting schedule unchanged because the child was trained"
+          ],
+          "why": [
+            "Acute illness may reduce readiness for intensive training.",
+            "Temporary support may be needed in the unfamiliar environment.",
+            "Unfamiliar surroundings and illness can disrupt toileting skills.",
+            "Illness and an unfamiliar environment may change timing, access or readiness; assess current barriers."
+          ]
+        },
+        "Replace the unrelated c-nutrition feeding reference with an appropriate topic-specific primary/regulator reference; document actual source access and update refs before recheck."
+      ],
+      "reviewedItemSha256": "c61e888482056ccf4191139c658728da50b0ff4ac104d5f7c25345d949e50416"
+    },
+    {
+      "id": "x-basic-163",
+      "status": "revise",
+      "assessment": "Privacy plus adaptation is appropriate but delaying hygiene until cast removal is excessive; feeding reference does not support cast care or adolescent privacy.",
+      "issues": [
+        "Privacy plus adaptation is appropriate but delaying hygiene until cast removal is excessive; feeding reference does not support cast care or adolescent privacy."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Use a sponge bath chosen by staff without asking which tasks the adolescent can manage",
+            "Agree on safe adaptations and available help",
+            "Have the parent perform the whole bath",
+            "Assume complete independence because of age"
+          ],
+          "why": [
+            "A safe plan should incorporate retained ability and privacy preferences.",
+            "Planning balances privacy with temporary functional limits.",
+            "The adolescent may retain substantial independent ability.",
+            "A cast creates specific needs regardless of maturity."
+          ]
+        },
+        "Replace the unrelated c-nutrition feeding reference with an appropriate topic-specific primary/regulator reference; document actual source access and update refs before recheck."
+      ],
+      "reviewedItemSha256": "92ad78556257c55fd47cda3d84843550a77bc85d9332388813a303d7c5c5e110"
+    },
+    {
+      "id": "x-basic-164",
+      "status": "revise",
+      "assessment": "The key is generic prescribed comfort while exertion is unrelated. Name a realistic gentle measure and replace filler with a plausible but inappropriate irritant.",
+      "issues": [
+        "The key is generic prescribed comfort while exertion is unrelated. Name a realistic gentle measure and replace filler with a plausible but inappropriate irritant."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Review gentle rinsing during voiding and the prescribed comfort plan",
+            "Reducing fluids to avoid urinating",
+            "Use a strong antiseptic wash after every void",
+            "Use fragranced wipes after voiding to reduce the sensation of irritation"
+          ],
+          "why": [
+            "Gentle appropriate perineal care may reduce urine-contact irritation while continued assessment identifies new concerns.",
+            "Restriction may concentrate urine and worsen discomfort.",
+            "Unprescribed harsh products can irritate healing tissue; use the recommended gentle method.",
+            "Fragrance may irritate healing tissue rather than address urine-contact stinging."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "da36e22d44f690afdbdce4b175d89559717f04606b96d72dfe2c6d2294704e45"
+    },
+    {
+      "id": "x-basic-165",
+      "status": "revise",
+      "assessment": "Side-lying for supine lightheadedness in later pregnancy is supported by NHS primary guidance; c-nutrition is unrelated. Food-first alternative lacks clinical specificity.",
+      "issues": [
+        "Side-lying for supine lightheadedness in later pregnancy is supported by NHS primary guidance; c-nutrition is unrelated. Food-first alternative lacks clinical specificity."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Finish the care quickly before repositioning",
+            "Raise only the feet while remaining flat",
+            "Raise the head slightly while leaving the client mostly supine",
+            "Assist a side-lying position and reassess"
+          ],
+          "why": [
+            "Continuing flat may prolong symptoms.",
+            "This may not relieve the source of vessel compression.",
+            "A small head lift may not relieve uterine vessel compression; side-lying more directly addresses the positional cue.",
+            "Uterine pressure while supine can impair venous return."
+          ]
+        },
+        "Replace the unrelated c-nutrition feeding reference with an appropriate topic-specific primary/regulator reference; document actual source access and update refs before recheck."
+      ],
+      "reviewedItemSha256": "760af6875380113ceb4cbd13ede74cf60bbc863bbb2cb57607cd27c41db425e3"
+    },
+    {
+      "id": "x-basic-166",
+      "status": "revise",
+      "assessment": "Persistent lesions with feeding distress need assessment, but forceful scrubbing is cartoonish; feeding-assistance source is not infant oral-lesion guidance.",
+      "issues": [
+        "Persistent lesions with feeding distress need assessment, but forceful scrubbing is cartoonish; feeding-assistance source is not infant oral-lesion guidance."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Change to a faster nipple to complete feeding before the infant becomes fussy",
+            "Assume milk residue without checking persistence and tissue",
+            "Assess the mouth and arrange appropriate clinical review",
+            "Wipe repeatedly with gauze and continue until all white areas are removed"
+          ],
+          "why": [
+            "A flow change does not address possible painful lesions and can create feeding difficulty.",
+            "A description alone cannot reliably distinguish residue from lesions.",
+            "Painful persistent patches may affect feeding and need treatment.",
+            "Persistent adherent patches should be assessed rather than repeatedly rubbed, which may damage tissue."
+          ]
+        },
+        "Replace the unrelated c-nutrition feeding reference with an appropriate topic-specific primary/regulator reference; document actual source access and update refs before recheck."
+      ],
+      "reviewedItemSha256": "0377803e9ac18f373ff1364f7a636f7fce59f90baa6fd66ca9caa13acbd00bdf"
+    },
+    {
+      "id": "x-basic-167",
+      "status": "revise",
+      "assessment": "Predictability/reduced stimuli fits observed triggers; remove-every-choice is excessive and c-nutrition does not support sensory distress.",
+      "issues": [
+        "Predictability/reduced stimuli fits observed triggers; remove-every-choice is excessive and c-nutrition does not support sensory distress."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Complete the care with fewer explanations so the encounter ends sooner",
+            "Reduce simultaneous stimuli and use a predictable approach",
+            "Explain the procedure with several staff at once",
+            "Complete all care rapidly without warning"
+          ],
+          "why": [
+            "Reducing information without agreed predictable cues may increase uncertainty and distress.",
+            "The observed triggers suggest benefit from a calmer setting.",
+            "Multiple voices may intensify the identified overload.",
+            "Unpredictable touch may increase distress."
+          ]
+        },
+        "Replace the unrelated c-nutrition feeding reference with an appropriate topic-specific primary/regulator reference; document actual source access and update refs before recheck."
+      ],
+      "reviewedItemSha256": "349157baef0bfee1a6b3301b1fa2483003f35ceeeefe2bf374a65d4be79a0ead"
+    },
+    {
+      "id": "x-basic-168",
+      "status": "revise",
+      "assessment": "Timing and easier fastenings address morning stiffness; smaller-tight-buttons is implausible. Add pediatric mobility/arthritis topic support.",
+      "issues": [
+        "Timing and easier fastenings address morning stiffness; smaller-tight-buttons is implausible. Add pediatric mobility/arthritis topic support."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Allow extra time and use easier fastenings",
+            "Practise the usual buttons repeatedly before leaving to build speed",
+            "Have an adult dress the child for every task",
+            "Schedule all dressing practice at peak stiffness"
+          ],
+          "why": [
+            "Timing and adaptation address stiffness without removing participation.",
+            "Practice at peak stiffness may increase pain and delay preparation; adapt timing and fastenings.",
+            "The child may manage much of dressing with adaptation.",
+            "Practice should account for pain and functional tolerance."
+          ]
+        },
+        "Replace the unrelated c-nutrition feeding reference with an appropriate topic-specific primary/regulator reference; document actual source access and update refs before recheck."
+      ],
+      "reviewedItemSha256": "ad2df7ce911d198cd6d8adf197f2c28bdc44e83480d169c8a2873c0dc973509e"
+    },
+    {
+      "id": "x-basic-169",
+      "status": "pass",
+      "assessment": "A lightweight container directly fixes the observed handling barrier; larger jug, education alone and mislabelled refusal do not. Clear retained-ability feeding application.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "64d1e0b1a33fb918f34a541c79c576657cd1d0c5ed06807e3c9d0e4751577d91"
+    },
+    {
+      "id": "x-basic-170",
+      "status": "pass",
+      "assessment": "Opening packaging preserves demonstrated self-feeding while addressing painful setup tasks. Whole-meal feeding is a plausible over-assistance response; liquid substitution is unnecessarily restrictive.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8efa552bcb414aca84389b36c0dce53422de0f8b46a6f35d238167976a7d4c13"
+    },
+    {
+      "id": "x-basic-171",
+      "status": "pass",
+      "assessment": "Consistent spatial description and preferences support independent eating with blindness. Unannounced dish moves and assumed dependency impair access; feeding reference is topic-relevant.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "addceea2c0aa746a1094412d0dc9d29e7377caead9225af0adaa8b9db98ef568"
+    },
+    {
+      "id": "x-basic-172",
+      "status": "revise",
+      "assessment": "Accessible communication before assuming decline is sensible but speed option is weak. Eating page does not support hearing/communication assessment.",
+      "issues": [
+        "Accessible communication before assuming decline is sensible but speed option is weak. Eating page does not support hearing/communication assessment."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Face the client and use accessible communication",
+            "Increase voice volume from the same doorway position",
+            "Assume the client has new cognitive decline",
+            "Ask a relative to answer every preference question"
+          ],
+          "why": [
+            "Distance and lost visual cues may explain the misunderstanding.",
+            "Volume alone may not restore visual cues or speech clarity; establish accessible communication.",
+            "Communication barriers should be addressed before that inference.",
+            "The client may communicate directly with suitable support."
+          ]
+        },
+        "Replace the unrelated c-nutrition feeding reference with an appropriate topic-specific primary/regulator reference; document actual source access and update refs before recheck."
+      ],
+      "reviewedItemSha256": "e7e6cee94e3054728e755233967aaf181547910c113de54aa6f50f285a6d641c"
+    },
+    {
+      "id": "x-basic-173",
+      "status": "revise",
+      "assessment": "Assessing essential needs and sustainable support addresses capacity, but midnight-every-task is cartoonish and feeding source is unrelated.",
+      "issues": [
+        "Assessing essential needs and sustainable support addresses capacity, but midnight-every-task is cartoonish and feeding source is unrelated."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Provide a longer checklist without discussing workload",
+            "Assume the caregiver no longer wants involvement",
+            "Move the evening tasks to a longer morning routine without reviewing workload",
+            "Assess essential needs and arrange sustainable support"
+          ],
+          "why": [
+            "More instructions do not create additional capacity.",
+            "Exhaustion does not establish unwillingness.",
+            "Rescheduling may shift rather than solve overload; assess needs and practical support.",
+            "Reliable assistance protects care while addressing caregiver capacity."
+          ]
+        },
+        "Replace the unrelated c-nutrition feeding reference with an appropriate topic-specific primary/regulator reference; document actual source access and update refs before recheck."
+      ],
+      "reviewedItemSha256": "46b52b29de9f8ae71e7a89f5deea63924ed005726409df4f4b18ec9367256206"
+    },
+    {
+      "id": "x-basic-174",
+      "status": "revise",
+      "assessment": "Accommodation is appropriate and the actual c-nutrition chapter explicitly supports prayer before meals. Deferring a safely warm meal until next service is still an excessive distractor; replace with a schedule-led response.",
+      "issues": [
+        "Accommodation is appropriate and the actual c-nutrition chapter explicitly supports prayer before meals. Deferring a safely warm meal until next service is still an excessive distractor; replace with a schedule-led response."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Ask the client to postpone the prayer until after feeding so the meal round stays on schedule",
+            "Ask family to perform the ritual elsewhere",
+            "Allow the ritual before beginning",
+            "Begin feeding while the client prays"
+          ],
+          "why": [
+            "A brief safe preference can be accommodated without overriding the client’s preparation ritual.",
+            "The client asked to participate personally before eating.",
+            "The request can be accommodated without compromising intake.",
+            "This interrupts the requested preparation and attention to eating."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "32770c41c389c6ef1de3b51b3bb1a03701e0ad869a7f04dad698ecefef2e6eb2"
+    },
+    {
+      "id": "x-basic-175",
+      "status": "pass",
+      "assessment": "Actual unassisted food delivery measures the device’s functional benefit. Staff speed, explanatory knowledge and stability on an unused plate are plausible process measures but not client performance.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "afeb46e7ccb3676aba1d70069eee19dfffbb98c1fcb68150cfe92e8cbff7e67e"
+    }
+  ],
+  "referenceFinding": "The registered c-nutrition URL is a chapter about assisting with eating. It is not topic evidence for nonfeeding pediatric privacy, sleep, skin, toileting, pregnancy, oral lesions, communication or caregiver-capacity claims. These affected IDs require appropriate references before pass.",
+  "reviewerTask": "/root/review_legacy"
+}

@@ -1,0 +1,235 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewerTask": "/root/author_management_safety",
+  "reviewedAt": "2026-10-01T18:02:15.137599+00:00",
+  "sourceFile": "bank-expansion/reviews/expansion/cross-a-health-revised-snapshot.json",
+  "coverage": {
+    "reviewedItems": 23,
+    "reviewedIds": [
+      "x-health-131",
+      "x-health-132",
+      "x-health-134",
+      "x-health-135",
+      "x-health-136",
+      "x-health-137",
+      "x-health-138",
+      "x-health-139",
+      "x-health-141",
+      "x-health-142",
+      "x-health-143",
+      "x-health-144",
+      "x-health-145",
+      "x-health-146",
+      "x-health-147",
+      "x-health-148",
+      "x-health-149",
+      "x-health-150",
+      "x-health-151",
+      "x-health-152",
+      "x-health-153",
+      "x-health-154",
+      "x-health-155"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Reread complete revised items including metadata, references, key, every option and rationale against the original issue. Each row reflects actual independent reasoning, not automatic acceptance of proposed edits.",
+  "limitations": [
+    "Not external clinician or psychometric validation",
+    "Primary-source checks are targeted and documented in prior reports; additional references supplied by the author are not claimed as newly independently verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-health-131",
+      "status": "pass",
+      "assessment": "The client preference is explicitly unexplored; asking first distinguishes otherwise potentially useful referrals without stereotyping.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "def53d5e61fdf39fadc44a0f1a394dc0633c2601ba59f03491215da9aea86906"
+    },
+    {
+      "id": "x-health-132",
+      "status": "pass",
+      "assessment": "A heat-retaining apartment and inability to reach cooling make accessible transport the practical prevention priority over observation alone.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ef849300b85fdee742d37d05f94a1ff9a5df23fcb32f7cb4b3f297fee1e62602"
+    },
+    {
+      "id": "x-health-134",
+      "status": "pass",
+      "assessment": "Recurrent ringing and uncomfortable protection call for current hearing/fit review; credible alternatives each leave a specific gap.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fd2648fabf46fda06bf3f266bdd2a1611291de3f1472d5ac23af75acae7a303d"
+    },
+    {
+      "id": "x-health-135",
+      "status": "pass",
+      "assessment": "The supplied product range and no-freezing condition make the actual travel and hotel storage choices interpretable without drug-specific recall.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f5d8919158320ea0313cf1e0b79549cd13fb2813dabd3d4dcb9c826831da5325"
+    },
+    {
+      "id": "x-health-136",
+      "status": "revise",
+      "assessment": "The licence and spacing misconceptions are plausible, but asking which product sells most is still an implausible nursing recommendation.",
+      "issues": [
+        "The licence and spacing misconceptions are plausible, but asking which product sells most is still an implausible nursing recommendation."
+      ],
+      "proposedChanges": [
+        "Replace option3 with Choose a single-ingredient version of the supplement. Explain that a simpler formulation still needs review against the actual medicines and conditions."
+      ],
+      "reviewedItemSha256": "feaf341ac57dbbd49177d20f220ea242a21ea4811325ca9f17172f2fe433d6ad"
+    },
+    {
+      "id": "x-health-137",
+      "status": "pass",
+      "assessment": "Immediate rescue-device access is now a distinct preparedness objective; correct technique and a locked car isolate the practical barrier.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8e3bb309a35f4c1acd2aa008a9abbacd705c9c9ccc8d0b5ec08dd2355642bce1"
+    },
+    {
+      "id": "x-health-138",
+      "status": "pass",
+      "assessment": "A two-month lead time and insulin treatment support individualized pre-fast team review; alternatives are recognizable but insufficient partial plans.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4588379fb66eb32a8bff1faa8a2a7023ca544e1fc60be5c64ff04eb3befd40ee"
+    },
+    {
+      "id": "x-health-139",
+      "status": "pass",
+      "assessment": "Actual equipment, storage and affordability constraints distinguish the concrete microwave-compatible meal from infeasible or costly plans.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1de0d5ccfaa41cfed0a83f8cfd7074f8488c7c2855bf715156360f9d401fe3b8"
+    },
+    {
+      "id": "x-health-141",
+      "status": "pass",
+      "assessment": "The informed refusal is established; documenting and maintaining an option to revisit is the appropriate next step among plausible follow-up choices.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "81311d8825de160120c5356d65be251784d455b6a2caee74dfe7fed7f2761f9a"
+    },
+    {
+      "id": "x-health-142",
+      "status": "pass",
+      "assessment": "A named abnormal FIT and concise parallel explanations preserve appropriate diagnostic follow-through without a long-key cue.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "046295dd89c8ebf7abb16b487373ca876cfafdcbbe6e4cea99d2e7aa31540cd5"
+    },
+    {
+      "id": "x-health-143",
+      "status": "pass",
+      "assessment": "An existing surveillance plan plus a due diabetes review makes coordination of distinct responsibilities clinically useful.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ee2b7ebac2d7a5cebd7cfc88f3c0d2765ac38bc350a7e7633e6c03051bb6471e"
+    },
+    {
+      "id": "x-health-144",
+      "status": "pass",
+      "assessment": "The movement-error correction is a specific skill distinct from normal monitor use; practice directly addresses the reported concern.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3f33b9f3c11b57ef2ec5b33c99c1078132bfcb0b661d46cd6c52084907e5d4f7"
+    },
+    {
+      "id": "x-health-145",
+      "status": "pass",
+      "assessment": "Known telephone and drop-in access versus absent internet and unstable address determine feasible follow-up choices.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "78e5321948a2660a5529d855f720858e650d73c328c93e294e8af486674d7bd7"
+    },
+    {
+      "id": "x-health-146",
+      "status": "pass",
+      "assessment": "The client stated concentration window and post-therapy exhaustion determine the teaching schedule rather than a generic preference for short sessions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c3ac10d1ea108709bb4660bd48dbf10bd3b40de7413085da1cb37b307e9d983d"
+    },
+    {
+      "id": "x-health-147",
+      "status": "pass",
+      "assessment": "The client wants both autonomy and relative support; role clarification addresses interruption without imposing unwanted exclusion.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3df45c6694c619f6ae5ff7ba1a1feb2a33832a1782ea193f52d8478bd79c2c26"
+    },
+    {
+      "id": "x-health-148",
+      "status": "pass",
+      "assessment": "Changed vision requires observing actual current technique before selecting plausible print, family or refresher supports.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "98ec92a30b77697eaedfaaeb8711f06810777f984728c4325393379b6bf41f40"
+    },
+    {
+      "id": "x-health-149",
+      "status": "pass",
+      "assessment": "The accessible route, upper-body strength and ground-level reach barrier make raised-bed participation a concrete goal-aligned adaptation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "13ee7f33b9b1d9d929c9de69342329ae5bec6286d07c57a3baae04ebfb695d43"
+    },
+    {
+      "id": "x-health-150",
+      "status": "revise",
+      "assessment": "The key feasibility findings are correct, but current address printed on a handout is still irrelevant filler and the two nonkeys are administrative rather than credible readiness judgments.",
+      "issues": [
+        "The key feasibility findings are correct, but current address printed on a handout is still irrelevant filler and the two nonkeys are administrative rather than credible readiness judgments."
+      ],
+      "proposedChanges": [
+        "Frame which findings demonstrate the essential home resources are ready. Replace nonkeys with plausible incomplete arrangements, such as a supply prescription faxed to the vendor and a home-service referral awaiting acceptance. Explain that initiated paperwork does not yet establish actual supply/support access. Keep client demonstration already complete."
+      ],
+      "reviewedItemSha256": "10003a50c4d103fd758c85f40535cdcf41ddeab4b3e09fc2dbb1596706fe1676"
+    },
+    {
+      "id": "x-health-151",
+      "status": "pass",
+      "assessment": "Food ending tonight and disconnected heating create concrete immediate priorities while chronic conditions are stable.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c3e82b0fcb22cb22b4043ef79185176efe06877b545b766bf1e0bb33cc821f1a"
+    },
+    {
+      "id": "x-health-152",
+      "status": "pass",
+      "assessment": "Current ten-minute tolerance, dislike of classes and a valued family role distinguish gradual active play from other reasonable activity tools.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b0227204f9a3057fb85a7902bcffc8def8770884a57cf50ff206608eee48c535"
+    },
+    {
+      "id": "x-health-153",
+      "status": "pass",
+      "assessment": "A shared phone and specific lock-screen concern require agreed content and route before routine reminder enrollment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "410e2ec5277e63249d0aef60c1d1bd40c1a9b877a02dbc1adf3a649908f723b8"
+    },
+    {
+      "id": "x-health-154",
+      "status": "pass",
+      "assessment": "The functional goal is explicit and achieved, so outcome evaluation should acknowledge improved walking rather than substitute weight or dietary metrics.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f1bd6ecaff8606dc4e2045aaebf5327879c20216fccb09aaa641ccfe4798f11e"
+    },
+    {
+      "id": "x-health-155",
+      "status": "pass",
+      "assessment": "An accessible indoor route addresses current ice, while daily cues and review sustain the habit; one compensatory long session is a plausible but less suitable plan.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "48b4cce29e4e03c61c16813962d24babe1a80548eefb748c258ddc5fa69dc5f6"
+    }
+  ]
+}

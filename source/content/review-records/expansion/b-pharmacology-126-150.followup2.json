@@ -1,0 +1,94 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T18:14:37.361609+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/b-pharmacology-06-recheck2.json",
+  "sourceSha256": "6640ae1c693e4637e5786caf984afca73e5c6f31dfbd9f75e2a5516a1acb7574",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 5,
+    "reviewedIds": [
+      "x-pharmacology-132",
+      "x-pharmacology-136",
+      "x-pharmacology-138",
+      "x-pharmacology-140",
+      "x-pharmacology-141"
+    ],
+    "unreviewedIds": [
+      "x-pharmacology-126",
+      "x-pharmacology-127",
+      "x-pharmacology-128",
+      "x-pharmacology-129",
+      "x-pharmacology-130",
+      "x-pharmacology-131",
+      "x-pharmacology-133",
+      "x-pharmacology-134",
+      "x-pharmacology-135",
+      "x-pharmacology-137",
+      "x-pharmacology-139",
+      "x-pharmacology-142",
+      "x-pharmacology-143",
+      "x-pharmacology-144",
+      "x-pharmacology-145",
+      "x-pharmacology-146",
+      "x-pharmacology-147",
+      "x-pharmacology-148",
+      "x-pharmacology-149",
+      "x-pharmacology-150"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-pharmacology-132",
+      "status": "pass",
+      "assessment": "Broader medication-safety question now requires recognizing the serious behavioural/sleep warning among mild transient clinical symptoms; immediate self-harm safety remains explicit.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c714ef5ea952215d5128e4fc4c7aaf94fa93c23dbc6fc758536ba39e852becdd"
+    },
+    {
+      "id": "x-pharmacology-136",
+      "status": "pass",
+      "assessment": "Plain thickened-preparation alternative no longer advertises its omission; the required volume and swallowing restriction still need a suitable formulation review.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "04f58528555f83b1bb5823e0802fcfa44f3bb0f72721cd1b640043f1e38c3210"
+    },
+    {
+      "id": "x-pharmacology-138",
+      "status": "pass",
+      "assessment": "Measured cup-and-rinse is now a credible competitor; for the stated child the straw further limits tooth contact while accurate completed volume preserves the dose.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6a7f9f06fbeaafa74edf7159a7b8fafde21b5287da1f39e5c5ce3df07e3d9204"
+    },
+    {
+      "id": "x-pharmacology-140",
+      "status": "pass",
+      "assessment": "Removing the neurological label from the stem restores the need to connect numbness/gait changes with B12 assessment before folate replacement.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f52aa98217ef5d6780d1c95665dc9a902712f650f62435d3f7365548a71a684b"
+    },
+    {
+      "id": "x-pharmacology-141",
+      "status": "pass",
+      "assessment": "Additional cuff confirmation is a relevant alternative but does not supersede two readings over the supplied hold threshold with new headache.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0b64e83fc813e546f1453d615f320de7f869a94ff52cfa3e97e68daf9ef9f24b"
+    }
+  ],
+  "activeSourceFile": "authoring/b/pharmacology-06.json",
+  "presentationNote": "Root confirmed quiz hides title and learningObjective until answering; reviewer did not inspect or alter Site.",
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

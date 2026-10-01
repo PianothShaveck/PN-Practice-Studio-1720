@@ -1,0 +1,1020 @@
+{
+  "reviewedFile": "/workspace/scratch/d175be9aaf88/rexpn-studio/dist/calculations.js",
+  "sha256": "85f7c7d591f71a43ffa0d3c3d55ba6623a27578cda3d44e010b481c1a753edb8",
+  "combinations": 81,
+  "failures": [],
+  "ranges": [
+    {
+      "template": 0,
+      "n": 4,
+      "min": 8.4,
+      "max": 14.1
+    },
+    {
+      "template": 1,
+      "n": 8,
+      "min": 5.4,
+      "max": 10.8
+    },
+    {
+      "template": 2,
+      "n": 27,
+      "min": 43,
+      "max": 231
+    },
+    {
+      "template": 3,
+      "n": 18,
+      "min": 13,
+      "max": 56
+    },
+    {
+      "template": 4,
+      "n": 24,
+      "min": 460,
+      "max": 1040
+    }
+  ],
+  "cases": [
+    {
+      "template": 0,
+      "parameters": [
+        18
+      ],
+      "exactFraction": "1350/160",
+      "expected": 8.4,
+      "actual": 8.4,
+      "pass": true
+    },
+    {
+      "template": 0,
+      "parameters": [
+        22
+      ],
+      "exactFraction": "1650/160",
+      "expected": 10.3,
+      "actual": 10.3,
+      "pass": true
+    },
+    {
+      "template": 0,
+      "parameters": [
+        26
+      ],
+      "exactFraction": "1950/160",
+      "expected": 12.2,
+      "actual": 12.2,
+      "pass": true
+    },
+    {
+      "template": 0,
+      "parameters": [
+        30
+      ],
+      "exactFraction": "2250/160",
+      "expected": 14.1,
+      "actual": 14.1,
+      "pass": true
+    },
+    {
+      "template": 1,
+      "parameters": [
+        18,
+        45
+      ],
+      "exactFraction": "4050/750",
+      "expected": 5.4,
+      "actual": 5.4,
+      "pass": true
+    },
+    {
+      "template": 1,
+      "parameters": [
+        18,
+        60
+      ],
+      "exactFraction": "5400/750",
+      "expected": 7.2,
+      "actual": 7.2,
+      "pass": true
+    },
+    {
+      "template": 1,
+      "parameters": [
+        21,
+        45
+      ],
+      "exactFraction": "4725/750",
+      "expected": 6.3,
+      "actual": 6.3,
+      "pass": true
+    },
+    {
+      "template": 1,
+      "parameters": [
+        21,
+        60
+      ],
+      "exactFraction": "6300/750",
+      "expected": 8.4,
+      "actual": 8.4,
+      "pass": true
+    },
+    {
+      "template": 1,
+      "parameters": [
+        24,
+        45
+      ],
+      "exactFraction": "5400/750",
+      "expected": 7.2,
+      "actual": 7.2,
+      "pass": true
+    },
+    {
+      "template": 1,
+      "parameters": [
+        24,
+        60
+      ],
+      "exactFraction": "7200/750",
+      "expected": 9.6,
+      "actual": 9.6,
+      "pass": true
+    },
+    {
+      "template": 1,
+      "parameters": [
+        27,
+        45
+      ],
+      "exactFraction": "6075/750",
+      "expected": 8.1,
+      "actual": 8.1,
+      "pass": true
+    },
+    {
+      "template": 1,
+      "parameters": [
+        27,
+        60
+      ],
+      "exactFraction": "8100/750",
+      "expected": 10.8,
+      "actual": 10.8,
+      "pass": true
+    },
+    {
+      "template": 2,
+      "parameters": [
+        250,
+        3,
+        15
+      ],
+      "exactFraction": "15000/195",
+      "expected": 77,
+      "actual": 77,
+      "pass": true
+    },
+    {
+      "template": 2,
+      "parameters": [
+        250,
+        3,
+        30
+      ],
+      "exactFraction": "15000/210",
+      "expected": 71,
+      "actual": 71,
+      "pass": true
+    },
+    {
+      "template": 2,
+      "parameters": [
+        250,
+        3,
+        45
+      ],
+      "exactFraction": "15000/225",
+      "expected": 67,
+      "actual": 67,
+      "pass": true
+    },
+    {
+      "template": 2,
+      "parameters": [
+        250,
+        4,
+        15
+      ],
+      "exactFraction": "15000/255",
+      "expected": 59,
+      "actual": 59,
+      "pass": true
+    },
+    {
+      "template": 2,
+      "parameters": [
+        250,
+        4,
+        30
+      ],
+      "exactFraction": "15000/270",
+      "expected": 56,
+      "actual": 56,
+      "pass": true
+    },
+    {
+      "template": 2,
+      "parameters": [
+        250,
+        4,
+        45
+      ],
+      "exactFraction": "15000/285",
+      "expected": 53,
+      "actual": 53,
+      "pass": true
+    },
+    {
+      "template": 2,
+      "parameters": [
+        250,
+        5,
+        15
+      ],
+      "exactFraction": "15000/315",
+      "expected": 48,
+      "actual": 48,
+      "pass": true
+    },
+    {
+      "template": 2,
+      "parameters": [
+        250,
+        5,
+        30
+      ],
+      "exactFraction": "15000/330",
+      "expected": 45,
+      "actual": 45,
+      "pass": true
+    },
+    {
+      "template": 2,
+      "parameters": [
+        250,
+        5,
+        45
+      ],
+      "exactFraction": "15000/345",
+      "expected": 43,
+      "actual": 43,
+      "pass": true
+    },
+    {
+      "template": 2,
+      "parameters": [
+        500,
+        3,
+        15
+      ],
+      "exactFraction": "30000/195",
+      "expected": 154,
+      "actual": 154,
+      "pass": true
+    },
+    {
+      "template": 2,
+      "parameters": [
+        500,
+        3,
+        30
+      ],
+      "exactFraction": "30000/210",
+      "expected": 143,
+      "actual": 143,
+      "pass": true
+    },
+    {
+      "template": 2,
+      "parameters": [
+        500,
+        3,
+        45
+      ],
+      "exactFraction": "30000/225",
+      "expected": 133,
+      "actual": 133,
+      "pass": true
+    },
+    {
+      "template": 2,
+      "parameters": [
+        500,
+        4,
+        15
+      ],
+      "exactFraction": "30000/255",
+      "expected": 118,
+      "actual": 118,
+      "pass": true
+    },
+    {
+      "template": 2,
+      "parameters": [
+        500,
+        4,
+        30
+      ],
+      "exactFraction": "30000/270",
+      "expected": 111,
+      "actual": 111,
+      "pass": true
+    },
+    {
+      "template": 2,
+      "parameters": [
+        500,
+        4,
+        45
+      ],
+      "exactFraction": "30000/285",
+      "expected": 105,
+      "actual": 105,
+      "pass": true
+    },
+    {
+      "template": 2,
+      "parameters": [
+        500,
+        5,
+        15
+      ],
+      "exactFraction": "30000/315",
+      "expected": 95,
+      "actual": 95,
+      "pass": true
+    },
+    {
+      "template": 2,
+      "parameters": [
+        500,
+        5,
+        30
+      ],
+      "exactFraction": "30000/330",
+      "expected": 91,
+      "actual": 91,
+      "pass": true
+    },
+    {
+      "template": 2,
+      "parameters": [
+        500,
+        5,
+        45
+      ],
+      "exactFraction": "30000/345",
+      "expected": 87,
+      "actual": 87,
+      "pass": true
+    },
+    {
+      "template": 2,
+      "parameters": [
+        750,
+        3,
+        15
+      ],
+      "exactFraction": "45000/195",
+      "expected": 231,
+      "actual": 231,
+      "pass": true
+    },
+    {
+      "template": 2,
+      "parameters": [
+        750,
+        3,
+        30
+      ],
+      "exactFraction": "45000/210",
+      "expected": 214,
+      "actual": 214,
+      "pass": true
+    },
+    {
+      "template": 2,
+      "parameters": [
+        750,
+        3,
+        45
+      ],
+      "exactFraction": "45000/225",
+      "expected": 200,
+      "actual": 200,
+      "pass": true
+    },
+    {
+      "template": 2,
+      "parameters": [
+        750,
+        4,
+        15
+      ],
+      "exactFraction": "45000/255",
+      "expected": 176,
+      "actual": 176,
+      "pass": true
+    },
+    {
+      "template": 2,
+      "parameters": [
+        750,
+        4,
+        30
+      ],
+      "exactFraction": "45000/270",
+      "expected": 167,
+      "actual": 167,
+      "pass": true
+    },
+    {
+      "template": 2,
+      "parameters": [
+        750,
+        4,
+        45
+      ],
+      "exactFraction": "45000/285",
+      "expected": 158,
+      "actual": 158,
+      "pass": true
+    },
+    {
+      "template": 2,
+      "parameters": [
+        750,
+        5,
+        15
+      ],
+      "exactFraction": "45000/315",
+      "expected": 143,
+      "actual": 143,
+      "pass": true
+    },
+    {
+      "template": 2,
+      "parameters": [
+        750,
+        5,
+        30
+      ],
+      "exactFraction": "45000/330",
+      "expected": 136,
+      "actual": 136,
+      "pass": true
+    },
+    {
+      "template": 2,
+      "parameters": [
+        750,
+        5,
+        45
+      ],
+      "exactFraction": "45000/345",
+      "expected": 130,
+      "actual": 130,
+      "pass": true
+    },
+    {
+      "template": 3,
+      "parameters": [
+        500,
+        6,
+        15
+      ],
+      "exactFraction": "7500/360",
+      "expected": 21,
+      "actual": 21,
+      "pass": true
+    },
+    {
+      "template": 3,
+      "parameters": [
+        500,
+        6,
+        20
+      ],
+      "exactFraction": "10000/360",
+      "expected": 28,
+      "actual": 28,
+      "pass": true
+    },
+    {
+      "template": 3,
+      "parameters": [
+        500,
+        8,
+        15
+      ],
+      "exactFraction": "7500/480",
+      "expected": 16,
+      "actual": 16,
+      "pass": true
+    },
+    {
+      "template": 3,
+      "parameters": [
+        500,
+        8,
+        20
+      ],
+      "exactFraction": "10000/480",
+      "expected": 21,
+      "actual": 21,
+      "pass": true
+    },
+    {
+      "template": 3,
+      "parameters": [
+        500,
+        10,
+        15
+      ],
+      "exactFraction": "7500/600",
+      "expected": 13,
+      "actual": 13,
+      "pass": true
+    },
+    {
+      "template": 3,
+      "parameters": [
+        500,
+        10,
+        20
+      ],
+      "exactFraction": "10000/600",
+      "expected": 17,
+      "actual": 17,
+      "pass": true
+    },
+    {
+      "template": 3,
+      "parameters": [
+        750,
+        6,
+        15
+      ],
+      "exactFraction": "11250/360",
+      "expected": 31,
+      "actual": 31,
+      "pass": true
+    },
+    {
+      "template": 3,
+      "parameters": [
+        750,
+        6,
+        20
+      ],
+      "exactFraction": "15000/360",
+      "expected": 42,
+      "actual": 42,
+      "pass": true
+    },
+    {
+      "template": 3,
+      "parameters": [
+        750,
+        8,
+        15
+      ],
+      "exactFraction": "11250/480",
+      "expected": 23,
+      "actual": 23,
+      "pass": true
+    },
+    {
+      "template": 3,
+      "parameters": [
+        750,
+        8,
+        20
+      ],
+      "exactFraction": "15000/480",
+      "expected": 31,
+      "actual": 31,
+      "pass": true
+    },
+    {
+      "template": 3,
+      "parameters": [
+        750,
+        10,
+        15
+      ],
+      "exactFraction": "11250/600",
+      "expected": 19,
+      "actual": 19,
+      "pass": true
+    },
+    {
+      "template": 3,
+      "parameters": [
+        750,
+        10,
+        20
+      ],
+      "exactFraction": "15000/600",
+      "expected": 25,
+      "actual": 25,
+      "pass": true
+    },
+    {
+      "template": 3,
+      "parameters": [
+        1000,
+        6,
+        15
+      ],
+      "exactFraction": "15000/360",
+      "expected": 42,
+      "actual": 42,
+      "pass": true
+    },
+    {
+      "template": 3,
+      "parameters": [
+        1000,
+        6,
+        20
+      ],
+      "exactFraction": "20000/360",
+      "expected": 56,
+      "actual": 56,
+      "pass": true
+    },
+    {
+      "template": 3,
+      "parameters": [
+        1000,
+        8,
+        15
+      ],
+      "exactFraction": "15000/480",
+      "expected": 31,
+      "actual": 31,
+      "pass": true
+    },
+    {
+      "template": 3,
+      "parameters": [
+        1000,
+        8,
+        20
+      ],
+      "exactFraction": "20000/480",
+      "expected": 42,
+      "actual": 42,
+      "pass": true
+    },
+    {
+      "template": 3,
+      "parameters": [
+        1000,
+        10,
+        15
+      ],
+      "exactFraction": "15000/600",
+      "expected": 25,
+      "actual": 25,
+      "pass": true
+    },
+    {
+      "template": 3,
+      "parameters": [
+        1000,
+        10,
+        20
+      ],
+      "exactFraction": "20000/600",
+      "expected": 33,
+      "actual": 33,
+      "pass": true
+    },
+    {
+      "template": 4,
+      "parameters": [
+        1500,
+        450,
+        250,
+        60
+      ],
+      "exactFraction": "740/1",
+      "expected": 740,
+      "actual": 740,
+      "pass": true
+    },
+    {
+      "template": 4,
+      "parameters": [
+        1500,
+        450,
+        250,
+        90
+      ],
+      "exactFraction": "710/1",
+      "expected": 710,
+      "actual": 710,
+      "pass": true
+    },
+    {
+      "template": 4,
+      "parameters": [
+        1500,
+        450,
+        300,
+        60
+      ],
+      "exactFraction": "690/1",
+      "expected": 690,
+      "actual": 690,
+      "pass": true
+    },
+    {
+      "template": 4,
+      "parameters": [
+        1500,
+        450,
+        300,
+        90
+      ],
+      "exactFraction": "660/1",
+      "expected": 660,
+      "actual": 660,
+      "pass": true
+    },
+    {
+      "template": 4,
+      "parameters": [
+        1500,
+        525,
+        250,
+        60
+      ],
+      "exactFraction": "665/1",
+      "expected": 665,
+      "actual": 665,
+      "pass": true
+    },
+    {
+      "template": 4,
+      "parameters": [
+        1500,
+        525,
+        250,
+        90
+      ],
+      "exactFraction": "635/1",
+      "expected": 635,
+      "actual": 635,
+      "pass": true
+    },
+    {
+      "template": 4,
+      "parameters": [
+        1500,
+        525,
+        300,
+        60
+      ],
+      "exactFraction": "615/1",
+      "expected": 615,
+      "actual": 615,
+      "pass": true
+    },
+    {
+      "template": 4,
+      "parameters": [
+        1500,
+        525,
+        300,
+        90
+      ],
+      "exactFraction": "585/1",
+      "expected": 585,
+      "actual": 585,
+      "pass": true
+    },
+    {
+      "template": 4,
+      "parameters": [
+        1500,
+        650,
+        250,
+        60
+      ],
+      "exactFraction": "540/1",
+      "expected": 540,
+      "actual": 540,
+      "pass": true
+    },
+    {
+      "template": 4,
+      "parameters": [
+        1500,
+        650,
+        250,
+        90
+      ],
+      "exactFraction": "510/1",
+      "expected": 510,
+      "actual": 510,
+      "pass": true
+    },
+    {
+      "template": 4,
+      "parameters": [
+        1500,
+        650,
+        300,
+        60
+      ],
+      "exactFraction": "490/1",
+      "expected": 490,
+      "actual": 490,
+      "pass": true
+    },
+    {
+      "template": 4,
+      "parameters": [
+        1500,
+        650,
+        300,
+        90
+      ],
+      "exactFraction": "460/1",
+      "expected": 460,
+      "actual": 460,
+      "pass": true
+    },
+    {
+      "template": 4,
+      "parameters": [
+        1800,
+        450,
+        250,
+        60
+      ],
+      "exactFraction": "1040/1",
+      "expected": 1040,
+      "actual": 1040,
+      "pass": true
+    },
+    {
+      "template": 4,
+      "parameters": [
+        1800,
+        450,
+        250,
+        90
+      ],
+      "exactFraction": "1010/1",
+      "expected": 1010,
+      "actual": 1010,
+      "pass": true
+    },
+    {
+      "template": 4,
+      "parameters": [
+        1800,
+        450,
+        300,
+        60
+      ],
+      "exactFraction": "990/1",
+      "expected": 990,
+      "actual": 990,
+      "pass": true
+    },
+    {
+      "template": 4,
+      "parameters": [
+        1800,
+        450,
+        300,
+        90
+      ],
+      "exactFraction": "960/1",
+      "expected": 960,
+      "actual": 960,
+      "pass": true
+    },
+    {
+      "template": 4,
+      "parameters": [
+        1800,
+        525,
+        250,
+        60
+      ],
+      "exactFraction": "965/1",
+      "expected": 965,
+      "actual": 965,
+      "pass": true
+    },
+    {
+      "template": 4,
+      "parameters": [
+        1800,
+        525,
+        250,
+        90
+      ],
+      "exactFraction": "935/1",
+      "expected": 935,
+      "actual": 935,
+      "pass": true
+    },
+    {
+      "template": 4,
+      "parameters": [
+        1800,
+        525,
+        300,
+        60
+      ],
+      "exactFraction": "915/1",
+      "expected": 915,
+      "actual": 915,
+      "pass": true
+    },
+    {
+      "template": 4,
+      "parameters": [
+        1800,
+        525,
+        300,
+        90
+      ],
+      "exactFraction": "885/1",
+      "expected": 885,
+      "actual": 885,
+      "pass": true
+    },
+    {
+      "template": 4,
+      "parameters": [
+        1800,
+        650,
+        250,
+        60
+      ],
+      "exactFraction": "840/1",
+      "expected": 840,
+      "actual": 840,
+      "pass": true
+    },
+    {
+      "template": 4,
+      "parameters": [
+        1800,
+        650,
+        250,
+        90
+      ],
+      "exactFraction": "810/1",
+      "expected": 810,
+      "actual": 810,
+      "pass": true
+    },
+    {
+      "template": 4,
+      "parameters": [
+        1800,
+        650,
+        300,
+        60
+      ],
+      "exactFraction": "790/1",
+      "expected": 790,
+      "actual": 790,
+      "pass": true
+    },
+    {
+      "template": 4,
+      "parameters": [
+        1800,
+        650,
+        300,
+        90
+      ],
+      "exactFraction": "760/1",
+      "expected": 760,
+      "actual": 760,
+      "pass": true
+    }
+  ]
+}

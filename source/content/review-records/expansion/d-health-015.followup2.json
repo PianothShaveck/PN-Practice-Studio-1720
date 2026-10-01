@@ -1,0 +1,65 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:23:21.776314+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/d-health-001-recheck.json",
+  "sourceSha256": "77350d3b9ae60f11add5da7b4b96395f5d6de8163f9782d621c14e10b2536094",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 1,
+    "reviewedIds": [
+      "x-health-015"
+    ],
+    "unreviewedIds": [
+      "x-health-001",
+      "x-health-002",
+      "x-health-003",
+      "x-health-004",
+      "x-health-005",
+      "x-health-006",
+      "x-health-007",
+      "x-health-008",
+      "x-health-009",
+      "x-health-010",
+      "x-health-011",
+      "x-health-012",
+      "x-health-013",
+      "x-health-014",
+      "x-health-016",
+      "x-health-017",
+      "x-health-018",
+      "x-health-019",
+      "x-health-020",
+      "x-health-021",
+      "x-health-022",
+      "x-health-023",
+      "x-health-024",
+      "x-health-025"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-health-015",
+      "status": "revise",
+      "assessment": "The replacement is clinically distinguishable but explicitly advertises its flaw through without-checking.",
+      "issues": [
+        "The replacement is clinically distinguishable but explicitly advertises its flaw through without-checking."
+      ],
+      "proposedChanges": [
+        "Use Offer video visits for all remaining appointments. Explain the need for in-person assessments in the rationale. This is a plausible overgeneralization of remote access, not a wording giveaway."
+      ],
+      "reviewedItemSha256": "9f07cde7262272dcb2c49247164fdffb43d3919471bdb109b76d025eeb053505"
+    }
+  ],
+  "activeSourceFile": "authoring/d/health-001.json",
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

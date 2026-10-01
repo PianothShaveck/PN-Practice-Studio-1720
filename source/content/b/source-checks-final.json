@@ -1,0 +1,96 @@
+{
+  "checkedDate": "2026-10-01",
+  "method": "Targeted source retrieval and author review; independent item approval is recorded separately.",
+  "records": [
+    {
+      "ids": [
+        "x-pharmacology-014"
+      ],
+      "sourceId": "b-cns",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK594993/",
+      "retrieval": "b-final-research9",
+      "checked": "Retrieved OpenRN CNS chapter supports additive CNS depression with lorazepam and narcotic analgesics. Replaced unrelated excretion reference.",
+      "limits": "Targeted drug-interaction premise, not exhaustive validation of the chapter or item."
+    },
+    {
+      "ids": [
+        "x-pharmacology-182"
+      ],
+      "sourceId": "b-uterotonics",
+      "url": "https://www.medicines.org.uk/emc/product/6265/smpc",
+      "retrieval": "b-uterotonics-label",
+      "checked": "Manufacturer SmPC retrieved successfully, section4.3 supports severe-hypertension contraindication.",
+      "limits": "Previously indexed SOGC URL later returned404; retired as failed direct verification. No claim that old SOGC URL was independently verified."
+    },
+    {
+      "ids": [
+        "x-pharmacology-183"
+      ],
+      "sourceId": "b-uterotonics-asthma",
+      "url": "https://www.nice.org.uk/guidance/ng121/chapter/Recommendations",
+      "retrieval": "b-final-research8 and b-uterotonics-replacement",
+      "checked": "Search retrieved primary recommendation1.4.2 against carboprost in asthma.",
+      "limits": "Direct open returned403. Search passage was available; separate reviewer subsequently verified premise."
+    },
+    {
+      "ids": [
+        "x-pharmacology-138"
+      ],
+      "sourceId": "b-liquid-iron",
+      "url": "https://medlineplus.gov/ency/article/007478.htm",
+      "retrieval": "b-final-research8",
+      "checked": "Search passage supports liquid-iron staining reduction with mixing/straw technique.",
+      "limits": "Scenario supplies pharmacy confirmation and child able to use straw; not a universal pediatric administration direction."
+    },
+    {
+      "ids": [
+        "x-pharmacology-015"
+      ],
+      "sourceId": "b-vancomycin-monitoring",
+      "url": "https://med.stanford.edu/content/dam/sm/bugsanddrugs/documents/antimicrobial-dosing-protocols/SHC-Vancomycin-Dosing-Guide.pdf",
+      "retrieval": "turn253view2",
+      "checked": "Primary institutional PDF sectionsD/E support concentration review with renal trajectory and potential holding/dose revision.",
+      "limits": "Numeric hold criterion is an explicitly supplied patient-specific order. No claim of universal Canadian threshold or dosing policy."
+    },
+    {
+      "ids": [
+        "x-adaptation-047"
+      ],
+      "sourceId": "b-dvt-recovery",
+      "url": "https://www.nhs.uk/conditions/deep-vein-thrombosis-dvt/",
+      "retrieval": "turn254search1",
+      "checked": "Primary NHS recovery passage supports regular walking as able and elevation while resting.",
+      "limits": "Scenario specifies established treatment, stability and individualized authorization. Earlier ThrombosisCanada/UBC opens were blocked by JavaScript and not treated as full document checks."
+    },
+    {
+      "ids": [
+        "x-adaptation-073"
+      ],
+      "sourceId": "b-transient-vision-loss",
+      "url": "https://www.nanosweb.org/transientvisualloss/",
+      "retrieval": "turn272search0",
+      "checked": "Specialist society guidance supports prompt assessment despite recovery of vision and emergency evaluation when ischemia is suspected.",
+      "limits": "Source supports transient visual-loss premise specifically; replaced prior retinal-detachment-only reference."
+    },
+    {
+      "ids": [
+        "x-adaptation-076"
+      ],
+      "sourceId": "b-hyperkalaemia-calcium",
+      "url": "https://www.ukkidney.org/sites/default/files/FINAL%20VERSION%20-%20UKKA%20CLINICAL%20PRACTICE%20GUIDELINE%20-%20MANAGEMENT%20OF%20HYPERKALAEMIA%20IN%20ADULTS%20-%20191223_0.pdf",
+      "retrieval": "turn273view0 and turn274view0",
+      "checked": "Primary2023 guideline page73 lines3018–3022 explicitly confirms temporary ECG effect of IV calcium without serum-potassium lowering.",
+      "limits": "No independent nursing dose selection or universal Canadian administration instruction is inferred."
+    },
+    {
+      "ids": [
+        "x-pharmacology-188"
+      ],
+      "sourceId": "b-filgrastim-course",
+      "url": "https://www.amgen.ca/en-ca/about/-/media/themes/corporateaffairs/redesign/amgen-ca/amgen-ca/pdf/products/en/neupogen_pm.pdf",
+      "retrieval": "turn291view0 and turn293view0",
+      "checked": "Canadian manufacturer monograph July2026, section4.2.1, supports transient early ANC rise and avoiding premature discontinuation before nadir recovery.",
+      "limits": "The day2–8 course and day6 review are individualized scenario facts, not a universal regimen."
+    }
+  ]
+}

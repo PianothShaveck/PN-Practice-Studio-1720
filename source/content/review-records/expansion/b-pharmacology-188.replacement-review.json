@@ -1,0 +1,61 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T18:39:29.792677+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/b-pharmacology-188-replacement.json",
+  "sourceSha256": "ce4f94bfcce027a39593518b5de5a52413e251b1a97af7a7ac1986beb1ac0049",
+  "coverage": {
+    "sourceItems": 1,
+    "reviewedItems": 1,
+    "reviewedIds": [
+      "x-pharmacology-188"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.amgen.ca/en-ca/about/-/media/themes/corporateaffairs/redesign/amgen-ca/amgen-ca/pdf/products/en/neupogen_pm.pdf",
+      "claims": "Independently opened Canadian manufacturer monograph authorized2026-07-03. Section4.2.1 supports transient early ANC increases and the need to interpret recovery after the anticipated nadir; sections4.2 and7 discuss monitoring and regimen-dependent duration. These passages support the interpretation in188, not a universal fixed course length or province-specific PN scope.",
+      "retrievalRefs": [
+        "turn292view1",
+        "turn294view0"
+      ],
+      "sections": [
+        "4.2",
+        "4.2.1",
+        "7"
+      ]
+    },
+    {
+      "url": "https://www.bccancer.bc.ca/drug-database-site/Drug%20Index/Filgrastim_monograph.pdf",
+      "claims": "Independently opened BC Cancer monograph. Dosage guidelines defer to the treatment protocol and frame ANC recovery in relation to the expected nadir. Corroborates individualized monitoring, without endorsing one fixed schedule for all regimens.",
+      "retrievalRefs": [
+        "turn292view0"
+      ],
+      "sections": [
+        "Dosage Guidelines"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "x-pharmacology-188",
+      "status": "pass",
+      "assessment": "The new item tests interpretation of an early normal neutrophil count during prescribed filgrastim, not the emergency fever response in risk172. The supplied cycle timing, anticipated nadir and planned review distinguish an early treatment response from post-nadir marrow recovery. Continue the current prescribed course with scheduled monitoring is defensible; stopping after normalization, alternate-day dosing and waiting for low counts represent distinct plausible learner misconceptions. Options are parallel and similar in length, and the key does not depend on an omission qualifier. Explanations are case-specific, metadata matches evaluation, and the individualized plan does not create a universal day2–8 dosing rule or authorize independent PN prescribing.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ba60074729d10de9b34b39f8c51b6bac66426fa66b2d4a19e75614a4adc4bf5b"
+    }
+  ],
+  "activeSourceFile": "authoring/b/questions.json",
+  "reviewerTask": "/root/review_expansion",
+  "replacementOf": "Prior188 fever-after-chemotherapy item duplicated the central decision in risk172 and is superseded. Prior pass hashes do not apply to this new question.",
+  "coverageNote": "The complete replacement, all options, explanations, metadata and reference were read after author freeze. Risk172 was separately reread to compare the decision. A keyword check across authoring files found no other filgrastim/growth-factor/nadir item; this narrow check is not exhaustive semantic duplication validation. Prior126–200 ledger comparison found only188 changed."
+}

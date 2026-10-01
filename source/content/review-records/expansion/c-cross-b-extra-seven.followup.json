@@ -1,0 +1,83 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewerTask": "/root/author_risk_basic",
+  "reviewedAt": "2026-10-01T18:12:12.380789+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/b-extra/questions.json",
+  "coverage": {
+    "reviewedItems": 7,
+    "reviewedIds": [
+      "x-adaptation-108",
+      "x-adaptation-141",
+      "x-adaptation-148",
+      "x-adaptation-149",
+      "x-adaptation-164",
+      "x-adaptation-167",
+      "x-adaptation-175"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Actually reread all fields of these seven applied revisions against the specific previous findings; reasoned each changed case before issuing new raw-item hashes.",
+  "limitations": [
+    "Independent AI review, not clinician or psychometric validation.",
+    "Targeted source checks remain in the corresponding cross-review reports; no blanket source-validation claim."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-adaptation-108",
+      "status": "pass",
+      "assessment": "The stem now supplies persistent malabsorption despite reported correct total daily quantity, leaving meal-linked use to be selected by reasoning rather than an explicit answer phrase. Key and revised rationales align.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9d0e19db7f02b848f59a4ac3be0ffc53ddfa070ca3326102cbbbe12bfc0068f5"
+    },
+    {
+      "id": "x-adaptation-141",
+      "status": "pass",
+      "assessment": "The direct action-rule giveaway has been removed. Stool increase with dizziness and little urine now supports clinically important dehydration and urgent oncology advice over mild home care.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d1d361f883c79f81011eb1258ad17a57e0303ac95d8017a77360a8e4795395ce"
+    },
+    {
+      "id": "x-adaptation-148",
+      "status": "pass",
+      "assessment": "All four choices are credible symptom-management plans. Tense pressure limiting eating and breathing despite small meals/positioning makes discussion of drainage the most direct goal-matched option; diuretic and analgesia limitations are case-specific.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "22c99abb16adff1ca9ae9976f7ac05835f04ee0abaf296a718244f8103098df7"
+    },
+    {
+      "id": "x-adaptation-149",
+      "status": "pass",
+      "assessment": "The cleansing distractor now describes a plain clinically relevant plan. New open moist skin and pain require review of coverage and analgesia beyond intact-skin emollient, cleansing alone or itch treatment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7cd9858ab76d935ade5ca8a368b0ba81135dac7ad5eb993390194c3f037ea117"
+    },
+    {
+      "id": "x-adaptation-164",
+      "status": "pass",
+      "assessment": "Comparable-length alternatives now test addressing nausea and missed doses versus teaching, meal strategies or a premature endpoint. The key manages the concrete barrier without independent dose adjustment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ec2f228070b1669332f6a160b286229cd8985adbba25ace38217e7969f712070"
+    },
+    {
+      "id": "x-adaptation-167",
+      "status": "pass",
+      "assessment": "All alternatives now include clinical outcome information of comparable detail. The key alone improves agreed sleep and transfer goals alongside episode duration; this remains distinct from simple phantom-pain acknowledgement.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2efcb97994045ff9b5286c0c8a1c858c43eaea602c83ecbbe993494fb2185cc3"
+    },
+    {
+      "id": "x-adaptation-175",
+      "status": "pass",
+      "assessment": "The revised alternatives each present temperature, pulse and neurological information. Persistent or worsening neurological findings outweigh partial cooling; restored orientation with target temperature and pulse improvement is the best combined response.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "114add4f032a723de0c49604e2dd9109a8b5e647a2e281b87cbc04cae9803565"
+    }
+  ]
+}

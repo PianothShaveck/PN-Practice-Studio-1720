@@ -1,0 +1,818 @@
+[
+  {
+    "id": "x-adaptation-001",
+    "cat": "adaptation",
+    "title": "Recognize a silent chest during asthma",
+    "stem": "A client with severe asthma was wheezing loudly. They now have barely audible breath sounds, exhaustion and difficulty speaking. What is the priority interpretation?",
+    "type": "single",
+    "options": [
+      "Mobilization of retained mucus.",
+      "Critically reduced airflow.",
+      "Resolving bronchospasm.",
+      "Reduced anxiety-related effort."
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "The overall deterioration does not support interpreting quieter sounds as successful secretion clearance.",
+      "Quieter breath sounds with exhaustion and limited speech suggest inadequate air movement and possible impending failure, requiring urgent support.",
+      "Improvement would include easier breathing and speech, not exhaustion and declining air entry.",
+      "The deteriorating ability to speak and marked exhaustion are physiological warning signs, not reassurance of calmer breathing."
+    ],
+    "takeaway": "Quieter breath sounds with exhaustion and limited speech suggest inadequate air movement and possible impending failure, requiring urgent support.",
+    "refs": [
+      "b-asthma"
+    ],
+    "exhibit": null,
+    "subtopic": "Acute respiratory deterioration",
+    "learningObjective": "Interpret quieter breath sounds with exhaustion as possible critical airflow reduction.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-002",
+    "cat": "adaptation",
+    "title": "Evaluate a short-lived reliever response",
+    "stem": "A client's prescribed asthma reliever briefly improves breathing, but severe dyspnea returns within minutes and they can speak only a few words. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Coach controlled breathing and relaxation.",
+      "Repeat peak-flow measurement to quantify the response.",
+      "Activate urgent support while continuing the authorized emergency plan.",
+      "Repeat treatment at the usual reliever schedule."
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Coaching may assist comfort but is inadequate as the main response to severe airflow limitation.",
+      "Additional effort-dependent measurement must not postpone help when the client is struggling to speak.",
+      "Severe recurrent dyspnea and few-word speech indicate inadequate response and need emergency support.",
+      "The brief response and severe current symptoms require escalation beyond the routine schedule."
+    ],
+    "takeaway": "Severe recurrent dyspnea and few-word speech indicate inadequate response and need emergency support.",
+    "refs": [
+      "b-asthma"
+    ],
+    "exhibit": null,
+    "subtopic": "Acute respiratory deterioration",
+    "learningObjective": "Escalate severe asthma symptoms that recur after only transient reliever benefit.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-003",
+    "cat": "adaptation",
+    "title": "Evaluate new drowsiness during COPD treatment",
+    "stem": "During a COPD exacerbation, a client has an ordered oxygen saturation target of 88–92%. Oxygen was increased from 1 to 4 L/minute by nasal cannula, and saturation is now 98%. The client becomes drowsy and breathes shallowly. Which response is best?",
+    "type": "single",
+    "options": [
+      "Maintain 4 L/minute and request a routine blood gas.",
+      "Return to 1 L/minute and reassess at the next scheduled observation.",
+      "Request chest radiography to identify worsening lung disease.",
+      "Titrate oxygen to the target and obtain urgent ventilation review."
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "A blood gas is useful, but maintaining above-target oxygen and routine urgency do not address the current deterioration.",
+      "An earlier setting may not now achieve the target, and new altered consciousness requires urgent reassessment.",
+      "Imaging may assist later assessment but does not substitute for immediate oxygen titration and evaluation of ventilation.",
+      "The high saturation does not establish carbon dioxide clearance; new drowsiness and shallow breathing require urgent assessment while avoiding unnecessary oxygen excess."
+    ],
+    "takeaway": "The high saturation does not establish carbon dioxide clearance; new drowsiness and shallow breathing require urgent assessment while avoiding unnecessary oxygen excess.",
+    "refs": [
+      "b-copd"
+    ],
+    "exhibit": null,
+    "subtopic": "Acute respiratory deterioration",
+    "learningObjective": "Assess ventilation and controlled oxygen needs when a client with COPD becomes drowsy.",
+    "reasoningSkill": "intervention",
+    "difficulty": "challenge",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-004",
+    "cat": "adaptation",
+    "title": "Interpret oxygenation with worsening effort",
+    "stem": "A client with pneumonia maintains saturation on increasing oxygen but becomes exhausted and uses accessory muscles. Which conclusion is best?",
+    "type": "single",
+    "options": [
+      "Worsening ventilatory reserve.",
+      "Adequate response to the current treatment.",
+      "Primarily anxiety-related respiratory effort.",
+      "Expected fatigue during respiratory recovery."
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Increasing support, accessory-muscle use and exhaustion indicate deterioration despite a maintained saturation.",
+      "The same saturation achieved with increasing oxygen does not show stable or improving respiratory function.",
+      "Anxiety may coexist, but escalating support and exhaustion demand physiological assessment.",
+      "Fatigue accompanied by increased work of breathing is a warning of failure rather than an expected recovery milestone."
+    ],
+    "takeaway": "Increasing support, accessory-muscle use and exhaustion indicate deterioration despite a maintained saturation.",
+    "refs": [
+      "b-respiratory"
+    ],
+    "exhibit": null,
+    "subtopic": "Acute respiratory deterioration",
+    "learningObjective": "Judge worsening respiratory effort despite saturation maintained by increasing support.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-005",
+    "cat": "adaptation",
+    "title": "Recognize pneumonia deterioration in an older adult",
+    "stem": "An older adult with pneumonia has a temperature of 37.4°C but is newly inattentive, breathing faster and eating little. What should guide the nurse's response?",
+    "type": "single",
+    "options": [
+      "Focus first on completing a nutrition supplement",
+      "Treat the change from baseline as possible acute deterioration",
+      "Wait for a fever above 38°C before reporting",
+      "Attribute inattention to the unfamiliar room alone"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Immediate physiological assessment takes priority over supplement intake.",
+      "Older adults may deteriorate without a marked fever.",
+      "Absence of high fever does not exclude serious illness.",
+      "A new cognitive change with respiratory symptoms needs assessment."
+    ],
+    "takeaway": "Older adults may deteriorate without a marked fever.",
+    "refs": [
+      "b-respiratory"
+    ],
+    "exhibit": null,
+    "subtopic": "Acute respiratory deterioration",
+    "learningObjective": "Recognize acute pneumonia deterioration without relying on a high fever.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-006",
+    "cat": "adaptation",
+    "title": "Respond to vomiting during noninvasive ventilation",
+    "stem": "A client wearing a tight noninvasive ventilation mask begins vomiting and cannot clear the contents. What should happen first?",
+    "type": "single",
+    "options": [
+      "Loosen the lower edge of the mask to allow drainage.",
+      "Administer the prescribed intravenous antiemetic.",
+      "Remove the mask and protect the airway while calling for help.",
+      "Turn the client laterally with the mask still fitted."
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Partial loosening may leave contents within the mask and does not provide reliable access to clear the airway.",
+      "The medicine may help later nausea, but it does not promptly clear vomit already obstructing airway protection.",
+      "Removing the interface permits vomit clearance and immediate airway protection; trapped contents pose an aspiration threat.",
+      "Positioning may help clearance, but the sealed interface still traps vomit and needs immediate removal."
+    ],
+    "takeaway": "Removing the interface permits vomit clearance and immediate airway protection; trapped contents pose an aspiration threat.",
+    "refs": [
+      "b-respiratory"
+    ],
+    "exhibit": null,
+    "subtopic": "Ventilatory support",
+    "learningObjective": "Prioritize airway protection when vomiting occurs inside a noninvasive ventilation mask.",
+    "reasoningSkill": "priority",
+    "difficulty": "challenge",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-007",
+    "cat": "adaptation",
+    "title": "Escalate an obstructed tracheostomy",
+    "stem": "A tracheostomy-dependent client suddenly struggles to breathe. The trained nurse has removed the detachable inner cannula, but an appropriately sized suction catheter still cannot pass through the tube. What is appropriate next?",
+    "type": "single",
+    "options": [
+      "Try a smaller suction catheter to retrieve distal secretions.",
+      "Replace the humidification tubing attached to the tracheostomy.",
+      "Give the prescribed nebulized bronchodilator treatment.",
+      "Activate emergency airway support and use the tracheostomy algorithm."
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Failure of an appropriate catheter to pass raises a tube-patency problem; a smaller catheter trial must not replace emergency oxygenation and airway management.",
+      "A circuit issue can affect delivery, but it does not explain persistent inability to pass the catheter through the tracheostomy tube.",
+      "A bronchodilator treats lower-airway constriction, not an obstructed or displaced artificial airway.",
+      "Persistent inability to pass the catheter after inner-cannula removal suggests obstruction or displacement requiring a structured emergency response."
+    ],
+    "takeaway": "Persistent inability to pass the catheter after inner-cannula removal suggests obstruction or displacement requiring a structured emergency response.",
+    "refs": [
+      "b-respiratory"
+    ],
+    "exhibit": null,
+    "subtopic": "Ventilatory support",
+    "learningObjective": "Follow an emergency airway pathway when a tracheostomy suction catheter cannot pass.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-008",
+    "cat": "adaptation",
+    "title": "Select a response to retained tracheal secretions",
+    "stem": "A client with a tracheostomy has audible gurgling, visible secretions and an ineffective cough. Oxygen saturation has fallen from baseline. What is the most appropriate initial intervention by a competent nurse?",
+    "type": "single",
+    "options": [
+      "Perform protocol-based suctioning and reassess the response.",
+      "Increase supplemental oxygen.",
+      "Coach huff coughing.",
+      "Increase airway humidification."
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Visible secretions, gurgling and ineffective cough indicate a clearance problem that suctioning can directly address.",
+      "Oxygen may be needed, but it does not remove the retained secretions causing airway compromise.",
+      "The cough is already ineffective, so coaching alone is unlikely to promptly clear the current secretion burden.",
+      "Humidification supports secretion management over time but does not rapidly remove material already obstructing airflow."
+    ],
+    "takeaway": "Visible secretions, gurgling and ineffective cough indicate a clearance problem that suctioning can directly address.",
+    "refs": [
+      "b-respiratory"
+    ],
+    "exhibit": null,
+    "subtopic": "Airway clearance",
+    "learningObjective": "Select protocol-based secretion removal for an ineffective cough and airway obstruction cues.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-009",
+    "cat": "adaptation",
+    "title": "Respond to bradycardia during suctioning",
+    "stem": "During tracheal suctioning, a client's pulse falls markedly and oxygen saturation drops. What should the nurse do first?",
+    "type": "single",
+    "options": [
+      "Shorten the next scheduled suction pass.",
+      "Withdraw the catheter and support oxygenation.",
+      "Pause suction while leaving the catheter in place.",
+      "Increase oxygen while completing the current suction pass."
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Future technique changes may help, but the current instability requires immediate action.",
+      "Removing the provoking stimulus and restoring oxygenation address suction-associated vagal stimulation or hypoxemia; reassess and escalate if instability persists.",
+      "The catheter can continue to stimulate the airway even when suction is paused.",
+      "Continuing the stimulus may worsen bradycardia; the current pass should end rather than merely increasing oxygen."
+    ],
+    "takeaway": "Removing the provoking stimulus and restoring oxygenation address suction-associated vagal stimulation or hypoxemia; reassess and escalate if instability persists.",
+    "refs": [
+      "b-respiratory"
+    ],
+    "exhibit": null,
+    "subtopic": "Airway clearance",
+    "learningObjective": "Stop suctioning and support oxygenation when bradycardia and desaturation occur.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-010",
+    "cat": "adaptation",
+    "title": "Evaluate expanding subcutaneous emphysema",
+    "stem": "A client with a chest drain develops increasing neck and chest swelling that crackles on palpation, with new dyspnea. What is the priority?",
+    "type": "single",
+    "options": [
+      "Check and reinforce the dressing seal.",
+      "Temporarily clamp the drain.",
+      "Assess breathing and obtain urgent clinical review.",
+      "Record and mark the swelling border."
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "A dressing check can be part of assessment, but it does not adequately address possible intrathoracic air accumulation with dyspnea.",
+      "Clamping an air-leaking drain can trap air and increase intrathoracic pressure.",
+      "Expanding crepitus with dyspnea may indicate a significant air leak or drainage problem and requires prompt respiratory assessment.",
+      "Tracking spread is useful but does not address the associated acute respiratory change."
+    ],
+    "takeaway": "Expanding crepitus with dyspnea may indicate a significant air leak or drainage problem and requires prompt respiratory assessment.",
+    "refs": [
+      "b-respiratory"
+    ],
+    "exhibit": null,
+    "subtopic": "Chest drainage complications",
+    "learningObjective": "Escalate expanding subcutaneous emphysema with respiratory compromise during chest drainage.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-011",
+    "cat": "adaptation",
+    "title": "Manage an accidental chest-drain disconnection",
+    "stem": "A pleural drain that was bubbling in its water-seal chamber disconnects at the drainage-unit connector. The client is alert and oxygen saturation is unchanged. A sterile replacement water-seal unit and connector are ready at the bedside. The supplied unit protocol states: “For this device, promptly replace the disconnected unit using sterile connections; avoid routine clamping when an air leak is present.” Which action best follows this protocol?",
+    "type": "single",
+    "options": [
+      "Clamp the patient tubing while observing whether bubbling would have continued.",
+      "Wipe the detached connector and reconnect the original drainage unit.",
+      "Attach the patient tubing directly to the available wall suction tubing.",
+      "Connect the patient tubing to the prepared sterile replacement unit."
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "The prior bubbling indicates an air leak; a clamping trial is not the restoration process specified by this protocol.",
+      "Surface wiping is not the sterile replacement process required by the supplied protocol.",
+      "Direct suction bypasses the prepared water-seal system and does not follow this device protocol.",
+      "The available equipment permits prompt restoration using the stated device-specific process, while avoiding trapping an active air leak."
+    ],
+    "takeaway": "The available equipment permits prompt restoration using the stated device-specific process, while avoiding trapping an active air leak.",
+    "refs": [
+      "b-pleural"
+    ],
+    "exhibit": [
+      [
+        "Device context",
+        "Water-seal unit disconnected at its connector; active air leak before separation"
+      ],
+      [
+        "Available equipment",
+        "Sterile replacement water-seal unit and connector at bedside"
+      ],
+      [
+        "Supplied local protocol",
+        "Promptly replace the disconnected unit using sterile connections; avoid routine clamping when an air leak is present"
+      ]
+    ],
+    "subtopic": "Chest drainage complications",
+    "learningObjective": "Restore chest-drain system integrity using the local emergency protocol.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-012",
+    "cat": "adaptation",
+    "title": "Recognize an acute post-procedure pneumothorax",
+    "stem": "Soon after central venous catheter placement, a client has sudden dyspnea, falling blood pressure and markedly reduced breath sounds on one side. Which complication is most concerning?",
+    "type": "single",
+    "options": [
+      "Tension pneumothorax.",
+      "Pulmonary edema.",
+      "Vasovagal episode.",
+      "Mucus plugging."
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Sudden unilateral loss of air entry with circulatory compromise after this procedure requires emergency assessment for pressurized pleural air.",
+      "Edema can cause dyspnea but more often produces bilateral findings rather than a sudden unilateral reduction after line insertion.",
+      "A vagal episode may lower blood pressure but does not explain the marked unilateral breath-sound change.",
+      "A plug can reduce regional ventilation, but the procedural timing and shock pattern make tension pneumothorax the more urgent concern."
+    ],
+    "takeaway": "Sudden unilateral loss of air entry with circulatory compromise after this procedure requires emergency assessment for pressurized pleural air.",
+    "refs": [
+      "b-respiratory"
+    ],
+    "exhibit": null,
+    "subtopic": "Chest drainage complications",
+    "learningObjective": "Recognize a possible tension pneumothorax after central venous catheter placement.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-013",
+    "cat": "adaptation",
+    "title": "Prioritize active hemoptysis",
+    "stem": "A client coughs up increasing amounts of bright blood and struggles to clear the airway. The bleeding source is not known. What takes priority?",
+    "type": "single",
+    "options": [
+      "Prepare a sputum specimen for laboratory examination.",
+      "Obtain help and support airway clearance and oxygenation.",
+      "Obtain additional large-bore intravenous access.",
+      "Measure and document the total visible blood loss."
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Diagnostic sampling may be useful after stabilization but does not address current airway compromise.",
+      "Active blood in the airway threatens ventilation; oxygenation and clearance take priority while the team manages the bleeding.",
+      "Access is important for resuscitation, but the stated inability to clear the airway requires immediate respiratory support.",
+      "Quantification supports management but should not delay action for airway flooding."
+    ],
+    "takeaway": "Active blood in the airway threatens ventilation; oxygenation and clearance take priority while the team manages the bleeding.",
+    "refs": [
+      "b-respiratory"
+    ],
+    "exhibit": null,
+    "subtopic": "Acute respiratory deterioration",
+    "learningObjective": "Prioritize airway clearance and respiratory support during active major hemoptysis.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-014",
+    "cat": "adaptation",
+    "title": "Support a symptomatic pleural effusion",
+    "stem": "A client with a large pleural effusion becomes more breathless when the bed is lowered. They are alert, blood pressure is stable and there is no spinal precaution. Painful wrist arthritis prevents bearing body weight through the hands or forearms. Prescribed drainage is being arranged. Which position should the nurse try first and then evaluate?",
+    "type": "single",
+    "options": [
+      "Sit leaning forward with the forearms bearing weight on the knees.",
+      "Remain recumbent with the knees supported.",
+      "Raise the head and support the client upright.",
+      "Use supported side-lying with the head near bed level."
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "This posture depends on the upper-limb weight bearing that the client cannot tolerate.",
+      "Knee support may improve comfort but does not address the respiratory effect of lowering the trunk.",
+      "Back-supported upright positioning addresses recumbent breathlessness without requiring painful arm weight bearing.",
+      "The low head position does not best address the observed worsening when the trunk is lowered."
+    ],
+    "takeaway": "The observed intolerance of recumbency supports an upright trial to ease expansion while definitive treatment is prepared.",
+    "refs": [
+      "b-respiratory"
+    ],
+    "exhibit": null,
+    "subtopic": "Pleural disease",
+    "learningObjective": "Use tolerated positioning while definitive treatment of a symptomatic pleural effusion is arranged.",
+    "reasoningSkill": "intervention",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-015",
+    "cat": "adaptation",
+    "title": "Respond to postoperative thoracic bleeding",
+    "stem": "After lung surgery, chest drainage increases from 25 mL of serosanguineous fluid in the previous hour to 180 mL of bright-red fluid in 20 minutes. Pulse rises from 84 to 118/minute, blood pressure falls from 126/74 to 92/58 mmHg, and the client is pale. What is the priority?",
+    "type": "single",
+    "options": [
+      "Obtain the next complete blood count.",
+      "Reinforce the insertion-site dressing.",
+      "Confirm the chamber markings and recalculate the output.",
+      "Assess circulation urgently and activate surgical review."
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "A count is useful, but an early result may not reflect acute loss and collection must not delay the urgent response.",
+      "A local dressing action does not explain or control rapidly increasing blood within the drainage chamber.",
+      "Measurement accuracy matters, but the concurrent physiological deterioration already demands urgent action.",
+      "Rapid fresh drainage accompanied by tachycardia and hypotension indicates possible significant bleeding; response should not wait for further confirmation."
+    ],
+    "takeaway": "Rapid fresh drainage accompanied by tachycardia and hypotension indicates possible significant bleeding; response should not wait for further confirmation.",
+    "refs": [
+      "b-op-postop"
+    ],
+    "exhibit": null,
+    "subtopic": "Thoracic postoperative complications",
+    "learningObjective": "Recognize postoperative thoracic bleeding from drainage changes and systemic signs.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-016",
+    "cat": "adaptation",
+    "title": "Deliver oxygen after total laryngectomy",
+    "stem": "A client with a total laryngectomy becomes hypoxemic. A colleague places oxygen at the nose, but saturation does not improve. What change is needed?",
+    "type": "single",
+    "options": [
+      "Apply oxygen through the neck stoma.",
+      "Increase the nasal oxygen flow.",
+      "Apply an oxygen mask over the nose and mouth.",
+      "Use a bag-mask ventilation seal over the face."
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "After total laryngectomy, the stoma is the connection to the lungs, so oxygen equipment must deliver there.",
+      "The nose is surgically separated from the lower airway after total laryngectomy.",
+      "A face mask cannot deliver oxygen to the lungs through the separated upper airway.",
+      "A face seal does not ventilate the lower airway in a total laryngectomy; rescue ventilation equipment must connect appropriately to the stoma."
+    ],
+    "takeaway": "After total laryngectomy, the stoma is the connection to the lungs, so oxygen equipment must deliver there.",
+    "refs": [
+      "b-respiratory"
+    ],
+    "exhibit": null,
+    "subtopic": "Altered airway anatomy",
+    "learningObjective": "Deliver oxygen through the only functional airway after total laryngectomy.",
+    "reasoningSkill": "intervention",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-017",
+    "cat": "adaptation",
+    "title": "Manage ineffective clearance in cystic fibrosis",
+    "stem": "A client with cystic fibrosis completes their prescribed airway-clearance session. Before treatment they had audible coarse secretions and difficulty coughing up sputum. Which finding best supports that the session was effective?",
+    "type": "single",
+    "options": [
+      "A smaller sputum amount while chest congestion increases.",
+      "Less coarse airway noise with easier expectoration.",
+      "Less coughing because the client is too tired to continue.",
+      "An unchanged saturation while oxygen needs increase."
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Less expectorated sputum with increasing congestion suggests retained material rather than better clearance.",
+      "Easier removal of sputum together with reduced retained-secretions sounds supports improved clearance.",
+      "Fatigue can suppress an effective cough and should not be mistaken for successful clearance.",
+      "Maintained saturation with greater support does not demonstrate improved airway clearance."
+    ],
+    "takeaway": "Easier removal of sputum together with reduced retained-secretions sounds supports improved clearance.",
+    "refs": [
+      "b-respiratory"
+    ],
+    "exhibit": null,
+    "subtopic": "Airway clearance",
+    "learningObjective": "Evaluate airway-clearance effectiveness using expectoration and retained-secretion findings.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-018",
+    "cat": "adaptation",
+    "title": "Evaluate a bronchiectasis exacerbation",
+    "stem": "A client with bronchiectasis reports increased purulent sputum, worsening breathlessness and less ability to perform usual activities. What is most appropriate?",
+    "type": "single",
+    "options": [
+      "Schedule a physiotherapy review of clearance technique.",
+      "Maintain the established regimen and symptom record.",
+      "Arrange prompt assessment for a possible exacerbation.",
+      "Increase routine hydration within the prescribed plan."
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Technique review may help ongoing care, but the acute symptom change warrants clinical assessment now.",
+      "Recording trends is useful, but continuing unchanged care does not address the new deterioration.",
+      "New purulence, dyspnea and loss of usual function represent a clinically significant change from baseline.",
+      "Hydration can support secretion clearance but does not replace assessment of possible infection or exacerbation."
+    ],
+    "takeaway": "New purulence, dyspnea and loss of usual function represent a clinically significant change from baseline.",
+    "refs": [
+      "b-respiratory"
+    ],
+    "exhibit": null,
+    "subtopic": "Airway clearance",
+    "learningObjective": "Recognize a bronchiectasis exacerbation from changes in sputum and function.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-019",
+    "cat": "adaptation",
+    "title": "Respond to aspiration during feeding",
+    "stem": "During tube feeding, a client develops sudden coughing, wet respirations and falling saturation. What should the nurse do first?",
+    "type": "single",
+    "options": [
+      "Check the tube insertion marking against the recorded length.",
+      "Measure gastric residual if included in local protocol.",
+      "Reposition the feeding pump and tubing.",
+      "Stop the feed and assess airway and breathing."
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Tube displacement is relevant, but the immediate priority is the client’s airway and breathing rather than equipment verification.",
+      "Residual assessment does not promptly treat respiratory compromise and should not delay the initial response.",
+      "Equipment arrangement may need later review, but it does not address suspected aspiration and falling saturation.",
+      "Interrupting further feed delivery and supporting breathing address possible aspiration during acute respiratory deterioration."
+    ],
+    "takeaway": "Interrupting further feed delivery and supporting breathing address possible aspiration during acute respiratory deterioration.",
+    "refs": [
+      "b-respiratory"
+    ],
+    "exhibit": null,
+    "subtopic": "Aspiration management",
+    "learningObjective": "Stop feed delivery and prioritize breathing when aspiration is suspected.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-020",
+    "cat": "adaptation",
+    "title": "Recognize airway risk after a burn",
+    "stem": "A client rescued from an enclosed fire has facial burns, soot around the mouth and a newly hoarse voice. Saturation is initially 97%. What is the priority?",
+    "type": "single",
+    "options": [
+      "Arrange urgent airway assessment.",
+      "Estimate the total burned body-surface area.",
+      "Apply the appropriate dressings to visible burns.",
+      "Obtain a detailed exposure and medical history."
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Soot, hoarseness and enclosed-fire exposure suggest potentially progressive inhalation injury even with an initially normal saturation.",
+      "Burn size guides later care but does not take priority over signs of a threatened airway.",
+      "Wound care is important after immediate airway and respiratory threats are addressed.",
+      "A focused history can be gathered during care, but it must not delay urgent airway assessment."
+    ],
+    "takeaway": "Soot, hoarseness and enclosed-fire exposure suggest potentially progressive inhalation injury even with an initially normal saturation.",
+    "refs": [
+      "b-respiratory"
+    ],
+    "exhibit": null,
+    "subtopic": "Inhalation injury",
+    "learningObjective": "Escalate a potentially progressive airway injury despite initially normal saturation.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-021",
+    "cat": "adaptation",
+    "title": "Interpret oximetry after smoke exposure",
+    "stem": "A client from an enclosed garage is confused and has a headache after engine exhaust exposure. Routine pulse oximetry reads 99%. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Assess fluid intake and dehydration from work in the garage.",
+      "Arrange urgent toxic-exposure assessment and protocol-based oxygen.",
+      "Repeat conventional pulse oximetry at another finger.",
+      "Reassess after a period of fresh air and quiet rest."
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Dehydration could contribute to headache, but the exposure history and confusion make toxic hypoxia the priority concern.",
+      "Carbon monoxide poisoning may coexist with a normal conventional oximeter reading; neurological symptoms after exhaust exposure warrant urgent treatment and testing.",
+      "A different site does not correct the device limitation in distinguishing carboxyhemoglobin.",
+      "Removing exposure matters, but confusion and headache warrant assessment rather than relying on spontaneous symptom resolution."
+    ],
+    "takeaway": "Carbon monoxide poisoning may coexist with a normal conventional oximeter reading; neurological symptoms after exhaust exposure warrant urgent treatment and testing.",
+    "refs": [
+      "b-respiratory"
+    ],
+    "exhibit": null,
+    "subtopic": "Inhalation injury",
+    "learningObjective": "Recognize the limitation of conventional pulse oximetry after carbon monoxide exposure.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-022",
+    "cat": "adaptation",
+    "title": "Recognize worsening ventilation after chest trauma",
+    "stem": "After blunt chest trauma, a client has painful shallow breaths, a segment of chest moving abnormally and increasing fatigue. What is most urgent?",
+    "type": "single",
+    "options": [
+      "Coach repeated coughing and deep breathing.",
+      "Position the client on the injured side.",
+      "Obtain respiratory support and give ordered analgesia.",
+      "Arrange chest imaging to define the injury."
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "These may be useful after pain and ventilation are addressed; a fatigued client may not be able to perform them effectively now.",
+      "Positioning may affect comfort, but it does not adequately address increasing exhaustion and a possible need for ventilatory support.",
+      "Increasing fatigue with chest instability and painful shallow breaths signals compromised ventilation; support and effective pain control are urgent.",
+      "Imaging is important but should not postpone respiratory support for worsening ventilation."
+    ],
+    "takeaway": "Increasing fatigue with chest instability and painful shallow breaths signals compromised ventilation; support and effective pain control are urgent.",
+    "refs": [
+      "b-respiratory"
+    ],
+    "exhibit": null,
+    "subtopic": "Chest trauma",
+    "learningObjective": "Prioritize respiratory support when chest instability and pain impair ventilation.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-023",
+    "cat": "adaptation",
+    "title": "Avoid excluding embolism from normal oximetry",
+    "stem": "A postoperative client develops pleuritic pain and unexplained tachycardia. Saturation is 96% on room air. A colleague says embolism is excluded. Which response is best?",
+    "type": "single",
+    "options": [
+      "The stable saturation supports review at the routine postoperative round.",
+      "Thrombosis is unlikely if the legs are not swollen.",
+      "The pleuritic pain fits expected postoperative discomfort.",
+      "These new symptoms still require urgent assessment for embolism."
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "An oxygenation snapshot does not reduce the urgency of the new symptom combination.",
+      "Leg symptoms may be absent even when venous thrombosis or embolism is present.",
+      "New pleuritic pain with unexplained tachycardia should not be attributed to routine pain without assessment.",
+      "Normal resting saturation does not exclude pulmonary embolism; postoperative pleuritic pain and unexplained tachycardia remain concerning."
+    ],
+    "takeaway": "Normal resting saturation does not exclude pulmonary embolism; postoperative pleuritic pain and unexplained tachycardia remain concerning.",
+    "refs": [
+      "b-respiratory"
+    ],
+    "exhibit": null,
+    "subtopic": "Acute respiratory deterioration",
+    "learningObjective": "Avoid excluding pulmonary embolism solely because room-air saturation is normal.",
+    "reasoningSkill": "recognition",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-024",
+    "cat": "adaptation",
+    "title": "Identify improvement after respiratory support",
+    "stem": "A client receives treatment for acute respiratory distress. Which changes support improvement when compared with the pretreatment state? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "A normal saturation maintained only by increasing oxygen",
+      "A quieter chest accompanied by increasing drowsiness",
+      "A lower respiratory rate with worsening exhaustion",
+      "Less accessory-muscle use with more comfortable speech",
+      "Stable oxygenation on a lower prescribed oxygen requirement"
+    ],
+    "answer": [
+      3,
+      4
+    ],
+    "why": [
+      "Increasing support may hide worsening gas exchange.",
+      "Reduced sounds with declining alertness can indicate ventilatory failure.",
+      "A falling rate from fatigue is not a reassuring recovery sign.",
+      "Reduced work and improved speech suggest better respiratory function.",
+      "Less support for the same oxygenation suggests improvement."
+    ],
+    "takeaway": "Reduced work and improved speech suggest better respiratory function.",
+    "refs": [
+      "b-respiratory"
+    ],
+    "exhibit": null,
+    "subtopic": "Ventilatory support",
+    "learningObjective": "Use effort, speech and support requirements to evaluate respiratory treatment response.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-025",
+    "cat": "adaptation",
+    "title": "Recognize respiratory acidosis during COPD deterioration",
+    "stem": "An acutely drowsy client has pH 7.28, PaCO2 58 mmHg and HCO3 26 mmol/L. Reference ranges are 7.35–7.45, 35–45 and 22–26, respectively. What is most consistent?",
+    "type": "single",
+    "options": [
+      "Normal acid-base balance",
+      "Respiratory acidosis",
+      "Metabolic acidosis",
+      "Respiratory alkalosis"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "The abnormal pH and carbon dioxide remain clinically important.",
+      "Acidemia with elevated carbon dioxide indicates impaired ventilation.",
+      "Bicarbonate is not reduced below the supplied reference range.",
+      "Excess ventilation would lower carbon dioxide rather than raise it."
+    ],
+    "takeaway": "Acidemia with elevated carbon dioxide indicates impaired ventilation.",
+    "refs": [
+      "b-respiratory"
+    ],
+    "exhibit": null,
+    "subtopic": "Ventilatory support",
+    "learningObjective": "Identify acute respiratory acidosis from supplied blood-gas reference ranges.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  }
+]

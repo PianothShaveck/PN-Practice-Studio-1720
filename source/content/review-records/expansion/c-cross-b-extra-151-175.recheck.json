@@ -1,0 +1,356 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewerTask": "/root/author_risk_basic",
+  "reviewedAt": "2026-10-01T18:10:08.878672+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/b-extra/questions.json",
+  "coverage": {
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-adaptation-151",
+      "x-adaptation-152",
+      "x-adaptation-153",
+      "x-adaptation-154",
+      "x-adaptation-155",
+      "x-adaptation-156",
+      "x-adaptation-157",
+      "x-adaptation-158",
+      "x-adaptation-159",
+      "x-adaptation-160",
+      "x-adaptation-161",
+      "x-adaptation-162",
+      "x-adaptation-163",
+      "x-adaptation-164",
+      "x-adaptation-165",
+      "x-adaptation-166",
+      "x-adaptation-167",
+      "x-adaptation-168",
+      "x-adaptation-169",
+      "x-adaptation-170",
+      "x-adaptation-171",
+      "x-adaptation-172",
+      "x-adaptation-173",
+      "x-adaptation-174",
+      "x-adaptation-175"
+    ],
+    "unreviewedIds": [],
+    "unchangedPriorPasses": 8,
+    "changedItemsRead": 17
+  },
+  "method": "Read the original25-item findings and every current item field, including every alternative and rationale. Reasoned separately about all25, then compared original hashes to identify the8 unchanged passes and17 changed items. No automatic pass assignment.",
+  "limitations": [
+    "Independent AI review, not qualified clinician or psychometric validation.",
+    "Source retrieval below was targeted, not renewed verification of every reference or every distractor.",
+    "Application/challenge labels are author estimates. No empirical item performance or proprietary exam comparison is claimed."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://openstax.org/books/medical-surgical-nursing/pages/14-2-burns",
+      "claims": "Opened current chapter turn242view0 for burn depth/assessment/respiratory and thermal-care context; targeted topic support, not a blanket approval of unrelated chapter claims."
+    },
+    {
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/Drowning/",
+      "claims": "Opened turn242view1 for persistent respiratory symptoms and saturation after submersion; supports174 principle."
+    },
+    {
+      "url": "https://www.redcross.ca/training-and-certification/first-aid-tips-and-resources/first-aid-tips/summer-safety/heat-stroke-heat-exhaustion",
+      "claims": "Opened turn242view2 for heat-stroke signs, cooling and emergency response; supports171. No new universal cooling-target number is prescribed in175."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-adaptation-151",
+      "status": "pass",
+      "assessment": "Small electrical surface marks do not establish depth or cardiac safety; current path and brief loss of consciousness justify internal/rhythm assessment. This tests a relevant superficial-appearance misconception.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e3232bf9110d30704fa4fdade1ab792e1f5f7d24aaee14c31b4ff21d226da42d",
+      "priorReviewStatus": "pass",
+      "unchangedFromPriorReview": true
+    },
+    {
+      "id": "x-adaptation-152",
+      "status": "pass",
+      "assessment": "PPE and dry-material/clothing removal follow the explicitly supplied substance instructions. Neutralization and wet wrapping retain or react with contaminant; the item avoids claiming every chemical takes the same irrigation method.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5de0202cb49aac5f0e7ef867e499842bd870e5f41e35e2b1ddc0e384451331ab",
+      "priorReviewStatus": "pass",
+      "unchangedFromPriorReview": true
+    },
+    {
+      "id": "x-adaptation-153",
+      "status": "pass",
+      "assessment": "The stable child and localized scald support water cooling of the injury while keeping uninjured areas warm. The ice, butter and whole-body cooling choices are familiar first-aid misconceptions; foundation label is appropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f33b28b82b53e842a473dd0983eab1c2ab92c83a1a7de0afc039dffcacbfb845",
+      "priorReviewStatus": "pass",
+      "unchangedFromPriorReview": true
+    },
+    {
+      "id": "x-adaptation-154",
+      "status": "pass",
+      "assessment": "Persistently low urine after patency is verified and new respiratory congestion require reassessment from different directions. It does not prescribe automatic fluid escalation or a generic burn volume.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "beb977f09ce808c8d54071d240a8e6793549d4335aa8cb40266aadabacaad8a2",
+      "priorReviewStatus": "pass",
+      "unchangedFromPriorReview": true
+    },
+    {
+      "id": "x-adaptation-155",
+      "status": "pass",
+      "assessment": "Minimal chest excursion despite effort with circumferential deep injury supports mechanical eschar restriction. The voice/stridor/wheeze/air-entry details make the parallel airway, bronchospasm and mucus-plug alternatives distinguishable.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ba4906787a6682dac30263cbb66e64cca96b5ba392300fe9df66568d6b35ed4d",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-156",
+      "status": "pass",
+      "assessment": "Staged exposure and authorized warming reduce heat loss during burn care. Wet-surface airflow and widespread exposure test evaporation and heat-loss mechanisms rather than arbitrary unrelated behaviours.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "57a9f12affe694ec71358b4c0ada1b05c9ee4afd7eec0dec3d55eac3faa2713b",
+      "priorReviewStatus": "pass",
+      "unchangedFromPriorReview": true
+    },
+    {
+      "id": "x-adaptation-157",
+      "status": "pass",
+      "assessment": "The red moist painful versus dry leathery insensate comparison supports depth interpretation from tissue features. The revised alternatives are coherent misconceptions and do not contain a temporally impossible healed-burn explanation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "53ede4c57cdf82786998538d10bbd7aed1f7d7bf2fb4b8f792ec765441d4b649",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-158",
+      "status": "pass",
+      "assessment": "Observed technique and analgesia timing address barriers to a prescribed rehabilitation programme. The competing changes in duration, repetitions or modality require therapist review and do not identify why prescribed movement is difficult.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ea7ad31f67d3ca187180be386b30d860a8035fea662693401e7fcb6ef33958d5",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-159",
+      "status": "pass",
+      "assessment": "Twenty-four-hour timing after femoral injury with respiratory, neurological and petechial findings supports possible fat embolism over the now-parallel thromboembolism, pneumonia and opioid hypotheses. Acute support is already underway.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "035fb0c89d59f95071b4d88e70ed85f932528a2c74970348e60d79ed3793bb65",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-160",
+      "status": "pass",
+      "assessment": "A distal pulse can persist in compartment compromise. Disproportionate pain, passive-stretch pain and sensory change justify urgent reporting rather than assuming a dose problem or local cast-edge irritation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5ab2fc209f2e1d95d90777b655458864953c7621a8f327162ad43949758ae798",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-161",
+      "status": "pass",
+      "assessment": "New shortening/rotation is more specific to a mechanical joint complication than muscle or incisional pain or an analgesic request. The rationale appropriately calls for protection and assessment rather than manipulation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "efff8f0d835172e2b72f3b87e39d183467286b2c0ceafca710ff8f3cdb9db85c",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-162",
+      "status": "pass",
+      "assessment": "The weight resting on the floor interrupts the prescribed mechanical effect. Assisted repositioning and free suspension restore that setup without an independent force change; follow-up alignment and neurovascular checks are included.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "19782b101b289111a4f1e7ec4ee8faddaa22912e1f436e5c1fd3073ac717c6da",
+      "priorReviewStatus": "pass",
+      "unchangedFromPriorReview": true
+    },
+    {
+      "id": "x-adaptation-163",
+      "status": "pass",
+      "assessment": "Purulent drainage, redness and apparent pin loosening connect infection with a mechanical stability concern. The interpretation avoids independent hardware adjustment and is more integrative than generic call-the-team wording.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3ba338e3c573654792dd93bb65874d684d8103be9a3f24611554b204315a9998",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-164",
+      "status": "revise",
+      "assessment": "The new nausea/missed-dose barrier is useful and more specific than the original adherence item. However, the keyed option remains much longer and every distractor alters dosing or ends therapy; compare realistic assessment/teaching responses with balanced length.",
+      "issues": [
+        "The new nausea/missed-dose barrier is useful and more specific than the original adherence item. However, the keyed option remains much longer and every distractor alters dosing or ends therapy; compare realistic assessment/teaching responses with balanced length."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Assess nausea and intake, and arrange review of the antimicrobial plan",
+          "Reinforce the planned course length and review the medication teaching sheet",
+          "Review meal and beverage choices as the main approach to dose tolerance",
+          "Use the improved pain score to request a shorter treatment course"
+        ],
+        "why": [
+          "Persistent nausea and missed doses need a practical tolerability review; the team can address the barrier while maintaining effective bone-infection treatment.",
+          "The client has identified a tolerability barrier, so repeating course-completion teaching does not by itself resolve the missed doses.",
+          "Food-related strategies may help with some medicines, but are drug specific and do not replace review of persistent nausea and missed doses.",
+          "Pain can improve before bone infection is eradicated; that symptom alone is not a sound basis for shortening the prescribed course."
+        ]
+      },
+      "reviewedItemSha256": "c8845be58fff3f9f003347992da66a5027b17b4659db28a4c33291706e1b26bc",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-165",
+      "status": "pass",
+      "assessment": "A hot swollen knee, high fever and severe passive-movement pain with refusal to bear weight require exclusion of septic arthritis. The question asks an urgent concern, not a definitive practical-nurse diagnosis.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9db485e8234a6694c7f7f3ed899403edcaac7b67de07eca6f39f5f807b82cbbf",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-166",
+      "status": "pass",
+      "assessment": "Acute dorsiflexion loss and new dorsal-foot sensory change despite unchanged pain identify focal neurological compromise rather than generalized deconditioning, stiffness or pain inhibition. Baseline comparison provides the necessary discriminator.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d86e2261b3b3bd54b1fb8eeee738b312ed46129872a5559438e8658270f0a542",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-167",
+      "status": "revise",
+      "assessment": "The objective is now distinct from merely acknowledging phantom pain. But only the long keyed option supplies a complete quantified sleep/function outcome; use comparably detailed clinical outcome sets to remove the answer-length cue.",
+      "issues": [
+        "The objective is now distinct from merely acknowledging phantom pain. But only the long keyed option supplies a complete quantified sleep/function outcome; use comparably detailed clinical outcome sets to remove the answer-length cue."
+      ],
+      "proposedChanges": {
+        "options": [
+          "The incision is closed and appetite improves, but painful episodes still interrupt sleep and transfers",
+          "Episodes are shorter, sleep rises from three to six hours, and planned transfers are completed",
+          "The plan is followed, but sleep remains three hours and transfers require extra rests because of pain",
+          "The pain rating falls briefly after doses, but sleep and transfer tolerance remain unchanged"
+        ],
+        "why": [
+          "Wound and appetite improvements are useful, but the agreed pain-related sleep and transfer goals remain unmet.",
+          "Shorter episodes with improved sleep and completed transfers directly support useful benefit against the agreed goals.",
+          "Following the plan is important, but the persistent sleep and transfer limitations indicate that its effect needs review.",
+          "A short-lived rating change is insufficient when pain continues to prevent the agreed functional outcomes."
+        ]
+      },
+      "reviewedItemSha256": "921b77a8c8cddc2091ad72f12ab0e1097733626e494d70c34f31099433e8aacf",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-168",
+      "status": "pass",
+      "assessment": "New pale cool tissue accompanying severe residual-limb pain shifts priority to perfusion. Chronic neuropathic-pain history, regimen adherence and prosthesis friction are credible competing assessments but cannot explain away tissue change.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a145f4f8daef0be123b13c59d0e09accaebaf3f9c7256ad0b1d00f3faab2cb95",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-169",
+      "status": "pass",
+      "assessment": "The pre-splint baseline makes new distal sensory/motor changes and cool pallor meaningful. Unchanged local bruising and fracture tenderness are relevant alternatives without constituting new distal compromise.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "28b1c68ac3cba2e64f11f430ffdc70cf309769520310df52a8626421b76abf96",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-170",
+      "status": "pass",
+      "assessment": "The supplied goal allows the learner to evaluate assistance, balance and pain rather than speed/distance alone. Each selected finding satisfies the relevant part of the explicit functional criteria; adverse speed/distance tradeoffs fail them.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8462b160e2b58af424befc8fc9ad2f5883255bffc61620d72b55b69d4c45feb9",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-171",
+      "status": "pass",
+      "assessment": "Confusion during intense heat exposure changes the response from shaded rest to emergency activation and active cooling. Impaired swallowing is appropriately incorporated into avoiding oral rehydration as the immediate response.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3b6dd645fac18a1e1a86def32ed08ae48781e166af4efdcae0547d6135fee19c",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-172",
+      "status": "pass",
+      "assessment": "Stopped shivering without actual warming plus slurred speech suggests systemic hypothermia deterioration. It does not mistake reduced shivering for successful rewarming or reduce the problem to local frostbite.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "466563dd868bdee7ed79ac66e748c7d503d0d131fb5fd12794a05f887f27ca8c",
+      "priorReviewStatus": "pass",
+      "unchangedFromPriorReview": true
+    },
+    {
+      "id": "x-adaptation-173",
+      "status": "pass",
+      "assessment": "Refreezing prevention and controlled rewarming are explicit. Rubbing and uncontrolled direct heat to insensate tissue can injure it; ring removal and protection are appropriate alternatives despite the negatively framed SATA task.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "27f5e18f9fdb86c08cd4afc5cdddaa261c2239fd9528414eae149b89aaabc7bb",
+      "priorReviewStatus": "pass",
+      "unchangedFromPriorReview": true
+    },
+    {
+      "id": "x-adaptation-174",
+      "status": "pass",
+      "assessment": "Serial tachypnoea and falling oxygenation after submersion justify urgent respiratory assessment despite preserved consciousness. Anxiety, apparent cough clearance and brief exertion do not explain the worsening objective trend.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4af4c2f69251a4061382580f0279e44f67cbe53a76c36a893c945cbc8cf6ac72",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    },
+    {
+      "id": "x-adaptation-175",
+      "status": "revise",
+      "assessment": "Recovery across core temperature, cognition and circulation is the right criterion. The key is still the longest and uses a broad target statement against nonparallel partial observations; use comparable core-temperature/pulse/neurological clusters.",
+      "issues": [
+        "Recovery across core temperature, cognition and circulation is the right criterion. The key is still the longest and uses a broad target statement against nonparallel partial observations; use comparable core-temperature/pulse/neurological clusters."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Core temperature is 40.1°C and pulse 128/min; skin feels cool but confusion persists",
+          "Core temperature is 39.5°C and pulse 134/min; discomfort improves but disorientation persists",
+          "Core temperature is 39.0°C and pulse 126/min; the client becomes harder to arouse",
+          "Core temperature reaches the team’s target and pulse is 98/min; orientation is restored"
+        ],
+        "why": [
+          "Surface cooling with persistent marked core elevation and confusion does not establish adequate recovery.",
+          "Partial temperature and comfort improvement must be weighed against persistent tachycardia and disorientation.",
+          "A falling temperature does not make decreasing responsiveness reassuring; this neurological change needs prompt reassessment.",
+          "Improvement across core temperature, orientation and circulation supports a favourable response; continue monitoring and follow the clinical cooling plan."
+        ]
+      },
+      "reviewedItemSha256": "33c58f370181829c4ad74f14cbdd754541b0e89558551728f0b2de8a23ffa2ec",
+      "priorReviewStatus": "revise",
+      "unchangedFromPriorReview": false
+    }
+  ]
+}

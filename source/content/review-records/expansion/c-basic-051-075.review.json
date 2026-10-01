@@ -1,0 +1,291 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T16:58:31.317939+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/basic-051-075.json",
+  "sourceSha256": "cf1a131f3262834796df0598be42cb919a71ba71529f1e9e4df5bb343ebafbdd",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-basic-051",
+      "x-basic-052",
+      "x-basic-053",
+      "x-basic-054",
+      "x-basic-055",
+      "x-basic-056",
+      "x-basic-057",
+      "x-basic-058",
+      "x-basic-059",
+      "x-basic-060",
+      "x-basic-061",
+      "x-basic-062",
+      "x-basic-063",
+      "x-basic-064",
+      "x-basic-065",
+      "x-basic-066",
+      "x-basic-067",
+      "x-basic-068",
+      "x-basic-069",
+      "x-basic-070",
+      "x-basic-071",
+      "x-basic-072",
+      "x-basic-073",
+      "x-basic-074",
+      "x-basic-075"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-basic-051",
+      "status": "pass",
+      "assessment": "Changed alertness requires current swallowing readiness review despite an established dysphagia plan; no consistency guarantees airway protection.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8f76ca29e35bcc1b15f58c81e3d778fcb98d6830dd7e97c0c0306379ae39c6ac"
+    },
+    {
+      "id": "x-basic-052",
+      "status": "pass",
+      "assessment": "Firm chunks violate minced texture; thickening only liquid does not correct particle size or establish broth consistency.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a794e88fa5062f16fd9b774e0b83b3c0c24473f97a37a36973c45a620a886571"
+    },
+    {
+      "id": "x-basic-053",
+      "status": "pass",
+      "assessment": "Upright position and completed swallow before next bolus fit slow-assisted plan; rapid alternation/conversation during swallowing challenge coordination.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c78bfef6e74c8d1d3e0d1a54637dd1e8d9175766c79c5d2dd8c1f3791683eec9"
+    },
+    {
+      "id": "x-basic-054",
+      "status": "pass",
+      "assessment": "Poor fluid acceptance warrants timely individualized swallowing-team review; independent thickness changes may compromise safety or hydration.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "cf72b822e2daa752c85dda132893ca92000215464c562989530b39c596185cc1"
+    },
+    {
+      "id": "x-basic-055",
+      "status": "pass",
+      "assessment": "Poststroke cheek retention calls for prescribed oral clearance and inspection rather than additional food or unassessed liquid.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b96c2bb2b7aa5a127dfe6641f5f027153c2fe92a38e93d427e282964dc54243f"
+    },
+    {
+      "id": "x-basic-056",
+      "status": "pass",
+      "assessment": "Supervised scanning supports rehabilitation for observed neglect; centrally mixing or exclusively right-sided feeding bypasses skill practice.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "18720d2b65cdf7da0b87bbd4e8e1055e67c2018cd936e328e42a368f54db49f2"
+    },
+    {
+      "id": "x-basic-057",
+      "status": "revise",
+      "assessment": "Adaptive utensil key is sound; reclined bedside feeding is an unrelated unsafe distractor.",
+      "issues": [
+        "Adaptive utensil key is sound; reclined bedside feeding is an unrelated unsafe distractor."
+      ],
+      "proposedChanges": [
+        "Replace option2 with: Increase spoonful size to reduce the number of movements. Explain that larger loads can increase spillage and do not improve motor control."
+      ],
+      "reviewedItemSha256": "77e1893b3c1c6fb0521debc8e7ae34afd9cf6f902a0ab2eca1e1213ab008ed03"
+    },
+    {
+      "id": "x-basic-058",
+      "status": "pass",
+      "assessment": "Oral pain is the stated barrier; comfort assessment and care precede more food or education alone.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8701973b1a74f183dfcd7d0e316e186bf6a68cd2297126b2767ce8b6f9345bf6"
+    },
+    {
+      "id": "x-basic-059",
+      "status": "pass",
+      "assessment": "Small nutrient-dense frequent portions respond to early satiety while safe swallowing excludes a competing texture problem.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3bebc55684262d60fd27d9d73a376b6549db0402cbe77f4d1a8f56e0a0bbcfb8"
+    },
+    {
+      "id": "x-basic-060",
+      "status": "pass",
+      "assessment": "Protected meal timing plus reliable assistance address repeated missed feeding; lack of staff help cannot be documented as refusal.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "db737989fb7dca97c650828d369a29b4681e47a1236a4f87422880dd1ff8419a"
+    },
+    {
+      "id": "x-basic-061",
+      "status": "pass",
+      "assessment": "Requested familiar foods already meet ordered diet; coordination supports actual intake and preference without unverified substitutions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8c10b6444addd4ff1f8e13df7d54191d823c6d2382e803219825321d554a01c5"
+    },
+    {
+      "id": "x-basic-062",
+      "status": "revise",
+      "assessment": "Spreading allowance is correct; reserving the entire allowance until evening is an implausible countermeasure.",
+      "issues": [
+        "Spreading allowance is correct; reserving the entire allowance until evening is an implausible countermeasure."
+      ],
+      "proposedChanges": [
+        "Replace option3 with: Keep the breakfast allowance unchanged and give the evening portion only with medications. Explain that small medication portions may not address avoidable early overuse; the whole-day plan should be reviewed."
+      ],
+      "reviewedItemSha256": "7059d6542175829d8817001115499da810e8dadfe2ce2fee0e6d0a3388ae3fd4"
+    },
+    {
+      "id": "x-basic-063",
+      "status": "revise",
+      "assessment": "Oral hygiene and accounting for ice are sound; salty snacks to stimulate drinking contradict the restriction implausibly.",
+      "issues": [
+        "Oral hygiene and accounting for ice are sound; salty snacks to stimulate drinking contradict the restriction implausibly."
+      ],
+      "proposedChanges": [
+        "Replace option0 with: Use an alcohol-containing mouth rinse whenever dryness returns. Explain that such rinses may worsen oral dryness rather than relieve it."
+      ],
+      "reviewedItemSha256": "368ffd1d33669c38d3b30f2a6a83070b790eee4d970aff40a61aa5c15221f32d"
+    },
+    {
+      "id": "x-basic-064",
+      "status": "pass",
+      "assessment": "Food-specific quantities reveal nutrient pattern more directly than tray fraction or motive labels.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "00feb40127293b35ab6b942b5ffc5e167bf9625c73696e3218bdd3a31c2ac5b9"
+    },
+    {
+      "id": "x-basic-065",
+      "status": "pass",
+      "assessment": "Lentils are the clear substantial plant protein source; classify as foundation nutritional knowledge rather than clinical application.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "53d1123b7c98dd7147e785d10872f75778632a92b45aba0dbc52fedcab24aa8b"
+    },
+    {
+      "id": "x-basic-066",
+      "status": "revise",
+      "assessment": "Package colour/pictures is filler in a nursing teaching decision.",
+      "issues": [
+        "Package colour/pictures is filler in a nursing teaching decision."
+      ],
+      "proposedChanges": [
+        "Replace option1 with: Compare sodium per serving without checking how many servings are in the container. Explain that label serving sizes can conceal greater sodium in the amount actually eaten."
+      ],
+      "reviewedItemSha256": "d36c9177ec69ae8c2f55a0028a547670236acf0524722b35ff2e0aa7642ce59c"
+    },
+    {
+      "id": "x-basic-067",
+      "status": "pass",
+      "assessment": "Unknown gravy may contain wheat; verifying ingredients is defensible. Rice avoidance tests a recognizable gluten/grain misconception.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2b8ffba6fcef05b603dedf681daca7efa8445d3438c9a86290346185033da883"
+    },
+    {
+      "id": "x-basic-068",
+      "status": "revise",
+      "assessment": "Lactose-free equivalent is sound; avoiding breakfast entirely is cartoonish. All-calcium-food removal is also excessively broad.",
+      "issues": [
+        "Lactose-free equivalent is sound; avoiding breakfast entirely is cartoonish. All-calcium-food removal is also excessively broad."
+      ],
+      "proposedChanges": [
+        "Replace option1 with: Remove all dairy products before considering a lactose-free option. Replace option3 with: Replace milk with an unfortified plant beverage without reviewing nutrient content. Explain that tolerated/nutritionally comparable alternatives better preserve intake."
+      ],
+      "reviewedItemSha256": "4131be38a91cc721d67901ec127237ae83fbf6bd9967327ad66f2e03a6105bf4"
+    },
+    {
+      "id": "x-basic-069",
+      "status": "pass",
+      "assessment": "Persistent reduced intake and unintentional weight loss support dietitian assessment; timing preference alone is weaker evidence.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "feb50559e6c334ac94ab22a4681c484127716a6564ea97d59898b137d90c69f5"
+    },
+    {
+      "id": "x-basic-070",
+      "status": "revise",
+      "assessment": "Tube flushes cleaning the mouth is an implausible anatomical misconception.",
+      "issues": [
+        "Tube flushes cleaning the mouth is an implausible anatomical misconception."
+      ],
+      "proposedChanges": [
+        "Replace option1 with: Use moistened oral swabs alone instead of toothbrushing for a client with natural teeth. Explain that swabs can moisten but do not replace effective plaque removal."
+      ],
+      "reviewedItemSha256": "c5327f7a94dc11cb825fa10e113019364ac626d69a1b96de9637ac8784f1c039"
+    },
+    {
+      "id": "x-basic-071",
+      "status": "revise",
+      "assessment": "Reviewing intolerance is sound; advancing faster to final rate in nausea is an implausible countermeasure.",
+      "issues": [
+        "Reviewing intolerance is sound; advancing faster to final rate in nausea is an implausible countermeasure."
+      ],
+      "proposedChanges": [
+        "Replace option2 with: Give the next prescribed antiemetic and continue rate increases without reassessing symptoms. Explain that symptom suppression does not replace tolerance review before progression."
+      ],
+      "reviewedItemSha256": "4b7af269d7ac0c451b74abad039e1a1a8e1e95bbbf343593d7403db287dc9a26"
+    },
+    {
+      "id": "x-basic-072",
+      "status": "revise",
+      "assessment": "Normal individual bowel pattern key is defensible, but restricting fluids is irrelevant and diagnosing impaction without cues is weak.",
+      "issues": [
+        "Normal individual bowel pattern key is defensible, but restricting fluids is irrelevant and diagnosing impaction without cues is weak."
+      ],
+      "proposedChanges": [
+        "Replace option2 with: The client should aim for a daily bowel movement regardless of comfort. Replace option3 with: Add a stimulant laxative whenever a day passes without stool. Explain that comfortable soft baseline stool does not establish constipation requiring a fixed daily target."
+      ],
+      "reviewedItemSha256": "6ca16018847288af9bcb20dc428f8095f2afcded104bb4d164af508903d2ef48"
+    },
+    {
+      "id": "x-basic-073",
+      "status": "pass",
+      "assessment": "Observed urge after breakfast supports a protected routine; imposed timing or repeated postponement misses the individual pattern.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "bcb4d9758a92197e4827882deb7984fe875b7e92a8492a0a4d9d8e85aff742d8"
+    },
+    {
+      "id": "x-basic-074",
+      "status": "revise",
+      "assessment": "Correct gradual fibre key is surrounded by unrealistic permanent avoidance, fluid restriction and doubling again.",
+      "issues": [
+        "Correct gradual fibre key is surrounded by unrealistic permanent avoidance, fluid restriction and doubling again."
+      ],
+      "proposedChanges": [
+        "Rebuild alternatives as plausible errors: Maintain the abrupt higher amount and expect symptoms to settle without adjustment; Switch immediately to a concentrated fibre supplement at the same increased total; Increase fibre further before reviewing fluid intake. Explain rate of introduction and fluid context for each."
+      ],
+      "reviewedItemSha256": "d0fb1ecfb0ba8293560970c4639c669ece7bd75dbb1c38756e1ea9908aedd6e2"
+    },
+    {
+      "id": "x-basic-075",
+      "status": "revise",
+      "assessment": "Foot support is correct; indefinite toilet sitting and rigid backward lean are poor distractors.",
+      "issues": [
+        "Foot support is correct; indefinite toilet sitting and rigid backward lean are poor distractors."
+      ],
+      "proposedChanges": [
+        "Replace option0 with: Encourage repeated breath-holding and straining to compensate for the high seat. Replace option3 with: Add another raised seat to make transfers easier without reviewing foot contact. Explain that stable feet and safe posture should be assessed rather than compensating with straining or increased height; change existing option2 to a distinct unsupported no-foot-contact posture if needed."
+      ],
+      "reviewedItemSha256": "88cdb182929371aa0769c75abb0eb15334a4b6638c0cb0a3f4c64d6b9e7f1a78"
+    }
+  ],
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

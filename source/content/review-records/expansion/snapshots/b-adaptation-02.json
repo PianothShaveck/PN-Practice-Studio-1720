@@ -1,0 +1,815 @@
+[
+  {
+    "id": "x-adaptation-026",
+    "cat": "adaptation",
+    "title": "Recognize compensated shock",
+    "stem": "After significant fluid loss, a client's blood pressure remains near baseline but pulse rises, extremities cool and urine output falls. What is the best interpretation?",
+    "type": "single",
+    "options": [
+      "Cool hands alone explain the low urine output",
+      "The pulse change proves anxiety is the primary problem",
+      "Compensation may be maintaining pressure despite reduced perfusion",
+      "Shock is excluded until systolic pressure falls below a fixed cutoff"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Peripheral temperature does not explain the whole pattern of reduced organ perfusion.",
+      "Anxiety cannot account safely for the combined clinical trend.",
+      "Normal pressure does not exclude evolving shock when other perfusion signs worsen.",
+      "Perfusion can deteriorate before marked hypotension develops."
+    ],
+    "takeaway": "Normal pressure does not exclude evolving shock when other perfusion signs worsen.",
+    "refs": [
+      "b-shock"
+    ],
+    "exhibit": null,
+    "subtopic": "Circulatory deterioration",
+    "learningObjective": "Recognize reduced tissue perfusion despite a compensated blood pressure.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-027",
+    "cat": "adaptation",
+    "title": "Evaluate response to volume resuscitation",
+    "stem": "A client receives prescribed fluid resuscitation for hypovolemia. Which changes support improved perfusion? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Urine output increases while peripheral warmth improves",
+      "Blood pressure rises while confusion becomes worse",
+      "Pulse slows only after a sedative is given",
+      "Crackles and oxygen needs increase",
+      "Alertness improves toward the client's baseline"
+    ],
+    "answer": [
+      0,
+      4
+    ],
+    "why": [
+      "Renal output and peripheral circulation provide complementary response measures.",
+      "One improved pressure reading does not outweigh deteriorating neurological function.",
+      "Medication-related rate change does not establish restored perfusion.",
+      "These may indicate fluid intolerance rather than successful resuscitation.",
+      "Improving mentation suggests better cerebral perfusion."
+    ],
+    "takeaway": "Improving mentation suggests better cerebral perfusion.",
+    "refs": [
+      "b-shock"
+    ],
+    "exhibit": null,
+    "subtopic": "Circulatory deterioration",
+    "learningObjective": "Evaluate resuscitation using organ-function and peripheral-circulation trends.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "challenge",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-028",
+    "cat": "adaptation",
+    "title": "Reassess fluids when congestion emerges",
+    "stem": "A client with heart failure receives a prescribed IV fluid challenge for low pressure. New crackles and increasing breathlessness develop during infusion. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Pause the infusion and urgently reassess/report the change",
+      "Finish the prescribed volume before reassessing breathing",
+      "Increase the rate because blood pressure remains low",
+      "Ask the client to cough before deciding whether the findings matter"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Emerging congestion suggests the client may not tolerate continued fluid delivery.",
+      "Completing the volume may worsen pulmonary congestion.",
+      "Low pressure does not establish that more fluid is safe.",
+      "Coughing alone cannot resolve the new fluid-tolerance concern."
+    ],
+    "takeaway": "Emerging congestion suggests the client may not tolerate continued fluid delivery.",
+    "refs": [
+      "b-heart-failure"
+    ],
+    "exhibit": null,
+    "subtopic": "Heart failure deterioration",
+    "learningObjective": "Reassess fluid tolerance when pulmonary congestion develops during a prescribed challenge.",
+    "reasoningSkill": "priority",
+    "difficulty": "challenge",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-029",
+    "cat": "adaptation",
+    "title": "Recognize possible ischemia without prominent chest pain",
+    "stem": "An older adult with diabetes develops unexplained sweating, nausea and unusual breathlessness during rest. They deny chest pain. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Ask the client to walk to distinguish anxiety from cardiac symptoms",
+      "Prompt assessment for possible acute coronary syndrome",
+      "Treat nausea first and reassess only after the next meal",
+      "Exclude cardiac disease because discomfort is absent"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Exertion is inappropriate while acute ischemia is being considered.",
+      "Ischemia may present with symptoms other than prominent chest pain.",
+      "Delaying cardiac assessment can miss time-sensitive ischemia.",
+      "Absence of chest pain does not safely exclude ischemia."
+    ],
+    "takeaway": "Ischemia may present with symptoms other than prominent chest pain.",
+    "refs": [
+      "b-cardiovascular"
+    ],
+    "exhibit": null,
+    "subtopic": "Acute coronary syndromes",
+    "learningObjective": "Consider coronary ischemia when autonomic and respiratory symptoms occur without prominent chest pain.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-030",
+    "cat": "adaptation",
+    "title": "Respond to recurrent symptoms after a nondiagnostic test",
+    "stem": "A client being assessed for possible coronary ischemia had an initially nondiagnostic ECG. Chest pressure recurs with sweating. What is the best action?",
+    "type": "single",
+    "options": [
+      "Wait for the next routine observation time",
+      "Offer an antacid and consider relief diagnostic",
+      "Reassess promptly and reactivate the chest-pain pathway",
+      "Reassure that the initial ECG ruled out a cardiac cause"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Recurrent symptoms require reassessment when they occur.",
+      "Symptom relief after an antacid cannot reliably exclude ischemia.",
+      "An earlier nondiagnostic result does not exclude an evolving event.",
+      "Early investigations may not establish the final diagnosis."
+    ],
+    "takeaway": "An earlier nondiagnostic result does not exclude an evolving event.",
+    "refs": [
+      "b-cardiovascular"
+    ],
+    "exhibit": null,
+    "subtopic": "Acute coronary syndromes",
+    "learningObjective": "Reassess recurrent ischemic symptoms despite an initially nondiagnostic ECG.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-031",
+    "cat": "adaptation",
+    "title": "Recognize a changing angina pattern",
+    "stem": "A client previously had brief exertional discomfort relieved by rest. Pain now occurs at rest and lasts longer. What should the nurse recommend?",
+    "type": "single",
+    "options": [
+      "Continue the same activity plan until the next clinic visit",
+      "Increase exercise to improve coronary conditioning",
+      "Use the previous stable diagnosis to reassure the client",
+      "Urgent assessment of the changed pattern"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "The pattern has changed in a potentially important way.",
+      "Exercise during possible instability may worsen ischemia.",
+      "An old diagnosis does not establish the safety of new symptoms.",
+      "New rest pain or increasing duration can indicate unstable ischemia."
+    ],
+    "takeaway": "New rest pain or increasing duration can indicate unstable ischemia.",
+    "refs": [
+      "b-cardiovascular"
+    ],
+    "exhibit": null,
+    "subtopic": "Acute coronary syndromes",
+    "learningObjective": "Escalate an angina pattern that changes from exertional symptoms to prolonged rest pain.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-032",
+    "cat": "adaptation",
+    "title": "Control bleeding after femoral access",
+    "stem": "A client recently returned from femoral arterial catheterization has fresh bleeding at the site and a growing hematoma. What should the competent nurse do first?",
+    "type": "single",
+    "options": [
+      "Apply prescribed-protocol direct pressure and summon help",
+      "Assist the client to the toilet before reassessing",
+      "Cover with another dressing and measure the hematoma later",
+      "Remove the dressing and leave the site exposed for observation"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Immediate local control and escalation address active access-site bleeding.",
+      "Movement can worsen bleeding and delay control.",
+      "A dressing alone may not control active arterial bleeding.",
+      "Observation without bleeding control does not address the immediate threat."
+    ],
+    "takeaway": "Immediate local control and escalation address active access-site bleeding.",
+    "refs": [
+      "b-cardiovascular"
+    ],
+    "exhibit": null,
+    "subtopic": "Post-procedure circulation",
+    "learningObjective": "Apply immediate protocol-based control for active femoral arterial access-site bleeding.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-033",
+    "cat": "adaptation",
+    "title": "Recognize occult bleeding after arterial access",
+    "stem": "After femoral catheterization, a client becomes hypotensive with new back/flank pain. The visible groin dressing is dry. What should the nurse suspect?",
+    "type": "single",
+    "options": [
+      "An isolated anxiety response to the procedure",
+      "Possible internal bleeding despite a dry external site",
+      "Normal soreness from lying flat",
+      "A dry dressing excludes procedure-related bleeding"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Anxiety does not safely explain hypotension and new flank pain.",
+      "Retroperitoneal bleeding may occur without obvious dressing saturation.",
+      "Hypotension with new pain requires more than comfort measures.",
+      "The dressing cannot show blood accumulating internally."
+    ],
+    "takeaway": "Retroperitoneal bleeding may occur without obvious dressing saturation.",
+    "refs": [
+      "b-cardiovascular"
+    ],
+    "exhibit": null,
+    "subtopic": "Post-procedure circulation",
+    "learningObjective": "Recognize possible internal post-procedure bleeding despite a dry groin dressing.",
+    "reasoningSkill": "priority",
+    "difficulty": "challenge",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-034",
+    "cat": "adaptation",
+    "title": "Prioritize symptoms during tachyarrhythmia",
+    "stem": "A monitor shows a rapid irregular rhythm. The client has new chest pressure, confusion and low blood pressure. What should guide urgency?",
+    "type": "single",
+    "options": [
+      "A previously tolerated rapid pulse makes this episode low risk",
+      "The client is awake, so the rhythm can wait for routine review",
+      "The evidence of poor perfusion and ischemic symptoms",
+      "The rhythm's name must be documented before calling for help"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Past tolerance does not establish safety during current symptoms.",
+      "Wakefulness does not exclude serious hemodynamic instability.",
+      "Clinical instability determines the need for immediate escalation and treatment.",
+      "Detailed classification must not delay responding to an unstable client."
+    ],
+    "takeaway": "Clinical instability determines the need for immediate escalation and treatment.",
+    "refs": [
+      "b-cardiovascular"
+    ],
+    "exhibit": null,
+    "subtopic": "Rhythm-related instability",
+    "learningObjective": "Prioritize signs of hemodynamic instability during a rapid irregular rhythm.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-035",
+    "cat": "adaptation",
+    "title": "Assess bradycardia using client condition",
+    "stem": "A client has a pulse of 38/min, new confusion and faintness. Another client has a usual resting pulse of 52/min without symptoms. Who needs immediate assessment?",
+    "type": "single",
+    "options": [
+      "Both clients have identical urgency based solely on pulse below 60/min",
+      "The client at 52/min because symptoms have not developed yet",
+      "Neither until a full medication list is obtained",
+      "The client at 38/min with altered mentation"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Clinical baseline and symptoms affect urgency.",
+      "The other client already has evidence of compromise.",
+      "History must not delay assessment of current instability.",
+      "Symptoms indicate impaired perfusion associated with marked bradycardia."
+    ],
+    "takeaway": "Symptoms indicate impaired perfusion associated with marked bradycardia.",
+    "refs": [
+      "b-cardiovascular"
+    ],
+    "exhibit": null,
+    "subtopic": "Rhythm-related instability",
+    "learningObjective": "Distinguish symptomatic bradycardia from an asymptomatic established low resting pulse.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-036",
+    "cat": "adaptation",
+    "title": "Recognize possible pacemaker capture failure",
+    "stem": "A client with an implanted pacemaker becomes dizzy. Monitor pacing spikes are repeatedly not followed by the expected ventricular complexes. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Urgently assess perfusion and report possible failure to capture",
+      "Assume the visible spikes prove the pacemaker is working",
+      "Apply routine reassurance because dizziness is common after meals",
+      "Wait for the next device clinic appointment"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Electrical pacing signals without subsequent depolarization may not produce an effective pulse.",
+      "Spikes alone do not demonstrate myocardial capture or perfusion.",
+      "The monitor change and symptoms require cardiac assessment.",
+      "Potential symptomatic pacing failure requires earlier evaluation."
+    ],
+    "takeaway": "Electrical pacing signals without subsequent depolarization may not produce an effective pulse.",
+    "refs": [
+      "b-cardiovascular"
+    ],
+    "exhibit": null,
+    "subtopic": "Rhythm-related instability",
+    "learningObjective": "Recognize symptomatic pacing spikes without corresponding ventricular capture.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-037",
+    "cat": "adaptation",
+    "title": "Recognize possible acute aortic disease",
+    "stem": "A client reports abrupt severe chest pain extending into the back, and arm pressures differ substantially. What is the priority?",
+    "type": "single",
+    "options": [
+      "Use the lower arm reading to classify the client as stable",
+      "Activate urgent assessment for a possible acute aortic emergency",
+      "Treat it as usual musculoskeletal strain before reassessment",
+      "Apply a heat pack and review response before notifying anyone"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Choosing one pressure does not resolve the unexplained asymmetry.",
+      "The abrupt pain and perfusion asymmetry require immediate evaluation.",
+      "The combined findings suggest a potentially life-threatening vascular cause.",
+      "Comfort measures must not delay time-sensitive assessment."
+    ],
+    "takeaway": "The abrupt pain and perfusion asymmetry require immediate evaluation.",
+    "refs": [
+      "b-cardiovascular"
+    ],
+    "exhibit": null,
+    "subtopic": "Vascular emergencies",
+    "learningObjective": "Identify an acute aortic warning pattern from abrupt pain and pressure asymmetry.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-038",
+    "cat": "adaptation",
+    "title": "Escalate suspected aneurysm rupture",
+    "stem": "A client with a known abdominal aortic aneurysm develops sudden abdominal/back pain, pallor and falling pressure. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Assist the client to walk to relieve back discomfort",
+      "Arrange routine imaging after the next analgesic dose",
+      "Activate emergency response and support circulation under protocol",
+      "Repeat firm abdominal palpation to confirm the aneurysm"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Mobilization is unsafe with suspected hemorrhagic instability.",
+      "Suspected rupture requires urgent evaluation rather than routine scheduling.",
+      "The pattern suggests possible rupture with internal hemorrhage.",
+      "Repeated palpation adds no necessary confirmation and delays emergency care."
+    ],
+    "takeaway": "The pattern suggests possible rupture with internal hemorrhage.",
+    "refs": [
+      "b-cardiovascular"
+    ],
+    "exhibit": null,
+    "subtopic": "Vascular emergencies",
+    "learningObjective": "Escalate possible aneurysm rupture with circulatory compromise.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-039",
+    "cat": "adaptation",
+    "title": "Identify acute limb ischemia",
+    "stem": "A client suddenly develops a painful cold pale foot with a newly absent pedal pulse. What is the priority?",
+    "type": "single",
+    "options": [
+      "Apply a compression stocking for suspected venous swelling",
+      "Elevate the limb well above heart level",
+      "Encourage walking until the foot warms",
+      "Urgent vascular assessment while protecting the limb"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Compression does not treat arterial obstruction and may worsen perfusion.",
+      "High elevation can further reduce arterial blood supply.",
+      "Exertion increases oxygen demand in an ischemic limb.",
+      "Sudden loss of perfusion threatens tissue viability."
+    ],
+    "takeaway": "Sudden loss of perfusion threatens tissue viability.",
+    "refs": [
+      "b-cardiovascular"
+    ],
+    "exhibit": null,
+    "subtopic": "Vascular emergencies",
+    "learningObjective": "Recognize and protect a limb with sudden arterial perfusion loss.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-040",
+    "cat": "adaptation",
+    "title": "Recognize progression to ischemic rest pain",
+    "stem": "A client with peripheral arterial disease previously had pain only when walking. They now wake with foot pain at rest and a cool toe ulcer. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Promptly report worsening limb perfusion",
+      "Continue the usual walking plan without review",
+      "Apply tight elastic compression to improve circulation",
+      "Wait until fever appears to report the ulcer"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Rest pain and tissue injury suggest more severe ischemia.",
+      "A new rest-pain pattern requires reassessment before routine exercise advice.",
+      "Arterial insufficiency requires assessment before compression is considered.",
+      "Ischemic tissue injury can be serious without infection or fever."
+    ],
+    "takeaway": "Rest pain and tissue injury suggest more severe ischemia.",
+    "refs": [
+      "b-cardiovascular"
+    ],
+    "exhibit": null,
+    "subtopic": "Vascular emergencies",
+    "learningObjective": "Report progression from claudication to ischemic rest pain and tissue injury.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-041",
+    "cat": "adaptation",
+    "title": "Track meaningful heart-failure improvement",
+    "stem": "A client is treated for decompensated heart failure. Which trends support an improving clinical response? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Resting saturation stays unchanged on progressively more oxygen",
+      "The client reports less anxiety but cannot finish sentences",
+      "Less orthopnea at the same oxygen setting",
+      "Daily weight decreases toward the treatment goal with stable perfusion",
+      "Edema decreases while dizziness and oliguria develop"
+    ],
+    "answer": [
+      2,
+      3
+    ],
+    "why": [
+      "Increasing support may conceal worsening gas exchange.",
+      "Reduced anxiety does not offset severe ongoing breathlessness.",
+      "Improved tolerance of reclining suggests less pulmonary congestion.",
+      "Weight change is useful when interpreted with circulation and symptoms.",
+      "Reduced edema can coexist with harmful intravascular depletion."
+    ],
+    "takeaway": "Improved tolerance of reclining suggests less pulmonary congestion.",
+    "refs": [
+      "b-heart-failure"
+    ],
+    "exhibit": null,
+    "subtopic": "Heart failure deterioration",
+    "learningObjective": "Distinguish useful heart-failure decongestion from worsening support or perfusion needs.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-042",
+    "cat": "adaptation",
+    "title": "Identify a heart-failure deterioration report",
+    "stem": "At home, a client with heart failure needs extra pillows, develops more leg swelling and can walk much less than last week. What is best?",
+    "type": "single",
+    "options": [
+      "Drink extra fluid to improve exercise tolerance",
+      "Use bed rest alone until symptoms disappear",
+      "Contact the treatment team promptly using the action plan",
+      "Wait for the next monthly appointment because edema is chronic"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Extra intake may worsen congestion without an individualized indication.",
+      "Rest does not address possible decompensated heart failure.",
+      "The combined changes suggest increasing congestion and declining function.",
+      "The change from baseline warrants earlier review."
+    ],
+    "takeaway": "The combined changes suggest increasing congestion and declining function.",
+    "refs": [
+      "b-heart-failure"
+    ],
+    "exhibit": null,
+    "subtopic": "Heart failure deterioration",
+    "learningObjective": "Recognize a cluster of worsening home heart-failure symptoms requiring timely review.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-043",
+    "cat": "adaptation",
+    "title": "Recognize possible neurogenic shock",
+    "stem": "After a high spinal injury, a client is hypotensive with a slow pulse and warm dry skin. What pattern should the nurse report?",
+    "type": "single",
+    "options": [
+      "Blood loss is excluded because the skin is warm",
+      "All hypotension after trauma must produce tachycardia",
+      "The findings represent uncomplicated sleep",
+      "Possible loss of sympathetic vascular tone"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Other injuries can coexist and still require assessment.",
+      "Disrupted sympathetic pathways can alter the expected pulse response.",
+      "Hypotension after spinal trauma requires urgent physiological review.",
+      "Neurogenic shock can produce vasodilation and relative bradycardia."
+    ],
+    "takeaway": "Neurogenic shock can produce vasodilation and relative bradycardia.",
+    "refs": [
+      "b-shock"
+    ],
+    "exhibit": null,
+    "subtopic": "Shock mechanisms",
+    "learningObjective": "Recognize possible neurogenic shock while continuing assessment for coexisting injuries.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-044",
+    "cat": "adaptation",
+    "title": "Reassess perfusion after a transient pressure response",
+    "stem": "After initial treatment of shock, blood pressure improves briefly, but urine output remains low and confusion increases. What is the best conclusion?",
+    "type": "single",
+    "options": [
+      "Perfusion may remain inadequate despite the improved reading",
+      "The client has recovered because pressure briefly normalized",
+      "The low output can be ignored until the next day",
+      "Confusion should be treated as agitation before reassessment"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Organ-function trends show that resuscitation may still be insufficient.",
+      "A transient pressure response alone does not demonstrate recovery.",
+      "Persistent low output can indicate ongoing renal hypoperfusion.",
+      "Sedation may obscure deterioration without correcting its cause."
+    ],
+    "takeaway": "Organ-function trends show that resuscitation may still be insufficient.",
+    "refs": [
+      "b-shock"
+    ],
+    "exhibit": null,
+    "subtopic": "Shock mechanisms",
+    "learningObjective": "Evaluate persistent organ dysfunction despite a transient improvement in blood pressure.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "challenge",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-045",
+    "cat": "adaptation",
+    "title": "Recognize findings of impaired perfusion",
+    "stem": "A client with an acute circulatory problem is being reassessed. Which findings support impaired organ perfusion? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "New confusion compared with baseline",
+      "Falling urine output despite a patent catheter",
+      "New mottling despite a preserved blood pressure",
+      "Warm hands after blankets are applied with unchanged mentation",
+      "Usual walking tolerance with unchanged alertness"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "why": [
+      "Reduced cerebral perfusion can alter mentation.",
+      "Reduced renal perfusion can decrease urine production.",
+      "Mottling can signal poor peripheral perfusion even when pressure is maintained.",
+      "External warming alone does not establish restored organ perfusion.",
+      "Stable function and mentation do not support new organ hypoperfusion."
+    ],
+    "takeaway": "Reduced cerebral perfusion can alter mentation.",
+    "refs": [
+      "b-cardiovascular"
+    ],
+    "exhibit": null,
+    "subtopic": "Cardiac and peripheral perfusion",
+    "learningObjective": "Select clinical evidence of impaired cerebral, renal and peripheral perfusion.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-046",
+    "cat": "adaptation",
+    "title": "Maintain hemorrhage control when a dressing saturates",
+    "stem": "A pressure dressing over an actively bleeding limb wound becomes soaked while help is on the way. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Remove all pressure whenever the client reports discomfort",
+      "Focus on measuring the stain before continuing pressure",
+      "Maintain firm pressure and add material as indicated by protocol",
+      "Repeatedly lift the dressing to inspect whether clotting occurred"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Pain needs assessment, but uncontrolled hemorrhage remains an immediate threat.",
+      "Measurement should not interrupt active bleeding control.",
+      "Ongoing pressure supports hemostasis while definitive help is arranged.",
+      "Disrupting the site can disturb developing clots."
+    ],
+    "takeaway": "Ongoing pressure supports hemostasis while definitive help is arranged.",
+    "refs": [
+      "b-shock"
+    ],
+    "exhibit": null,
+    "subtopic": "Hemorrhage management",
+    "learningObjective": "Maintain immediate external hemorrhage control while arranging definitive treatment.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-047",
+    "cat": "adaptation",
+    "title": "Respond to a new suspected deep-vein thrombosis",
+    "stem": "A postoperative client has new unilateral calf swelling and tenderness without chest symptoms. What is most appropriate?",
+    "type": "single",
+    "options": [
+      "Massage the calf and then repeat circumference",
+      "Apply the existing exercise plan without reporting the change",
+      "Wait for dyspnea to confirm whether the swelling matters",
+      "Arrange prompt assessment and follow the activity plan pending evaluation"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Massage does not treat possible thrombosis and may be harmful.",
+      "A new vascular concern changes the assessment needed before activity.",
+      "Potential thrombosis warrants assessment before embolic symptoms develop.",
+      "The findings need evaluation for thrombosis before routine mobility decisions."
+    ],
+    "takeaway": "The findings need evaluation for thrombosis before routine mobility decisions.",
+    "refs": [
+      "b-cardiovascular"
+    ],
+    "exhibit": null,
+    "subtopic": "Venous thromboembolism",
+    "learningObjective": "Escalate suspected venous thrombosis before routine activity decisions.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-048",
+    "cat": "adaptation",
+    "title": "Confirm a concerning pulse deficit",
+    "stem": "A client reports palpitations. The apical rate is faster than the radial pulse. What should the nurse do next?",
+    "type": "single",
+    "options": [
+      "Assess the rhythm, symptoms and perfusion and report the deficit",
+      "Record only the lower rate because it is easier to count",
+      "Average the two rates and chart a single normal value",
+      "Assume the radial measurement is wrong without rechecking"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Some contractions may not create a palpable peripheral pulse.",
+      "The discrepancy itself is clinically relevant information.",
+      "An average obscures the pulse deficit rather than explaining it.",
+      "Verification is needed before dismissing a potentially important finding."
+    ],
+    "takeaway": "Some contractions may not create a palpable peripheral pulse.",
+    "refs": [
+      "b-cardiovascular"
+    ],
+    "exhibit": null,
+    "subtopic": "Circulatory assessment",
+    "learningObjective": "Verify and report a pulse deficit rather than concealing it in an averaged rate.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-049",
+    "cat": "adaptation",
+    "title": "Recognize ongoing bleeding despite initial hemoglobin",
+    "stem": "A client with fresh gastrointestinal bleeding is tachycardic and pale. The first hemoglobin result remains within the supplied reference range. What should guide care?",
+    "type": "single",
+    "options": [
+      "Wait for the next day's blood count before reviewing treatment",
+      "The active bleeding and circulatory findings require urgent assessment",
+      "A normal hemoglobin excludes clinically important hemorrhage",
+      "Only the stool colour determines whether escalation is needed"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Delaying care may allow hemodynamic compromise to worsen.",
+      "Early hemoglobin may not yet reflect the full acute blood loss.",
+      "Initial concentration can be misleading during acute blood loss.",
+      "Circulatory symptoms are critical to judging severity."
+    ],
+    "takeaway": "Early hemoglobin may not yet reflect the full acute blood loss.",
+    "refs": [
+      "b-shock"
+    ],
+    "exhibit": null,
+    "subtopic": "Circulatory deterioration",
+    "learningObjective": "Recognize significant acute blood loss despite an initially normal hemoglobin concentration.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-050",
+    "cat": "adaptation",
+    "title": "Assess readiness after a syncopal episode",
+    "stem": "A client briefly lost consciousness on standing and is now awake. Which assessments help determine whether it is safe to proceed with routine care? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Reassess vital signs, symptoms and return to baseline mentation",
+      "Review the event, injury risk and relevant medication changes",
+      "Resume unassisted walking because consciousness returned",
+      "Treat a normal single supine pressure as a complete assessment",
+      "Provide reassurance without checking for injury"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "why": [
+      "Recovery should be evaluated rather than inferred from wakefulness alone.",
+      "Context can identify ongoing causes or consequences of syncope.",
+      "Recurrence and injury risk remain unresolved.",
+      "The event may involve posture, rhythm or other factors not captured by one reading.",
+      "A fall-related injury can be present despite apparent recovery."
+    ],
+    "takeaway": "Recovery should be evaluated rather than inferred from wakefulness alone.",
+    "refs": [
+      "b-cardiovascular"
+    ],
+    "exhibit": null,
+    "subtopic": "Recovery after acute deterioration",
+    "learningObjective": "Assess recovery, injury and ongoing risk after a syncopal episode.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  }
+]

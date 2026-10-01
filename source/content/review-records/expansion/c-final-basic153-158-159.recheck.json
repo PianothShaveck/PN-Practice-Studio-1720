@@ -1,0 +1,75 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:45:48.073234+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/basic-151-175.json",
+  "sourceSha256": "ecf0f364c560ff78fc08400bf85776fbfa4e1b4e06945d824a96d7db891f873f",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 3,
+    "reviewedIds": [
+      "x-basic-153",
+      "x-basic-158",
+      "x-basic-159"
+    ],
+    "unreviewedIds": [
+      "x-basic-151",
+      "x-basic-152",
+      "x-basic-154",
+      "x-basic-155",
+      "x-basic-156",
+      "x-basic-157",
+      "x-basic-160",
+      "x-basic-161",
+      "x-basic-162",
+      "x-basic-163",
+      "x-basic-164",
+      "x-basic-165",
+      "x-basic-166",
+      "x-basic-167",
+      "x-basic-168",
+      "x-basic-169",
+      "x-basic-170",
+      "x-basic-171",
+      "x-basic-172",
+      "x-basic-173",
+      "x-basic-174",
+      "x-basic-175"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-basic-153",
+      "status": "pass",
+      "assessment": "Four-year-old context now supports simple concrete preparation. Anatomical terminology is a plausible developmental mismatch; comfort position and distraction are valid adjuncts, and the bad-intent clause is removed.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3144998f8fd0d4b009a62b50a3fb6c92db2a7504b251d00c026c30b4d6c4a497"
+    },
+    {
+      "id": "x-basic-158",
+      "status": "pass",
+      "assessment": "Current item reread: bring supported infant toward breast to reduce leaning. Specific HealthLink BC breastfeeding-position guidance replaces broad references; no competing better postural adjustment found.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "27b036cf37e37a72ac9c62e10e9e9ecfc5e1b83b3b099b243a93a89345f12a30"
+    },
+    {
+      "id": "x-basic-159",
+      "status": "pass",
+      "assessment": "Current item reread: supported feeding that avoids incision pressure preserves the parent’s role. Specific breastfeeding-position guidance is topic-relevant; no forced single position or independent feeding prescription is taught.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a568d558bebe5af045c851620c4dad7d75a74d9681b1731f912c4cf5a066dd46"
+    }
+  ],
+  "reviewerTask": "/root/review_legacy"
+}

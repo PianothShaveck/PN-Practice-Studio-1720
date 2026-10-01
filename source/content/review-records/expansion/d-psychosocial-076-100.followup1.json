@@ -1,0 +1,282 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T18:26:56.839962+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/d-psychosocial-076-100-recheck.json",
+  "sourceSha256": "a2923ff4898045818fd033e14b2557f1ebd9e140cccea0661c9359b131f6a089",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-psychosocial-076",
+      "x-psychosocial-077",
+      "x-psychosocial-078",
+      "x-psychosocial-079",
+      "x-psychosocial-080",
+      "x-psychosocial-081",
+      "x-psychosocial-082",
+      "x-psychosocial-083",
+      "x-psychosocial-084",
+      "x-psychosocial-085",
+      "x-psychosocial-086",
+      "x-psychosocial-087",
+      "x-psychosocial-088",
+      "x-psychosocial-089",
+      "x-psychosocial-090",
+      "x-psychosocial-091",
+      "x-psychosocial-092",
+      "x-psychosocial-093",
+      "x-psychosocial-094",
+      "x-psychosocial-095",
+      "x-psychosocial-096",
+      "x-psychosocial-097",
+      "x-psychosocial-098",
+      "x-psychosocial-099",
+      "x-psychosocial-100"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://988.ca/",
+      "claims": "Official Canadian service independently retrieved call/text access24/7 and emergency911 distinction; supports077 only."
+    },
+    {
+      "url": "https://openstax.org/books/clinical-nursing-skills/pages/20-1-mental-health-assessment",
+      "claims": "Publisher textbook retrieved for thought-form descriptions supporting096. Used for assessment terminology, not Canadian legislative scope."
+    },
+    {
+      "url": "https://myhealth.alberta.ca/Health/Pages/conditions.aspx?hwid=std120726&lang=en-ca",
+      "claims": "Alberta health information retrieved for dehydration severity context in100; no claim that one isolated sign establishes the cause or that this validates all psychiatric care content."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-psychosocial-076",
+      "status": "pass",
+      "assessment": "Role-specific scenario demonstration tests readiness beyond schedule, contact-storage preference or prior experience; the sibling is not assigned sole responsibility.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "921c9c429bc2a206a4fdeb65a23d0f41e5f553d16fe14eca05d005a4b37b2c39"
+    },
+    {
+      "id": "x-psychosocial-077",
+      "status": "pass",
+      "assessment": "Foundation crisis-resource distinction is correct: call/text988 support, emergency response for immediate danger and accessible contacts. The incorrect substitution is a recognizable pathway confusion.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f340dacb469b23baab2b0036beb484cc0bb764812451fb816882717b4ffab4f0"
+    },
+    {
+      "id": "x-psychosocial-078",
+      "status": "pass",
+      "assessment": "Physical stability and inability to sustain interview are supplied; protection and physical care now with repeated assessment as intoxication resolves avoids waiting for a complete interview.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ebed28ffe562e42c713ed73befeab4aea19cb42808f40efb1835629551603dd4"
+    },
+    {
+      "id": "x-psychosocial-079",
+      "status": "pass",
+      "assessment": "Parallel brief note excerpts distinguish actual reported overdose urge/access and actions from unsupported risk resolution or an invented follow-up plan.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d094c6fc8a019ff6e6da98540a5e0f52d83b736aa658332dc49a1994fe94607e"
+    },
+    {
+      "id": "x-psychosocial-080",
+      "status": "pass",
+      "assessment": "Personal recurrence pattern and spending rent money justify prompt review beyond sleep coaching, routine visits or tracking alone.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8045e4ef46ea0d79128d72a8b55e2d823085cf18f5d4aeed8891b03013bae7d2"
+    },
+    {
+      "id": "x-psychosocial-081",
+      "status": "pass",
+      "assessment": "Concrete short supported meal with safe swallowing and current intake deficit fits limited sustained attention; dining-room meal, later group meal and menu planning are plausible alternatives.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "286b557146064775d3b0e1ce03b91a50af5882a13455df0b5f90c504c1bcab19"
+    },
+    {
+      "id": "x-psychosocial-082",
+      "status": "pass",
+      "assessment": "Foundation environmental/sleep monitoring task has defensible keys; late competitive stimulation is a recognizable tiring-the-client misconception.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d21e4a405c72190d82313a11c8e764d0bf700ac612dd17398fe34742dcc69500"
+    },
+    {
+      "id": "x-psychosocial-083",
+      "status": "pass",
+      "assessment": "Concise actual dialogue establishes an immediate privacy boundary and safe alternative without shaming; explaining impact and future arrangements are plausible but less immediate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8fda119cf03cfad10c3368a65adb87973d0b1406e1e6b649a062df30d16336f7"
+    },
+    {
+      "id": "x-psychosocial-084",
+      "status": "pass",
+      "assessment": "Observed inability to consider consequences, nonurgent purchase and reversible proposed pause support decision assistance without diagnosing financial incapacity from bipolar disorder.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a463333ddaa3f072449c296b9454e023aa8a616ff2d9bac5dfef1e3b376c3389"
+    },
+    {
+      "id": "x-psychosocial-085",
+      "status": "revise",
+      "assessment": "Key is defensible, but option3 and its rationale assume the original question was broad/open-ended; the stem only says a question about sleep.",
+      "issues": [
+        "Key is defensible, but option3 and its rationale assume the original question was broad/open-ended; the stem only says a question about sleep."
+      ],
+      "proposedChanges": [
+        "Include the original question explicitly, e.g Tell me about your sleep over the past week, so repeating the same broad question is a supported comparator."
+      ],
+      "reviewedItemSha256": "b86c57bb073c7fa86a94f677be9468b3441da3229b250e5925b4502e0b59c83f"
+    },
+    {
+      "id": "x-psychosocial-086",
+      "status": "pass",
+      "assessment": "The family applies an individualized sleep-plus-spending contact threshold with client agreement; diary, rest and budget actions do not replace that agreed response.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "46057d99505b5c5b9e1b128dad94394db23e67b2e83152a38dc656fea37d1194"
+    },
+    {
+      "id": "x-psychosocial-087",
+      "status": "pass",
+      "assessment": "Foundation classification matches basic recovery trends in sleep, attention and intake versus continuing impulsivity.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e5b2c0ffa6db5768075c6a6dfd5fad8fe51ea995e42ac8cdd198c8246111ac6a"
+    },
+    {
+      "id": "x-psychosocial-088",
+      "status": "pass",
+      "assessment": "Comparable clinically relevant records now differentiate daily sequence data from nutritional, medication and appointment records; this is distinct from family contact-threshold application.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9e9b934ceeb2af2bf1a0628876696cce09586c4220ceaead07557c0052a77d47"
+    },
+    {
+      "id": "x-psychosocial-089",
+      "status": "revise",
+      "assessment": "Maintenance explanation and exploration are appropriate, but suggesting appointment-spacing discussion only after the next episode resolves is implausible when the client is currently well.",
+      "issues": [
+        "Maintenance explanation and exploration are appropriate, but suggesting appointment-spacing discussion only after the next episode resolves is implausible when the client is currently well."
+      ],
+      "proposedChanges": [
+        "Use a credible immediate proposal such as We can schedule visits farther apart while you feel well. Explain that spacing may be discussed but does not first address the mistaken belief that follow-up is only for illness."
+      ],
+      "reviewedItemSha256": "80ae33aab6d7dafa7d276f9edb3930be16328a3d547f4dedb946fa9a33c0815a"
+    },
+    {
+      "id": "x-psychosocial-090",
+      "status": "pass",
+      "assessment": "Parallel assessment questions let current hopelessness plus activation establish direct suicide inquiry as the priority; physical stability is specified.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "21bf3c1e766441f36bc19684293198b5a8a9672ff52cfcb89410790d4808e934"
+    },
+    {
+      "id": "x-psychosocial-091",
+      "status": "pass",
+      "assessment": "Rested energy and grandiosity after minimal sleep distinguish reduced sleep need from fatigued insomnia, delayed phase and worry-related loss without asserting a definitive diagnosis.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "cd196587c7d981c47df946e17344f2de9c02964d9f17c48be67be1834d17bc48"
+    },
+    {
+      "id": "x-psychosocial-092",
+      "status": "pass",
+      "assessment": "Brief limit and private redirection address current peer-boundary crossing; explanation, peer discussion and group activity change are plausible but less direct approaches.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1c65bd7cbb341938104fc2f1866b92f30ea26c0c86a3f505a9f42eff75524440"
+    },
+    {
+      "id": "x-psychosocial-093",
+      "status": "pass",
+      "assessment": "Actual five-minute focus and loss of multistep sequencing justify simple limited activities and rest over a competitive planning task; application classification is supported.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "344cd01c468d5484640a7f01fef394861c89a09207050f706175fbafd7a5ef43"
+    },
+    {
+      "id": "x-psychosocial-094",
+      "status": "pass",
+      "assessment": "Available client-accepted sealed portions address immediate missed intake without endorsing tampering; tasting, later family meal and inspection explanation are relevant competing strategies.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e7168dcbe5f08b5571772eeda03d11acd97ff31381e35a5c2b14eeb258ddda50"
+    },
+    {
+      "id": "x-psychosocial-095",
+      "status": "pass",
+      "assessment": "Sudden mid-sentence loss of thought is distinct from globally slowed responses; pause and readiness check avoid imposing inferred content.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "77998fcaef48012937e5993ac399dbd53290a532498d742022d8fc599732cf3b"
+    },
+    {
+      "id": "x-psychosocial-096",
+      "status": "pass",
+      "assessment": "Original dialogue and repeated nonreturn to the question support tangential thought form; normal pace and uninterrupted speech distinguish pressured flight and blocking, while circumstantial speech eventually answers.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "49dc4c2ac7e328bb646c0f1a1b68f027001ffe9492edb732209d6e592269911a"
+    },
+    {
+      "id": "x-psychosocial-097",
+      "status": "revise",
+      "assessment": "The rewritten clinical key is sound, but title, subtopic, objective and takeaway still describe support for low initiation/noncooperation rather than assessment of a new alertness change after medication change.",
+      "issues": [
+        "The rewritten clinical key is sound, but title, subtopic, objective and takeaway still describe support for low initiation/noncooperation rather than assessment of a new alertness change after medication change."
+      ],
+      "proposedChanges": [
+        "Align title/subtopic/objective/takeaway to distinguishing new possible sedation or another acute cause from established low initiation. Preserve assessment and medication review, without claiming the drug is the proven cause."
+      ],
+      "reviewedItemSha256": "9f0d2718a2ef0c455f57d340c14c6b926cf27fe593a73d962fa3a5fb43153023"
+    },
+    {
+      "id": "x-psychosocial-098",
+      "status": "pass",
+      "assessment": "Narrow immediate command-action risk task resolves broad-SATA ambiguity; command content, current likelihood and ability to resist directly serve it, while onset/triggers remain relevant longer-term history.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9add30d95753d8859af9f3894eada96ae0eb31c524f62fbad0f4b4abf0449cc9"
+    },
+    {
+      "id": "x-psychosocial-099",
+      "status": "revise",
+      "assessment": "The outcome-based rewrite is clinically coherent, but reasoningSkill remains intervention rather than evaluation.",
+      "issues": [
+        "The outcome-based rewrite is clinically coherent, but reasoningSkill remains intervention rather than evaluation."
+      ],
+      "proposedChanges": [
+        "Set reasoningSkill to evaluation; clinical wording and keys can remain unchanged."
+      ],
+      "reviewedItemSha256": "6f509e889cde8e53f2bdc8dab8f41eb9a1418b9ce9cbf3d912c7c6fdce9e3714"
+    },
+    {
+      "id": "x-psychosocial-100",
+      "status": "pass",
+      "assessment": "The new task selects objective near-syncope and prolonged minimal urine after poor intake/vomiting rather than merely avoiding psychiatric attribution. It is distinct from clozapine bowel hypomotility and the prior generic overshadowing item.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f9d6f1500c308572f81a8877eca1392c2ad9c0d4569f9cb497c7faed3750c31a"
+    }
+  ],
+  "activeSourceFile": "authoring/d/questions.json",
+  "reviewerTask": "/root/review_expansion",
+  "priorReview": "reviews/expansion/cross-b-psychosocial-076-100.review.json",
+  "coverageNote": "All25 revised items read in full, including new096/100; no pass inferred from author revision claims. Source verification is targeted, not external clinical or psychometric validation."
+}

@@ -1,0 +1,338 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:32:04.287227+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/d-health-071-recheck2.json",
+  "sourceSha256": "16eaddbd734180eb23da9679747a4774113b32b7954a850d258273c9eab91115",
+  "coverage": {
+    "sourceItems": 40,
+    "reviewedItems": 26,
+    "reviewedIds": [
+      "x-health-071",
+      "x-health-072",
+      "x-health-073",
+      "x-health-076",
+      "x-health-077",
+      "x-health-078",
+      "x-health-080",
+      "x-health-081",
+      "x-health-083",
+      "x-health-084",
+      "x-health-086",
+      "x-health-087",
+      "x-health-088",
+      "x-health-089",
+      "x-health-092",
+      "x-health-094",
+      "x-health-096",
+      "x-health-097",
+      "x-health-098",
+      "x-health-099",
+      "x-health-101",
+      "x-health-102",
+      "x-health-103",
+      "x-health-106",
+      "x-health-109",
+      "x-health-110"
+    ],
+    "unreviewedIds": [
+      "x-health-074",
+      "x-health-075",
+      "x-health-079",
+      "x-health-082",
+      "x-health-085",
+      "x-health-090",
+      "x-health-091",
+      "x-health-093",
+      "x-health-095",
+      "x-health-100",
+      "x-health-104",
+      "x-health-105",
+      "x-health-107",
+      "x-health-108"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.canada.ca/en/health-canada/services/nutrients/iron.html",
+      "supports": "089: vitamin C increases absorption from plant sources; tea/coffee and calcium supplements around meals can reduce absorption.",
+      "limitation": "Supports this general nutrition claim, not an individualized anemia treatment plan."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-health-071",
+      "status": "pass",
+      "assessment": "Established routine wound skills make warning-sign/contact teaching the remaining demonstrated safety need. Other options are legitimate discharge teaching but lower priority here.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9f968905c3f837815b70e80445b2c9ef7b598b55df2767405299f09405bda82c"
+    },
+    {
+      "id": "x-health-072",
+      "status": "pass",
+      "assessment": "Caregiving timing is a concrete adherence barrier distinguished from access, packaging and adverse effects by relevant client data. The shorter key is not cued by comprehensiveness.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "94510f09e4cbb9175498bc3c48fb50e904ca345fb5b34ebdd830f62994c076a9"
+    },
+    {
+      "id": "x-health-073",
+      "status": "pass",
+      "assessment": "Mechanical packaging difficulty, absent helper and independence preference make adaptation assessment preferable to service takeover. Reasoning is now case-specific.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ea9ef6e8302b1dfbb4947241260b241008d00c4d8b7edb5e80f0df08e1d4ad4c"
+    },
+    {
+      "id": "x-health-076",
+      "status": "revise",
+      "assessment": "An appropriate syringe for0.5mL would ordinarily be a small device on which5mL cannot be drawn; the tenfold scenario needs a physically coherent measurement setup.",
+      "issues": [
+        "An appropriate syringe for0.5mL would ordinarily be a small device on which5mL cannot be drawn; the tenfold scenario needs a physically coherent measurement setup."
+      ],
+      "proposedChanges": [
+        "Use a verbal error: the caregiver reads the prescribed0.5mL aloud as5mL, then ask for a response that checks interpretation and guides correct demonstration. Alternatively show an actual scale with a feasible error. Adjust chosen-marking wording if no marking was selected."
+      ],
+      "reviewedItemSha256": "5357681dc5060b137446d7a37cc87e1296fc0cc50feda86917d22511961a1b9f"
+    },
+    {
+      "id": "x-health-077",
+      "status": "pass",
+      "assessment": "Conflicting service instructions and inability to identify first task justify a coordinated action checklist; alternatives are credible information-overload responses.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6bbf22dd1964515d40b83ebfbb25e52f1f669c4aac11edad9b3746ac0b4bce80"
+    },
+    {
+      "id": "x-health-078",
+      "status": "pass",
+      "assessment": "New visual aids and avoided print support assessing visual access before assumed reluctance. Prior knowledge and family support remain reasonable but less targeted assessments.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c0a4a20514b9060895bfe3304768c801b6d3e37b9f543aa6be9550a0f392ccc2"
+    },
+    {
+      "id": "x-health-080",
+      "status": "revise",
+      "assessment": "The SATA asks which questions help judge an app. Asking whether ratings are enough or popularity substitutes for function can itself be useful, so marking those questions false confuses the answer task.",
+      "issues": [
+        "The SATA asks which questions help judge an app. Asking whether ratings are enough or popularity substitutes for function can itself be useful, so marking those questions false confuses the answer task."
+      ],
+      "proposedChanges": [
+        "Ask Which findings support choosing the app? Use declarative options: It exports the relevant symptom records; Its advice identifies credible sources; A high user rating establishes medical accuracy; Its privacy terms explain use/sharing of entries; Popularity confirms the intended clinical function. Then keys0/1/3 are defensible after wording alignment. Avoid stating privacy clarity guarantees acceptable privacy; specify the client accepts the terms if needed."
+      ],
+      "reviewedItemSha256": "8b4488d74a3cfe34b88e8032c35fd6d39e52f5ce679462082297e7ccc286182e"
+    },
+    {
+      "id": "x-health-081",
+      "status": "pass",
+      "assessment": "Current five-minute tolerance makes short scheduled walks with review feasible. Old capacity and automatic daily progression are plausible goal-setting errors; key is specific.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0d2f88fa101d738023d12c6451094a8c066f3771633ca5f0ff90362492622d50"
+    },
+    {
+      "id": "x-health-083",
+      "status": "revise",
+      "assessment": "Option1 still advertises omission with without-discussing, and proof-of-poor-motivation is overstated.",
+      "issues": [
+        "Option1 still advertises omission with without-discussing, and proof-of-poor-motivation is overstated."
+      ],
+      "proposedChanges": [
+        "Use Restart the same quit plan for option1 and Reassess whether the client is ready to quit for option2. Explain why exploring the identified trigger helps preserve the current quit effort; do not imply readiness assessment is inherently inappropriate."
+      ],
+      "reviewedItemSha256": "e37ac0947e3cd85cfdd30077c74f2bc873f582f46c88884eab904edad7086707"
+    },
+    {
+      "id": "x-health-084",
+      "status": "pass",
+      "assessment": "The revised alternatives compare behaviour implementation against more education, multiple simultaneous changes and a less direct outcome. Concrete timing and review support the chosen habit.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d69e7415cababf7116aa2a1db74a3a6ee09011d49a7e6380949ad3e4b3743711"
+    },
+    {
+      "id": "x-health-086",
+      "status": "pass",
+      "assessment": "Stable osteoarthritis and tolerated cycling provide a distinct clinical basis for the lower-impact endurance plan; alternatives address different or poorly tolerated goals.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e37fca095b31367e7a92dc49d43e5516f127e8eb27e205bf17ab91b390f77c2b"
+    },
+    {
+      "id": "x-health-087",
+      "status": "pass",
+      "assessment": "Current post-illness capacity versus prior40-minute route supports graded rehabilitation. This overlaps gradual-goal principles but has a distinct recovery context; no new arbitrary delay remains.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4df031d6c5de9f462aace432171f5a5cfa6a032756033db3b076eb1667df93a9"
+    },
+    {
+      "id": "x-health-088",
+      "status": "revise",
+      "assessment": "Only remaining issue is without-altering-work-routines cueing option3.",
+      "issues": [
+        "Only remaining issue is without-altering-work-routines cueing option3."
+      ],
+      "proposedChanges": [
+        "Change option3 to Record total weekly steps. Keep its rationale that monitoring alone does not interrupt the identified workday sitting."
+      ],
+      "reviewedItemSha256": "97d2896f51b465930de80a9932302e206c7e4ae325848035e8653ae53f45a456"
+    },
+    {
+      "id": "x-health-089",
+      "status": "revise",
+      "assessment": "Replacement is clinically supported and distinct from sodium-label reading, but is a straightforward nutrient-interaction recall task.",
+      "issues": [
+        "Replacement is clinically supported and distinct from sodium-label reading, but is a straightforward nutrient-interaction recall task."
+      ],
+      "proposedChanges": [
+        "Set difficulty foundation. No clinical wording change required; Health Canada's Iron guidance supports vitamin C with plant iron and tea/coffee/calcium supplement interference around meals."
+      ],
+      "reviewedItemSha256": "947f0dca972578e442ee62b3601c3d9918202da023eba36a27a0d495b04dab79"
+    },
+    {
+      "id": "x-health-092",
+      "status": "pass",
+      "assessment": "Household noise and errands give specific causes; a protected agreed sleep period addresses both. Eye mask and weekend catch-up are plausible incomplete measures.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3edda140653120416e453810433a3ec62cc35d04277fe75c2ab1b6651ae2fced"
+    },
+    {
+      "id": "x-health-094",
+      "status": "revise",
+      "assessment": "Key is much longer and the stem explicitly asks quantify, making this a straightforward exposure-history fact rather than application.",
+      "issues": [
+        "Key is much longer and the stem explicitly asks quantify, making this a straightforward exposure-history fact rather than application."
+      ],
+      "proposedChanges": [
+        "Shorten key to How much do you drink, and how often? and set foundation, retaining usual-week and single-occasion detail in the explanation. Alternatively supply ambiguous reported drinking data and ask the next concrete clarification needed."
+      ],
+      "reviewedItemSha256": "c7623860c232b694b779991a85a6207abc3c1659778a7db05f1a09f5ee358e6d"
+    },
+    {
+      "id": "x-health-096",
+      "status": "revise",
+      "assessment": "Before-reviewing-contraindications and focus-only cue the wrong options.",
+      "issues": [
+        "Before-reviewing-contraindications and focus-only cue the wrong options."
+      ],
+      "proposedChanges": [
+        "Use Recommend hormonal treatment for option2 and Request laboratory confirmation for option3. Explain why initial symptom/history/risk assessment guides the options; no explicit omission phrase needed."
+      ],
+      "reviewedItemSha256": "d1178a89125a954df1195f1bc7c0e2b2990a54cfd5d5f0e565192c79bd513dfb"
+    },
+    {
+      "id": "x-health-097",
+      "status": "revise",
+      "assessment": "As-the-sole-follow-up flags the screening distractor as defective.",
+      "issues": [
+        "As-the-sole-follow-up flags the screening distractor as defective."
+      ],
+      "proposedChanges": [
+        "Use Arrange routine cervical screening. Explain that a screening pathway does not replace diagnostic assessment of postmenopausal bleeding."
+      ],
+      "reviewedItemSha256": "82af982620a6c9c938a18610b928646612170dde45b2dc4358414bd5f1ec4b13"
+    },
+    {
+      "id": "x-health-098",
+      "status": "revise",
+      "assessment": "Entire-plan and alone cue the alternatives, and key repeats individualized wording from the question.",
+      "issues": [
+        "Entire-plan and alone cue the alternatives, and key repeats individualized wording from the question."
+      ],
+      "proposedChanges": [
+        "Use Start calcium supplements and Begin flexibility exercises while awaiting bone-density testing. Ask What should guide the initial prevention plan? Keep history/function assessment and broader tailored prevention in the rationale; remove repeated individualized phrase if it gives the key away."
+      ],
+      "reviewedItemSha256": "225ef7e47c677b37de3b5eef036ca46ff6e990ec575607e5bb6b96cfe2838c5e"
+    },
+    {
+      "id": "x-health-099",
+      "status": "revise",
+      "assessment": "Before-reviewing-height-change advertises the wrong answer.",
+      "issues": [
+        "Before-reviewing-height-change advertises the wrong answer."
+      ],
+      "proposedChanges": [
+        "Use Treat presumed muscle strain for option1. Explain why combined new pain and height loss warrant diagnostic assessment before attributing symptoms to strain."
+      ],
+      "reviewedItemSha256": "d60073ec1ca7e3082a9f5db3c4a8cea674f28e5121240159cfdac145caaf3d71"
+    },
+    {
+      "id": "x-health-101",
+      "status": "revise",
+      "assessment": "Without-discussing-assessment still advertises the lip-reading option's defect.",
+      "issues": [
+        "Without-discussing-assessment still advertises the lip-reading option's defect."
+      ],
+      "proposedChanges": [
+        "Use Practise lip-reading strategies during group meetings. Explain why hearing review and environmental adaptation address the newly limiting difficulty more fully."
+      ],
+      "reviewedItemSha256": "9ad31f829366f5d91bcdb09abf11909cd273c518ceed897d70fe83c124511faa"
+    },
+    {
+      "id": "x-health-102",
+      "status": "pass",
+      "assessment": "Pad containment is a credible temporary approach but does not identify treatable contributors; assessment and individualized strategies best address lost participation. Aging normalization is a common misconception.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "51ab6f3a55ec506ddbedf9ec143f6dce04f40fc58fad8d7de4657e473b07be8e"
+    },
+    {
+      "id": "x-health-103",
+      "status": "revise",
+      "assessment": "Lower-fat menu remains irrelevant filler for weight loss; before-discussing/arranging qualifiers advertise omissions.",
+      "issues": [
+        "Lower-fat menu remains irrelevant filler for weight loss; before-discussing/arranging qualifiers advertise omissions."
+      ],
+      "proposedChanges": [
+        "Use Request another swallowing assessment; Provide a high-protein meal-planning handout; Ask the client to keep a calorie diary. Explain why practical shopping/meal access is the demonstrated unmet need. Keep the specific access facts and reassurance from current swallow/oral assessment."
+      ],
+      "reviewedItemSha256": "9bea263ae1f4ca8669f9a6dd10167b772fbdd86735a0e250149ca92d76c407c6"
+    },
+    {
+      "id": "x-health-106",
+      "status": "revise",
+      "assessment": "Without-asking-preferences advertises the last distractor's flaw.",
+      "issues": [
+        "Without-asking-preferences advertises the last distractor's flaw."
+      ],
+      "proposedChanges": [
+        "Use Arrange trial visits at several activity centres. Explain why exploring a small familiar-interest group fits the client's stated preference more directly. No need to restate the omitted preference check in the option."
+      ],
+      "reviewedItemSha256": "99a7748967b72af2d68886668da0bec962a2edbb7672539931e79b5fdeb1a15b"
+    },
+    {
+      "id": "x-health-109",
+      "status": "revise",
+      "assessment": "Brochure-only advertises its inadequacy.",
+      "issues": [
+        "Brochure-only advertises its inadequacy."
+      ],
+      "proposedChanges": [
+        "Change option2 to Provide an updated preventive-screening brochure. Explain why information does not solve the supervision barrier."
+      ],
+      "reviewedItemSha256": "542ac61cd80d3c00cd6cc6c077538acdac8db2cd8a0c26fdbc6fa275d176c161"
+    },
+    {
+      "id": "x-health-110",
+      "status": "pass",
+      "assessment": "Staff session delivery is a relevant process measure that differs from participant outcomes. Attendance/tolerable exertion and sustained activity appropriately evaluate the stated program goal.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "dce87a9265685912a68ac279eeb80675ea7141c542fb1100f8f178e45809820c"
+    }
+  ],
+  "activeSourceFile": "authoring/d/health-071.json",
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

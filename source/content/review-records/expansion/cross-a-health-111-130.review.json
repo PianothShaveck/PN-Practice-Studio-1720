@@ -1,0 +1,289 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewerTask": "/root/author_management_safety",
+  "reviewedAt": "2026-10-01T17:43:12.259474+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-a-health-snapshot.json",
+  "coverage": {
+    "reviewedItems": 20,
+    "reviewedIds": [
+      "x-health-111",
+      "x-health-112",
+      "x-health-113",
+      "x-health-114",
+      "x-health-115",
+      "x-health-116",
+      "x-health-117",
+      "x-health-118",
+      "x-health-119",
+      "x-health-120",
+      "x-health-121",
+      "x-health-122",
+      "x-health-123",
+      "x-health-124",
+      "x-health-125",
+      "x-health-126",
+      "x-health-127",
+      "x-health-128",
+      "x-health-129",
+      "x-health-130"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Read every supplied field and reasoned through each key, distractor, rationale, objective and difficulty. Targeted primary-source checks are recorded separately; a reference alone was not treated as validation.",
+  "limitations": [
+    "Not external clinician or psychometric validation",
+    "Source verification is targeted; general educational and communication principles were reviewed for internal and clinical coherence."
+  ],
+  "sourceChecks": [
+    {
+      "ids": [
+        "x-health-111"
+      ],
+      "url": "https://www.albertahealthservices.ca/assets/about/scn/ahs-scn-nrv-diabetes-eye-care-clinical-pathway-overview.pdf",
+      "method": "Primary AHS search result inspected",
+      "finding": "Diabetes eye assessment is a screening pathway; this check supports preventive review rather than symptom-triggered care. No exact interval is added to the item."
+    },
+    {
+      "ids": [
+        "x-health-127"
+      ],
+      "url": "https://hypertension.ca/guidelines/diagnosis",
+      "method": "Primary Hypertension Canada search result inspected",
+      "finding": "Standardized preparation, repeated measurements and seated rest reduce variation; nonstandard readings may be elevated. The item should bound the presented value and symptoms."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-health-111",
+      "status": "revise",
+      "assessment": "The screening-before-symptoms key is defensible, but reading glasses as equivalent retinal screening is a conspicuous foil; the task is primarily recognition.",
+      "issues": [
+        "The screening-before-symptoms key is defensible, but reading glasses as equivalent retinal screening is a conspicuous foil; the task is primarily recognition."
+      ],
+      "proposedChanges": [
+        "Replace reading-glasses option with reliance on a routine visual-acuity/refraction check, a more credible screening misconception. Either add decision context or label foundation. Add a directly relevant retinopathy source."
+      ],
+      "reviewedItemSha256": "b4202a240f6fe617327f41ca42ea60deea6c4215b29756c836d8dbd8321e383c"
+    },
+    {
+      "id": "x-health-112",
+      "status": "revise",
+      "assessment": "Practising escalation addresses the identified knowledge gap, but copying a plan and filing it because signed are implausible nursing alternatives and the key is uniquely detailed.",
+      "issues": [
+        "Practising escalation addresses the identified knowledge gap, but copying a plan and filing it because signed are implausible nursing alternatives and the key is uniquely detailed."
+      ],
+      "proposedChanges": [
+        "State the client already demonstrates inhaler technique and routine dosing. Compare symptom-scenario practice with another technique review, a written action-plan explanation, or a scheduled follow-up call using comparable wording."
+      ],
+      "reviewedItemSha256": "4d6a3d1dffcbcd7964285659d10cee15c8dd6865d5465b2bb5259e2d972f9400"
+    },
+    {
+      "id": "x-health-113",
+      "status": "revise",
+      "assessment": "Structured headache observations are useful, but the only comprehensive option is compared with explicit without-details/only cues.",
+      "issues": [
+        "Structured headache observations are useful, but the only comprehensive option is compared with explicit without-details/only cues."
+      ],
+      "proposedChanges": [
+        "Use four actual diary entries of similar length. The best entry should show episode timing, symptoms, triggers and response; alternatives should be credible records that omit different decision-relevant patterns without labeling their omission."
+      ],
+      "reviewedItemSha256": "0fde88d81136f20d7caedf22bf55f1d6137368d2211a87f8b6af32dc63c05a7d"
+    },
+    {
+      "id": "x-health-114",
+      "status": "revise",
+      "assessment": "Standardizing daily weight conditions fits the case; averaging household scales and selectively recording the lowest weekly reading are weak alternatives.",
+      "issues": [
+        "Standardizing daily weight conditions fits the case; averaging household scales and selectively recording the lowest weekly reading are weak alternatives."
+      ],
+      "proposedChanges": [
+        "Compare plausible schedules and techniques, such as daily before breakfast on one scale, nightly after dinner, morning/evening averaging, and weekly same-day measures. Keep the key concise; explain consistency within the prescribed daily reporting plan."
+      ],
+      "reviewedItemSha256": "43a69164c6292334a438d8241b58360a8216efee631aa380c058729692e9382c"
+    },
+    {
+      "id": "x-health-115",
+      "status": "revise",
+      "assessment": "The intended home-plan features are correct, but the stem is generic and both nonkeys announce omissions or assumptions.",
+      "issues": [
+        "The intended home-plan features are correct, but the stem is generic and both nonkeys announce omissions or assumptions."
+      ],
+      "proposedChanges": [
+        "Add concrete home constraints such as no portal access and a reachable telephone service. Present actual contact/escalation arrangements rather than labels such as diagnoses without instructions. Vary correct positions and preserve SATA."
+      ],
+      "reviewedItemSha256": "de6dd3b368aff7c4d578c6e9a1293a4db3359e41adbe5a5f521b9a7b91b5b547"
+    },
+    {
+      "id": "x-health-116",
+      "status": "revise",
+      "assessment": "Rehearsing the home plan addresses transition confidence, but indefinite rest and claiming fear disappears are caricatures.",
+      "issues": [
+        "Rehearsing the home plan addresses transition confidence, but indefinite rest and claiming fear disappears are caricatures."
+      ],
+      "proposedChanges": [
+        "Establish clinical readiness and the specific concern about warning symptoms. Compare rehearsing a home scenario with providing a written plan, extending supervised visits, and referring to a community exercise group. Explain why the rehearsed response addresses the missing skill."
+      ],
+      "reviewedItemSha256": "e7c08a60973dfdc4ff424f38478011ec8711b699e050b4f40664beed73f9d3f6"
+    },
+    {
+      "id": "x-health-117",
+      "status": "revise",
+      "assessment": "Recipe adaptation supports the client goal, but the other options all reject or isolate the client cultural preferences.",
+      "issues": [
+        "Recipe adaptation supports the client goal, but the other options all reject or isolate the client cultural preferences."
+      ],
+      "proposedChanges": [
+        "Give a concrete usual meal with a sodium source. Compare lower-sodium recipe substitutions, smaller portions, a generic meal plan, and label-reading education, making the client preference and actual source determine the best immediate approach."
+      ],
+      "reviewedItemSha256": "635fa62b78fd23f55671b2e466fe854d014b2c9226b3eb561dec015c51f5f391"
+    },
+    {
+      "id": "x-health-118",
+      "status": "revise",
+      "assessment": "Access support is appropriate, but try-harder and assumed fewer tests are implausible professional actions.",
+      "issues": [
+        "Access support is appropriate, but try-harder and assumed fewer tests are implausible professional actions."
+      ],
+      "proposedChanges": [
+        "Compare viable access plans, rebooking, education and clinical review. Include transport availability/cost and required monitoring timing so arranging a usable route is clearly best, with similar-length options."
+      ],
+      "reviewedItemSha256": "877cdd74e1f6d54c27b088d18c0ff6ec3f078b3bd6398400344073ae3866d2c1"
+    },
+    {
+      "id": "x-health-119",
+      "status": "pass",
+      "assessment": "The supplied boom-and-bust activity pattern makes pacing the useful teaching priority. The alternatives reflect recognizable overactivity, avoidance and symptom-contingent workload beliefs; rationales explain their functional limits.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d5bcf30d4a1b45f93a4d304fee2d09c3afca245073234897bd5bc59a213a8b41"
+    },
+    {
+      "id": "x-health-120",
+      "status": "revise",
+      "assessment": "Complete diabetes-review information is correct, but favourable-only values and explicitly excluding nonprescription products disclose the nonkeys; the task lacks application context.",
+      "issues": [
+        "Complete diabetes-review information is correct, but favourable-only values and explicitly excluding nonprescription products disclose the nonkeys; the task lacks application context."
+      ],
+      "proposedChanges": [
+        "Use a client with actual fluctuating readings and access difficulties and proposed records or preparation actions. Remove explicit only/excluding signals, or label a strengthened basic preparation item foundation."
+      ],
+      "reviewedItemSha256": "2b01bed2d6b35d295a5d4fe54a8e57d95b904320e589b7ce8a8391b285d443bf"
+    },
+    {
+      "id": "x-health-121",
+      "status": "revise",
+      "assessment": "Recurring food shortage is appropriately recognized despite current food, but one-meal exclusion and teaching-alone resolution are conspicuous absolutes; this is recognition rather than application.",
+      "issues": [
+        "Recurring food shortage is appropriately recognized despite current food, but one-meal exclusion and teaching-alone resolution are conspicuous absolutes; this is recognition rather than application."
+      ],
+      "proposedChanges": [
+        "Make the item a next screening/support decision with realistic competing assessments, or improve the interpretation alternatives and label foundation. Preserve the point that body size and food present today do not establish reliable access."
+      ],
+      "reviewedItemSha256": "d235cbfe0edc2d4c75439bad92cffe04fc1f838f78b179c5f694043238d44339"
+    },
+    {
+      "id": "x-health-122",
+      "status": "revise",
+      "assessment": "Housing resource linkage appropriately complements asthma care; all-season windows and withholding symptom reports are implausible alternatives.",
+      "issues": [
+        "Housing resource linkage appropriately complements asthma care; all-season windows and withholding symptom reports are implausible alternatives."
+      ],
+      "proposedChanges": [
+        "Compare practical actions such as housing/environmental-resource referral, cleaning advice, inhaler-technique review and trigger tracking. Supply persistent building dampness and correct medication use to explain why structural support is best."
+      ],
+      "reviewedItemSha256": "babce9a4b5bb6a241e84f6cefd0499288d4155c5ea0038f41bb70a68326eb25d"
+    },
+    {
+      "id": "x-health-123",
+      "status": "revise",
+      "assessment": "Resident consultation is a sound first step, but preferred language and attractive-kitchen options make it the sole professionally reasonable answer.",
+      "issues": [
+        "Resident consultation is a sound first step, but preferred language and attractive-kitchen options make it the sole professionally reasonable answer."
+      ],
+      "proposedChanges": [
+        "Compare plausible planning steps such as surveying residents, booking an accessible venue, adapting existing materials and recruiting facilitators. State that priorities and access barriers have not yet been established."
+      ],
+      "reviewedItemSha256": "11db362c8ecff68c9635ae1006ef7a797261bea4a86143316348c98e672f9d8e"
+    },
+    {
+      "id": "x-health-124",
+      "status": "revise",
+      "assessment": "Client-informed barrier exploration is appropriate, but cultural-refusal attribution and denominator removal are cartoon alternatives.",
+      "issues": [
+        "Client-informed barrier exploration is appropriate, but cultural-refusal attribution and denominator removal are cartoon alternatives."
+      ],
+      "proposedChanges": [
+        "Compare reviewing booking/interpreter access with translated reminders, extra clinic hours and outreach calls. Give data that identify a disparity but do not yet establish its cause."
+      ],
+      "reviewedItemSha256": "82bced98b26144e41e12ad7a18cbfa0a24f42e6341a9ef40f88204c29ddb82ed"
+    },
+    {
+      "id": "x-health-125",
+      "status": "revise",
+      "assessment": "Transport and language access are relevant, but public diagnosis disclosure and attendance-only learning measures are weak distractors and test different constructs.",
+      "issues": [
+        "Transport and language access are relevant, but public diagnosis disclosure and attendance-only learning measures are weak distractors and test different constructs."
+      ],
+      "proposedChanges": [
+        "Give a specific community group with transport, hearing/language or schedule constraints. Present concrete class-access arrangements with plausible tradeoffs; keep all options about participation access."
+      ],
+      "reviewedItemSha256": "cf7d5c75a507968d94702a4f7a014caab61eb372c015f0fcd198b14d2b5a6b31"
+    },
+    {
+      "id": "x-health-126",
+      "status": "pass",
+      "assessment": "The foundation label is honest. Early identification is distinct from rehabilitation and acute treatment, and the rationale correctly separates screening from diagnosis on a single result.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c372a45e1cb0fb7ceed06490e09e311a8b23c563a5651ba220bbaa8e06969ab9"
+    },
+    {
+      "id": "x-health-127",
+      "status": "revise",
+      "assessment": "Rest and standardized repeat measurement are appropriate, but no numeric BP bounds severity and borrowing a relative medication is an implausible nursing recommendation.",
+      "issues": [
+        "Rest and standardized repeat measurement are appropriate, but no numeric BP bounds severity and borrowing a relative medication is an implausible nursing recommendation."
+      ],
+      "proposedChanges": [
+        "Specify a moderately elevated reading such as 156/92 mm Hg after rushing, with no concerning symptoms. Compare repeat after appropriate rest, arranging routine follow-up, beginning a home log, or attributing the reading to exertion. Keep diagnosis limits in the rationale."
+      ],
+      "reviewedItemSha256": "06a3ab679c03d8f94784c9965cae83e369f4f3f6c9e46847b7b554f98c205252"
+    },
+    {
+      "id": "x-health-128",
+      "status": "revise",
+      "assessment": "An accessible referral route is appropriate, but withholding support and marking incomplete access completed are conspicuous wrong actions.",
+      "issues": [
+        "An accessible referral route is appropriate, but withholding support and marking incomplete access completed are conspicuous wrong actions."
+      ],
+      "proposedChanges": [
+        "Specify the communication barrier and available accessible service. Compare client-approved text/online referral with telephone coaching, written information and a scheduled callback, using the actual access need to distinguish the key."
+      ],
+      "reviewedItemSha256": "9b47897840ab90c5bafb2e97c32547d570b5e928a96198025b84785e981f6a37"
+    },
+    {
+      "id": "x-health-129",
+      "status": "revise",
+      "assessment": "Scenario decisions match the objective, but refreshments are irrelevant and the comprehensive key is markedly longer.",
+      "issues": [
+        "Scenario decisions match the objective, but refreshments are irrelevant and the comprehensive key is markedly longer."
+      ],
+      "proposedChanges": [
+        "Use plausible outcomes such as symptom-scenario accuracy, confidence ratings, recall of warning signs and completion of a contact plan. Make grammar and length parallel; distinguish recognition/action from self-report and recall."
+      ],
+      "reviewedItemSha256": "60332c11ef8a0718e2a2954f674272a25e754a350957b3de0f1fba5e468249fc"
+    },
+    {
+      "id": "x-health-130",
+      "status": "revise",
+      "assessment": "Community-defined participation and cultural safety are sound, but one-program-fits-all is an advertised error in an otherwise generic good-practice list.",
+      "issues": [
+        "Community-defined participation and cultural safety are sound, but one-program-fits-all is an advertised error in an otherwise generic good-practice list."
+      ],
+      "proposedChanges": [
+        "Add a community planning context and replace the assumption option with adopting an existing successful program unchanged, explaining why local selection/adaptation matters. Label foundation if the task remains direct principle recognition."
+      ],
+      "reviewedItemSha256": "17090041895f121beaf86f3abb8f6cdab54ece5523b7612415056e631b80c370"
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewerTask": "/root/author_management_safety",
+  "reviewedAt": "2026-10-01T18:17:33.465592+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-a-psych-reviewed-snapshot.json",
+  "coverage": {
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-psychosocial-101",
+      "x-psychosocial-102",
+      "x-psychosocial-103",
+      "x-psychosocial-104",
+      "x-psychosocial-105",
+      "x-psychosocial-106",
+      "x-psychosocial-107",
+      "x-psychosocial-108",
+      "x-psychosocial-109",
+      "x-psychosocial-110",
+      "x-psychosocial-111",
+      "x-psychosocial-112",
+      "x-psychosocial-113",
+      "x-psychosocial-114",
+      "x-psychosocial-115",
+      "x-psychosocial-116",
+      "x-psychosocial-117",
+      "x-psychosocial-118",
+      "x-psychosocial-119",
+      "x-psychosocial-120",
+      "x-psychosocial-121",
+      "x-psychosocial-122",
+      "x-psychosocial-123",
+      "x-psychosocial-124",
+      "x-psychosocial-125"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Read every stem, option, key, rationale, takeaway and metadata. Reasoned through the clinical decision, plausible competitors, scenario discrimination, duplication and answer cues. Source checks below are targeted, not blanket validation.",
+  "limitations": [
+    "Not external clinician or psychometric validation",
+    "Source verification is targeted; the source registry alone does not validate an item."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.camh.ca/en/professionals/professionals--projects/cognitive-adaptation-training/strategizing/getting-started",
+      "checked": "Opened primary CAMH page: individualized environmental supports and visible reminders compensate for memory/attention difficulties; supports new113."
+    },
+    {
+      "url": "https://www.rcpsych.ac.uk/mental-health/mental-illnesses-and-mental-health-problems/catatonia",
+      "checked": "Opened primary specialist-college guidance: untreated catatonia can cause dehydration, malnutrition and other serious complications; supports urgent physical review principle in107."
+    },
+    {
+      "url": "https://crism.ca/alcohol-use-disorder/",
+      "checked": "Opened withdrawal recommendations5–8: previous seizures/DTs inform severe withdrawal risk; ongoing AUD care after withdrawal. Used only withdrawal/continuity principles for114/119, not screening recommendations that have a later update."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-psychosocial-101",
+      "status": "revise",
+      "assessment": "The one-step approach fits distractibility, but rapid instruction and postponing every activity make the key obvious.",
+      "issues": [
+        "The one-step approach fits distractibility, but rapid instruction and postponing every activity make the key obvious."
+      ],
+      "proposedChanges": [
+        "Give a concrete task the client can perform one step at a time; compare guided one-step practice with a complete demonstration, written sequence and caregiver-led completion. Explain why the observed attention limit favours the keyed approach."
+      ],
+      "reviewedItemSha256": "6b77009bc629aaca1a79af9619d0e7b6a5009d24dfb057dbb99f3a898af35746"
+    },
+    {
+      "id": "x-psychosocial-102",
+      "status": "revise",
+      "assessment": "The nonurgent refusal allows exploration, but deception, agreeing with the delusion and debating until acceptance are caricatures.",
+      "issues": [
+        "The nonurgent refusal allows exploration, but deception, agreeing with the delusion and debating until acceptance are caricatures."
+      ],
+      "proposedChanges": [
+        "Use comparable quoted responses representing emotional validation, factual reassurance, distraction and persuasion. Ask for the response that first explores the specific fear while respecting refusal; keep the key concise."
+      ],
+      "reviewedItemSha256": "0a036be3a0beb4960dc4a8311fe01bb0dbbad77330926b92ee1cfa0fff84d268"
+    },
+    {
+      "id": "x-psychosocial-103",
+      "status": "revise",
+      "assessment": "School decline and new suspicious/perceptual changes merit assessment; music genre and planner success are filler.",
+      "issues": [
+        "School decline and new suspicious/perceptual changes merit assessment; music genre and planner success are filler."
+      ],
+      "proposedChanges": [
+        "Give a young adult baseline and timeline. Use clinically relevant observations distinguishing sustained functional/perceptual change from ordinary stable preferences. Replace music-genre filler and reflect actual cognitive difficulty honestly."
+      ],
+      "reviewedItemSha256": "8528019eaf9c2d4573e69f1a41f74f1f0d24957d112a3e03da929617d627ab0a"
+    },
+    {
+      "id": "x-psychosocial-104",
+      "status": "revise",
+      "assessment": "Cultural meaning must inform assessment, but nurse beliefs and labelling an unfamiliar experience are uniquely poor competitors; challenge label is inflated.",
+      "issues": [
+        "Cultural meaning must inform assessment, but nurse beliefs and labelling an unfamiliar experience are uniquely poor competitors; challenge label is inflated."
+      ],
+      "proposedChanges": [
+        "Provide a culturally meaningful experience with a specific uncertainty about distress/function. Compare plausible assessment questions or next information sources, allowing context to identify the best first inquiry. Use application difficulty."
+      ],
+      "reviewedItemSha256": "15d74f117636e6fa821e62cf5294a07729601e456d4982c231cd743912b4d93a"
+    },
+    {
+      "id": "x-psychosocial-105",
+      "status": "revise",
+      "assessment": "Current risk evidence matters, but media portrayals and eye contact make risk assessment trivial.",
+      "issues": [
+        "Current risk evidence matters, but media portrayals and eye contact make risk assessment trivial."
+      ],
+      "proposedChanges": [
+        "Supply actual behaviour and baseline information. Compare relevant evidence such as stated intent, previous threats, current distress and functional behaviour, rather than media stereotypes; ask which finding changes the current safety plan."
+      ],
+      "reviewedItemSha256": "43e28bd69df683810588d0d3d5ce27b19df4d57b5f75146964d3e7f4c613b7e7"
+    },
+    {
+      "id": "x-psychosocial-106",
+      "status": "revise",
+      "assessment": "Transparency can reduce mistrust; disclosing other clients and ignoring all conversations are implausible.",
+      "issues": [
+        "Transparency can reduce mistrust; disclosing other clients and ignoring all conversations are implausible."
+      ],
+      "proposedChanges": [
+        "Specify that the overheard discussion concerned this client. Compare relevant explanation or participation with private handover relocation, reassurance and postponing the discussion. The stem must distinguish the immediate therapeutic communication need."
+      ],
+      "reviewedItemSha256": "804945c0b8958af7b471f089fa0d7734ea7e5037c7079dc9cc6e5b20eea5c355"
+    },
+    {
+      "id": "x-psychosocial-107",
+      "status": "revise",
+      "assessment": "Marked immobility, minimal response and poor intake require physical assessment; a group activity and waiting for counselling are not credible priorities.",
+      "issues": [
+        "Marked immobility, minimal response and poor intake require physical assessment; a group activity and waiting for counselling are not credible priorities."
+      ],
+      "proposedChanges": [
+        "Add duration and a relevant hydration/physical cue. Compare prompt clinical assessment/escalation with assisted nutrition, observation and depression-focused support. Do not require a confirmed catatonia diagnosis; use application rather than challenge."
+      ],
+      "reviewedItemSha256": "9e05d0171e64a1c5aa81be5072027585f26bbac6243eeb2f4d65e6f84fcdc807"
+    },
+    {
+      "id": "x-psychosocial-108",
+      "status": "revise",
+      "assessment": "All keyed options are general positive principles while symptom elimination and total agreement signal nonkeys.",
+      "issues": [
+        "All keyed options are general positive principles while symptom elimination and total agreement signal nonkeys."
+      ],
+      "proposedChanges": [
+        "Use a client with a chosen activity goal and persistent manageable symptoms. Offer concrete recovery outcomes or plans, including plausible symptom-only or service-process measures; remove absolutes."
+      ],
+      "reviewedItemSha256": "e1d59d6e430a1325458bff770e98a87239f114151bf1ca22c257800d920d4632"
+    },
+    {
+      "id": "x-psychosocial-109",
+      "status": "revise",
+      "assessment": "Acknowledging distress and assessing need is appropriate, but pretending to hear voices, demanding proof and telling neighbours are caricatures.",
+      "issues": [
+        "Acknowledging distress and assessing need is appropriate, but pretending to hear voices, demanding proof and telling neighbours are caricatures."
+      ],
+      "proposedChanges": [
+        "Use realistic caregiver statements: acknowledge distress and ask about safety versus factual correction, reassurance and redirection. Keep quoted responses comparable in length and explain the limits of the alternatives for this distressed client."
+      ],
+      "reviewedItemSha256": "8bf1c926acee6009cd86c4759e18c9c80867d7180ec0ff9369823d094f66a493"
+    },
+    {
+      "id": "x-psychosocial-110",
+      "status": "revise",
+      "assessment": "Observed stove distraction needs task-specific support; complex independent meals and indefinite prohibition make the answer obvious.",
+      "issues": [
+        "Observed stove distraction needs task-specific support; complex independent meals and indefinite prohibition make the answer obvious."
+      ],
+      "proposedChanges": [
+        "Provide observed cooking performance and compare concrete graded practice, reminders, a simpler food task and caregiver completion. State the current task goal and safety cue that determines the best supported practice."
+      ],
+      "reviewedItemSha256": "43258ac818e657c5d291f4a90e09fb75d6781442e34a24a1269a97e37c5035b6"
+    },
+    {
+      "id": "x-psychosocial-111",
+      "status": "revise",
+      "assessment": "The capable client explicitly refuses disclosure, so the case mainly tests a basic confidentiality rule and the alternatives are overt consent errors.",
+      "issues": [
+        "The capable client explicitly refuses disclosure, so the case mainly tests a basic confidentiality rule and the alternatives are overt consent errors."
+      ],
+      "proposedChanges": [
+        "Use a specific visitor request for care information and plausible limited responses; distinguish permitted general information from client-specific disclosure. Mark foundation if the final decision remains direct application of the stated refusal."
+      ],
+      "reviewedItemSha256": "81c1209d9fc7d8c7d573d2c4cf427162c88faba6e9db3d4c17571c4485c9c620"
+    },
+    {
+      "id": "x-psychosocial-112",
+      "status": "revise",
+      "assessment": "Outreach may fit unstable housing, but options openly omit access assessment and reduce the problem to lack of insight.",
+      "issues": [
+        "Outreach may fit unstable housing, but options openly omit access assessment and reduce the problem to lack of insight."
+      ],
+      "proposedChanges": [
+        "Add actual shelter/contact or appointment constraints and compare feasible continuity approaches. Avoid generic transport teaching that duplicates health access items; focus on maintaining a mental-health treatment connection across changing accommodation."
+      ],
+      "reviewedItemSha256": "17e365acaf8ab0eab41414d78c3588e35d569b2d48a79db587e1f783dd00c737"
+    },
+    {
+      "id": "x-psychosocial-113",
+      "status": "pass",
+      "assessment": "The substantive replacement distinguishes prospective-memory support from understanding or appointment booking. Established phone use and a daily visual cue make both keyed prompts appropriate; CAMH supports individualized environmental reminders.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "af0e16d648f45e96366a29b5e7b35cab7367eec82a1f256981f57e3d06c41328"
+    },
+    {
+      "id": "x-psychosocial-114",
+      "status": "revise",
+      "assessment": "Previous withdrawal seizure makes prospective withdrawal planning important, but waiting for tremor and pain-only assessment are obvious nonkeys.",
+      "issues": [
+        "Previous withdrawal seizure makes prospective withdrawal planning important, but waiting for tremor and pain-only assessment are obvious nonkeys."
+      ],
+      "proposedChanges": [
+        "Keep the high-risk history and impending admission. Compare preventive team planning with routine withdrawal-score monitoring, outpatient follow-up and usual preoperative teaching, explaining why history warrants planning before symptoms appear."
+      ],
+      "reviewedItemSha256": "5430fb53b36b791fa624a23cb6a660371f1b660892a17c916d2343634f2f7c08"
+    },
+    {
+      "id": "x-psychosocial-115",
+      "status": "revise",
+      "assessment": "A neutral pattern question is useful, but every nonkey is leading or accusatory.",
+      "issues": [
+        "A neutral pattern question is useful, but every nonkey is leading or accusatory."
+      ],
+      "proposedChanges": [
+        "State that the immediate purpose is to estimate withdrawal risk. Use equally respectful questions about recent quantity/timing versus consequences, readiness and family experience; the purpose should select the needed information."
+      ],
+      "reviewedItemSha256": "61e2d84420344baff4361b23374425edeeff150cdcae7923012950993bd8de2f"
+    },
+    {
+      "id": "x-psychosocial-116",
+      "status": "pass",
+      "assessment": "Drowsiness after an unwitnessed fall requires airway and injury assessment before attributing changes to alcohol. The alternatives represent premature disposition, delayed reassessment or misplaced history-taking; the urgent cue sufficiently discriminates the priority.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "72d2c6221643e79d155dc83fc50e3a9d24db671960333f575574d09cdf66d35e"
+    },
+    {
+      "id": "x-psychosocial-117",
+      "status": "revise",
+      "assessment": "A rising unspecified score does not support a particular action, and next-shift recording or unauthorized medication change are conspicuously wrong.",
+      "issues": [
+        "A rising unspecified score does not support a particular action, and next-shift recording or unauthorized medication change are conspicuously wrong."
+      ],
+      "proposedChanges": [
+        "Supply observed findings and relevant approved protocol thresholds or directions. Ask for the actual next step among authorized treatment, repeat assessment and escalation choices; avoid requiring an unstated local score rule."
+      ],
+      "reviewedItemSha256": "eb0f480a82b1aff9edaa6fce0a99a0ea7bea5fbf0ea5f550faa50eeddaac77fb"
+    },
+    {
+      "id": "x-psychosocial-118",
+      "status": "revise",
+      "assessment": "Disorientation/agitation and seizure warrant urgent escalation, but hunger and later resource requests are weak filler.",
+      "issues": [
+        "Disorientation/agitation and seizure warrant urgent escalation, but hunger and later resource requests are weak filler."
+      ],
+      "proposedChanges": [
+        "Compare acute neurological deterioration with plausible milder withdrawal findings such as stable mild tremor, nausea or anxiety. Give current assessment context and calibrate difficulty to the recognition task."
+      ],
+      "reviewedItemSha256": "0a635f1a059cbf604fa09c95506c13d8f17bd3772207d2d292f0e22a3a85b401"
+    },
+    {
+      "id": "x-psychosocial-119",
+      "status": "revise",
+      "assessment": "Withdrawal management is distinct from ongoing AUD care, but permanent cure, complete failure and inpatient-only treatment are exaggerated.",
+      "issues": [
+        "Withdrawal management is distinct from ongoing AUD care, but permanent cure, complete failure and inpatient-only treatment are exaggerated."
+      ],
+      "proposedChanges": [
+        "Ask which concrete follow-up plan addresses ongoing needs after withdrawal resolves. Compare plausible physical follow-up, recovery treatment and symptom-triggered return plans; explain the continuing risk without absolutes."
+      ],
+      "reviewedItemSha256": "c4a3b8b97cbe0553d7b5ba16181002126afefdb202ce893778e5ec56621d7772"
+    },
+    {
+      "id": "x-psychosocial-120",
+      "status": "revise",
+      "assessment": "Nonjudgmental safety assessment after renewed drinking is appropriate; abstinence gates, futility and relative disappointment are caricatures.",
+      "issues": [
+        "Nonjudgmental safety assessment after renewed drinking is appropriate; abstinence gates, futility and relative disappointment are caricatures."
+      ],
+      "proposedChanges": [
+        "Use realistic responses representing exploration of current pattern/triggers, reassurance, return to prior treatment and immediate goal-setting. The shame and avoidance cue should favour a respectful opening that permits current safety assessment."
+      ],
+      "reviewedItemSha256": "3e364569c6804619c7697e88a19997dbf5082cd8cc9cb8877cc17e1974f0c372"
+    },
+    {
+      "id": "x-psychosocial-121",
+      "status": "revise",
+      "assessment": "Alcohol plus a sedating medicine can add impairment, but beverage-type reassurance and an explicit no-consult qualifier advertise the nonkeys.",
+      "issues": [
+        "Alcohol plus a sedating medicine can add impairment, but beverage-type reassurance and an explicit no-consult qualifier advertise the nonkeys."
+      ],
+      "proposedChanges": [
+        "Specify the sedating medicine or a clearly established sedative effect. Use plausible misconceptions about dose spacing, beverage amount or self-adjustment as statements, without appended omission qualifiers. Keep the key a concise explanation and appropriate treatment-review action."
+      ],
+      "reviewedItemSha256": "570305ee080e3171e92737510a30867d6d45e257e61c67c483d3f0b15f3b9262"
+    },
+    {
+      "id": "x-psychosocial-122",
+      "status": "revise",
+      "assessment": "Exploring ambivalence is appropriate, but pressure, total certainty and nurse-chosen goals are extreme alternatives.",
+      "issues": [
+        "Exploring ambivalence is appropriate, but pressure, total certainty and nurse-chosen goals are extreme alternatives."
+      ],
+      "proposedChanges": [
+        "Use comparable therapeutic statements contrasting reflection of competing values with education, advice and premature action planning. Tie the best response to the expressed fear of losing coping."
+      ],
+      "reviewedItemSha256": "590a977631a151a5be10873fe4da1911d26417b848a78244b40fdd16065e51c7"
+    },
+    {
+      "id": "x-psychosocial-123",
+      "status": "revise",
+      "assessment": "An individualized activity plan is sensible, but avoiding everyone and compulsory scheduling are obvious nonkeys.",
+      "issues": [
+        "An individualized activity plan is sensible, but avoiding everyone and compulsory scheduling are obvious nonkeys."
+      ],
+      "proposedChanges": [
+        "Give a specific evening trigger and a valued accessible activity. Compare concrete evening plans that vary in cue exposure, support and feasibility rather than generic good versus coercive planning."
+      ],
+      "reviewedItemSha256": "ad45a20680ee9e0b9330942d9061acc9cf68e850af1846a3fbeb7ea1273af146"
+    },
+    {
+      "id": "x-psychosocial-124",
+      "status": "revise",
+      "assessment": "Factual documentation is valid, but overtly derogatory labels make the SATA mostly a vocabulary screen.",
+      "issues": [
+        "Factual documentation is valid, but overtly derogatory labels make the SATA mostly a vocabulary screen."
+      ],
+      "proposedChanges": [
+        "Provide a brief observed encounter and candidate notes. Contrast accurate behaviour/quotes with politely worded unsupported inferences about motive, pain severity or treatment adherence; use foundation if retaining basic label recognition."
+      ],
+      "reviewedItemSha256": "17d0ee2877f4ba846906565640ce510fe73219a5955c7c124b68114623505c45"
+    },
+    {
+      "id": "x-psychosocial-125",
+      "status": "revise",
+      "assessment": "OUD does not remove postoperative pain needs, but proving abstinence and peer judgments are not plausible nursing plans.",
+      "issues": [
+        "OUD does not remove postoperative pain needs, but proving abstinence and peer judgments are not plausible nursing plans."
+      ],
+      "proposedChanges": [
+        "Provide postoperative pain, relevant respiratory assessment and current treatment context. Compare realistic next actions such as authorized analgesia/reassessment, acute-pain coordination and nonpharmacological support. Establish why current pain needs a coordinated plan without stigmatizing caricatures."
+      ],
+      "reviewedItemSha256": "d40378f565db372c2360fb1f69a05e1c5b89301f8f02b80266e8e474a42f70bf"
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:10:48.655659+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/b/pharmacology-04.json",
+  "sourceSha256": "2331a1bb453f593cc3f180f6a3b7ba059a18944dd30b3c8ff75c9cbc493be8d0",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-pharmacology-076",
+      "x-pharmacology-077",
+      "x-pharmacology-078",
+      "x-pharmacology-079",
+      "x-pharmacology-080",
+      "x-pharmacology-081",
+      "x-pharmacology-082",
+      "x-pharmacology-083",
+      "x-pharmacology-084",
+      "x-pharmacology-085",
+      "x-pharmacology-086",
+      "x-pharmacology-087",
+      "x-pharmacology-088",
+      "x-pharmacology-089",
+      "x-pharmacology-090",
+      "x-pharmacology-091",
+      "x-pharmacology-092",
+      "x-pharmacology-093",
+      "x-pharmacology-094",
+      "x-pharmacology-095",
+      "x-pharmacology-096",
+      "x-pharmacology-097",
+      "x-pharmacology-098",
+      "x-pharmacology-099",
+      "x-pharmacology-100"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.bccdc.ca/resource-gallery/Documents/Communicable-Disease-Manual/Chapter%204%20-%20TB/Appendix%20E.pdf",
+      "authority": "BC Centre for Disease Control",
+      "supports": [
+        "088 blurred/changed colour vision during ethambutol warrants stopping exposure, contacting TB team and ophthalmic assessment"
+      ],
+      "scope": "Specific optic-toxicity support, not whole-batch clinical validation."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-pharmacology-076",
+      "status": "revise",
+      "assessment": "Sampling-before-antibiotic key is defensible, but drainage-bag option introduces an unstated catheter and may be eliminated without clinical reasoning.",
+      "issues": [
+        "Sampling-before-antibiotic key is defensible, but drainage-bag option introduces an unstated catheter and may be eliminated without clinical reasoning."
+      ],
+      "proposedChanges": [
+        "Specify an indwelling catheter and a readily accessible sampling port, or replace bag option with an applicable midstream collection error. Preserve stable/no-delay context."
+      ],
+      "reviewedItemSha256": "5b8ece778e7a903ce76d8bbac5e1aae27591f58550e7bda3ac812d7d8d4f8d3f"
+    },
+    {
+      "id": "x-pharmacology-077",
+      "status": "revise",
+      "assessment": "Stop because organism identified is implausible and always-required broad coverage is a cueing absolute.",
+      "issues": [
+        "Stop because organism identified is implausible and always-required broad coverage is a cueing absolute."
+      ],
+      "proposedChanges": [
+        "Use competing plans: complete broad course solely because response is good; repeat culture before any regimen review; add targeted drug while completing broad course. Keep targeted effective-regimen review with susceptibility-specific rationale."
+      ],
+      "reviewedItemSha256": "63583783472f3e83d8f03ed738edcbd61d2043f6ea8e6451c22a3f1f0ef97f22"
+    },
+    {
+      "id": "x-pharmacology-078",
+      "status": "revise",
+      "assessment": "Every antibiotic contraindicated is an implausibly broad allergy inference.",
+      "issues": [
+        "Every antibiotic contraindicated is an implausibly broad allergy inference."
+      ],
+      "proposedChanges": [
+        "Replace option1 with: Avoid all penicillins and cephalosporins without asking about the reaction. Explain that reaction details/product-specific assessment are needed rather than equating all related agents automatically."
+      ],
+      "reviewedItemSha256": "b24a5b29c603381d50b2ad01e9415c47e75d5c1e9cdb2a01b154040b3c9aa515"
+    },
+    {
+      "id": "x-pharmacology-079",
+      "status": "revise",
+      "assessment": "Diarrhea means antibiotic working and meal-skipping without reassessment are cartoon responses; key is the only reasonable option.",
+      "issues": [
+        "Diarrhea means antibiotic working and meal-skipping without reassessment are cartoon responses; key is the only reasonable option."
+      ],
+      "proposedChanges": [
+        "Add stool frequency and hydration context. Use plausible incomplete responses: routine drug-intolerance advice based on absence of fever; delayed stool collection without current hydration/precaution assessment. Keep timely assessment/reporting and explain possible infectious colitis versus mild intolerance."
+      ],
+      "reviewedItemSha256": "d138a7cfa4330c80e067461b16824cdab797555a3c7248f4de250d8f9cc3776a"
+    },
+    {
+      "id": "x-pharmacology-080",
+      "status": "pass",
+      "assessment": "Clinical/functional improvement at stable oxygen requirement contrasts well with antipyretic masking, somnolence and worsening hypotension; multiple cues drive selection.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a59905ef2b69cb7524e90509ad6f31ac87fb7c7fc978b4946c58a597bdf81478"
+    },
+    {
+      "id": "x-pharmacology-081",
+      "status": "pass",
+      "assessment": "New auditory/vestibular symptoms before next gentamicin dose merit report and dose clarification; no need to wait for confirmed loss.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c6a64df0c18a8e5b78824d3cf19677761143685d8c2ec54c702b0d49c8cb8a6a"
+    },
+    {
+      "id": "x-pharmacology-082",
+      "status": "pass",
+      "assessment": "Current renal decline invalidates reliance on predating level; review current exposure/dosing rather than assuming stable clearance.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c65b18e336af13bbc9efe070e9f5ec90b156f08718fe09a9146414a6183880f3"
+    },
+    {
+      "id": "x-pharmacology-083",
+      "status": "revise",
+      "assessment": "Pause/assess key is defensible, but faster infusion to shorten reaction is implausibly unsafe.",
+      "issues": [
+        "Pause/assess key is defensible, but faster infusion to shorten reaction is implausibly unsafe."
+      ],
+      "proposedChanges": [
+        "Replace option2 with: Slow briefly, then restore the original rate without reporting the reaction. Explain that assessment and an authorized revised plan are required before continued exposure."
+      ],
+      "reviewedItemSha256": "bb0c448ea3307e442b05672c21eb7bfa2fb36c769fcaf07a478c9fa60e28c0dc"
+    },
+    {
+      "id": "x-pharmacology-084",
+      "status": "revise",
+      "assessment": "Serious painful mucosal rash warrants urgent action, but waiting for peeling or next-week reduced dose are extreme.",
+      "issues": [
+        "Serious painful mucosal rash warrants urgent action, but waiting for peeling or next-week reduced dose are extreme."
+      ],
+      "proposedChanges": [
+        "Replace option2 with: Treat mouth sores as thrush separate from a mild skin eruption. Replace option3 with: Request a routine dose reduction while continuing the medicine. Explain that combined mucosal and painful skin findings require urgent severe-reaction assessment."
+      ],
+      "reviewedItemSha256": "5e5f24ba9e955a564cf0876abccd1cd8b3f3d94217f7f16a65a752333829589f"
+    },
+    {
+      "id": "x-pharmacology-085",
+      "status": "revise",
+      "assessment": "Food timing/nausea distractor does not address tendon complaint.",
+      "issues": [
+        "Food timing/nausea distractor does not address tendon complaint."
+      ],
+      "proposedChanges": [
+        "Replace option0 with: Reduce running distance and discuss the pain at routine follow-up. Explain that new fluoroquinolone-associated tendon pain needs prompt medication review and avoidance of tendon stress."
+      ],
+      "reviewedItemSha256": "45c68048d93d9bbbc47e1faca70735f2b13c763c7ed920a2030db2589c716049"
+    },
+    {
+      "id": "x-pharmacology-086",
+      "status": "revise",
+      "assessment": "Crushing all products together to improve absorption is implausible without a swallowing issue.",
+      "issues": [
+        "Crushing all products together to improve absorption is implausible without a swallowing issue."
+      ],
+      "proposedChanges": [
+        "Replace option0 with: Separate the antacid but continue calcium with doxycycline. Explain that both mineral sources require product-specific interaction review."
+      ],
+      "reviewedItemSha256": "af71719698b369888eefe8defa26c0da4898b5617abdd20633570ee77f318b2f"
+    },
+    {
+      "id": "x-pharmacology-087",
+      "status": "pass",
+      "assessment": "Orange urine without systemic danger cues supports expected rifampin effect with red-flag teaching; competing interpretations are relevant.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "dca9128008269f76f2d034ed2d27b7652c8ecc68eb4440e88def0cd427febf56"
+    },
+    {
+      "id": "x-pharmacology-088",
+      "status": "pass",
+      "assessment": "Colour/acuity change on ethambutol needs contact before further dosing; BCCDC explicitly supports stopping and prompt assessment of optic toxicity.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4baf072a3fb164c4194e9589093457eb2ba1282f4f2518aa821a4c9200df6655"
+    },
+    {
+      "id": "x-pharmacology-089",
+      "status": "revise",
+      "assessment": "All distractors are implausible: double isoniazid, stop all TB drugs permanently, tingling means cure.",
+      "issues": [
+        "All distractors are implausible: double isoniazid, stop all TB drugs permanently, tingling means cure."
+      ],
+      "proposedChanges": [
+        "Replace with: restart pyridoxine and wait until routine visit to report; request symptom relief without reporting missed pyridoxine; attribute tingling to footwear and continue regimen without review. Keep assessment/report key, similar option lengths, and explain possible neuropathy."
+      ],
+      "reviewedItemSha256": "488c16ce3b80f8af9e6fbd5f02249dce0d4ade761baf679203629627211b1445"
+    },
+    {
+      "id": "x-pharmacology-090",
+      "status": "pass",
+      "assessment": "Exploring tolerability/support and preserving prescribed combination addresses a real adherence choice; self-selected single tablet and delayed catch-up fail regimen integrity.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2c53ab6f206079ed2d131a81a463c697f2cb545814b40b28547819eb6f7fd59b"
+    },
+    {
+      "id": "x-pharmacology-091",
+      "status": "revise",
+      "assessment": "Only reasonable correct route explanation is cued by exaggerated IV-always-better and oral-no-adverse-effects claims.",
+      "issues": [
+        "Only reasonable correct route explanation is cued by exaggerated IV-always-better and oral-no-adverse-effects claims."
+      ],
+      "proposedChanges": [
+        "Use balanced misconceptions: IV would be preferred if access were easier; routes can be exchanged at the same dose; oral therapy is reserved only for mild disease. Shorten key to Oral treatment reaches the intestinal infection site and explain site-specific distribution."
+      ],
+      "reviewedItemSha256": "d14e636295ccfbad983d223d9c03486797fa1249287930906927fc810cf7412a"
+    },
+    {
+      "id": "x-pharmacology-092",
+      "status": "pass",
+      "assessment": "Observed immediate swallowing undermines oral surface contact; product-directed local administration is defensible with realistic dilution/rinsing errors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "39b2baeb03a91ec65612969047e55606895c7a62796368493b2283db2b363494"
+    },
+    {
+      "id": "x-pharmacology-093",
+      "status": "pass",
+      "assessment": "Fluconazole/warfarin interaction needs monitoring plan; food compensation and dose spacing do not resolve metabolism-based effect.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5cbe7788688db22cb527c9ca0a0c45c10c4b99e86aadd461f69a1d2d5a47a037"
+    },
+    {
+      "id": "x-pharmacology-094",
+      "status": "revise",
+      "assessment": "Skin-rash-only monitoring is unrelated filler for explicit QT/hypokalemia risk.",
+      "issues": [
+        "Skin-rash-only monitoring is unrelated filler for explicit QT/hypokalemia risk."
+      ],
+      "proposedChanges": [
+        "Replace option1 with: Check pulse regularity alone and proceed if it is regular. Explain that a current regular pulse does not evaluate QT interval or remove electrolyte-related risk."
+      ],
+      "reviewedItemSha256": "d79b565124e1b5e810fd91fae77081ea078f7868f31368f6b10f620080f05500"
+    },
+    {
+      "id": "x-pharmacology-095",
+      "status": "revise",
+      "assessment": "The pharmacist already identifies unspecified statin interaction, so item only repeats generic clarify-alert objective without drug-specific reasoning.",
+      "issues": [
+        "The pharmacist already identifies unspecified statin interaction, so item only repeats generic clarify-alert objective without drug-specific reasoning."
+      ],
+      "proposedChanges": [
+        "Name simvastatin and ask which toxicity assessment/teaching is particularly relevant after a new clarithromycin prescription, using balanced competing adverse-effect clusters. Key should target muscle injury and appropriate regimen review; source-check product contraindication/management."
+      ],
+      "reviewedItemSha256": "9e2ad852892b90257c4e627f45fcf7c89a42e6d816c5763c741f052b736257da"
+    },
+    {
+      "id": "x-pharmacology-096",
+      "status": "pass",
+      "assessment": "Ramipril plus trimethoprim and elevated potassium require reporting combined potassium-retaining effect; dose spacing does not remove pharmacodynamic risk.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "46ff93d1a72f6a44c40b944f4326818d51aa4c46f65bb8335140822097c36150"
+    },
+    {
+      "id": "x-pharmacology-097",
+      "status": "revise",
+      "assessment": "Arbitrary full-day feed interruption is overtly signalled as wrong.",
+      "issues": [
+        "Arbitrary full-day feed interruption is overtly signalled as wrong."
+      ],
+      "proposedChanges": [
+        "Replace option2 with: Apply the same two-hour feed hold used for another antibiotic without checking this product. Explain that timing depends on drug formulation/interaction and nutrition needs."
+      ],
+      "reviewedItemSha256": "e656d5ca401f54374fccecf4f441da443387cbd7ab75ca6ceec6349385f1ed0e"
+    },
+    {
+      "id": "x-pharmacology-098",
+      "status": "revise",
+      "assessment": "Extra nitrofurantoin for kidney penetration is an implausible remedy; key is the only reasonable clinical response.",
+      "issues": [
+        "Extra nitrofurantoin for kidney penetration is an implausible remedy; key is the only reasonable clinical response."
+      ],
+      "proposedChanges": [
+        "Use credible competing plans: request a urinary analgesic for flank discomfort; continue a lower-UTI plan after antiemetic relief; arrange routine repeat urine testing instead of prompt systemic assessment. Specify fever/flank signs and explain poor suitability of a bladder-focused regimen for possible upper infection."
+      ],
+      "reviewedItemSha256": "d90ebfef5229b901491f23424232555ddb376e8d50300f16f3410864ec721013"
+    },
+    {
+      "id": "x-pharmacology-099",
+      "status": "pass",
+      "assessment": "Prescribed duration subject to clinician change and severe-effect reporting are appropriate; sharing/storing leftovers are realistic patient teaching misconceptions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8ffc6d93dae90fb85716b03e4f7fb5bf3e478a080f610738371748a7d13154a2"
+    },
+    {
+      "id": "x-pharmacology-100",
+      "status": "pass",
+      "assessment": "Observed aseptic technique and complication reporting demonstrate home readiness; bag colour and alarm reliance are credible incomplete safety strategies.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8aaa90a8b9c95c151bd3cd66c883ef0cc9faa96ac6cf35455da0ed805f92b058"
+    }
+  ],
+  "rubricUpdate": "Includes user-requested assessment of longest/most-comprehensive key cues, only-reasonable-option bias, parallel option grammar and case-specific reasoning.",
+  "hashRevalidationRequired": true,
+  "hashRevalidationReason": "Author metadata/self-audit update overlapped the first-pass review window. Do not use recorded hashes as current approval until snapshot revalidation.",
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

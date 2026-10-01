@@ -1,0 +1,146 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:06:09.590804+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/basic-076-100.json",
+  "sourceSha256": "44c779114d87b0d87b3c756c0d97517216c7a1cf373d85a9c6f88981bff83122",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 11,
+    "reviewedIds": [
+      "x-basic-078",
+      "x-basic-079",
+      "x-basic-082",
+      "x-basic-084",
+      "x-basic-088",
+      "x-basic-091",
+      "x-basic-092",
+      "x-basic-094",
+      "x-basic-096",
+      "x-basic-098",
+      "x-basic-100"
+    ],
+    "unreviewedIds": [
+      "x-basic-076",
+      "x-basic-077",
+      "x-basic-080",
+      "x-basic-081",
+      "x-basic-083",
+      "x-basic-085",
+      "x-basic-086",
+      "x-basic-087",
+      "x-basic-089",
+      "x-basic-090",
+      "x-basic-093",
+      "x-basic-095",
+      "x-basic-097",
+      "x-basic-099"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-basic-078",
+      "status": "pass",
+      "assessment": "No urgent retention is present, so privacy and usual safe position address the observed barrier before invasive catheterization. Partly open curtain now tests privacy-versus-observation balance.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "18e21416b7cb42c6668808778a6e3ef81ea870a128310a3c209438c52004e06a"
+    },
+    {
+      "id": "x-basic-079",
+      "status": "pass",
+      "assessment": "Easy-release clothing directly addresses observed button delay. Scheduling at staff breaks and recording a diary alone do not immediately remove the functional barrier.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b0ec0f7778eb683436ecb60d57721bca2defb5c193652d4be37bcd75c2ee7bf5"
+    },
+    {
+      "id": "x-basic-082",
+      "status": "pass",
+      "assessment": "Moving some fluid earlier addresses diary-documented nocturnal volume while preserving hydration. Daytime scheduling alone is now a plausible mismatched response.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a3452d7931e6e473afb1e79e9217fd5e7065b02d397723566884a60e74b56d22"
+    },
+    {
+      "id": "x-basic-084",
+      "status": "pass",
+      "assessment": "Supporting urinal position addresses weak grip. Scheduled access without holding help does not resolve device handling; spillage need not mean incontinence.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f65dd0ace90bf459de8e3380969d1453737cfc0617427c64fa529c2abb36b283"
+    },
+    {
+      "id": "x-basic-088",
+      "status": "pass",
+      "assessment": "Routine gentle external care and a closed drainage system are appropriate. Unindicated antiseptics/antibiotic ointments are plausible over-treatment misconceptions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "09a831e698475d5a481b1acf0856dae33f5f2a04d741263bb6ea4fc367842154"
+    },
+    {
+      "id": "x-basic-091",
+      "status": "pass",
+      "assessment": "Burning with an active leak needs prompt removal/skin-seal assessment; delayed scheduled change or tape concealment prolongs exposure. Post-meal timing is not asserted to be clinically desirable.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2452397d425d84edb9f3d597503d1c19f63033141778bb45ffad88a71b0ba716"
+    },
+    {
+      "id": "x-basic-092",
+      "status": "pass",
+      "assessment": "Reduced swelling with exposed skin calls for remeasurement and refit. Paste without correcting the opening is a realistic workaround that does not resolve fit.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fa8e03098b8df4078692228375f648b717d3852cbf03e75fe09060bed1c51ff9"
+    },
+    {
+      "id": "x-basic-094",
+      "status": "pass",
+      "assessment": "Checking a new itch for leakage and demonstrating pouch emptying/closure show practical learning. Taping over a leak is a meaningful error; possessing a handout is not performance.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "efd239b5318533b12ea3211430a34b8e89c487e531d7f5e6efa64e33b6a44e13"
+    },
+    {
+      "id": "x-basic-096",
+      "status": "revise",
+      "assessment": "The alternatives now assess meaningful bowel outcomes, but the stem states soft comfortable stool without straining and then asks which identical outcome supports continuation. Remove the answer giveaway in the stem.",
+      "issues": [
+        "The alternatives now assess meaningful bowel outcomes, but the stem states soft comfortable stool without straining and then asks which identical outcome supports continuation. Remove the answer giveaway in the stem."
+      ],
+      "proposedChanges": [
+        {
+          "stem": "An older adult is following an individualized bowel-care plan. Which finding most supports continuing the current plan?"
+        }
+      ],
+      "reviewedItemSha256": "1fe9eeeef5bfc9385bfd89524adf8ea621df446ec3c0aceeb5627a19c975b08f"
+    },
+    {
+      "id": "x-basic-098",
+      "status": "pass",
+      "assessment": "An accessible agreed signal addresses expressive aphasia; bell access without agreeing communication may leave the specific need unresolved. The revision removes an implausible continuous-family requirement.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3dccf8420fdf47340e169af470e653298ab86835c2ac6c431338e6dff28a9a30"
+    },
+    {
+      "id": "x-basic-100",
+      "status": "pass",
+      "assessment": "A count and seven-day interval now make the goal measurable. Clothing skill, intake recording and describing strategies are plausible process/learning outcomes rather than direct continence success.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f7e653fb2f9af0c24278bffad6e54060ffbc8c657c0dbcf7db4fbdc589905e7b"
+    }
+  ],
+  "reviewScope": "Only eleven previously revised IDs were re-read; unchanged matching hashes retain the earlier independent review. No new primary-source sweep was claimed for these routine-care editorial changes.",
+  "reviewerTask": "/root/review_legacy"
+}

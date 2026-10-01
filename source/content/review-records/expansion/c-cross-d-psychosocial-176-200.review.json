@@ -1,0 +1,687 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewerTask": "/root/author_risk_basic",
+  "reviewedAt": "2026-10-01T18:29:02.296990+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/d/questions.json",
+  "coverage": {
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-psychosocial-176",
+      "x-psychosocial-177",
+      "x-psychosocial-178",
+      "x-psychosocial-179",
+      "x-psychosocial-180",
+      "x-psychosocial-181",
+      "x-psychosocial-182",
+      "x-psychosocial-183",
+      "x-psychosocial-184",
+      "x-psychosocial-185",
+      "x-psychosocial-186",
+      "x-psychosocial-187",
+      "x-psychosocial-188",
+      "x-psychosocial-189",
+      "x-psychosocial-190",
+      "x-psychosocial-191",
+      "x-psychosocial-192",
+      "x-psychosocial-193",
+      "x-psychosocial-194",
+      "x-psychosocial-195",
+      "x-psychosocial-196",
+      "x-psychosocial-197",
+      "x-psychosocial-198",
+      "x-psychosocial-199",
+      "x-psychosocial-200"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Actually read complete current versions of all25 items and reasoned the findings individually. Three current items pass;22 require specified improvements. Replacement180 separates therapeutic explanation/engagement from duplicate physiological refeeding-recognition items.",
+  "limitations": [
+    "Independent AI review, not clinician or psychometric validation.",
+    "Targeted new sources were retrieved as search-result excerpts; author must register additions and record actual access before final source reconciliation.",
+    "No claim of exhaustive live-exam or whole-bank semantic comparison."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.nice.org.uk/guidance/ng69/chapter/recommendations",
+      "claims": "Medical instability across body sizes, coordinated eating-disorder care, binge eating and nutritional rehabilitation",
+      "accessMode": "search-result excerpt",
+      "ref": "turn267search1"
+    },
+    {
+      "url": "https://www.nice.org.uk/guidance/ng87/chapter/recommendations",
+      "claims": "Environmental modifications, reduced distraction and shorter periods of focus",
+      "accessMode": "search-result excerpt",
+      "ref": "turn267search0"
+    },
+    {
+      "url": "https://www.cno.org/standards-learning/practice-support/practice-support-faqs/communicating-with-clients-online?l=en-ca",
+      "claims": "Professional boundaries and personal social-media contacts",
+      "accessMode": "search-result excerpt",
+      "ref": "turn267search2"
+    },
+    {
+      "url": "https://openstax.org/books/fundamentals-nursing/pages/35-2-applications-of-spirituality-to-health-care",
+      "claims": "Open-ended spiritual assessment and client-defined support",
+      "accessMode": "search-result excerpt",
+      "ref": "turn278search1"
+    }
+  ],
+  "sourceAdditions": {
+    "d-eating-nice": {
+      "name": "NICE NG69: Eating disorders—recognition and treatment",
+      "url": "https://www.nice.org.uk/guidance/ng69/chapter/recommendations",
+      "kind": "Primary clinical guideline",
+      "scope": "Medical instability across body sizes, coordinated eating-disorder care, binge eating and nutritional rehabilitation"
+    },
+    "d-attention-support": {
+      "name": "NICE NG87: Attention deficit hyperactivity disorder—diagnosis and management",
+      "url": "https://www.nice.org.uk/guidance/ng87/chapter/recommendations",
+      "kind": "Primary clinical guideline",
+      "scope": "Environmental modifications, reduced distraction and shorter periods of focus"
+    },
+    "d-boundaries-ca": {
+      "name": "College of Nurses of Ontario: Communicating with clients online",
+      "url": "https://www.cno.org/standards-learning/practice-support/practice-support-faqs/communicating-with-clients-online?l=en-ca",
+      "kind": "Canadian regulator practice guidance",
+      "scope": "Professional boundaries and personal social-media contacts"
+    },
+    "d-spiritual": {
+      "name": "OpenStax Fundamentals of Nursing: Applications of Spirituality to Health Care",
+      "url": "https://openstax.org/books/fundamentals-nursing/pages/35-2-applications-of-spirituality-to-health-care",
+      "kind": "Open nursing textbook primary chapter",
+      "scope": "Open-ended spiritual assessment and client-defined support"
+    }
+  },
+  "items": [
+    {
+      "id": "x-psychosocial-176",
+      "status": "revise",
+      "assessment": "Three alternatives rely on reward manipulation or an implausible inference of cured dementia. Use competing activity approaches that require the demonstrated preference to guide selection.",
+      "issues": [
+        "Three alternatives rely on reward manipulation or an implausible inference of cured dementia. Use competing activity approaches that require the demonstrated preference to guide selection."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Move plant care into the large gardening group to increase social contact",
+          "Include the familiar plant-care activity in the individualized daily plan",
+          "Rotate several new hobbies each week to broaden cognitive stimulation",
+          "Use plant-care sessions to practise recalling plant names and dates"
+        ],
+        "why": [
+          "Social contact may help, but a larger group has not demonstrated the calming effect of this familiar activity.",
+          "The observed response supports retaining a meaningful role and remaining abilities.",
+          "Novel activities can be offered, but should not displace a personally meaningful activity that already helps.",
+          "Recall exercises may create a performance demand; the demonstrated benefit is meaningful participation rather than testing."
+        ]
+      },
+      "reviewedItemSha256": "23184ba0c2a516e2825b4c9386147d70fbf62462dc9fa0a413461106ee79abb7"
+    },
+    {
+      "id": "x-psychosocial-177",
+      "status": "revise",
+      "assessment": "The key is clinically sound, but arbitrary delays, only and calm appearance make the alternatives trivial. Add concrete instability and compare relevant assessments.",
+      "issues": [
+        "The key is clinically sound, but arbitrary delays, only and calm appearance make the alternatives trivial. Add concrete instability and compare relevant assessments."
+      ],
+      "proposedChanges": {
+        "stem": "An adult receiving care for restrictive eating reports fainting. The pulse is 42/min and blood pressure is 86/52 mmHg. Which action has priority?",
+        "options": [
+          "Obtain a detailed recent intake and compensatory-behaviour history",
+          "Explore the fears that have made the current meal plan difficult",
+          "Arrange urgent medical assessment for the cardiovascular instability",
+          "Review the planned activity level with the eating-disorder team"
+        ],
+        "why": [
+          "This history is relevant, but must not delay response to fainting with marked bradycardia and hypotension.",
+          "Psychological assessment remains important after immediate physical risk is addressed.",
+          "Fainting with these observations requires urgent medical assessment and stabilization within coordinated care.",
+          "Activity planning matters, but the immediate problem is current physiological instability."
+        ],
+        "difficulty": "application",
+        "refs": [
+          "d-eating",
+          "d-eating-nice"
+        ]
+      },
+      "reviewedItemSha256": "d471ed3ef1c4404fca743f0d82b3ff3f2f7a387bb47d912a8f955c83a2aecc4c"
+    },
+    {
+      "id": "x-psychosocial-178",
+      "status": "revise",
+      "assessment": "The incorrect answers all dismiss or worsen an eating disorder based on appearance. Compare relevant eating-disorder assessments, with palpitations establishing the priority.",
+      "issues": [
+        "The incorrect answers all dismiss or worsen an eating disorder based on appearance. Compare relevant eating-disorder assessments, with palpitations establishing the priority."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Review the measured weight trend and recent changes in intake",
+          "Explore situations that trigger vomiting and the associated emotions",
+          "Assess the mouth and teeth for longer-term effects of vomiting",
+          "Assess current vital signs and escalate possible purging-related cardiac risk"
+        ],
+        "why": [
+          "Weight and intake contribute to assessment, but apparently average size does not exclude acute complications.",
+          "Triggers inform treatment, but palpitations raise a more immediate physical concern.",
+          "Dental effects matter, but do not determine current electrolyte or cardiovascular safety.",
+          "Frequent vomiting with palpitations warrants prompt physical assessment and clinical escalation for possible complications."
+        ],
+        "refs": [
+          "d-eating",
+          "d-eating-nice"
+        ]
+      },
+      "reviewedItemSha256": "a075f5102e010b6203a10b18254e98c4efdc673a602423d12bfc0c39574057cc"
+    },
+    {
+      "id": "x-psychosocial-179",
+      "status": "revise",
+      "assessment": "SATA key is defensible; obvious independent calorie negotiation and peer pressure should become recognizable well-intended meal-support errors.",
+      "issues": [
+        "SATA key is defensible; obvious independent calorie negotiation and peer pressure should become recognizable well-intended meal-support errors."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Offer calm support using the agreed meal-time coping strategies",
+          "Follow the consistent meal-support approach agreed by the team",
+          "Offer a lower-energy substitution today to reduce the chance of refusal",
+          "Use neutral language about health and coping during the meal",
+          "Compare the portion with another client’s to show that it is reasonable"
+        ],
+        "why": [
+          "Agreed coping support helps the client tolerate distress while remaining engaged.",
+          "Consistency supports the coordinated treatment approach.",
+          "Unplanned substitutions can reinforce avoidance and should be reviewed through the established plan.",
+          "Neutral language supports care without reinforcing appearance-based evaluation.",
+          "Comparison may intensify checking or competition rather than address this client’s distress."
+        ],
+        "refs": [
+          "d-eating",
+          "d-eating-nice"
+        ]
+      },
+      "reviewedItemSha256": "56e58ad4395b6ad772179b67c71b48d34c5c3eaaa6908f3e2477ae915f4415f2"
+    },
+    {
+      "id": "x-psychosocial-180",
+      "status": "revise",
+      "assessment": "The generic refeeding-mechanism item duplicates several risk/pharmacology objectives and has absurd absolute distractors. Replace it with communication addressing mistrust of physical monitoring, retaining medical accuracy as supporting context.",
+      "issues": [
+        "The generic refeeding-mechanism item duplicates several risk/pharmacology objectives and has absurd absolute distractors. Replace it with communication addressing mistrust of physical monitoring, retaining medical accuracy as supporting context."
+      ],
+      "proposedChanges": {
+        "title": "Explaining monitoring during nutritional recovery",
+        "stem": "A client beginning nutritional rehabilitation says, “The blood tests mean the team does not trust me to eat.” The prescribed monitoring has been explained briefly, but the client remains worried. Which response most directly supports understanding and engagement?",
+        "options": [
+          "These checks look for body changes as nutrition restarts; what worries you about them?",
+          "Your efforts with meals have been encouraging; let us focus on that progress today.",
+          "The checks are part of the usual program; knowing the schedule may make them easier.",
+          "The team reviews test results at rounds; would you like the review times written down?"
+        ],
+        "answer": [
+          0
+        ],
+        "why": [
+          "This corrects the belief that testing judges cooperation and invites discussion of the client’s concern.",
+          "Encouragement may help, but leaves the misunderstanding about monitoring unanswered.",
+          "Predictability may reduce anxiety, but describing routine procedure does not explain its clinical purpose.",
+          "Access to results matters, but postponing the explanation does not address the present concern about trust."
+        ],
+        "takeaway": "Explain the medical purpose of monitoring while exploring the client’s concerns about treatment.",
+        "learningObjective": "Explain the medical purpose of monitoring while exploring the client’s concerns about treatment.",
+        "subtopic": "Eating-disorder treatment engagement",
+        "reasoningSkill": "teaching",
+        "difficulty": "application",
+        "refs": [
+          "d-eating",
+          "d-eating-nice",
+          "d-communication"
+        ]
+      },
+      "reviewedItemSha256": "c09b5a8bc2ff9375d964a9b372067ce4fb4815e2fef66dcd83883e5c59001dcb"
+    },
+    {
+      "id": "x-psychosocial-181",
+      "status": "revise",
+      "assessment": "Other-client comparison and asking relatives to judge are weak distractors. Use plausible reassurance approaches that remain less helpful than addressing the distress.",
+      "issues": [
+        "Other-client comparison and asking relatives to judge are weak distractors. Use plausible reassurance approaches that remain less helpful than addressing the distress."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Review the recent weight trend to show that recovery is progressing",
+          "Explore the anxiety and return to agreed health and coping goals",
+          "Reassure the client that their appearance now looks much healthier",
+          "Offer another body measurement to settle the immediate uncertainty"
+        ],
+        "why": [
+          "Clinical weight information may be discussed within the plan, but answering an appearance-checking request this way may miss the underlying anxiety.",
+          "Exploring distress supports coping without making external appearance judgment the centre of care.",
+          "Well-intended appearance praise can reinforce the importance of body evaluation.",
+          "Additional checking for reassurance can maintain the anxiety cycle rather than build coping."
+        ]
+      },
+      "reviewedItemSha256": "2bde5dfd3db12f79eecbd9cfe7b39d6778409f08c240f8cae368df29c03a4213"
+    },
+    {
+      "id": "x-psychosocial-182",
+      "status": "revise",
+      "assessment": "Willpower, skipped meals and nurse comparisons are judgmental or implausible alternatives. Compare common premature interventions with assessment; add a source covering binge eating rather than anorexia alone.",
+      "issues": [
+        "Willpower, skipped meals and nurse comparisons are judgmental or implausible alternatives. Compare common premature interventions with assessment; add a source covering binge eating rather than anorexia alone."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Start with advice on planning portions and shopping for regular meals",
+          "Ask for a calorie diary to guide initial advice about energy intake",
+          "Explore the episodes, triggers and distress to guide appropriate support",
+          "Begin with a relaxation plan for the periods when eating feels difficult"
+        ],
+        "why": [
+          "Meal planning may help later, but the loss-of-control pattern and its effects need assessment first.",
+          "A calorie-focused record alone does not assess the nature of episodes or distress and may misdirect care.",
+          "Nonjudgmental exploration identifies the pattern and needs for coordinated specialist assessment.",
+          "Stress strategies can help, but should follow understanding of the episodes rather than replace assessment."
+        ],
+        "refs": [
+          "d-eating-nice"
+        ]
+      },
+      "reviewedItemSha256": "be08a4233e88e11591f47376cb2b828010d11bf5ea8175f2524ceab8e73cc55c"
+    },
+    {
+      "id": "x-psychosocial-183",
+      "status": "revise",
+      "assessment": "Praising dangerous exercise, longer workouts and ignoring symptoms are obvious wrong actions. Use recognizable attempts to preserve engagement that still fail to address current dizziness.",
+      "issues": [
+        "Praising dangerous exercise, longer workouts and ignoring symptoms are obvious wrong actions. Use recognizable attempts to preserve engagement that still fail to address current dizziness."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Substitute a short slow walk for the workout to maintain participation",
+          "Guide paced breathing so the client can finish the current exercise",
+          "Review longer-term exercise goals to negotiate a sustainable routine",
+          "Pause the activity, assess dizziness and follow the coordinated activity plan"
+        ],
+        "why": [
+          "Reducing intensity does not establish that exercise is safe during current dizziness and malnutrition.",
+          "Breathing support does not address possible physical instability while exercise continues.",
+          "Longer-term goals matter after immediate symptoms and current limits are addressed.",
+          "Current symptoms require assessment and a safe response consistent with the established care plan."
+        ],
+        "difficulty": "application",
+        "refs": [
+          "d-eating",
+          "d-eating-nice"
+        ]
+      },
+      "reviewedItemSha256": "f9a299cf257e2f6c658cf0456708b579a89ec59dcd8f9e42bd6b45f71cc96b2d"
+    },
+    {
+      "id": "x-psychosocial-184",
+      "status": "pass",
+      "assessment": "The selected findings cover coping, physical stability and valued participation. The unselected findings describe clinically recognizable worsening comparison and disclosure patterns. Key and rationales are coherent; this is a limited general outcome-selection item.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d8310a79f878f53deffa516a0a62b56e7047e663a35ee5f09a1b7fd65471534f"
+    },
+    {
+      "id": "x-psychosocial-185",
+      "status": "pass",
+      "assessment": "The replacement now tests clarification of a specific figurative instruction using an explicit written schedule. It does not duplicate sensory-overload reduction. Concrete action and timing answer the actual misunderstanding; competing explanations do not fully resolve it.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "08388be7b145f955eab8cb3ff3ba3f84d9a78370b3fcfc4a8c0eb9e0c1440486"
+    },
+    {
+      "id": "x-psychosocial-186",
+      "status": "revise",
+      "assessment": "Removing an established aid or assuming no understanding makes the key trivial. Present competing communication strategies and establish that the client can and wants to answer directly.",
+      "issues": [
+        "Removing an established aid or assuming no understanding makes the key trivial. Present competing communication strategies and establish that the client can and wants to answer directly."
+      ],
+      "proposedChanges": {
+        "stem": "An autistic adult answers accurately using a familiar communication device and asks to answer the assessment questions themselves. Responses take extra time. Which approach best supports the assessment?",
+        "options": [
+          "Ask the caregiver to summarize answers and invite the client to correct them",
+          "Use the client’s established device and allow time for each response",
+          "Use nurse-led yes-or-no questions to complete the interview more quickly",
+          "Introduce the clinic’s standard picture board for the remaining questions"
+        ],
+        "why": [
+          "The caregiver may contribute with permission, but leading through them bypasses the client’s stated preference and demonstrated ability.",
+          "The familiar system provides effective direct communication and should be accommodated.",
+          "A faster restricted format may omit detail the client can express through their own system.",
+          "A new board may be useful in some situations, but there is no demonstrated need to replace the effective established method."
+        ]
+      },
+      "reviewedItemSha256": "5da6fa2d706dcdc1a0a54d0bdbcb93b5fd9c4b81e86e2a7537b5fd5e60a69b25"
+    },
+    {
+      "id": "x-psychosocial-187",
+      "status": "revise",
+      "assessment": "Vague reassurance, rushing and deeming an exam unnecessary are conspicuous distractors. Use relevant coping and explanation strategies, with sequencing answering this client’s trigger.",
+      "issues": [
+        "Vague reassurance, rushing and deeming an exam unnecessary are conspicuous distractors. Use relevant coping and explanation strategies, with sequencing answering this client’s trigger."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Describe the equipment in a calm voice before each new examination step",
+          "Offer a short break and then resume the examination in the revised order",
+          "Review the revised sequence and provide a visual or written plan",
+          "Ask the parent to provide reassurance while the changed examination begins"
+        ],
+        "why": [
+          "Equipment explanations may help, but do not resolve uncertainty about the changed order.",
+          "A break can reduce distress, but the client still needs information about what will happen next.",
+          "A clear revised sequence restores predictability and supports preparation for the change.",
+          "Parent support may be welcome, but beginning without clarifying the change leaves the identified trigger unaddressed."
+        ]
+      },
+      "reviewedItemSha256": "dbfcf5fd6e0999914105a9671e84e782fe05ba2fd708b260602f5ad4ca11233e"
+    },
+    {
+      "id": "x-psychosocial-188",
+      "status": "revise",
+      "assessment": "The alternatives dismiss attention needs and the autism-only citation does not directly support an attention-specific case. Use a stated ADHD context and relevant teaching adaptations.",
+      "issues": [
+        "The alternatives dismiss attention needs and the autism-only citation does not directly support an attention-specific case. Use a stated ADHD context and relevant teaching adaptations."
+      ],
+      "proposedChanges": {
+        "stem": "A child with ADHD misses steps when learning a care task during a busy clinic visit. The child can complete an individual step when prompted. Which teaching adaptation best fits this pattern?",
+        "options": [
+          "Give the complete written sequence and ask the child to practise it once",
+          "Have the caregiver demonstrate the full sequence while the child watches",
+          "Extend the session so the complete verbal explanation can be repeated",
+          "Practise brief individual steps in a quieter area with feedback"
+        ],
+        "why": [
+          "Written reinforcement can help, but presenting the complete sequence does not reduce the observed task and attention demands.",
+          "A full demonstration may help the caregiver, but offers less supported practice for the child’s demonstrated needs.",
+          "A longer repeated explanation may add fatigue without changing the teaching demand.",
+          "Reduced distractions and brief active practice fit the observed attention and sequencing needs."
+        ],
+        "refs": [
+          "d-attention-support"
+        ]
+      },
+      "reviewedItemSha256": "2735233e6551ff68c55bae00c0aa83348c73c056b35e7048373bb8168e1ab6dc"
+    },
+    {
+      "id": "x-psychosocial-189",
+      "status": "pass",
+      "assessment": "The observations distinguish unresolved environmental triggers and a direct accommodation request from successful communication and self-selected calming supports. Keys and per-option rationales align with evaluation of an individualized plan.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4d2e4dbe2e30924f33942e8ad1ded8f6fbac0276b39750b916f1ff87fff83c4a"
+    },
+    {
+      "id": "x-psychosocial-190",
+      "status": "revise",
+      "assessment": "Criticizing another nurse and refusing discussion are bad-intent cues. Compare plausible approaches while retaining assessment of any new need rather than mechanical refusal.",
+      "issues": [
+        "Criticizing another nurse and refusing discussion are bad-intent cues. Compare plausible approaches while retaining assessment of any new need rather than mechanical refusal."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Clarify the current need and respond consistently with the agreed team plan",
+          "Allow a one-time exception to preserve rapport during this interaction",
+          "Refer the client back to the first nurse to keep the original decision consistent",
+          "Restate the existing limit and the next review time before exploring the request"
+        ],
+        "why": [
+          "The request deserves assessment; new information can be reviewed with the team while maintaining predictable care.",
+          "An uncoordinated exception can create confusion without establishing whether the plan needs revision.",
+          "Team consistency does not remove the present nurse’s responsibility to hear the client’s concern.",
+          "Clear limits help, but the current need should be heard rather than assumed to be unchanged."
+        ]
+      },
+      "reviewedItemSha256": "df70bebe5a8d091f4a6b639a0ecdc274efd48fa2d1be574359fa447ee4324351"
+    },
+    {
+      "id": "x-psychosocial-191",
+      "status": "revise",
+      "assessment": "Impossible promises and conditional attention are implausible competitors. Compare supportive responses that differ in whether they address both emotion and concrete continuity.",
+      "issues": [
+        "Impossible promises and conditional attention are implausible competitors. Compare supportive responses that differ in whether they address both emotion and concrete continuity."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Explain that the covering nurses have the same training and experience",
+          "Acknowledge the feeling and explain who will provide care during the absence",
+          "Offer to postpone the next conversation until the usual nurse returns",
+          "Review the coping skills that helped during earlier difficult separations"
+        ],
+        "why": [
+          "Competence reassurance may help, but does not fully acknowledge the distress or make the continuity plan concrete.",
+          "Validation plus an understandable coverage plan addresses the fear without unrealistic promises.",
+          "Postponement may reinforce dependence and leaves current support uncertain.",
+          "Coping skills can complement the response, but should not replace clarifying reliable ongoing care."
+        ]
+      },
+      "reviewedItemSha256": "07c48322f0ca615b1d73a1e81c3b3b25516c14db5acaefe1498434efcbc19584"
+    },
+    {
+      "id": "x-psychosocial-192",
+      "status": "revise",
+      "assessment": "Offering someone else’s personal account and abrupt avoidance are weak distractors. Use recognizable boundary rationalizations and cite current Canadian regulator guidance.",
+      "issues": [
+        "Offering someone else’s personal account and abrupt avoidance are weak distractors. Use recognizable boundary rationalizations and cite current Canadian regulator guidance."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Accept the request with access limited to viewing rather than messaging",
+          "Create a separate personal account for clients after they leave the service",
+          "Explain the boundary and review appropriate ongoing support contacts",
+          "Ask the client to send the request again after discharge is complete"
+        ],
+        "why": [
+          "Restricted visibility does not turn a personal social-media relationship into an appropriate professional care channel.",
+          "A personal account for former clients still creates boundary and confidentiality concerns outside approved systems.",
+          "A respectful explanation and appropriate support contacts maintain boundaries and continuity.",
+          "Completion of discharge does not automatically make personal social-media contact appropriate."
+        ],
+        "refs": [
+          "d-communication",
+          "d-boundaries-ca"
+        ]
+      },
+      "reviewedItemSha256": "5fca5366f284c186b6658615fe83a0deedf6df3ba5c87e1275400be1468c5e45"
+    },
+    {
+      "id": "x-psychosocial-193",
+      "status": "revise",
+      "assessment": "Matching volume and withdrawing care are cartoonishly hostile. Use common de-escalation errors with legitimate intentions and retain the clear alternative.",
+      "issues": [
+        "Matching volume and withdrawing care are cartoonishly hostile. Use common de-escalation errors with legitimate intentions and retain the clear alternative."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Explain the full policy in detail so the client understands why the limit exists",
+          "Offer a one-time exception to settle the situation and discuss the limit later",
+          "Invite negotiation of a new limit while the client is most upset",
+          "Acknowledge frustration and restate the limit with a feasible alternative"
+        ],
+        "why": [
+          "Detailed reasoning during heightened emotion may overwhelm rather than help regulation; a concise explanation is more useful.",
+          "An exception made to end distress can undermine the agreed plan without assessing a clinical reason to change it.",
+          "Complex negotiation during peak distress is less useful than calm clarity; review can occur when the client can engage.",
+          "Validation, a clear consistent limit and an acceptable option support regulation and predictable care."
+        ]
+      },
+      "reviewedItemSha256": "2dd0302003057fa4911841b425900d062550f4f7fd427656eff899025296d628"
+    },
+    {
+      "id": "x-psychosocial-194",
+      "status": "revise",
+      "assessment": "The unselected options transparently label the client manipulative or ask for reassurance. Replace them with plausible but premature control and self-disclosure strategies.",
+      "issues": [
+        "The unselected options transparently label the client manipulative or ask for reassurance. Replace them with plausible but premature control and self-disclosure strategies."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Reflect on personal reactions and possible bias",
+          "Seek appropriate supervision or team consultation",
+          "Set a stricter request-frequency rule for clients who present this pattern",
+          "Continue objective assessment of the client’s current needs",
+          "Explain personal frustration in detail to encourage mutual understanding"
+        ],
+        "why": [
+          "Reflection helps prevent the nurse’s emotional reaction from determining care.",
+          "Consultation can help identify a consistent response and support the nurse.",
+          "A blanket restriction based on irritation can miss individual needs and requires proper assessment and team review.",
+          "Observable needs and behaviour should continue to guide care.",
+          "Detailed disclosure of the nurse’s frustration can shift emotional responsibility to the client rather than support therapeutic assessment."
+        ]
+      },
+      "reviewedItemSha256": "52f392ac83c1a19f73365d1e8d4c96df6c64c81dd87d9cfeb6b166f5077441ec"
+    },
+    {
+      "id": "x-psychosocial-195",
+      "status": "revise",
+      "assessment": "Confirming punishment or debating religion are obvious wrong answers. Compare well-intended reassurance and referral strategies; use a direct spiritual-care source.",
+      "issues": [
+        "Confirming punishment or debating religion are obvious wrong answers. Compare well-intended reassurance and referral strategies; use a direct spiritual-care source."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Explore what punishment means to the client and ask what support would help",
+          "Explain the biological cause of the illness to reassure the client",
+          "Redirect the discussion toward the positive possibilities of treatment",
+          "Contact the faith representative listed in the chart to provide reassurance"
+        ],
+        "why": [
+          "Open exploration assesses spiritual distress and the client’s preferred support without imposing an interpretation.",
+          "Biological information may help, but does not necessarily address the personal meaning or distress.",
+          "Hope is valuable, but redirection can leave the expressed concern unheard.",
+          "Previous affiliation does not establish the client’s current wishes for spiritual support or information sharing."
+        ],
+        "refs": [
+          "d-spiritual"
+        ]
+      },
+      "reviewedItemSha256": "eb9b3218c25a6743768aa630d9999ecbb0392c7b96bc84e54602df60ddb245fd"
+    },
+    {
+      "id": "x-psychosocial-196",
+      "status": "revise",
+      "assessment": "The nearest visitor is an implausible resource. Compare practical approaches that require asking the client’s current wishes; add a direct spiritual-care source.",
+      "issues": [
+        "The nearest visitor is an implausible resource. Compare practical approaches that require asking the client’s current wishes; add a direct spiritual-care source."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Suggest waiting for family to lead prayer after the procedure",
+          "Ask what support is desired and facilitate an appropriate resource",
+          "Offer a relaxation exercise in place of the requested spiritual support",
+          "Select a prayer recording using the religious affiliation in the chart"
+        ],
+        "why": [
+          "Family support may be welcome, but waiting may not address the present request before the procedure.",
+          "Client-defined assistance supports spiritual needs without requiring the nurse to share the belief.",
+          "Relaxation can complement care but should not automatically replace the requested form of support.",
+          "Recorded affiliation alone does not establish the client’s preferred practice; ask before selecting support."
+        ],
+        "refs": [
+          "d-spiritual"
+        ]
+      },
+      "reviewedItemSha256": "e48dbf7da471877b7f20717b0cd441c552df38e776120d195ab5b5921d4d9fac"
+    },
+    {
+      "id": "x-psychosocial-197",
+      "status": "revise",
+      "assessment": "The vignette concerns caregiver guilt rather than established moral distress, and current distractors are plainly dismissive. Rename and compare well-intended responses.",
+      "issues": [
+        "The vignette concerns caregiver guilt rather than established moral distress, and current distractors are plainly dismissive. Rename and compare well-intended responses."
+      ],
+      "proposedChanges": {
+        "title": "Caregiver guilt about respite",
+        "options": [
+          "Describe the health benefits of respite and provide a list of services",
+          "Reassure the caregiver that many devoted relatives use respite successfully",
+          "Explore what good caregiving means and how rest can support continued care",
+          "Start arranging available respite dates to make accepting help easier"
+        ],
+        "why": [
+          "Information may be useful, but does not directly explore the belief that rest represents failure.",
+          "Normalization can help, but may leave the caregiver’s personal meaning and guilt unexplored.",
+          "Exploring values can help the caregiver connect sustainable support with continued caring.",
+          "Practical arrangements should follow understanding of the concern and the caregiver’s choices."
+        ]
+      },
+      "reviewedItemSha256": "e128dadebb045e979533fac1d1071007450477d3c047f93cac65c28860f084a1"
+    },
+    {
+      "id": "x-psychosocial-198",
+      "status": "revise",
+      "assessment": "Ending the interview, relaxation only and assumed housing are too weak. Use clinically relevant next steps whose timing differs from the unresolved immediate need.",
+      "issues": [
+        "Ending the interview, relaxation only and assumed housing are too weak. Use clinically relevant next steps whose timing differs from the unresolved immediate need."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Review the coping strategies that reduced distress during the interview",
+          "Arrange a referral for longer-term counselling about the precipitating event",
+          "Repeat the distress rating to confirm that the apparent improvement persists",
+          "Confirm a safe place tonight and the practical arrangements for follow-up"
+        ],
+        "why": [
+          "Coping is important, but improvement does not resolve the stated lack of safe accommodation.",
+          "Longer-term treatment can follow, but does not secure tonight’s immediate needs.",
+          "Symptom reassessment is useful, but a lower distress score cannot establish a safe discharge plan.",
+          "An actionable accommodation and follow-up plan addresses the unresolved practical risk."
+        ]
+      },
+      "reviewedItemSha256": "10aa22cb532e54b1e29aba6763d1e8dd05dee7dc73228b39be452f51862a1681"
+    },
+    {
+      "id": "x-psychosocial-199",
+      "status": "revise",
+      "assessment": "The general SATA has absolute family-role and overt consent-violation cues. Add a concrete discharge context and realistic assumptions about availability and the scope of agreement.",
+      "issues": [
+        "The general SATA has absolute family-role and overt consent-violation cues. Add a concrete discharge context and realistic assumptions about availability and the scope of agreement."
+      ],
+      "proposedChanges": {
+        "stem": "A client preparing for discharge names a close friend who has agreed to provide transport to appointments. Other support needs remain. Which nursing actions help create a workable support plan? Select all that apply.",
+        "options": [
+          "Ask whom else the client considers supportive and wants involved",
+          "Confirm the transport arrangements and what the friend can realistically provide",
+          "Record the friend as available for overnight help because the relationship is close",
+          "Discuss professional or community resources for remaining support needs",
+          "Send the full care summary to the friend based on the transport agreement"
+        ],
+        "why": [
+          "The client defines the support network and who may be involved.",
+          "Clarifying specific availability and tasks makes the plan practical.",
+          "Closeness and a transport agreement do not establish willingness or availability for overnight care.",
+          "Formal resources can address needs beyond the agreed informal help.",
+          "Agreement to provide transport does not by itself authorize sharing the full care summary."
+        ]
+      },
+      "reviewedItemSha256": "b5bf9ab79324953a2f7feb79ccd36664679b2d7d32470a746f8a1aa69b448348"
+    },
+    {
+      "id": "x-psychosocial-200",
+      "status": "revise",
+      "assessment": "Repeated orientation tests, forced busy groups and restricting visits are not credible competitors. Compare appropriate adjustment supports, with the client’s stated unfamiliarity guiding individualized exploration.",
+      "issues": [
+        "Repeated orientation tests, forced busy groups and restricting visits are not credible competitors. Compare appropriate adjustment supports, with the client’s stated unfamiliarity guiding individualized exploration."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Repeat the facility orientation tour and review the printed activity timetable",
+          "Explore familiar routines and meaningful belongings that could support adjustment",
+          "Arrange a place at a communal meal table with regular organized activities",
+          "Provide meals in the room for a week so the client can settle in quietly"
+        ],
+        "why": [
+          "Orientation information may help, but does not establish which personal routines or connections the client is missing.",
+          "Exploring what is familiar and meaningful supports an individualized transition plan.",
+          "Social opportunities may help when matched to preferences; arranging them first may miss the source of withdrawal.",
+          "A quieter setting may be appropriate by preference, but automatically withdrawing communal opportunities can increase isolation."
+        ]
+      },
+      "reviewedItemSha256": "ae28ed0c78621a3edee29d3245b202cffbbb00a364ba165c472f3bc090fca859"
+    }
+  ]
+}

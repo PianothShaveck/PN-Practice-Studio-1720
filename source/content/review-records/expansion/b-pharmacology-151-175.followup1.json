@@ -1,0 +1,260 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T18:11:33.765417+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/b-pharmacology-07-recheck.json",
+  "sourceSha256": "63aa3fe33e116e74f85ad9f7948451ef89a27686dbf4ff426499948a50a4317b",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-pharmacology-151",
+      "x-pharmacology-152",
+      "x-pharmacology-153",
+      "x-pharmacology-154",
+      "x-pharmacology-155",
+      "x-pharmacology-156",
+      "x-pharmacology-157",
+      "x-pharmacology-158",
+      "x-pharmacology-159",
+      "x-pharmacology-160",
+      "x-pharmacology-161",
+      "x-pharmacology-162",
+      "x-pharmacology-163",
+      "x-pharmacology-164",
+      "x-pharmacology-165",
+      "x-pharmacology-166",
+      "x-pharmacology-167",
+      "x-pharmacology-168",
+      "x-pharmacology-169",
+      "x-pharmacology-170",
+      "x-pharmacology-171",
+      "x-pharmacology-172",
+      "x-pharmacology-173",
+      "x-pharmacology-174",
+      "x-pharmacology-175"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-pharmacology-151",
+      "status": "revise",
+      "assessment": "Broad immediate-response SATA still permits an already prescribed antipyretic as an adjunct; not replacing the essential steps does not make it categorically inappropriate.",
+      "issues": [
+        "Broad immediate-response SATA still permits an already prescribed antipyretic as an adjunct; not replacing the essential steps does not make it categorically inappropriate."
+      ],
+      "proposedChanges": [
+        "Make the false antipyretic proposal a clinically meaningful error: treat with PRN antipyretic and restart the unit when fever settles. Explain why symptom improvement does not authorize restarting a possible serious reaction, without adding an explicit without-review cue."
+      ],
+      "reviewedItemSha256": "d056d11c3f4dd4b05545f9b9ef14920d3a22399f7b5346e67a8991f0a72734bd"
+    },
+    {
+      "id": "x-pharmacology-152",
+      "status": "pass",
+      "assessment": "All options now present meaningful reaction patterns; hypertension/venous congestion and pulmonary findings particularly support overload without asserting certainty.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "03a087ad5eafd3480a305a9b37f61ab7077cdd7a3e1e4983cc7ee5d758efb0b1"
+    },
+    {
+      "id": "x-pharmacology-153",
+      "status": "pass",
+      "assessment": "Foundation teaching now compares delayed systemic warnings with recognizable resolving local effects and improved function.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ea86bde2cad076a119bf4ae344ca4aaa709501ef5fea98f672d1f01f53c1344f"
+    },
+    {
+      "id": "x-pharmacology-154",
+      "status": "pass",
+      "assessment": "Foundation classification accurately describes identifier concordance and discrepancy resolution.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f1d7d985e0e20f0139e6f864f1436a3110a4283e86a48bdc24865180f224cf2f"
+    },
+    {
+      "id": "x-pharmacology-155",
+      "status": "pass",
+      "assessment": "Plain fluid/setup actions require knowing red-cell compatibility; rate reduction or dextrose priming do not remove contact.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f71b29aa5fefa95a6634d1c67e0aa02fcfd3f5b1bf91d8e3b76c03e4ef1a4ad7"
+    },
+    {
+      "id": "x-pharmacology-156",
+      "status": "pass",
+      "assessment": "Confirmed fever and completed baseline assessment make reporting/clarification the next action among relevant premedication, repeat-measurement and culture tasks.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b8950c5f64ae7e9dfe1e9733a79af71a855f25401894d9cc7eef5e7bf017eb5e"
+    },
+    {
+      "id": "x-pharmacology-157",
+      "status": "pass",
+      "assessment": "Specific hemostatic endpoint distinguishes platelet count/bleeding response from red-cell efficacy and general transfusion safety outcomes.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c235942eee1d4b11dbd7e52c72bf98253709e41b508e6f51b4582479cc11d771"
+    },
+    {
+      "id": "x-pharmacology-158",
+      "status": "pass",
+      "assessment": "Parallel component functions and foundation metadata fit a defensible plasma-purpose explanation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8490915fb29aa5b05d5712400910079e0212cc900792b9a9bec62b7759ece856"
+    },
+    {
+      "id": "x-pharmacology-159",
+      "status": "pass",
+      "assessment": "The change in glucose delivery supports early measurement despite a previous normal value; the item explains a possible fall rather than predicting universal hypoglycaemia.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "919b49d1bd7e29b3c2886fa06015bfb3a0baacc1bb2fe4191da4d534b20ea9b6"
+    },
+    {
+      "id": "x-pharmacology-160",
+      "status": "pass",
+      "assessment": "Actual glucose target, phosphate reference range and catheter findings make metabolic/infectious monitoring an applied trend task.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a8b6b85f8ab1e0bc46763fb5377c602f650e68ac5f6e339df6e5e587c370d725"
+    },
+    {
+      "id": "x-pharmacology-161",
+      "status": "pass",
+      "assessment": "Unchanged passed central-formulation/access item reread and remains defensible.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c3f62037348c6c1bfd6078e79a013992c15704968511b41bed33160a57870f20"
+    },
+    {
+      "id": "x-pharmacology-162",
+      "status": "pass",
+      "assessment": "Concrete mixing/lumen actions test compatibility and designated access rather than abstract forbidden behaviour; other usable access is stated.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1e79d332f898475201f655a61495630e0c31b96f711b8b801848a700e1fa561b"
+    },
+    {
+      "id": "x-pharmacology-163",
+      "status": "pass",
+      "assessment": "Marked phosphate decline after refeeding with stable renal function/no new GI losses supports an intracellular shift over retention or new intake deficiency.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fe6d4cfd1892c9b41edeec3ea1963e5632c72c0bbb44c01624f00648d871a54c"
+    },
+    {
+      "id": "x-pharmacology-164",
+      "status": "pass",
+      "assessment": "Parallel fluid purposes and foundation metadata clarify isotonic extracellular volume replacement.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7b715f3a2406c04eb2056d1d7da18f9477b36d4144fc4a26ccba7937be7077bf"
+    },
+    {
+      "id": "x-pharmacology-165",
+      "status": "pass",
+      "assessment": "Supplied patient protocol makes11mmol/L in10hours an explicit exceedance; new neurological decline also merits urgent review, while the2mmol trend requires continued monitoring rather than being treated as automatically unsafe.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d45146eaa072378f4bcbdbee4140a6350f499a858efb925b92c2e6abaff61d52"
+    },
+    {
+      "id": "x-pharmacology-166",
+      "status": "pass",
+      "assessment": "The current output violates an explicit start condition; recent low potassium does not establish safe administration during new renal impairment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d725f815d9846c50d7084e51c27bb856f5d725068fa72a2372a58300bde27148"
+    },
+    {
+      "id": "x-pharmacology-167",
+      "status": "pass",
+      "assessment": "Airway support and help are already assigned; stopping continued magnesium exposure is the first medication action among credible sampling, dose-history and rescue-preparation tasks.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0cee0a605734fca534e5788cff499f7df50c55f701a08723b33fab4fd7f38ee2"
+    },
+    {
+      "id": "x-pharmacology-168",
+      "status": "pass",
+      "assessment": "Balanced paired-purpose choices correctly distinguish anticonvulsant and antihypertensive roles; foundation metadata fits.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2b5433ba42eb2d319b191daed4d290d00d884179008a476c3f4a74605c628193"
+    },
+    {
+      "id": "x-pharmacology-169",
+      "status": "pass",
+      "assessment": "Reported critical result, possible contamination and supplied interim-guidance requirement avoid either dismissing a true high value or blindly applying a dosing table.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "cea36e3bde7ed68deafb537b899e8c8cad632cda0470878a01987e9b7fed5d92"
+    },
+    {
+      "id": "x-pharmacology-170",
+      "status": "pass",
+      "assessment": "Ascending bilateral sensory/motor changes with preserved alertness differentiate high neuraxial block from sedation, vasovagal response and volume depletion.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f4ea9fae0cdf26532e7e71fd3dc82e8f1ad91f1c3d0dc10b737904915fd5713b"
+    },
+    {
+      "id": "x-pharmacology-171",
+      "status": "revise",
+      "assessment": "The broad appropriate-actions SATA still confuses adjunctive symptom support with priority toxicity response; the antiemetic option also introduces nausea absent from the stem.",
+      "issues": [
+        "The broad appropriate-actions SATA still confuses adjunctive symptom support with priority toxicity response; the antiemetic option also introduces nausea absent from the stem."
+      ],
+      "proposedChanges": [
+        "Ask for priority actions that address the suspected systemic-toxicity event. Replace antiemetic-for-metallic-taste with a credible ancillary action such as requesting a bedside glucose check; explain why immediate exposure interruption and resuscitation readiness lead."
+      ],
+      "reviewedItemSha256": "d0a4274d34f239e5904f8e2aa2597d9b3d3811d973b2e9b8543640b14cf2ea54"
+    },
+    {
+      "id": "x-pharmacology-172",
+      "status": "pass",
+      "assessment": "The immediate physical-action question specifically asks to interrupt further air entry; oxygen, measurements and monitoring are relevant competing supportive actions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e3293c9037367a628c0fdcc839631ee260c619eeea9248e6fccbd0bdc4fe4840"
+    },
+    {
+      "id": "x-pharmacology-173",
+      "status": "pass",
+      "assessment": "Unchanged passed residual-drug flush item reread; prescribed volume/rate and no dose catchup remain coherent.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6c982a218941e3f90e592873da37ec91384cd83aa97f145e2cf43ec987f0bc3d"
+    },
+    {
+      "id": "x-pharmacology-174",
+      "status": "pass",
+      "assessment": "Ordinary cooler, refrigerator and bedside storage are realistic but unvalidated substitutes; blood-bank instructions preserve component integrity.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "743c1e1bceb577df6ae5cbf73cccc9ba85f9184f2f3db3282d206b5928eba17e"
+    },
+    {
+      "id": "x-pharmacology-175",
+      "status": "pass",
+      "assessment": "Foundation postinjection technique correctly distinguishes gentle pressure from rubbing or massage with different materials.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7bc90c9fc33ab4182172dbf56b092d2cbe077ce021b52789595080b1ba97310b"
+    }
+  ],
+  "activeSourceFile": "authoring/b/pharmacology-07.json",
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

@@ -1,0 +1,954 @@
+[
+  {
+    "sourceId": "b-pk",
+    "url": "https://wtcs.pressbooks.pub/pharmacology2e/chapter/1-6-excretion/",
+    "accessed": true,
+    "supportedTopics": [
+      "Reduced renal function and medication excretion"
+    ],
+    "notes": "Search retrieval included renal function/clearance passage; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-cardio-drugs",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK594995/",
+    "accessed": true,
+    "supportedTopics": [
+      "Cardiovascular drug classes",
+      "medication monitoring",
+      "anticoagulants"
+    ],
+    "notes": "Chapter retrieved through search, direct open initially encountered browser check; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-anticoag",
+    "url": "https://medlineplus.gov/bloodthinners.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Anticoagulant and antiplatelet purposes",
+      "bleeding precautions"
+    ],
+    "notes": "Search retrieval; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-endocrine-drugs",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK595005/",
+    "accessed": true,
+    "supportedTopics": [
+      "Insulin and diabetes medicines",
+      "corticosteroids",
+      "thyroid medicines"
+    ],
+    "notes": "Chapter content retrieved through search; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-antibiotics",
+    "url": "https://wtcs.pressbooks.pub/pharmacology/chapter/3-3-administration-considerations/",
+    "accessed": true,
+    "supportedTopics": [
+      "Antimicrobial administration and monitoring"
+    ],
+    "notes": "Page retrieved; drug-specific adjunct sources should be consulted for uncommon adverse effects; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-asthma",
+    "url": "https://wtcs.pressbooks.pub/healthalts/chapter/6-5-asthma/",
+    "accessed": true,
+    "supportedTopics": [
+      "Asthma deterioration",
+      "treatment response"
+    ],
+    "notes": "page retrieved; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-copd",
+    "url": "https://wtcs.pressbooks.pub/healthalts/chapter/6-6-copd/",
+    "accessed": true,
+    "supportedTopics": [
+      "COPD exacerbation",
+      "oxygen and ventilation assessment"
+    ],
+    "notes": "page retrieved; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-respiratory",
+    "url": "https://wtcs.pressbooks.pub/healthalts/chapter/6-3-general-respiratory-system-assessment-and-interventions/",
+    "accessed": true,
+    "supportedTopics": [
+      "Respiratory assessment",
+      "oxygenation",
+      "airway clearance"
+    ],
+    "notes": "page retrieved; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-op-postop",
+    "url": "https://wtcs.pressbooks.pub/healthalts/chapter/2-5-postoperative-nursing-care/",
+    "accessed": true,
+    "supportedTopics": [
+      "Postoperative deterioration",
+      "bleeding recognition"
+    ],
+    "notes": "page retrieved; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-heart-failure",
+    "url": "https://wtcs.pressbooks.pub/healthalts/chapter/5-8-heart-failure/",
+    "accessed": true,
+    "supportedTopics": [
+      "Congestion",
+      "treatment evaluation"
+    ],
+    "notes": "page retrieved; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-diabetes",
+    "url": "https://wtcs.pressbooks.pub/healthalts/chapter/7-5-diabetes-mellitus/",
+    "accessed": true,
+    "supportedTopics": [
+      "Diabetes assessment",
+      "insulin therapy",
+      "self-management"
+    ],
+    "notes": "page retrieved; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-thyroid",
+    "url": "https://wtcs.pressbooks.pub/healthalts/chapter/7-6-thyroid-disorders/",
+    "accessed": true,
+    "supportedTopics": [
+      "Thyroid excess and deficiency",
+      "treatment response"
+    ],
+    "notes": "page retrieved; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-adrenal",
+    "url": "https://wtcs.pressbooks.pub/healthalts/chapter/7-7-adrenal-disorders/",
+    "accessed": true,
+    "supportedTopics": [
+      "Adrenal insufficiency",
+      "glucocorticoid replacement"
+    ],
+    "notes": "page retrieved; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-renal",
+    "url": "https://wtcs.pressbooks.pub/healthalts/chapter/8-5-acute-renal-failure/",
+    "accessed": true,
+    "supportedTopics": [
+      "Renal deterioration",
+      "fluid and electrolyte assessment"
+    ],
+    "notes": "page retrieved; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-neuro",
+    "url": "https://wtcs.pressbooks.pub/healthalts/chapter/9-12-other-nervous-system-disorders/",
+    "accessed": true,
+    "supportedTopics": [
+      "Neurological deterioration",
+      "nervous system disorders"
+    ],
+    "notes": "page retrieved; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-amlodipine",
+    "url": "https://medlineplus.gov/druginfo/meds/a692044.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Peripheral edema and antihypertensive effects"
+    ],
+    "notes": "Search retrieval; product-specific full-page verification remains incomplete where only short excerpts were returned; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-apixaban",
+    "url": "https://medlineplus.gov/druginfo/meds/a613032.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Bleeding",
+      "interactions",
+      "anticoagulation follow-up"
+    ],
+    "notes": "Search retrieval; product-specific full-page verification remains incomplete where only short excerpts were returned; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-empagliflozin",
+    "url": "https://medlineplus.gov/druginfo/meds/a614043.html",
+    "accessed": true,
+    "supportedTopics": [
+      "SGLT2 therapy and ketoacidosis warnings"
+    ],
+    "notes": "Search retrieval; product-specific full-page verification remains incomplete where only short excerpts were returned; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-levothyroxine",
+    "url": "https://medlineplus.gov/druginfo/meds/a682461.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Replacement therapy",
+      "administration and adverse effects"
+    ],
+    "notes": "Search retrieval; product-specific full-page verification remains incomplete where only short excerpts were returned; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-atorvastatin",
+    "url": "https://medlineplus.gov/druginfo/meds/a600045.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Muscle injury warning symptoms"
+    ],
+    "notes": "Search retrieval; product-specific full-page verification remains incomplete where only short excerpts were returned; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-clopidogrel",
+    "url": "https://medlineplus.gov/druginfo/meds/a601040.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Antiplatelet action",
+      "bleeding precautions"
+    ],
+    "notes": "Search retrieval; product-specific full-page verification remains incomplete where only short excerpts were returned; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-metformin",
+    "url": "https://medlineplus.gov/druginfo/meds/a696005.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Renal and illness precautions"
+    ],
+    "notes": "Search retrieval; product-specific full-page verification remains incomplete where only short excerpts were returned; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-prednisone",
+    "url": "https://medlineplus.gov/druginfo/meds/a601102.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Glucocorticoid therapy and adverse effects"
+    ],
+    "notes": "Search retrieval; product-specific full-page verification remains incomplete where only short excerpts were returned; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-digoxin",
+    "url": "https://medlineplus.gov/druginfo/meds/a682301.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Toxicity symptoms and monitoring"
+    ],
+    "notes": "Search retrieval; product-specific full-page verification remains incomplete where only short excerpts were returned; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-ramipril",
+    "url": "https://medlineplus.gov/druginfo/meds/a692027.html",
+    "accessed": true,
+    "supportedTopics": [
+      "ACE inhibitor effects and warning symptoms"
+    ],
+    "notes": "Search retrieval; product-specific full-page verification remains incomplete where only short excerpts were returned; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-desmopressin",
+    "url": "https://medlineplus.gov/druginfo/meds/a608010.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Antidiuretic action and water balance"
+    ],
+    "notes": "Search retrieval; product-specific full-page verification remains incomplete where only short excerpts were returned; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-semaglutide",
+    "url": "https://medlineplus.gov/druginfo/meds/a619057.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Gastrointestinal adverse effects and warning symptoms"
+    ],
+    "notes": "Search retrieval; product-specific full-page verification remains incomplete where only short excerpts were returned; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-methimazole",
+    "url": "https://medlineplus.gov/druginfo/meds/a682464.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Antithyroid therapy and adverse effects"
+    ],
+    "notes": "Search retrieval; product-specific full-page verification remains incomplete where only short excerpts were returned; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-alendronate",
+    "url": "https://medlineplus.gov/druginfo/meds/a601011.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Upright administration and esophageal precautions"
+    ],
+    "notes": "Search retrieval; product-specific full-page verification remains incomplete where only short excerpts were returned; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-spironolactone",
+    "url": "https://medlineplus.gov/druginfo/meds/a682627.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Potassium supplements and salt-substitute interaction"
+    ],
+    "notes": "Search retrieval; product-specific full-page verification remains incomplete where only short excerpts were returned; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-furosemide",
+    "url": "https://medlineplus.gov/druginfo/meds/a682858.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Diuresis and fluid/electrolyte effects"
+    ],
+    "notes": "Search retrieval; product-specific full-page verification remains incomplete where only short excerpts were returned; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-hydrochlorothiazide",
+    "url": "https://medlineplus.gov/druginfo/meds/a682571.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Diuretic therapy and monitoring"
+    ],
+    "notes": "Search retrieval; product-specific full-page verification remains incomplete where only short excerpts were returned; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-metoprolol",
+    "url": "https://medlineplus.gov/druginfo/meds/a682864.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Beta blockade and withdrawal precautions"
+    ],
+    "notes": "Search retrieval; product-specific full-page verification remains incomplete where only short excerpts were returned; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-nitroglycerin",
+    "url": "https://medlineplus.gov/druginfo/meds/a601086.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Sublingual administration",
+      "hypotension"
+    ],
+    "notes": "Search retrieval; product-specific full-page verification remains incomplete where only short excerpts were returned; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-nitroglycerin-patch",
+    "url": "https://medlineplus.gov/druginfo/meds/a601085.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Transdermal nitrate timing and precautions"
+    ],
+    "notes": "Search retrieval; product-specific full-page verification remains incomplete where only short excerpts were returned; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-sildenafil",
+    "url": "https://medlineplus.gov/druginfo/meds/a699015.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Nitrate interaction"
+    ],
+    "notes": "Search retrieval; product-specific full-page verification remains incomplete where only short excerpts were returned; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-co",
+    "url": "https://www.cdc.gov/carbon-monoxide/hcp/clinical-guidance/index.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Carbon monoxide exposure",
+      "conventional pulse oximeter limitations"
+    ],
+    "notes": "Search retrieval included the oximeter limitation passage; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-sglt2",
+    "url": "https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/safety-reviews/summary-safety-review-sglt2-inhibitors-canagliflozin-dapagliflozin-empagliflozin.html",
+    "accessed": true,
+    "supportedTopics": [
+      "SGLT2-associated diabetic ketoacidosis"
+    ],
+    "notes": "Search retrieval; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-sickday",
+    "url": "https://www.sjhc.london.on.ca/media/9861/download",
+    "accessed": true,
+    "supportedTopics": [
+      "Basal insulin during illness",
+      "sick-day monitoring and individualized adjustment"
+    ],
+    "notes": "Search retrieval included basal insulin instructions; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-trach",
+    "url": "https://tracheostomy.org.uk/resources/papers/tracheostomy-adult-emergency-guidelines",
+    "accessed": true,
+    "supportedTopics": [
+      "Tracheostomy obstruction algorithms",
+      "laryngectomy airway anatomy"
+    ],
+    "notes": "Search retrieval; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-laryngectomy",
+    "url": "https://tracheostomy.org.uk/storage/files/Emergency%20laryngectomy%20management.pdf",
+    "accessed": true,
+    "supportedTopics": [
+      "Stoma oxygenation after laryngectomy"
+    ],
+    "notes": "Search retrieval included stoma oxygenation content; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-pleural",
+    "url": "https://thorax.bmj.com/content/78/Suppl_3/s43",
+    "accessed": true,
+    "supportedTopics": [
+      "Pleural drainage",
+      "deterioration and complications"
+    ],
+    "notes": "Search retrieval; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-shock",
+    "url": "https://openstax.org/books/medical-surgical-nursing/pages/23-1-shock-overview",
+    "accessed": true,
+    "supportedTopics": [
+      "Shock mechanisms",
+      "perfusion assessment"
+    ],
+    "notes": "Search-retrieved textbook passages; general concepts only; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-cardiovascular",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK613064/",
+    "accessed": true,
+    "supportedTopics": [
+      "Cardiac and vascular deterioration",
+      "rhythm-related perfusion"
+    ],
+    "notes": "Chapter content retrieved through search; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-neurology",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK613069/",
+    "accessed": true,
+    "supportedTopics": [
+      "Neurological deterioration",
+      "stroke",
+      "neuromuscular disorders"
+    ],
+    "notes": "Chapter content retrieved through search; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-eye",
+    "url": "https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/retinal-detachment",
+    "accessed": true,
+    "supportedTopics": [
+      "Retinal warning symptoms",
+      "urgent eye assessment"
+    ],
+    "notes": "Search retrieval; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-glaucoma",
+    "url": "https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/glaucoma",
+    "accessed": true,
+    "supportedTopics": [
+      "Acute glaucoma symptoms",
+      "urgent eye assessment"
+    ],
+    "notes": "Search retrieval; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-electrolytes",
+    "url": "https://openstax.org/books/clinical-nursing-skills/pages/19-1-fluid-and-electrolytes",
+    "accessed": true,
+    "supportedTopics": [
+      "Fluid balance",
+      "sodium",
+      "potassium",
+      "calcium",
+      "magnesium"
+    ],
+    "notes": "Search-retrieved textbook topic anchor; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-endocrine-adaptation",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK613062/",
+    "accessed": true,
+    "supportedTopics": [
+      "Endocrine emergencies",
+      "fluid and glucose patterns"
+    ],
+    "notes": "Chapter content retrieved through search; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-cns",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK594993/",
+    "accessed": true,
+    "supportedTopics": [
+      "Psychotropic and neurological medication effects",
+      "monitoring"
+    ],
+    "notes": "Chapter content retrieved through search; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-analgesia",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK595001/?report=reader",
+    "accessed": true,
+    "supportedTopics": [
+      "Analgesic response",
+      "opioid safety",
+      "NSAID precautions"
+    ],
+    "notes": "Chapter content retrieved through search; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-methotrexate",
+    "url": "https://ismpcanada.ca/wp-content/uploads/ISMPCSB2008-02Methotrexate.pdf",
+    "accessed": true,
+    "supportedTopics": [
+      "Weekly versus daily low-dose methotrexate safety"
+    ],
+    "notes": "Search-retrieved safety bulletin; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-respiratory-drugs",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK594996/",
+    "accessed": true,
+    "supportedTopics": [
+      "Inhaled medication delivery",
+      "respiratory drug monitoring"
+    ],
+    "notes": "Chapter content retrieved through search; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-gi-drugs",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK594994/?report=classic",
+    "accessed": true,
+    "supportedTopics": [
+      "Bowel medicines",
+      "gastrointestinal medication teaching"
+    ],
+    "notes": "Chapter content retrieved through search; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-montelukast",
+    "url": "https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/health-product-infowatch/august-2020.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Montelukast neuropsychiatric adverse effects"
+    ],
+    "notes": "Search-retrieved safety communication; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-renal-drugs",
+    "url": "https://kidney.ca/KFOC/media/images/PDFs/3-1-3-Book-Two_Living-with-kidney-failure.pdf",
+    "accessed": true,
+    "supportedTopics": [
+      "Phosphate binders with meals",
+      "active vitamin D",
+      "kidney-failure medicines"
+    ],
+    "notes": "Search-retrieved patient handbook passages; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-topical-medicines",
+    "url": "https://www.medlineplus.gov/druginfo/meds/a682043.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Punctal pressure",
+      "ophthalmic administration",
+      "spacing product instructions"
+    ],
+    "notes": "Search retrieval; spacing is product-specific; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-transfusion",
+    "url": "https://professionaleducation.blood.ca/en/transfusion/clinical-guide/blood-administration",
+    "accessed": true,
+    "supportedTopics": [
+      "Blood identity",
+      "administration",
+      "compatibility",
+      "response to reactions"
+    ],
+    "notes": "Search-retrieved clinical guide; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-transfusion-reactions",
+    "url": "https://professionaleducation.blood.ca/en/transfusion/clinical-guide/transfusion-reactions",
+    "accessed": true,
+    "supportedTopics": [
+      "Acute and delayed transfusion reactions",
+      "circulatory overload"
+    ],
+    "notes": "Search-retrieved clinical guide; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-parenteral-nutrition",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK553310/",
+    "accessed": true,
+    "supportedTopics": [
+      "Parenteral nutrition monitoring",
+      "refeeding risk",
+      "nutrition support"
+    ],
+    "notes": "Search retrieval of government-hosted guideline; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-parenteral",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK596739/",
+    "accessed": true,
+    "supportedTopics": [
+      "Parenteral medication administration",
+      "injection and infusion safety"
+    ],
+    "notes": "Chapter content retrieved through search; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-central-lines",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK594495/",
+    "accessed": true,
+    "supportedTopics": [
+      "Central-line complications",
+      "sampling",
+      "open-hub air entry"
+    ],
+    "notes": "Search retrieval included complication and sampling passages; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-magnesium-obstetric",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=03ebeabb-8386-4af4-3086-bdf3c3fc4a5a",
+    "accessed": true,
+    "supportedTopics": [
+      "Preeclampsia seizure prevention",
+      "magnesium toxicity signs"
+    ],
+    "notes": "Primary prescribing-label passages retrieved through search; no dosing protocol used; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-regional-anesthesia",
+    "url": "https://asra.com/news-publications/asra-updates/blog-landing/legacy-b-blog-posts/2021/02/01/local-anesthetic-systemic-toxicity-%28last%29-a-problem-based-learning-discussion",
+    "accessed": true,
+    "supportedTopics": [
+      "Local anesthetic systemic toxicity warning symptoms"
+    ],
+    "notes": "Search-retrieved professional educational content; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-epidural",
+    "url": "https://www.rightdecisions.scot.nhs.uk/tam-treatments-and-medicines-nhs-highland/adult-therapeutic-guidelines/acute-pain/epidural-analgesia-guidelines/?searchTerm=fentanyl",
+    "accessed": true,
+    "supportedTopics": [
+      "High-block symptoms",
+      "hypotension",
+      "stopping an infusion and urgent review"
+    ],
+    "notes": "Search-retrieved regional clinical guidance; item does not generalize local timing rules; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-simvastatin-clarithromycin",
+    "url": "https://www.dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=9143b79c-4c79-43ac-e053-2995a90ad708&type=display",
+    "accessed": true,
+    "supportedTopics": [
+      "Clarithromycin and simvastatin",
+      "myopathy and rhabdomyolysis risk"
+    ],
+    "notes": "Primary prescribing-label interaction passage retrieved through search; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-clozapine-bowel",
+    "url": "https://www.canada.ca/content/dam/hc-sc/documents/services/drugs-health-products/medeffect-canada/health-product-infowatch/health-product-infowatch-june-2017/hpiw-ivps_2017-06-eng.pdf",
+    "accessed": true,
+    "supportedTopics": [
+      "Clozapine gastrointestinal hypomotility and serious complications"
+    ],
+    "notes": "Search-retrieved safety communication; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-isotretinoin",
+    "url": "https://www.medlineplus.gov/druginfo/meds/a681043.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Suspected pregnancy or missed period during isotretinoin",
+      "immediate stop and prescriber contact"
+    ],
+    "notes": "Search retrieval included specific missed-period instruction; US programme details not incorporated; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-valproate",
+    "url": "https://www.canada.ca/content/dam/hc-sc/migration/hc-sc/dhp-mps/alt_formats/pdf/medeff/bulletin/hpiw-ivps_2017-04-eng.pdf",
+    "accessed": true,
+    "supportedTopics": [
+      "Valproate pregnancy risks",
+      "alternative treatment and contraception review"
+    ],
+    "notes": "Search-retrieved safety communication; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-lactation",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/?report=reader",
+    "accessed": true,
+    "supportedTopics": [
+      "Drug-specific milk transfer and infant exposure assessment"
+    ],
+    "notes": "Database description retrieved; aminophylline record separately retrieved as an example of premature-infant slow elimination, not as a treatment recommendation; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-reye",
+    "url": "https://www.canada.ca/en/health-canada/services/healthy-living/your-health/diseases/reye.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Aspirin-containing medicines during childhood viral illness"
+    ],
+    "notes": "Search-retrieved government health guidance; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-oxytocin",
+    "url": "https://www.pcmch.on.ca/wp-content/uploads/2022/02/Safe-Administration-of-Oxytocin-Guidance-Report.pdf",
+    "accessed": true,
+    "supportedTopics": [
+      "Oxytocin-related uterine overstimulation",
+      "safe administration processes"
+    ],
+    "notes": "Search-retrieved Canadian guidance; item supplies the local stopping instruction explicitly; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-uterotonics",
+    "url": "https://www.medicines.org.uk/emc/product/6265/smpc",
+    "accessed": true,
+    "supportedTopics": [
+      "Ergometrine and severe hypertension"
+    ],
+    "notes": "Manufacturer label opened successfully; contraindications section explicitly includes severe hypertension; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-rh-immunoglobulin",
+    "url": "https://professionaleducation.blood.ca/en/transfusion/clinical-guide/hemolytic-disease-fetus-and-newborn-and-perinatal-immune",
+    "accessed": true,
+    "supportedTopics": [
+      "Prevention of sensitization in an Rh-negative postpartum client"
+    ],
+    "notes": "Search retrieval of the non-sensitized postpartum prophylaxis section; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-tacrolimus",
+    "url": "https://www.transplant.bc.ca/Documents/Medications/Anti%20rejection/Tacrolimus_EN.pdf",
+    "accessed": true,
+    "supportedTopics": [
+      "Avoidance of grapefruit and related fruit interactions",
+      "tacrolimus monitoring"
+    ],
+    "notes": "Search-retrieved patient medication guidance; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-immunization-immunocompromised",
+    "url": "https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-8-immunization-immunocompromised-persons.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Live and inactivated vaccine planning during immunosuppression"
+    ],
+    "notes": "Search-retrieved Canadian Immunization Guide; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-biologic-tb",
+    "url": "https://www.canada.ca/en/public-health/services/diseases/tuberculosis/health-professionals/canadian-tuberculosis-standards/treatment-active-tuberculosis-special-populations.html",
+    "accessed": true,
+    "supportedTopics": [
+      "TB infection screening before TNF inhibitor therapy",
+      "reactivation risk"
+    ],
+    "notes": "Search retrieval included TNF inhibitor screening passage; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-oncology-fever",
+    "url": "https://www.cancercareontario.ca/en/content/approach-fever-assessment-ambulatory-cancer-patients-receiving-chemotherapy",
+    "accessed": true,
+    "supportedTopics": [
+      "Urgent assessment of fever during chemotherapy"
+    ],
+    "notes": "Search retrieval; item supplies an explicit individualized action threshold; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-oncology-neutropenia",
+    "url": "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/palliative-pain-management",
+    "accessed": true,
+    "supportedTopics": [
+      "Avoiding traumatic rectal interventions with neutropenia or thrombocytopenia"
+    ],
+    "notes": "Page opened; lines108\u2013116 included specific rectal-intervention precautions; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-oral-cancer-medicines",
+    "url": "https://www.cancercareontario.ca/en/cancer-treatments/chemotherapy/safely-handle-cancer-medications-body-fluids-home",
+    "accessed": true,
+    "supportedTopics": [
+      "Home handling of oral antineoplastics",
+      "caregiver exposure prevention"
+    ],
+    "notes": "Search-retrieved patient safety guidance; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-glargine",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9835904f-64f5-42b3-9ac9-89e4aaa5182a",
+    "accessed": true,
+    "supportedTopics": [
+      "Glargine must not be mixed with other insulins"
+    ],
+    "notes": "Primary product-label prohibition retrieved through search; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-palliative-dyspnea",
+    "url": "https://handbook.bcehs.ca/clinical-practice-guidelines/p-palliative-care/p04-palliative-care-dyspnea/",
+    "accessed": true,
+    "supportedTopics": [
+      "Opioids in an established palliative breathlessness plan",
+      "symptom relief"
+    ],
+    "notes": "Search retrieval; no paramedic scope or dose instructions imported into PN item; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-nitroglycerin-topical",
+    "url": "https://medlineplus.gov/druginfo/meds/a682346.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Measuring prescribed ointment with product applicator"
+    ],
+    "notes": "Search retrieval; product's measurement convention remains explicitly prescribed; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-mri-patches",
+    "url": "https://www.fda.gov/radiation-emitting-products/mri-magnetic-resonance-imaging/what-patients-should-know-having-mri-exam",
+    "accessed": true,
+    "supportedTopics": [
+      "Medication-patch composition and MRI burn risk"
+    ],
+    "notes": "Search retrieval; advises disclosure and product-specific review; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-peritoneal-dialysis",
+    "url": "https://www.niddk.nih.gov/health-information/kidney-disease/kidney-failure/peritoneal-dialysis",
+    "accessed": true,
+    "supportedTopics": [
+      "Peritonitis symptoms",
+      "cloudy effluent and abdominal pain"
+    ],
+    "notes": "Search-retrieved government patient guidance; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-tamponade",
+    "url": "https://www.escardio.org/communities/councils/cardiology-practice/scientific-documents-and-publications/ejournal/volume-15/Cardiac-tamponade-a-clinical-challenge/",
+    "accessed": true,
+    "supportedTopics": [
+      "Post-procedure tamponade concern",
+      "venous congestion and hypotension"
+    ],
+    "notes": "Search retrieval included clinical-sign pattern; classic findings are not presented as universally required; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-endocarditis",
+    "url": "https://www.nhlbi.nih.gov/health/heart-inflammation/endocarditis",
+    "accessed": true,
+    "supportedTopics": [
+      "Prosthetic valve infection risk",
+      "systemic findings"
+    ],
+    "notes": "Search-retrieved government patient guidance; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-endocarditis-emboli",
+    "url": "https://tsi.ucsf.edu/condition/endocarditis",
+    "accessed": true,
+    "supportedTopics": [
+      "Endocarditis vegetations and systemic embolic complications"
+    ],
+    "notes": "Search retrieval included cerebral embolic complication explanation; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-aphasia",
+    "url": "https://www.nidcd.nih.gov/health/aphasia",
+    "accessed": true,
+    "supportedTopics": [
+      "Expressive and receptive language impairment",
+      "distinction from speech motor disorders"
+    ],
+    "notes": "Search-retrieved government explanation; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-gbs-guideline",
+    "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/ene.16073",
+    "accessed": true,
+    "supportedTopics": [
+      "Serial forced vital capacity during respiratory decline"
+    ],
+    "notes": "Primary guideline recommendation retrieved through search; no numerical intervention threshold used; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-uterotonics-asthma",
+    "url": "https://www.nice.org.uk/guidance/ng121/chapter/Recommendations",
+    "accessed": true,
+    "supportedTopics": [
+      "Carboprost avoidance in asthma due to bronchospasm"
+    ],
+    "notes": "Primary recommendation1.4.2 retrieved through search; direct open returned403; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-liquid-iron",
+    "url": "https://medlineplus.gov/ency/article/007478.htm",
+    "accessed": true,
+    "supportedTopics": [
+      "Liquid iron tooth staining",
+      "mixing and straw technique"
+    ],
+    "notes": "Search retrieval included liquid-iron administration passage; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-vancomycin-monitoring",
+    "url": "https://med.stanford.edu/content/dam/sm/bugsanddrugs/documents/antimicrobial-dosing-protocols/SHC-Vancomycin-Dosing-Guide.pdf",
+    "accessed": true,
+    "supportedTopics": [
+      "Concentration and renal trajectory inform holding and dose review"
+    ],
+    "notes": "Primary institutional PDF opened; sectionsD andE retrieved. The numeric hold instruction in item015 is an explicitly supplied client-specific order, not a universal Canadian standard; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-dvt-recovery",
+    "url": "https://www.nhs.uk/conditions/deep-vein-thrombosis-dvt/",
+    "accessed": true,
+    "supportedTopics": [
+      "Regular walking and elevation during recovery from treated DVT"
+    ],
+    "notes": "Primary national health-service recovery passage retrieved through search; item047 follows an explicit individualized activity authorization; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-transient-vision-loss",
+    "url": "https://www.nanosweb.org/transientvisualloss/",
+    "accessed": true,
+    "supportedTopics": [
+      "Urgent evaluation of transient visual loss even after vision returns",
+      "possible retinal or cerebral ischemia"
+    ],
+    "notes": "Primary specialist-society patient guidance retrieved through search with urgent-stroke-evaluation passage; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-hyperkalaemia-calcium",
+    "url": "https://www.ukkidney.org/sites/default/files/FINAL%20VERSION%20-%20UKKA%20CLINICAL%20PRACTICE%20GUIDELINE%20-%20MANAGEMENT%20OF%20HYPERKALAEMIA%20IN%20ADULTS%20-%20191223_0.pdf",
+    "accessed": true,
+    "supportedTopics": [
+      "IV calcium improves hyperkalaemic ECG changes temporarily without lowering serum potassium"
+    ],
+    "notes": "Primary guideline PDF opened and exact passage found at page73 lines3018\u20133022; no universal Canadian administration dose is inferred; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-filgrastim-course",
+    "url": "https://www.amgen.ca/en-ca/about/-/media/themes/corporateaffairs/redesign/amgen-ca/amgen-ca/pdf/products/en/neupogen_pm.pdf",
+    "accessed": true,
+    "supportedTopics": [
+      "Early transient neutrophil rise and continuation through expected nadir recovery with individualized monitoring"
+    ],
+    "notes": "Primary Canadian manufacturer monograph opened; sections4.2 and4.2.1. The day2\u20138 prescription is a supplied individual plan with review, not a universal duration. BC Cancer BRLATACG protocol independently corroborates a day2\u20138 example; topic anchor, not a claim of full item-level clinical validation."
+  },
+  {
+    "sourceId": "b-uterotonics-retired-link",
+    "url": "https://sogc.org/common/Uploaded%20files/ACSC/ACSC2025/gui431CPG2212E.pdf",
+    "accessed": false,
+    "supportedTopics": [],
+    "notes": "Initial author search returned indexed contraindication text, but independent reviewer direct retrieval returned404. Removed from active registry and replaced with NICE primary recommendations."
+  }
+]

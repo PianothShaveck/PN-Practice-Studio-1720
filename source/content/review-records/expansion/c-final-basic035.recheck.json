@@ -1,0 +1,59 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:45:48.072373+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/basic-026-050.json",
+  "sourceSha256": "601e168f5544db68270dabf60ab3494dcd6f23e0d1335d6c269e0ea50e75f41e",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 1,
+    "reviewedIds": [
+      "x-basic-035"
+    ],
+    "unreviewedIds": [
+      "x-basic-026",
+      "x-basic-027",
+      "x-basic-028",
+      "x-basic-029",
+      "x-basic-030",
+      "x-basic-031",
+      "x-basic-032",
+      "x-basic-033",
+      "x-basic-034",
+      "x-basic-036",
+      "x-basic-037",
+      "x-basic-038",
+      "x-basic-039",
+      "x-basic-040",
+      "x-basic-041",
+      "x-basic-042",
+      "x-basic-043",
+      "x-basic-044",
+      "x-basic-045",
+      "x-basic-046",
+      "x-basic-047",
+      "x-basic-048",
+      "x-basic-049",
+      "x-basic-050"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-basic-035",
+      "status": "pass",
+      "assessment": "Current item fully reread. Returning the retracted foreskin promptly is appropriate; perineal-care reference now directly matches the procedure rather than general hygiene.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f9a50b3b5c8554def8d05ca8b1dfbe1e5d17e82ae206f11ff2529b53cb9f7ead"
+    }
+  ],
+  "reviewerTask": "/root/review_legacy"
+}

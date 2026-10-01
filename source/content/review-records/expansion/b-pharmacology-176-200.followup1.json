@@ -1,0 +1,139 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T18:12:51.244278+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/b-pharmacology-08-recheck.json",
+  "sourceSha256": "fba1402fe7a9c6557b3a4c6daa7034a7096dda43b97c7c1cad914b8b70fe3d97",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 9,
+    "reviewedIds": [
+      "x-pharmacology-179",
+      "x-pharmacology-181",
+      "x-pharmacology-182",
+      "x-pharmacology-183",
+      "x-pharmacology-184",
+      "x-pharmacology-187",
+      "x-pharmacology-189",
+      "x-pharmacology-190",
+      "x-pharmacology-198"
+    ],
+    "unreviewedIds": [
+      "x-pharmacology-176",
+      "x-pharmacology-177",
+      "x-pharmacology-178",
+      "x-pharmacology-180",
+      "x-pharmacology-185",
+      "x-pharmacology-186",
+      "x-pharmacology-188",
+      "x-pharmacology-191",
+      "x-pharmacology-192",
+      "x-pharmacology-193",
+      "x-pharmacology-194",
+      "x-pharmacology-195",
+      "x-pharmacology-196",
+      "x-pharmacology-197",
+      "x-pharmacology-199",
+      "x-pharmacology-200"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.medicines.org.uk/emc/product/6265/smpc",
+      "claims": "Manufacturer SmPC severe-hypertension contraindication retrieved independently for182; this replaces the earlier failed SOGC URL. No UK procedural rule imported into PN scope."
+    },
+    {
+      "url": "https://www.nice.org.uk/guidance/ng121/chapter/Recommendations",
+      "claims": "Official NICE search retrieval explicitly provides recommendation1.4.2 linking carboprost with asthma-related bronchospasm risk. Supports183 narrow pharmacological premise; not Canadian scope authorization."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-pharmacology-179",
+      "status": "pass",
+      "assessment": "Second-scale verification is a plausible additional check but does not resolve the confirmed old-weight order discrepancy; no independent dose substitution is authorized.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "74d6324005f1ecbd90e66a48ac5def8bf4deb5082fd1c9ae5135a3da9caff13d"
+    },
+    {
+      "id": "x-pharmacology-181",
+      "status": "pass",
+      "assessment": "The supplied protocol now has reassuring-versus-deteriorating fetal-pattern branches; observed tachysystole plus prolonged deceleration supports stopping rather than rate reduction.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b98e3b7a0de1429fb8c7636c36a57b25e139e6a287f98399fd4b2ba20a487cdc"
+    },
+    {
+      "id": "x-pharmacology-182",
+      "status": "pass",
+      "assessment": "Dose or route changes are plausible misconceptions but do not resolve severe-hypertension risk; an alternative uterotonic requires team review.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1a2cbce2bff083c844fc826cf9fe80db7abd9f91e13231f3eb9dd7c118dc95cf"
+    },
+    {
+      "id": "x-pharmacology-183",
+      "status": "pass",
+      "assessment": "Unchanged clinical content reread with repaired primary-source reference; active asthma is specifically relevant to carboprost bronchospasm risk.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9c183d7c4bb4f699f6b8d5b6eedf0e1111004c51709867c6ec732562a022dda7"
+    },
+    {
+      "id": "x-pharmacology-184",
+      "status": "pass",
+      "assessment": "Parallel preventive-purpose misunderstandings now compare maternal sensitization, established antibodies, neonatal treatment and other blood groups; foundation metadata fits.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6e3822cd086dd38100699856dd0eaa2e4daf0779591ee72125a137b8ee6c8750"
+    },
+    {
+      "id": "x-pharmacology-187",
+      "status": "revise",
+      "assessment": "The joint-symptoms-as-active-lung-infection explanation remains implausible, and reconstructing all childhood vaccines is too remote from TB screening.",
+      "issues": [
+        "The joint-symptoms-as-active-lung-infection explanation remains implausible, and reconstructing all childhood vaccines is too remote from TB screening."
+      ],
+      "proposedChanges": [
+        "Use credible TB-test misconceptions such as predicting future infection risk or determining whether prior BCG vaccination still protects the client; retain baseline-comparison versus detecting existing latent infection distinction."
+      ],
+      "reviewedItemSha256": "1342a8d64df1208e7f21620353737a7afdd033692d32f44211e4cb75483418f6"
+    },
+    {
+      "id": "x-pharmacology-189",
+      "status": "pass",
+      "assessment": "Realistic gentle insertion, digital assessment and small enema alternatives do not remove the current marrow-suppression mucosal risk.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d7d487c50befe05a7a21fe31a5ae9aa8e5a9fbcb45bda1129ac12c6aa9913366"
+    },
+    {
+      "id": "x-pharmacology-190",
+      "status": "pass",
+      "assessment": "Explicit original-container instructions make the weekly-organizer alternative definitively unsuitable for this product, without a universal packaging rule.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "044c4b5cf770ba40d07951b5d9768ee3e165d12382860fc9987d62cc72f0fe36"
+    },
+    {
+      "id": "x-pharmacology-198",
+      "status": "pass",
+      "assessment": "A local infection is now a plausible alternative; the key correctly includes medication exposure and seeks assessment without diagnosing established osteonecrosis from three weeks of symptoms.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "72d9afc8d2b3be88b054dfea89dbfd2fb26a6f695fe032534f10b2f168236e11"
+    }
+  ],
+  "activeSourceFile": "authoring/b/pharmacology-08.json",
+  "coverageNote": "Only the9changed items were reread here; the other16retain their earlier exact-hash reviews and are not claimed reread by this report.",
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

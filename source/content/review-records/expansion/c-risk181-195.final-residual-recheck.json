@@ -1,0 +1,76 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:54:30.071797+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/risk-176-200.json",
+  "sourceSha256": "b996a0aaaf1b62a0cc5ef489cade4e372c304f0c7cfb26cd0446b04219344f12",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 2,
+    "reviewedIds": [
+      "x-risk-181",
+      "x-risk-195"
+    ],
+    "unreviewedIds": [
+      "x-risk-176",
+      "x-risk-177",
+      "x-risk-178",
+      "x-risk-179",
+      "x-risk-180",
+      "x-risk-182",
+      "x-risk-183",
+      "x-risk-184",
+      "x-risk-185",
+      "x-risk-186",
+      "x-risk-187",
+      "x-risk-188",
+      "x-risk-189",
+      "x-risk-190",
+      "x-risk-191",
+      "x-risk-192",
+      "x-risk-193",
+      "x-risk-194",
+      "x-risk-196",
+      "x-risk-197",
+      "x-risk-198",
+      "x-risk-199",
+      "x-risk-200"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.niddk.nih.gov/health-information/diagnostic-tests/kidney-biopsy",
+      "checked": true,
+      "ids": [
+        "x-risk-181"
+      ],
+      "note": "Opened post-biopsy monitoring/recovery and warning-sign sections during this final50 review; blood pressure/pulse/urine and internal bleeding are monitored, worsening pain and faintness require attention."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-risk-181",
+      "status": "pass",
+      "assessment": "Reread stem, all four parallel pulse/BP/local-observation sets, key and rationales. Baseline now permits genuine trend comparison; the key is no longer the only quantified or markedly longer option. Tachycardia, falling pressure and increasing flank pain require urgent concealed-bleeding assessment despite a dry dressing. Stable local recovery alternatives remain plausible and distinct.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "039af75f6cfd5aabd4ef9cd819403edb2e7a482d5fa3adfb3f6494074da4cfae"
+    },
+    {
+      "id": "x-risk-195",
+      "status": "pass",
+      "assessment": "Reread full item after the stable option gained explicit unchanged breathlessness and exercise tolerance. The rationale now follows supplied facts rather than assuming stability from saturation alone. Worsening comparable-task breathlessness and perceived need for higher settings appropriately trigger team review without independent titration.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2daa5951ec34363169f356d0a230ffd1bcfc960934acc4826eb63ac4edc34dbd"
+    }
+  ],
+  "reviewerTask": "/root/review_legacy"
+}

@@ -1,0 +1,790 @@
+{
+  "createdAt": "2026-10-01T18:16:43.500401+00:00",
+  "purpose": "Mechanical index of existing individually reasoned matching-hash passes; not a new clinical review or blanket approval.",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/d/questions.json",
+  "sourceSha256": "22749157366b52de0ea9040d480abae8ea7c57501d37705e09660be159504e03",
+  "coverage": {
+    "scopeItems": 110,
+    "matchingPasses": 110,
+    "pending": []
+  },
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen, not external clinician or psychometric validation.",
+    "Read the supporting review for each assessment and source limitations. Any whole-item content or metadata change invalidates its recorded hash.",
+    "Only explicitly selected scope is indexed here; other categories/reviewers are not implied approved."
+  ],
+  "items": [
+    {
+      "id": "x-health-001",
+      "status": "pass",
+      "reviewedItemSha256": "03b193cb4ff28bfb2e07aff9222b6a066da70ae0de1c8fc13e97cd35321e4c66",
+      "supportingReview": "reviews/expansion/d-health-001-025.review.json",
+      "reviewedAt": "2026-10-01T16:49:54.641048+00:00"
+    },
+    {
+      "id": "x-health-002",
+      "status": "pass",
+      "reviewedItemSha256": "5e72097fb334251950d811e9d7371ff28ce134118c8f759695669a635493e3d6",
+      "supportingReview": "reviews/expansion/d-health-001-025.followup1.json",
+      "reviewedAt": "2026-10-01T16:59:57.258640+00:00"
+    },
+    {
+      "id": "x-health-003",
+      "status": "pass",
+      "reviewedItemSha256": "67b2bf3755b5d00476af32e882cb0d2cc63a0d76e56bc40fafa77230a38b6e61",
+      "supportingReview": "reviews/expansion/d-health-001-025.review.json",
+      "reviewedAt": "2026-10-01T16:49:54.641048+00:00"
+    },
+    {
+      "id": "x-health-004",
+      "status": "pass",
+      "reviewedItemSha256": "c2a5aab4e48270bc3450a29a59d7e8521c33d70e86877a034d04664e5fc7f511",
+      "supportingReview": "reviews/expansion/d-health-001-025.review.json",
+      "reviewedAt": "2026-10-01T16:49:54.641048+00:00"
+    },
+    {
+      "id": "x-health-005",
+      "status": "pass",
+      "reviewedItemSha256": "126b48ceab55ef26eff8384491898011ffa609d10f633f273811b94817c570fd",
+      "supportingReview": "reviews/expansion/d-health-001-025.followup1.json",
+      "reviewedAt": "2026-10-01T16:59:57.258640+00:00"
+    },
+    {
+      "id": "x-health-006",
+      "status": "pass",
+      "reviewedItemSha256": "cd44ea34e302dc054951008274f1d01c91591d077b9aa5831006536241ce9bc0",
+      "supportingReview": "reviews/expansion/d-health-001-025.review.json",
+      "reviewedAt": "2026-10-01T16:49:54.641048+00:00"
+    },
+    {
+      "id": "x-health-007",
+      "status": "pass",
+      "reviewedItemSha256": "3ec7addba3eb3d5126116faa050bd9ab24126d573cc19a97e1c49847077d8f3e",
+      "supportingReview": "reviews/expansion/d-health-001-025.review.json",
+      "reviewedAt": "2026-10-01T16:49:54.641048+00:00"
+    },
+    {
+      "id": "x-health-008",
+      "status": "pass",
+      "reviewedItemSha256": "135f7a3b701354698c6b068c91a21f20abd143c57b2edca3c692b8caef5bbbca",
+      "supportingReview": "reviews/expansion/d-health-001-025.review.json",
+      "reviewedAt": "2026-10-01T16:49:54.641048+00:00"
+    },
+    {
+      "id": "x-health-009",
+      "status": "pass",
+      "reviewedItemSha256": "a03dd246074797aa5e3c6b696f5f571412d1a9448182813ed82d4f2eab0ed137",
+      "supportingReview": "reviews/expansion/d-health-001-025.review.json",
+      "reviewedAt": "2026-10-01T16:49:54.641048+00:00"
+    },
+    {
+      "id": "x-health-010",
+      "status": "pass",
+      "reviewedItemSha256": "663e223ef32d770bd6965fcc3855c7302a4c31f0d71fe8943ec631e470c4ccaa",
+      "supportingReview": "reviews/expansion/d-health-001-025.review.json",
+      "reviewedAt": "2026-10-01T16:49:54.641048+00:00"
+    },
+    {
+      "id": "x-health-011",
+      "status": "pass",
+      "reviewedItemSha256": "cffd17236f78723b3bed2b92a8e1f2d0cc1def73cdf2f393168e5259c46ef150",
+      "supportingReview": "reviews/expansion/d-health-001-025.review.json",
+      "reviewedAt": "2026-10-01T16:49:54.641048+00:00"
+    },
+    {
+      "id": "x-health-012",
+      "status": "pass",
+      "reviewedItemSha256": "c425414b634e5c11cad05898c043fab177093584574e4dc43b4b7eb510a01cff",
+      "supportingReview": "reviews/expansion/d-health-001-025.review.json",
+      "reviewedAt": "2026-10-01T16:49:54.641048+00:00"
+    },
+    {
+      "id": "x-health-013",
+      "status": "pass",
+      "reviewedItemSha256": "668c35b2fd3d90aad483572e7a7b5062d1feff350e3384b6653e147ecf66a25a",
+      "supportingReview": "reviews/expansion/d-health-001-025.followup1.json",
+      "reviewedAt": "2026-10-01T16:59:57.258640+00:00"
+    },
+    {
+      "id": "x-health-014",
+      "status": "pass",
+      "reviewedItemSha256": "0a419a45e0e1522c974ed41eee162573ccb1730b104a4b0a79c09e1921fab56a",
+      "supportingReview": "reviews/expansion/d-health-001-025.followup1.json",
+      "reviewedAt": "2026-10-01T16:59:57.258640+00:00"
+    },
+    {
+      "id": "x-health-015",
+      "status": "pass",
+      "reviewedItemSha256": "37ff5248192da555bffe57b0cd8dde491b0aeca3949ab4ca352ba63361e9f968",
+      "supportingReview": "reviews/expansion/d-health-015.followup3.json",
+      "reviewedAt": "2026-10-01T17:32:04.285715+00:00"
+    },
+    {
+      "id": "x-health-016",
+      "status": "pass",
+      "reviewedItemSha256": "9beee4d04d60eb895a9041f41cde95e6abf38d01f88bbc3a2869db365dcc8e40",
+      "supportingReview": "reviews/expansion/d-health-001-025.review.json",
+      "reviewedAt": "2026-10-01T16:49:54.641048+00:00"
+    },
+    {
+      "id": "x-health-017",
+      "status": "pass",
+      "reviewedItemSha256": "e67a2103c176cda5351d3a159671117f78783c74f9026e6de34120a0aaa294e9",
+      "supportingReview": "reviews/expansion/d-health-001-025.followup1.json",
+      "reviewedAt": "2026-10-01T16:59:57.258640+00:00"
+    },
+    {
+      "id": "x-health-018",
+      "status": "pass",
+      "reviewedItemSha256": "86217811162458612fbc0d1a1f44648bfc883e4418f3e2fc1b38c464cee3e949",
+      "supportingReview": "reviews/expansion/d-health-001-025.followup1.json",
+      "reviewedAt": "2026-10-01T16:59:57.258640+00:00"
+    },
+    {
+      "id": "x-health-019",
+      "status": "pass",
+      "reviewedItemSha256": "9abec18182f206e324b0525da3862d897d1f778c3e62d548dcf9befea265255d",
+      "supportingReview": "reviews/expansion/d-health-001-025.followup1.json",
+      "reviewedAt": "2026-10-01T16:59:57.258640+00:00"
+    },
+    {
+      "id": "x-health-020",
+      "status": "pass",
+      "reviewedItemSha256": "bea8f8f34f36d57d14dde47b8f774f5f75679621cfb75e062d083a2548340e04",
+      "supportingReview": "reviews/expansion/d-health-001-025.followup1.json",
+      "reviewedAt": "2026-10-01T16:59:57.258640+00:00"
+    },
+    {
+      "id": "x-health-021",
+      "status": "pass",
+      "reviewedItemSha256": "88b243ca10628424ac530ce108d17c9d90a1ea9262aa5266ff0b63676356b018",
+      "supportingReview": "reviews/expansion/d-health-001-025.review.json",
+      "reviewedAt": "2026-10-01T16:49:54.641048+00:00"
+    },
+    {
+      "id": "x-health-022",
+      "status": "pass",
+      "reviewedItemSha256": "4c91f4242c18d75f8c137a413c3c2ff538b0ae4a36830e4062827f7020d949c3",
+      "supportingReview": "reviews/expansion/d-health-001-025.followup1.json",
+      "reviewedAt": "2026-10-01T16:59:57.258640+00:00"
+    },
+    {
+      "id": "x-health-023",
+      "status": "pass",
+      "reviewedItemSha256": "6414fb3eb6db897054ee909314de0778736b5beacdefec7fbcf00bc436937ddc",
+      "supportingReview": "reviews/expansion/d-health-001-025.review.json",
+      "reviewedAt": "2026-10-01T16:49:54.641048+00:00"
+    },
+    {
+      "id": "x-health-024",
+      "status": "pass",
+      "reviewedItemSha256": "197e7f1fbe296a9cbaaa5f156574eda8e0547c3c86110be1bc31b58f906d3314",
+      "supportingReview": "reviews/expansion/d-health-001-025.review.json",
+      "reviewedAt": "2026-10-01T16:49:54.641048+00:00"
+    },
+    {
+      "id": "x-health-025",
+      "status": "pass",
+      "reviewedItemSha256": "a6bcc32508c1b97911f7607bb51f97f5d68c5bf91dc58d103e1c04abacd56127",
+      "supportingReview": "reviews/expansion/d-health-001-025.followup1.json",
+      "reviewedAt": "2026-10-01T16:59:57.258640+00:00"
+    },
+    {
+      "id": "x-health-026",
+      "status": "pass",
+      "reviewedItemSha256": "d923e157520d08d23a54055fdc360a25bb5d9a6ee255bc0a5606e4ebdc6f6164",
+      "supportingReview": "reviews/expansion/d-health-026-070.review.json",
+      "reviewedAt": "2026-10-01T17:04:15.265906+00:00"
+    },
+    {
+      "id": "x-health-027",
+      "status": "pass",
+      "reviewedItemSha256": "76d6caffe1716af45aa10d65c355f9395eb6a453955095a8b359cb8596f6d014",
+      "supportingReview": "reviews/expansion/d-health-026-070.review.json",
+      "reviewedAt": "2026-10-01T17:04:15.265906+00:00"
+    },
+    {
+      "id": "x-health-028",
+      "status": "pass",
+      "reviewedItemSha256": "04539cf876ac725e73da36d082decf61db5f8d9858251c6cb9a2b08cd2be6fea",
+      "supportingReview": "reviews/expansion/d-health-026-070.followup1.json",
+      "reviewedAt": "2026-10-01T17:23:21.775882+00:00"
+    },
+    {
+      "id": "x-health-029",
+      "status": "pass",
+      "reviewedItemSha256": "271b72bb2ab0407f1421cb925cf829de77e0ca0e9849348b087eb8816653c952",
+      "supportingReview": "reviews/expansion/d-health-026-070.review.json",
+      "reviewedAt": "2026-10-01T17:04:15.265906+00:00"
+    },
+    {
+      "id": "x-health-030",
+      "status": "pass",
+      "reviewedItemSha256": "aedf1a673bb486c4da3490f3ea0fc70f7a57d5e8543a9168c6d7a1bd7f4eef40",
+      "supportingReview": "reviews/expansion/d-health-026-070.review.json",
+      "reviewedAt": "2026-10-01T17:04:15.265906+00:00"
+    },
+    {
+      "id": "x-health-031",
+      "status": "pass",
+      "reviewedItemSha256": "9115afca00040381910a45d282f2d36fa804304e97ad9335c2b6d4aa874ff1ee",
+      "supportingReview": "reviews/expansion/d-health-026-070.review.json",
+      "reviewedAt": "2026-10-01T17:04:15.265906+00:00"
+    },
+    {
+      "id": "x-health-032",
+      "status": "pass",
+      "reviewedItemSha256": "c2365bc46db65ce8d9ff041f91fef3e1781e004d2c91663809d1855fe19027f6",
+      "supportingReview": "reviews/expansion/d-health-026-070.followup2.json",
+      "reviewedAt": "2026-10-01T17:32:04.286479+00:00"
+    },
+    {
+      "id": "x-health-033",
+      "status": "pass",
+      "reviewedItemSha256": "ce294ae85b7c295fdf3ae4bee7c37a9970b4358dccb616a385f8c302521348a4",
+      "supportingReview": "reviews/expansion/d-health-026-070.followup2.json",
+      "reviewedAt": "2026-10-01T17:32:04.286479+00:00"
+    },
+    {
+      "id": "x-health-034",
+      "status": "pass",
+      "reviewedItemSha256": "91717e3a20d4246b60da1941d444d7834b06871bb631b05db1165960f00c960c",
+      "supportingReview": "reviews/expansion/d-health-026-070.followup1.json",
+      "reviewedAt": "2026-10-01T17:23:21.775882+00:00"
+    },
+    {
+      "id": "x-health-035",
+      "status": "pass",
+      "reviewedItemSha256": "fdf0958561f81bba04417f8a36d96baca3a9c4684fddce553df12fefa8452120",
+      "supportingReview": "reviews/expansion/d-health-026-070.review.json",
+      "reviewedAt": "2026-10-01T17:04:15.265906+00:00"
+    },
+    {
+      "id": "x-health-036",
+      "status": "pass",
+      "reviewedItemSha256": "f4802847cfb18d11caadf068b558cdefdbcaadd42bca0f769afffb7ead697364",
+      "supportingReview": "reviews/expansion/d-health-026-070.review.json",
+      "reviewedAt": "2026-10-01T17:04:15.265906+00:00"
+    },
+    {
+      "id": "x-health-037",
+      "status": "pass",
+      "reviewedItemSha256": "6eea2fba26fb7b3acd23bbba5f2eef9723baa5a8c25b6882624629a5a62ad7a3",
+      "supportingReview": "reviews/expansion/d-health-026-070.review.json",
+      "reviewedAt": "2026-10-01T17:04:15.265906+00:00"
+    },
+    {
+      "id": "x-health-038",
+      "status": "pass",
+      "reviewedItemSha256": "1bf5c47db53e521017443cf3a51e8e458979056a2181e748e56728f79959734f",
+      "supportingReview": "reviews/expansion/d-health-026-070.review.json",
+      "reviewedAt": "2026-10-01T17:04:15.265906+00:00"
+    },
+    {
+      "id": "x-health-039",
+      "status": "pass",
+      "reviewedItemSha256": "ec401f718b466eab171ea2735525b08a81340729e5209c68954c82d0a7f1ce3c",
+      "supportingReview": "reviews/expansion/d-health-026-070.review.json",
+      "reviewedAt": "2026-10-01T17:04:15.265906+00:00"
+    },
+    {
+      "id": "x-health-040",
+      "status": "pass",
+      "reviewedItemSha256": "9b8db563e2e25743c21f387e90b57abc53db63a12fbdc0df34a3a939839e8591",
+      "supportingReview": "reviews/expansion/d-health-026-070.review.json",
+      "reviewedAt": "2026-10-01T17:04:15.265906+00:00"
+    },
+    {
+      "id": "x-health-041",
+      "status": "pass",
+      "reviewedItemSha256": "87c12e0aa784f58dd58706f300ffcb2f099cd69e777919644d5496ebbd999ccc",
+      "supportingReview": "reviews/expansion/d-health-026-070.review.json",
+      "reviewedAt": "2026-10-01T17:04:15.265906+00:00"
+    },
+    {
+      "id": "x-health-042",
+      "status": "pass",
+      "reviewedItemSha256": "618f7d27f6162316ab58a7c38f43884f04f9e374c6d8e2f5e1e1087eedd13056",
+      "supportingReview": "reviews/expansion/d-health-026-070.review.json",
+      "reviewedAt": "2026-10-01T17:04:15.265906+00:00"
+    },
+    {
+      "id": "x-health-043",
+      "status": "pass",
+      "reviewedItemSha256": "897d0b1e8a87db367064da5fc29ae657e729389511daec260203d8cd2c69ba3e",
+      "supportingReview": "reviews/expansion/d-health-026-070.followup2.json",
+      "reviewedAt": "2026-10-01T17:32:04.286479+00:00"
+    },
+    {
+      "id": "x-health-044",
+      "status": "pass",
+      "reviewedItemSha256": "78dad644618614950cb2d27235656ca43d7b74de409b70c29f552b17917e116d",
+      "supportingReview": "reviews/expansion/d-health-026-070.followup1.json",
+      "reviewedAt": "2026-10-01T17:23:21.775882+00:00"
+    },
+    {
+      "id": "x-health-045",
+      "status": "pass",
+      "reviewedItemSha256": "3aea54bc174273b7a09bd08efa608468b24bdf363bd4c6158ea714bed7874f94",
+      "supportingReview": "reviews/expansion/d-health-026-070.review.json",
+      "reviewedAt": "2026-10-01T17:04:15.265906+00:00"
+    },
+    {
+      "id": "x-health-046",
+      "status": "pass",
+      "reviewedItemSha256": "a81920d51dfdf8945b02e1c51b25ce2d6a58f8777abf4639f14b9fbd85f15d8b",
+      "supportingReview": "reviews/expansion/d-health-final-followup.json",
+      "reviewedAt": "2026-10-01T18:06:44.458404+00:00"
+    },
+    {
+      "id": "x-health-047",
+      "status": "pass",
+      "reviewedItemSha256": "bd5767c838d1947868af307136080541a157be1829f1f4e12e1c8cd8a0c9fd95",
+      "supportingReview": "reviews/expansion/d-health-026-070.followup1.json",
+      "reviewedAt": "2026-10-01T17:23:21.775882+00:00"
+    },
+    {
+      "id": "x-health-048",
+      "status": "pass",
+      "reviewedItemSha256": "3e5bc2f6420799e912f4c797d9bfc51aad94ad07a10fa04e1bfa9bb391e15481",
+      "supportingReview": "reviews/expansion/d-health-026-070.review.json",
+      "reviewedAt": "2026-10-01T17:04:15.265906+00:00"
+    },
+    {
+      "id": "x-health-049",
+      "status": "pass",
+      "reviewedItemSha256": "3e00398ff2ac1267399f3f92f9615f1b3a51ca6037def9eca3048a72c41050ea",
+      "supportingReview": "reviews/expansion/d-health-026-070.review.json",
+      "reviewedAt": "2026-10-01T17:04:15.265906+00:00"
+    },
+    {
+      "id": "x-health-050",
+      "status": "pass",
+      "reviewedItemSha256": "12560a39bd067331d910014f44a6eac949aa89cb25e161ec617f255c2c7224fc",
+      "supportingReview": "reviews/expansion/d-health-026-070.review.json",
+      "reviewedAt": "2026-10-01T17:04:15.265906+00:00"
+    },
+    {
+      "id": "x-health-051",
+      "status": "pass",
+      "reviewedItemSha256": "faf1ab5a4887cc73f059549c90a93c456c2ad7beafbe30ac346febbd1a63a7a4",
+      "supportingReview": "reviews/expansion/d-health-026-070.followup2.json",
+      "reviewedAt": "2026-10-01T17:32:04.286479+00:00"
+    },
+    {
+      "id": "x-health-052",
+      "status": "pass",
+      "reviewedItemSha256": "40e33877a88d87c7b61478b9d1937e5b368f20584c9bc35d65b7b4968aecccf7",
+      "supportingReview": "reviews/expansion/d-health-026-070.review.json",
+      "reviewedAt": "2026-10-01T17:04:15.265906+00:00"
+    },
+    {
+      "id": "x-health-053",
+      "status": "pass",
+      "reviewedItemSha256": "8a9e4d6f60bba17a489d58455b5f0d86913b0fb04491fd3fe408a7745cb5abab",
+      "supportingReview": "reviews/expansion/d-health-026-070.review.json",
+      "reviewedAt": "2026-10-01T17:04:15.265906+00:00"
+    },
+    {
+      "id": "x-health-054",
+      "status": "pass",
+      "reviewedItemSha256": "81d4289f9258e72edbddd0fa8abf8b467c6b256cf412827e8113491daf8c7477",
+      "supportingReview": "reviews/expansion/d-health-026-070.followup2.json",
+      "reviewedAt": "2026-10-01T17:32:04.286479+00:00"
+    },
+    {
+      "id": "x-health-055",
+      "status": "pass",
+      "reviewedItemSha256": "c1d426c072a4ab110901f9afd9797877725b2c20a88dd88ad37359da26bd6271",
+      "supportingReview": "reviews/expansion/d-health-026-070.review.json",
+      "reviewedAt": "2026-10-01T17:04:15.265906+00:00"
+    },
+    {
+      "id": "x-health-056",
+      "status": "pass",
+      "reviewedItemSha256": "2f35c0cbcbeb8f6b67d22b94271c9d4373f97a55afe3969e8eefe056a8f2e2d3",
+      "supportingReview": "reviews/expansion/d-health-026-070.review.json",
+      "reviewedAt": "2026-10-01T17:04:15.265906+00:00"
+    },
+    {
+      "id": "x-health-057",
+      "status": "pass",
+      "reviewedItemSha256": "285ae59547374ac9cc0b51b7ae617d2fc7d32bcdfb5e5d3f6938ee996a0bf9c5",
+      "supportingReview": "reviews/expansion/d-health-026-070.followup2.json",
+      "reviewedAt": "2026-10-01T17:32:04.286479+00:00"
+    },
+    {
+      "id": "x-health-058",
+      "status": "pass",
+      "reviewedItemSha256": "30e7062b6c70592580c959c4317ffd10a5fa26f818651de75429b670afd6128d",
+      "supportingReview": "reviews/expansion/d-health-026-070.review.json",
+      "reviewedAt": "2026-10-01T17:04:15.265906+00:00"
+    },
+    {
+      "id": "x-health-059",
+      "status": "pass",
+      "reviewedItemSha256": "67e1d9d8878bcb2eec86ee8d9701cb9a18e23d55232d1d42d1e2cb6ac8e7a8dd",
+      "supportingReview": "reviews/expansion/d-health-026-070.review.json",
+      "reviewedAt": "2026-10-01T17:04:15.265906+00:00"
+    },
+    {
+      "id": "x-health-060",
+      "status": "pass",
+      "reviewedItemSha256": "9139ce5f4d79d03937e9e517080a67eb2daf841f7a265e5b08f04152ef366d81",
+      "supportingReview": "reviews/expansion/d-health-026-070.review.json",
+      "reviewedAt": "2026-10-01T17:04:15.265906+00:00"
+    },
+    {
+      "id": "x-health-061",
+      "status": "pass",
+      "reviewedItemSha256": "ebeb0de2d4b49dc561d05a69448f608d58752cfa5e228a5d2743678d3ab868fa",
+      "supportingReview": "reviews/expansion/d-health-061.replacement-review.json",
+      "reviewedAt": "2026-10-01T18:15:25.520629+00:00"
+    },
+    {
+      "id": "x-health-062",
+      "status": "pass",
+      "reviewedItemSha256": "6f83d9e9f79ea32b14f8070fed1619bcdaf665c6a4dfcd3dfd0c4c0916dd9d78",
+      "supportingReview": "reviews/expansion/d-health-026-070.review.json",
+      "reviewedAt": "2026-10-01T17:04:15.265906+00:00"
+    },
+    {
+      "id": "x-health-063",
+      "status": "pass",
+      "reviewedItemSha256": "62046a34630df5cd51bf83969613903ebe149597b20210afb8dd9db87a357dde",
+      "supportingReview": "reviews/expansion/d-health-026-070.review.json",
+      "reviewedAt": "2026-10-01T17:04:15.265906+00:00"
+    },
+    {
+      "id": "x-health-064",
+      "status": "pass",
+      "reviewedItemSha256": "c2bd598884a08903fa01c9be5f21e1f891ba8db659be979bc450a4eb913e68f9",
+      "supportingReview": "reviews/expansion/d-health-026-070.review.json",
+      "reviewedAt": "2026-10-01T17:04:15.265906+00:00"
+    },
+    {
+      "id": "x-health-065",
+      "status": "pass",
+      "reviewedItemSha256": "06f97ce91896d05a0286b5b93bbcf404a9fe44afa76628aeea0a332109dc67d7",
+      "supportingReview": "reviews/expansion/d-health-026-070.followup1.json",
+      "reviewedAt": "2026-10-01T17:23:21.775882+00:00"
+    },
+    {
+      "id": "x-health-066",
+      "status": "pass",
+      "reviewedItemSha256": "d7953146fa4cfb1cf831f56ee876f429b8be06d34850ab5908af9bc5bfc34f67",
+      "supportingReview": "reviews/expansion/d-health-026-070.review.json",
+      "reviewedAt": "2026-10-01T17:04:15.265906+00:00"
+    },
+    {
+      "id": "x-health-067",
+      "status": "pass",
+      "reviewedItemSha256": "bd6c2f00b3ff1363e7bfcb3d6ddc7bf49e02dd3c39c41dbd06bada975a42839c",
+      "supportingReview": "reviews/expansion/d-health-026-070.review.json",
+      "reviewedAt": "2026-10-01T17:04:15.265906+00:00"
+    },
+    {
+      "id": "x-health-068",
+      "status": "pass",
+      "reviewedItemSha256": "192e93710957502043d1a36aed70773880907fab5a38e266d9d6958cdb69f808",
+      "supportingReview": "reviews/expansion/d-health-026-070.followup2.json",
+      "reviewedAt": "2026-10-01T17:32:04.286479+00:00"
+    },
+    {
+      "id": "x-health-069",
+      "status": "pass",
+      "reviewedItemSha256": "b0f37dae4a638dec8c8c99e1e908aa9cc96d0d42a285bb1d690250af2f38b7cf",
+      "supportingReview": "reviews/expansion/d-health-026-070.followup2.json",
+      "reviewedAt": "2026-10-01T17:32:04.286479+00:00"
+    },
+    {
+      "id": "x-health-070",
+      "status": "pass",
+      "reviewedItemSha256": "eb54ac206359a5d10810a2fc28dd449b3b884e425eb07d6794bb963536b1930d",
+      "supportingReview": "reviews/expansion/d-health-026-070.review.json",
+      "reviewedAt": "2026-10-01T17:04:15.265906+00:00"
+    },
+    {
+      "id": "x-health-071",
+      "status": "pass",
+      "reviewedItemSha256": "9f968905c3f837815b70e80445b2c9ef7b598b55df2767405299f09405bda82c",
+      "supportingReview": "reviews/expansion/d-health-071-110.followup1.json",
+      "reviewedAt": "2026-10-01T17:32:04.287227+00:00"
+    },
+    {
+      "id": "x-health-072",
+      "status": "pass",
+      "reviewedItemSha256": "94510f09e4cbb9175498bc3c48fb50e904ca345fb5b34ebdd830f62994c076a9",
+      "supportingReview": "reviews/expansion/d-health-071-110.followup1.json",
+      "reviewedAt": "2026-10-01T17:32:04.287227+00:00"
+    },
+    {
+      "id": "x-health-073",
+      "status": "pass",
+      "reviewedItemSha256": "ea9ef6e8302b1dfbb4947241260b241008d00c4d8b7edb5e80f0df08e1d4ad4c",
+      "supportingReview": "reviews/expansion/d-health-071-110.followup1.json",
+      "reviewedAt": "2026-10-01T17:32:04.287227+00:00"
+    },
+    {
+      "id": "x-health-074",
+      "status": "pass",
+      "reviewedItemSha256": "89604288d97e5cc1c9be1e10affd829be46b3932650b8b4cb1c2e2312364cd5b",
+      "supportingReview": "reviews/expansion/d-health-071-110.review.json",
+      "reviewedAt": "2026-10-01T17:15:23.936102+00:00"
+    },
+    {
+      "id": "x-health-075",
+      "status": "pass",
+      "reviewedItemSha256": "bf2448a05b5b5ae72cbf39e69f2523b5dcae91507387edd7bd3fd9c8f2914302",
+      "supportingReview": "reviews/expansion/d-health-071-110.review.json",
+      "reviewedAt": "2026-10-01T17:15:23.936102+00:00"
+    },
+    {
+      "id": "x-health-076",
+      "status": "pass",
+      "reviewedItemSha256": "87e257d45706540897fb22663854291a0877aec4129ab0d5385658427667bf8f",
+      "supportingReview": "reviews/expansion/d-health-final-followup.json",
+      "reviewedAt": "2026-10-01T18:06:44.458404+00:00"
+    },
+    {
+      "id": "x-health-077",
+      "status": "pass",
+      "reviewedItemSha256": "6bbf22dd1964515d40b83ebfbb25e52f1f669c4aac11edad9b3746ac0b4bce80",
+      "supportingReview": "reviews/expansion/d-health-071-110.followup1.json",
+      "reviewedAt": "2026-10-01T17:32:04.287227+00:00"
+    },
+    {
+      "id": "x-health-078",
+      "status": "pass",
+      "reviewedItemSha256": "c0a4a20514b9060895bfe3304768c801b6d3e37b9f543aa6be9550a0f392ccc2",
+      "supportingReview": "reviews/expansion/d-health-071-110.followup1.json",
+      "reviewedAt": "2026-10-01T17:32:04.287227+00:00"
+    },
+    {
+      "id": "x-health-079",
+      "status": "pass",
+      "reviewedItemSha256": "483b7eb29ecbcf69dfd95a4158721eb7083970f8fc1572d55364487cce4da615",
+      "supportingReview": "reviews/expansion/d-health-071-110.review.json",
+      "reviewedAt": "2026-10-01T17:15:23.936102+00:00"
+    },
+    {
+      "id": "x-health-080",
+      "status": "pass",
+      "reviewedItemSha256": "5fcd516320449bd1c9fc40cf8c224b812633a8437908815047d39e19d6e2019f",
+      "supportingReview": "reviews/expansion/d-health-final-followup.json",
+      "reviewedAt": "2026-10-01T18:06:44.458404+00:00"
+    },
+    {
+      "id": "x-health-081",
+      "status": "pass",
+      "reviewedItemSha256": "0d2f88fa101d738023d12c6451094a8c066f3771633ca5f0ff90362492622d50",
+      "supportingReview": "reviews/expansion/d-health-071-110.followup1.json",
+      "reviewedAt": "2026-10-01T17:32:04.287227+00:00"
+    },
+    {
+      "id": "x-health-082",
+      "status": "pass",
+      "reviewedItemSha256": "50b954b423e82fec1e306263809bc60c75e9a00e42cbf475d5c74b44c915a23b",
+      "supportingReview": "reviews/expansion/d-health-071-110.review.json",
+      "reviewedAt": "2026-10-01T17:15:23.936102+00:00"
+    },
+    {
+      "id": "x-health-083",
+      "status": "pass",
+      "reviewedItemSha256": "3312d31c9adb41d1575e612c7477b3827fe52ff2a67bc539a7f463aeb2dff85b",
+      "supportingReview": "reviews/expansion/d-health-083-101-106.final-recheck.json",
+      "reviewedAt": "2026-10-01T18:12:51.220723+00:00"
+    },
+    {
+      "id": "x-health-084",
+      "status": "pass",
+      "reviewedItemSha256": "d69e7415cababf7116aa2a1db74a3a6ee09011d49a7e6380949ad3e4b3743711",
+      "supportingReview": "reviews/expansion/d-health-071-110.followup1.json",
+      "reviewedAt": "2026-10-01T17:32:04.287227+00:00"
+    },
+    {
+      "id": "x-health-085",
+      "status": "pass",
+      "reviewedItemSha256": "dad3e2bf1ee212c17ff2d49db0201f32f0ed1a4c5edc8e7b636c166bf630208f",
+      "supportingReview": "reviews/expansion/d-health-071-110.review.json",
+      "reviewedAt": "2026-10-01T17:15:23.936102+00:00"
+    },
+    {
+      "id": "x-health-086",
+      "status": "pass",
+      "reviewedItemSha256": "e37fca095b31367e7a92dc49d43e5516f127e8eb27e205bf17ab91b390f77c2b",
+      "supportingReview": "reviews/expansion/d-health-071-110.followup1.json",
+      "reviewedAt": "2026-10-01T17:32:04.287227+00:00"
+    },
+    {
+      "id": "x-health-087",
+      "status": "pass",
+      "reviewedItemSha256": "4df031d6c5de9f462aace432171f5a5cfa6a032756033db3b076eb1667df93a9",
+      "supportingReview": "reviews/expansion/d-health-071-110.followup1.json",
+      "reviewedAt": "2026-10-01T17:32:04.287227+00:00"
+    },
+    {
+      "id": "x-health-088",
+      "status": "pass",
+      "reviewedItemSha256": "ff7ee7ae91bc31a6c2aa932f1ed3bd20e67710470312b95fa8babcd9180889ef",
+      "supportingReview": "reviews/expansion/d-health-final-followup.json",
+      "reviewedAt": "2026-10-01T18:06:44.458404+00:00"
+    },
+    {
+      "id": "x-health-089",
+      "status": "pass",
+      "reviewedItemSha256": "794a3abe502d9bec767185551a5f19ba0d603f04a8c28d30e71631dc33152818",
+      "supportingReview": "reviews/expansion/d-health-final-followup.json",
+      "reviewedAt": "2026-10-01T18:06:44.458404+00:00"
+    },
+    {
+      "id": "x-health-090",
+      "status": "pass",
+      "reviewedItemSha256": "d412721dc3bea6827e823be0347f509324f309c9fc3d2042b5093b5ca72d1189",
+      "supportingReview": "reviews/expansion/d-health-071-110.review.json",
+      "reviewedAt": "2026-10-01T17:15:23.936102+00:00"
+    },
+    {
+      "id": "x-health-091",
+      "status": "pass",
+      "reviewedItemSha256": "abad1e0cfe5ec98d990d661952ef930fa81887cad7b86557c1a1efc64f47fbdb",
+      "supportingReview": "reviews/expansion/d-health-071-110.review.json",
+      "reviewedAt": "2026-10-01T17:15:23.936102+00:00"
+    },
+    {
+      "id": "x-health-092",
+      "status": "pass",
+      "reviewedItemSha256": "3edda140653120416e453810433a3ec62cc35d04277fe75c2ab1b6651ae2fced",
+      "supportingReview": "reviews/expansion/d-health-071-110.followup1.json",
+      "reviewedAt": "2026-10-01T17:32:04.287227+00:00"
+    },
+    {
+      "id": "x-health-093",
+      "status": "pass",
+      "reviewedItemSha256": "d393b939fdbe5ea045148d9a311fa53f6b0b7c99ec0e3aff6d28badde76ec3da",
+      "supportingReview": "reviews/expansion/d-health-071-110.review.json",
+      "reviewedAt": "2026-10-01T17:15:23.936102+00:00"
+    },
+    {
+      "id": "x-health-094",
+      "status": "pass",
+      "reviewedItemSha256": "eddff2c96f043000acafa73dc03eb360a76c203cff42e75c7bd71cccf6e6c810",
+      "supportingReview": "reviews/expansion/d-health-final-followup.json",
+      "reviewedAt": "2026-10-01T18:06:44.458404+00:00"
+    },
+    {
+      "id": "x-health-095",
+      "status": "pass",
+      "reviewedItemSha256": "abdb405689c0744e9ffca876bd290b5b6fa5fb3e26214c3a77fdf5148c9a51d9",
+      "supportingReview": "reviews/expansion/d-health-071-110.review.json",
+      "reviewedAt": "2026-10-01T17:15:23.936102+00:00"
+    },
+    {
+      "id": "x-health-096",
+      "status": "pass",
+      "reviewedItemSha256": "6929b1b019f8105d7972d43cb4dbb4c8e18f74930ac84c131f99cbe6c5369eb2",
+      "supportingReview": "reviews/expansion/d-health-final-followup.json",
+      "reviewedAt": "2026-10-01T18:06:44.458404+00:00"
+    },
+    {
+      "id": "x-health-097",
+      "status": "pass",
+      "reviewedItemSha256": "ff37da03ed8e68435e8769bc39396a074991cdf2c2930794176454181c14ff07",
+      "supportingReview": "reviews/expansion/d-health-final-followup.json",
+      "reviewedAt": "2026-10-01T18:06:44.458404+00:00"
+    },
+    {
+      "id": "x-health-098",
+      "status": "pass",
+      "reviewedItemSha256": "84f63727df7abfde186f5e4fe73e8d9f099c300b5d581fe654f078aeccaa386b",
+      "supportingReview": "reviews/expansion/d-health-final-followup.json",
+      "reviewedAt": "2026-10-01T18:06:44.458404+00:00"
+    },
+    {
+      "id": "x-health-099",
+      "status": "pass",
+      "reviewedItemSha256": "cac118ebe54832cec5ca128adc394e205b3df9a7197d1257a559eddf9dfa0b43",
+      "supportingReview": "reviews/expansion/d-health-final-followup.json",
+      "reviewedAt": "2026-10-01T18:06:44.458404+00:00"
+    },
+    {
+      "id": "x-health-100",
+      "status": "pass",
+      "reviewedItemSha256": "dfbc8f2ef8d2ebf658d31e2da823cd13b40228e947ee70fd4bdaa34ed3090680",
+      "supportingReview": "reviews/expansion/d-health-071-110.review.json",
+      "reviewedAt": "2026-10-01T17:15:23.936102+00:00"
+    },
+    {
+      "id": "x-health-101",
+      "status": "pass",
+      "reviewedItemSha256": "f6560706a321511d023d225a1f1e06e4bca196c157caefd66687bb3480175b71",
+      "supportingReview": "reviews/expansion/d-health-083-101-106.final-recheck.json",
+      "reviewedAt": "2026-10-01T18:12:51.220723+00:00"
+    },
+    {
+      "id": "x-health-102",
+      "status": "pass",
+      "reviewedItemSha256": "51ab6f3a55ec506ddbedf9ec143f6dce04f40fc58fad8d7de4657e473b07be8e",
+      "supportingReview": "reviews/expansion/d-health-071-110.followup1.json",
+      "reviewedAt": "2026-10-01T17:32:04.287227+00:00"
+    },
+    {
+      "id": "x-health-103",
+      "status": "pass",
+      "reviewedItemSha256": "ccd6bd3203220e4b71c2d2976b710f2b078bc9ad683467872a48065ab212a602",
+      "supportingReview": "reviews/expansion/d-health-final-followup.json",
+      "reviewedAt": "2026-10-01T18:06:44.458404+00:00"
+    },
+    {
+      "id": "x-health-104",
+      "status": "pass",
+      "reviewedItemSha256": "6fb4854bb45ac51d26a859bc7f2ed868d8337a69213d6cdd0341205cd7425426",
+      "supportingReview": "reviews/expansion/d-health-071-110.review.json",
+      "reviewedAt": "2026-10-01T17:15:23.936102+00:00"
+    },
+    {
+      "id": "x-health-105",
+      "status": "pass",
+      "reviewedItemSha256": "053163c614ea53466498b9243cfecf3789a60696f8b9a15c9c716b1494df98ba",
+      "supportingReview": "reviews/expansion/d-health-071-110.review.json",
+      "reviewedAt": "2026-10-01T17:15:23.936102+00:00"
+    },
+    {
+      "id": "x-health-106",
+      "status": "pass",
+      "reviewedItemSha256": "820bf70d1e1bc67577f8709ffa4147ba0aa56e258dcc87bc4c48664542fc363d",
+      "supportingReview": "reviews/expansion/d-health-083-101-106.final-recheck.json",
+      "reviewedAt": "2026-10-01T18:12:51.220723+00:00"
+    },
+    {
+      "id": "x-health-107",
+      "status": "pass",
+      "reviewedItemSha256": "677c614f52e8f550315bc394129e0f185946f61f2f6dd05231c0b7c959d8b463",
+      "supportingReview": "reviews/expansion/d-health-071-110.review.json",
+      "reviewedAt": "2026-10-01T17:15:23.936102+00:00"
+    },
+    {
+      "id": "x-health-108",
+      "status": "pass",
+      "reviewedItemSha256": "6df1f334820b9a74a583bbbc505c77d25415ea05a6c07174efd98ce5cae64f7f",
+      "supportingReview": "reviews/expansion/d-health-071-110.review.json",
+      "reviewedAt": "2026-10-01T17:15:23.936102+00:00"
+    },
+    {
+      "id": "x-health-109",
+      "status": "pass",
+      "reviewedItemSha256": "02d4b02bb0d540f702633b57ec5e47acfea5a3d3521208769db54bb94281a66a",
+      "supportingReview": "reviews/expansion/d-health-final-followup.json",
+      "reviewedAt": "2026-10-01T18:06:44.458404+00:00"
+    },
+    {
+      "id": "x-health-110",
+      "status": "pass",
+      "reviewedItemSha256": "dce87a9265685912a68ac279eeb80675ea7141c542fb1100f8f178e45809820c",
+      "supportingReview": "reviews/expansion/d-health-071-110.followup1.json",
+      "reviewedAt": "2026-10-01T17:32:04.287227+00:00"
+    }
+  ],
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

@@ -1,0 +1,805 @@
+[
+  {
+    "id": "x-pharmacology-101",
+    "cat": "pharmacology",
+    "title": "Assess lithium during volume loss",
+    "stem": "A client taking lithium has gastroenteritis, coarse tremor and unsteady walking. The usual evening dose is due. What is most appropriate?",
+    "type": "single",
+    "options": [
+      "Use last month's normal lithium result to guide tonight's dose",
+      "Withhold pending prompt toxicity and hydration assessment",
+      "Give the dose after an oral rehydration drink",
+      "Treat the tremor with the usual anxiety PRN medicine"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "An old result does not reflect the current illness and clearance changes.",
+      "Fluid loss can reduce lithium clearance, and the new neurological signs suggest toxicity.",
+      "One drink does not resolve possible accumulated lithium or neurological toxicity.",
+      "Symptom suppression can obscure assessment without addressing lithium exposure."
+    ],
+    "takeaway": "Fluid loss can reduce lithium clearance, and the new neurological signs suggest toxicity.",
+    "refs": [
+      "b-cns"
+    ],
+    "exhibit": null,
+    "subtopic": "Psychotropic medication effects",
+    "learningObjective": "Integrate gastrointestinal losses, neurological changes and renal clearance when assessing possible lithium toxicity.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-102",
+    "cat": "pharmacology",
+    "title": "Plan stable intake with lithium",
+    "stem": "A client stable on lithium plans a low-sodium weight-loss diet and strenuous outdoor exercise. What is the most relevant teaching?",
+    "type": "single",
+    "options": [
+      "Increase dietary restriction gradually without mentioning lithium",
+      "Use extra coffee to replace fluids lost during exercise",
+      "Review sodium and fluid changes with the treatment team",
+      "Keep the same lithium dose but monitor only body weight"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Gradual change can still affect lithium handling and needs coordination.",
+      "This is not an individualized hydration plan and may complicate fluid balance.",
+      "Sweating and major sodium changes can alter lithium concentrations.",
+      "Weight alone does not assess lithium exposure or hydration safety."
+    ],
+    "takeaway": "Sweating and major sodium changes can alter lithium concentrations.",
+    "refs": [
+      "b-cns"
+    ],
+    "exhibit": null,
+    "subtopic": "Psychotropic medication effects",
+    "learningObjective": "Explain why major sodium and fluid changes warrant review during lithium therapy.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-103",
+    "cat": "pharmacology",
+    "title": "Review a new lithium interaction",
+    "stem": "A client on lithium receives a new hydrochlorothiazide prescription. The pharmacist flags possible increased lithium exposure. What should the nurse ensure?",
+    "type": "single",
+    "options": [
+      "Separate the medicines between morning and evening only",
+      "Rely on monitoring only if the client first develops tremor",
+      "Review only thyroid results because lithium can affect thyroid function",
+      "An interaction review and level-monitoring plan"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Spacing does not remove the renal interaction.",
+      "Waiting for toxicity symptoms is less safe than planned monitoring.",
+      "Thyroid monitoring does not address the new renal interaction affecting lithium concentrations.",
+      "Thiazides can increase lithium concentrations, requiring an authorized management plan."
+    ],
+    "takeaway": "Thiazides can increase lithium concentrations, requiring an authorized management plan.",
+    "refs": [
+      "b-cns"
+    ],
+    "exhibit": null,
+    "subtopic": "Psychotropic medication effects",
+    "learningObjective": "Identify a need for lithium monitoring when a thiazide is added.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-104",
+    "cat": "pharmacology",
+    "title": "Assess early antidepressant activation",
+    "stem": "One week after starting an antidepressant, a client reports marked restlessness and new thoughts of self-harm. What is the priority?",
+    "type": "single",
+    "options": [
+      "Assess immediate safety and arrange urgent clinical review",
+      "Explain that full mood benefit takes weeks and review then",
+      "Recommend changing the administration time as the only intervention",
+      "Focus first on measuring appetite and sleep improvement"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "New self-harm thoughts and activation require timely risk assessment and support.",
+      "Delayed therapeutic benefit does not justify postponing current safety assessment.",
+      "Timing adjustment alone does not address the new self-harm risk.",
+      "Those outcomes matter, but the stated safety concern takes priority."
+    ],
+    "takeaway": "New self-harm thoughts and activation require timely risk assessment and support.",
+    "refs": [
+      "b-cns"
+    ],
+    "exhibit": null,
+    "subtopic": "Psychotropic medication effects",
+    "learningObjective": "Assess new agitation and self-harm risk soon after antidepressant initiation.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-105",
+    "cat": "pharmacology",
+    "title": "Identify serotonin toxicity",
+    "stem": "A client taking an SSRI starts tramadol and develops agitation, sweating, diarrhea and marked tremor. What is most appropriate?",
+    "type": "single",
+    "options": [
+      "Attribute the symptoms to antidepressant withdrawal without checking use",
+      "Urgent assessment of possible serotonin toxicity",
+      "Treat diarrhea first and leave medication review until tomorrow",
+      "Give the next tramadol dose to relieve associated aches"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "The reported new exposure better supports an interaction needing assessment.",
+      "The new combination and symptom cluster warrant prompt evaluation.",
+      "A systemic interaction may progress while one symptom is treated.",
+      "Further serotonergic exposure may worsen the suspected syndrome."
+    ],
+    "takeaway": "The new combination and symptom cluster warrant prompt evaluation.",
+    "refs": [
+      "b-cns"
+    ],
+    "exhibit": null,
+    "subtopic": "Psychotropic medication effects",
+    "learningObjective": "Recognize a concerning autonomic and neuromuscular pattern after serotonergic medicines are combined.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-106",
+    "cat": "pharmacology",
+    "title": "Recognize antipsychotic-related hyperthermia",
+    "stem": "After an antipsychotic increase, a client develops high fever, generalized rigidity, confusion and unstable blood pressure. What concern requires immediate escalation?",
+    "type": "single",
+    "options": [
+      "Infection alone, without considering the recent drug increase",
+      "A mild movement effect that can wait for the next dose review",
+      "Possible neuroleptic malignant syndrome",
+      "Isolated akathisia needing only routine symptom review"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Infection remains a differential, but the rigidity and medication change require urgent consideration of drug toxicity.",
+      "The systemic deterioration requires immediate assessment rather than routine follow-up.",
+      "The medication change and systemic rigidity pattern indicate a potential medical emergency.",
+      "Akathisia does not explain marked fever, rigidity and autonomic instability."
+    ],
+    "takeaway": "The medication change and systemic rigidity pattern indicate a potential medical emergency.",
+    "refs": [
+      "b-cns"
+    ],
+    "exhibit": null,
+    "subtopic": "Psychotropic medication effects",
+    "learningObjective": "Differentiate a severe rigidity and hyperthermia syndrome from routine agitation after antipsychotic treatment.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-107",
+    "cat": "pharmacology",
+    "title": "Recognize acute dystonia",
+    "stem": "A client recently given a dopamine-blocking antiemetic develops painful neck twisting and difficulty opening the jaw. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Encourage neck stretching before reviewing the medication",
+      "Interpret it as chronic tardive dyskinesia without considering timing",
+      "Give another antiemetic dose because nausea is still present",
+      "Assess airway safety and obtain prompt treatment for possible dystonia"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Forced movement may worsen distress and delays targeted assessment.",
+      "The abrupt onset after recent exposure supports an acute reaction.",
+      "Further dopamine blockade may worsen the suspected reaction.",
+      "An acute muscle contraction can involve structures affecting breathing or swallowing."
+    ],
+    "takeaway": "An acute muscle contraction can involve structures affecting breathing or swallowing.",
+    "refs": [
+      "b-cns"
+    ],
+    "exhibit": null,
+    "subtopic": "Movement adverse effects",
+    "learningObjective": "Respond to acute involuntary neck and jaw contraction after dopamine-blocking medication.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-108",
+    "cat": "pharmacology",
+    "title": "Distinguish akathisia from worsening psychosis",
+    "stem": "After an antipsychotic increase, a client paces and says, 'I cannot keep still inside.' Hallucinations have decreased. What is most appropriate?",
+    "type": "single",
+    "options": [
+      "Assess and report possible akathisia",
+      "Request another increase because pacing proves psychosis is worse",
+      "Ask the client to remain seated before discussing symptoms",
+      "Record the pacing only as refusal to participate"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "New inner restlessness after dose escalation suggests a movement adverse effect.",
+      "The improved hallucinations and timing argue against that assumption.",
+      "This does not address the distressing involuntary restlessness.",
+      "That interpretation overlooks a potentially treatable medication effect."
+    ],
+    "takeaway": "New inner restlessness after dose escalation suggests a movement adverse effect.",
+    "refs": [
+      "b-cns"
+    ],
+    "exhibit": null,
+    "subtopic": "Movement adverse effects",
+    "learningObjective": "Recognize medication-related inner restlessness before assuming a need for more antipsychotic.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-109",
+    "cat": "pharmacology",
+    "title": "Evaluate new repetitive movements",
+    "stem": "A client on long-term antipsychotic therapy develops repetitive lip smacking and tongue movements. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Wait until the movements interfere with eating to report",
+      "Document the movements and arrange timely medication review",
+      "Treat it as an acute panic episode because movements are repetitive",
+      "Recommend simply increasing the current antipsychotic"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Earlier recognition supports review before greater functional impairment.",
+      "The pattern may represent tardive dyskinesia requiring treatment reassessment.",
+      "The movement pattern and prolonged exposure warrant a drug-effect assessment.",
+      "A dose increase can obscure movements without addressing the underlying complication."
+    ],
+    "takeaway": "The pattern may represent tardive dyskinesia requiring treatment reassessment.",
+    "refs": [
+      "b-cns"
+    ],
+    "exhibit": null,
+    "subtopic": "Movement adverse effects",
+    "learningObjective": "Recognize possible tardive dyskinesia during prolonged antipsychotic exposure.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-110",
+    "cat": "pharmacology",
+    "title": "Respond to infection symptoms during clozapine therapy",
+    "stem": "A client taking clozapine develops fever and a sore throat. Their last blood count was acceptable two weeks ago. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Treat with an available cold remedy and report only persistent symptoms",
+      "Focus only on whether hallucinations remain controlled",
+      "Prompt clinical review and current blood-count assessment",
+      "Use the earlier result to defer review until the next scheduled test"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Symptomatic treatment alone can delay detection of a serious complication.",
+      "Psychiatric improvement does not establish hematological safety.",
+      "A previous acceptable count does not exclude newly developed neutropenia.",
+      "Blood counts can change between scheduled tests."
+    ],
+    "takeaway": "A previous acceptable count does not exclude newly developed neutropenia.",
+    "refs": [
+      "b-cns"
+    ],
+    "exhibit": null,
+    "subtopic": "Clozapine safety",
+    "learningObjective": "Promptly assess possible neutropenia when infection symptoms develop during clozapine use.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-111",
+    "cat": "pharmacology",
+    "title": "Recognize severe clozapine-related constipation",
+    "stem": "A client taking clozapine has no bowel movement for several days, increasing abdominal distension and vomiting. What should happen?",
+    "type": "single",
+    "options": [
+      "Offer the usual fibre supplement and review next week",
+      "Assume reduced intake fully explains the bowel change",
+      "Wait until severe pain appears before calling the team",
+      "Urgent abdominal assessment before routine oral laxative measures"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Distension and vomiting warrant more urgent assessment than routine constipation advice.",
+      "The medication and severe associated symptoms raise additional concern.",
+      "Serious hypomotility may progress without proportionate reported pain.",
+      "Clozapine hypomotility can progress to serious obstruction or ileus."
+    ],
+    "takeaway": "Clozapine hypomotility can progress to serious obstruction or ileus.",
+    "refs": [
+      "b-cns"
+    ],
+    "exhibit": null,
+    "subtopic": "Clozapine safety",
+    "learningObjective": "Escalate possible gastrointestinal hypomotility when constipation is accompanied by systemic abdominal symptoms.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-112",
+    "cat": "pharmacology",
+    "title": "Coordinate levodopa with meal effects",
+    "stem": "A client taking levodopa reports worse mobility after large protein-rich meals but needs adequate nutrition. What is most useful?",
+    "type": "single",
+    "options": [
+      "Review medication timing and protein distribution with the team",
+      "Remove protein from the diet without dietary review",
+      "Take extra levodopa after every large meal",
+      "Assume worsening mobility means the diagnosis was incorrect"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "A coordinated plan can address absorption effects while preserving nutrition.",
+      "Broad elimination risks poor nutrition and is not an individualized plan.",
+      "Unprescribed dose increases can produce adverse effects.",
+      "Meal-related response changes can occur within established Parkinson disease."
+    ],
+    "takeaway": "A coordinated plan can address absorption effects while preserving nutrition.",
+    "refs": [
+      "b-cns"
+    ],
+    "exhibit": null,
+    "subtopic": "Neurological medicines",
+    "learningObjective": "Address a reproducible meal-related levodopa response without unnecessary protein restriction.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-113",
+    "cat": "pharmacology",
+    "title": "Assess wearing-off symptoms",
+    "stem": "A client moves well after levodopa but develops predictable stiffness shortly before each next dose. What information is most useful to record?",
+    "type": "single",
+    "options": [
+      "A single symptom rating unrelated to administration time",
+      "Dose times and the onset and duration of symptom changes",
+      "Only the total number of tablets taken each week",
+      "Only the client's best walking performance after a dose"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Without timing, the pattern guiding treatment remains unclear.",
+      "A timing diary helps identify wearing-off and guide regimen review.",
+      "A weekly total misses the relationship between doses and symptoms.",
+      "Peak function does not capture end-of-dose deterioration."
+    ],
+    "takeaway": "A timing diary helps identify wearing-off and guide regimen review.",
+    "refs": [
+      "b-cns"
+    ],
+    "exhibit": null,
+    "subtopic": "Neurological medicines",
+    "learningObjective": "Use the timing of symptom recurrence to support Parkinson medication review.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-114",
+    "cat": "pharmacology",
+    "title": "Teach phenytoin oral care",
+    "stem": "A client starting long-term phenytoin asks about gum changes mentioned in teaching. Which plan is most appropriate?",
+    "type": "single",
+    "options": [
+      "Use mouthwash alone instead of mechanical cleaning",
+      "Stop phenytoin independently if gums bleed during brushing",
+      "Regular gentle oral care and dental follow-up",
+      "Avoid brushing areas that begin to enlarge"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Rinsing alone does not adequately remove plaque.",
+      "Seizure treatment changes require review rather than abrupt withdrawal.",
+      "Good hygiene and dental assessment help manage gingival overgrowth risk.",
+      "Avoidance can worsen plaque accumulation and inflammation."
+    ],
+    "takeaway": "Good hygiene and dental assessment help manage gingival overgrowth risk.",
+    "refs": [
+      "b-cns"
+    ],
+    "exhibit": null,
+    "subtopic": "Neurological medicines",
+    "learningObjective": "Support prevention and early recognition of gingival complications during phenytoin therapy.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-115",
+    "cat": "pharmacology",
+    "title": "Assess possible benzodiazepine withdrawal",
+    "stem": "A client who took a benzodiazepine regularly for months has missed it for several days and now has tremor, insomnia and marked anxiety. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Treat the symptoms as confirmed recurrence of the original anxiety only",
+      "Arrange routine anxiety follow-up without communicating the missed doses",
+      "Defer review until the client has slept normally for a night",
+      "Assess withdrawal risk and obtain an urgent medication plan"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Withdrawal must be considered given the clear interruption history.",
+      "Omitting the interruption history can obscure the need for timely withdrawal assessment.",
+      "Waiting may allow worsening withdrawal without treatment.",
+      "Abrupt interruption after regular use can cause significant withdrawal, including seizures."
+    ],
+    "takeaway": "Abrupt interruption after regular use can cause significant withdrawal, including seizures.",
+    "refs": [
+      "b-cns"
+    ],
+    "exhibit": null,
+    "subtopic": "Neurological medicines",
+    "learningObjective": "Connect abrupt interruption of regular benzodiazepine use with withdrawal symptoms and seizure risk.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-116",
+    "cat": "pharmacology",
+    "title": "Monitor after naloxone response",
+    "stem": "After naloxone, a client is awake and breathing adequately. The opioid involved may last longer than naloxone. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Continue protocol-based respiratory monitoring for recurrence",
+      "Discontinue observation because the client can now speak",
+      "Give a sedative to prevent distress during observation",
+      "Use pain intensity as the only follow-up measure"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Opioid effects can return as the reversal effect diminishes.",
+      "Speech at one time does not establish sustained recovery.",
+      "Further central depression can compromise respiratory safety.",
+      "Pain does not reliably assess recurrent ventilatory depression."
+    ],
+    "takeaway": "Opioid effects can return as the reversal effect diminishes.",
+    "refs": [
+      "b-analgesia"
+    ],
+    "exhibit": null,
+    "subtopic": "Opioid therapy",
+    "learningObjective": "Explain why improved ventilation after naloxone does not end monitoring requirements.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-117",
+    "cat": "pharmacology",
+    "title": "Prevent heat-related fentanyl exposure",
+    "stem": "A client wearing a fentanyl patch plans to use a heating pad over the painful shoulder where the patch is placed. What should the nurse advise?",
+    "type": "single",
+    "options": [
+      "Cut the patch before using the heating pad",
+      "Avoid direct heat over the patch and discuss another comfort measure",
+      "Use heat only after covering the patch with another dressing",
+      "Reduce the heat setting and monitor only local skin redness"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Altering the patch does not safely compensate for heat exposure.",
+      "Heat can increase fentanyl absorption and overdose risk.",
+      "A covering does not establish protection against increased absorption.",
+      "Absorption can increase without a visible skin injury."
+    ],
+    "takeaway": "Heat can increase fentanyl absorption and overdose risk.",
+    "refs": [
+      "b-analgesia"
+    ],
+    "exhibit": null,
+    "subtopic": "Opioid therapy",
+    "learningObjective": "Recognize external heat as a factor that can increase transdermal fentanyl absorption.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-118",
+    "cat": "pharmacology",
+    "title": "Explain patient-only PCA activation",
+    "stem": "A visitor presses a sleeping client's PCA button to prevent pain on waking. What is the best response?",
+    "type": "single",
+    "options": [
+      "Permit presses only near the end of the lockout interval",
+      "Ask the visitor to use the client's pain history to decide",
+      "Explain that only the client should activate this PCA button",
+      "Permit it if the visitor records each button press"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Lockout timing does not make proxy dosing safe.",
+      "Predicted pain cannot replace current patient-controlled use and assessment.",
+      "The client's inability to self-activate while deeply sedated is a safety feature.",
+      "Documentation does not preserve the patient-controlled safety mechanism."
+    ],
+    "takeaway": "The client's inability to self-activate while deeply sedated is a safety feature.",
+    "refs": [
+      "b-analgesia"
+    ],
+    "exhibit": null,
+    "subtopic": "Opioid therapy",
+    "learningObjective": "Preserve the patient-controlled analgesia safety mechanism by preventing family activation.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-119",
+    "cat": "pharmacology",
+    "title": "Plan for opioid-induced constipation",
+    "stem": "A client starting regular opioid therapy has a history of constipation. What should the nurse prioritize in the ongoing plan?",
+    "type": "single",
+    "options": [
+      "Wait until severe abdominal pain develops before discussing a regimen",
+      "Rely on increased fibre alone despite limited fluid intake",
+      "Assume bowel effects will disappear when analgesic tolerance develops",
+      "Review a preventive bowel regimen and monitor bowel function"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Delayed treatment can permit significant constipation or impaction.",
+      "Fibre without adequate fluid or a tailored plan may be insufficient.",
+      "Tolerance to analgesia does not reliably eliminate opioid constipation.",
+      "Constipation often persists during opioid use and benefits from anticipatory management."
+    ],
+    "takeaway": "Constipation often persists during opioid use and benefits from anticipatory management.",
+    "refs": [
+      "b-analgesia"
+    ],
+    "exhibit": null,
+    "subtopic": "Opioid therapy",
+    "learningObjective": "Anticipate bowel effects when regular opioid treatment begins.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-120",
+    "cat": "pharmacology",
+    "title": "Detect duplicate acetaminophen products",
+    "stem": "A client takes prescribed acetaminophen and a cold remedy whose label also lists acetaminophen. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Review the combined dose and advise a safe product plan",
+      "Check only the prescribed product's daily amount",
+      "Separate the products by one hour without reviewing totals",
+      "Recommend the cold remedy because combination products contain less risk"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Different product names can conceal duplication of the same active ingredient.",
+      "The nonprescription ingredient also contributes to cumulative exposure.",
+      "Spacing does not eliminate total daily exposure.",
+      "Combination packaging does not protect against ingredient duplication."
+    ],
+    "takeaway": "Different product names can conceal duplication of the same active ingredient.",
+    "refs": [
+      "b-analgesia"
+    ],
+    "exhibit": null,
+    "subtopic": "Analgesic safety",
+    "learningObjective": "Identify overlapping active ingredients across prescription and nonprescription analgesic products.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-121",
+    "cat": "pharmacology",
+    "title": "Assess NSAID use during dehydration",
+    "stem": "A client taking naproxen develops vomiting, low intake and markedly reduced urine output. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Wait for blood in the urine before reporting",
+      "Promptly assess hydration and kidney function and review naproxen",
+      "Give naproxen with food as the only safety adjustment",
+      "Ask only about dysuria to decide whether the urine change needs review"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Renal injury can occur without visible hematuria.",
+      "NSAID-related renal effects can be more concerning during volume depletion.",
+      "Food may reduce irritation but does not resolve the renal perfusion concern.",
+      "Renal hypoperfusion can reduce output without urinary infection symptoms."
+    ],
+    "takeaway": "NSAID-related renal effects can be more concerning during volume depletion.",
+    "refs": [
+      "b-analgesia"
+    ],
+    "exhibit": null,
+    "subtopic": "Analgesic safety",
+    "learningObjective": "Review renal risk before continuing an NSAID during acute volume depletion.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-122",
+    "cat": "pharmacology",
+    "title": "Clarify methotrexate frequency",
+    "stem": "A client takes oral methotrexate once weekly for rheumatoid arthritis. New transfer orders list the same dose daily. What should happen before administration?",
+    "type": "single",
+    "options": [
+      "Assume the daily order replaces the home schedule",
+      "Divide the weekly dose into daily portions independently",
+      "Clarify the frequency discrepancy with the prescribing team",
+      "Give today's dose and clarify before tomorrow"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "A transfer discrepancy involving high-risk frequency needs verification.",
+      "An improvised schedule is not an authorized regimen.",
+      "Inadvertent daily low-dose methotrexate can cause severe toxicity.",
+      "The intended weekly day and last administration must be established first."
+    ],
+    "takeaway": "Inadvertent daily low-dose methotrexate can cause severe toxicity.",
+    "refs": [
+      "b-methotrexate"
+    ],
+    "exhibit": null,
+    "subtopic": "High-alert antirheumatic therapy",
+    "learningObjective": "Detect a dangerous daily-versus-weekly discrepancy in low-dose methotrexate treatment.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-123",
+    "cat": "pharmacology",
+    "title": "Distinguish urate control from acute analgesia",
+    "stem": "A client newly prescribed allopurinol expects immediate relief of a painful gout flare. What is the best explanation?",
+    "type": "single",
+    "options": [
+      "Pain relief should occur after the first tablet if the diagnosis is correct",
+      "Use extra allopurinol whenever the joint becomes painful",
+      "Wait for allopurinol to work before discussing current severe pain",
+      "It lowers urate over time; acute pain needs the prescribed flare plan"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Lack of immediate relief does not invalidate the gout diagnosis.",
+      "Symptom-triggered dose escalation is not its prescribed role.",
+      "The acute flare can require separate timely treatment.",
+      "Long-term urate control does not provide immediate anti-inflammatory analgesia."
+    ],
+    "takeaway": "Long-term urate control does not provide immediate anti-inflammatory analgesia.",
+    "refs": [
+      "b-analgesia"
+    ],
+    "exhibit": null,
+    "subtopic": "Gout medicines",
+    "learningObjective": "Explain the different purposes of long-term urate lowering and prescribed acute-flare treatment.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-124",
+    "cat": "pharmacology",
+    "title": "Review an opioid conversion",
+    "stem": "A client's opioid order changes from morphine to hydromorphone, with the same route and dosing interval. A colleague suggests retaining the same milligram dose. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Verify the prescribed conversion and client-specific dose with the team",
+      "Use the old milligram dose because the route is unchanged",
+      "Assess the old opioid response without comparing relative potency",
+      "Use a conversion chart as the final dose without individualized review"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Different opioid potency and individual risk make milligram-for-milligram substitution unsafe.",
+      "An unchanged route does not make potency equivalent.",
+      "Previous pain control matters but does not establish the new medicine's equivalent dose.",
+      "Conversion estimates require review of cross-tolerance and client-specific risk."
+    ],
+    "takeaway": "Different opioid potency and individual risk make milligram-for-milligram substitution unsafe.",
+    "refs": [
+      "b-analgesia"
+    ],
+    "exhibit": null,
+    "subtopic": "Opioid therapy",
+    "learningObjective": "Recognize that different opioids are not interchangeable milligram for milligram.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-pharmacology-125",
+    "cat": "pharmacology",
+    "title": "Evaluate analgesia with function and safety",
+    "stem": "After an analgesic adjustment, which findings support an effective and tolerable plan? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "The client can cough and mobilize more comfortably",
+      "The client stays readily alert with stable breathing",
+      "The pain score is lower but the client is difficult to arouse",
+      "The client sleeps through all activities because of new drowsiness",
+      "The client avoids every movement despite an unchanged resting score"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "why": [
+      "Improved useful function supports meaningful pain relief.",
+      "Analgesia should not require clinically important respiratory or sedation harm.",
+      "Reduced reported pain does not compensate for dangerous sedation.",
+      "Sedation-related inactivity is not the intended functional outcome.",
+      "A resting score alone misses inadequately controlled movement-related pain."
+    ],
+    "takeaway": "Improved useful function supports meaningful pain relief.",
+    "refs": [
+      "b-analgesia"
+    ],
+    "exhibit": null,
+    "subtopic": "Analgesic effectiveness",
+    "learningObjective": "Balance pain relief, function and adverse effects when evaluating an analgesic regimen.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  }
+]

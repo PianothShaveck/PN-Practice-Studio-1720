@@ -1,0 +1,11 @@
+{
+  "name": "pn-practice-studio",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node tests.mjs && node bank-tests.mjs",
+    "build:bank": "node scripts/build-bank.mjs",
+    "export:bank": "node scripts/export-bank.mjs"
+  }
+}

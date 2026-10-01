@@ -1,0 +1,144 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T16:59:57.258640+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/d/health-001.json",
+  "sourceSha256": "632326182172a53059a0614f1bef4d6db1771be645b3495990040db76bb48a6c",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 11,
+    "reviewedIds": [
+      "x-health-002",
+      "x-health-005",
+      "x-health-013",
+      "x-health-014",
+      "x-health-015",
+      "x-health-017",
+      "x-health-018",
+      "x-health-019",
+      "x-health-020",
+      "x-health-022",
+      "x-health-025"
+    ],
+    "unreviewedIds": [
+      "x-health-001",
+      "x-health-003",
+      "x-health-004",
+      "x-health-006",
+      "x-health-007",
+      "x-health-008",
+      "x-health-009",
+      "x-health-010",
+      "x-health-011",
+      "x-health-012",
+      "x-health-016",
+      "x-health-021",
+      "x-health-023",
+      "x-health-024"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-health-002",
+      "status": "pass",
+      "assessment": "Re-read full revision: shift substitution does not characterize exposure and is a plausible incomplete workplace response.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5e72097fb334251950d811e9d7371ff28ce134118c8f759695669a635493e3d6"
+    },
+    {
+      "id": "x-health-005",
+      "status": "pass",
+      "assessment": "Re-read full revision: fluid timing is a plausible nausea-management error; small meals, trigger review and escalation for failed intake remain appropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "126b48ceab55ef26eff8384491898011ffa609d10f633f273811b94817c570fd"
+    },
+    {
+      "id": "x-health-013",
+      "status": "pass",
+      "assessment": "Re-read full revision: waiting until bedtime after a cold drink tests a recognizable delay misconception; prompt maternity contact is supported.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "668c35b2fd3d90aad483572e7a7b5062d1feff350e3384b6653e147ecf66a25a"
+    },
+    {
+      "id": "x-health-014",
+      "status": "pass",
+      "assessment": "Re-read full revision: fixed breathing instruction competes more plausibly with individualized comfort rehearsal.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0a419a45e0e1522c974ed41eee162573ccb1730b104a4b0a79c09e1921fab56a"
+    },
+    {
+      "id": "x-health-015",
+      "status": "revise",
+      "assessment": "Re-read full revision: my earlier proposal to combine every remaining prenatal assessment into one visit remains implausible, so it does not meet the same distractor standard.",
+      "issues": [
+        "Re-read full revision: my earlier proposal to combine every remaining prenatal assessment into one visit remains implausible, so it does not meet the same distractor standard."
+      ],
+      "proposedChanges": [
+        "Replace option3 with: Offer video visits for every remaining appointment without checking which assessments require in-person care. Explain that remote care needs assessment of clinical components rather than universal substitution."
+      ],
+      "reviewedItemSha256": "92b36df449c181af194af92fe6b04a6f3b59cd2c9272ced4d90a9a71c822a4ed"
+    },
+    {
+      "id": "x-health-017",
+      "status": "pass",
+      "assessment": "Re-read full revision: teaching and telephone follow-up are reasonable supports but do not first map daily practical needs.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e67a2103c176cda5351d3a159671117f78783c74f9026e6de34120a0aaa294e9"
+    },
+    {
+      "id": "x-health-018",
+      "status": "pass",
+      "assessment": "Re-read full revision: conception delay at least four weeks is explicit and independently supported by PHAC; distractors now address timing decisions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "86217811162458612fbc0d1a1f44648bfc883e4418f3e2fc1b38c464cee3e949"
+    },
+    {
+      "id": "x-health-019",
+      "status": "pass",
+      "assessment": "Re-read full item with foundation metadata: evidence appraisal versus consumer marketing cues appropriately classified.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9abec18182f206e324b0525da3862d897d1f778c3e62d548dcf9befea265255d"
+    },
+    {
+      "id": "x-health-020",
+      "status": "pass",
+      "assessment": "Re-read distinct new vignette: available night support ends after three days and feeding follow-up is unclear, discriminating transition arrangements from later routine follow-up alone.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "bea8f8f34f36d57d14dde47b8f774f5f75679621cfb75e062d083a2548340e04"
+    },
+    {
+      "id": "x-health-022",
+      "status": "pass",
+      "assessment": "Re-read full revision: rapid sucking without swallowing is a relevant but insufficient intake proxy; suck-swallow pattern remains direct evidence.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4c91f4242c18d75f8c137a413c3c2ff538b0ae4a36830e4062827f7020d949c3"
+    },
+    {
+      "id": "x-health-025",
+      "status": "pass",
+      "assessment": "Re-read rewritten single-answer synthesis: continued weight loss at day8, declining wet diapers and poor transfer together require prompt feeding/clinical assessment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a6bcc32508c1b97911f7607bb51f97f5d68c5bf91dc58d103e1c04abacd56127"
+    }
+  ],
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

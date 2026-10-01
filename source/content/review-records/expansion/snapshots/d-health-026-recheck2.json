@@ -1,0 +1,1461 @@
+[
+  {
+    "id": "x-health-026",
+    "cat": "health",
+    "title": "Complementary food selection",
+    "stem": "A six-month-old sits with support, controls their head and shows interest in food. Which first-food plan best addresses emerging nutritional needs?",
+    "type": "single",
+    "options": [
+      "Fruit juice between milk feeds",
+      "Iron-rich soft foods alongside milk feeds",
+      "Low-fat milk replacing breastfeeds",
+      "Vegetable broth replacing one daily feed"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Juice supplies little iron and can displace nutritious intake.",
+      "Suitable iron-rich foods complement continuing milk nutrition.",
+      "Low-fat milk is not an appropriate replacement here.",
+      "Broth alone provides inadequate complementary nutrition."
+    ],
+    "takeaway": "Include iron-rich foods when complementary feeding begins.",
+    "refs": [
+      "d-infant6"
+    ],
+    "exhibit": null,
+    "subtopic": "Complementary feeding",
+    "learningObjective": "Include iron-rich foods when complementary feeding begins.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-027",
+    "cat": "health",
+    "title": "Advancing feeding skills",
+    "stem": "A nine-month-old handles mashed foods comfortably but receives only smooth purées because they lack molars. What should the nurse suggest?",
+    "type": "single",
+    "options": [
+      "Continue smooth foods until molars erupt",
+      "Add cereal to every bottle",
+      "Introduce suitable soft finger foods under supervision",
+      "Delay self-feeding until spoon use is precise"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Suitable texture progression need not wait for molars.",
+      "Bottle cereal does not develop texture-handling skills.",
+      "Soft foods allow developmentally appropriate chewing and self-feeding practice.",
+      "Waiting for precision removes opportunities to learn."
+    ],
+    "takeaway": "Advance food texture according to feeding ability.",
+    "refs": [
+      "d-infant6"
+    ],
+    "exhibit": null,
+    "subtopic": "Feeding development",
+    "learningObjective": "Advance food texture according to feeding ability.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-028",
+    "cat": "health",
+    "title": "Honey in infant food",
+    "stem": "A caregiver offers homemade yogurt sweetened with honey to an eight-month-old. What ingredient change should the nurse prioritize?",
+    "type": "single",
+    "options": [
+      "Replace honey with suitable mashed fruit",
+      "Replace yogurt with fruit juice",
+      "Heat the honey at home before adding it",
+      "Use pasteurized honey in the recipe"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Avoiding honey reduces infant botulism exposure during the first year.",
+      "Juice substitution does not address the specific honey risk.",
+      "Routine domestic heating does not reliably eliminate botulism spores.",
+      "Pasteurization does not reliably eliminate the relevant spores."
+    ],
+    "takeaway": "Avoid honey before 12 months of age.",
+    "refs": [
+      "d-infant6"
+    ],
+    "exhibit": null,
+    "subtopic": "Infant nutrition",
+    "learningObjective": "Avoid honey before 12 months of age.",
+    "reasoningSkill": "teaching",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-029",
+    "cat": "health",
+    "title": "Mealtime positioning",
+    "stem": "A parent feeds an older infant soft pieces while the infant moves around the living room. What is the most useful change?",
+    "type": "single",
+    "options": [
+      "Offer only purées while moving",
+      "Give smaller portions but maintain the routine",
+      "Allow independent eating in a reclined stroller",
+      "Seat the infant upright and supervise the meal"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Changing texture does not correct an unstable feeding position.",
+      "Portion size alone does not address movement-related risk.",
+      "Reclining does not support an optimal feeding position.",
+      "Stable upright supervised eating supports safer swallowing."
+    ],
+    "takeaway": "Establish upright supervised meals for complementary feeding.",
+    "refs": [
+      "d-infant6"
+    ],
+    "exhibit": null,
+    "subtopic": "Feeding safety",
+    "learningObjective": "Establish upright supervised meals for complementary feeding.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-030",
+    "cat": "health",
+    "title": "Responsive infant feeding",
+    "stem": "Which observations suggest a bottle-fed infant may be ready to pause or stop? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Turning away repeatedly",
+      "Closing the mouth when offered the nipple",
+      "Relaxing after feeding without seeking more",
+      "Rooting actively toward the nipple"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "why": [
+      "Turning away can communicate fullness or need for a break.",
+      "Closing the mouth indicates disengagement rather than permission to insist.",
+      "Relaxed satisfaction supports pausing and observing further cues.",
+      "Active rooting is more consistent with feeding interest."
+    ],
+    "takeaway": "Recognize satiety cues instead of pressuring bottle completion.",
+    "refs": [
+      "d-infant"
+    ],
+    "exhibit": null,
+    "subtopic": "Infant feeding cues",
+    "learningObjective": "Recognize satiety cues instead of pressuring bottle completion.",
+    "reasoningSkill": "recognition",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-031",
+    "cat": "health",
+    "title": "Coping with infant crying",
+    "stem": "A tired parent says, 'I am getting so angry I need to put the baby down.' The infant appears well. What is the best immediate advice?",
+    "type": "single",
+    "options": [
+      "Continue holding until the crying ends",
+      "Place the infant safely in a crib and take a brief calming break",
+      "Leave the infant on a sofa within hearing distance",
+      "Begin a detailed feeding diary immediately"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Continuing while overwhelmed may increase the risk of losing control.",
+      "Safe placement permits a brief pause and help-seeking.",
+      "A sofa is not a safe unattended infant surface.",
+      "Documentation is secondary to immediate caregiver regulation and infant safety."
+    ],
+    "takeaway": "Use safe placement and a calming break when crying overwhelms caregivers.",
+    "refs": [
+      "d-development"
+    ],
+    "exhibit": null,
+    "subtopic": "Parenting coping",
+    "learningObjective": "Use safe placement and a calming break when crying overwhelms caregivers.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-032",
+    "cat": "health",
+    "title": "Infant language interaction",
+    "stem": "A family speaks two languages and asks how to support early communication. Which activity is most useful?",
+    "type": "single",
+    "options": [
+      "Repeated vocabulary videos",
+      "Use only one family language until first words develop",
+      "Responsive talking and reading in familiar family languages",
+      "Practise naming the same pictures repeatedly"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Passive media do not replace responsive interpersonal language learning.",
+      "Responsive multilingual interaction need not be restricted because several languages are used.",
+      "Responsive exchanges provide meaningful language and social experience.",
+      "Repeated labels offer less responsive interaction than exchanges that include the infant's gestures and interests."
+    ],
+    "takeaway": "Encourage responsive communication in languages the family uses comfortably.",
+    "refs": [
+      "d-development"
+    ],
+    "exhibit": null,
+    "subtopic": "Language development",
+    "learningObjective": "Encourage responsive communication in languages the family uses comfortably.",
+    "reasoningSkill": "teaching",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-033",
+    "cat": "health",
+    "title": "A new infant hearing concern",
+    "stem": "A six-month-old who passed newborn hearing screening now persistently fails to turn toward familiar voices. Which plan is most appropriate?",
+    "type": "single",
+    "options": [
+      "Arrange timely hearing and developmental assessment",
+      "Repeat observations at the next routine visit",
+      "Introduce louder interactive toys during play",
+      "Keep a monthly log of first words"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "A previous screen does not resolve a current persistent concern; reassessment can identify later or missed difficulty.",
+      "Routine observation alone can delay assessment of this established pattern.",
+      "Louder toys do not establish hearing ability or identify the cause.",
+      "Waiting for words may delay support for a hearing-related communication barrier."
+    ],
+    "takeaway": "Reassess persistent hearing concerns despite a previous normal newborn screen.",
+    "refs": [
+      "d-development"
+    ],
+    "exhibit": null,
+    "subtopic": "Developmental surveillance",
+    "learningObjective": "Reassess persistent hearing concerns despite a previous normal newborn screen.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-034",
+    "cat": "health",
+    "title": "Loss of toddler skills",
+    "stem": "A toddler previously used several words but now rarely speaks and no longer points. What is the best action?",
+    "type": "single",
+    "options": [
+      "Practise words for a month before arranging assessment",
+      "Attribute the change to a new sibling",
+      "Focus solely on increasing vocabulary practice",
+      "Arrange prompt developmental and hearing assessment"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Home practice can accompany, but should not postpone, evaluation of regression.",
+      "A family change should not automatically explain developmental regression.",
+      "Regression across communication behaviours requires broader assessment.",
+      "Loss of learned skills warrants timely evaluation."
+    ],
+    "takeaway": "Escalate developmental regression rather than reassuring from age alone.",
+    "refs": [
+      "d-development"
+    ],
+    "exhibit": null,
+    "subtopic": "Developmental regression",
+    "learningObjective": "Escalate developmental regression rather than reassuring from age alone.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-035",
+    "cat": "health",
+    "title": "Interpreting growth data",
+    "stem": "Which information helps interpret an infant's unexpectedly low weight measurement? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Previous measurements and trajectory",
+      "Measurement technique and equipment",
+      "Feeding history and current health",
+      "Whether the infant exceeds a sibling's weight at that age"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "why": [
+      "Serial data distinguish a stable pattern from a concerning change.",
+      "Technique errors can create misleading apparent growth changes.",
+      "Intake and illness provide essential clinical context.",
+      "Sibling comparisons do not establish this infant's expected trajectory."
+    ],
+    "takeaway": "Verify measurements and clinical context before interpreting growth change.",
+    "refs": [
+      "d-infant"
+    ],
+    "exhibit": null,
+    "subtopic": "Growth assessment",
+    "learningObjective": "Verify measurements and clinical context before interpreting growth change.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-036",
+    "cat": "health",
+    "title": "Development after preterm birth",
+    "stem": "A four-month-old infant was born eight weeks early. The parent worries because a term-born cousin has more advanced skills. What should guide the nurse's discussion?",
+    "type": "single",
+    "options": [
+      "The cousin's developmental pace",
+      "Corrected age and the infant's progress across domains",
+      "Birth weight as the sole comparison",
+      "The number of weeks spent in hospital"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Another infant's pace is not an individualized developmental standard.",
+      "Corrected age contextualizes early expectations after prematurity.",
+      "Birth weight alone cannot determine developmental milestones.",
+      "Hospital duration does not replace developmental assessment."
+    ],
+    "takeaway": "Use corrected age and longitudinal progress after premature birth.",
+    "refs": [
+      "d-development"
+    ],
+    "exhibit": null,
+    "subtopic": "Preterm development",
+    "learningObjective": "Use corrected age and longitudinal progress after premature birth.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-037",
+    "cat": "health",
+    "title": "Stranger distress during assessment",
+    "stem": "A nine-month-old cries when the nurse approaches but settles with their caregiver. A routine assessment is due. Which approach is best?",
+    "type": "single",
+    "options": [
+      "Complete the examination quickly despite distress",
+      "Separate the caregiver to reduce distraction",
+      "Begin gradually while the caregiver holds the infant",
+      "Postpone all assessments until stranger distress disappears"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Rushing may intensify distress and reduce useful observations.",
+      "Removing familiar support can worsen developmental anxiety.",
+      "A familiar secure base improves tolerance of nonurgent assessment.",
+      "Care can usually proceed with developmentally appropriate adaptation."
+    ],
+    "takeaway": "Adapt routine assessments to infant stranger anxiety.",
+    "refs": [
+      "d-development"
+    ],
+    "exhibit": null,
+    "subtopic": "Infant social development",
+    "learningObjective": "Adapt routine assessments to infant stranger anxiety.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-038",
+    "cat": "health",
+    "title": "Chalky changes on primary teeth",
+    "stem": "A parent reports white chalky areas near a toddler's gumline but no pain. What should the nurse recommend?",
+    "type": "single",
+    "options": [
+      "Arrange dental assessment before pain develops",
+      "Review only at the next annual physical",
+      "Increase brushing pressure to remove the marks",
+      "Wait until permanent teeth replace them"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Early decay may be painless and benefit from timely treatment.",
+      "Delayed review may allow preventable progression.",
+      "Excess pressure can injure tissues and does not diagnose the change.",
+      "Primary teeth have important functions and warrant care."
+    ],
+    "takeaway": "Refer early tooth changes even when pain is absent.",
+    "refs": [
+      "d-oral"
+    ],
+    "exhibit": null,
+    "subtopic": "Childhood oral health",
+    "learningObjective": "Refer early tooth changes even when pain is absent.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-039",
+    "cat": "health",
+    "title": "Toothbrushing independence",
+    "stem": "A four-year-old insists on brushing alone but misses back teeth. Which plan best supports development and oral health?",
+    "type": "single",
+    "options": [
+      "Let the child manage independently to build confidence",
+      "Replace brushing with rinsing on difficult evenings",
+      "Wait until permanent teeth arrive to correct technique",
+      "Let the child practise, then provide adult brushing assistance"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Independence before adequate dexterity can leave plaque behind.",
+      "Rinsing does not replace cleaning tooth surfaces.",
+      "Primary teeth also need effective plaque removal.",
+      "Shared participation supports skill-building while ensuring cleaning."
+    ],
+    "takeaway": "Combine child participation with adult help until brushing is effective.",
+    "refs": [
+      "d-oral"
+    ],
+    "exhibit": null,
+    "subtopic": "Childhood oral health",
+    "learningObjective": "Combine child participation with adult help until brushing is effective.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-040",
+    "cat": "health",
+    "title": "Toddler feeding autonomy",
+    "stem": "Which approaches support a healthy toddler's feeding autonomy? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Offer regular meals and snacks",
+      "Provide appropriate nutritious choices",
+      "Let appetite guide how much is eaten from offered food",
+      "Require a clean plate before leaving every meal"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "why": [
+      "Predictable opportunities support appetite and feeding routines.",
+      "Adults can structure available choices without coercion.",
+      "Respecting appetite supports developing internal intake regulation.",
+      "Clean-plate pressure overrides fullness and can create conflict."
+    ],
+    "takeaway": "Provide mealtime structure while respecting the toddler's appetite.",
+    "refs": [
+      "d-infant6"
+    ],
+    "exhibit": null,
+    "subtopic": "Toddler nutrition",
+    "learningObjective": "Provide mealtime structure while respecting the toddler's appetite.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-041",
+    "cat": "health",
+    "title": "Toilet learning readiness",
+    "stem": "A caregiver wants to begin toilet learning, but the toddler cannot signal needs and strongly resists sitting. What is the best advice?",
+    "type": "single",
+    "options": [
+      "Extend toilet sitting until the child urinates",
+      "Pause pressure and watch for readiness while using a predictable routine",
+      "Remove fluids after lunch to reduce accidents",
+      "Start nighttime training before daytime learning"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Prolonged forced sitting can increase resistance.",
+      "Readiness-based practice supports cooperation and avoids unnecessary conflict.",
+      "Fluid restriction does not teach toileting skills.",
+      "Nighttime control develops differently and is not a prerequisite."
+    ],
+    "takeaway": "Match toilet learning to developmental readiness.",
+    "refs": [
+      "d-development"
+    ],
+    "exhibit": null,
+    "subtopic": "Toddler development",
+    "learningObjective": "Match toilet learning to developmental readiness.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-042",
+    "cat": "health",
+    "title": "Toddler choice-making",
+    "stem": "A two-year-old resists dressing before a clinic visit. Which suggestion best supports autonomy within a necessary routine?",
+    "type": "single",
+    "options": [
+      "Ask whether the child wants to get dressed",
+      "Explain every future consequence in detail",
+      "Offer a choice between two suitable shirts",
+      "Let the child decide whether to attend the visit"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "An unrestricted yes-or-no choice can conflict with the required task.",
+      "Lengthy explanations exceed typical toddler processing needs.",
+      "Limited acceptable choices support autonomy without abandoning the routine.",
+      "Attendance decisions remain an adult responsibility."
+    ],
+    "takeaway": "Offer bounded choices during toddler care routines.",
+    "refs": [
+      "d-development"
+    ],
+    "exhibit": null,
+    "subtopic": "Toddler autonomy",
+    "learningObjective": "Offer bounded choices during toddler care routines.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-043",
+    "cat": "health",
+    "title": "Preschool procedure preparation",
+    "stem": "A four-year-old needs a routine blood draw later today. Which preparation is most appropriate?",
+    "type": "single",
+    "options": [
+      "Demonstrate the steps on a doll shortly beforehand",
+      "Use a detailed circulation diagram to explain the tests",
+      "Give the parent a preparation booklet to read with the child",
+      "Show a detailed video of an adult blood collection"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Brief concrete demonstration can include honest simple descriptions of sensations appropriate to a preschooler.",
+      "Detailed internal anatomy may exceed this child's immediate developmental need.",
+      "A booklet can supplement teaching, but observed play allows the nurse to gauge this child's understanding before today's procedure.",
+      "An adult-focused detailed video may provide less developmentally suitable preparation."
+    ],
+    "takeaway": "Prepare preschoolers with brief concrete play-based explanations.",
+    "refs": [
+      "d-development"
+    ],
+    "exhibit": null,
+    "subtopic": "Preschool development",
+    "learningObjective": "Prepare preschoolers with brief concrete play-based explanations.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-044",
+    "cat": "health",
+    "title": "Magical thinking about illness",
+    "stem": "A preschooler says, 'My brother got sick because I was angry at him.' What should the nurse explain?",
+    "type": "single",
+    "options": [
+      "Explain that angry feelings are normal, then change the subject",
+      "Explain the disease mechanism using detailed medical terms",
+      "Invite the child to help the brother as a way to make amends",
+      "Feelings and thoughts did not cause the brother's illness"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Emotional reassurance alone does not correct the belief that thoughts caused illness.",
+      "Technical detail may not address the preschooler's concrete misconception.",
+      "Making amends implies that the child caused harm and reinforces guilt.",
+      "A concrete correction addresses preschool magical thinking and guilt."
+    ],
+    "takeaway": "Correct preschool beliefs that thoughts or feelings caused illness.",
+    "refs": [
+      "d-development"
+    ],
+    "exhibit": null,
+    "subtopic": "Preschool cognition",
+    "learningObjective": "Correct preschool beliefs that thoughts or feelings caused illness.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-045",
+    "cat": "health",
+    "title": "Supporting a school-age learner",
+    "stem": "Which teaching approaches fit a school-age child learning routine asthma self-care with caregivers? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Explain cause and effect in concrete terms",
+      "Allow supervised skill practice",
+      "Agree on manageable responsibilities",
+      "Give the child sole responsibility for obtaining refills"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "why": [
+      "Concrete explanations connect actions with understandable outcomes.",
+      "Practice builds confidence and reveals learning needs.",
+      "Shared manageable tasks support developing competence.",
+      "Adults remain responsible for ensuring access and appropriate oversight."
+    ],
+    "takeaway": "Build school-age self-care through explanation, practice and shared responsibility.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "School-age development",
+    "learningObjective": "Build school-age self-care through explanation, practice and shared responsibility.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-046",
+    "cat": "health",
+    "title": "School avoidance assessment",
+    "stem": "A ten-year-old has recurrent morning abdominal discomfort and missed school; initial medical assessment is reassuring. What should the nurse explore next?",
+    "type": "single",
+    "options": [
+      "Review the breakfast and symptom diary",
+      "School experiences, peer relationships and symptom patterns",
+      "Begin a school-attendance reward plan",
+      "Ask the parent about school experiences"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Dietary review is relevant but the school-linked pattern also needs the child's account of school and peer experiences.",
+      "Contextual assessment may identify stress, bullying or unmet learning needs.",
+      "Behavioural incentives may miss bullying, learning difficulties or other reasons for distress.",
+      "The parent's account is useful, but the child may know concerns that have not been disclosed at home."
+    ],
+    "takeaway": "Explore school and social context when symptoms interfere with attendance.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "School-age health",
+    "learningObjective": "Explore school and social context when symptoms interfere with attendance.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-047",
+    "cat": "health",
+    "title": "Screen habits in early childhood",
+    "stem": "A preschooler watches videos during most meals and bedtime routines. Parents want one useful starting change. What should the nurse suggest?",
+    "type": "single",
+    "options": [
+      "Replace all videos with educational content only",
+      "Allow screens whenever the child is quiet",
+      "Create screen-free meals and a calming bedtime routine",
+      "Move the device to the living room while keeping the same viewing schedule"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Content choice does not address displacement of interaction and sleep routines.",
+      "Quiet behaviour alone does not establish a healthy pattern.",
+      "Specific routine changes protect interaction and sleep-related habits.",
+      "Changing location does not address displacement of meals and bedtime routines."
+    ],
+    "takeaway": "Focus screen counselling on routines and activities displaced by use.",
+    "refs": [
+      "d-development"
+    ],
+    "exhibit": null,
+    "subtopic": "Childhood health habits",
+    "learningObjective": "Focus screen counselling on routines and activities displaced by use.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-048",
+    "cat": "health",
+    "title": "Childhood activity access",
+    "stem": "A parent cannot afford organized sports and worries their child cannot be active. Which advice is best?",
+    "type": "single",
+    "options": [
+      "Plan enjoyable free play, walking or community activities",
+      "Delay activity until a sports program is affordable",
+      "Prioritize exercise equipment purchases over daily play",
+      "Use competitive performance as the first activity goal"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Everyday enjoyable movement can support activity without program fees.",
+      "Waiting leaves an unnecessary access barrier in place.",
+      "Equipment is not required for many beneficial activities.",
+      "Performance goals may reduce enjoyment and participation."
+    ],
+    "takeaway": "Develop feasible enjoyable movement opportunities beyond organized sports.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Childhood activity",
+    "learningObjective": "Develop feasible enjoyable movement opportunities beyond organized sports.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-049",
+    "cat": "health",
+    "title": "A childhood growth conversation",
+    "stem": "A child is distressed after being called overweight at school. The caregiver requests a diet plan. What should the nurse prioritize?",
+    "type": "single",
+    "options": [
+      "Set a rapid weight-loss goal before assessing growth",
+      "Ask the child to weigh daily without support",
+      "Discuss appearance as the main reason for change",
+      "Assess growth and routines using nonstigmatizing family-centred language"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Rapid restriction without assessment may be inappropriate during growth.",
+      "Frequent unsupervised weighing may intensify distress.",
+      "Appearance-focused counselling reinforces the child's experience of stigma.",
+      "Growth context and respectful family routines support a safer plan."
+    ],
+    "takeaway": "Discuss childhood growth without stigma or unassessed restrictive dieting.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Childhood growth counselling",
+    "learningObjective": "Discuss childhood growth without stigma or unassessed restrictive dieting.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-050",
+    "cat": "health",
+    "title": "Preparing for puberty",
+    "stem": "Which topics belong in anticipatory guidance before or during early puberty? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Expected variation in timing of body changes",
+      "Private questions about hygiene and menstruation where relevant",
+      "Trusted adults and reliable information sources",
+      "Comparison with classmates to determine whether development is acceptable"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "why": [
+      "Normal variation can reduce unnecessary anxiety about peer differences.",
+      "Private practical information supports preparation for body changes.",
+      "Accessible trusted support helps the young person seek help.",
+      "Peer comparison alone cannot evaluate development or respect privacy."
+    ],
+    "takeaway": "Offer private practical puberty guidance that acknowledges normal variation.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Pubertal development",
+    "learningObjective": "Offer private practical puberty guidance that acknowledges normal variation.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-051",
+    "cat": "health",
+    "title": "Adolescent consultation privacy",
+    "stem": "A teenager becomes silent when a parent answers sexual-health questions. What is the best initial approach in a routine visit?",
+    "type": "single",
+    "options": [
+      "Continue with the parent to avoid discomfort",
+      "Explain the routine opportunity for private discussion and confidentiality limits",
+      "Have the teenager and parent complete the sensitive-topic questionnaire together",
+      "Offer a take-home sexual-health questionnaire"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Continuing without privacy may prevent accurate assessment.",
+      "A normalized private discussion supports disclosure while clarifying limits.",
+      "A shared questionnaire does not provide a confidential opportunity to speak.",
+      "A routine private conversation offers timely supported disclosure and clarification of confidentiality."
+    ],
+    "takeaway": "Provide developmentally appropriate privacy with clear confidentiality limits.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Adolescent assessment",
+    "learningObjective": "Provide developmentally appropriate privacy with clear confidentiality limits.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-052",
+    "cat": "health",
+    "title": "Sexual-health assessment language",
+    "stem": "A young adult says they have partners of more than one gender. Which question best guides relevant prevention teaching?",
+    "type": "single",
+    "options": [
+      "'Which identity should I use to decide your risk?'",
+      "'Can we skip details if you have no symptoms?'",
+      "'What sexual practices and protection methods are relevant for you?'",
+      "'Does one partner seem safer than the others?'"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Identity alone does not describe exposures or protection.",
+      "Absence of symptoms does not rule out infection risk.",
+      "Practice-based questions allow individualized and inclusive prevention advice.",
+      "Perceived safety is not a substitute for exposure assessment."
+    ],
+    "takeaway": "Base sexual-health counselling on practices and protection rather than identity assumptions.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Sexual-health assessment",
+    "learningObjective": "Base sexual-health counselling on practices and protection rather than identity assumptions.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-053",
+    "cat": "health",
+    "title": "STI screening without symptoms",
+    "stem": "A client with a new partner says no testing is needed because both feel well. What should the nurse explain?",
+    "type": "single",
+    "options": [
+      "Some infections are asymptomatic, so testing depends on exposure and current guidance",
+      "Testing is useful only when a rash is present",
+      "A partner's reassurance replaces screening",
+      "Screening is required only when contraception fails"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Risk-based screening may identify infections without noticeable symptoms.",
+      "Symptoms are not required for an infection to be present.",
+      "Reassurance cannot establish infection status.",
+      "Pregnancy prevention and infection screening address different concerns."
+    ],
+    "takeaway": "Explain why asymptomatic clients may still benefit from STI screening.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Sexual-health prevention",
+    "learningObjective": "Explain why asymptomatic clients may still benefit from STI screening.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-054",
+    "cat": "health",
+    "title": "Contraception and infection prevention",
+    "stem": "A client using an intrauterine contraceptive begins a new relationship. What should teaching emphasize?",
+    "type": "single",
+    "options": [
+      "The device protects against common sexually transmitted infections",
+      "Screening can replace all barrier use",
+      "Reassure the client if the new partner has no symptoms",
+      "Pregnancy prevention and infection prevention may require different strategies"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "An intrauterine contraceptive does not provide barrier protection from infection.",
+      "Testing does not prevent future exposure.",
+      "Asymptomatic infection is possible, so symptom absence does not replace prevention and screening advice.",
+      "A separate discussion of condoms and testing addresses the new exposure context."
+    ],
+    "takeaway": "Distinguish contraceptive effectiveness from protection against infection.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Reproductive health",
+    "learningObjective": "Distinguish contraceptive effectiveness from protection against infection.",
+    "reasoningSkill": "teaching",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-055",
+    "cat": "health",
+    "title": "Adolescent self-management transition",
+    "stem": "Which actions support a teenager preparing to manage a chronic condition more independently? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Practise describing the condition in their own words",
+      "Rehearse booking appointments with support",
+      "Develop a medication and refill plan",
+      "Transfer every task immediately because adult transfer is approaching"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "why": [
+      "Clear explanation supports participation in future care.",
+      "Supported practice builds navigation skills before full independence.",
+      "Planning anticipates a common source of treatment interruption.",
+      "Abrupt transfer may exceed current skills and support."
+    ],
+    "takeaway": "Build health-management independence gradually before transfer to adult care.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Adolescent transition",
+    "learningObjective": "Build health-management independence gradually before transfer to adult care.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-056",
+    "cat": "health",
+    "title": "Menstrual symptom assessment",
+    "stem": "A teenager reports missing school because of heavy menstrual bleeding and fatigue. What is the best nursing response?",
+    "type": "single",
+    "options": [
+      "Normalize all menstrual variation without assessment",
+      "Arrange clinical assessment of bleeding and possible anemia",
+      "Recommend waiting until cycles have continued for several years",
+      "Focus only on school attendance expectations"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Functional impairment and fatigue warrant more than reassurance.",
+      "The pattern suggests a need to assess severity and consequences.",
+      "Delay may prolong treatable symptoms or anemia.",
+      "Attendance counselling alone does not address the health concern."
+    ],
+    "takeaway": "Assess heavy menstrual bleeding that impairs function or causes fatigue.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Adolescent reproductive health",
+    "learningObjective": "Assess heavy menstrual bleeding that impairs function or causes fatigue.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-057",
+    "cat": "health",
+    "title": "Exercise and menstrual change",
+    "stem": "An adolescent runner has increased training, restricted intake and stopped menstruating. What should the nurse prioritize?",
+    "type": "single",
+    "options": [
+      "Recommend a daily calcium supplement",
+      "Reassure that absent periods confirm athletic fitness",
+      "Arrange assessment of energy availability and overall health",
+      "Refer for discussion of hormonal cycle regulation"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "A single nutrient intervention can miss broader low energy availability and other causes of amenorrhea.",
+      "Menstrual cessation is not a reliable marker of healthy fitness.",
+      "Training, restriction and amenorrhea warrant nutritional and medical review.",
+      "Induced bleeding would not identify the cause or address the broader health concern."
+    ],
+    "takeaway": "Recognize menstrual change with restricted intake as a health concern in athletes.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Adolescent nutrition",
+    "learningObjective": "Recognize menstrual change with restricted intake as a health concern in athletes.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-058",
+    "cat": "health",
+    "title": "Vaping misconception",
+    "stem": "A student who has never smoked uses nicotine vapes to manage exam stress. Which response best supports health promotion?",
+    "type": "single",
+    "options": [
+      "Explore dependence and stress triggers while offering cessation support",
+      "Recommend continuing because smoking would be worse",
+      "Focus only on flavour preference",
+      "Advise switching brands before assessing use"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Assessment can address nicotine exposure and the coping function of use.",
+      "Comparison with smoking does not make nicotine initiation beneficial.",
+      "Flavour alone does not characterize dependence or coping needs.",
+      "Brand changes do not address continued nicotine use."
+    ],
+    "takeaway": "Address nicotine use and the stress-related reasons for it together.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Youth substance prevention",
+    "learningObjective": "Address nicotine use and the stress-related reasons for it together.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-059",
+    "cat": "health",
+    "title": "Tanning and skin health",
+    "stem": "A young adult uses tanning beds before vacation to obtain a protective base tan. What should the nurse explain?",
+    "type": "single",
+    "options": [
+      "A base tan removes the need for sunscreen",
+      "Indoor tanning can safely prepare skin if sessions are brief",
+      "Skin protection matters only after redness develops",
+      "Tanning adds ultraviolet exposure; plan shade, clothing and sunscreen instead"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Tanning does not provide reliable protection from further ultraviolet injury.",
+      "Brief sessions still add ultraviolet exposure.",
+      "Skin injury can occur before visible redness.",
+      "Multiple protective strategies reduce exposure without deliberate tanning."
+    ],
+    "takeaway": "Replace deliberate tanning with practical ultraviolet protection.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Skin cancer prevention",
+    "learningObjective": "Replace deliberate tanning with practical ultraviolet protection.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-060",
+    "cat": "health",
+    "title": "Youth sleep routine",
+    "stem": "Which changes may help a teenager whose late-night phone use is reducing sleep? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Establish a consistent wake time",
+      "Move stimulating screen use away from bedtime",
+      "Create a wind-down routine",
+      "Use energy drinks to replace lost sleep on weekdays"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "why": [
+      "A regular wake time supports a stable sleep schedule.",
+      "Reducing bedtime stimulation supports settling for sleep.",
+      "Predictable quiet activity can signal the transition to sleep.",
+      "Stimulants do not replace sleep and can perpetuate sleep difficulty."
+    ],
+    "takeaway": "Develop consistent routines that protect adequate adolescent sleep.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Adolescent sleep",
+    "learningObjective": "Develop consistent routines that protect adequate adolescent sleep.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-061",
+    "cat": "health",
+    "title": "Interpreting screening results",
+    "stem": "An asymptomatic client receives an abnormal screening result and asks whether cancer is certain. What should the nurse explain?",
+    "type": "single",
+    "options": [
+      "Screening alone establishes the final diagnosis",
+      "Further diagnostic assessment is needed to clarify the result",
+      "A lack of symptoms proves the result is false",
+      "Repeating the same screening at home replaces follow-up"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Screening identifies people needing further evaluation rather than confirming every diagnosis.",
+      "Diagnostic follow-up determines what an abnormal result means.",
+      "Some conditions are detectable before symptoms develop.",
+      "The recommended follow-up cannot automatically be replaced by repeat screening."
+    ],
+    "takeaway": "Distinguish an abnormal screening result from a confirmed diagnosis.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Screening literacy",
+    "learningObjective": "Distinguish an abnormal screening result from a confirmed diagnosis.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-062",
+    "cat": "health",
+    "title": "Symptoms despite recent screening",
+    "stem": "A client with recent normal colorectal screening now reports persistent rectal bleeding. What advice is best?",
+    "type": "single",
+    "options": [
+      "Wait until the next routine screening interval",
+      "Repeat the same screening without clinical review",
+      "Seek assessment of the new symptom",
+      "Assume hemorrhoids because screening was normal"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Routine intervals apply to screening, not evaluation of new symptoms.",
+      "Symptom assessment may require a different diagnostic pathway.",
+      "New persistent bleeding warrants assessment despite a prior normal screen.",
+      "A normal screening result does not establish the cause of bleeding."
+    ],
+    "takeaway": "Evaluate new symptoms independently of routine screening schedules.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Screening and diagnosis",
+    "learningObjective": "Evaluate new symptoms independently of routine screening schedules.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-063",
+    "cat": "health",
+    "title": "Family history and screening",
+    "stem": "A client reports several close relatives with early-onset cancer but has not reached the routine population screening age. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Arrange individualized risk review rather than applying age criteria alone",
+      "Reassure that age rules exclude all screening needs",
+      "Recommend every available tumour-marker blood test",
+      "Base advice only on the oldest affected relative"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "A significant family pattern can change risk assessment and planning.",
+      "Average-risk age criteria may not fit this family history.",
+      "Broad unselected testing is not a substitute for risk-based assessment.",
+      "Multiple relatives and ages contribute to the pattern."
+    ],
+    "takeaway": "Identify family histories that require individualized screening advice.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Cancer-risk assessment",
+    "learningObjective": "Identify family histories that require individualized screening advice.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-064",
+    "cat": "health",
+    "title": "Informed screening choice",
+    "stem": "A capable client is uncertain about an offered screening test. What should the nurse discuss?",
+    "type": "single",
+    "options": [
+      "Only the benefits to improve acceptance",
+      "Only the worst possible outcome of declining",
+      "The nurse's personal screening decisions",
+      "Potential benefits, harms, follow-up and the client's preferences"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Benefits alone do not support a balanced informed choice.",
+      "Fear-based framing can distort rather than inform the decision.",
+      "The nurse's choices do not determine the client's values.",
+      "Balanced information and preferences support shared decision-making."
+    ],
+    "takeaway": "Support informed screening choices with benefits, harms and follow-up information.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Screening decisions",
+    "learningObjective": "Support informed screening choices with benefits, harms and follow-up information.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-065",
+    "cat": "health",
+    "title": "Findings before an injected vaccine",
+    "stem": "Before an indicated injected non-live vaccine, which findings require additional clarification or assessment before proceeding? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Previous anaphylaxis after the same vaccine product",
+      "Mild afebrile runny nose in an otherwise well client",
+      "Current significant febrile illness",
+      "Brief soreness after a previous injection",
+      "Antibiotic use alone without a relevant active illness"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "why": [
+      "A severe prior reaction requires product-specific safety assessment.",
+      "Minor illness alone generally does not require deferral.",
+      "Significant acute illness warrants evaluation of vaccine timing and the illness itself.",
+      "Brief local soreness is not equivalent to a severe allergic reaction.",
+      "Antibiotic use alone does not usually preclude an injected non-live vaccine."
+    ],
+    "takeaway": "Distinguish findings requiring vaccine review from common noncontraindications.",
+    "refs": [
+      "d-vax"
+    ],
+    "exhibit": null,
+    "subtopic": "Immunization assessment",
+    "learningObjective": "Distinguish findings requiring vaccine review from common noncontraindications.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-066",
+    "cat": "health",
+    "title": "A minor illness before vaccination",
+    "stem": "A well-appearing child has a mild runny nose without fever and is due for routine vaccines. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Cancel automatically until all nasal symptoms disappear",
+      "Assess against vaccine-specific guidance rather than assuming a contraindication",
+      "Begin antibiotics before vaccination",
+      "Require a negative respiratory panel for every vaccine"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Mild illness alone is not generally a reason to defer routine immunization.",
+      "Clinical assessment and current guidance determine whether vaccination can proceed.",
+      "Antibiotics are not routinely indicated for this presentation.",
+      "Routine testing is not generally required solely for vaccination."
+    ],
+    "takeaway": "Distinguish minor illness from vaccine-specific precautions requiring deferral.",
+    "refs": [
+      "d-vax"
+    ],
+    "exhibit": null,
+    "subtopic": "Immunization decisions",
+    "learningObjective": "Distinguish minor illness from vaccine-specific precautions requiring deferral.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-067",
+    "cat": "health",
+    "title": "Vaccine record gaps",
+    "stem": "A newcomer has incomplete vaccine documentation and is unsure which doses were given. What is the best nursing approach?",
+    "type": "single",
+    "options": [
+      "Assume childhood infection provides complete protection",
+      "Restart every vaccine without checking recommendations",
+      "Review available records and arrange an individualized catch-up assessment",
+      "Defer discussion until records can be obtained from every previous residence"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Infection history does not establish protection against all vaccine-preventable diseases.",
+      "Catch-up decisions should follow vaccine-specific guidance and verified information.",
+      "Review allows an appropriate plan despite uncertainty.",
+      "Indefinite delay may leave preventable protection gaps."
+    ],
+    "takeaway": "Use current catch-up guidance when immunization records are incomplete.",
+    "refs": [
+      "d-adult-vax"
+    ],
+    "exhibit": null,
+    "subtopic": "Immunization access",
+    "learningObjective": "Use current catch-up guidance when immunization records are incomplete.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-068",
+    "cat": "health",
+    "title": "Vaccine reaction interpretation",
+    "stem": "After a previous vaccine, an adult had a sore arm for a day without systemic symptoms. They now believe all vaccines are contraindicated. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Clarify the reaction and explain expected local effects",
+      "Arrange an automatic vaccine-allergy referral",
+      "Recommend changing vaccine brands for future doses",
+      "Recommend antihistamine premedication for future doses"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Brief local soreness supports counselling about expected effects after confirming the absence of severe features.",
+      "This isolated local symptom does not itself establish a need for specialist allergy referral.",
+      "A brand change is not indicated solely by ordinary brief local soreness.",
+      "Premedication does not address the misconception that expected soreness is a severe allergy."
+    ],
+    "takeaway": "Clarify prior reactions before labelling a vaccine contraindication.",
+    "refs": [
+      "d-vax"
+    ],
+    "exhibit": null,
+    "subtopic": "Vaccine counselling",
+    "learningObjective": "Clarify prior reactions before labelling a vaccine contraindication.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-069",
+    "cat": "health",
+    "title": "Travel preparation timing",
+    "stem": "An adult with a chronic condition is planning international travel in two months. What is the most useful health-promotion advice?",
+    "type": "single",
+    "options": [
+      "Obtain vaccine advice during the departure-week refill",
+      "Prepare an extra supply of regular medicines",
+      "Print the destination health advisory",
+      "Book an individualized travel-health appointment now"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Departure-week advice may leave insufficient time for some preventive measures.",
+      "Medication supply matters but does not cover itinerary-specific risks and preventive planning.",
+      "A general advisory does not integrate this client's condition and exact itinerary.",
+      "Early review allows time to coordinate prevention and practical management for the chronic condition."
+    ],
+    "takeaway": "Arrange travel-health preparation early enough for individualized preventive measures.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Travel health",
+    "learningObjective": "Arrange travel-health preparation early enough for individualized preventive measures.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-070",
+    "cat": "health",
+    "title": "Adult vaccine review",
+    "stem": "Which factors help determine an adult's immunization needs? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Age and previous doses",
+      "Health conditions and treatment",
+      "Occupational or travel exposures",
+      "Whether childhood records contain at least one vaccine"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "why": [
+      "Age and dose history shape routine and catch-up recommendations.",
+      "Some conditions change risk, timing or product suitability.",
+      "Specific exposures may create additional indications.",
+      "One recorded dose does not establish complete current protection."
+    ],
+    "takeaway": "Review adult vaccination using history, health status and exposure risks.",
+    "refs": [
+      "d-adult-vax"
+    ],
+    "exhibit": null,
+    "subtopic": "Adult immunization",
+    "learningObjective": "Review adult vaccination using history, health status and exposure risks.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  }
+]

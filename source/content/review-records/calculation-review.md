@@ -1,0 +1,21 @@
+# Independent calculation-template review — 2026-10-01
+
+Reviewed read-only: `/workspace/scratch/d175be9aaf88/rexpn-studio/dist/calculations.js`, SHA-256 `85f7c7d591f71a43ffa0d3c3d55ba6623a27578cda3d44e010b481c1a753edb8`.
+
+**No arithmetic defects found in all 81 parameter combinations.** Each generated answer was compared with independently expressed rational arithmetic and positive half-up rounding. The executable check and all results are in `calculation_check.cjs` and `calculation-arithmetic-check.json`. The five templates teach different operations; their 81 number variants must remain counted as five scenarios.
+
+| Template | Combinations | Answer range | Review |
+|---|---:|---|---|
+| Acetaminophen weight → dose → volume | 4 | 8.4–14.1 mL | No blocking defect found after source/population correction |
+| Amoxicillin daily → divided dose → volume | 8 | 5.4–10.8 mL/dose | No blocking defect found |
+| Pump rate with hours and minutes | 27 | 43–231 mL/hour | No blocking defect found |
+| Gravity drop rate | 18 | 13–56 drops/min | No blocking defect found |
+| Remaining total fluid allowance | 24 | 460–1,040 mL | No blocking defect found |
+
+Acetaminophen orders include route, dose per kilogram per dose, interval, PRN indication, four-dose daily cap, last-dose time and an explicit medication-check assumption. All generated doses are 270–450 mg; four doses total 60 mg/kg/day. The exercise asks for a calculation, not a new prescribing or administration decision. The original CHEO reference `/manual/1286` is located in its **neonatal** manual and was a mismatched principal reference for these children. **Source correction implemented and rechecked:** `calc-cheo` was replaced with [SickKids oral pediatric dose recommendations](https://www.aboutkidshealth.ca/globalassets/assets/acetaminophen-and-ibuprofen-dose-recommendations.pdf), which explicitly addresses oral pediatric acetaminophen at 10–15 mg/kg/dose. The alternate CHEO `/manual/2252-0` page is a parenteral manual and is also not the best oral-route reference. The stem now specifies “a child older than 2 years,” and its reference key is `calc-sickkids`. These two changes were re-read and all 81 combinations rechecked with no arithmetic changes or failures. [Health Canada](https://www.canada.ca/en/health-canada/services/drugs-medical-devices/acetaminophen-and-children.html) supports the 160 mg/5 mL formulation and cautions against duplicate products; its consumer weight-band doses are not the same as the explicitly prescribed 15 mg/kg calculation.
+
+The amoxicillin prescription includes indication, child age class, dose per day, route, three equal doses/every-eight-hour interval, duration, formulation and key safety assumptions. [Canadian Paediatric Society AOM guidance](https://cps.ca/en/documents/position/acute-otitis-media), reaffirmed November 2024, supports 45–60 mg/kg/day divided three times daily and a five-day course for most children at least two years old with uncomplicated AOM. Maximum generated exposure is 1,620 mg/day and 540 mg/dose. This is an arithmetic exercise after a treatment decision, so the absence of additional diagnostic signs does not make it an incomplete order; do not reuse the stem to teach that every uncomplicated AOM requires antibiotics.
+
+Both infusion orders specify fluid, route, total volume, duration and starting time. They are finite infusions, so a separate recurring frequency is not missing. The stated clinical/equipment checks define the calculation’s scope. Rounding to whole mL/hour or whole drops/min slightly changes delivered volume over the nominal duration; this is conventional educational rounding, and the gravity takeaway correctly calls for reassessment. The fluid-limit item fixes its 24-hour window, includes oral/IV/enteral sources and explicitly excludes unlisted inputs. It correctly avoids netting urine output against the allowance.
+
+This is an independent review of the five templates as written, not patient-specific medication authorization, medical validation, psychometric validation or a review of the answer-input UI. It assumes `kind` is 0–4 and `random()` yields values in [0,1); invalid-input API behaviour was outside this content review. No Site files were changed. Recheck the hash after any wording or code revision.

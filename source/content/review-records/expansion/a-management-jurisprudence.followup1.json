@@ -1,0 +1,134 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:35:34.768798+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/a-management-01-recheck3.json",
+  "sourceSha256": "6735d407e20ba77f6cae5d6898037cec2802cc713bc937e8e94df310a90c16d5",
+  "coverage": {
+    "sourceItems": 50,
+    "reviewedItems": 6,
+    "reviewedIds": [
+      "x-management-001",
+      "x-management-002",
+      "x-management-007",
+      "x-management-008",
+      "x-management-009",
+      "x-management-037"
+    ],
+    "unreviewedIds": [
+      "x-management-003",
+      "x-management-004",
+      "x-management-005",
+      "x-management-006",
+      "x-management-010",
+      "x-management-011",
+      "x-management-012",
+      "x-management-013",
+      "x-management-014",
+      "x-management-015",
+      "x-management-016",
+      "x-management-017",
+      "x-management-018",
+      "x-management-019",
+      "x-management-020",
+      "x-management-021",
+      "x-management-022",
+      "x-management-023",
+      "x-management-024",
+      "x-management-025",
+      "x-management-026",
+      "x-management-027",
+      "x-management-028",
+      "x-management-029",
+      "x-management-030",
+      "x-management-031",
+      "x-management-032",
+      "x-management-033",
+      "x-management-034",
+      "x-management-035",
+      "x-management-036",
+      "x-management-038",
+      "x-management-039",
+      "x-management-040",
+      "x-management-041",
+      "x-management-042",
+      "x-management-043",
+      "x-management-044",
+      "x-management-045",
+      "x-management-046",
+      "x-management-047",
+      "x-management-048",
+      "x-management-049",
+      "x-management-050"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-management-001",
+      "status": "revise",
+      "assessment": "Statutory dependence removed and capacity principle sound; defer every decision until cognition normal remains implausible.",
+      "issues": [
+        "Statutory dependence removed and capacity principle sound; defer every decision until cognition normal remains implausible."
+      ],
+      "proposedChanges": [
+        "Replace option3 with Request another cognitive screening score before discussing today's treatment. Explain that a global score does not replace treatment-specific understanding/appreciation."
+      ],
+      "reviewedItemSha256": "bfb0e37539eb8c2a98ad674c4f930021a272056e6cf6df57f435ae08f1dd7814"
+    },
+    {
+      "id": "x-management-002",
+      "status": "pass",
+      "assessment": "Adult choice and privacy are now assessed through demonstrated understanding, not local age-of-consent memorization. Financial support does not establish parental authority.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "aae9d798536609faf17694a574ff33009b818566d665cee01cd2b4423a9307b4"
+    },
+    {
+      "id": "x-management-007",
+      "status": "revise",
+      "assessment": "The revision tests a general client-values principle appropriately, but no substantial competing clinical data support challenge difficulty.",
+      "issues": [
+        "The revision tests a general client-values principle appropriately, but no substantial competing clinical data support challenge difficulty."
+      ],
+      "proposedChanges": [
+        "Set difficulty application. The documented-wishes/team-consent approach is acceptable; do not reintroduce statutory age/hierarchy facts."
+      ],
+      "reviewedItemSha256": "4064e74bd21a22c8abfec33956385f3c67af6dad851aaa2240534442949779c9"
+    },
+    {
+      "id": "x-management-008",
+      "status": "pass",
+      "assessment": "The support role versus disclosure permission distinction is now applied without jurisdiction-specific document terminology.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fb4efe3dcc98aacb46dacebde961b8c3737fb068023d7e640ec7379eb809a322"
+    },
+    {
+      "id": "x-management-009",
+      "status": "pass",
+      "assessment": "Reassessment after improved decision-specific understanding is defensible; prior substitute involvement cannot automatically displace current capable participation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5731a08ad8c08dcdeb529f840b3f20080521d9cd8fefdf7e17a0fa61f6e87ec8"
+    },
+    {
+      "id": "x-management-037",
+      "status": "pass",
+      "assessment": "General professional scope versus individual competence is appropriate REx-PN content; qualified collaboration and safe division of care are supported.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0d9f45c572a678d0e0033eee2b9f4a2bab3af1edea1b5047bd0f2578fa896727"
+    }
+  ],
+  "activeSourceFile": "authoring/a/management-01.json",
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

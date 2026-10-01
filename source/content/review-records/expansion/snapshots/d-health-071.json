@@ -1,0 +1,1290 @@
+[
+  {
+    "id": "x-health-071",
+    "cat": "health",
+    "title": "Selecting the teaching priority",
+    "stem": "A client starting home wound care has limited time before transport arrives. They can name supplies but cannot recognize complications. What should the nurse prioritize?",
+    "type": "single",
+    "options": [
+      "History of wound-healing research",
+      "Signs requiring help and whom to contact",
+      "Brand comparisons for dressings",
+      "The complete anatomy of skin layers"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Background science is less urgent than safe home decisions.",
+      "Recognizing deterioration and accessing help addresses the demonstrated safety gap.",
+      "Brand details do not resolve the identified knowledge deficit.",
+      "Detailed anatomy is less immediately useful for home safety."
+    ],
+    "takeaway": "Prioritize teaching that enables safe action after discharge.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Teaching priorities",
+    "learningObjective": "Prioritize teaching that enables safe action after discharge.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-072",
+    "cat": "health",
+    "title": "Assessing practical learning barriers",
+    "stem": "A client accurately describes medication timing but repeatedly misses morning doses while caring for a spouse. What should the nurse explore first?",
+    "type": "single",
+    "options": [
+      "Whether another written explanation is needed",
+      "Whether the client can repeat the drug names",
+      "How the regimen fits the caregiving routine",
+      "Whether a longer pharmacology discussion would help"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "The client already understands timing, so information may not be the barrier.",
+      "Name recall does not explain the routine-related missed doses.",
+      "Practical assessment can identify feasible reminders or support needs.",
+      "More theory does not directly address competing responsibilities."
+    ],
+    "takeaway": "Distinguish a practical barrier from a knowledge deficit.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Learning assessment",
+    "learningObjective": "Distinguish a practical barrier from a knowledge deficit.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-073",
+    "cat": "health",
+    "title": "Demonstration with limited dexterity",
+    "stem": "A client understands a new glucose device but cannot open its packaging because of arthritis. What is the best next step?",
+    "type": "single",
+    "options": [
+      "Assess an accessible method or device and repeat supervised practice",
+      "Provide a larger-print version of the same instructions only",
+      "Require more verbal recall before another attempt",
+      "Conclude that independent monitoring is impossible"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Adaptation addresses the observed motor barrier and tests feasibility.",
+      "Print changes do not resolve packaging access.",
+      "Verbal recall does not improve hand function.",
+      "Independence may be possible with equipment or task modification."
+    ],
+    "takeaway": "Adapt self-care equipment to demonstrated physical ability.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Accessible self-care",
+    "learningObjective": "Adapt self-care equipment to demonstrated physical ability.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-074",
+    "cat": "health",
+    "title": "Evaluating a practical skill",
+    "stem": "After catheter-care teaching, a client describes every step correctly but contaminates the equipment during practice. What is the most appropriate interpretation?",
+    "type": "single",
+    "options": [
+      "The teaching objective is met because recall is accurate",
+      "Another pamphlet is sufficient evidence of correction",
+      "Performance can be assumed to improve at home",
+      "Practical competence requires further coached practice and reassessment"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Accurate recall does not establish safe task performance.",
+      "Receiving information is not evidence of corrected technique.",
+      "Unobserved future improvement cannot be assumed.",
+      "The observed error identifies a specific skill needing practice."
+    ],
+    "takeaway": "Evaluate demonstrated performance separately from verbal knowledge.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Learning evaluation",
+    "learningObjective": "Evaluate demonstrated performance separately from verbal knowledge.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-075",
+    "cat": "health",
+    "title": "Interpreter-supported teaching",
+    "stem": "A client prefers a language the nurse does not speak. Which approaches support accurate teaching with a qualified interpreter? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Speak directly to the client",
+      "Pause after short segments",
+      "Ask the interpreter to decide which care instructions matter",
+      "Use a family member to verify confidential answers without asking the client"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "why": [
+      "Direct engagement preserves the therapeutic relationship.",
+      "Short segments support accurate interpretation and questions.",
+      "Clinical priorities remain the responsibility of the care team and client.",
+      "Involving relatives requires attention to client preference and privacy."
+    ],
+    "takeaway": "Use qualified interpretation while communicating directly with the client.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Language access",
+    "learningObjective": "Use qualified interpretation while communicating directly with the client.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-076",
+    "cat": "health",
+    "title": "Numeracy and liquid measurement",
+    "stem": "A caregiver says 'one spoon' when discussing a prescribed liquid medicine. Which teaching best reduces measurement error?",
+    "type": "single",
+    "options": [
+      "Compare kitchen spoons visually",
+      "Provide the correct marked oral syringe and observe measurement in mL",
+      "Ask the caregiver to memorize the bottle colour",
+      "Explain the chemical concentration without practising measurement"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Household spoon sizes are not reliably standardized.",
+      "Correct equipment and observed practice address the actual measurement task.",
+      "Colour recognition does not ensure a correct dose.",
+      "Concentration theory alone does not demonstrate accurate measurement."
+    ],
+    "takeaway": "Teach liquid measurement with appropriate equipment and observed practice.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Health numeracy",
+    "learningObjective": "Teach liquid measurement with appropriate equipment and observed practice.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-077",
+    "cat": "health",
+    "title": "Organizing complex instructions",
+    "stem": "A client with several new self-care tasks says, 'I cannot remember what matters most.' What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Repeat all details more quickly",
+      "Add every possible complication to one page",
+      "Prioritize essential actions and organize them into manageable steps",
+      "Ask the client to memorize the discharge summary"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Faster repetition increases cognitive load without clarifying priorities.",
+      "Excess detail can obscure essential actions.",
+      "Sequencing and prioritization make information easier to use.",
+      "A clinical summary is not necessarily an accessible action plan."
+    ],
+    "takeaway": "Reduce cognitive load by organizing essential self-care actions.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Health literacy",
+    "learningObjective": "Reduce cognitive load by organizing essential self-care actions.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-078",
+    "cat": "health",
+    "title": "Teaching after a sensory change",
+    "stem": "A client newly using reading glasses is learning ostomy care and avoids the printed guide. What should the nurse assess first?",
+    "type": "single",
+    "options": [
+      "Whether the client can see the material and equipment comfortably",
+      "Whether the client agrees with every instruction",
+      "Whether the family will take over permanently",
+      "Whether the guide contains enough medical terminology"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Visual access may explain avoidance and can often be improved.",
+      "Agreement does not establish access to the teaching materials.",
+      "Permanent transfer is premature before assessing a modifiable barrier.",
+      "More terminology would not address visual difficulty."
+    ],
+    "takeaway": "Assess sensory access before interpreting limited engagement as resistance.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Accessible education",
+    "learningObjective": "Assess sensory access before interpreting limited engagement as resistance.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-079",
+    "cat": "health",
+    "title": "A missed learning goal",
+    "stem": "A client agreed to practise a dressing change but cannot complete it after teaching. What is the best nursing response?",
+    "type": "single",
+    "options": [
+      "Record the goal as achieved because teaching occurred",
+      "Label the client unwilling before reassessment",
+      "Repeat the identical session without examining the difficulty",
+      "Identify the difficult steps and adapt the teaching plan"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Teaching delivery is not equivalent to learning achievement.",
+      "Difficulty may reflect a skill, access or readiness problem.",
+      "Unchanged repetition may leave the actual barrier untouched.",
+      "Step-specific assessment supports targeted coaching and reevaluation."
+    ],
+    "takeaway": "Revise teaching from observed learning difficulties.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Teaching evaluation",
+    "learningObjective": "Revise teaching from observed learning difficulties.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-080",
+    "cat": "health",
+    "title": "Health app appraisal",
+    "stem": "A client wants to use an app for symptom tracking. Which features should be reviewed? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Whether the app's advice has an identifiable credible source",
+      "How personal health data are used and shared",
+      "Whether a high download count proves clinical reliability",
+      "Whether colour preferences can replace checking intended use"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "why": [
+      "Credible authorship and evidence help assess the information offered.",
+      "Data practices matter when entering sensitive information.",
+      "Popularity alone does not establish safety or accuracy.",
+      "Appearance does not establish suitability for the clinical purpose."
+    ],
+    "takeaway": "Review information quality and privacy before recommending a health app.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Digital health literacy",
+    "learningObjective": "Review information quality and privacy before recommending a health app.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-081",
+    "cat": "health",
+    "title": "Setting an activity goal",
+    "stem": "An inactive adult wants to walk more but becomes discouraged by large goals. Which goal is most useful initially?",
+    "type": "single",
+    "options": [
+      "Improve fitness as much as possible",
+      "Walk for a mutually agreed short period on specified days, then review",
+      "Reach the neighbour's distance immediately",
+      "Record weight daily as the sole activity measure"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "A vague goal is difficult to implement or evaluate.",
+      "A specific achievable plan allows progress review and adjustment.",
+      "Another person's performance may not fit this client's baseline.",
+      "Weight alone does not measure activity participation or tolerance."
+    ],
+    "takeaway": "Set activity goals that are specific, feasible and reviewable.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Behaviour change",
+    "learningObjective": "Set activity goals that are specific, feasible and reviewable.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-082",
+    "cat": "health",
+    "title": "Exploring ambivalence",
+    "stem": "A client says, 'I know smoking harms me, but it helps me get through work.' What response best supports motivation?",
+    "type": "single",
+    "options": [
+      "List complications until the client agrees to quit",
+      "Set a quit date without discussion",
+      "Ask what the client likes and dislikes about smoking",
+      "Focus on whether coworkers approve of smoking"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "More warnings may not address the competing value the client describes.",
+      "An imposed goal may not reflect readiness.",
+      "Exploring both sides helps the client articulate reasons for change.",
+      "Coworker approval is less relevant than the client's goals and barriers."
+    ],
+    "takeaway": "Explore ambivalence before prescribing a behaviour-change goal.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Motivational communication",
+    "learningObjective": "Explore ambivalence before prescribing a behaviour-change goal.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-083",
+    "cat": "health",
+    "title": "Learning from a smoking lapse",
+    "stem": "After two weeks without smoking, a client smoked during an argument and feels the attempt is ruined. What should the nurse emphasize?",
+    "type": "single",
+    "options": [
+      "Review the trigger and adjust the quit plan",
+      "Restart only after several months of smoking",
+      "Count the lapse as proof of poor motivation",
+      "Focus exclusively on the number of cigarettes smoked"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "A lapse can identify coping supports needed for the next attempt.",
+      "Delaying support may unnecessarily prolong tobacco exposure.",
+      "One event does not establish lack of motivation.",
+      "Quantity alone does not explain the trigger or recovery plan."
+    ],
+    "takeaway": "Use a lapse to refine cessation strategies rather than abandon the goal.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Tobacco cessation",
+    "learningObjective": "Use a lapse to refine cessation strategies rather than abandon the goal.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-084",
+    "cat": "health",
+    "title": "Changing sugary drink intake",
+    "stem": "A client chooses replacing one daily soft drink with water as a first goal. What is the best nursing response?",
+    "type": "single",
+    "options": [
+      "Replace the client's goal with total dietary restriction",
+      "Ask for daily weight targets before accepting the goal",
+      "Explain that small changes cannot affect habits",
+      "Confirm when the substitution will occur and how progress will be reviewed"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "A more restrictive imposed goal may undermine engagement.",
+      "Weight targets are not necessary to evaluate this chosen behaviour.",
+      "Repeated small feasible changes can support sustained routines.",
+      "A concrete cue and review plan strengthen implementation."
+    ],
+    "takeaway": "Turn a chosen health behaviour into a practical routine and review plan.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Behaviour change planning",
+    "learningObjective": "Turn a chosen health behaviour into a practical routine and review plan.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-085",
+    "cat": "health",
+    "title": "Supporting tobacco cessation",
+    "stem": "Which assessments help tailor a client's quit plan? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Times and situations associated with smoking",
+      "Previous strategies that helped or failed",
+      "Whether the client meets the nurse's preferred quit date",
+      "Only the brand and purchase location"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "why": [
+      "Trigger patterns identify where coping strategies are needed.",
+      "Past experience can reveal effective supports and barriers.",
+      "Goals should reflect collaborative planning rather than the nurse's preference.",
+      "Product details alone do not capture dependence or readiness."
+    ],
+    "takeaway": "Tailor cessation support using triggers and prior attempts.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Tobacco cessation",
+    "learningObjective": "Tailor cessation support using triggers and prior attempts.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-086",
+    "cat": "health",
+    "title": "Physical activity with joint pain",
+    "stem": "An adult with stable osteoarthritis wants to become active but walking aggravates knee pain. What should the nurse recommend?",
+    "type": "single",
+    "options": [
+      "Avoid all exercise until joints are painless",
+      "Explore tolerable lower-impact activity and appropriate professional guidance",
+      "Increase walking speed to finish sooner",
+      "Use pain severity as the sole measure of exercise benefit"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Complete inactivity can worsen conditioning and function.",
+      "Adapted activity can support health within symptoms and abilities.",
+      "Faster walking may increase loading without improving tolerance.",
+      "Benefits and safety require broader assessment than pain alone."
+    ],
+    "takeaway": "Adapt activity type to joint symptoms and functional goals.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Adult activity",
+    "learningObjective": "Adapt activity type to joint symptoms and functional goals.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-087",
+    "cat": "health",
+    "title": "Returning to activity after illness",
+    "stem": "After a prolonged illness, a client wants to resume their previous exercise level immediately. What is the best advice?",
+    "type": "single",
+    "options": [
+      "Restart at the old workload without review",
+      "Avoid activity until strength returns spontaneously",
+      "Plan a gradual return based on current function and clinical guidance",
+      "Replace all movement with stretching indefinitely"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Previous ability may exceed current capacity after deconditioning.",
+      "Waiting without rehabilitation may delay recovery of function.",
+      "Gradual progression respects current tolerance and recovery needs.",
+      "Stretching alone may not address endurance and strength goals."
+    ],
+    "takeaway": "Base activity progression on current capacity after illness.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Rehabilitation health promotion",
+    "learningObjective": "Base activity progression on current capacity after illness.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-088",
+    "cat": "health",
+    "title": "Prolonged sitting at work",
+    "stem": "A desk worker exercises on weekends but sits for most workdays. Which additional habit is most relevant?",
+    "type": "single",
+    "options": [
+      "Build regular movement breaks into the workday",
+      "Replace all weekend activity with a standing desk",
+      "Track only total calories eaten at work",
+      "Increase caffeine to reduce perceived fatigue"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Frequent movement addresses the prolonged sedentary pattern directly.",
+      "A workstation change need not replace beneficial activity.",
+      "Diet tracking does not change uninterrupted sitting.",
+      "Stimulants do not provide the benefits of movement."
+    ],
+    "takeaway": "Address prolonged sedentary time as well as planned exercise.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Sedentary behaviour",
+    "learningObjective": "Address prolonged sedentary time as well as planned exercise.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-089",
+    "cat": "health",
+    "title": "Food-label comparison",
+    "stem": "A client aims to reduce sodium and compares two soups. Which comparison is valid?",
+    "type": "single",
+    "options": [
+      "Choose the package with less advertising",
+      "Compare sodium numbers without checking serving size",
+      "Select the soup with the lower price per tin",
+      "Compare sodium for equivalent amounts actually eaten"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Advertising style does not establish sodium content.",
+      "Different serving sizes can make unadjusted comparisons misleading.",
+      "Cost does not determine sodium intake.",
+      "Equivalent portions allow a meaningful nutrient comparison."
+    ],
+    "takeaway": "Compare nutrition-label values using equivalent consumed portions.",
+    "refs": [
+      "d-nutrition"
+    ],
+    "exhibit": null,
+    "subtopic": "Nutrition literacy",
+    "learningObjective": "Compare nutrition-label values using equivalent consumed portions.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-090",
+    "cat": "health",
+    "title": "Planning nutritious meals on a budget",
+    "stem": "Which suggestions may help a client with limited income obtain balanced meals? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Consider affordable frozen or canned foods with suitable labels",
+      "Plan meals using available low-cost protein foods",
+      "Recommend only fresh specialty produce",
+      "Assume all packaged foods have the same nutritional value"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "why": [
+      "Appropriate frozen and canned options can be nutritious and affordable.",
+      "Feasible protein sources support nutrition within the budget.",
+      "Specialty-only advice may be financially inaccessible.",
+      "Labels and preparation vary, so blanket assumptions are inaccurate."
+    ],
+    "takeaway": "Adapt nutrition teaching to cost and available food options.",
+    "refs": [
+      "d-nutrition"
+    ],
+    "exhibit": null,
+    "subtopic": "Food access",
+    "learningObjective": "Adapt nutrition teaching to cost and available food options.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-091",
+    "cat": "health",
+    "title": "Hydration in heat with restrictions",
+    "stem": "An older adult with a prescribed fluid limit asks how to manage a heat wave. What is the best response?",
+    "type": "single",
+    "options": [
+      "Ignore the limit throughout the heat wave",
+      "Seek an individualized fluid and cooling plan from the treating team",
+      "Maintain the limit without considering new symptoms",
+      "Use sports drinks as unrestricted extra fluid"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Unsupervised excess intake may worsen the condition requiring restriction.",
+      "The plan must balance heat risk with the client's clinical limitations.",
+      "Heat may change needs and symptoms requiring reassessment.",
+      "Sports drinks still contribute fluid and may add unwanted electrolytes."
+    ],
+    "takeaway": "Individualize heat advice when medical fluid restrictions apply.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Environmental health",
+    "learningObjective": "Individualize heat advice when medical fluid restrictions apply.",
+    "reasoningSkill": "teaching",
+    "difficulty": "challenge",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-092",
+    "cat": "health",
+    "title": "Shift-work sleep planning",
+    "stem": "A night-shift worker has fragmented daytime sleep because family activities continue nearby. What intervention best addresses the stated problem?",
+    "type": "single",
+    "options": [
+      "Add evening caffeine to stay awake longer",
+      "Extend screen use before daytime sleep",
+      "Agree on a protected sleep period and a dark quiet environment",
+      "Restrict sleep to days off"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Additional caffeine may interfere with later sleep.",
+      "Stimulating light and activity can delay settling.",
+      "Environmental and household planning target the actual sleep disruption.",
+      "Restricting sleep to days off worsens cumulative sleep loss."
+    ],
+    "takeaway": "Protect a consistent sleep opportunity within shift-work constraints.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Sleep health",
+    "learningObjective": "Protect a consistent sleep opportunity within shift-work constraints.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-093",
+    "cat": "health",
+    "title": "Persistent snoring and sleepiness",
+    "stem": "A client reports loud snoring, witnessed breathing pauses and daytime sleepiness despite enough time in bed. What should the nurse recommend?",
+    "type": "single",
+    "options": [
+      "Clinical assessment for a sleep-related breathing disorder",
+      "A larger pillow as the only intervention",
+      "More time in bed before mentioning breathing pauses",
+      "Caffeine at each meal to improve alertness"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "The combined symptoms warrant evaluation beyond sleep-hygiene advice.",
+      "Position changes alone do not evaluate reported breathing pauses.",
+      "Adequate sleep opportunity with apnea symptoms still needs assessment.",
+      "Stimulants may mask sleepiness without treating its cause."
+    ],
+    "takeaway": "Refer breathing pauses with daytime sleepiness for assessment.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Sleep screening",
+    "learningObjective": "Refer breathing pauses with daytime sleepiness for assessment.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-094",
+    "cat": "health",
+    "title": "Alcohol discussion in primary care",
+    "stem": "A client says they drink 'socially' and asks whether that affects health. What should the nurse clarify first?",
+    "type": "single",
+    "options": [
+      "Preferred beverage brand",
+      "Whether friends drink more",
+      "Whether alcohol use is socially accepted",
+      "Amount, frequency, occasions and relevant health concerns"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Brand alone does not quantify exposure or risk.",
+      "Peer consumption does not establish the client's health impact.",
+      "Social acceptability does not describe clinical risk.",
+      "Specific patterns and context support an individualized discussion."
+    ],
+    "takeaway": "Clarify alcohol quantity and pattern rather than relying on social labels.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Alcohol health promotion",
+    "learningObjective": "Clarify alcohol quantity and pattern rather than relying on social labels.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-095",
+    "cat": "health",
+    "title": "Preventive care with limited transportation",
+    "stem": "Which approaches may improve preventive-care access for a rural client? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Coordinate appropriate services during the same trip",
+      "Explore available transport assistance",
+      "Replace every examination with a phone call",
+      "Assume missed visits mean screening is unwanted"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "why": [
+      "Coordinated visits can reduce travel burden when clinically feasible.",
+      "Practical transport support addresses an identified access barrier.",
+      "Some assessments require in-person examination or testing.",
+      "Access problems do not establish the client's preferences."
+    ],
+    "takeaway": "Organize preventive care around real transportation constraints.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Preventive-care access",
+    "learningObjective": "Organize preventive care around real transportation constraints.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-096",
+    "cat": "health",
+    "title": "Menopause symptom discussion",
+    "stem": "A client experiencing bothersome hot flashes wants advice but is concerned about medication risks. What is the best initial approach?",
+    "type": "single",
+    "options": [
+      "Recommend one treatment for every menopausal client",
+      "Assess symptom impact, history and preferences before reviewing options",
+      "Recommend hormones before reviewing contraindications",
+      "Focus only on laboratory confirmation before discussing coping"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Treatment should reflect symptoms and individual risks.",
+      "Assessment supports an informed discussion of suitable options.",
+      "Hormonal treatment requires individualized clinical review.",
+      "Practical support need not wait for routine laboratory confirmation."
+    ],
+    "takeaway": "Individualize menopause counselling to symptom burden and clinical history.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Midlife health",
+    "learningObjective": "Individualize menopause counselling to symptom burden and clinical history.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-097",
+    "cat": "health",
+    "title": "Postmenopausal bleeding",
+    "stem": "A client who has had no periods for two years reports new vaginal spotting and asks if it can wait until a routine visit months away. What should the nurse advise?",
+    "type": "single",
+    "options": [
+      "Track it until it becomes heavy",
+      "Treat it as an expected menopause symptom",
+      "Arrange timely clinical assessment even if bleeding is light",
+      "Increase dietary iron before deciding on follow-up"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Light bleeding still warrants evaluation after menopause.",
+      "New postmenopausal bleeding should not be presumed normal.",
+      "Assessment can identify the cause and appropriate follow-up.",
+      "Iron intake does not establish why bleeding occurred."
+    ],
+    "takeaway": "Arrange assessment for new postmenopausal bleeding.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Midlife screening",
+    "learningObjective": "Arrange assessment for new postmenopausal bleeding.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-098",
+    "cat": "health",
+    "title": "Bone-health prevention",
+    "stem": "A sedentary adult with a family history of osteoporosis asks what they can change. Which plan is most appropriate?",
+    "type": "single",
+    "options": [
+      "Review suitable weight-bearing and strengthening activity, nutrition and risk assessment",
+      "Begin high-impact exercise without assessing fracture risk",
+      "Focus exclusively on calcium supplements",
+      "Avoid all activity to prevent a possible fracture"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Bone health requires a tailored combination of activity, nutrition and risk review.",
+      "Unassessed impact activity may be unsuitable for some clients.",
+      "Supplements alone do not address activity, falls or overall risk.",
+      "Inactivity can worsen strength and functional protection."
+    ],
+    "takeaway": "Combine individualized activity, nutrition and risk review for bone health.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Bone health",
+    "learningObjective": "Combine individualized activity, nutrition and risk review for bone health.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-099",
+    "cat": "health",
+    "title": "A height-loss report",
+    "stem": "An older adult reports becoming shorter and has new mid-back discomfort without a major injury. What should the nurse recommend?",
+    "type": "single",
+    "options": [
+      "Reassure that every height change is expected aging",
+      "Stretch vigorously before considering assessment",
+      "Wait until a fall occurs to evaluate bone health",
+      "Arrange assessment for a possible vertebral fracture or other cause"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "New pain with height loss may indicate more than expected aging.",
+      "Unassessed vigorous movement may aggravate an injury.",
+      "Fractures can occur without a reported major fall.",
+      "The combined changes justify clinical evaluation."
+    ],
+    "takeaway": "Assess height loss accompanied by new back pain.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Bone-health assessment",
+    "learningObjective": "Assess height loss accompanied by new back pain.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-100",
+    "cat": "health",
+    "title": "Vision and healthy aging",
+    "stem": "Which reported changes require evaluation rather than attribution to normal aging? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "New difficulty reading medication labels despite usual glasses",
+      "Gradual glare that limits night driving",
+      "Preference for brighter reading light without functional difficulty",
+      "Use of reading glasses prescribed at a recent examination"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "why": [
+      "A new functional barrier may compromise medication safety.",
+      "Driving-limiting glare warrants assessment of vision and safety.",
+      "Lighting preference alone is less concerning without impairment.",
+      "Appropriate prescribed correction is not itself a warning finding."
+    ],
+    "takeaway": "Evaluate visual changes that impair important daily activities.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Healthy aging sensory care",
+    "learningObjective": "Evaluate visual changes that impair important daily activities.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-101",
+    "cat": "health",
+    "title": "Hearing-related social withdrawal",
+    "stem": "An older adult stops attending a discussion group because conversation is difficult in background noise. What is the best response?",
+    "type": "single",
+    "options": [
+      "Assume the client no longer enjoys social contact",
+      "Arrange hearing review and explore a quieter participation setting",
+      "Encourage lip-reading without discussing assessment",
+      "Replace all social interaction with written messages"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Withdrawal may reflect a remediable communication barrier.",
+      "Hearing assessment and environmental changes may restore participation.",
+      "Lip-reading alone may not meet the client's needs.",
+      "A single communication mode unnecessarily narrows social options."
+    ],
+    "takeaway": "Address hearing barriers that reduce social participation.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Healthy aging participation",
+    "learningObjective": "Address hearing barriers that reduce social participation.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-102",
+    "cat": "health",
+    "title": "Urinary urgency and community activity",
+    "stem": "An older adult avoids outings because of urinary urgency but has not discussed it with a clinician. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Recommend accepting it as unavoidable aging",
+      "Suggest avoiding fluids before every outing",
+      "Encourage assessment and individualized continence strategies",
+      "Advise staying near home permanently"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Urgency may have treatable contributors and warrants assessment.",
+      "Broad restriction can create dehydration without resolving the cause.",
+      "Evaluation can support continence and valued activities.",
+      "Avoidance reduces participation without addressing the problem."
+    ],
+    "takeaway": "Promote assessment of continence concerns that limit daily life.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Healthy aging continence",
+    "learningObjective": "Promote assessment of continence concerns that limit daily life.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-103",
+    "cat": "health",
+    "title": "Unintended weight loss in later life",
+    "stem": "An older adult living alone has loose clothing and reduced food intake since their partner died. What is the best initial nursing action?",
+    "type": "single",
+    "options": [
+      "Assess weight change, intake, oral function, mood and access to food",
+      "Offer only a generic low-fat diet sheet",
+      "Attribute the change solely to age",
+      "Recommend an appetite supplement without assessment"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Multiple interacting causes may contribute and require targeted support.",
+      "Restrictive generic advice does not address reduced intake.",
+      "Unintended loss should not automatically be normalized as aging.",
+      "Unassessed supplementation may miss a treatable cause."
+    ],
+    "takeaway": "Assess physical and social contributors to unintended weight loss.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Older-adult nutrition",
+    "learningObjective": "Assess physical and social contributors to unintended weight loss.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-104",
+    "cat": "health",
+    "title": "Driving and functional change",
+    "stem": "An older adult reports recent near misses and difficulty judging distances when driving. What should the nurse recommend?",
+    "type": "single",
+    "options": [
+      "Continue driving because no collision has occurred",
+      "Rely on age alone to decide fitness",
+      "Restrict driving only when family members insist",
+      "Arrange prompt assessment and discuss interim transport and safety plans"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Near misses may indicate meaningful risk before a collision occurs.",
+      "Functional ability, not age alone, guides assessment.",
+      "Family concern is useful but not required to act on symptoms.",
+      "Assessment and practical alternatives address safety and independence together."
+    ],
+    "takeaway": "Respond to driving-related functional changes with assessment and transport planning.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Healthy aging function",
+    "learningObjective": "Respond to driving-related functional changes with assessment and transport planning.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-105",
+    "cat": "health",
+    "title": "Maintaining independence at home",
+    "stem": "Which assessments help tailor health-promotion support for an older adult living alone? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Ability to obtain and prepare food",
+      "Ability to manage appointments and medications",
+      "Chronological age as the sole measure of support need",
+      "Family preference without asking the client"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "why": [
+      "Food access and preparation affect nutrition and independence.",
+      "Complex daily tasks reveal practical support needs.",
+      "Age alone does not establish functional ability.",
+      "The client's goals and choices remain central to planning."
+    ],
+    "takeaway": "Assess everyday function rather than assuming needs from age.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Healthy aging assessment",
+    "learningObjective": "Assess everyday function rather than assuming needs from age.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-106",
+    "cat": "health",
+    "title": "Social connection after retirement",
+    "stem": "A recently retired client feels isolated and wants more contact but dislikes large groups. Which suggestion best fits the goal?",
+    "type": "single",
+    "options": [
+      "Enrol in the largest available senior club",
+      "Explore a small regular activity linked to an existing interest",
+      "Explain that retirement requires accepting loneliness",
+      "Arrange several unfamiliar activities without asking preferences"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Group size may reproduce the barrier the client describes.",
+      "A preferred manageable activity supports feasible sustained connection.",
+      "Loneliness can be addressed rather than presumed inevitable.",
+      "Imposed unfamiliar activities may not support engagement."
+    ],
+    "takeaway": "Match social-connection opportunities to the client's interests and comfort.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Healthy aging connection",
+    "learningObjective": "Match social-connection opportunities to the client's interests and comfort.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-107",
+    "cat": "health",
+    "title": "Discussing sexuality in later life",
+    "stem": "An older adult asks about sexual activity after beginning a new relationship. What approach best supports health promotion?",
+    "type": "single",
+    "options": [
+      "Discuss only urinary symptoms",
+      "Assume infection prevention is unnecessary after menopause",
+      "Offer private, respectful assessment of sexual goals and prevention needs",
+      "Ask the adult's children to identify appropriate advice"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Urinary symptoms do not cover sexual-health needs.",
+      "Infection exposure remains possible regardless of fertility.",
+      "Individual assessment avoids assumptions and supports relevant counselling.",
+      "The capable adult's privacy and preferences guide the discussion."
+    ],
+    "takeaway": "Include sexual health in older-adult assessment without age-based assumptions.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Older-adult sexual health",
+    "learningObjective": "Include sexual health in older-adult assessment without age-based assumptions.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-108",
+    "cat": "health",
+    "title": "Advance-care conversations",
+    "stem": "A healthy older adult asks when to tell family what matters if serious illness occurs. What should the nurse suggest?",
+    "type": "single",
+    "options": [
+      "Begin values-based discussions while the client can participate fully",
+      "Wait until an emergency determines the available choices",
+      "Ask family to select preferences independently",
+      "Focus only on completing a form without discussion"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Early discussion helps others understand values before a crisis.",
+      "Emergencies may reduce time and ability for considered conversation.",
+      "The client's values should guide planning.",
+      "Forms alone may not communicate the meaning behind choices."
+    ],
+    "takeaway": "Encourage early discussion of values for future health decisions.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Healthy aging planning",
+    "learningObjective": "Encourage early discussion of values for future health decisions.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-109",
+    "cat": "health",
+    "title": "Caregiver health maintenance",
+    "stem": "A caregiver misses their own appointments because the care recipient cannot stay alone. What is the best nursing response?",
+    "type": "single",
+    "options": [
+      "Remind them more firmly that appointments matter",
+      "Suggest permanently stopping all caregiving tasks",
+      "Provide another screening brochure only",
+      "Explore respite or replacement support for appointment times"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "The caregiver already identifies a practical rather than informational barrier.",
+      "A complete role change is not the necessary first response.",
+      "A brochure does not provide supervision for the care recipient.",
+      "Targeted replacement support can enable the caregiver's own preventive care."
+    ],
+    "takeaway": "Address caregiving barriers to the caregiver's health maintenance.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Caregiver health",
+    "learningObjective": "Address caregiving barriers to the caregiver's health maintenance.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-110",
+    "cat": "health",
+    "title": "Evaluating a community walking program",
+    "stem": "Which outcomes best indicate that a new accessible walking group is meeting its health-promotion goal? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Participants attend regularly and report manageable exertion",
+      "Participants sustain agreed activity goals over time",
+      "The program printed many flyers",
+      "Staff purchased identical footwear for every participant"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "why": [
+      "Participation with tolerable effort supports feasibility of the program.",
+      "Sustained behaviour is more informative than one-time interest.",
+      "Distribution volume measures promotion activity rather than participant outcomes.",
+      "Uniform equipment purchase does not establish participation or benefit."
+    ],
+    "takeaway": "Evaluate health-promotion programs using meaningful participation and behaviour outcomes.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Community program evaluation",
+    "learningObjective": "Evaluate health-promotion programs using meaningful participation and behaviour outcomes.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  }
+]

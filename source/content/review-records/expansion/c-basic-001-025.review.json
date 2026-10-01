@@ -1,0 +1,289 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T16:48:19.309010+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/basic-001-025.json",
+  "sourceSha256": "78ef9500f62c989db25c10587a917be86c43f11cf2e9350d95aed00bbc205274",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-basic-001",
+      "x-basic-002",
+      "x-basic-003",
+      "x-basic-004",
+      "x-basic-005",
+      "x-basic-006",
+      "x-basic-007",
+      "x-basic-008",
+      "x-basic-009",
+      "x-basic-010",
+      "x-basic-011",
+      "x-basic-012",
+      "x-basic-013",
+      "x-basic-014",
+      "x-basic-015",
+      "x-basic-016",
+      "x-basic-017",
+      "x-basic-018",
+      "x-basic-019",
+      "x-basic-020",
+      "x-basic-021",
+      "x-basic-022",
+      "x-basic-023",
+      "x-basic-024",
+      "x-basic-025"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://myhealth.alberta.ca/Health/pages/conditions.aspx?Hwid=custom.ab_physio_crutches_inst",
+      "authority": "Alberta Health Services",
+      "supports": [
+        "x-basic-003: weight through hands and clearance below axilla",
+        "x-basic-010: transfers follow ordered weight bearing"
+      ],
+      "scope": "Targeted claim support; not validation of whole item."
+    },
+    {
+      "url": "https://www.strokebestpractices.ca/-/media/1-stroke-best-practices/tacls-qrg/tacls-qrg-shoulder-care-final.pdf?rev=bab09e7849924538838c71772098e9a9",
+      "authority": "Canadian Stroke Best Practices",
+      "supports": [
+        "x-basic-005: protect and support affected arm during repositioning and transfers"
+      ],
+      "scope": "Targeted claim support; not validation of whole item."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-basic-001",
+      "status": "pass",
+      "assessment": "Contralateral cane support is the defensible key; the painful left knee provides side-specific context. Foundation level is appropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "89290c53aa1ebd84912062c1fde2e612300cceb1d7858e019457995c20088f30"
+    },
+    {
+      "id": "x-basic-002",
+      "status": "pass",
+      "assessment": "Observed walker tipping supports pushing from armrests; competing stabilization, momentum and reach errors have contextual rationales.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d76d7fccb21ade6eaf3dfe3a31d9658f0d42c8328e8d24529f5b6eae67dc6cde"
+    },
+    {
+      "id": "x-basic-003",
+      "status": "pass",
+      "assessment": "Observed pad loading makes axillary compression more likely; handgrip support directly addresses the cue. Fit and symptom reassessment remain sensible follow-up, not competing listed keys.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ec35bb836363d3ccb7a722eb76bcfa655e0b8695f2f2f09ba5772b66199a8fc8"
+    },
+    {
+      "id": "x-basic-004",
+      "status": "pass",
+      "assessment": "Locked brakes and feet still on footplates isolate the necessary next preparation; other actions do not establish safe floor contact.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7ae99a90a2e4d438d41113455578da809afedbe3cbc92fa52d36a6dd115eff2b"
+    },
+    {
+      "id": "x-basic-005",
+      "status": "pass",
+      "assessment": "The flaccid limb and movement-related discomfort support avoiding traction through limb support; analgesia does not correct mechanics.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8ace9a28a0445b7fde103c33fca189f208cdd2a4cdfeee9ab6936830a90fe782"
+    },
+    {
+      "id": "x-basic-006",
+      "status": "revise",
+      "assessment": "Key is defensible, but stopping all arm movement indefinitely is an implausibly absolute distractor, weakening the choice among range adjustments.",
+      "issues": [
+        "Key is defensible, but stopping all arm movement indefinitely is an implausibly absolute distractor, weakening the choice among range adjustments."
+      ],
+      "proposedChanges": [
+        "Replace option 1 with: Repeat the movement after the next analgesic dose without changing the endpoint. Explain that pain relief alone does not make the previously painful range appropriate."
+      ],
+      "reviewedItemSha256": "14d65af63629aab7ca9d4be764261cff511d657dd92b4277685c48371abb4955"
+    },
+    {
+      "id": "x-basic-007",
+      "status": "pass",
+      "assessment": "Asymmetric ability supports active practice on the capable side and individualized assistance on the other; passive symmetry is a credible learner error.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "720db4415c0433054b5fee2a85ab1155bf114b5dd2dd4a98d6306f46731b51e3"
+    },
+    {
+      "id": "x-basic-008",
+      "status": "pass",
+      "assessment": "Multiple-response key captures timing and alignment; shoulder-first rotation and staffing based solely on body weight are distinct believable errors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "537148f83e7beb7c50940dd1fbcdb33458efe9b8cd10516ef33dd0b0be6ad035"
+    },
+    {
+      "id": "x-basic-009",
+      "status": "pass",
+      "assessment": "Stable performance at 20 metres and exhaustion at 30 discriminate graded practice from overexertion or complete substitution.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f2368c53829352a17422e94f7640dbae04df72d5ed158b39af55570bc1ca1045"
+    },
+    {
+      "id": "x-basic-010",
+      "status": "pass",
+      "assessment": "Explicit non-weight-bearing restriction makes even brief loading incorrect; other observations support the plan. Appropriate foundational discrimination.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e8e3272a04c2e596afac8c501845bd291fc84f7f3577a21283e1843dcba09949"
+    },
+    {
+      "id": "x-basic-011",
+      "status": "pass",
+      "assessment": "Sliding pelvis with unsupported feet calls for seating fit review; cushion and exposure-only responses fail to address observed alignment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0b535e5823878b1976b05a5bfded8682e0854f4db46471e6f3b2ea5fc2f9237f"
+    },
+    {
+      "id": "x-basic-012",
+      "status": "pass",
+      "assessment": "Safe bridging and stated functional goal support cueing and participation; staff-only movement would fail to practise retained ability.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5b3a741261583b5fef78edff8d866a6809b35c0f9aec5502f0195f4c44305936"
+    },
+    {
+      "id": "x-basic-013",
+      "status": "pass",
+      "assessment": "Prescribed movement plus neutral positioning targets ankle shortening; knee-only support and reliance on mattress omit the observed problem.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "71a0adc01d2657ed0a81667935636e8e8326c28242fdcade78f8e73794e4d51c"
+    },
+    {
+      "id": "x-basic-014",
+      "status": "pass",
+      "assessment": "Uses individualized prescribed flexion limit without asserting universal hip precautions; low cushioned chair specifically creates flexion risk.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "020439ee2407c8053e817f6eb54054d514393154896a56280dfbf5793dcc6cc7"
+    },
+    {
+      "id": "x-basic-015",
+      "status": "pass",
+      "assessment": "Fresh painful incision under belt and nonurgent transfer support alternative assessment; padding and analgesia do not resolve mechanical stress.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "51afc90a9c32b10738aed889cd7c2e8174d9e8571a7917ae18fbcd8dc072f7b2"
+    },
+    {
+      "id": "x-basic-016",
+      "status": "pass",
+      "assessment": "Seated reachable grooming preserves the client goal and responds to standing-associated breathlessness in stable disease.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f7c0867d1a2027457ab499ab6ceeed3be74b7c014a3ce5cd78c9288aceb61e1c"
+    },
+    {
+      "id": "x-basic-017",
+      "status": "revise",
+      "assessment": "Weaker-arm-first key is sound, but finishing faster and waiting for strength to return are weak distractors for a technique question.",
+      "issues": [
+        "Weaker-arm-first key is sound, but finishing faster and waiting for strength to return are weak distractors for a technique question."
+      ],
+      "proposedChanges": [
+        "Replace option 0 with: Start with the stronger arm and pull the shirt over the weak elbow. Replace option 2 with: Place the shirt over the head before inserting either arm. Explain how these sequences restrict access or available fabric for the weak limb."
+      ],
+      "reviewedItemSha256": "37f41d48eb47116e27d6bc5de44f0faaaf631c7b70cf34e4a46a6a5a42826493"
+    },
+    {
+      "id": "x-basic-018",
+      "status": "revise",
+      "assessment": "Stronger-arm-first key is sound. Tight sleeves for easier gripping is an implausible adaptive-care recommendation.",
+      "issues": [
+        "Stronger-arm-first key is sound. Tight sleeves for easier gripping is an implausible adaptive-care recommendation."
+      ],
+      "proposedChanges": [
+        "Replace option 1 with: Pull the shirt over the head before freeing either arm. Explain that freeing the stronger arm first provides assistance and more fabric movement around the weak limb."
+      ],
+      "reviewedItemSha256": "e80f8c5dfeb1683606f7153addb4a6541f32fb3a7394aeac455d7d2547b0ae2e"
+    },
+    {
+      "id": "x-basic-019",
+      "status": "pass",
+      "assessment": "Temporary bending restriction and prescribed reacher make supervised device practice a defensible rehabilitation intervention.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a544379ebd140d43339b3ae69adc15d0f11301406b949a39447e8205bc5723f1"
+    },
+    {
+      "id": "x-basic-020",
+      "status": "revise",
+      "assessment": "Assessment key is sound but permanently moving all activity to bed is cartoonishly restrictive and easily rejected.",
+      "issues": [
+        "Assessment key is sound but permanently moving all activity to bed is cartoonishly restrictive and easily rejected."
+      ],
+      "proposedChanges": [
+        "Replace option 3 with: Continue the same walker and have a helper lift its front legs at the carpet edge. Explain that ad hoc assistance does not first establish route or device suitability."
+      ],
+      "reviewedItemSha256": "5605edf6637302e5518d835e193fbb84aca498415ff76756f99068b59fcaeb1c"
+    },
+    {
+      "id": "x-basic-021",
+      "status": "pass",
+      "assessment": "Schedule and skin inspection are appropriate independent actions; catch-up wear and padding a tight fitted device are credible mistakes.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e8db103bf5e6b7bad1e8a13f1450fc9334d8038739a7fbe5e689467dafdc8727"
+    },
+    {
+      "id": "x-basic-022",
+      "status": "pass",
+      "assessment": "Tubing slack and unobstructed path directly reduce turn-related traction; emptying containers is an appealing but incomplete safeguard.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "af50b10b6152f92a1c32340f374dbebdcdddfe6bf97abfde9f27471c12b00a8c"
+    },
+    {
+      "id": "x-basic-023",
+      "status": "pass",
+      "assessment": "Knee rubbing and hip discomfort discriminate limb support from head-only adjustments; context excludes positioning restrictions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "69409b1945eb3f192d7f9e17c5a64d94f5c731021ad80763ff944f7971ce75e6"
+    },
+    {
+      "id": "x-basic-024",
+      "status": "pass",
+      "assessment": "Measured helper requirement matches the stated functional goal more directly than process compliance, range or bed sitting.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "00d0f62408dbc42c424b661adad8ab210d9f375fcea9bcf6fa4079d6106c4c06"
+    },
+    {
+      "id": "x-basic-025",
+      "status": "revise",
+      "assessment": "Postural symptom/BP assessment is defensible after safe recline. Brand of preadmission footwear is irrelevant filler.",
+      "issues": [
+        "Postural symptom/BP assessment is defensible after safe recline. Brand of preadmission footwear is irrelevant filler."
+      ],
+      "proposedChanges": [
+        "Replace option 2 with: The number of ankle exercises completed that morning. Explain that exercise completion does not establish current cardiovascular tolerance of upright positioning."
+      ],
+      "reviewedItemSha256": "ba826a41c4cc17b24a8cf3e1af1091c8e690834e533add65b1550904441255e7"
+    }
+  ],
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

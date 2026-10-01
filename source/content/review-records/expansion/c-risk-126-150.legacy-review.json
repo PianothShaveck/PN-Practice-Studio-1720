@@ -1,0 +1,644 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:30:26.520320+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/risk-126-150.json",
+  "sourceSha256": "b79fb1da916a111a5c04ed7d3b05a0a815e2ccd9ef15dd6835d3cd52ccfc8b61",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-risk-126",
+      "x-risk-127",
+      "x-risk-128",
+      "x-risk-129",
+      "x-risk-130",
+      "x-risk-131",
+      "x-risk-132",
+      "x-risk-133",
+      "x-risk-134",
+      "x-risk-135",
+      "x-risk-136",
+      "x-risk-137",
+      "x-risk-138",
+      "x-risk-139",
+      "x-risk-140",
+      "x-risk-141",
+      "x-risk-142",
+      "x-risk-143",
+      "x-risk-144",
+      "x-risk-145",
+      "x-risk-146",
+      "x-risk-147",
+      "x-risk-148",
+      "x-risk-149",
+      "x-risk-150"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.nice.org.uk/guidance/cg32/chapter/Recommendations",
+      "checked": true,
+      "ids": [
+        "x-risk-140",
+        "x-risk-141"
+      ],
+      "note": "Primary NICE recommendation text retrieved in search: monitor fluid/clinical status and potassium, magnesium, phosphate in high-risk refeeding. No rate or replacement regimen is prescribed in these items."
+    },
+    {
+      "url": "https://www.uclh.nhs.uk/patients-and-visitors/patient-information-pages/thyroid-surgery",
+      "checked": true,
+      "ids": [
+        "x-risk-128",
+        "x-risk-147"
+      ],
+      "note": "Primary provider guidance retrieved: low calcium can cause perioral tingling/muscle cramps and increasing neck swelling warrants urgent advice."
+    },
+    {
+      "url": "https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/leaving-hospital-nephrostomy-tube-ghpi1611/",
+      "checked": true,
+      "ids": [
+        "x-risk-134",
+        "x-risk-135"
+      ],
+      "note": "Primary nephrostomy guidance retrieved: stopped drainage and tube displacement require urgent advice; this supports prompt review, not independent reinsertion."
+    },
+    {
+      "url": "https://www.nice.org.uk/guidance/ng77/chapter/recommendations",
+      "checked": true,
+      "ids": [
+        "x-risk-126"
+      ],
+      "note": "Primary guidance retrieved: postoperative complication warnings and prompt access to ophthalmology. Exact severe-pain/vision-loss triage wording was not separately retrieved from this page."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-risk-126",
+      "status": "revise",
+      "assessment": "Severe pain/reduced vision after cataract surgery needs urgent ophthalmic review. Any-available-drops distractor is implausible and wound-healing reference is insufficient.",
+      "issues": [
+        "Severe pain/reduced vision after cataract surgery needs urgent ophthalmic review. Any-available-drops distractor is implausible and wound-healing reference is insufficient."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Treat it as expected mild scratchiness",
+            "Use the prescribed postoperative drops and wait to see whether the next dose relieves the symptoms",
+            "Seek urgent ophthalmic assessment",
+            "Use the next routine follow-up to discuss it"
+          ],
+          "why": [
+            "The described severity and visual change exceed minor irritation.",
+            "Routine prescribed drops do not replace urgent assessment of severe new pain with reduced vision.",
+            "Severe pain and visual loss can indicate a significant complication.",
+            "Waiting may delay treatment of a vision-threatening problem."
+          ]
+        },
+        "Add an appropriate procedure-specific primary reference and actual access note; c-postoperative is a general wound-healing chapter and does not substantiate this specific complication or response."
+      ],
+      "reviewedItemSha256": "3449d6e140fb2c6b85884fd1b5e99e2825225993704ad7e0d91f79efec873e57"
+    },
+    {
+      "id": "x-risk-127",
+      "status": "revise",
+      "assessment": "Stop/support/help is appropriate for possible prosthetic dislocation, but early-walking distractor is weak and requires hip-specific support.",
+      "issues": [
+        "Stop/support/help is appropriate for possible prosthetic dislocation, but early-walking distractor is weak and requires hip-specific support."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Give the prescribed analgesic and retry the transfer once pain decreases",
+            "Stop movement, support the limb, and obtain urgent help",
+            "Complete the transfer to see whether pain settles",
+            "Ask the client to actively rotate the leg"
+          ],
+          "why": [
+            "Symptom relief does not establish that the suddenly painful displaced joint is safe to move.",
+            "A dislocation or other injury must be assessed before further movement.",
+            "Further movement can worsen a suspected mechanical complication.",
+            "Rotation may aggravate an injured prosthetic joint."
+          ]
+        },
+        "Add an appropriate procedure-specific primary reference and actual access note; c-postoperative is a general wound-healing chapter and does not substantiate this specific complication or response."
+      ],
+      "reviewedItemSha256": "542e70c536a06f025b2eacc01e0659e6497d1190f95d5d1365415b0f1a4e6939"
+    },
+    {
+      "id": "x-risk-128",
+      "status": "revise",
+      "assessment": "Hypocalcaemia cue is useful, but calorie content is unrelated and only-options cue the key. Use parallel post-thyroid assessments.",
+      "issues": [
+        "Hypocalcaemia cue is useful, but calorie content is unrelated and only-options cue the key. Use parallel post-thyroid assessments."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Neuromuscular findings and ordered calcium results",
+            "Swallowing comfort and the amount eaten at the last meal",
+            "Incision appearance and the amount of surface drainage",
+            "Incisional pain score and response to the last analgesic"
+          ],
+          "why": [
+            "The pattern can indicate postoperative hypocalcaemia.",
+            "These do not directly assess the neuromuscular pattern suggesting low calcium.",
+            "A normal incision does not exclude a postoperative electrolyte complication.",
+            "Analgesic response does not explain the new perioral tingling and hand cramps."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "aaa7bc216f012862223633c7d6cdeb859b67636a87e65460de1238b9816b28eb"
+    },
+    {
+      "id": "x-risk-129",
+      "status": "revise",
+      "assessment": "Fresh postoperative oral blood is an urgent warning; red treat and waiting for vomiting are cartoon distractors.",
+      "issues": [
+        "Fresh postoperative oral blood is an urgent warning; red treat and waiting for vomiting are cartoon distractors."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Offer cold fluids and reassess after the child finishes drinking",
+            "Encourage forceful throat clearing",
+            "Record the blood as expected irritation because the child is not vomiting",
+            "Promptly assess and activate the bleeding response"
+          ],
+          "why": [
+            "Active bleeding requires prompt assessment and the bleeding response, rather than oral intake as the initial plan.",
+            "Mechanical irritation may worsen bleeding.",
+            "Fresh blood with repeated swallowing warrants prompt action even without vomiting.",
+            "Swallowed blood can hide ongoing operative-site bleeding."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "ac86e828a84270f55ca8374ff2a6243476329e205c04f2cd9b046578e46e98fa"
+    },
+    {
+      "id": "x-risk-130",
+      "status": "revise",
+      "assessment": "New pulse loss/cooling after vascular surgery requires urgent assessment; add vascular source and replace dressing-schedule delay.",
+      "issues": [
+        "New pulse loss/cooling after vascular surgery requires urgent assessment; add vascular source and replace dressing-schedule delay."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Apply heat before assessing further",
+            "Repeat the pulse check after a period of rest before contacting the team",
+            "Urgently escalate the change in distal perfusion",
+            "Document it as normal because surgery causes swelling"
+          ],
+          "why": [
+            "Heating may injure poorly perfused tissue and delay review.",
+            "Verification can occur immediately while escalating; new postoperative perfusion loss should not await a rest period.",
+            "A new loss compared with baseline may indicate compromised blood flow.",
+            "Swelling does not justify ignoring new perfusion loss."
+          ]
+        },
+        "Add an appropriate procedure-specific primary reference and actual access note; c-postoperative is a general wound-healing chapter and does not substantiate this specific complication or response."
+      ],
+      "reviewedItemSha256": "339e0d3e05426d8db5e75abe1d238c9926e0ee362a073115b8d9eb9c1f53f9a4"
+    },
+    {
+      "id": "x-risk-131",
+      "status": "pass",
+      "assessment": "Loss of a previously felt fistula thrill warrants prompt dialysis-team assessment. Compression, massage and routine-delay alternatives are relevant access-care misconceptions; no invasive action is prescribed.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "559dd16325b9621bca166b60edab89bb7c9a6e58f2e70348389fa35eff6b2d6c"
+    },
+    {
+      "id": "x-risk-132",
+      "status": "pass",
+      "assessment": "Avoiding routine compression/access and monitoring thrill/local condition protect a mature fistula. SATA is foundation-level but clinically coherent and procedure-specific reference is appropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0ae6dd0dcfae74f9c85bdd5919e9f646c098eab98e73931782c0e57913a29de1"
+    },
+    {
+      "id": "x-risk-133",
+      "status": "pass",
+      "assessment": "Assist safe positioning immediately, then assess pressure/symptoms after dialysis. The question permits prompt safety action rather than imposing assessment before fall prevention; unrestricted fluids are not assumed appropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c688208745c4c8f233cb8c7d1b0044b8c6e2805f7286886786279c21de569e54"
+    },
+    {
+      "id": "x-risk-134",
+      "status": "revise",
+      "assessment": "Visible kink is a correctable cause and should be relieved/reassessed. Tube removal is extreme, and nephrostomy-specific reference needed.",
+      "issues": [
+        "Visible kink is a correctable cause and should be relieved/reassessed. Tube removal is extreme, and nephrostomy-specific reference needed."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Request a replacement tube before correcting the external kink",
+            "Increase oral fluids before checking tubing",
+            "Relieve the visible kink and reassess promptly",
+            "Flush forcibly without checking the order or protocol"
+          ],
+          "why": [
+            "A visible external obstruction can be corrected promptly before deciding a replacement is necessary.",
+            "Extra intake does not resolve the visible obstruction.",
+            "A mechanical obstruction may explain the change.",
+            "High pressure can injure the collecting system."
+          ]
+        },
+        "Add an appropriate procedure-specific primary reference and actual access note; c-postoperative is a general wound-healing chapter and does not substantiate this specific complication or response."
+      ],
+      "reviewedItemSha256": "35c187dce57aa84075cb22ed0e613d65497f65adced34881e497951e13a1ef4c"
+    },
+    {
+      "id": "x-risk-135",
+      "status": "revise",
+      "assessment": "Partial displacement requires securement and urgent team review; avoid independent advancement. Add nephrostomy-specific support and replace scheduled-exchange delay.",
+      "issues": [
+        "Partial displacement requires securement and urgent team review; avoid independent advancement. Add nephrostomy-specific support and replace scheduled-exchange delay."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Apply a new dressing and recheck the external mark at the next observation",
+            "Secure it from further movement and contact the team urgently",
+            "Advance it back to the old marking independently",
+            "Resume drainage use without reporting because some urine flows"
+          ],
+          "why": [
+            "A new displacement needs prompt review; a dressing alone does not establish safe position.",
+            "Position and replacement require appropriate assessment.",
+            "Blind advancement may injure tissue or enter an incorrect path.",
+            "Partial flow does not establish correct position."
+          ]
+        },
+        "Add an appropriate procedure-specific primary reference and actual access note; c-postoperative is a general wound-healing chapter and does not substantiate this specific complication or response."
+      ],
+      "reviewedItemSha256": "5fcd02b3c5730a8cc12e617a993cc0f6330e23c9ca58763ea4d3a4ce8cfe84f3"
+    },
+    {
+      "id": "x-risk-136",
+      "status": "revise",
+      "assessment": "Colour change requires surgical assessment; next-week larger-pouch response is implausible.",
+      "issues": [
+        "Colour change requires surgical assessment; next-week larger-pouch response is implausible."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Promptly report the change for surgical assessment",
+            "Refit a larger pouch opening and reassess colour at the next scheduled pouch change",
+            "Clean repeatedly to restore normal colour",
+            "Assume every new stoma darkens during healing"
+          ],
+          "why": [
+            "A colour change can indicate compromised perfusion.",
+            "Assess fit as relevant, but do not defer surgical review of a new dusky stoma.",
+            "Perfusion-related colour change is not removed by cleansing.",
+            "A new dusky appearance requires evaluation."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "61676d00323519057355f583feb53aba7b92bcd6b03321dbd0eaa1bffea6a5c0"
+    },
+    {
+      "id": "x-risk-137",
+      "status": "revise",
+      "assessment": "Holding use/verifying migration is correct. The general poststroke dysphagia reference is not enough to establish tube-position verification practice; add a feeding-tube placement source.",
+      "issues": [
+        "Holding use/verifying migration is correct. The general poststroke dysphagia reference is not enough to establish tube-position verification practice; add a feeding-tube placement source."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Rely on the absence of coughing during a water flush",
+            "Advance it to the old mark without reassessment",
+            "Continue feeding at half rate",
+            "Hold use and verify position through the approved process"
+          ],
+          "why": [
+            "Tolerance of a flush does not prove correct position.",
+            "Returning the mark alone does not verify internal location.",
+            "A slower rate does not make uncertain placement safe.",
+            "A changed external length suggests possible migration."
+          ],
+          "stem": "A client’s nasogastric feeding-tube external length differs from the documented marking after coughing. What should the nurse do before using it?"
+        },
+        "Replace or supplement c-dysphagia with a primary tube-position confirmation source; specify nasogastric tube in the stem if that is the intended protocol."
+      ],
+      "reviewedItemSha256": "53fa8d0bf6296c84bccb6f55f9a48b3cec0f5de18c5a1d9b777f047b4f9fc965"
+    },
+    {
+      "id": "x-risk-138",
+      "status": "revise",
+      "assessment": "Auscultation alone cannot confirm gastric placement, but the stem does not name tube type and the reference is broad dysphagia. Specify nasogastric and add primary placement guidance.",
+      "issues": [
+        "Auscultation alone cannot confirm gastric placement, but the stem does not name tube type and the reference is broad dysphagia. Specify nasogastric and add primary placement guidance."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "External length should be documented after confirmation",
+            "Concerns during insertion should be communicated",
+            "A whoosh on air auscultation proves gastric placement",
+            "Position must be confirmed using the approved method"
+          ],
+          "why": [
+            "The baseline helps detect later migration.",
+            "Symptoms and insertion difficulties inform assessment.",
+            "Auscultation alone cannot reliably distinguish tube location.",
+            "Approved confirmation is needed before initial use."
+          ],
+          "stem": "A newly inserted nasogastric feeding tube awaits confirmation. Which statement should the nurse question?"
+        },
+        "Replace or supplement c-dysphagia with a primary nasogastric-tube placement confirmation source."
+      ],
+      "reviewedItemSha256": "9eaef5535f0ec00c7eecbfc9c1bad9b38def910e1dc125077477c52d538bcbf6"
+    },
+    {
+      "id": "x-risk-139",
+      "status": "revise",
+      "assessment": "Early tract displacement needs urgent expert direction; feeding directly through the opening is implausible. State a concrete early time rather than recently and improve distractor.",
+      "issues": [
+        "Early tract displacement needs urgent expert direction; feeding directly through the opening is implausible. State a concrete early time rather than recently and improve distractor."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Wait until the next scheduled feeding time",
+            "Stop tube use and obtain urgent specialist guidance",
+            "Replace it blindly with the same tube",
+            "Place a small catheter into the opening to preserve it before contacting the team"
+          ],
+          "why": [
+            "Prompt review matters for safe tract management.",
+            "A new tract may be immature and replacement requires expertise.",
+            "Blind reinsertion can create a false tract.",
+            "An immature tract requires urgent specialist guidance; blind insertion can create a false tract."
+          ],
+          "stem": "A gastrostomy tube inserted two days ago comes out during care. What should the nurse do?"
+        }
+      ],
+      "reviewedItemSha256": "41c5e2ee08dddbd6e355eae9a5c8eea87e12415a7738296eaee1fde95afe8164"
+    },
+    {
+      "id": "x-risk-140",
+      "status": "revise",
+      "assessment": "Electrolyte/fluid monitoring is correct and primary NICE supports it, but only-calorie/appetite choices cue the answer. Ask for metabolic/fluid safety and parallel observations.",
+      "issues": [
+        "Electrolyte/fluid monitoring is correct and primary NICE supports it, but only-calorie/appetite choices cue the answer. Ask for metabolic/fluid safety and parallel observations."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Phosphate, potassium, and magnesium trends",
+            "Fluid balance and signs of oedema",
+            "The percentage of the planned calories delivered",
+            "The number of meals the client reports enjoying"
+          ],
+          "why": [
+            "These electrolytes can shift as feeding resumes.",
+            "Fluid shifts can contribute to clinically important complications.",
+            "Delivery helps nutrition assessment but does not directly reveal electrolyte or fluid complications.",
+            "Preference is useful but does not show early metabolic tolerance."
+          ],
+          "stem": "A severely undernourished client begins prescribed nutrition support. Which ordered monitoring most directly detects early metabolic or fluid complications of refeeding? Select all that apply."
+        }
+      ],
+      "reviewedItemSha256": "5b11aee20c38e9bb7ee7063176e2e39809ef7e22e56101d6d0497745ac66b270"
+    },
+    {
+      "id": "x-risk-141",
+      "status": "revise",
+      "assessment": "Prompt team review is correct; exercise and wait-for-weight-gain are unrelated or excessive responses.",
+      "issues": [
+        "Prompt team review is correct; exercise and wait-for-weight-gain are unrelated or excessive responses."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Increase calories immediately because weakness means underfeeding",
+            "Attribute the weakness to deconditioning and continue the current feed progression",
+            "Request the next routine nutrition review after confirming that the prescribed volume was delivered",
+            "Promptly notify the team and review the feeding plan"
+          ],
+          "why": [
+            "More rapid feeding may worsen metabolic shifts.",
+            "The new low phosphate after refeeding needs assessment; deconditioning does not explain away the biochemical change.",
+            "Delivered volume does not establish metabolic tolerance; the symptomatic electrolyte fall needs prompt review.",
+            "The trend may represent refeeding-related electrolyte depletion."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "6bb7055d464cec76aacb3afebfc34aefaae5e1bef41a4e3a327aeac4c6404fa7"
+    },
+    {
+      "id": "x-risk-142",
+      "status": "revise",
+      "assessment": "Possible insertion-related pneumothorax is appropriate; dressing review and teaching are filler and wound reference does not substantiate central-line complications.",
+      "issues": [
+        "Possible insertion-related pneumothorax is appropriate; dressing review and teaching are filler and wound reference does not substantiate central-line complications."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Attribute symptoms to procedural discomfort alone",
+            "Wait for the planned confirmation image before responding to the breathlessness",
+            "Urgent assessment for an insertion-related complication",
+            "Give the prescribed analgesic and judge the need for escalation by pain relief"
+          ],
+          "why": [
+            "Pain does not explain the full unilateral respiratory pattern.",
+            "Imaging may be needed, but active respiratory change requires urgent clinical assessment while it is arranged.",
+            "The timing and unilateral findings suggest possible pneumothorax.",
+            "Analgesia does not resolve the new unilateral respiratory findings."
+          ]
+        },
+        "Add an appropriate procedure-specific primary reference and actual access note; c-postoperative is a general wound-healing chapter and does not substantiate this specific complication or response."
+      ],
+      "reviewedItemSha256": "2d96ffa627d0c062d1898a4c8c354b923e21e02b650d0e9613679a259d1724c7"
+    },
+    {
+      "id": "x-risk-143",
+      "status": "revise",
+      "assessment": "Urgent perfusion assessment/protocol is appropriate; radial access-site source needed beyond wound healing.",
+      "issues": [
+        "Urgent perfusion assessment/protocol is appropriate; radial access-site source needed beyond wound healing."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Cover the hand to warm it without further review",
+            "Urgently assess perfusion and follow the access-site protocol",
+            "Add compression because pain implies bleeding",
+            "Encourage repetitive hand exercise before assessment"
+          ],
+          "why": [
+            "Warming alone can hide progression and delays assessment.",
+            "The pattern suggests impaired distal circulation requiring directed adjustment.",
+            "More pressure may worsen compromised circulation.",
+            "Activity does not correct a possible arterial flow problem."
+          ]
+        },
+        "Add an appropriate procedure-specific primary reference and actual access note; c-postoperative is a general wound-healing chapter and does not substantiate this specific complication or response."
+      ],
+      "reviewedItemSha256": "dcc50c44b91c4e1e77905f179cc08e88428c8477f702e0215d4f8ba43e9a199c"
+    },
+    {
+      "id": "x-risk-144",
+      "status": "revise",
+      "assessment": "Expanding groin swelling with dizziness needs active bleeding response; bare-site option is implausible and arterial-access reference needed.",
+      "issues": [
+        "Expanding groin swelling with dizziness needs active bleeding response; bare-site option is implausible and arterial-access reference needed."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Activate the access-site bleeding response while assessing circulation",
+            "Encourage the client to walk to reduce stiffness",
+            "Measure and mark the swelling, then wait for the next routine set of observations",
+            "Record the swelling for the next routine round"
+          ],
+          "why": [
+            "The combination suggests clinically important bleeding.",
+            "Movement may worsen bleeding and dizziness increases fall risk.",
+            "Measurement is useful but must not delay haemostasis/escalation when the swelling is expanding with symptoms.",
+            "Expanding swelling and symptoms require immediate response."
+          ]
+        },
+        "Add an appropriate procedure-specific primary reference and actual access note; c-postoperative is a general wound-healing chapter and does not substantiate this specific complication or response."
+      ],
+      "reviewedItemSha256": "f6334c3725f3e17a758b18be381a05631f946c0afc8e8a1b7e964e4ff7a5ba5c"
+    },
+    {
+      "id": "x-risk-145",
+      "status": "revise",
+      "assessment": "Motor/sensory recovery plus actual mobility plan is the appropriate criterion after a block. Add regional-anaesthesia recovery support; wound-healing source is unrelated.",
+      "issues": [
+        "Motor/sensory recovery plus actual mobility plan is the appropriate criterion after a block. Add regional-anaesthesia recovery support; wound-healing source is unrelated."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Absence of pain alone",
+            "The client's usual preoperative walking ability",
+            "The scheduled time for first ambulation alone",
+            "Motor and sensory recovery plus the prescribed mobility plan"
+          ],
+          "why": [
+            "Analgesia does not establish strength or proprioception.",
+            "Previous function does not account for the current block.",
+            "Elapsed time cannot substitute for recovery assessment.",
+            "Residual block can impair safe weight bearing despite comfort."
+          ]
+        },
+        "Add an appropriate procedure-specific primary reference and actual access note; c-postoperative is a general wound-healing chapter and does not substantiate this specific complication or response."
+      ],
+      "reviewedItemSha256": "057618a07e19cd22bdba58658cb1e9639c1737ba7fa02ed8495e71d8b96e1a71"
+    },
+    {
+      "id": "x-risk-146",
+      "status": "revise",
+      "assessment": "Combined new bilateral motor/bladder deficit needs urgent assessment; laxative/constipation distractors are unrelated, and spine-specific support is needed.",
+      "issues": [
+        "Combined new bilateral motor/bladder deficit needs urgent assessment; laxative/constipation distractors are unrelated, and spine-specific support is needed."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Arrange routine bladder assessment first and reassess leg strength afterward",
+            "Wait until the next therapy assessment",
+            "Urgently escalate the combined neurological change",
+            "Attribute the weakness to postoperative pain and the voiding difficulty to bed rest"
+          ],
+          "why": [
+            "Bladder assessment should not postpone urgent escalation of the combined new neurological change.",
+            "Delay may miss a time-sensitive complication.",
+            "New motor and bladder findings may indicate serious neural compromise.",
+            "Those explanations cannot safely dismiss the new paired neurological findings."
+          ]
+        },
+        "Add an appropriate procedure-specific primary reference and actual access note; c-postoperative is a general wound-healing chapter and does not substantiate this specific complication or response."
+      ],
+      "reviewedItemSha256": "8c741a09d5914a608f3399c3d1ecd32cacd7ce31ee8b019b858551ca431d0d03"
+    },
+    {
+      "id": "x-risk-147",
+      "status": "revise",
+      "assessment": "Increasing neck swelling and inability to manage saliva are urgent findings; add neck/thyroid postoperative airway source rather than wound-healing-only support.",
+      "issues": [
+        "Increasing neck swelling and inability to manage saliva are urgent findings; add neck/thyroid postoperative airway source rather than wound-healing-only support."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "A dry intact dressing alone",
+            "Increasing neck swelling",
+            "New difficulty swallowing saliva",
+            "A stable mild sore throat without progression"
+          ],
+          "why": [
+            "An intact surface dressing does not indicate deterioration.",
+            "An expanding collection can threaten the airway.",
+            "This may indicate evolving swelling or airway risk.",
+            "Minor unchanged irritation is less concerning than new compromise."
+          ]
+        },
+        "Add an appropriate procedure-specific primary reference and actual access note; c-postoperative is a general wound-healing chapter and does not substantiate this specific complication or response."
+      ],
+      "reviewedItemSha256": "be79e018359b534112fff68c97efbec2c8235ef281de922b109438a5758681a5"
+    },
+    {
+      "id": "x-risk-148",
+      "status": "pass",
+      "assessment": "Stable leak alarm with stopped wound therapy calls for device-guided seal/tubing assessment. Raising pressure or prolonged interruption does not resolve the leak; prescribed device guidance appropriately controls specifics.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fecc24a4fbdc5be805f99ee087768bb53fee33343ddc5446682260ec142402f2"
+    },
+    {
+      "id": "x-risk-149",
+      "status": "pass",
+      "assessment": "Packing-count discrepancy must be resolved before repacking. Assuming removal, blind probing or documenting expected instead of observed count risks retained material; clear safety-focused wound-care application.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "555bbee264ae4878146e1a3186b9590600ccd508c6f2402b43a8329b8e091eb7"
+    },
+    {
+      "id": "x-risk-150",
+      "status": "revise",
+      "assessment": "Extent/time and systemic/drain findings are correct, but supplies and dressing-count only-options make SATA trivial. Use a symptom-focused handover with comparable lower-priority background.",
+      "issues": [
+        "Extent/time and systemic/drain findings are correct, but supplies and dressing-count only-options make SATA trivial. Use a symptom-focused handover with comparable lower-priority background."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "The date of the planned routine follow-up appointment",
+            "The type of dressing routinely used before symptoms began",
+            "The extent and timing of skin changes",
+            "Temperature, drainage changes, and systemic symptoms"
+          ],
+          "why": [
+            "This does not characterize the current febrile local change or determine whether earlier review is needed.",
+            "Dressing history may provide context, but the evolving clinical findings are more direct indicators of the current complication.",
+            "Progression helps evaluate a possible local infection.",
+            "These establish the wider clinical picture and urgency."
+          ],
+          "stem": "A home client with a surgical drain develops expanding insertion-site redness, fever, and new tenderness. Which information most directly describes the current clinical change for prompt review? Select all that apply."
+        }
+      ],
+      "reviewedItemSha256": "391e72b62e26d727f32d9981f7ec0df211da8ce2e0aa9a6f7e42082f99b33b99"
+    }
+  ],
+  "reviewerTask": "/root/review_legacy"
+}

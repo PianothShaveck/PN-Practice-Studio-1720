@@ -1,0 +1,272 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T18:09:52.458921+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/b-pharmacology-06-recheck.json",
+  "sourceSha256": "4b97125e8dea2c052ab436cf7a3e91e417bf09aaff889e84c488f6626e73f916",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-pharmacology-126",
+      "x-pharmacology-127",
+      "x-pharmacology-128",
+      "x-pharmacology-129",
+      "x-pharmacology-130",
+      "x-pharmacology-131",
+      "x-pharmacology-132",
+      "x-pharmacology-133",
+      "x-pharmacology-134",
+      "x-pharmacology-135",
+      "x-pharmacology-136",
+      "x-pharmacology-137",
+      "x-pharmacology-138",
+      "x-pharmacology-139",
+      "x-pharmacology-140",
+      "x-pharmacology-141",
+      "x-pharmacology-142",
+      "x-pharmacology-143",
+      "x-pharmacology-144",
+      "x-pharmacology-145",
+      "x-pharmacology-146",
+      "x-pharmacology-147",
+      "x-pharmacology-148",
+      "x-pharmacology-149",
+      "x-pharmacology-150"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-pharmacology-126",
+      "status": "pass",
+      "assessment": "Revised technique alternatives represent specific timing/device/frequency misconceptions; foundation classification fits.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ca1255f9299254eda51f1f14f5cdde5952cc5b0fd0f3649d6102afc4e25ee876"
+    },
+    {
+      "id": "x-pharmacology-127",
+      "status": "pass",
+      "assessment": "Dispensing history, reliever assessment and spirometry are meaningful competing actions; the actual anti-inflammatory gap remains the priority.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "64e5edc73c7e08c9e8584f7df09784be2698c719fbd8d16262a9e384340ecafe"
+    },
+    {
+      "id": "x-pharmacology-128",
+      "status": "pass",
+      "assessment": "Unchanged passed leak-correction item reread; key and technique explanations remain coherent.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7a8677d1109361a4a4259be721913b105c191c337864afcb2a8bc0d237ea151c"
+    },
+    {
+      "id": "x-pharmacology-129",
+      "status": "pass",
+      "assessment": "New antibiotic plus systemic symptom cluster makes interaction/toxicity a distinct issue among credible symptom-management and history questions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a8d55cbca88bc6de096b7b8e64cf92ed12e2f3b6958b9c48e23903c02afff74a"
+    },
+    {
+      "id": "x-pharmacology-130",
+      "status": "pass",
+      "assessment": "Plain alternatives now let the recent reliever pattern drive the need for control and technique review.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1f48ba9c850e8db17b30b5e25a134c4aebd6a154ea81539e6026db9070e39ebc"
+    },
+    {
+      "id": "x-pharmacology-131",
+      "status": "pass",
+      "assessment": "Concrete slow-versus-forceful technique and device-specific moisture/spacing errors support the foundation task.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0b91874a43dd3e3b2e75f265995829a1ca291df57defd0f9e23bc385ab812f7d"
+    },
+    {
+      "id": "x-pharmacology-132",
+      "status": "revise",
+      "assessment": "Immediate self-harm safety is fixed, but asking for neuropsychiatric effects while false options are an insect bite, sports soreness and cold symptoms reduces the item to category matching without drug knowledge.",
+      "issues": [
+        "Immediate self-harm safety is fixed, but asking for neuropsychiatric effects while false options are an insect bite, sports soreness and cold symptoms reduces the item to category matching without drug knowledge."
+      ],
+      "proposedChanges": [
+        "Ask which new changes require prompt medication-safety review and use credible mild/common symptoms as competitors, with sufficient severity/timing data. Keep immediate self-harm protection in the explanation."
+      ],
+      "reviewedItemSha256": "4e93d03955fc079242bb2b5528edca30bdc8e68eecb81ba097dd6fc662c19abd"
+    },
+    {
+      "id": "x-pharmacology-133",
+      "status": "pass",
+      "assessment": "Actual uncontrolled blood-pressure values and timing/dose/formulation misconceptions make individual suitability review defensible.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ca1a82eafdb3d8c078dad19dfb421ef9a0b00e27cac2bb4d0cba8af0b1b06100"
+    },
+    {
+      "id": "x-pharmacology-134",
+      "status": "pass",
+      "assessment": "All choices are now new clinical patterns; cholinergic opposites and cardiopulmonary findings meaningfully compete with sedative-anticholinergic effects.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7e9072d688752eb6318ae2ec7ce81a834e4d45e46e47bac97e55e8d8b190e044"
+    },
+    {
+      "id": "x-pharmacology-135",
+      "status": "pass",
+      "assessment": "Favourable-response and acceptable-tolerance wording resolves the prior key ambiguity; adverse trends remain useful false outcomes.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "155e6d429d88c17eaee0776a1d7dcd0b3849ee9fc8b36ec182ec9a765a5148db"
+    },
+    {
+      "id": "x-pharmacology-136",
+      "status": "revise",
+      "assessment": "Specific fluid requirement improves context, but and-assume-usual-amount wording advertises the false thickening choice.",
+      "issues": [
+        "Specific fluid requirement improves context, but and-assume-usual-amount wording advertises the false thickening choice."
+      ],
+      "proposedChanges": [
+        "Use a plain competing action such as administering the usual dose in a thickened preparation, and explain that the required volume remains unresolved."
+      ],
+      "reviewedItemSha256": "6d8c9dc9ce44c0f50651fd7ab0160241ffbad82c84c5ccf448fc120b6ad6d28b"
+    },
+    {
+      "id": "x-pharmacology-137",
+      "status": "pass",
+      "assessment": "Unchanged passed enzyme-use instructions reread; drug timing, coating and monitoring remain coherent.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fa1dce739f8242d42d9592b258ba08131bbd4053995e08f94e3eabdfe325034e"
+    },
+    {
+      "id": "x-pharmacology-138",
+      "status": "revise",
+      "assessment": "Straw/accurate small mixture approach is reasonable, but putting the dose directly over front teeth is an implausible response to staining.",
+      "issues": [
+        "Straw/accurate small mixture approach is reasonable, but putting the dose directly over front teeth is an implausible response to staining."
+      ],
+      "proposedChanges": [
+        "Replace with a realistic measured-cup method, such as drinking the measured mixture from a cup and rinsing afterward; explain why the straw best limits tooth contact for this child."
+      ],
+      "reviewedItemSha256": "c2f209e21d913146edc27069afc5623874193a7fdf0c0dec09bb18303ce4f564"
+    },
+    {
+      "id": "x-pharmacology-139",
+      "status": "pass",
+      "assessment": "Parallel replacement explanations now distinguish corrected stores from persistent intrinsic-factor impairment and unsuitable ordinary supplement substitution.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "77549ab1a6b2b8b974c7ba1e98e0b094a103f9a4db5c3223122283a001c11f4b"
+    },
+    {
+      "id": "x-pharmacology-140",
+      "status": "revise",
+      "assessment": "The stem explicitly asks for neurological involvement and only one option contains neurological symptoms, so it gives away the answer.",
+      "issues": [
+        "The stem explicitly asks for neurological involvement and only one option contains neurological symptoms, so it gives away the answer."
+      ],
+      "proposedChanges": [
+        "Ask which additional finding should be highlighted before folate replacement is considered in macrocytic anaemia, leaving the B12-neurological rationale to the explanation."
+      ],
+      "reviewedItemSha256": "09f014afe2d8226633486ea955ff258524f5f6b096d0233bb1fea50a5fb4040d"
+    },
+    {
+      "id": "x-pharmacology-141",
+      "status": "revise",
+      "assessment": "Numeric hold parameter supports the decision, but changing injection site for systemic hypertension remains an implausible comparator.",
+      "issues": [
+        "Numeric hold parameter supports the decision, but changing injection site for systemic hypertension remains an implausible comparator."
+      ],
+      "proposedChanges": [
+        "Replace the site change with a relevant additional-assessment action such as repeating the pressure using a different cuff; the repeated above-threshold readings still support holding and prompt review."
+      ],
+      "reviewedItemSha256": "a4bd777ac9b568675a3c323f1132876db7bc92bccef2c288fb67651bb20366dc"
+    },
+    {
+      "id": "x-pharmacology-142",
+      "status": "pass",
+      "assessment": "Food-linked pharmacology and realistic competing timing schedules support a focused foundation item.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "217882724832040a31cafc312a00d28381e27bd85307dd9cd3f09d513e421c55"
+    },
+    {
+      "id": "x-pharmacology-143",
+      "status": "pass",
+      "assessment": "Symptomatic above-range calcium with active vitamin D supports the medication-specific concern; no independent prescribing is implied.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "93d0899bcb2c75f9af6d6d1f4f4ea8bff64ff34d37359d5fcc217a95b8e31d8a"
+    },
+    {
+      "id": "x-pharmacology-144",
+      "status": "pass",
+      "assessment": "Comparable clinical clusters assess different legitimate CKD domains; only the keyed cluster directly covers both bicarbonate effect and sodium burden.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1a4021eea17e440300bcfa500e3e68e47057d48423632dcd0e23d9ba01b377b8"
+    },
+    {
+      "id": "x-pharmacology-145",
+      "status": "pass",
+      "assessment": "Timing, symptom-relief frequency and same-ingredient brand changes are plausible but do not resolve renal accumulation risk.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "176830bcf049af19daadff68b4d23a53919948c7c1d839942579ad072ed5a7be"
+    },
+    {
+      "id": "x-pharmacology-146",
+      "status": "pass",
+      "assessment": "Foundation metadata matches the unchanged coherent nasolacrimal-occlusion technique item.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3212c7062344ac3d7e8b1bd328e1555babbf407d890fea512ddc2ef1bbe6ef00"
+    },
+    {
+      "id": "x-pharmacology-147",
+      "status": "pass",
+      "assessment": "Foundation metadata matches the unchanged spacing/sequence teaching task.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "68856755662eb7cd779f9d3841be8a6e56e0442f709854a257f6723599dbf9b5"
+    },
+    {
+      "id": "x-pharmacology-148",
+      "status": "pass",
+      "assessment": "Explicit prescribed strip length and calibrated paper distinguish length from area or volume errors without inviting dose inference.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b3670b4bae72d97e28f132fad13e0d3a55a892633fce759516a7a21192653a24"
+    },
+    {
+      "id": "x-pharmacology-149",
+      "status": "pass",
+      "assessment": "Replacement timing is now a plausible competing plan; product-specific compatibility and delivery instructions determine the safe approach.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0ecd90eb1f7294f8ff7da2c1d7ea1b258f65551c67dca3adbb8a53bdf17a8404"
+    },
+    {
+      "id": "x-pharmacology-150",
+      "status": "pass",
+      "assessment": "Concrete trainer errors now replace brand/box trivia and physically questionable partial discharge; correct end/site and emergency help are defensible readiness findings.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "bb8c7cfe587b530cf703551a162d514d44ec4e910b34ae62c07049ddc2c3c178"
+    }
+  ],
+  "activeSourceFile": "authoring/b/pharmacology-06.json",
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

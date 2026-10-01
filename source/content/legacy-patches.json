@@ -1,0 +1,2541 @@
+{
+  "management-01": {
+    "options": [
+      "A client with postoperative incisional pain of 7/10, stable vital signs and prescribed analgesia due",
+      "A client with new stridor after neck surgery",
+      "A client who has not voided for six hours after catheter removal and reports bladder pressure",
+      "A client with nausea after an oral antibiotic who is alert, breathing normally and has stable vital signs"
+    ],
+    "why": [
+      "Pain needs prompt treatment, but new stridor represents a more immediate airway threat.",
+      "New stridor suggests upper-airway obstruction. Assess immediately and activate appropriate emergency help.",
+      "Possible retention needs assessment, after the immediate airway threat is addressed.",
+      "This needs symptom assessment but lacks the acute airway finding of stridor."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "b096bc8a5f4a91888ef94dd9434a1d5a61efc9aabbd63a6ae68088d1a0948d77",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "management-02": {
+    "options": [
+      "Ask the family to sign a refusal form before accepting the decision",
+      "Record the refusal and leave without exploring the reason or consequences",
+      "Explore the concern, respect the decision and communicate/document it",
+      "Return with another nurse to repeat the same explanation until the client agrees"
+    ],
+    "why": [
+      "A capable adult does not require family authorization to refuse.",
+      "Documentation alone misses an opportunity to address concerns and support informed refusal.",
+      "Clarify concerns without coercion, explain relevant consequences and communicate the informed refusal.",
+      "Repeating pressure for agreement risks coercion rather than supporting a voluntary choice."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "5285de42e79412263b82d95dedc5c757b5fa396e3999a36693bf59ff3e6bad8f",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "management-03": {
+    "options": [
+      "Choose whether a client with new dizziness needs one-person or two-person transfer assistance",
+      "Help a stable client with an established bathing routine",
+      "Decide whether a stable client needs a prescribed as-needed laxative",
+      "Evaluate whether a client can safely use a newly prescribed walker without supervision"
+    ],
+    "why": [
+      "A new symptom requires nursing reassessment before assigning the assistance level.",
+      "A predictable personal-care task may be assigned after checking competence and client needs.",
+      "The decision requires assessment and medication-related judgment, not merely performance of a routine task.",
+      "Evaluating a new mobility aid and safety plan requires qualified assessment."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "3db55c04845dd29a0b6b64ebe9fef4e5b972d8a15e8ca1c9693705f659fe1139",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "management-04": {
+    "options": [
+      "Open only the admission summary because detailed notes are more private",
+      "Review the chart because employees are covered by the hospital confidentiality agreement",
+      "Ask a colleague caring for the neighbour to confirm the diagnosis",
+      "Do not access the record without a legitimate care-related purpose"
+    ],
+    "why": [
+      "Admission information is also protected personal health information.",
+      "An employment confidentiality agreement does not create a clinical need to access a record.",
+      "Personal curiosity does not authorize indirect access through a colleague.",
+      "Access is limited to an authorized purpose, not curiosity."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "49a373a5a0be9231c06e4b32f84689b8356449ea16df99c6d4c810952546ede7",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "management-05": {
+    "options": [
+      "Explain the competence gap and arrange a qualified practitioner or supervised learning plan",
+      "Use the written procedure because experience with a similar procedure should transfer",
+      "Ask a colleague for a brief demonstration and then perform the first attempt independently",
+      "Accept the assignment because a qualified colleague is available elsewhere on the unit"
+    ],
+    "why": [
+      "The stable situation permits a plan that provides competent care while addressing the nurse’s learning needs.",
+      "Related experience and written steps do not establish competence with the unfamiliar procedure.",
+      "A brief demonstration may support learning but does not establish readiness for an independent first attempt.",
+      "A colleague’s presence elsewhere does not by itself provide the planned supervision or competence needed."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "1695213239326d1126e652edc10909e8a5b5ce2ade9a749b0e568bf434583c61",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview-followup.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "management-06": {
+    "options": [
+      "Current respiratory findings and vital-sign trends",
+      "Relevant history and interventions already given",
+      "A detailed account of stable baseline history before reporting the current respiratory deterioration",
+      "The specific assessment or assistance being requested",
+      "A diagnosis of pulmonary embolism stated as confirmed before diagnostic assessment"
+    ],
+    "why": [
+      "Current findings communicate urgency.",
+      "Relevant background and the response to care support clinical decisions.",
+      "Relevant baseline history matters, but lengthy stable background must not delay the urgent current findings and request.",
+      "A clear request closes the communication loop.",
+      "Communicate observed findings and concern; do not report an unconfirmed diagnosis as established."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "41dbdd34a569db1b5998fbe5963a2df4c490893fc4140b5f9a3ddf526d8864fb",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "management-07": {
+    "stem": "A nurse notices that they entered the wrong urine-output value in the electronic client record. What should the nurse do?",
+    "options": [
+      "Replace the original entry with corrected text so only the accurate version remains",
+      "Use the approved correction process that preserves the audit trail",
+      "Write a new unrelated note with the correct number but do not identify the earlier error",
+      "Ask the next shift to make the correction under their own login"
+    ],
+    "why": [
+      "The correction process must preserve retrievable original information.",
+      "A transparent correction preserves the original entry and identifies the change.",
+      "A linked transparent correction is needed so readers can identify the erroneous information.",
+      "Accountability for the nurse’s entry should not be shifted to another login."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "e18ce6541cfab67da7fa35a9fec6eec389834061c2b227ba184284a07f9b31e6",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "management-08": {
+    "options": [
+      "Use automated translation for the consent discussion and proceed if the client signs",
+      "Ask a visitor who speaks both languages to interpret the complete consent discussion",
+      "Arrange a qualified interpreter and confirm understanding",
+      "Give a translated form and treat the signature as sufficient confirmation"
+    ],
+    "why": [
+      "A nonurgent invasive-procedure consent discussion requires reliable communication and understanding, not reliance on an unverified automated translation.",
+      "A qualified interpreter is preferred for accuracy, confidentiality and complex consent when available.",
+      "Qualified interpretation supports accurate communication and meaningful consent.",
+      "Written material alone does not verify comprehension or answer individual questions."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "9ad2dd53d932ebb604c8f528caa2d9edeafb7c5196e89671f3f41c4badb2c39c",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "management-09": {
+    "options": [
+      "Ask the care provider to complete a confusion checklist before the nurse sees the client",
+      "Review previous cognitive assessments before checking the current vital signs",
+      "Call the family to determine baseline before attending the bedside",
+      "Assess the client promptly and escalate concerning findings"
+    ],
+    "why": [
+      "The report already warrants prompt direct assessment; a checklist must not postpone it.",
+      "Previous records can help later but do not take priority over assessment of an acute change.",
+      "Collateral information is useful but should not delay assessing the suddenly confused client.",
+      "Acute change requires assessment for causes such as hypoxia, infection or glucose disturbance."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "a9b3d4808e976f3c75187ae6536cba8456a1e893addeea7b23847e39d45cb507",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "management-10": {
+    "stem": "A discharge prescription replaces the client’s previous antihypertensive. The client says, “I will take this one with the tablets I still have at home.” Which action best supports a safe transition?",
+    "options": [
+      "Reconcile the medication list and ask the client to explain the plan back",
+      "Give both the old and new lists so the client can choose the familiar regimen",
+      "Explain the new prescription and ask the community pharmacy to resolve the old label later",
+      "Remove the discontinued medicine from the written list without asking what the client has at home"
+    ],
+    "why": [
+      "Reconciliation and teach-back help identify discrepancies and misunderstandings.",
+      "Conflicting regimens can cause duplication or omission.",
+      "The potentially conflicting directions should be reconciled before transition.",
+      "The client may still follow an older container label unless the change is clearly reconciled and understood."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "5135c03d68b46bb1a0fcf068af0ba59c2abdde09c838251a8317b6cfa57701c5",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "management-11": {
+    "options": [
+      "Communicate specific risks promptly to the person responsible",
+      "Transfer the assignment to the next nurse without confirming that responsibility has been accepted",
+      "Request a revised assignment or additional qualified support",
+      "Follow the escalation process and document relevant communication",
+      "Record the concern only in a personal notebook without notifying the person responsible"
+    ],
+    "why": [
+      "Specific concerns allow risks to be addressed.",
+      "Continuity requires a clear transfer of responsibility, not an assumed handoff.",
+      "Adjusting workload or support can restore safe care.",
+      "Use organizational escalation and accurate documentation.",
+      "Private documentation alone does not enable timely resolution of the current safety risk."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "9fa359731888d4e11d548b30704a3ff7ee018454a3562d9d39ef3bfc61cb75ba",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "management-12": {
+    "options": [
+      "Our team has completed cultural-safety education, so you should feel safe here",
+      "Tell me what would help you feel safer while we plan your care",
+      "Let us finish the admission questions first and discuss past experiences later",
+      "I will ask someone from your community to choose the best approach for you"
+    ],
+    "why": [
+      "Training does not establish this client’s felt safety or address their individual concerns.",
+      "Invite the client’s perspective and collaborate on concrete needs.",
+      "Delaying the concern can overlook a current barrier to safe and trusting care.",
+      "Do not replace the client’s preferences with assumptions or another person’s choice."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "94d8fe5fcfb6a3a2dd3a4c7db27af26a6fa283e5e716aaea2a454b6b55dc2470",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "safety-01": {
+    "stem": "After personal care, a nurse removes intact gloves. The hands are not visibly soiled and no organism-specific handwashing requirement applies. What should the nurse do next?",
+    "options": [
+      "Put on new gloves before taking the same client’s oral temperature",
+      "Perform hand hygiene immediately after removing the gloves",
+      "Clean the hands after the remaining bedside tasks are finished",
+      "Disinfect the gloves before removing them and omit hand hygiene"
+    ],
+    "why": [
+      "Moving from personal care requires hand hygiene before further care and fresh gloves when indicated.",
+      "Glove removal can contaminate hands; visibly clean hands can generally be cleaned with alcohol-based hand rub unless another indication applies.",
+      "Deferring hygiene risks spreading contamination to subsequent tasks and surfaces.",
+      "Cleaning gloves does not substitute for removing them and cleaning the hands."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "f38ccb962cf851d735c5e4ab28e04b21145a767dfa8bc99256006e2a3c66ecb4",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "safety-02": {
+    "options": [
+      "Clean hands before an aseptic task",
+      "Use a single-dose vial for two clients if each withdrawal uses a new sterile syringe",
+      "Select protective equipment for the anticipated exposure",
+      "Clean shared equipment between clients",
+      "Keep the same gloves when moving from perineal care to a clean dressing on the same client"
+    ],
+    "why": [
+      "Hand hygiene helps protect susceptible sites.",
+      "A new syringe does not make sharing a single-dose vial an appropriate routine practice.",
+      "Exposure risk determines the required protection.",
+      "Shared equipment can transmit organisms.",
+      "A move from a contaminated task to a clean/aseptic site requires glove removal, hand hygiene and appropriate new gloves."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "2fdefdd68f523823373ee475f332b989008e6ca2edf6d5626d77f2810ea3901e",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "safety-03": {
+    "options": [
+      "Wait for the source client’s infection results before seeking exposure assessment",
+      "Complete the incident-report form before contacting occupational health",
+      "Promptly report and access the occupational exposure protocol",
+      "Ask a colleague whether the needle appeared bloody before deciding to report"
+    ],
+    "why": [
+      "Risk assessment and time-sensitive management should begin promptly.",
+      "Administrative reporting must not delay immediate clinical exposure assessment.",
+      "Prompt evaluation establishes the exposure risk and time-sensitive management.",
+      "A percutaneous used-needle exposure warrants prompt assessment even without visible blood."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "1de2f1fee19e4ca06288ae646926362f171f14bc766f532b279c2aa06e355706",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "safety-04": {
+    "options": [
+      "Keep the client standing while obtaining an orthostatic blood pressure",
+      "Assist them to sit or lie safely and assess",
+      "Ask the client to hold the bedrail while the nurse retrieves a blood-pressure machine",
+      "Review the medication record before helping the client change position"
+    ],
+    "why": [
+      "Continuing unsupported standing can cause a fall when dizziness is already present.",
+      "Prevent the immediate fall, then assess symptoms and vital signs.",
+      "Stay and provide immediate physical safety or obtain assistance rather than leaving an unstable client.",
+      "The cause matters after the immediate fall risk is controlled."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "6b18600c68a336542cb3997eb553beea4892ef8f8cb180c0b773e7812c89bf81",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "safety-05": {
+    "options": [
+      "A private room with routine precautions while sputum results are pending",
+      "An airborne infection isolation room with the door closed",
+      "A private room under droplet precautions with a surgical mask for staff",
+      "A positive-pressure room used for protective isolation"
+    ],
+    "why": [
+      "Suspected infectious pulmonary TB requires airborne precautions before confirmation.",
+      "Airborne isolation and appropriate respiratory protection limit spread.",
+      "Pulmonary TB requires airborne rather than droplet respiratory protection and placement.",
+      "Positive pressure protects a susceptible occupant; it does not contain infectious airborne particles."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "748df2a89de6ec10472297ea8134898bc8854f984d7bfb692f083f7dd62b2aa0",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "safety-06": {
+    "options": [
+      "Remove the items directly touched by the sleeve and use the remaining field",
+      "Place a sterile drape over the contact area and continue using the setup",
+      "Treat the field as contaminated and establish a new sterile field",
+      "Change gloves and continue with the original field"
+    ],
+    "why": [
+      "The sleeve touched the centre of the field, so removing selected items does not re-establish its sterility.",
+      "Covering the contact area does not reliably restore the contaminated sterile setup.",
+      "A breach requires replacement of the contaminated setup.",
+      "Changing gloves does not correct contamination of the field itself."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "9dd4c77fb1fe63b82da08bf96e43b8853ec6f854a0fc4053ec14f1cab9945132",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "safety-07": {
+    "options": [
+      "Keep oxygen away from smoking and open flames",
+      "Increase the flow whenever breathlessness occurs, without using the prescribed action plan",
+      "Secure cylinders as instructed by the supplier",
+      "Follow the prescribed flow and equipment instructions",
+      "Store a spare cylinder upright beside the bed without securing it"
+    ],
+    "why": [
+      "Oxygen supports combustion and increases fire risk.",
+      "Oxygen flow should follow the prescription/action plan; worsening symptoms require assessment.",
+      "Securing cylinders reduces tipping and injury risk.",
+      "Use the prescribed settings and safe equipment procedures.",
+      "An unsecured cylinder can fall; store and secure it according to supplier instructions."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "0ff6f67b374603c9bf8e5e0c17ddc0cb9c7dd6bfba8f5e8c2ff9572abc88acf5",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "safety-08": {
+    "options": [
+      "Compare the room number and the name on the door with the medication record",
+      "Compare the client’s full name with the same name printed on the medication cup",
+      "Compare two approved identifiers with the record and client identification",
+      "Ask whether the client is the name stated by the nurse and accept a nod"
+    ],
+    "why": [
+      "Room/location is not an approved personal identifier.",
+      "Repeating one identifier does not provide two independent approved identifiers.",
+      "Use the organization’s approved identifiers, such as name and date of birth.",
+      "A leading yes/no confirmation may produce an incorrect identity match."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "58bdcd500e11967744cf6cd94658c8e9624b404fb430b086eca67bbc5573ce04",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "safety-09": {
+    "options": [
+      "Keep the walking aid at the doorway so the client will wait for help",
+      "Keep the route lit and clear, with the call bell and walking aid accessible",
+      "Rely on the bed-exit alarm without changing the dark, cluttered route",
+      "Remind the client to use the call bell but make no change to equipment placement"
+    ],
+    "why": [
+      "Placing a needed aid out of reach can increase unsafe reaching or unsupported movement.",
+      "Accessible assistance and a clear route reduce environmental hazards.",
+      "An alarm does not remove the environmental hazards.",
+      "Instructions alone do not address accessibility or the route hazard."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "923a09af00028c02944490e8548db167eaabf5bf393775a8a38415046e9841e2",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "safety-10": {
+    "options": [
+      "Use the dose recorded in the medication administration record to infer the syringe contents",
+      "Ask the preparer to relabel it from memory without verifying its identity",
+      "Administer it after a second nurse confirms that its volume matches the prescription",
+      "Do not administer it; obtain a correctly identified preparation"
+    ],
+    "why": [
+      "The record does not independently establish what is in this syringe.",
+      "An unverifiable preparation should not be administered based only on recall.",
+      "Volume does not identify the medication or concentration.",
+      "The drug and dose must be verifiable before administration."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "1a7c70116f29ee3de41615eada2d81437afe8681fd962d1d2867538079148e51",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "safety-11": {
+    "options": [
+      "Report the near miss and work with the team to reduce selection risk",
+      "Move one package to an unlabelled drawer without involving pharmacy",
+      "Send a reminder to be more careful and close the near-miss review",
+      "Ask only the nurse involved to remember the package difference"
+    ],
+    "why": [
+      "Near-miss reporting can lead to safer storage, labels and checks.",
+      "An unapproved storage change may create a different selection risk.",
+      "A reminder alone leaves the look-alike storage hazard unchanged.",
+      "The hazard affects future users and requires a system response."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "75bf7f2b59e57cc85051eb66c986f0eeeaab16fef7ac26e58ba586d40cddeafe",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "safety-12": {
+    "options": [
+      "Use the approved wipe and immediately dry the cuff with a towel",
+      "Follow the required cleaning/disinfection process and product contact time",
+      "Disinfect only if the previous client has a confirmed organism",
+      "Clean only the visible soil and use the cuff as soon as it looks dry"
+    ],
+    "why": [
+      "Drying prematurely may prevent the required disinfectant contact time.",
+      "Use the approved process appropriate to the device and exposure.",
+      "Routine equipment reprocessing is needed even when a specific organism is unconfirmed.",
+      "Visible cleaning alone may not complete the required disinfection process."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "7bfdcb4dd97380d66058300b4be4f1230d142009438c45ae4a7b98292075cfb2",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "health-01": {
+    "options": [
+      "Ask the client to list the side effects of the inhaler",
+      "Please show me how you will use this inhaler at home",
+      "Ask the client how many years they have used inhalers",
+      "Ask the client to repeat the written steps without handling the device"
+    ],
+    "why": [
+      "Side-effect recall does not verify inhaler technique.",
+      "Demonstration reveals actual technique and allows supportive correction.",
+      "Prior exposure does not demonstrate correct use of this device.",
+      "Verbal recall alone can miss errors in timing or handling."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "0a99d1c71e41eeee001d92addfe2c541cc8bfb898935febb1e8f71342f94eeab",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "health-02": {
+    "options": [
+      "Complete the essential teaching while arranging analgesia because discharge is scheduled",
+      "Teach the family alone and count the client’s teaching as complete",
+      "Address the pain and reassess readiness to learn",
+      "Give the prescribed analgesic and immediately resume all teaching without reassessment"
+    ],
+    "why": [
+      "Severe pain can undermine learning; symptom relief and reassessed readiness should guide timing.",
+      "Family support does not replace appropriate teaching and assessment of the client when they can participate.",
+      "Manage the immediate symptom so teaching can be effective.",
+      "Readiness, relief and possible sedation need reassessment before continuing."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "998b19241bee82b417ea6bd2883824cbc997349f01f9c175c339408cb529f05d",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "health-03": {
+    "options": [
+      "Place the infant on the side with a rolled towel to prevent rolling",
+      "Place the infant on the back on a firm, flat, separate sleep surface without loose bedding",
+      "Use a firm inclined sleep surface to reduce spit-up",
+      "Use a separate crib with a firm mattress and add a loose blanket for warmth"
+    ],
+    "why": [
+      "Side positioning and positioning aids do not provide the recommended safe sleep setup.",
+      "Back sleeping on a clear, firm, flat surface supports safer sleep.",
+      "Healthy infants should sleep on a flat surface; an incline is not the recommended routine solution for spit-up.",
+      "A clear sleep surface without loose bedding is safer; use appropriate sleep clothing."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "c11f7bee7971bf51f0c78788f4c57153a71afa4560989f7349c8989bb01cbfb5",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "health-04": {
+    "options": [
+      "It helps reduce neural tube defects during very early development",
+      "It is most useful once an ultrasound shows how the spine is developing",
+      "It mainly prevents the mother’s iron-deficiency anemia",
+      "It becomes necessary only after the first missed period"
+    ],
+    "why": [
+      "Neural tube development occurs early, often before pregnancy is recognized.",
+      "Neural tube development occurs before routine ultrasound can guide preventive timing.",
+      "Folic acid is not iron replacement; the specific preconception benefit tested is neural tube risk reduction.",
+      "Starting before conception matters because neural tube development occurs very early."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "f8b5023cd4ad0d349c27d74fe6faa3c7536f98c00927f2b5fca77cd4fb69d348",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "health-05": {
+    "options": [
+      "Give a standard vaccine handout before asking what the parent has heard",
+      "Ask what worries them and discuss benefits and risks using current local guidance",
+      "Explain only the disease risk because adverse effects may increase worry",
+      "Recommend delaying the schedule until the parent no longer has questions"
+    ],
+    "why": [
+      "Begin by eliciting the specific concern so information is relevant and understandable.",
+      "Understand the concern and offer accurate, relevant information.",
+      "Balanced informed discussion includes relevant vaccine benefits and risks.",
+      "Unaddressed questions should prompt supportive discussion using current guidance, not automatic delay."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "3f3eadfc26a76d2cb69bbfc9738ef4134c7d02f4a5037a86c1ead63ac261b8e3",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "health-06": {
+    "stem": "A client with diabetes and reduced protective sensation in both feet is reviewing home foot care. Which statements indicate appropriate understanding? Select all that apply.",
+    "options": [
+      "I will inspect my feet daily",
+      "I will soak my feet for a long time each evening to soften the skin",
+      "I will check inside my shoes before wearing them",
+      "I will report a new blister or wound promptly",
+      "I will use a heating pad on low if my numb feet feel cold"
+    ],
+    "why": [
+      "Daily inspection may reveal injuries when sensation is reduced.",
+      "Prolonged soaking can damage/macerate skin; use the recommended cleaning and drying plan.",
+      "Small objects or rough areas may injure an insensate foot.",
+      "Early review can reduce complications.",
+      "Reduced sensation can prevent detection of a burn even at a low setting."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "f5539c0f7a555adbcacaa9c02f2e2758631e7df34c7662f18461d28e976bcaf2",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "health-07": {
+    "options": [
+      "Choose a quit date today before discussing why previous attempts ended",
+      "What helped before, and what made it difficult? We can plan support around that",
+      "Use exactly the same method again because it worked for a short time",
+      "Wait until you feel completely confident before seeking cessation support"
+    ],
+    "why": [
+      "A date may be helpful later; first understand the client’s experience and barriers.",
+      "Explore strengths and barriers, then discuss appropriate supports.",
+      "A prior attempt can inform care, but the plan should address why it was not sustained.",
+      "Support can help build confidence and address ambivalence now."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "3b17aad86961a58fb5655cf899f631f992303433a0ee3dce8bb6aee6723f170f",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "health-08": {
+    "options": [
+      "Use plain language and short sections",
+      "Provide a longer written explanation of every step to cover the possible questions",
+      "Discuss the most important actions and use teach-back",
+      "Offer suitable pictures or demonstrations",
+      "Ask the client to sign the instructions as the main check of understanding"
+    ],
+    "why": [
+      "Clear language and manageable sections reduce the stated reading barrier.",
+      "More written content may increase burden without making the essential actions accessible.",
+      "Prioritizing and checking the client’s explanation tests usable understanding.",
+      "A suitable visual or practical approach can reduce reliance on difficult written material.",
+      "A signature does not demonstrate that the client can follow the plan."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "61e3a55da434916a8114a70841c370795a83ab2578f07f8d445b935b712b9f33",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview-followup.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "health-09": {
+    "options": [
+      "Speak very slowly and exaggerate every lip movement",
+      "Increase volume until the client stops asking questions",
+      "Reduce background noise, face the client and check preferred communication supports",
+      "Ask a relative to repeat all information without checking the client’s preferred supports"
+    ],
+    "why": [
+      "Exaggerated speech can distort visual and auditory cues; normal clear speech and individual supports are preferable.",
+      "Volume alone does not address communication preference, background noise or understanding.",
+      "Optimize the environment and individual supports.",
+      "The client should guide communication supports and remain directly involved."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "87f8dd8baaedb2c0aed89d84e901523a60b944a91f424547b507cadeaedd1ae3",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "health-10": {
+    "options": [
+      "Three loose stools in a day while the child is alert and passing urine as usual",
+      "Marked lethargy with very little urine",
+      "Reduced appetite while the child drinks oral rehydration fluid and remains interactive",
+      "A mild thirst that improves after drinking, with usual wet diapers"
+    ],
+    "why": [
+      "This warrants advice/monitoring but is less urgent than lethargy with very low urine output.",
+      "Reduced urine and marked lethargy may indicate significant dehydration or illness.",
+      "Preserved drinking and interaction are more reassuring than marked lethargy and oliguria.",
+      "This is less concerning than persistent lethargy with low output."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "9b40530a479d897cbc29116736504d6b3f62b329eca9938c479b1fd4c4cbd029",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "health-11": {
+    "options": [
+      "Book the next routine screening mammogram and reassess after it",
+      "Arrange timely clinical assessment rather than waiting for routine screening",
+      "Monitor it for several more months because the recent screen was normal",
+      "Seek assessment only if pain or nipple discharge develops"
+    ],
+    "why": [
+      "A persistent new symptom needs timely diagnostic assessment rather than a screening pathway alone.",
+      "New symptoms need diagnostic assessment, independently of a screening schedule.",
+      "A recent normal screen does not exclude a new or missed symptomatic problem.",
+      "A persistent lump itself warrants assessment even without additional symptoms."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "4bdb704327d6b6e772568b4bef06c3c54807aca7665ab9029c39d2e563564028",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "health-12": {
+    "stem": "A client at 32 weeks of pregnancy reports a new severe headache, visual changes and upper abdominal pain. What is the most appropriate advice?",
+    "options": [
+      "Record the symptoms and discuss them at tomorrow’s scheduled prenatal visit",
+      "Arrange urgent maternity assessment",
+      "Rest in a dark room and seek assessment only if the headache remains after several hours",
+      "Check blood pressure at a pharmacy later today before deciding whether to call maternity triage"
+    ],
+    "why": [
+      "This symptom combination warrants urgent assessment rather than waiting for a routine appointment.",
+      "Urgent assessment is needed for possible pre-eclampsia or another acute problem.",
+      "Home observation may delay evaluation of a serious obstetric complication.",
+      "Symptoms themselves justify urgent maternity assessment; a preliminary community reading should not delay it."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "97711e660463c0cb045910963e168a09d1620c88c14ef00540cc5a0bce4a6658",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "psychosocial-01": {
+    "options": [
+      "Stay present and invite them to share what they are feeling",
+      "Tell the client about another person who recovered from the same problem",
+      "Begin explaining all available treatment options while the client is crying",
+      "Say that staying positive will help treatment work"
+    ],
+    "why": [
+      "Presence and an open invitation support expression without pressure.",
+      "Another person’s experience may redirect attention away from this client’s feelings.",
+      "Information may be useful later; first offer presence and assess readiness.",
+      "This can pressure the client to suppress understandable feelings."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "d37dbda19e636a15bfeda2758224db6438157c0062c34d5bdb1615ff0e98c91f",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "psychosocial-02": {
+    "options": [
+      "Ask what happened today and explore the social stressor before asking about suicide",
+      "Ask directly about suicidal thoughts, intent, plan and access to means",
+      "Ask whether the client has supportive relatives and assume that support makes them safe",
+      "Reassure the client that these feelings often improve and offer a follow-up visit"
+    ],
+    "why": [
+      "Explore stressors, but do not postpone direct assessment of the potential suicide risk.",
+      "Direct assessment helps determine immediate safety needs and escalation.",
+      "Protective factors do not exclude suicidal intent or access to means.",
+      "Reassurance and later follow-up do not replace immediate risk assessment."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "dc5cc58026a1c05f140a3ec5b23b8237b2588a31cad5789db5ade32b3cfd06ed",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "psychosocial-03": {
+    "options": [
+      "Ask the client to describe when the voices began before exploring the threat",
+      "Offer distraction and reassess whether the voice is present at the next check",
+      "Assess the command, intent and immediate risk, and seek appropriate help",
+      "Explain that staff do not hear the voice and continue the usual care plan"
+    ],
+    "why": [
+      "History is useful, but content, intent and immediate safety take priority.",
+      "Distraction alone does not establish safety after a command to harm.",
+      "Potential commands to harm require prompt risk assessment and protective action.",
+      "Reality-based communication should be combined with a direct assessment of risk."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "5a406a6de9568ceb83c26258522ebc41b9fe0c01d1b2b9b683a5ea951ae44339",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "psychosocial-04": {
+    "options": [
+      "Start a detailed relaxation teaching session and ask the client to memorize the steps",
+      "Stay with the client, use short calm statements and assess physical safety",
+      "Ask the client to breathe into a paper bag before checking oxygenation or other physical causes",
+      "Ask the client to identify the cause of every previous anxiety episode"
+    ],
+    "why": [
+      "Lengthy teaching is poorly matched to the current inability to process instructions.",
+      "A calm presence and simple communication support safety and regulation.",
+      "This can be unsafe when a medical cause of tachypnea has not been assessed.",
+      "Detailed retrospective exploration can wait until the acute distress and physical safety are addressed."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "7a04f1911d8ec6f2e6ea5acf161fe1abd0204adb3a9179efa36a62f31b4893a7",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "psychosocial-05": {
+    "options": [
+      "It is normal to grieve for a year, so no further assessment is needed yet",
+      "You should put away reminders of the person so the feelings happen less often",
+      "There is no single timetable. How is this affecting your daily life?",
+      "If you stay busy enough, you will notice the grief less"
+    ],
+    "why": [
+      "A timetable should not replace assessment of function, support and safety.",
+      "This imposes a coping approach without exploring the client’s needs.",
+      "Acknowledge variation and assess functioning, support and safety.",
+      "Activity may help some people but does not replace individualized assessment or support."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "b788abce4370aa463faaf075ea80105266695cdcf380a3693316bc6bb4532610",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "psychosocial-06": {
+    "stem": "A client appears frightened and says, “The television is sending secret instructions only to me.” Which response is best?",
+    "options": [
+      "Let us compare the secret messages you receive with the ones I receive",
+      "The television cannot send private messages; let us review how broadcasting works",
+      "I do not receive those messages, but I can see this is distressing for you",
+      "We will turn off the television, and then you will no longer receive messages"
+    ],
+    "why": [
+      "This endorses the premise of secret messages instead of maintaining a reality-based, supportive response.",
+      "A technical argument is unlikely to reduce distress or build trust.",
+      "State your reality while acknowledging the emotion.",
+      "This response endorses the proposed source of the messages rather than acknowledging distress without agreement."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "200ce7403742d2760b476c8f1513882d767c65212b135a8b219952abeb626a2a",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "psychosocial-07": {
+    "options": [
+      "Use a calm tone and simple choices",
+      "Stand close enough to prevent the client from walking away during the discussion",
+      "Maintain appropriate personal space",
+      "Reduce unnecessary stimulation and call for support as needed",
+      "Have several staff give instructions together so the message is reinforced"
+    ],
+    "why": [
+      "Calm, clear choices can support a sense of control.",
+      "Crowding or blocking exit can increase perceived threat and escalation.",
+      "Personal space helps reduce perceived threat.",
+      "A safer environment and timely support can prevent escalation.",
+      "Multiple simultaneous directions increase stimulation and can feel threatening."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "19bdfa48dfb454488cd64efb0c91ff7a38555c1735c42fce536337d5300be607",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "psychosocial-08": {
+    "options": [
+      "Treat the symptoms as anxiety unless the client reports a previous withdrawal seizure",
+      "Assess promptly and escalate for withdrawal management under protocol",
+      "Reduce stimulation and wait for the next routine observations before using a withdrawal tool",
+      "Complete a full long-term alcohol history before reporting the current autonomic symptoms"
+    ],
+    "why": [
+      "Withdrawal can occur without a known previous seizure and requires assessment.",
+      "Withdrawal can progress to seizures or delirium and needs timely management.",
+      "A quiet environment can help but does not replace prompt assessment and escalation.",
+      "History must not delay timely evaluation and management of evolving withdrawal."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "64b08a7ea33e52f5df8bfcba009587874a21f5a03a25a828d6b91fc5c5c58291",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "psychosocial-09": {
+    "options": [
+      "Explain each step and ask permission before touch",
+      "Treat the signed admission consent as permission to continue if the client asks to pause",
+      "Offer reasonable choices and a way to pause",
+      "Protect privacy and ask about preferences",
+      "Ask for a detailed trauma narrative before offering a less exposing examination position"
+    ],
+    "why": [
+      "Predictability and permission support safety.",
+      "Consent is ongoing; a request to pause needs acknowledgement and reassessment.",
+      "Choice and a pause signal support autonomy.",
+      "Privacy and preferences help build trust.",
+      "Safety, choice and practical accommodations need not depend on trauma disclosure."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "21721f35713416ef8475dd56dd5f17173084c271d18475f1a0983cb6f7e4a352",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "psychosocial-10": {
+    "options": [
+      "Repeat the hospital address until the client can say it correctly",
+      "Acknowledge the wish and explore comfort or familiar routines",
+      "Show the client the chart note stating that they cannot return home",
+      "Tell the client that they can go home after supper even though no discharge is planned"
+    ],
+    "why": [
+      "Repeated correction may increase distress without addressing the need behind the request.",
+      "Address the emotion and possible unmet needs.",
+      "A record-based argument is unlikely to address the emotional need.",
+      "A false promise can undermine trust and may lead to further distress."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "1652b5bda5b5760806f23f4e9d8bf1b5a43ebdee79824ad839feddf8bae583d4",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "psychosocial-11": {
+    "options": [
+      "Accept the gift if the same amount of nursing attention is maintained",
+      "Accept the gift after documenting that the client offered it voluntarily",
+      "Respectfully decline or redirect the expensive gift, explore the concern and explain that care is based on need",
+      "Hold the gift until discharge and accept it after the client leaves"
+    ],
+    "why": [
+      "An expensive personal gift still creates a significant boundary concern.",
+      "Voluntariness and documentation do not remove the professional power imbalance or significant-gift restriction.",
+      "A significant gift contingent on extra attention should not be accepted; preserve the therapeutic relationship and follow regulator/employer guidance.",
+      "Waiting until discharge does not automatically resolve a boundary concern arising from the care relationship."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "b07091dfa154edcb77a2e0349465b66c9e8c8347195f9f1904f523d3685b4b47",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "psychosocial-12": {
+    "options": [
+      "A private conversation with the client using a safe, routine approach",
+      "Ask the partner in front of the client whether controlling behaviour occurs at home",
+      "Send written abuse-service information home in a bag the partner will carry",
+      "Ask the partner to describe the client’s concerns while the client completes paperwork"
+    ],
+    "why": [
+      "Privacy supports assessment, choice and safety planning.",
+      "A direct confrontation may increase danger and inhibit disclosure.",
+      "Visible materials may expose help-seeking and should be offered through a safe individualized plan.",
+      "This preserves the partner’s control of communication instead of giving the client a safe private opportunity."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "98c0c5035f6be8d7e7be086958e0a191d79ce38abae318dcb0c2923092401482",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "basic-01": {
+    "options": [
+      "Switch to thickened liquid and finish the drink before contacting the swallowing team",
+      "Stop oral intake and seek assessment according to the swallowing protocol",
+      "Offer smaller sips through a straw and reassess after the meal",
+      "Continue with food but omit liquids until the next scheduled review"
+    ],
+    "why": [
+      "Do not independently continue oral intake after new unsafe-swallowing signs without assessment and a plan.",
+      "Stop the exposure and obtain an appropriate swallowing assessment.",
+      "A straw or smaller volume does not establish safe swallowing.",
+      "Swallowing risk may affect food and medicines too; stop oral intake and arrange assessment."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "3e9ddb2eb3ea9b09ec593e79cd3cab352fb2f8dc456f54b29dd781438d990361",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "basic-02": {
+    "stem": "An immobile client is incontinent and eats less than half of meals. Which measures belong in an individualized pressure-injury prevention plan? Select all that apply.",
+    "options": [
+      "Inspect skin and reassess risk",
+      "Massage the reddened sacrum at each turn to improve circulation",
+      "Individualize repositioning and offload heels",
+      "Address moisture and nutritional needs",
+      "Use the pressure-redistributing mattress as the reason to omit individualized repositioning"
+    ],
+    "why": [
+      "Inspection detects changes and helps tailor the plan.",
+      "Massage over pressure-damaged tissue can worsen injury.",
+      "Reducing prolonged pressure is a central preventive measure.",
+      "Moisture and nutrition affect skin integrity.",
+      "Support surfaces supplement skin assessment and individualized pressure relief; they do not replace them."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "773e122d58a609177eecd67b73918dbdf4273ac08866b377f47909773a4f4bd7",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "basic-03": {
+    "options": [
+      "Complete the bath for the client each morning to conserve all their energy",
+      "Encourage the client’s abilities and assist where needed",
+      "Set out supplies and leave the client to complete the lower-body care unaided",
+      "Ask the family to take over all personal care until the client can wash independently"
+    ],
+    "why": [
+      "This removes abilities the client can safely exercise rather than balancing support and independence.",
+      "Match assistance to ability and preferences.",
+      "The assessed difficulty with the legs requires assistance.",
+      "Family involvement may help, but all-or-nothing assistance needlessly removes retained ability."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "c722ac49afc6ec4e2421c24511d2fd04818a0865118afef64a6d8e9e5fd5049c",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "basic-04": {
+    "options": [
+      "Record a lower score because facial expression and conversation are unchanged",
+      "Use the client’s report and assess location, character, function and associated findings",
+      "Use a behavioural pain scale instead of asking further questions",
+      "Confirm the expected pain score for the procedure before accepting the client’s rating"
+    ],
+    "why": [
+      "Observed behaviour cannot invalidate a communicative client’s pain report.",
+      "Self-report is central when the client can communicate; assess the broader context.",
+      "Behavioural tools do not replace self-report when the client can communicate.",
+      "Expected patterns are context, not a substitute for this client’s report and assessment."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "3834b454425f86e0eaa2fce4692331f12e95e61bb42d9e973ea5a1fc19db1c24",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "basic-05": {
+    "options": [
+      "Ask only whether the client is satisfied with care",
+      "Reassess pain, function and adverse effects at an appropriate interval",
+      "Wait until the next dose is due before checking the response",
+      "Recheck the pain number without assessing sedation, breathing or function"
+    ],
+    "why": [
+      "Satisfaction alone does not assess pain relief, function or adverse effects.",
+      "Evaluate both relief and safety, considering route and expected onset.",
+      "Reassessment should match route/onset and clinical condition, not merely the next dosing time.",
+      "Response and adverse effects both need assessment; a pain score alone is incomplete."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "42d61d23ac5ac3327854b0ce0554c51f727ee736221c2f18a031f91913eddf79",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "basic-06": {
+    "options": [
+      "Rely on a daily laxative while leaving fluid intake and mobility unassessed",
+      "Use regular toileting opportunities, suitable fluids, fibre and activity",
+      "Increase fibre rapidly without reviewing whether fluid intake is adequate",
+      "Schedule toileting only when staff have time rather than when the client reports an urge"
+    ],
+    "why": [
+      "An assessed plan addresses modifiable factors and uses medicines appropriately.",
+      "Multiple modifiable factors can support bowel regularity.",
+      "Fibre advice should be suitable and considered together with hydration and tolerance.",
+      "Regular opportunities and responding to the urge support bowel function."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "d908f4729afac3e53cd914f9b8003f00bd38d8a3b8bb3764d055b2fb1caefc27",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "basic-07": {
+    "options": [
+      "Keep the bag below bladder level without resting it on the floor",
+      "Disconnect the bag every shift to empty residual urine from the tubing",
+      "Prevent dependent loops and kinks that obstruct flow",
+      "Maintain the closed system unless a clinical indication requires change",
+      "Clamp the tubing routinely during transfers so the bag can rest on the mattress"
+    ],
+    "why": [
+      "This supports drainage and reduces contamination risk.",
+      "Unnecessary disconnection breaches the closed drainage system.",
+      "Unobstructed flow helps avoid urinary stasis.",
+      "Preserve the closed system under the care protocol.",
+      "Routine clamping and elevating the bag can obstruct drainage or promote backflow; follow the transfer plan while keeping drainage dependent."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "11a6b52160535470fbb5eb45e7c47569b795974875679a4b2e8e0582a402b897",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "basic-08": {
+    "options": [
+      "Use a two-person underarm lift because it avoids waiting for equipment",
+      "Use the assessed transfer plan and appropriate lift with trained assistance",
+      "Use a standing transfer aid without reassessing the client’s ability to bear weight",
+      "Apply a transfer belt and repeat yesterday’s pivot transfer with one nurse"
+    ],
+    "why": [
+      "Additional people do not make an inappropriate manual lift safe.",
+      "Match equipment and assistance to assessed ability and policy.",
+      "A standing aid requires suitable assessed ability; unreliable weight bearing may require a different lift.",
+      "An established method should not be repeated when current ability does not support it."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "2186648bd8e7d9f94c940e3374bdc8c79777ac3adb3c0f44f4c31fe393dd4eeb",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "basic-09": {
+    "stem": "A stable inpatient reports being awakened repeatedly by avoidable noise and separate nonurgent care visits. Necessary overnight monitoring must continue. Which plan is most appropriate?",
+    "options": [
+      "Cluster suitable care activities and reduce avoidable noise and light",
+      "Request a bedtime sedative before trying the agreed environmental changes",
+      "Delay all overnight observations until morning so sleep is uninterrupted",
+      "Move all personal care to late evening even if the client prefers an earlier bedtime"
+    ],
+    "why": [
+      "Reducing avoidable disruption supports rest while maintaining necessary monitoring.",
+      "When avoidable disruption is identified, modify it and evaluate the effect before assuming medicine is needed.",
+      "Necessary monitoring cannot be omitted merely to promote sleep.",
+      "Care clustering should be suitable for the clinical needs and client preferences."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "ff82f2194c7cb258010ebf2038bab44b1457ea5b8a328336b607393242e4c8e5",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "basic-10": {
+    "options": [
+      "Clean with a wet swab while the client lies flat because the head cannot be held upright",
+      "Use an assessed positioning and suction-assisted oral-care approach under protocol",
+      "Use only lip moisturizer until normal alertness returns",
+      "Use a large volume of mouth rinse because suction is available"
+    ],
+    "why": [
+      "Position must support drainage and airway safety; lying flat with fluid may increase aspiration risk.",
+      "Adapt oral care to airway protection and swallowing ability.",
+      "The mouth still needs appropriate gentle cleaning, not lip care alone.",
+      "Suction availability does not justify unnecessary oral fluid or loss of airway precautions."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "5889eeccbfce14081401742496d3161f2901fb2c6533fc24bffae92c550ccf97",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "basic-11": {
+    "options": [
+      "Schedule the main meal immediately after bathing and physiotherapy to keep care activities together",
+      "Assess causes and offer small, suitable nutrient-dense meals with assistance as needed",
+      "Record low intake as the client’s usual pattern and reassess at the next weekly weight",
+      "Remove snacks between meals to increase appetite at the next main meal"
+    ],
+    "why": [
+      "Clustering exertional care immediately before eating may worsen known meal fatigue; assess and plan rest and assistance around meals.",
+      "Assess symptoms, swallowing, dental issues and support needs; individualize the plan.",
+      "Poor intake and fatigue need assessment and an individualized plan now.",
+      "This can reduce total intake in someone who fatigues during larger meals."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "e953685d93d493804373bc2889873bad0f6fd2036d62e3de56613bb383c7a6ce",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "basic-12": {
+    "options": [
+      "Give frequent spoonfuls of water to reach the usual oral fluid target",
+      "Provide frequent gentle mouth care and lip moisture using appropriate products",
+      "Offer ice chips without reassessing swallowing because they melt slowly",
+      "Request intravenous fluid solely to replace bedside mouth care"
+    ],
+    "why": [
+      "Unsafe swallowing makes forced oral water a risk of aspiration and distress.",
+      "Mouth care can relieve dryness without forcing unsafe intake.",
+      "Melting ice still becomes oral fluid; do not assume swallowing safety when it is known to be impaired.",
+      "Hydration decisions are individualized; they do not replace direct mouth care for comfort."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "6a34fab7a9fe0a4e0a2558c0c5c0e64b731bfeb065dd92d0c3b4561bb2cd54b6",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "pharmacology-01": {
+    "options": [
+      "Use the admission list because every discrepancy must be intentional",
+      "Clarify and reconcile discrepancies with the appropriate team before uncertain doses",
+      "Use the home list because it is the most familiar regimen to the client",
+      "Leave the discrepancy for discharge reconciliation and give the uncertain dose now"
+    ],
+    "why": [
+      "Discrepancies require clarification rather than an assumption.",
+      "Determine what is intended and resolve discrepancies.",
+      "Home information is important but does not establish the intended inpatient prescription.",
+      "An uncertain current dose needs resolution before administration."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "e37303534fbb6b1a60c6c2283339ea0a40a7e940cd6f71ce101f61af3c2e82e0",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "pharmacology-02": {
+    "options": [
+      "Give the mealtime dose now because the glucose is above target, without confirming carbohydrate availability",
+      "Check glucose and coordinate the dose with meal availability and the prescribed plan",
+      "Withhold the entire day’s insulin plan because one meal is delayed",
+      "Reduce the mealtime dose by half without checking the prescription or protocol"
+    ],
+    "why": [
+      "Meal and correction components must follow the prescribed plan and actual food availability.",
+      "Assess glucose and clarify timing under the order/protocol rather than making an unsupported change.",
+      "Basal and other insulin needs may remain; do not cancel all therapy based on one meal delay.",
+      "An unsupported dose change is not a substitute for glucose assessment and plan coordination."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "d8d64f56e71a1da52fb16f3da62770e094387fd935a044b49a3017c17280c17c",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "pharmacology-03": {
+    "options": [
+      "I will avoid leafy green vegetables so my INR stays stable",
+      "I will keep vitamin K intake reasonably consistent and attend INR monitoring",
+      "Once my INR is stable, dietary changes will no longer affect the dose",
+      "I will adjust my dose whenever I eat more vitamin K than usual"
+    ],
+    "why": [
+      "Complete avoidance is generally unnecessary; consistent intake is the teaching priority.",
+      "Diet changes and INR results affect management; follow the prescribed plan.",
+      "Diet and interacting products can still alter anticoagulation after an initially stable INR.",
+      "Dose changes should follow the anticoagulation plan, not unsupervised adjustments."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "285ce78a202ce46e844457dcc2c52a8c2fd8c9bfd02073ed30d746342fe4b882",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "pharmacology-04": {
+    "options": [
+      "Apply oxygen and reassess at the next observations without calling for help",
+      "Withhold further opioid, call for urgent help and support airway/breathing; follow reversal protocol",
+      "Check the pain score before deciding whether a reversal protocol is needed",
+      "Wait for the opioid to wear off while withholding the next scheduled dose"
+    ],
+    "why": [
+      "Oxygen alone does not correct opioid-related hypoventilation or replace urgent assessment.",
+      "Support ventilation and activate emergency care; give reversal treatment as authorized.",
+      "Difficulty arousing and slow shallow breathing demand immediate airway/ventilation support.",
+      "Withholding a future dose alone does not treat present respiratory depression."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "075871940ce9ea4e22c1ae36b2e0a2be393f5a4ec51654cb2557b8e2804b286c",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "pharmacology-05": {
+    "options": [
+      "Administer it by IV push using a slower rate than the order specifies",
+      "Clarify the unsafe order and do not give direct IV push potassium",
+      "Dilute it in a small flush syringe and give it through a running IV",
+      "Ask a second nurse to check it and proceed if the serum potassium is low"
+    ],
+    "why": [
+      "A slower direct push does not make concentrated potassium safe.",
+      "Potassium requires an appropriate diluted infusion under controlled administration policy.",
+      "Small-volume push dilution is not an approved controlled potassium infusion.",
+      "An independent check and indication cannot legitimize an unsafe route."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "422de38a6eef33186b733d71b854b1858371fd884389ef57757c8c5effe6b2ca",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "pharmacology-06": {
+    "stem": "Soon after an IV antibiotic begins, a client develops wheezing, facial swelling and hypotension. The infusion has been stopped and emergency help summoned. Which medicine should the nurse give first under the authorized anaphylaxis protocol?",
+    "options": [
+      "The protocol antihistamine for the facial swelling",
+      "Intramuscular epinephrine for the systemic reaction",
+      "The protocol inhaled bronchodilator for wheezing",
+      "The protocol corticosteroid for the allergic response"
+    ],
+    "why": [
+      "An antihistamine does not treat life-threatening airway swelling or shock and should not delay epinephrine.",
+      "Prompt IM epinephrine is first-line treatment for anaphylaxis; continue airway/circulatory support and emergency care.",
+      "A bronchodilator may be an adjunct for bronchospasm but does not replace epinephrine for multisystem anaphylaxis.",
+      "Corticosteroids do not provide the rapid first-line reversal needed for this acute respiratory and circulatory reaction."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "b9e4799a3f4c635a6dd6a73496ae43b55b9512fea4eeac1677b394549d6e1c5d",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview-followup.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "pharmacology-07": {
+    "options": [
+      "The dose is missing",
+      "A documented allergy conflicts with the prescribed medication",
+      "The prescription is complete and the client’s name and birth date match the administration record",
+      "The route is unclear",
+      "The ordered dose is available in a verified concentration and the calculated volume has been checked"
+    ],
+    "why": [
+      "A dose must be clear and appropriate.",
+      "Clarify the allergy and treatment plan before exposing the client.",
+      "These completed checks do not themselves require clarification.",
+      "The intended route must be unambiguous.",
+      "Verified dose/concentration information is not an unresolved discrepancy."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "6e073f5961d7dc89b0c19a1931046ba50b318c908a7b2e4039c910b99e6d010e",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "pharmacology-08": {
+    "options": [
+      "Lower the infusion rate and reassess whether the swelling spreads",
+      "Stop the infusion and assess/manage the site under protocol",
+      "Flush the cannula to distinguish infiltration from a blocked line",
+      "Check the pump history before stopping because no alarm has sounded"
+    ],
+    "why": [
+      "Further infusion may worsen infiltration; stopping is the first action.",
+      "Stop further fluid entry and assess the suspected infiltration.",
+      "Flushing can introduce more fluid into tissue and should not precede stopping and assessment.",
+      "Pump alarms do not reliably detect infiltration and should not delay stopping the infusion."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "6ef7b37963449ce96b2dfbd1d672fd47b9c757904b218e21dc0f5477cbbd7255",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "pharmacology-09": {
+    "stem": "A prescribed dose is one-half milligram. Which notation follows safer medication-writing conventions?",
+    "options": [
+      ".5 mg",
+      "0.5 mg",
+      "0.50 mg",
+      ".50 mg"
+    ],
+    "why": [
+      "Omitting the leading zero can lead to a decimal being missed.",
+      "Use a leading zero before a decimal and avoid unnecessary trailing zeros.",
+      "An unnecessary trailing zero can be misread if the decimal is missed.",
+      "This combines a missing leading zero with an unnecessary trailing zero."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "aec76c69affdba947c0045f4fb78c71eab84a08997dab3f553b8921142d60edf",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "pharmacology-10": {
+    "options": [
+      "Crush the tablet because the dose will remain the same",
+      "Ask the pharmacist/prescriber about a suitable alternative or approved administration method",
+      "Split the tablet because all extended-release products can be split",
+      "Substitute another brand with the same milligram strength without checking its release properties"
+    ],
+    "why": [
+      "Crushing an extended-release product can alter release and exposure even when the total milligrams are unchanged.",
+      "Verify formulation-specific handling and arrange an appropriate option.",
+      "Splitting is product-specific; it cannot be assumed safe for all extended-release tablets.",
+      "The same stated strength does not establish equivalent release or safe alteration; verify the exact formulation and authorized alternative."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "2a2fba170786c63f584383ece59672735fe392a6877ce24793fe95206d084985",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "pharmacology-11": {
+    "options": [
+      "Serum potassium",
+      "Serum sodium",
+      "Serum creatinine",
+      "Hemoglobin"
+    ],
+    "why": [
+      "Loop-diuretic potassium loss can directly contribute to both weakness and dysrhythmia, making this a priority result alongside clinical assessment.",
+      "Sodium is relevant to fluid/electrolyte assessment but is less directly linked than potassium to the new palpitation pattern.",
+      "Renal function helps evaluate treatment tolerance, but potassium more directly addresses a potential electrolyte-related rhythm problem.",
+      "Anaemia can cause weakness and palpitations, but the loop-diuretic exposure specifically raises concern for potassium depletion."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "ae391bcc1412b56f9ab0d7cca6623e770577120e4a41303731fdff3f8e4f0f63",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview-followup.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "pharmacology-12": {
+    "options": [
+      "Explain its purpose and prescribed schedule",
+      "Explain important adverse effects and when to seek help",
+      "Give all instructions at once and use the client’s signature as the only understanding check",
+      "Check for understanding and relevant nonprescription products",
+      "Review prescribed medicines only because over-the-counter products do not appear on the prescription"
+    ],
+    "why": [
+      "Purpose and timing support appropriate use.",
+      "The client needs clear instructions about concerning effects.",
+      "A signature does not demonstrate usable understanding; tailor teaching and use teach-back.",
+      "Teach-back and interaction review identify safety issues.",
+      "Nonprescription medicines and supplements can interact and need review."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "4549a997324bb474e281a8c76892e4aa3b5b17d2f078d59da82ca6e5da0d8e14",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "risk-01": {
+    "options": [
+      "Repeat the observations in one hour because postoperative tachycardia is common",
+      "Assess promptly and escalate possible bleeding or circulatory deterioration",
+      "Treat the lower urine output as catheter obstruction and review the circulation later",
+      "Document an expected response to analgesia without assessing the client"
+    ],
+    "why": [
+      "Hypotension plus tachycardia and oliguria needs immediate assessment and escalation.",
+      "Falling pressure with rising pulse and reduced urine suggests compromised perfusion.",
+      "Catheter function may be checked, but the full pattern suggests impaired perfusion and cannot be reduced to a drainage issue.",
+      "A medication explanation cannot be assumed for these concerning trends."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "28ef090b865bf35a2647da4740232776b9f6c4ccde71e753edc30f384e973d7c",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "risk-02": {
+    "options": [
+      "Repeat the sample and await confirmation before requesting a cardiac assessment",
+      "Assess, notify the clinician and arrange urgent ECG and monitoring as indicated",
+      "Review potassium intake and the next supplement dose before deciding on urgency",
+      "Obtain routine observations and use the next scheduled sample to evaluate the trend"
+    ],
+    "why": [
+      "Possible pseudohyperkalaemia can be investigated while prompt assessment and notification proceed; it must not delay care.",
+      "A potassium of 6.4 mmol/L needs urgent assessment and ECG; ongoing monitoring depends on the clinical findings, trend and protocol.",
+      "Medication and intake review may contribute to management but do not replace urgent assessment of this value.",
+      "Routine delayed follow-up is inadequate for a potentially dangerous potassium elevation."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "70cfdc118ff7d0febb3e16523c3184d31f891c1198b3681d9544152a01cfa82e",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview-followup.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "risk-03": {
+    "options": [
+      "Assess responsiveness, immediate threats and possible injury, and summon help",
+      "Transfer to bed with a mechanical lift so a full assessment can be completed comfortably",
+      "Check whether the client can stand before deciding if an injury assessment is needed",
+      "Review the medication record and complete fall-risk documentation before attending to injury"
+    ],
+    "why": [
+      "Assess injury and immediate danger before selecting a safe transfer method.",
+      "Routine movement should follow initial assessment of threats and possible injury, unless immediate environmental danger requires movement.",
+      "Ability to stand does not exclude injury and an unassessed attempt may cause harm.",
+      "Immediate clinical assessment takes precedence over investigation and documentation."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "f86a193f1ee94d35e3c54b9438341fc88a8c35f9f8cf778e77ffd815c526c74f",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "risk-04": {
+    "options": [
+      "Encourage prescribed deep breathing and supported coughing",
+      "Assist early mobilization when safe",
+      "Keep the client in bed until all postoperative pain has resolved",
+      "Assess pain and support adequate analgesia",
+      "Omit coughing and deep breathing because they increase incisional discomfort"
+    ],
+    "why": [
+      "These measures can support lung expansion and secretion clearance.",
+      "Movement helps reduce risks associated with immobility.",
+      "Safe early mobilization can occur with assessed pain control; zero pain is not a universal prerequisite.",
+      "Pain control can improve breathing and mobility.",
+      "Treat pain and support prescribed respiratory activities rather than omitting them without assessment."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "9a197b7b4a6f874ccf8864980f7ea152b5c7badd1b63018a7f228c814b7d7513",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "risk-05": {
+    "options": [
+      "Elevate the limb and wait to see whether the next analgesic dose resolves the symptoms",
+      "Assess neurovascular status and seek urgent review",
+      "Apply cold to the cast and reassess at the next routine observations",
+      "Loosen the outer bedding and continue routine cast care because toe numbness is expected"
+    ],
+    "why": [
+      "Comfort measures should not delay urgent review of worsening pain with sensory change.",
+      "Prompt neurovascular assessment and escalation protect the limb.",
+      "Symptom treatment alone does not address possible acute neurovascular compromise.",
+      "New numbness with worsening pain is a warning finding and not an expected routine response."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "0ac39127e83d0e2602c6d8e9be18e90a712ec4d0e42f6eb72ffae0a0ca74498e",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "risk-06": {
+    "options": [
+      "Confirm that the form is signed and continue because the clinician obtained consent",
+      "Pause preparation and arrange clarification of understanding and consent with the appropriate clinician",
+      "Give the preprocedure sedative first so the client can discuss concerns calmly",
+      "Read the procedure name from the form and ask the client to initial it again"
+    ],
+    "why": [
+      "A new expressed lack of understanding warrants clarification despite a signature.",
+      "Resolve the concern before proceeding with an elective procedure.",
+      "Sedation should not precede resolution of a nonurgent informed-consent concern.",
+      "Repeating paperwork does not establish meaningful understanding."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "5b87e29b84b5b3e547025dd9601cff7a94f3b4796253c746f7b240007ff42044",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "risk-07": {
+    "options": [
+      "Arrange an INR and decide on assessment after the result returns",
+      "Arrange urgent clinical assessment",
+      "Advise omitting the next dose and arrange a routine review tomorrow",
+      "Monitor at home unless external bruising or loss of consciousness develops"
+    ],
+    "why": [
+      "A worsening headache after head injury requires urgent assessment; INR does not exclude traumatic bleeding.",
+      "Head injury with anticoagulation and new symptoms requires urgent assessment.",
+      "A dose omission does not assess or treat possible intracranial bleeding.",
+      "Serious intracranial bleeding can occur without these findings."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "3cd69d2df5b48e5fac2cddf60fd0d4041374b94de9e5f49dcbb92c6ef84e85d5",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "risk-08": {
+    "stem": "Which findings support a new increase in fluid volume when considered with the full clinical assessment? Select all that apply.",
+    "options": [
+      "A rapid increase in weight measured on the same scale under consistent conditions",
+      "New breathlessness with bilateral crackles",
+      "Dry mucous membranes with falling weight and reduced intake",
+      "Increasing peripheral edema with a progressively positive intake/output balance",
+      "Postural dizziness with a negative fluid balance after ongoing gastrointestinal losses"
+    ],
+    "why": [
+      "An acute, consistently measured weight gain can support increasing fluid volume.",
+      "New breathlessness and crackles can reflect pulmonary congestion and need assessment.",
+      "This cluster more strongly suggests fluid loss or insufficient intake than a new increase in volume.",
+      "These trends can support fluid accumulation when considered with the broader assessment.",
+      "This pattern supports possible volume depletion, not new fluid accumulation."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "8f180fca96e90794508049b9162d1f888d891b6e040e3c2a6395fc942088dfad",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "risk-09": {
+    "options": [
+      "Change the dressing and wait for the next routine surgical review before reporting",
+      "Assess the client including systemic signs and report possible infection",
+      "Swab the drainage and wait for culture results before reporting the change",
+      "Apply a larger absorbent dressing and assess only the surrounding skin"
+    ],
+    "why": [
+      "Spreading inflammatory signs and purulent drainage require prompt assessment and communication.",
+      "Assess locally and systemically and communicate for timely management.",
+      "Testing may be ordered, but clinical assessment/reporting should not wait for culture.",
+      "Dressing selection does not replace assessment for systemic illness and escalation."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "dc020873b62141224e2563acf7f6922805f2fe1870ff84cf02ff9ae5149dba35",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "risk-10": {
+    "options": [
+      "Slow the transfusion and give prescribed acetaminophen before reporting",
+      "Stop the transfusion and activate the transfusion-reaction protocol with urgent assessment",
+      "Check the compatibility label while allowing the transfusion to continue",
+      "Give oxygen and reassess after ten minutes before deciding whether to stop the unit"
+    ],
+    "why": [
+      "Potential serious transfusion reaction requires stopping exposure rather than merely slowing it.",
+      "Stop the suspected exposure, assess urgently and follow protocol for access, notification and investigation.",
+      "Identity/clerical checks are important but must not delay stopping a suspected reaction.",
+      "Supportive oxygen does not replace prompt cessation and urgent reaction management."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "f49e88d490897989a4a5196615b651cc793cc14de2512ea1fb7824e7a2c51766",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "risk-11": {
+    "options": [
+      "The last time the client was known to be at their usual neurological baseline",
+      "The exact time the nurse first documented the abnormal findings",
+      "The time the client last ate a meal",
+      "The time the last routine medication was administered"
+    ],
+    "why": [
+      "Last-known-well time informs time-sensitive stroke assessment and treatment options.",
+      "Recognition/documentation time may differ from the last time known at baseline.",
+      "This is not the time anchor used for acute stroke eligibility decisions.",
+      "Medication history matters, but last-known-well is the critical neurological time anchor asked for."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "d1c9c6f4878daaab3d8b5f82cf50e69fdc4064284a2f0ef59045d328bbb677e7",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "risk-12": {
+    "options": [
+      "Warm the hand and repeat the reading at the next routine observation round",
+      "Apply prescribed oxygen and judge response from whether the client appears more comfortable",
+      "Assess immediately and verify a reliable signal while arranging support as indicated",
+      "Increase the long-term oxygen prescription on the basis of the initial saturation"
+    ],
+    "why": [
+      "A reading of 82 percent needs immediate assessment and verification rather than a routine delay.",
+      "Comfortable appearance does not establish adequate oxygenation; verify the measurement and clinical response.",
+      "Cold-site poor perfusion can distort a reading, but severe true hypoxaemia must be addressed promptly even when distress is not obvious.",
+      "An isolated potentially unreliable value does not authorize an unsupported long-term prescription change."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "ab2165e15ca032c7d13b401d718f740761bbc84d5a10178a392b61fbfc8c543e",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview-followup.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "adaptation-01": {
+    "options": [
+      "Give a high-fat snack and recheck in an hour",
+      "Give 15 g of fast-acting carbohydrate and recheck glucose in 15 minutes",
+      "Give 15 g of fast carbohydrate and wait until the next meal to check again",
+      "Give a large mixed meal first and reassess only if symptoms persist"
+    ],
+    "why": [
+      "Fat can slow carbohydrate absorption and an hour delays reassessment; use fast carbohydrate and timely recheck.",
+      "For mild to moderate hypoglycemia, fast-acting carbohydrate and reassessment are appropriate; repeat according to protocol if still low.",
+      "Treatment needs reassessment at 15 minutes and repetition as indicated.",
+      "A measured fast-acting carbohydrate treatment provides a more reliable initial response and requires rechecking."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "16b9ff8617efd025e82c1b275a87e64bd55daf72b9c5889849a71ad7b423b3db",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "adaptation-02": {
+    "options": [
+      "Insert an oral airway during the convulsions to prevent tongue obstruction",
+      "Hold the shoulders and legs firmly to keep the client on the mattress",
+      "Protect from injury, time the seizure and support airway/safety according to protocol",
+      "Leave the bedside to obtain the full medication list before calling for help"
+    ],
+    "why": [
+      "Do not force equipment into the mouth during convulsions; protect the airway using safe protocol measures.",
+      "Forceful restraint can injure the client; use safe environmental protection.",
+      "Protect the head/environment, seek help and manage airway safely; escalate prolonged or repeated seizures.",
+      "Stay, protect and time the seizure while obtaining assistance; history should not delay safety measures."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "20ca17df2fd0d77993ff457cc643908462702753be05399f3ddf46d3e7df89cb",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "adaptation-03": {
+    "options": [
+      "Wait for culture results before activating the emergency pathway",
+      "Activate urgent assessment and treatment for possible sepsis/shock",
+      "Treat the fever first and repeat blood pressure after the antipyretic takes effect",
+      "Obtain the complete medication history before reporting possible sepsis"
+    ],
+    "why": [
+      "Diagnostic confirmation must not delay emergency assessment/treatment of possible sepsis and shock.",
+      "Infection with organ dysfunction and hypotension needs urgent care.",
+      "Hypotension and altered mental status indicate urgent instability rather than isolated fever.",
+      "History is useful but should not delay emergency escalation."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "f8dfce2e17612bdf16a774c17fff421787e6a301b8a8c6b97169e477eb1e771c",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "adaptation-04": {
+    "options": [
+      "Try the prescribed antacid and activate the pathway only if pain remains",
+      "Promptly assess and activate the chest-pain/emergency pathway",
+      "Wait for the first troponin result before notifying the emergency team",
+      "Review cardiac risk factors before deciding whether the symptom pattern is urgent"
+    ],
+    "why": [
+      "Possible acute coronary symptoms require prompt assessment and pathway activation rather than an antacid trial first.",
+      "This symptom pattern requires urgent assessment and protocol-based care.",
+      "Time-sensitive assessment and response should not wait for a laboratory result.",
+      "Age or a low known risk profile does not safely exclude an acute emergency."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "32293da0aae1b407f1cc400039c71da9c2e4dd59a8d35d52b34fb844fd08fc83",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "adaptation-05": {
+    "stem": "A nurse finds an adult unresponsive and only gasping. No definite pulse is felt within 10 seconds. There is no applicable order limiting resuscitation. What is the appropriate immediate response?",
+    "options": [
+      "Give rescue breaths only and wait for the emergency team before starting compressions",
+      "Activate emergency response, start high-quality CPR and use an AED as soon as it is available",
+      "Obtain a blood-pressure reading to confirm cardiac arrest before starting CPR",
+      "Wait until an AED arrives before starting chest compressions"
+    ],
+    "why": [
+      "With no definite pulse, CPR is indicated rather than ventilation alone.",
+      "No definite pulse within ten seconds with abnormal breathing is treated as cardiac arrest under healthcare-provider BLS guidance.",
+      "Further tests should not delay CPR when arrest has been identified.",
+      "Begin high-quality CPR while the AED is obtained."
+    ],
+    "takeaway": "With abnormal breathing and no definite pulse within 10 seconds, activate emergency response, start CPR and use the AED promptly.",
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "3efb917b3806b49f8307b8faa646128b4b25ece459d4ba96970dfd1de338f727",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "adaptation-06": {
+    "options": [
+      "Increase the maintenance IV fluid because the client looks acutely unwell",
+      "Position to support breathing as tolerated, activate urgent help and assess/support oxygenation under protocol",
+      "Keep the client flat until a chest radiograph confirms the cause",
+      "Give the next routine oral diuretic and wait for its effect before calling for help"
+    ],
+    "why": [
+      "Unassessed fluid administration may worsen pulmonary congestion.",
+      "This may signal acute pulmonary edema and requires urgent respiratory/circulatory care.",
+      "Supine positioning can worsen breathing and diagnosis should not delay urgent support.",
+      "Severe respiratory distress needs immediate assessment/support, not delayed routine oral treatment."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "e0ba76a347d70eaa9aa7691051f7ecff6bb9327000e32f3ea9551b377128876d",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "adaptation-07": {
+    "options": [
+      "Treat the pain with the next oral analgesic and reassess before reporting",
+      "Activate urgent assessment, limit exertion and support breathing as indicated",
+      "Use coached breathing alone because postoperative anxiety is common",
+      "Arrange routine imaging and continue normal activity while waiting"
+    ],
+    "why": [
+      "Symptom treatment must not delay assessment of a possible acute cardiopulmonary emergency.",
+      "This pattern may indicate pulmonary embolism and needs prompt assessment.",
+      "Anxiety cannot be assumed to explain sudden dyspnea with pleuritic pain and tachycardia.",
+      "The client needs urgent assessment and limited exertion while supported."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "9e1568cf9d5a454e9140398b9181d7c3aa5012c027b232967f6ac9cf393ef004",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "adaptation-08": {
+    "options": [
+      "Weigh all used pads before calling for assistance",
+      "Activate the obstetric emergency response and immediately assess/support circulation under protocol",
+      "Help the client void first and reassess the bleeding afterward",
+      "Review the antenatal hemoglobin and coagulation results before activating the hemorrhage response"
+    ],
+    "why": [
+      "Quantification is useful but must not delay response to rapidly increasing bleeding with circulatory symptoms.",
+      "Possible postpartum hemorrhage is a time-critical emergency.",
+      "Bladder management may form part of care, but possible hemorrhage requires emergency activation now.",
+      "Baseline results can inform treatment but must not delay emergency response to current rapid bleeding and circulatory symptoms."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "50e32f59efd381b97ea219b2a45ab3b59767d505de5a8da75cd344a3053068bb",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "adaptation-09": {
+    "stem": "A responsive, nonpregnant adult cannot speak, breathe or cough effectively after taking a bite of food. The nurse can encircle the adult’s abdomen. Under current adult basic life-support guidance, what should the nurse do?",
+    "options": [
+      "Continue encouraging a cough without intervening because the client remains conscious",
+      "Start chest compressions while the client is still responsive and standing",
+      "Call for help and give repeated cycles of five back blows followed by five abdominal thrusts; switch to CPR if the client becomes unresponsive",
+      "Sweep the mouth with a finger before giving back blows, even when no object is visible"
+    ],
+    "why": [
+      "An ineffective cough with inability to speak or breathe indicates severe obstruction and needs trained action.",
+      "For a responsive adult with severe obstruction, begin the recommended choking manoeuvres; if unresponsive, follow the CPR pathway.",
+      "Current 2025 AHA adult guidance uses five back blows followed by five abdominal thrusts for responsive severe obstruction; special circumstances require modified technique.",
+      "Remove only a visible object; a blind sweep may worsen obstruction."
+    ],
+    "takeaway": "Severe airway obstruction needs immediate trained action; use the unresponsive CPR pathway if consciousness is lost.",
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "5d67873c1d82261cb66852bb1883b60deea73ca09bc14e2ddbed0c65b3ad5312",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "adaptation-10": {
+    "options": [
+      "Reduced urine output",
+      "Tachycardia with postural symptoms",
+      "One mildly dry mouth assessment without a change in intake, output or circulation",
+      "Hypotension with worsening weakness",
+      "A single normal blood-pressure value without symptoms or trend information"
+    ],
+    "why": [
+      "Reduced output may reflect impaired perfusion and needs assessment.",
+      "These may be compensatory and orthostatic signs.",
+      "An isolated dry mouth is nonspecific and does not by itself establish significant volume depletion.",
+      "This combination may indicate impaired circulation.",
+      "An isolated normal pressure is not evidence of significant volume depletion; assess the whole pattern."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "834229d7fcebc2dc8a44ed8cae5f1e58b21e5a80e5c4f5d9f7400231457e84d1",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "adaptation-11": {
+    "options": [
+      "Rub glucose gel inside the mouth because it does not need to be swallowed",
+      "Protect the airway, activate urgent help and give authorized non-oral glucose treatment under protocol",
+      "Prepare oral carbohydrate and give it as soon as the client briefly opens their eyes",
+      "Repeat the glucose after routine observations before starting treatment"
+    ],
+    "why": [
+      "An unconscious client cannot reliably protect the airway; use the authorized nonoral emergency pathway.",
+      "Severe hypoglycemia requires urgent treatment using an appropriate non-oral route, such as IV glucose or glucagon as authorized.",
+      "Brief eye opening does not establish safe swallowing; urgent nonoral treatment is appropriate.",
+      "A low result with unconsciousness requires immediate treatment and airway support, not a routine delay."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "878b4345703c0c15970f09095a9a0c18356a541727ddcbd9ad4ace1adf1ec10f",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "adaptation-12": {
+    "options": [
+      "New inability to finish a sentence because of breathlessness",
+      "Marked use of accessory muscles",
+      "A respiratory rate of 18/min with normal effort and the client’s usual oxygen target met",
+      "New confusion with respiratory symptoms",
+      "Brief breathlessness after usual exertion that resolves promptly to the established baseline"
+    ],
+    "why": [
+      "Breathlessness that limits speech suggests significant distress.",
+      "Accessory muscle use can reflect increased work of breathing.",
+      "These findings are reassuring in this comparison; continue assessment in context.",
+      "Altered mental status can occur with severe hypoxia or hypercapnia.",
+      "This does not by itself demonstrate new acute deterioration, unlike the other listed red flags."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "f1229efded08629880cee86afbcc0d1b76ffe48dc369838987d5116e4fbd76f9",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "management-13": {
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "2d4101e36961ecefd487798cb6cadc693f51ded0ee056422bcc9a6343a3f9cf9",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "management-14": {
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "d638a1ef5d775211c541249aa8dceafedf62acfa5c23b3e6dfc7744eaa7b376f",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "management-15": {
+    "options": [
+      "Repeat the original observations at the requested interval before making further contact",
+      "Continue immediate assessment/support and escalate through the urgent-response chain",
+      "Send a routine electronic message and wait for it to be acknowledged",
+      "Contact the unit manager after completing the scheduled medication round"
+    ],
+    "why": [
+      "Continuing deterioration invalidates waiting for routine reassessment.",
+      "Clear escalation with current findings is needed when the initial response does not address the evolving risk.",
+      "An asynchronous routine message may not provide the response needed for active deterioration.",
+      "Urgent assessment/support and escalation take priority over routine medication timing."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "ee86966a4085b65487be80c8b430332822f43acc6ca2fb6267a1ff52180879ce",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "management-16": {
+    "options": [
+      "Request a family signature before acknowledging the client’s refusal",
+      "The client’s informed decision should be respected while alternatives and concerns are addressed",
+      "Treat acceptance of symptom care as implied consent to transfusion",
+      "Delay all symptom care until the client agrees to the transfusion"
+    ],
+    "why": [
+      "A capable adult’s informed refusal does not require family authorization.",
+      "Support understanding, communicate the refusal and collaborate on acceptable alternatives.",
+      "Consent is treatment-specific; agreement to one intervention does not authorize a refused transfusion.",
+      "Refusal of one treatment does not justify withholding acceptable indicated care."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "9af19d2f56eaebedfdc73377542117e13e909059c61f3553dab87b2c2fe8ec4d",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "management-17": {
+    "stem": "Which progress note most clearly communicates both analgesic response and current safety after an IV analgesic?",
+    "options": [
+      "Thirty minutes after IV analgesic, client resting with eyes closed; pulse 84/min and BP 124/72 mm Hg; no further medicine requested",
+      "Thirty minutes after IV analgesic, client reports pain 3/10; temperature 36.8°C and dressing dry; plans to walk after lunch",
+      "Thirty minutes after IV analgesic, client reports pain decreased from 8/10 to 3/10; alert, respirations 16/min",
+      "Before IV analgesic, pain 8/10, alert and respirations 16/min; thirty minutes later, reports pain 3/10 and is sleeping"
+    ],
+    "why": [
+      "Resting and absence of a request do not directly quantify pain relief or establish current arousability and respiratory status.",
+      "The current pain report is useful, but wound and temperature findings do not provide the relevant sedation/respiratory reassessment.",
+      "This links the intervention interval to reported change and current alertness and respirations.",
+      "The earlier safety findings do not establish current respiratory status or whether the sleeping client is readily arousable."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "9006fbc0b15df8535e388e54f9c485519797923c4f372dbc9541a4b8d2da6d36",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview-followup.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "management-18": {
+    "options": [
+      "You may withdraw only until the sterile equipment has been opened",
+      "We can record your concern, but the booked procedure must go ahead today",
+      "You can withdraw consent; let us discuss your concerns and notify the team",
+      "You must sign a second form before the team is allowed to pause"
+    ],
+    "why": [
+      "Preparation costs or equipment do not make consent irrevocable.",
+      "Scheduling does not override ongoing voluntary consent.",
+      "Acknowledge the right to reconsider and support an informed discussion.",
+      "An expressed withdrawal or concern should be acted on promptly; paperwork must not prevent a pause."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "141cfaea77900b7d1188af43e9b6f8f063510bb3c93e239d3a6e4cc18227d894",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "management-19": {
+    "options": [
+      "Ask the prescriber to repeat only the dose and document without read-back",
+      "Ask the prescriber to repeat and clarify, then read back the complete order according to policy",
+      "Enter the most likely dose as provisional so the medication can be prepared",
+      "Ask another nurse to listen to the nurse’s recollection of the call"
+    ],
+    "why": [
+      "Clarifying and reading back the complete order helps verify all elements and units.",
+      "Clarification and read-back help establish a complete, accurate order before implementation.",
+      "Unresolved medication ambiguity should not be converted into an actionable preparation.",
+      "A second person hearing an uncertain recollection does not verify the intended order at its source."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "169c1b80a966a732512eb57c6b3319984d63a6447b4cc22c7d50abb4caf7fc1c",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "management-20": {
+    "options": [
+      "Share normal results because they are less sensitive than abnormal findings",
+      "Confirm the client’s wishes and authorization before disclosing information",
+      "Assume permission because the friend drove the client to the appointment",
+      "Confirm that the friend is listed as an emergency contact and then share all results"
+    ],
+    "why": [
+      "Normal results are still protected health information.",
+      "Establish the client’s consent and the appropriate scope of disclosure.",
+      "Helping with transport does not establish consent to disclose test results.",
+      "Emergency-contact status does not automatically authorize unrestricted disclosure."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "3025236d96fe6de884af8f13e00e211f90c1625bcaa043585805fd11ce57ba1f",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "pharmacology-13": {
+    "stem": "For a calculation exercise, an adult has a verified order for lorazepam 0.25 mg orally once. The supplied 0.5 mg tablet is approved for equal splitting, and clinical administration checks are complete. How many tablets equal the prescribed dose?",
+    "options": [
+      "2 tablets",
+      "0.5 tablet",
+      "1 tablet",
+      "0.25 tablet"
+    ],
+    "why": [
+      "This reverses the dose-to-strength relationship; two tablets would contain 1 mg.",
+      "0.25 mg divided by 0.5 mg/tablet equals half a tablet.",
+      "One tablet contains 0.5 mg, twice the prescribed 0.25 mg.",
+      "This treats the prescribed milligrams as the tablet fraction; a quarter tablet contains 0.125 mg."
+    ],
+    "takeaway": "Divide the prescribed dose by the tablet strength, keeping the units visible; clinical appropriateness is a separate check.",
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "ab84c54055b6d1bd307b623d6497f534049d014f648d2eed8c9c9e5fc9c3c075",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "pharmacology-14": {
+    "stem": "A child older than 2 years with uncomplicated acute otitis media weighs 20 kg. The verified prescription is amoxicillin 45 mg/kg/DAY orally, divided into three equal doses every 8 hours for 5 days. There is no penicillin allergy or renal impairment, and medication safety checks are complete. How many milligrams are prescribed for ONE dose?",
+    "options": [
+      "300 mg",
+      "900 mg",
+      "15 mg",
+      "2,700 mg"
+    ],
+    "why": [
+      "45 mg/kg/day × 20 kg = 900 mg/day; 900 ÷ 3 = 300 mg per dose.",
+      "900 mg is the total daily amount; divide it among three doses.",
+      "Dividing 45 mg/kg/day by three gives 15 mg/kg/dose; the child’s 20 kg weight must still be applied.",
+      "Multiplying the 900 mg daily total by three reverses the required division."
+    ],
+    "takeaway": "Distinguish the total daily dose from each administration: 45 × 20 ÷ 3 = 300 mg per dose.",
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "246aefca6714801423519ce54554bd3d86211af0ec3708a97206a0e25504172d",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "pharmacology-15": {
+    "options": [
+      "Give the medication because only the pulse, not the blood pressure, is below its parameter",
+      "Withhold according to the parameter, assess the client and contact the responsible clinician",
+      "Give half the dose so some beta-blocker effect is maintained",
+      "Recheck the pulse in an hour without assessing the dizziness or notifying the clinician"
+    ],
+    "why": [
+      "Each ordered hold parameter matters; adequate blood pressure does not cancel bradycardia.",
+      "Follow the prescribed limit and assess/escalate symptomatic bradycardia.",
+      "An unsupported dose reduction does not follow the hold order or address the symptoms.",
+      "The current symptomatic pulse below the parameter needs assessment and escalation."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "4f13fa83a11f539bcae85f3d8a09d4a571f954de47bb598481eab15ac0de25bc",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "pharmacology-16": {
+    "options": [
+      "Flush with a small saline volume to confirm whether the cannula remains patent",
+      "Stop the infusion, do not flush, retain the cannula initially and follow the medication-specific extravasation protocol",
+      "Remove the cannula immediately, then decide whether aspiration or an antidote is needed",
+      "Pause the infusion, apply a warm compress and restart at a lower rate if pain improves"
+    ],
+    "why": [
+      "Flushing may force more vesicant into tissue.",
+      "The line may be needed for aspiration or a specific treatment before removal; protocol details depend on the agent.",
+      "Removing access first can prevent useful aspiration or treatment through it.",
+      "Do not restart through suspected extravasation; compresses and treatment depend on the drug."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "2266d8ed0203e82a1d20de2aecafe07f68efa8b0eb77dca7b38c7ccd1d73199e",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "safety-13": {
+    "options": [
+      "Gloves and a gown, without face protection because splashes are expected to be small",
+      "Gloves, protective clothing and face/eye protection appropriate to the anticipated splash",
+      "Gloves and a surgical mask without eye protection",
+      "Gloves and ordinary prescription glasses without side protection"
+    ],
+    "why": [
+      "Anticipated splashes can reach eyes, nose and mouth even in small amounts.",
+      "Select barriers for the expected exposure of hands, clothing and face.",
+      "A mask alone does not protect the eyes from a splash.",
+      "Ordinary glasses are not equivalent to suitable protective eyewear for anticipated splashes."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "e0e9ddef3bb0d4dd5890441b019f38ce182ea5671a4cf5a75fc4c56870da2461",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "safety-14": {
+    "options": [
+      "Repeat call-bell practice and add a reminder sign beside the bed",
+      "Assess toileting patterns and arrange timely assistance with accessible equipment",
+      "Add a bed-exit alarm and keep the existing assistance schedule",
+      "Offer a larger absorbent product and continue toileting at the established round times"
+    ],
+    "why": [
+      "The client already understands the call bell; more reminders do not address urgency or the timing of assistance.",
+      "The revised plan targets the activity and access problem that led to getting up alone.",
+      "An alarm may alert staff after movement begins but does not resolve predictable urgency or equipment access.",
+      "Containment may be useful, but it does not replace timely toileting assistance for the identified urgent need."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "64e36f208184a576eaf676345a302f6a3a31ca21987aa632879002b9344c2b7c",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview-followup.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "health-13": {
+    "stem": "An adult’s asthma action plan prescribes inhaled fluticasone twice daily and inhaled salbutamol as needed for symptoms. The client now feels well. Which teach-back statement shows understanding of the different roles of these medicines?",
+    "options": [
+      "I will take salbutamol twice daily for prevention and use fluticasone when sudden wheezing starts",
+      "I will continue fluticasone every day even when well and use salbutamol for symptoms as directed in my plan",
+      "I will stop fluticasone after a symptom-free week and restart it when wheezing returns",
+      "I will take extra fluticasone in place of salbutamol whenever I need quick symptom relief"
+    ],
+    "why": [
+      "This reverses the supplied controller and reliever roles.",
+      "Daily fluticasone controls airway inflammation; salbutamol is the prescribed symptom reliever in this plan.",
+      "The daily controller should not be stopped independently because symptoms improve.",
+      "Fluticasone alone is not the prescribed rapid reliever; follow the individualized plan and escalation instructions."
+    ],
+    "takeaway": "Understand the role of each named inhaler in the individual action plan; do not stop a prescribed daily controller simply because symptoms improve.",
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "35ae058f72d9a6fc225e2a02687402238ebebc553357225573622b93dee83637",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "health-14": {
+    "options": [
+      "Average all the readings without correcting technique first",
+      "Review correct technique, equipment fit and the prescribed monitoring/reporting plan",
+      "Repeat the readings with the same cuff immediately after sitting down",
+      "Record only readings that fall within the target range"
+    ],
+    "why": [
+      "Averaging systematically flawed measurements does not remove technique-related bias.",
+      "Improve measurement quality before interpreting the trend in collaboration with the care team.",
+      "Cuff fit and an appropriate rest period need correction, not merely a quick repeat.",
+      "Selective recording prevents an accurate pattern from being assessed."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "565503cc3fe377371f75b99dc53c63d1fcc75953e5b6a17da35dc4605379c90d",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "psychosocial-13": {
+    "options": [
+      "Give crisis contact information and arrange a later telephone check",
+      "Stay with the client, activate immediate safety support and restrict access to means when safe",
+      "Obtain a promise not to take the pills and use that promise to end observation",
+      "Leave the client alone briefly while finding a private room for a full interview"
+    ],
+    "why": [
+      "A stated imminent plan with means requires immediate safety support.",
+      "Intent, means and a near-term plan indicate serious immediate risk requiring protective support.",
+      "A promise is not a substitute for assessment and protective action.",
+      "Do not leave an imminently at-risk client alone; summon assistance while maintaining safety."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "6736b2f3bb8cb6d5c6b321c071f1452ec3d9f6d31ce64b755e29223c1737019c",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "psychosocial-14": {
+    "options": [
+      "Continue the dementia care plan because postoperative disorientation is expected",
+      "Assess for delirium and reversible contributors, and communicate the acute change",
+      "Request sedation as the first response without checking pain, oxygenation or other reversible contributors",
+      "Wait for the family to confirm a baseline change before reporting the new findings"
+    ],
+    "why": [
+      "Acute fluctuating inattention requires assessment for delirium and causes.",
+      "Acute inattention and fluctuating consciousness suggest delirium requiring assessment of causes.",
+      "Symptom suppression alone can miss the underlying acute illness.",
+      "Collateral history helps, but observed acute change warrants prompt assessment and communication."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "cee9942e494750eb931daab604a3d6922c14783ac6aea3f120f73b9787648f2b",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "basic-13": {
+    "options": [
+      "Substitute bed exercises for today’s walking session and retain the same pain plan",
+      "Assess the barriers, provide prescribed relief and reassess graded walking with the client",
+      "Shorten the walking distance and attempt it before the prescribed analgesic takes effect",
+      "Give the prescribed analgesic and record the mobility goal as achieved if pain improves"
+    ],
+    "why": [
+      "Bed exercises may be appropriate temporarily, but automatically substituting them leaves the modifiable pain barrier and walking goal unresolved.",
+      "This addresses the limiting symptom, respects participation and evaluates what activity becomes safely achievable.",
+      "A shorter distance may help, but attempting it before agreed relief is effective does not address the reason for refusal.",
+      "Improved pain is not proof that safe walking or the functional goal has been achieved."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "eed61f3a50f385bdbbb8c7e7e7298844a494a6f8d6e3f26dd67b2f376b7c6571",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview-followup.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "basic-14": {
+    "options": [
+      "Massage the area before applying a barrier product",
+      "Relieve pressure and reassess/document the skin while updating the prevention plan",
+      "Apply a protective dressing and keep the current repositioning plan unchanged",
+      "Use a ring-shaped cushion to keep the red area in the centre"
+    ],
+    "why": [
+      "Massage may damage compromised tissue; relieve pressure and manage contributing factors.",
+      "Persistent non-blanchable redness is an important early warning requiring pressure relief and follow-up.",
+      "A dressing alone does not address ongoing pressure or the need to reassess the plan.",
+      "Ring-shaped devices can create pressure at the edges and are not an appropriate substitute for assessed offloading."
+    ],
+    "takeaway": "Act on intact-skin pressure damage with offloading and assessment; colour changes may be less obvious in dark skin, so assess temperature, firmness, pain and the full skin context.",
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "989915aaf44a29eb4fb05aa47abc7864227b641616164fd8fa29efd73f4434f0",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "risk-13": {
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "6aaddc2ee320ca4d02abcaaa845779716f58f0d11785a0b811bc345b22663469",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "risk-14": {
+    "options": [
+      "Wait for the scheduled INR because bleeding severity can be judged from that result",
+      "Assess circulation and symptoms and promptly escalate possible bleeding",
+      "Ask about iron supplements and stop the assessment if the client takes one",
+      "Arrange a routine stool test and defer escalation until it is positive"
+    ],
+    "why": [
+      "Symptoms require assessment now; INR is not relevant to every anticoagulant and does not rule out bleeding.",
+      "Melena and dizziness may indicate clinically significant gastrointestinal bleeding.",
+      "Iron can darken stools, but tarry stools with dizziness while anticoagulated require assessment for bleeding.",
+      "Clinical concern should prompt timely assessment and escalation without waiting for routine testing."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "f44997bd0b21f88d2afe262dca03e4a6c18e93fb02c6d30ecdb9a9c4e2136030",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "adaptation-13": {
+    "options": [
+      "Use glucose gel in the cheek because the client no longer needs to drink",
+      "Change to the authorized non-oral emergency pathway and support the airway",
+      "Give small spoonfuls while holding the client upright",
+      "Repeat the glucose before activating a different treatment pathway"
+    ],
+    "why": [
+      "Reduced consciousness makes airway protection unreliable; use the authorized nonoral pathway.",
+      "A loss of safe swallowing changes the route and urgency of treatment.",
+      "Position and slower delivery do not establish safe swallowing in deteriorating alertness.",
+      "Deterioration while known hypoglycemia is being treated requires immediate safety and treatment changes."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "6c8f4928ef8088f679314064a50bf8a43a27dd7f178d3a7a43f5f460c8610287",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  },
+  "adaptation-14": {
+    "options": [
+      "Give the oral medicines while asking another staff member to check oxygen saturation",
+      "Stop the routine task, assess airway/breathing/circulation and summon appropriate help",
+      "Check the medication list for a likely adverse effect before attending to breathing",
+      "Coach slow breathing first and assess only if the symptoms do not resolve"
+    ],
+    "why": [
+      "New dyspnea requires immediate assessment and may make oral administration unsafe.",
+      "A new acute change requires prompt assessment and appropriate emergency escalation.",
+      "Cause investigation should not delay immediate airway/breathing/circulation assessment.",
+      "Reassurance or breathing coaching alone can miss an acute physiological emergency."
+    ],
+    "review": {
+      "status": "independent-ai-screened",
+      "contentSha256": "78af75ed4be569d5847aae869cb00dabe4ecc5c2fd6b1005417d010bdc6aebcc",
+      "reviewerTask": "/root/author_risk_basic",
+      "report": "reviews/legacy-postreview.json",
+      "qualifiedClinicalValidation": false
+    }
+  }
+}

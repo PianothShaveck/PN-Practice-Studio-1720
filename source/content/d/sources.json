@@ -1,0 +1,443 @@
+{
+  "d-pregnancy": {
+    "name": "Public Health Agency of Canada: Your Guide to a Healthy Pregnancy",
+    "url": "https://www.canada.ca/en/public-health/services/health-promotion/healthy-pregnancy/healthy-pregnancy-guide.html",
+    "kind": "Canadian public-health guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Prenatal nutrition, substance exposure, activity, prenatal care and postpartum preparation"
+  },
+  "d-pregnancy-vax": {
+    "name": "Public Health Agency of Canada: Immunization in pregnancy and breastfeeding",
+    "url": "https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-4-immunization-pregnancy-breastfeeding.html",
+    "kind": "Canadian immunization guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Pregnancy-specific vaccine review and newborn protection; schedules must follow current guidance"
+  },
+  "d-rubella": {
+    "name": "Public Health Agency of Canada: Rubella vaccines",
+    "url": "https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-4-active-vaccines/page-20-rubella-vaccine.html",
+    "kind": "Canadian immunization guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Preconception rubella immunity and waiting at least four weeks after vaccination before conception"
+  },
+  "d-infant": {
+    "name": "Health Canada: Nutrition for Healthy Term Infants, Birth to Six Months",
+    "url": "https://www.canada.ca/en/health-canada/services/canada-food-guide/resources/nutrition-healthy-term-infants/nutrition-healthy-term-infants-recommendations-birth-six-months.html",
+    "kind": "Canadian interprofessional guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Infant milk feeding, breastfeeding support, formula, supplementation and growth assessment"
+  },
+  "d-infant6": {
+    "name": "Health Canada: Nutrition for Healthy Term Infants, Six to 24 Months",
+    "url": "https://www.canada.ca/en/health-canada/services/canada-food-guide/resources/nutrition-healthy-term-infants/nutrition-healthy-term-infants-recommendations-birth-six-months/6-24-months.html",
+    "kind": "Canadian interprofessional guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Complementary feeding, iron-rich foods, textures, responsive feeding and honey avoidance"
+  },
+  "d-development": {
+    "name": "Canadian Paediatric Society: Your child’s development",
+    "url": "https://caringforkids.cps.ca/handouts/behavior-and-development/your_childs_development",
+    "kind": "Canadian paediatric guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Developmental domains, milestones, corrected age and developmental surveillance"
+  },
+  "d-brain": {
+    "name": "Canadian Paediatric Society: Your baby’s brain",
+    "url": "https://caringforkids.cps.ca/handouts/behavior-and-development/your_babys_brain",
+    "kind": "Canadian paediatric guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Responsive caregiving, attachment, everyday play and family supports"
+  },
+  "d-oral": {
+    "name": "Public Health Agency of Canada: Oral health for children",
+    "url": "https://www.canada.ca/en/public-health/topics/oral-health/caring-your-teeth-mouth/children.html",
+    "kind": "Canadian public-health guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Primary teeth, brushing assistance, early decay changes and dietary prevention"
+  },
+  "d-vax": {
+    "name": "Public Health Agency of Canada: Contraindications and precautions",
+    "url": "https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-2-vaccine-safety/page-3-contraindications-precautions-concerns.html",
+    "kind": "Canadian immunization guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Pre-vaccination assessment, prior reactions, minor illness and vaccine-specific precautions"
+  },
+  "d-adult-vax": {
+    "name": "Public Health Agency of Canada: Immunization of adults",
+    "url": "https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-2-immunization-of-adults.html",
+    "kind": "Canadian immunization guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Adult immunization review, exposure risks, catch-up assessment and access"
+  },
+  "d-nutrition": {
+    "name": "Health Canada: Make healthy meals with Canada’s food guide plate",
+    "url": "https://www.canada.ca/en/health-canada/services/food-guide/eating-support/cooking/make-healthy-meals-plate.html",
+    "kind": "Canadian nutrition guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Varied nutritious food, labels and practical food choices"
+  },
+  "d-fundamentals": {
+    "name": "OpenStax: Health Promotion and Illness Prevention",
+    "url": "https://openstax.org/books/fundamentals-nursing/pages/4-3-health-promotion-and-illness-prevention",
+    "kind": "Open nursing textbook; US context",
+    "checkedDate": "2026-10-01",
+    "scope": "General health promotion, prevention, health literacy and social determinants; broad conceptual reference, not verification of every disease-specific teaching point"
+  },
+  "d-culture": {
+    "name": "BCCNM: Indigenous Cultural Safety, Cultural Humility, and Anti-Racism",
+    "url": "https://www.bccnm.ca/RN/PracticeStandards/Pages/CulturalSafetyHumility.aspx",
+    "kind": "British Columbia nursing regulator",
+    "checkedDate": "2026-10-01",
+    "scope": "Client-defined culturally safe care, local community knowledge, anti-racist practice and self-reflection; page states applicability to nurses and midwives"
+  },
+  "d-communication": {
+    "name": "OpenStax: Therapeutic Communication and Relationships",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/3-1-therapeutic-communication-and-relationships",
+    "kind": "Open nursing textbook; US context",
+    "checkedDate": "2026-10-01",
+    "scope": "Therapeutic communication, self-awareness and relationship focus"
+  },
+  "d-trauma": {
+    "name": "OpenStax: Trauma-Informed Care",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/6-5-trauma-informed-care",
+    "kind": "Open nursing textbook; US context",
+    "checkedDate": "2026-10-01",
+    "scope": "Choice, trust, safety, collaboration and avoiding retraumatization"
+  },
+  "d-anxiety": {
+    "name": "OpenStax: Anxiety-Related Disorders",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/17-2-anxiety-related-disorders",
+    "kind": "Open nursing textbook; US context",
+    "checkedDate": "2026-10-01",
+    "scope": "Anxiety assessment, functional effects and nursing support"
+  },
+  "d-ocd": {
+    "name": "OpenStax: Obsessive–Compulsive and Related Disorders",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/17-3-obsessive-compulsive-and-related-disorders",
+    "kind": "Open nursing textbook; US context",
+    "checkedDate": "2026-10-01",
+    "scope": "Obsessions, compulsions, functional impairment and coordinated treatment support"
+  },
+  "d-ptsd": {
+    "name": "OpenStax: Trauma-Induced and Stress-Related Disorders",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/17-4-trauma-induced-and-stress-related-disorders",
+    "kind": "Open nursing textbook; US context",
+    "checkedDate": "2026-10-01",
+    "scope": "Trauma symptoms, grounding, dissociation and psychosocial care"
+  },
+  "d-suicide": {
+    "name": "OpenStax: Self-Harm and Suicide",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/16-3-self-harm-and-suicide",
+    "kind": "Open nursing textbook; US context",
+    "checkedDate": "2026-10-01",
+    "scope": "Suicide-risk assessment, safety planning and self-harm; local observation policies apply"
+  },
+  "d-crisis-ca": {
+    "name": "9-8-8 Canada: Suicide Crisis Helpline",
+    "url": "https://988.ca/",
+    "kind": "Canadian crisis service",
+    "checkedDate": "2026-10-01",
+    "scope": "Call/text 9-8-8 for crisis support; emergency services for immediate safety risk"
+  },
+  "d-bipolar": {
+    "name": "OpenStax: Bipolar Disorders",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/16-4-bipolar-disorders",
+    "kind": "Open nursing textbook; US context",
+    "checkedDate": "2026-10-01",
+    "scope": "Mania, sleep reduction, impulsivity, mood recurrence and nursing support"
+  },
+  "d-psychosis": {
+    "name": "OpenStax: Schizophrenia",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/15-1-schizophrenia",
+    "kind": "Open nursing textbook; US context",
+    "checkedDate": "2026-10-01",
+    "scope": "Psychosis symptoms, communication, functional needs and recovery support"
+  },
+  "d-eating": {
+    "name": "OpenStax: Anorexia Nervosa",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/20-2-anorexia-nervosa",
+    "kind": "Open nursing textbook; US context",
+    "checkedDate": "2026-10-01",
+    "scope": "Eating-disorder assessment, physical instability and supportive coordinated care"
+  },
+  "d-depression": {
+    "name": "OpenStax: Depressive Disorders",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/16-1-depressive-disorders",
+    "kind": "Open nursing textbook; US context",
+    "checkedDate": "2026-10-01",
+    "scope": "Depression across life stages, function, mood assessment and recovery"
+  },
+  "d-alcohol": {
+    "name": "OpenStax: Alcohol Use Disorder",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/19-2-alcohol-use-disorder",
+    "kind": "Open nursing textbook; US context",
+    "checkedDate": "2026-10-01",
+    "scope": "Alcohol use assessment, withdrawal risks and recovery; no US consumption thresholds applied"
+  },
+  "d-substance": {
+    "name": "OpenStax: Substance Use Disorders",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/19-1-substance-use-disorders",
+    "kind": "Open nursing textbook; US context",
+    "checkedDate": "2026-10-01",
+    "scope": "Substance-use assessment, concurrent mental-health conditions and recovery"
+  },
+  "d-grief": {
+    "name": "OpenStax: Grief and Loss",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/9-2-grief-and-loss",
+    "kind": "Open nursing textbook; US context",
+    "checkedDate": "2026-10-01",
+    "scope": "Bereavement, family responses, spiritual care and psychosocial support"
+  },
+  "d-delirium": {
+    "name": "OpenStax: Delirium",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/14-2-delirium",
+    "kind": "Open nursing textbook; US context",
+    "checkedDate": "2026-10-01",
+    "scope": "Acute cognitive changes and assessment"
+  },
+  "d-dementia": {
+    "name": "OpenStax: Dementia",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/14-3-dementia",
+    "kind": "Open nursing textbook; US context",
+    "checkedDate": "2026-10-01",
+    "scope": "Cognitive disability, communication, distress and family support"
+  },
+  "d-autism": {
+    "name": "OpenStax: Autism Spectrum Disorder",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/23-3-autism-spectrum-disorder",
+    "kind": "Open nursing textbook; US context",
+    "checkedDate": "2026-10-01",
+    "scope": "Communication, sensory needs and individualized neurodevelopmental care"
+  },
+  "d-family": {
+    "name": "OpenStax: Family Dynamics",
+    "url": "https://openstax.org/books/psychiatric-mental-health/pages/6-2-family-dynamics",
+    "kind": "Open nursing textbook; US context",
+    "checkedDate": "2026-10-01",
+    "scope": "Family assessment, roles, coping and supports"
+  },
+  "d-alcohol-ca": {
+    "name": "CAMH: Managing alcohol withdrawal",
+    "url": "https://www.camh.ca/en/professionals/treating-conditions-and-disorders/alcohol-use/alcohol-use---treatment/treatment---managing-alcohol-withdrawal",
+    "kind": "Canadian clinical guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Withdrawal history, recurrence risk, autonomic signs and timely assessment"
+  },
+  "d-naloxone": {
+    "name": "Health Canada: Naloxone",
+    "url": "https://www.canada.ca/en/health-canada/services/opioids/naloxone.html",
+    "kind": "Canadian public-health guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Temporary opioid reversal, emergency response and continued monitoring"
+  },
+  "d-opioid-ca": {
+    "name": "Health Canada: Opioid overdose",
+    "url": "https://www.canada.ca/en/health-canada/services/opioids/overdose.html",
+    "kind": "Canadian public-health guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Overdose risk, tolerance changes and prevention"
+  },
+  "d-toxic-supply": {
+    "name": "Health Canada: Overdose crisis and toxic illegal drug supply",
+    "url": "https://www.canada.ca/en/health-canada/services/opioids/overdose-crisis-toxic-illegal-drug-supply.html",
+    "kind": "Canadian public-health guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Unknown drug contents, combined substance risks and limits of naloxone"
+  },
+  "d-iron": {
+    "name": "Health Canada: Iron",
+    "url": "https://www.canada.ca/en/health-canada/services/nutrients/iron.html",
+    "kind": "Canadian nutrition guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Plant-food iron absorption, vitamin C, tea, coffee and calcium timing"
+  },
+  "d-retina": {
+    "name": "Diabetes Canada — Eye damage (diabetic retinopathy)",
+    "url": "https://www.diabetes.ca/living-with-diabetes/managing-complications/eye-damage-diabetic-retinopathy",
+    "kind": "reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Retinal damage can be unnoticed; regular diabetic eye assessment supports early detection."
+  },
+  "d-hf-weight": {
+    "name": "Alberta Health Services — Heart failure weight chart",
+    "url": "https://myhealth.alberta.ca/Health/Pages/conditions.aspx?hwid=custom.ab_heartfailure_weightchart_inst",
+    "kind": "reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Daily morning weights after voiding before breakfast in consistent clothing; individualized reporting plan retained."
+  },
+  "d-bp-measure": {
+    "name": "Hypertension Canada — How do I monitor my blood pressure?",
+    "url": "https://hypertension.ca/how-do-i-monitor-my-bp/",
+    "kind": "reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Seated quiet rest and proper positioning before repeat blood-pressure measurement."
+  },
+  "d-heat": {
+    "name": "Health Canada — Protect yourself from extreme heat",
+    "url": "https://www.canada.ca/en/health-canada/services/climate-change-health/extreme-heat/how-protect-yourself.html",
+    "kind": "reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Plan access to cooling and visits before severe heat; fans do not replace cooling in extreme heat."
+  },
+  "d-hearing": {
+    "name": "CCOHS — Noise audiometric tests",
+    "url": "https://www.ccohs.ca/oshanswers/phys_agents/noise/audiometric_testing.html",
+    "kind": "reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Occupational hearing assessment and counselling on hearing-protection selection, use and maintenance."
+  },
+  "d-fasting": {
+    "name": "Diabetes Canada — Ramadan and diabetes",
+    "url": "https://www.diabetes.ca/for-professionals/health-care-provider-tools/ramadan-and-diabetes",
+    "kind": "reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Individual pre-fast risk assessment and treatment planning; no universal dose change authored."
+  },
+  "d-fit": {
+    "name": "BC Cancer — Abnormal FIT fact sheet",
+    "url": "https://www.bccancer.bc.ca/screening/Documents/Abnormal-FIT-Fact-Sheet-English.pdf",
+    "kind": "reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Abnormal FIT requires follow-up and should not be repeated hoping to clear the abnormal result."
+  },
+  "d-allergy-plan": {
+    "name": "Food Allergy Canada — Anaphylaxis emergency plan",
+    "url": "https://foodallergycanada.ca/wp-content/uploads/Anaphylaxis_Emergency_Plan_with_EpiPen_instructions_May2020_a.pdf",
+    "kind": "reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Prompt access to prescribed epinephrine supports ability to enact the anaphylaxis plan."
+  },
+  "d-fish": {
+    "name": "Health Canada — Mercury in fish",
+    "url": "https://www.canada.ca/en/health-canada/services/food-nutrition/food-safety/chemical-contaminants/environmental-contaminants/mercury/mercury-fish.html",
+    "kind": "reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Pregnancy fish-species selection balances nutrition with mercury exposure; sport-fish advisories are location-specific."
+  },
+  "d-concussion": {
+    "name": "Parachute Canada — Return-to-sport strategy",
+    "url": "https://parachute.ca/wp-content/uploads/2019/06/Return-to-Sport-Strategy.pdf",
+    "kind": "reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Stepwise return after concussion and medical clearance before higher-risk stages; no fixed recovery duration authored."
+  },
+  "d-jaundice": {
+    "name": "Canadian Paediatric Society — Jaundice in newborns",
+    "url": "https://caringforkids.cps.ca/handouts/pregnancy-and-babies/jaundice_in_newborns",
+    "kind": "reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Jaundice with excessive sleepiness and feeding difficulty requires assessment."
+  },
+  "d-child-fever": {
+    "name": "Canadian Paediatric Society — Fever and temperature taking",
+    "url": "https://caringforkids.cps.ca/handouts/health-conditions-and-treatments/fever_and_temperature_taking",
+    "kind": "reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Age and clinical condition matter alongside temperature when evaluating a febrile child."
+  },
+  "d-safe-sleep": {
+    "name": "Health Canada — Safe sleep tips",
+    "url": "https://www.canada.ca/en/health-canada/services/safe-sleep/safe-sleep-tips.html",
+    "kind": "reference",
+    "checkedDate": "2026-10-01",
+    "scope": "A clear firm flat infant sleep surface without pillows or soft objects."
+  },
+  "d-screen-results": {
+    "name": "BC Cancer — Understanding your breast screening results",
+    "url": "https://www.bccancer.bc.ca/screening/breast/how-it-works/understanding-your-results",
+    "kind": "primary",
+    "checkedDate": "2026-10-01",
+    "scope": "Routes to obtain a screening result"
+  },
+  "d-cognitive-adaptation": {
+    "name": "CAMH — Cognitive adaptation training strategies",
+    "url": "https://www.camh.ca/en/professionals/professionals--projects/cognitive-adaptation-training/strategizing",
+    "kind": "primary",
+    "checkedDate": "2026-10-01",
+    "scope": "Environmental supports for memory and attention difficulties"
+  },
+  "d-thought-assessment": {
+    "name": "OpenStax Clinical Nursing Skills — Mental health assessment",
+    "url": "https://openstax.org/books/clinical-nursing-skills/pages/20-1-mental-health-assessment",
+    "kind": "primary",
+    "checkedDate": "2026-10-01",
+    "scope": "Tangential versus circumstantial thought and thought blocking"
+  },
+  "d-dehydration": {
+    "name": "MyHealth Alberta — Dehydration",
+    "url": "https://myhealth.alberta.ca/Health/Pages/conditions.aspx?hwid=std120726&lang=en-ca",
+    "kind": "primary",
+    "checkedDate": "2026-10-01",
+    "scope": "Severe dehydration and emergency indicators"
+  },
+  "d-supervised-consumption": {
+    "name": "Health Canada — Supervised consumption services",
+    "url": "https://www.canada.ca/en/health-canada/services/substance-use/supervised-consumption-sites/explained.html",
+    "kind": "primary",
+    "checkedDate": "2026-10-01",
+    "scope": "Trained staff and emergency response at supervised services; site hours and availability vary"
+  },
+  "d-nors": {
+    "name": "National Overdose Response Service — About the service",
+    "url": "https://www.nors.ca/about",
+    "kind": "primary",
+    "checkedDate": "2026-10-01",
+    "scope": "Virtual overdose response as an option for people otherwise using alone"
+  },
+  "d-perinatal-loss": {
+    "name": "PHAC: Maternity and Newborn Care Guidelines, Chapter7 Loss and Grief",
+    "url": "https://www.canada.ca/en/public-health/services/publications/healthy-living/maternity-newborn-care-guidelines-chapter-7.html",
+    "kind": "Canadian government guidance",
+    "scope": "Individual preferences, memories and support after perinatal loss",
+    "checkedDate": "2026-10-01"
+  },
+  "d-ipv-safety": {
+    "name": "PHAC: Plan your safety in an abusive relationship",
+    "url": "https://www.canada.ca/en/public-health/services/health-promotion/stop-family-violence/plan-your-safety.html",
+    "kind": "Canadian government guidance",
+    "scope": "Safety planning even when not planning to leave",
+    "checkedDate": "2026-10-01"
+  },
+  "d-tech-safety": {
+    "name": "Women’s Shelters Canada: Technology safety plan tip sheet",
+    "url": "https://techsafety.ca/resources/toolkits/technology-safety-plan-tip-sheet/",
+    "kind": "Canadian specialist survivor-safety guidance",
+    "scope": "Safer devices and individualized planning for monitored technology",
+    "checkedDate": "2026-10-01"
+  },
+  "d-family-violence": {
+    "name": "PHAC: What is family violence?",
+    "url": "https://www.canada.ca/en/public-health/services/health-promotion/stop-family-violence/family-violence.html",
+    "kind": "Canadian government guidance",
+    "scope": "Economic abuse, coercive control and obstructed access to health care",
+    "checkedDate": "2026-10-01"
+  },
+  "d-eating-nice": {
+    "name": "NICE NG69: Eating disorders—recognition and treatment",
+    "url": "https://www.nice.org.uk/guidance/ng69/chapter/recommendations",
+    "kind": "Primary clinical guideline",
+    "scope": "Medical instability across body sizes, coordinated eating-disorder care, binge eating and nutritional rehabilitation",
+    "checkedDate": "2026-10-01"
+  },
+  "d-attention-support": {
+    "name": "NICE NG87: Attention deficit hyperactivity disorder—diagnosis and management",
+    "url": "https://www.nice.org.uk/guidance/ng87/chapter/recommendations",
+    "kind": "Primary clinical guideline",
+    "scope": "Environmental modifications, reduced distraction and shorter periods of focus",
+    "checkedDate": "2026-10-01"
+  },
+  "d-boundaries-ca": {
+    "name": "College of Nurses of Ontario: Communicating with clients online",
+    "url": "https://www.cno.org/standards-learning/practice-support/practice-support-faqs/communicating-with-clients-online?l=en-ca",
+    "kind": "Canadian regulator practice guidance",
+    "scope": "Professional boundaries and personal social-media contacts",
+    "checkedDate": "2026-10-01"
+  },
+  "d-spiritual": {
+    "name": "OpenStax Fundamentals of Nursing: Applications of Spirituality to Health Care",
+    "url": "https://openstax.org/books/fundamentals-nursing/pages/35-2-applications-of-spirituality-to-health-care",
+    "kind": "Open nursing textbook primary chapter",
+    "scope": "Open-ended spiritual assessment and client-defined support",
+    "checkedDate": "2026-10-01"
+  }
+}

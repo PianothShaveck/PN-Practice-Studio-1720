@@ -1,0 +1,64 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T18:30:29.939398+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/d-psychosocial-final4.json",
+  "sourceSha256": "ea9726add98c675fc440c1119907059de9ee22c0da42b8ced665f41988769e48",
+  "coverage": {
+    "sourceItems": 4,
+    "reviewedItems": 4,
+    "reviewedIds": [
+      "x-psychosocial-085",
+      "x-psychosocial-089",
+      "x-psychosocial-097",
+      "x-psychosocial-099"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-psychosocial-085",
+      "status": "pass",
+      "assessment": "The stem now quotes the original broad sleep question. A brief concrete question with calm redirection fits the demonstrated distractibility; broad narrative, lengthy form and unchanged repetition are credible less-effective assessment approaches. Explanations now match the actual prompt.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "30b00dc217ce41f1cba35f9e3f2916b312027256c533005ba105a4005c4ef75a"
+    },
+    {
+      "id": "x-psychosocial-089",
+      "status": "pass",
+      "assessment": "The maintenance-care explanation directly addresses the expressed misconception while exploring the client concerns. The revised spacing suggestion is clinically plausible but does not first supply the missing information; the rationale allows shared discussion of spacing rather than declaring it universally inappropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "21e94f1bbe63b3dba9b70dd5d1b6a23dd5c2d04f203f207d4439c3934b8950be"
+    },
+    {
+      "id": "x-psychosocial-097",
+      "status": "pass",
+      "assessment": "The new reduced alertness and slowed function are explicitly compared with established prompt-responsive low initiation. Assessing the change and obtaining medication review is defensible, and the revised title, subtopic, objective and takeaway fit this task without claiming medication causation is established.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1192f8e618e7ce5d46833628cab9fd0a9f95bf1825526251924419e75543cecb"
+    },
+    {
+      "id": "x-psychosocial-099",
+      "status": "pass",
+      "assessment": "The selected follow-up finding demonstrates reduced distress and restored task participation. Mere use, knowledge of alternatives or musical familiarity do not establish benefit. Evaluation metadata now correctly matches the outcome-assessment task.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e30fa5ef40c9d716938b4421e510b7b2631202b2f6fdecc437560f6f6ea264d2"
+    }
+  ],
+  "activeSourceFile": "authoring/d/questions.json",
+  "reviewerTask": "/root/review_expansion",
+  "priorReview": "reviews/expansion/d-psychosocial-076-100.followup1.json",
+  "coverageNote": "All four revised items were read in full after the author freeze. The remaining21 retain their individually reasoned exact-hash passes in the prior report. No automatic clinical approval was inferred from the revision request."
+}

@@ -1,0 +1,994 @@
+[
+  {
+    "id": "management-01",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "New stridor suggests urgent airway compromise and outranks stable needs."
+  },
+  {
+    "id": "management-02",
+    "answer": [
+      2
+    ],
+    "ambiguous": false,
+    "reason": "A capable adult can refuse; explore understanding and concerns, respect the choice, and communicate it."
+  },
+  {
+    "id": "management-03",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Established bathing of a stable client is assignable within worker competence and policy; the others require nursing assessment or judgment."
+  },
+  {
+    "id": "management-04",
+    "answer": [
+      3
+    ],
+    "ambiguous": false,
+    "reason": "Knowing a person is not a legitimate reason to access their health record."
+  },
+  {
+    "id": "management-05",
+    "answer": [
+      0
+    ],
+    "ambiguous": false,
+    "reason": "A prescription does not establish competence; obtain qualified support before a nonurgent unfamiliar procedure."
+  },
+  {
+    "id": "management-06",
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "ambiguous": false,
+    "reason": "Handover needs current findings, relevant background/interventions, and a specific request; unrelated conflict and unverified motives do not belong."
+  },
+  {
+    "id": "management-07",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "An approved correction preserves accountability and the original audit trail."
+  },
+  {
+    "id": "management-08",
+    "answer": [
+      2
+    ],
+    "ambiguous": false,
+    "reason": "Qualified interpretation and confirmed understanding support informed consent; a child or nod is insufficient."
+  },
+  {
+    "id": "management-09",
+    "answer": [
+      3
+    ],
+    "ambiguous": false,
+    "reason": "Acute confusion is a new clinical change requiring timely nursing assessment."
+  },
+  {
+    "id": "management-10",
+    "answer": [
+      0
+    ],
+    "ambiguous": false,
+    "reason": "Medication reconciliation and teach-back reduce transition-related discrepancies and misunderstanding."
+  },
+  {
+    "id": "management-11",
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "ambiguous": false,
+    "reason": "State risks, request suitable support, and escalate/document while maintaining continuity."
+  },
+  {
+    "id": "management-12",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "An open question about safety acknowledges the client experience and invites individual preferences."
+  },
+  {
+    "id": "safety-01",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Gloves do not replace hand hygiene after removal."
+  },
+  {
+    "id": "safety-02",
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "ambiguous": false,
+    "reason": "Hand hygiene, exposure-based PPE and equipment cleaning interrupt transmission; syringe/glove reuse across clients is unsafe."
+  },
+  {
+    "id": "safety-03",
+    "answer": [
+      2
+    ],
+    "ambiguous": false,
+    "reason": "Prompt reporting and exposure management allow time-sensitive risk assessment and prophylaxis."
+  },
+  {
+    "id": "safety-04",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Prevent a fall immediately by helping the dizzy client sit or lie, then assess."
+  },
+  {
+    "id": "safety-05",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Suspected infectious pulmonary TB warrants airborne isolation, ideally negative-pressure AIIR with closed door."
+  },
+  {
+    "id": "safety-06",
+    "answer": [
+      2
+    ],
+    "ambiguous": false,
+    "reason": "A nonsterile sleeve contaminates the sterile field; replace it before use."
+  },
+  {
+    "id": "safety-07",
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "ambiguous": false,
+    "reason": "Oxygen requires fire precautions, secured cylinders and prescribed equipment use; petroleum and smoking are unsafe."
+  },
+  {
+    "id": "safety-08",
+    "answer": [
+      2
+    ],
+    "ambiguous": false,
+    "reason": "Two approved client identifiers are more reliable than room, recognition or visitor identification."
+  },
+  {
+    "id": "safety-09",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Clear lit access and available assistance/walking aid reduce toileting falls."
+  },
+  {
+    "id": "safety-10",
+    "answer": [
+      3
+    ],
+    "ambiguous": false,
+    "reason": "An unreadable label prevents safe identification and must not be guessed."
+  },
+  {
+    "id": "safety-11",
+    "answer": [
+      0
+    ],
+    "ambiguous": false,
+    "reason": "Near-miss reporting and storage risk reduction address recurrence."
+  },
+  {
+    "id": "safety-12",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Equipment needs the required cleaning/disinfection including contact time before reuse."
+  },
+  {
+    "id": "health-01",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Return demonstration directly checks inhaler technique."
+  },
+  {
+    "id": "health-02",
+    "answer": [
+      2
+    ],
+    "ambiguous": false,
+    "reason": "Severe pain impairs readiness; address symptoms before expecting discharge learning."
+  },
+  {
+    "id": "health-03",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Back sleeping on a firm flat separate uncluttered surface is the safest available option."
+  },
+  {
+    "id": "health-04",
+    "answer": [
+      0
+    ],
+    "ambiguous": false,
+    "reason": "Folate before conception supports neural tube development very early in pregnancy."
+  },
+  {
+    "id": "health-05",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Eliciting concerns and discussing current benefits/risks supports informed vaccine decisions."
+  },
+  {
+    "id": "health-06",
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "ambiguous": false,
+    "reason": "Inspection, shoe checks and prompt reporting are protective foot care, especially with neuropathy; barefoot walking/heating pads add injury risk. The stem should name the at-risk population."
+  },
+  {
+    "id": "health-07",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Explore previous successes and barriers to plan supportive cessation care."
+  },
+  {
+    "id": "health-08",
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "ambiguous": false,
+    "reason": "Plain language, prioritized teach-back and suitable demonstrations reduce literacy barriers."
+  },
+  {
+    "id": "health-09",
+    "answer": [
+      2
+    ],
+    "ambiguous": false,
+    "reason": "Face the client, reduce noise and ask about preferred communication aids."
+  },
+  {
+    "id": "health-10",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Lethargy and oliguria suggest significant dehydration or illness."
+  },
+  {
+    "id": "health-11",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "A persistent new breast lump needs diagnostic assessment regardless of screening history or pain."
+  },
+  {
+    "id": "health-12",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Severe headache, visual symptoms and upper abdominal pain in pregnancy require urgent assessment for serious obstetric disease."
+  },
+  {
+    "id": "psychosocial-01",
+    "answer": [
+      0
+    ],
+    "ambiguous": false,
+    "reason": "Presence and invitation to express feelings are therapeutic and avoid false reassurance."
+  },
+  {
+    "id": "psychosocial-02",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Direct suicide assessment is required for a statement suggesting hopelessness or death wish."
+  },
+  {
+    "id": "psychosocial-03",
+    "answer": [
+      2
+    ],
+    "ambiguous": false,
+    "reason": "Command hallucinations to harm require immediate violence risk assessment and help."
+  },
+  {
+    "id": "psychosocial-04",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Calm brief communication and safety/physical assessment suit severe anxiety with limited processing."
+  },
+  {
+    "id": "psychosocial-05",
+    "answer": [
+      2
+    ],
+    "ambiguous": false,
+    "reason": "Grief has no fixed timetable; assess its individual functional impact."
+  },
+  {
+    "id": "psychosocial-06",
+    "answer": [
+      2
+    ],
+    "ambiguous": false,
+    "reason": "Acknowledge distress without endorsing or arguing with the delusional belief."
+  },
+  {
+    "id": "psychosocial-07",
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "ambiguous": false,
+    "reason": "Calm simple choices, space and reduced stimulation/support aid de-escalation."
+  },
+  {
+    "id": "psychosocial-08",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Abrupt cessation with autonomic symptoms warrants prompt withdrawal assessment and protocol-based escalation."
+  },
+  {
+    "id": "psychosocial-09",
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "ambiguous": false,
+    "reason": "Consent to touch, reasonable choice, privacy and ability to pause support trauma-informed care."
+  },
+  {
+    "id": "psychosocial-10",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Validation and familiar comforts respond to the underlying need without argument."
+  },
+  {
+    "id": "psychosocial-11",
+    "answer": [
+      2
+    ],
+    "ambiguous": false,
+    "reason": "An expensive gift contingent on extra attention threatens therapeutic boundaries and needs a respectful boundary response."
+  },
+  {
+    "id": "psychosocial-12",
+    "answer": [
+      0
+    ],
+    "ambiguous": false,
+    "reason": "A private safe opportunity permits assessment of coercion or abuse without increasing exposure to the partner."
+  },
+  {
+    "id": "basic-01",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Cough and wet voice after stroke suggest unsafe swallowing; stop oral intake and arrange assessment."
+  },
+  {
+    "id": "basic-02",
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "ambiguous": false,
+    "reason": "Risk/skin review, individualized offloading and moisture/nutrition care prevent pressure injury; massage is harmful."
+  },
+  {
+    "id": "basic-03",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Support retained self-care ability and assist only as needed."
+  },
+  {
+    "id": "basic-04",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Self-report remains central for an alert client; calm behaviour does not exclude severe pain."
+  },
+  {
+    "id": "basic-05",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Treatment needs reassessment of benefit, function and adverse effects."
+  },
+  {
+    "id": "basic-06",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Regular toileting, adequate appropriate fluid/fibre and activity support bowel function."
+  },
+  {
+    "id": "basic-07",
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "ambiguous": false,
+    "reason": "Below-bladder drainage, unobstructed flow and a closed system reduce urinary-catheter risks."
+  },
+  {
+    "id": "basic-08",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Assessed mechanical assistance is safer than an unsupported manual lift when weight-bearing is unreliable."
+  },
+  {
+    "id": "basic-09",
+    "answer": [
+      0
+    ],
+    "ambiguous": false,
+    "reason": "Clustering suitable care and reducing environmental disturbance supports inpatient sleep."
+  },
+  {
+    "id": "basic-10",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Reduced alertness requires positioning and suction-adapted oral care to limit aspiration."
+  },
+  {
+    "id": "basic-11",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Assess causes of poor intake and offer manageable nutrient-dense meals and help."
+  },
+  {
+    "id": "basic-12",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Gentle mouth care and lip moisture provide comfort when oral fluids cannot be swallowed safely."
+  },
+  {
+    "id": "pharmacology-01",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Unexplained medication-list discrepancies must be reconciled before uncertain doses."
+  },
+  {
+    "id": "pharmacology-02",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Rapid mealtime insulin should be coordinated with glucose, food availability and the prescribed regimen."
+  },
+  {
+    "id": "pharmacology-03",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Consistent vitamin K intake and INR follow-up support safer warfarin use."
+  },
+  {
+    "id": "pharmacology-04",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Likely opioid respiratory depression requires urgent airway/breathing support, help, withholding opioid and authorized reversal."
+  },
+  {
+    "id": "pharmacology-05",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Concentrated IV potassium must never be given by direct IV push; stop and clarify."
+  },
+  {
+    "id": "pharmacology-06",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Wheeze, swelling and hypotension after exposure suggest anaphylaxis; stop trigger and initiate emergency treatment."
+  },
+  {
+    "id": "pharmacology-07",
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "ambiguous": false,
+    "reason": "Missing dose, allergy conflict and unclear route need clarification; verified identity/concentration do not."
+  },
+  {
+    "id": "pharmacology-08",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Cool swelling during nonvesicant infusion suggests infiltration; stop it before site management."
+  },
+  {
+    "id": "pharmacology-09",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "A leading zero makes a decimal dose clear; malformed notation or tenfold wrong dose is unsafe."
+  },
+  {
+    "id": "pharmacology-10",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Extended-release crushing can alter delivery; obtain formulation-specific advice or an alternative."
+  },
+  {
+    "id": "pharmacology-11",
+    "answer": [
+      0
+    ],
+    "ambiguous": false,
+    "reason": "Loop diuretics can lower potassium; weakness and palpitations make potassium especially pertinent."
+  },
+  {
+    "id": "pharmacology-12",
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "ambiguous": false,
+    "reason": "Teach purpose/schedule, key adverse effects/help-seeking and check understanding/interactions."
+  },
+  {
+    "id": "risk-01",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Tachycardia, hypotension and falling urine output suggest circulatory deterioration after surgery."
+  },
+  {
+    "id": "risk-02",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Potassium 6.4 mmol/L can cause dangerous arrhythmia; prompt assessment, notification and monitoring are needed."
+  },
+  {
+    "id": "risk-03",
+    "answer": [
+      0
+    ],
+    "ambiguous": false,
+    "reason": "Assess responsiveness/threats/injury and obtain help before routine movement after an unwitnessed fall."
+  },
+  {
+    "id": "risk-04",
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "ambiguous": false,
+    "reason": "Prescribed pulmonary care, safe mobilization and adequate analgesia support recovery."
+  },
+  {
+    "id": "risk-05",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Escalating pain and numb toes in a new cast suggest neurovascular compromise needing urgent review."
+  },
+  {
+    "id": "risk-06",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "A signature without understanding is not sufficient evidence of valid consent."
+  },
+  {
+    "id": "risk-07",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Head injury with worsening headache while anticoagulated warrants urgent evaluation for intracranial bleeding."
+  },
+  {
+    "id": "risk-08",
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "ambiguous": false,
+    "reason": "Weight trend, respiratory findings and edema/fluid-balance trends support fluid-overload assessment."
+  },
+  {
+    "id": "risk-09",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Spreading redness, pain, warmth and pus suggest infection requiring assessment and report."
+  },
+  {
+    "id": "risk-10",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Acute chills, back pain and dyspnea after blood starts require stopping transfusion and urgent reaction assessment."
+  },
+  {
+    "id": "risk-11",
+    "answer": [
+      0
+    ],
+    "ambiguous": false,
+    "reason": "Last-known-well time informs urgent stroke treatment eligibility."
+  },
+  {
+    "id": "risk-12",
+    "answer": [
+      2
+    ],
+    "ambiguous": false,
+    "reason": "Assess clinically and promptly verify signal/perfusion; the low reading cannot be ignored or assumed artifact. Persistent severe hypoxemia needs action even without obvious distress."
+  },
+  {
+    "id": "adaptation-01",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "An alert adult who can swallow with mild hypoglycemia can take 15 g fast carbohydrate and recheck after 15 minutes."
+  },
+  {
+    "id": "adaptation-02",
+    "answer": [
+      2
+    ],
+    "ambiguous": false,
+    "reason": "Protect from injury, time the event and support airway safety; never force objects or oral intake or restrain limbs."
+  },
+  {
+    "id": "adaptation-03",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Infection with confusion, tachypnea and marked hypotension suggests sepsis/shock needing urgent action."
+  },
+  {
+    "id": "adaptation-04",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Crushing chest pain with diaphoresis and dyspnea warrants an emergency chest-pain pathway."
+  },
+  {
+    "id": "adaptation-05",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Unresponsiveness and abnormal breathing require rapid emergency activation and trained arrest assessment/resuscitation/AED sequence."
+  },
+  {
+    "id": "adaptation-06",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Orthopnea with pink frothy sputum suggests acute pulmonary edema requiring breathing support and urgent help."
+  },
+  {
+    "id": "adaptation-07",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Sudden postoperative dyspnea, pleuritic pain and tachycardia may indicate pulmonary embolism; urgent assessment/support is needed."
+  },
+  {
+    "id": "adaptation-08",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Rapid postpartum bleeding with pallor/dizziness suggests hemorrhage with circulatory compromise."
+  },
+  {
+    "id": "adaptation-09",
+    "answer": [
+      2
+    ],
+    "ambiguous": false,
+    "reason": "Inability to speak, breathe or cough effectively indicates severe airway obstruction requiring trained choking interventions."
+  },
+  {
+    "id": "adaptation-10",
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "ambiguous": false,
+    "reason": "Oliguria, tachycardia/postural symptoms and hypotensive weakness fit significant volume depletion."
+  },
+  {
+    "id": "adaptation-11",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Unconscious severe hypoglycemia requires airway protection, urgent help and nonoral protocol treatment."
+  },
+  {
+    "id": "adaptation-12",
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "ambiguous": false,
+    "reason": "Inability to finish sentences, accessory muscle use and new confusion signal respiratory deterioration."
+  },
+  {
+    "id": "management-13",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Anticoagulation plus fall and severe new headache/vomiting raises intracranial bleeding risk."
+  },
+  {
+    "id": "management-14",
+    "answer": [
+      2
+    ],
+    "ambiguous": false,
+    "reason": "New weakness and near-fall invalidate the prior routine walking plan until reassessment."
+  },
+  {
+    "id": "management-15",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Continued deterioration requires ongoing support and further urgent escalation despite an earlier routine instruction."
+  },
+  {
+    "id": "management-16",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "A capable informed adult refusal remains controlling despite family disagreement."
+  },
+  {
+    "id": "management-17",
+    "answer": [
+      2
+    ],
+    "ambiguous": false,
+    "reason": "The note supplies timing, numerical pain change and relevant respiratory/alertness findings."
+  },
+  {
+    "id": "management-18",
+    "answer": [
+      2
+    ],
+    "ambiguous": false,
+    "reason": "Consent may be withdrawn before a procedure; explore concerns and notify the team."
+  },
+  {
+    "id": "management-19",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Clarify an inaudible dose and read back the complete telephone order rather than guessing."
+  },
+  {
+    "id": "management-20",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "A friend relationship and knowledge of identifiers do not establish consent to disclose."
+  },
+  {
+    "id": "pharmacology-13",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "0.25 mg divided by 0.5 mg/tablet equals 0.5 tablet, not two."
+  },
+  {
+    "id": "pharmacology-14",
+    "answer": [
+      0
+    ],
+    "ambiguous": false,
+    "reason": "18 mg/kg/day times 20 kg equals 360 mg/day; divided by three doses gives 120 mg/dose."
+  },
+  {
+    "id": "pharmacology-15",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Pulse 48 is below the ordered hold threshold and dizziness warrants assessment/notification."
+  },
+  {
+    "id": "pharmacology-16",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Suspected vesicant extravasation requires stopping infusion, avoiding flushing, and initially retaining access for protocol-directed aspiration/treatment."
+  },
+  {
+    "id": "safety-13",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Anticipated splash warrants gloves, suitable protective clothing and protection of eyes/face."
+  },
+  {
+    "id": "safety-14",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Urgency-related falls risk calls for individualized timely toileting assistance and accessible equipment."
+  },
+  {
+    "id": "health-13",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Correct device demonstration and help-seeking knowledge demonstrate applied learning."
+  },
+  {
+    "id": "health-14",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Technique, cuff fit and prescribed monitoring must be corrected before interpreting flawed home readings."
+  },
+  {
+    "id": "psychosocial-13",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Expressed imminent intent with available pills requires continuous immediate safety support and restricting access when safe."
+  },
+  {
+    "id": "psychosocial-14",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Acute fluctuating inattention after surgery suggests delirium superimposed on dementia."
+  },
+  {
+    "id": "basic-13",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Assess and relieve pain, then reassess and support graded activity while respecting refusal."
+  },
+  {
+    "id": "basic-14",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Intact nonblanching redness suggests pressure injury; offload, assess/document and revise care."
+  },
+  {
+    "id": "risk-13",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "New resting dyspnea and saturation below target suggest acute deterioration beyond chronic stable edema."
+  },
+  {
+    "id": "risk-14",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Melena with dizziness during anticoagulation suggests potentially significant bleeding."
+  },
+  {
+    "id": "adaptation-13",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Declining alertness removes safe oral treatment eligibility and requires an authorized nonoral emergency route."
+  },
+  {
+    "id": "adaptation-14",
+    "answer": [
+      1
+    ],
+    "ambiguous": false,
+    "reason": "Sudden dyspnea and pallor take priority over routine medication administration."
+  }
+]

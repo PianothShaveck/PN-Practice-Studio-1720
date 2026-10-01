@@ -1,0 +1,226 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewerTask": "/root/author_management_safety",
+  "reviewedAt": "2026-10-01T18:03:08.072289+00:00",
+  "sourceFile": "bank-expansion/reviews/expansion/cross-a-health-revised-snapshot.json",
+  "coverage": {
+    "reviewedItems": 22,
+    "reviewedIds": [
+      "x-health-156",
+      "x-health-157",
+      "x-health-158",
+      "x-health-159",
+      "x-health-160",
+      "x-health-161",
+      "x-health-162",
+      "x-health-163",
+      "x-health-164",
+      "x-health-165",
+      "x-health-166",
+      "x-health-167",
+      "x-health-168",
+      "x-health-170",
+      "x-health-173",
+      "x-health-174",
+      "x-health-175",
+      "x-health-176",
+      "x-health-177",
+      "x-health-178",
+      "x-health-179",
+      "x-health-180"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Reread complete revised items including metadata, references, key, every option and rationale against the original issue. Each row reflects actual independent reasoning, not automatic acceptance of proposed edits.",
+  "limitations": [
+    "Not external clinician or psychometric validation",
+    "Primary-source checks are targeted and documented in prior reports; additional references supplied by the author are not claimed as newly independently verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-health-156",
+      "status": "pass",
+      "assessment": "Substance-specific assessment now competes with reasonable nutrition supports, while the reported clay and ice craving justify more than generic teaching.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "306eeffe8d4e4e9f13e3bd8cbdc90d7c75412b53d1988eb7e013be8c1a3412ee"
+    },
+    {
+      "id": "x-health-157",
+      "status": "pass",
+      "assessment": "Lower-mercury choice is compared with recognizable local-catch and cooking misconceptions and is honestly tagged foundation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "88c08f61d59aa329027f516a04e31baeeb5a75e901d6f4951c8dcfad95b4d716"
+    },
+    {
+      "id": "x-health-158",
+      "status": "pass",
+      "assessment": "The combined products make ingredient totals the first product-specific safety review; licensing, timing and desired benefits are credible but insufficient.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "53508835234e043aa1b74681fd67ebc33c2c1c7a0aae8228858234dc975e6c42"
+    },
+    {
+      "id": "x-health-159",
+      "status": "pass",
+      "assessment": "A full day of failed small fluid attempts with orthostasis and reduced urine makes prompt clinical assessment more appropriate than further home follow-up.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "76cf91fc7bec2a302253b2042fd9f1489a0bfad397e6d220e5208aec91134588"
+    },
+    {
+      "id": "x-health-160",
+      "status": "pass",
+      "assessment": "Actual herbal use, prior gestational diabetes and low-mood impact give the prenatal preparation choices specific clinical relevance.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "74197c5bcb4a1c91f89313821b14a5630b957f7506f7f33764dc8cd4950b4def"
+    },
+    {
+      "id": "x-health-161",
+      "status": "pass",
+      "assessment": "The untried expression method and unconfirmed work storage are concrete gaps; a realistic combined practice/arrangement response addresses them.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "850077cf0950f8d9d40fc03240bedb86ac2f39f794cbf3a48a8396f61b7230cd"
+    },
+    {
+      "id": "x-health-162",
+      "status": "pass",
+      "assessment": "Stable parent and infant support obtaining medicine-specific advice before changing treatment or feeding; alternatives are plausible but premature.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "80378f9b4eb8b7b029a06cb5eb48f3fe0df8397f55ff94548b68e8fb00a5fd03"
+    },
+    {
+      "id": "x-health-163",
+      "status": "pass",
+      "assessment": "The abrupt-cessation omission cue is removed; gradual weaning is distinguished from recognizable outdated fluid-restriction and binding advice.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e009208560ca969ef680c34c9bf7972b23765719b2145b2caa06e4005ccdfda1"
+    },
+    {
+      "id": "x-health-164",
+      "status": "pass",
+      "assessment": "A healthy exclusively breastfed young infant and routine maternal supplementation support infant-specific vitamin D counselling; alternatives reflect common misconceptions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d56ea6bfb4a3cbfef35cab44b394273504b4d8bd6438232ea7093360e259d174"
+    },
+    {
+      "id": "x-health-165",
+      "status": "pass",
+      "assessment": "Age, readiness and the infant own history support individualized timely introduction and reaction teaching rather than blanket delay based on sibling allergy.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5e32e6754cc2dd02c9d2957d246ade079cf0993c30cef3f4fc67ae73dc3cbcbb"
+    },
+    {
+      "id": "x-health-166",
+      "status": "pass",
+      "assessment": "The fortified-beverage misconception is directly addressed with an honest foundation label and acknowledgement of the cost barrier.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2d0754a1f391454cbc13626a3f680b3bddc2b13ef86bd64605e8f4bdb61c58b9"
+    },
+    {
+      "id": "x-health-167",
+      "status": "pass",
+      "assessment": "Continuous milk grazing with reassuring growth/swallowing differentiates structured meals/cup development from container or bottle-frequency changes.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7078972fa1fdcb8d78af8b9bf1cf7dc20dbfebf97fb8a48bee8ca83481a0297a"
+    },
+    {
+      "id": "x-health-168",
+      "status": "revise",
+      "assessment": "Water reduces repeated sugar exposure, but changing the cup is still weak filler and the key remains the longest combined instruction.",
+      "issues": [
+        "Water reduces repeated sugar exposure, but changing the cup is still weak filler and the key remains the longest combined instruction."
+      ],
+      "proposedChanges": [
+        "Use option0 Replace it with unsweetened fruit juice and explain that juice still supplies free sugars. Shorten the key to Offer water for between-meal drinks. Retain straw and later brushing as plausible but incomplete alternatives."
+      ],
+      "reviewedItemSha256": "84a00727e512b7b71dfb3a12c9abb9b59af91c2f133e4dbc359cb98147510e75"
+    },
+    {
+      "id": "x-health-170",
+      "status": "pass",
+      "assessment": "The stated lack of floor-movement opportunities makes reaching and tummy time relevant; seated video viewing does not serve the specified movement objective.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c667bf3aaf4931e4ea19457bfb25bfedf65651aa9e1bed44f3f9ffcb3716724b"
+    },
+    {
+      "id": "x-health-173",
+      "status": "pass",
+      "assessment": "The child explicit concern about parental time distinguishes protected connection from responsibility, independent activities and maturity praise.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d3b1cc11737982fa58579d79f5095ba440c0e757a7b5f10a22d2b40b1c3df8cd"
+    },
+    {
+      "id": "x-health-174",
+      "status": "pass",
+      "assessment": "The direct clothing/privacy question is answered at the child level before equipment demonstration or continued parent discussion.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "11495f325f9644f52ff60495678435cd84871ee0abe553f5542adf7aef1596c6"
+    },
+    {
+      "id": "x-health-175",
+      "status": "pass",
+      "assessment": "Well-controlled asthma and planned sports participation make an individualized school plan and help-seeking appropriate; routine exclusion is unnecessary.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9cba6cd79bffa59e8022dcd6031b7a04e7420f89aabb5f245ac552d909230ebb"
+    },
+    {
+      "id": "x-health-176",
+      "status": "revise",
+      "assessment": "The clinically concerning sleep pattern is correct, but deferring a diary until the next annual visit retains an implausibly long delay foil.",
+      "issues": [
+        "The clinically concerning sleep pattern is correct, but deferring a diary until the next annual visit retains an implausibly long delay foil."
+      ],
+      "proposedChanges": [
+        "Replace the diary option with Begin a sleep diary for a planned follow-up discussion. Explain that a diary may support, but should not replace arranging assessment of the current snoring plus daytime change. Keep a clear first/most appropriate next-action stem."
+      ],
+      "reviewedItemSha256": "69cab68c2e4f3be1fd6438518ab20400e57aad8f110de524bffa4592779c1bc7"
+    },
+    {
+      "id": "x-health-177",
+      "status": "pass",
+      "assessment": "Improvement after light activity does not establish readiness for contact risk; stage-based progression and clearance are correctly distinguished.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5004b2a0c4acdd8eecbfb2955298996c36dd6acb48ee956a86d1fb6a09674acd"
+    },
+    {
+      "id": "x-health-178",
+      "status": "pass",
+      "assessment": "No urgent nutrition problem and absent adolescent input support eliciting the teenager perspective before a parent-led plan or baseline programme.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e0db9d6f51dbdaa02c71ff5fe87e414826d238ff0cfe2a509b39fa5ded478e9d"
+    },
+    {
+      "id": "x-health-179",
+      "status": "pass",
+      "assessment": "Basic knowledge is already established; school supplies and a trusted contact directly address the remaining practical concern.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c1016ed51e5b5d72a2666f377669102e6f0e842685f0203d3bc8f2ca84b33386"
+    },
+    {
+      "id": "x-health-180",
+      "status": "pass",
+      "assessment": "Rephrasing into evaluation actions resolves the prior logical ambiguity; evidence, expertise and commercial interests are distinct credible checks.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "547d788948e9ff123e3ac11bb0771892e41ddfd0a46ca73da386ffb320e1f172"
+    }
+  ]
+}

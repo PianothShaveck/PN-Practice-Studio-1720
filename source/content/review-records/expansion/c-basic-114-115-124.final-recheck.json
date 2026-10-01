@@ -1,0 +1,75 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:21:29.704857+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/basic-101-125.json",
+  "sourceSha256": "2cf4db5b74d819bcd2b57fe6cfeb1b382092b80580fe0b4281435111f8a864cb",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 3,
+    "reviewedIds": [
+      "x-basic-114",
+      "x-basic-115",
+      "x-basic-124"
+    ],
+    "unreviewedIds": [
+      "x-basic-101",
+      "x-basic-102",
+      "x-basic-103",
+      "x-basic-104",
+      "x-basic-105",
+      "x-basic-106",
+      "x-basic-107",
+      "x-basic-108",
+      "x-basic-109",
+      "x-basic-110",
+      "x-basic-111",
+      "x-basic-112",
+      "x-basic-113",
+      "x-basic-116",
+      "x-basic-117",
+      "x-basic-118",
+      "x-basic-119",
+      "x-basic-120",
+      "x-basic-121",
+      "x-basic-122",
+      "x-basic-123",
+      "x-basic-125"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-basic-114",
+      "status": "pass",
+      "assessment": "The stem limits focus to current physical discomfort, making toileting/fullness and pressure/position direct targets. Sleep and family timing remain broader contextual histories; negative only/without scaffolding is removed.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "22f1cfecadcaad5075b96930d6c2248c8af5cdcad4a08eeddbe6c61dcfbd548a"
+    },
+    {
+      "id": "x-basic-115",
+      "status": "pass",
+      "assessment": "All alternatives are assessment domains. Long daytime naps provide a specific reason to explore the sleep-wake pattern before less-cued environmental or medication timing contributors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "655cd87bc32db40169411ced9bc73737a92d955d4592887bfaa6ebd71fddf7c9"
+    },
+    {
+      "id": "x-basic-124",
+      "status": "pass",
+      "assessment": "All alternatives now interpret symptom response. Reduced tension shows anxiety benefit while unchanged pain needs separate management; neither unreviewed analgesic reduction nor dismissal of subjective tension follows.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c1c164710a4051c79d158a30b135cc11f0b6f773b63773ae69409882e5ebdf40"
+    }
+  ],
+  "reviewerTask": "/root/review_legacy"
+}

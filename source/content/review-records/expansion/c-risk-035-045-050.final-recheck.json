@@ -1,0 +1,75 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:33:59.985227+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/risk-026-050.json",
+  "sourceSha256": "b13308690528227745004fe94fed03f284d931d17a65b3c093e2b1f583c97cb8",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 3,
+    "reviewedIds": [
+      "x-risk-035",
+      "x-risk-045",
+      "x-risk-050"
+    ],
+    "unreviewedIds": [
+      "x-risk-026",
+      "x-risk-027",
+      "x-risk-028",
+      "x-risk-029",
+      "x-risk-030",
+      "x-risk-031",
+      "x-risk-032",
+      "x-risk-033",
+      "x-risk-034",
+      "x-risk-036",
+      "x-risk-037",
+      "x-risk-038",
+      "x-risk-039",
+      "x-risk-040",
+      "x-risk-041",
+      "x-risk-042",
+      "x-risk-043",
+      "x-risk-044",
+      "x-risk-046",
+      "x-risk-047",
+      "x-risk-048",
+      "x-risk-049"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-risk-035",
+      "status": "pass",
+      "assessment": "Case-specific pallor/lightheadedness after liver biopsy prioritizes circulation trends and bleeding assessment; usual needle response and analgesic timing are contextual but not direct perfusion measures.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "219fb279999461cff079625db4aa5913bf7729c2b9090f79797482a81d670b95"
+    },
+    {
+      "id": "x-risk-045",
+      "status": "pass",
+      "assessment": "Shorter key retains immediate responsiveness/breathing assessment and urgent review; recovery cannot be established by time or family observation. Option length is now comparable.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9e49c264f1c6dfdd4fc9b128963fc5946d1477c631bd880c1b42da401c4bbe33"
+    },
+    {
+      "id": "x-risk-050",
+      "status": "pass",
+      "assessment": "Immediate monitoring is guided by procedure restrictions/orders and sedative/recent observation details; discharge-date and usual exercise context do not establish recovery needs.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "066b85abcb0f578f2cd5c73e9a8034663cc123f2df624979fc24b14b893873e5"
+    }
+  ],
+  "reviewerTask": "/root/review_legacy"
+}

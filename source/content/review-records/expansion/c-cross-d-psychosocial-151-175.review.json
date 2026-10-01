@@ -1,0 +1,711 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewerTask": "/root/author_risk_basic",
+  "reviewedAt": "2026-10-01T18:20:10.086536+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/d/questions.json",
+  "coverage": {
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-psychosocial-151",
+      "x-psychosocial-152",
+      "x-psychosocial-153",
+      "x-psychosocial-154",
+      "x-psychosocial-155",
+      "x-psychosocial-156",
+      "x-psychosocial-157",
+      "x-psychosocial-158",
+      "x-psychosocial-159",
+      "x-psychosocial-160",
+      "x-psychosocial-161",
+      "x-psychosocial-162",
+      "x-psychosocial-163",
+      "x-psychosocial-164",
+      "x-psychosocial-165",
+      "x-psychosocial-166",
+      "x-psychosocial-167",
+      "x-psychosocial-168",
+      "x-psychosocial-169",
+      "x-psychosocial-170",
+      "x-psychosocial-171",
+      "x-psychosocial-172",
+      "x-psychosocial-173",
+      "x-psychosocial-174",
+      "x-psychosocial-175"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Actually read all current fields of every151–175 item, including all options, keys and rationales. Clinical keys generally remained defensible, but every item had an identified distractor, cue, task-boundary or source-specific problem. Patches were individually reasoned; no blanket rejection/pass rule was used.",
+  "limitations": [
+    "Independent AI review, not clinician or psychometric validation.",
+    "Targeted new sources were retrieved as search-result excerpts; author must register the supplied topic sources and record actual access before final reference reconciliation.",
+    "No claim of exhaustive cross-bank semantic comparison or live-exam comparison."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.canada.ca/en/public-health/services/publications/healthy-living/maternity-newborn-care-guidelines-chapter-7.html",
+      "claims": "Individual preferences, memories and support after perinatal loss",
+      "accessMode": "search-result excerpt",
+      "ref": "turn262search2"
+    },
+    {
+      "url": "https://www.canada.ca/en/public-health/services/health-promotion/stop-family-violence/plan-your-safety.html",
+      "claims": "Safety planning even when not planning to leave",
+      "accessMode": "search-result excerpt",
+      "ref": "turn262search1"
+    },
+    {
+      "url": "https://techsafety.ca/resources/toolkits/technology-safety-plan-tip-sheet/",
+      "claims": "Safer devices and individualized planning for monitored technology",
+      "accessMode": "search-result excerpt",
+      "ref": "turn262search0"
+    },
+    {
+      "url": "https://www.canada.ca/en/public-health/services/health-promotion/stop-family-violence/family-violence.html",
+      "claims": "Economic abuse, coercive control and obstructed access to health care",
+      "accessMode": "search-result excerpt",
+      "ref": "turn267search3"
+    }
+  ],
+  "sourceAdditions": {
+    "d-perinatal-loss": {
+      "name": "PHAC: Maternity and Newborn Care Guidelines, Chapter7 Loss and Grief",
+      "url": "https://www.canada.ca/en/public-health/services/publications/healthy-living/maternity-newborn-care-guidelines-chapter-7.html",
+      "kind": "Canadian government guidance",
+      "scope": "Individual preferences, memories and support after perinatal loss"
+    },
+    "d-ipv-safety": {
+      "name": "PHAC: Plan your safety in an abusive relationship",
+      "url": "https://www.canada.ca/en/public-health/services/health-promotion/stop-family-violence/plan-your-safety.html",
+      "kind": "Canadian government guidance",
+      "scope": "Safety planning even when not planning to leave"
+    },
+    "d-tech-safety": {
+      "name": "Women’s Shelters Canada: Technology safety plan tip sheet",
+      "url": "https://techsafety.ca/resources/toolkits/technology-safety-plan-tip-sheet/",
+      "kind": "Canadian specialist survivor-safety guidance",
+      "scope": "Safer devices and individualized planning for monitored technology"
+    },
+    "d-family-violence": {
+      "name": "PHAC: What is family violence?",
+      "url": "https://www.canada.ca/en/public-health/services/health-promotion/stop-family-violence/family-violence.html",
+      "kind": "Canadian government guidance",
+      "scope": "Economic abuse, coercive control and obstructed access to health care"
+    }
+  },
+  "items": [
+    {
+      "id": "x-psychosocial-151",
+      "status": "revise",
+      "assessment": "Nurse preference, hesitation equals every refusal and relatives taking over are conspicuous wrong answers. Compare recognizable bereavement-support approaches; add direct perinatal-loss support.",
+      "issues": [
+        "Nurse preference, hesitation equals every refusal and relatives taking over are conspicuous wrong answers. Compare recognizable bereavement-support approaches; add direct perinatal-loss support."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Describe keepsakes other families valued and encourage the client to select those",
+          "Record the current hesitation as a decline and provide the bereavement booklet",
+          "Explain the choices, explore concerns and allow the client time to decide",
+          "Ask the partner to choose the keepsakes so the client can rest"
+        ],
+        "why": [
+          "Other families’ experiences may inform discussion but should not prescribe what is meaningful for this client.",
+          "Uncertainty calls for information and space; it is not a settled refusal of the available choices.",
+          "Sensitive explanation and exploration support an informed personal choice without pressure.",
+          "The partner can support the client if desired, but should not replace the client’s preference by default."
+        ],
+        "refs": [
+          "d-grief",
+          "d-perinatal-loss"
+        ]
+      },
+      "reviewedItemSha256": "3987598fa769dd35f261a324087a7d1ff963c6273c97832984018c1e8e22674d"
+    },
+    {
+      "id": "x-psychosocial-152",
+      "status": "revise",
+      "assessment": "Blame allocation and stop-thinking language are obviously nontherapeutic. Use plausible reassurance, remembrance and factual-review responses.",
+      "issues": [
+        "Blame allocation and stop-thinking language are obviously nontherapeutic. Use plausible reassurance, remembrance and factual-review responses."
+      ],
+      "proposedChanges": {
+        "options": [
+          "'You are carrying a lot of guilt; tell me what you are thinking.'",
+          "'Families often wish they had acted differently; try to focus on the good memories.'",
+          "'You supported your parent for years; remembering that may help you set this aside.'",
+          "'Let us ask for a review of the timeline so we can decide whether the call mattered.'"
+        ],
+        "why": [
+          "Exploration acknowledges the distress without deciding uncertain causation.",
+          "Normalizing can help, but moving directly to positive memories may close discussion of the current guilt.",
+          "Past caregiving may be a strength, but advising the client to set guilt aside does not explore its meaning.",
+          "A factual discussion may be useful later; immediately making this an investigation bypasses the expressed emotion and cannot promise an answer."
+        ]
+      },
+      "reviewedItemSha256": "d9f619d74b7978bbfac251e44049452a86e9de66e181496907addb333c623049"
+    },
+    {
+      "id": "x-psychosocial-153",
+      "status": "revise",
+      "assessment": "Exclusive emotional focus and mandatory independence are implausible. Add immediate practical cues and compare helpful but less targeted responses.",
+      "issues": [
+        "Exclusive emotional focus and mandatory independence are implausible. Add immediate practical cues and compare helpful but less targeted responses."
+      ],
+      "proposedChanges": {
+        "stem": "A client bereaved last week feels overwhelmed by meals, appointments and paperwork. They have eaten very little today and missed collecting a regular prescription. What should the nurse do first?",
+        "options": [
+          "Offer a bereavement helpline and information about a local support group",
+          "Help the client develop a detailed schedule for the next several months",
+          "Invite the client to describe memories of the person who died",
+          "Identify immediate food and medication needs and available practical help"
+        ],
+        "why": [
+          "Bereavement services may help, but the unmet needs today require a more immediate practical plan.",
+          "A long planning task may add to current overload before basic needs are addressed.",
+          "Reminiscence can provide emotional support but does not resolve the stated immediate needs.",
+          "Prioritizing basic needs and feasible support makes the next steps manageable."
+        ]
+      },
+      "reviewedItemSha256": "5f264a43f327d9ea371a138aaf1cb6b9165b4a7c563deab5aa4580931ed651cb"
+    },
+    {
+      "id": "x-psychosocial-154",
+      "status": "revise",
+      "assessment": "Generic SATA uses ethnicity and the nurse’s own religion as transparent errors. Give a real ritual-planning context and credible assumption errors.",
+      "issues": [
+        "Generic SATA uses ethnicity and the nurse’s own religion as transparent errors. Give a real ritual-planning context and credible assumption errors."
+      ],
+      "proposedChanges": {
+        "stem": "After a death, a family asks for a bedside mourning ritual the nurse does not know. Some requested timing may conflict with arrangements already planned. Which actions support respectful care? Select all that apply.",
+        "options": [
+          "Ask the family which parts of the ritual are most important to them",
+          "Explore feasible changes to the timing with the relevant team",
+          "Use the cultural reference guide to select the ritual on the family’s behalf",
+          "Explain specific constraints and ask about acceptable alternatives",
+          "Arrange the hospital’s usual faith representative to lead the ritual"
+        ],
+        "why": [
+          "The family’s own account establishes its priorities rather than assuming uniform practice.",
+          "Coordination may make the requested practice possible within care arrangements.",
+          "A guide can inform respectful questions but cannot establish this family’s choices.",
+          "Transparent discussion supports collaboration when the exact request cannot be met.",
+          "The usual representative may not fit this family’s beliefs; ask who they would want involved."
+        ]
+      },
+      "reviewedItemSha256": "6c9115c6aac30df4e5103b68d132a0b7696a51149b5ac133e5591d4f0395ff72"
+    },
+    {
+      "id": "x-psychosocial-155",
+      "status": "revise",
+      "assessment": "Marriage-obligation language, only a sheet and waiting for crisis are bad-intent or delay cues. Compare realistic caregiver interventions.",
+      "issues": [
+        "Marriage-obligation language, only a sheet and waiting for crisis are bad-intent or delay cues. Compare realistic caregiver interventions."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Assess care demands, caregiver wellbeing and immediate options for relief",
+          "Review strategies for responding to common dementia behaviours",
+          "Help the spouse design a relaxation routine for the evening",
+          "Arrange an earlier review of the care recipient’s dementia treatment"
+        ],
+        "why": [
+          "Missed meals, poor sleep and feeling trapped warrant assessment of caregiver health, safety and practical relief.",
+          "Skills education may reduce some demands, but does not by itself establish whether the caregiver’s basic needs and safety are being met.",
+          "Relaxation may help sleep but cannot compensate for an unmanageable care workload.",
+          "The recipient’s treatment may need review, but the spouse’s own health and support needs also require direct assessment."
+        ]
+      },
+      "reviewedItemSha256": "02224025e6db45019e01374e2471071a0a95bad0549fba187760becadd82dc4b"
+    },
+    {
+      "id": "x-psychosocial-156",
+      "status": "revise",
+      "assessment": "Every task back, withdrawal from decisions and lost productivity make the key uniquely humane. Compare credible role-adaptation approaches.",
+      "issues": [
+        "Every task back, withdrawal from decisions and lost productivity make the key uniquely humane. Compare credible role-adaptation approaches."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Focus on regaining the former responsibilities before introducing different household roles",
+          "Explore valued roles and agree on achievable contributions with the family",
+          "Have relatives take over household planning while physical recovery continues",
+          "Set rehabilitation goals around the tasks the family most wants completed"
+        ],
+        "why": [
+          "Waiting for former roles to return can miss meaningful contributions that are possible now.",
+          "Client-valued, achievable participation supports identity and recovery within current limitations.",
+          "Temporary help may be needed, but automatically taking over planning can remove an ability the client retains.",
+          "Family needs matter, but goals must also reflect the client’s values, abilities and recovery plan."
+        ]
+      },
+      "reviewedItemSha256": "bccb5b75a65b34b30bb64467f4585776add49ee0cb39614759da902792e9fdef"
+    },
+    {
+      "id": "x-psychosocial-157",
+      "status": "revise",
+      "assessment": "Financial authority, family votes and nurse preference are not plausible competing counselling plans.",
+      "issues": [
+        "Financial authority, family votes and nurse preference are not plausible competing counselling plans."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Include the main daily caregiver in counselling because they provide most practical support",
+          "Begin with a joint family session to resolve the disagreement about participation",
+          "Clarify the client’s preferred involvement and agree on what information may be shared",
+          "Ask the counsellor to choose participants according to likely treatment benefit"
+        ],
+        "why": [
+          "Practical support does not replace the capable client’s consent to counselling involvement.",
+          "A joint session may be useful if the client agrees, but should not be the default solution to their request for privacy.",
+          "Client-defined limits establish legitimate participation and information sharing.",
+          "Professional advice can help the client decide, but does not supersede their wishes."
+        ]
+      },
+      "reviewedItemSha256": "0d54fc7bf64e885fe7c1158e252e469b5387ced2a8b5caee59b4072944a6ad80"
+    },
+    {
+      "id": "x-psychosocial-158",
+      "status": "revise",
+      "assessment": "Immediate secrecy promises and inferred culture are conspicuous. Compare family protection, team disclosure and client-preference clarification.",
+      "issues": [
+        "Immediate secrecy promises and inferred culture are conspicuous. Compare family protection, team disclosure and client-preference clarification."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Agree to postpone the discussion until relatives feel ready to support it",
+          "Arrange a family meeting to decide how much information the client should receive",
+          "Ask the clinician to disclose the full diagnosis immediately to ensure openness",
+          "Explore family concerns and clarify the client’s information preferences with the team"
+        ],
+        "why": [
+          "Relatives’ readiness does not establish the capable client’s wishes about receiving information.",
+          "Family input may help, but the client should determine their own desired information and involvement.",
+          "Honesty matters, but first establish how the client wants information shared, including any wish to involve others or limit detail.",
+          "This respects concerns while keeping the capable client’s preferences central to informed communication."
+        ]
+      },
+      "reviewedItemSha256": "e165c96109695860d33567a34b9722afb22eb5c412a8b839c006aba5bf00fe37"
+    },
+    {
+      "id": "x-psychosocial-159",
+      "status": "revise",
+      "assessment": "Blame and proving absence of disagreement are cartoon questions. Compare resource assessment with relevant background data.",
+      "issues": [
+        "Blame and proving absence of disagreement are cartoon questions. Compare resource assessment with relevant background data."
+      ],
+      "proposedChanges": {
+        "stem": "A family is preparing for new daily care responsibilities after a crisis. Which questions directly identify their coping strengths, available support or support gaps? Select all that apply.",
+        "options": [
+          "'Who could help when meals, appointments or other responsibilities become difficult?'",
+          "'What helped your family manage a major change before?'",
+          "'How many times has your relative been admitted to hospital this year?'",
+          "'What support would make the next few days manageable?'",
+          "'What is the current schedule of prescribed medicines?'"
+        ],
+        "why": [
+          "Potential helpers identify practical and emotional resources.",
+          "Previous effective coping can identify strengths to use again.",
+          "Admission history describes illness burden; it does not directly establish coping strengths or available help.",
+          "The family’s immediate needs identify gaps that support planning can address.",
+          "The medicine schedule describes care demands; it does not establish who can manage them or what support is missing."
+        ]
+      },
+      "reviewedItemSha256": "5314627660aced74212f2634fadbaa9853f668a0df546f7ad259c8a8600df295"
+    },
+    {
+      "id": "x-psychosocial-160",
+      "status": "revise",
+      "assessment": "Conditional support and describing staying as consent are plainly harmful distractors. Keep safety planning but compare plausible partial responses.",
+      "issues": [
+        "Conditional support and describing staying as consent are plainly harmful distractors. Keep safety planning but compare plausible partial responses."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Focus the visit on transport and packing for a possible shelter move",
+          "Assess current danger and build a safety plan with acceptable resources",
+          "Arrange relationship counselling to work on communication with the partner",
+          "Provide emergency contact details and invite the client to return when ready"
+        ],
+        "why": [
+          "Leaving-related preparations may be useful if wanted, but must follow assessment of the client’s current risks, wishes and safe options.",
+          "Safety planning can help while the client remains in the relationship; tailor it to current danger and accessible support.",
+          "Joint relationship counselling is not an automatic response to coercion or violence and can compromise safety.",
+          "Contact information is helpful, but should not replace individualized risk assessment and planning now."
+        ],
+        "refs": [
+          "d-trauma",
+          "d-ipv-safety"
+        ]
+      },
+      "reviewedItemSha256": "a2c756086a6f0085797d6768e5d96a9ca94d0f74ef351c39692e2ec75e730fd3"
+    },
+    {
+      "id": "x-psychosocial-161",
+      "status": "revise",
+      "assessment": "Always/private browser and asking the abusive partner telegraph the answer. Compare realistic unsafe communication assumptions and add a direct technology source.",
+      "issues": [
+        "Always/private browser and asking the abusive partner telegraph the answer. Compare realistic unsafe communication assumptions and add a direct technology source."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Send a neutral-looking text containing the service telephone number",
+          "Email a resource attachment rather than sending a visible text message",
+          "Ask which device, contact method and resource format can be used safely",
+          "Provide web links and suggest deleting the browser history afterward"
+        ],
+        "why": [
+          "Even neutral messages can leave records or reveal contact through a monitored device.",
+          "Email can also be monitored; changing format does not establish safety.",
+          "The client’s knowledge of monitoring should guide a safer communication plan before sending material.",
+          "History deletion does not remove every trace and changes may be noticed; assess device safety rather than relying on this step."
+        ],
+        "refs": [
+          "d-trauma",
+          "d-tech-safety"
+        ]
+      },
+      "reviewedItemSha256": "8f70cc84dd2483a441953d99279b1393698ffb3b3553437196d53f932f5a3da7"
+    },
+    {
+      "id": "x-psychosocial-162",
+      "status": "revise",
+      "assessment": "Every distractor simply denies the relevance of control. Compare plausible interpretations using explicit lack of choice.",
+      "issues": [
+        "Every distractor simply denies the relevance of control. Compare plausible interpretations using explicit lack of choice."
+      ],
+      "proposedChanges": {
+        "stem": "A client says a partner controls the money and cancels medical appointments despite the client asking to attend. The client says the partner has never hit them. Which interpretation best guides further assessment?",
+        "options": [
+          "The pattern may be coercive control affecting autonomy and access to care",
+          "The pattern primarily reflects an agreed division of household responsibilities",
+          "The main difficulty is the client’s lack of knowledge about appointment systems",
+          "The absence of physical assault makes ordinary relationship conflict most likely"
+        ],
+        "why": [
+          "Unwanted control of resources and health-care access can be harmful without physical assault.",
+          "The client’s expressed wish to attend is being overridden, so agreement should not be assumed.",
+          "The account describes another person blocking access, rather than a stated scheduling-knowledge gap.",
+          "No injury does not exclude nonphysical abuse or the need for private safety assessment."
+        ],
+        "refs": [
+          "d-trauma",
+          "d-family-violence"
+        ]
+      },
+      "reviewedItemSha256": "fc35219dba2fe0c8a039182856158fabc08f2631dec628407e090f7fee1005ff"
+    },
+    {
+      "id": "x-psychosocial-163",
+      "status": "revise",
+      "assessment": "Never/automatic police reporting and advice against reporting are transparent. Present reasonable but potentially premature support routes.",
+      "issues": [
+        "Never/automatic police reporting and advice against reporting are transparent. Present reasonable but potentially premature support routes."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Encourage a police report promptly so the client will not lose an opportunity to act",
+          "Ask whether a relative can help decide before explaining the reporting options",
+          "Arrange counselling first and return to discussion of reporting at a later visit",
+          "Explain choices and applicable limits, and support the client’s informed decision"
+        ],
+        "why": [
+          "Time-sensitive evidence options should be explained, but the nurse should not steer a capable adult into a decision without informed discussion.",
+          "A chosen supporter may help, but the client needs information and control over whom to involve.",
+          "Counselling can be valuable, but postponing information may narrow options the client is currently considering.",
+          "Clear options, relevant time considerations and actual reporting limits support agency; requirements depend on the circumstances and jurisdiction."
+        ]
+      },
+      "reviewedItemSha256": "afc80f40c3e6fe81b939dd0f7961d1f0b0ce531df200e839f248a4f2a8d2f436"
+    },
+    {
+      "id": "x-psychosocial-164",
+      "status": "revise",
+      "assessment": "Family acceptance and public accusation are too obvious. Compare private safeguarding with recognizable but inadequate budget/family approaches; add economic-abuse source.",
+      "issues": [
+        "Family acceptance and public accusation are too obvious. Compare private safeguarding with recognizable but inadequate budget/family approaches; add economic-abuse source."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Speak privately about the arrangement and the client’s wishes",
+          "Assess food access, current safety and the decision-making context",
+          "Start with a joint family budget meeting to clarify the spending",
+          "Offer appropriate safeguarding and community support options",
+          "Provide a household budget worksheet as the initial response to the concern"
+        ],
+        "why": [
+          "Privacy can help establish consent, control and concerns without another person influencing the account.",
+          "Immediate unmet food needs and ability to make decisions may require prompt support.",
+          "A joint meeting before private assessment may inhibit disclosure or increase risk when exploitation is possible.",
+          "Relevant resources can support safety and informed options while applicable duties are reviewed.",
+          "Budget education may be useful for a knowledge gap, but does not first address possible unauthorized control and insufficient food."
+        ],
+        "refs": [
+          "d-family",
+          "d-family-violence"
+        ]
+      },
+      "reviewedItemSha256": "cace543e1f957e19bd2ae17ec4d2b977794985b23843f960b28b6bf07c4efda4"
+    },
+    {
+      "id": "x-psychosocial-165",
+      "status": "revise",
+      "assessment": "Ignoring fear, simultaneous commands and rigid timing make the key obvious. Compare practical bathing adaptations.",
+      "issues": [
+        "Ignoring fear, simultaneous commands and rigid timing make the key obvious. Compare practical bathing adaptations."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Use a familiar caregiver, slower pacing and one-step explanations",
+          "Add a second familiar caregiver so the shower can be completed sooner",
+          "Demonstrate the entire shower sequence before beginning the usual routine",
+          "Schedule the shower at the usual time and offer a preferred activity afterward"
+        ],
+        "why": [
+          "The described trigger is rushed care and the client tolerates familiar routines; pacing and familiarity address that pattern.",
+          "Additional help may be needed for physical safety, but shortening the task does not necessarily reduce perceived threat from rushing.",
+          "A long demonstration may overload processing and leaves pacing during the actual care unchanged.",
+          "Consistency and a preferred activity may help, but do not directly address distress caused by how the shower is introduced and paced."
+        ]
+      },
+      "reviewedItemSha256": "ff303f53d1c591d230fc7e26089f52b0926c6ba8f91490beec828ec46f334da8"
+    },
+    {
+      "id": "x-psychosocial-166",
+      "status": "revise",
+      "assessment": "Admission of forgetting, a lecture and proof of theft are implausible therapeutic responses.",
+      "issues": [
+        "Admission of forgetting, a lecture and proof of theft are implausible therapeutic responses."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Remind the client that staff documented where the purse was placed",
+          "Acknowledge the worry and help the client find the safely stored purse",
+          "Offer a familiar activity to draw attention away from the missing purse",
+          "Explain that memory changes can make safely stored belongings seem lost"
+        ],
+        "why": [
+          "The record may be accurate but does not necessarily reduce the client’s immediate insecurity.",
+          "Validation followed by locating the purse addresses the concern and provides concrete reassurance.",
+          "Redirection can sometimes help, but an accessible direct resolution is available here.",
+          "Education may help at another time, but can be harder to process than finding the item that is causing worry."
+        ]
+      },
+      "reviewedItemSha256": "6de93063e1f041c7a28c0c41c30d58d8bd8b4ecb2da27dfbba5a9f748add8e70"
+    },
+    {
+      "id": "x-psychosocial-167",
+      "status": "revise",
+      "assessment": "Waiting for agitation or a monthly review are obvious delays. Ask for interpretation among clinically relevant explanations.",
+      "issues": [
+        "Waiting for agitation or a monthly review are obvious delays. Ask for interpretation among clinically relevant explanations."
+      ],
+      "proposedChanges": {
+        "stem": "A normally interactive resident with dementia becomes unusually quiet and inattentive over one shift. Which interpretation should guide the nurse’s next assessment?",
+        "options": [
+          "Gradual dementia progression has reduced the resident’s need for interaction",
+          "Less agitation indicates that the existing behavioural-care plan is effective",
+          "An acute change from baseline may represent hypoactive delirium or illness",
+          "Fatigue is the likely explanation because the resident is less physically active"
+        ],
+        "why": [
+          "A change over one shift is not safely attributed to gradual progression.",
+          "Quiet behaviour with new inattention does not establish improvement.",
+          "Assess physiology, medicines, pain and other possible contributors and report the acute change; delirium can present with reduced activity.",
+          "Fatigue is a possibility, but does not justify overlooking acute cognitive change without assessment."
+        ],
+        "reasoningSkill": "recognition"
+      },
+      "reviewedItemSha256": "9c88835a94b44d39b0637b2d34cec573149a9a4d439ba86e2e29e6c91a263929"
+    },
+    {
+      "id": "x-psychosocial-168",
+      "status": "revise",
+      "assessment": "Personality judgement and louder commands are bad-intent distractors. Compare useful assessments or comfort actions while keeping post-fall injury priority.",
+      "issues": [
+        "Personality judgement and louder commands are bad-intent distractors. Compare useful assessments or comfort actions while keeping post-fall injury priority."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Ask the familiar caregiver to describe behaviour during previous turning care",
+          "Use a calm familiar approach and offer a pause before the next turn",
+          "Review environmental triggers associated with distress during personal care",
+          "Assess for pain and injury using physical and observational findings"
+        ],
+        "why": [
+          "Baseline behaviour is useful, but the new change after a fall requires direct injury and pain assessment.",
+          "Calm pacing supports care, but should accompany rather than replace assessment of the post-fall symptoms.",
+          "Environmental triggers may contribute, but a physical injury is a more immediate concern with new guarding and grimacing after a fall.",
+          "Nonverbal behaviour may express pain; assess possible injury before treating this simply as care resistance."
+        ]
+      },
+      "reviewedItemSha256": "2170b0e2f2c988cf7ba3a64842c0825849c7302878fbd482dbf94b2114f11d87"
+    },
+    {
+      "id": "x-psychosocial-169",
+      "status": "revise",
+      "assessment": "Continuous darkness and repeated confrontation are giveaway extremes. Retain recognizable sleep/orientation technique errors with specific actions.",
+      "issues": [
+        "Continuous darkness and repeated confrontation are giveaway extremes. Retain recognizable sleep/orientation technique errors with specific actions."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Use short calm orientation cues as tolerated",
+          "Make needed glasses and hearing aids available",
+          "Keep curtains closed throughout the daytime to extend opportunities for sleep",
+          "Offer familiar supportive contact suited to the client’s tolerance",
+          "Ask the client to repeat orientation answers until each response is accurate"
+        ],
+        "why": [
+          "Gentle repeated cues can support connection without overwhelming the client.",
+          "Sensory access can reduce avoidable misinterpretation and isolation.",
+          "Prolonged daytime darkness may disrupt sleep-wake cues rather than restore orientation.",
+          "Familiar contact can reduce fear and support communication while causes are treated.",
+          "Performance-style repetition can increase fatigue or distress; orientation is supportive care rather than a test the client must pass."
+        ]
+      },
+      "reviewedItemSha256": "83b4abd1325b252eebf27bae5fcb3fd6ebea9741b4fb4a41392ceb4c7b94489b"
+    },
+    {
+      "id": "x-psychosocial-170",
+      "status": "revise",
+      "assessment": "Punishment and pre-emptive restraint are implausible. Compare information relevant to different parts of a walking-safety plan.",
+      "issues": [
+        "Punishment and pre-emptive restraint are implausible. Compare information relevant to different parts of a walking-safety plan."
+      ],
+      "proposedChanges": {
+        "stem": "A resident with dementia walks toward the exit each afternoon saying they must collect their children. Which information would be most useful for planning an individualized redirection strategy?",
+        "options": [
+          "The resident’s former afternoon routines and the meaning of collecting the children",
+          "The resident’s current fall-risk score and usual walking distance",
+          "The location of the nearest exit and the daily visitor numbers",
+          "The most recent orientation score and errors about the current year"
+        ],
+        "why": [
+          "The timing and stated purpose can identify a familiar role or unmet need for a meaningful response.",
+          "Mobility risk matters for safety, but does not explain why this repeated activity occurs at this time.",
+          "Environmental safety matters, but traffic and exit distance do not establish the resident’s underlying concern.",
+          "Cognitive testing provides background but does not identify the meaning of this particular pattern."
+        ]
+      },
+      "reviewedItemSha256": "e855884feb65795433d5bd42e8af560546e34ef651c8b8a7cc408791d7d10c13"
+    },
+    {
+      "id": "x-psychosocial-171",
+      "status": "revise",
+      "assessment": "All choices removed, every preference delegated and repeated complex tests are caricatures. Make choice formats the genuine alternatives.",
+      "issues": [
+        "All choices removed, every preference delegated and repeated complex tests are caricatures. Make choice formats the genuine alternatives."
+      ],
+      "proposedChanges": {
+        "stem": "A client with dementia follows one-step requests and points to preferred clothing, but becomes distressed when the full wardrobe is opened for dressing. Which approach best preserves participation?",
+        "options": [
+          "Lay out several complete outfits so all possibilities are visible together",
+          "Offer two suitable garments at a time and allow a simple choice",
+          "Use the outfit the client preferred yesterday to shorten the decision",
+          "Ask the client to rank clothing preferences on a written list"
+        ],
+        "why": [
+          "Too many simultaneous options repeat the observed source of overload.",
+          "A limited meaningful choice matches the client’s demonstrated ability and preserves current preference.",
+          "Past preferences can help, but should not automatically replace a choice the client can still make.",
+          "Ranking several written options adds processing demands beyond the one-step ability described."
+        ]
+      },
+      "reviewedItemSha256": "2572a46024b7e5b549ff7282e2b7d25e45ad9c0dc06f16d6d68c9b09e91fda29"
+    },
+    {
+      "id": "x-psychosocial-172",
+      "status": "revise",
+      "assessment": "Speed, louder instructions and avoiding all care are conspicuous. Compare plausible approach changes.",
+      "issues": [
+        "Speed, louder instructions and avoiding all care are conspicuous. Compare plausible approach changes."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Give the full care explanation from the doorway before approaching the bed",
+          "Maintain a running explanation while beginning the hands-on care",
+          "Approach within view, identify oneself and explain before each contact",
+          "Ask a second caregiver to distract the resident with conversation during care"
+        ],
+        "why": [
+          "An explanation at a distance may not ensure recognition and readiness when contact occurs.",
+          "Narration after touch begins may not prevent the initial surprise that triggered the response.",
+          "Visible predictable contact directly addresses startle and perceived threat.",
+          "Distraction can help some care, but unexpected touch can remain frightening if approach and preparation are unchanged."
+        ]
+      },
+      "reviewedItemSha256": "433ff42c93b2a2a4989a6b480ee10e6a2d1b0942af4ef32543e4dbc595cbcb8a"
+    },
+    {
+      "id": "x-psychosocial-173",
+      "status": "revise",
+      "assessment": "Public correction and repeated performance comparisons are obvious. Use recognizable well-intended memory strategies.",
+      "issues": [
+        "Public correction and repeated performance comparisons are obvious. Use recognizable well-intended memory strategies."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Use shorter name-and-date quizzes so the client experiences more successful answers",
+          "Prepare the correct answers before visits and rehearse them together",
+          "Use a family photo album mainly to practise identifying each person",
+          "Choose conversation and activities that draw on the client’s remaining interests and abilities"
+        ],
+        "why": [
+          "Shorter tests can still turn visits into performance demands when repeated quizzing is already distressing.",
+          "Rehearsal may not restore lost memory and can displace enjoyable connection.",
+          "Photos may support connection, but using them mainly as a naming test can recreate frustration.",
+          "Strength-based interaction supports dignity and connection without requiring correct recall."
+        ]
+      },
+      "reviewedItemSha256": "fb1c803b509829c5aabba512a2964946e5a52859da50b38fc16fac4469675200"
+    },
+    {
+      "id": "x-psychosocial-174",
+      "status": "revise",
+      "assessment": "The original asks what to track: even worsening outcomes and time can be worth tracking, so the key is not exclusive. Ask which findings support effectiveness and use clinical outcomes.",
+      "issues": [
+        "The original asks what to track: even worsening outcomes and time can be worth tracking, so the key is not exclusive. Ask which findings support effectiveness and use clinical outcomes."
+      ],
+      "proposedChanges": {
+        "stem": "A dementia-care team changes bathing time and uses a familiar caregiver to reduce distress while meeting hygiene needs. Which findings support effectiveness of the revised plan? Select all that apply.",
+        "options": [
+          "Distress episodes during bathing are less frequent and less intense",
+          "The client participates in washing with a relaxed expression and fewer pauses",
+          "Baths finish faster, but grimacing and attempts to pull away have increased",
+          "Skin and hygiene needs are met using the revised approach",
+          "The client is quieter after sedating medicine but cannot participate in washing"
+        ],
+        "why": [
+          "Reduced distress supports the stated aim of the adaptation.",
+          "Comfortable participation demonstrates a useful functional response.",
+          "Speed does not establish benefit when distress has increased.",
+          "The plan must meet necessary physical-care goals as well as reduce distress.",
+          "Reduced activity after sedation does not establish comfortable participation or effectiveness of the bathing adaptation."
+        ]
+      },
+      "reviewedItemSha256": "d9b62865b92ce1ff422fb9178492ef9b0a2d7958fa82ae0464708dd196b5a377"
+    },
+    {
+      "id": "x-psychosocial-175",
+      "status": "revise",
+      "assessment": "Intentional behaviour and memory exercises alone are transparent misconceptions. Use parallel clinical explanations.",
+      "issues": [
+        "Intentional behaviour and memory exercises alone are transparent misconceptions. Use parallel clinical explanations."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Attention can fluctuate during delirium even while the underlying illness still needs treatment",
+          "The periods of clarity establish that the acute physical problem has resolved",
+          "The variation is best understood as steady progression of chronic memory loss",
+          "A correct orientation answer shows that difficulties following care instructions have ended"
+        ],
+        "why": [
+          "Fluctuation is a feature of delirium; repeat assessment and treatment of causes remain necessary.",
+          "A lucid interval does not establish recovery of the underlying acute illness.",
+          "Rapid fluctuation over hours differs from the usual slower course of chronic cognitive decline.",
+          "One correct response does not establish sustained attention or ability to follow a sequence."
+        ]
+      },
+      "reviewedItemSha256": "a3b3f50c6d4b699657b69de5fa5c671ddafe53136329ae97b5a7fe4ebdd3dc79"
+    }
+  ]
+}

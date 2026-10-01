@@ -1,0 +1,2014 @@
+{
+  "generatedAt": "2026-10-01T18:33:54.003976+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/a/safety.json",
+  "method": "Mechanical reconciliation of previously recorded per-item independent review judgments and the exact canonical current item hash; this script does not perform or infer clinical review.",
+  "reviewedItemCount": 200,
+  "total": 200,
+  "unresolvedIds": [],
+  "items": [
+    {
+      "id": "x-safety-001",
+      "itemSha256": "b1b0de404b268d728dacab1dbaf85dea28588180574e43fc2736eff2a45cf8d8",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-001-050.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-002",
+      "itemSha256": "9ad01f9db4077324f965f45232a2e1f47a9c29791c8b261459e82583ccab3916",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-001-025.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-003",
+      "itemSha256": "6fe662694b02e1d4a7697635326c3db69d177e534a5e444f20ac195b7952cf06",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-001-025.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-004",
+      "itemSha256": "2cb0018a9be5cd4d020acc5793f376341e0678ea99baa1453203230516f632af",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-001-050.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-005",
+      "itemSha256": "4defba2aaa7537f0ceaa297b8002d0c535df152c0604040f20309e386106cd12",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-001-050.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-006",
+      "itemSha256": "20fa2b347c4b4b5a4f0211cbafdd8834c71eafd1cd336bfa2c7b5674d0ae0b18",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-001-025.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-007",
+      "itemSha256": "ffdfea52528a8abc4048a94d09d80640c03932da27ff44e2304cf70f55be3deb",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-001-050.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-008",
+      "itemSha256": "58d42be9365c4dd519ed5451fc37cfa6fc847834bec3a5d0f208a6a699995a13",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-small.followup2.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-009",
+      "itemSha256": "f655cff78bf7913dac93d78d24343ff1f6dd86c763d8791651091e793a8b03a0",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-001-025.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-010",
+      "itemSha256": "b629cb53f4669fa543853e28f65bc4f1c0ac7520d824b8d9130cfc86cf3ea1e1",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-001-050.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-011",
+      "itemSha256": "85dc98706d708a159ba66e5bfa9e27a92b0e46c7236a5e376f0eb24a2e0a4c38",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-001-050.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-012",
+      "itemSha256": "46db52c0fc7d6d34d2ef1052877388efe0fe304959186ade95ce155714f0c597",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-001-025.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-013",
+      "itemSha256": "604b0d93b5e6c23dd4abe91bd0c735320259faa54b6da02be1224e6f4ee9087b",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-001-025.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-014",
+      "itemSha256": "c35c05afec1a7cb2435b2aa709ebb70186ae5f6441983a3eab684a49cfc4d6a1",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-001-050.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-015",
+      "itemSha256": "500fa58cdd174279aa678e8f557e19f2e7fc8b3ded63f6e4f242c61aaa90c332",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-001-025.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-016",
+      "itemSha256": "999a7e8701b1e080fc8fbff8d3305e8acfce7c039efc2f4ec2b24e4996f31276",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-001-025.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-017",
+      "itemSha256": "d411900faf94c0a7bbbe01be7661111fa5ad1b03235e4a51cbad6554f0c4d515",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-001-050.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-018",
+      "itemSha256": "ff50bd590a86abfa6b21fea00d6622d41f214a2a96011081bfb9c24151dce4e4",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-001-050.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-019",
+      "itemSha256": "53fc1bc812a30a7ae586db516357f98934878238200c57cf2ac1e58e3e4a87b7",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-001-050.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-020",
+      "itemSha256": "618629748557768ac696246416560b8940acb82807973eaa751ad9a8b7e407e1",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-001-025.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-021",
+      "itemSha256": "7ed9da69739fd32e544b7df954da189c2af214dfb3e5b5e8384881cd9cdcfb59",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-001-050.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-022",
+      "itemSha256": "e146ca0441b6fe262f61386a8ce15435c53eda8f47b8d99989dce4d7c7991842",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-001-050.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-023",
+      "itemSha256": "a698f914dc03cf2404999ff369e9a4249a2a331cfa983600085342374b88f64f",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-076-100.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-024",
+      "itemSha256": "71dc16449f32a0d1d4687b9999fa566957560c492ffeda7a8db3d4a7827e5589",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-001-025.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-025",
+      "itemSha256": "a8ada6e3c4423344b126b1aae57d852bcbda8bcc8d90e547451be8db11e71665",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-001-025.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-026",
+      "itemSha256": "22485f32e6d4859926917aeffae0b75734803a1c4aec1967f2da598df6ec730c",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-026-050.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-027",
+      "itemSha256": "a7ddb738b215a3351f3ec23c85811ddaf78e1e650ba838813b2b9d93fe573c42",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-001-050.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-028",
+      "itemSha256": "bc5134136edf6e11ca9305a4caebd490d35126349d12782cb5021fcce8ba61c1",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-026-050.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-029",
+      "itemSha256": "b04e7795ff3e1452352d2ae90e0f45eb4850faf3bdcd45d582cbf1eff046ca96",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-001-050.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-030",
+      "itemSha256": "026c25abf902873f326e2ce98a64b722151c0aedb61b1dcfc9b3e3f37d66ccc6",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-001-050.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-031",
+      "itemSha256": "4693a21fc68cd41d9a234a80b63b2bbaf8e7c27fffe1d8c40eb0f4163caa76e2",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-076-100.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-032",
+      "itemSha256": "95488e5750243f2d13302591bb51d357eab21378f20320b2bc488be00b9d4da7",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-001-050.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-033",
+      "itemSha256": "540480985b4791f9922c8e4d3089a11f5b92c0e2e914e48214419dffece273e1",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-026-050.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-034",
+      "itemSha256": "e6c5b13f456333c38bf8658cea055fc39afc0094fd323e136fdd1793a22079de",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-026-050.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-035",
+      "itemSha256": "de68be70d0a838cfe577370a935451138bbc23d574fe21ceb92d6ff1a5159418",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-026-050.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-036",
+      "itemSha256": "f62d94385a80b656a8a66acd10bf0d0bdc60782480cf7048e38f388f51833792",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-001-050.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-037",
+      "itemSha256": "4c51f26b236bed5f855032885aa35e0542b4144866642134693d1d69bdf9b476",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-026-050.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-038",
+      "itemSha256": "608799c841fe878949d031f9f2937d546605fd3fc0f8b5c4fecc37b00d999019",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-001-050.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-039",
+      "itemSha256": "6edfdb84ded35222073e6b7d84df73aa1b6a98f0e681bf71e84d86b3a34d67cc",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-026-050.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-040",
+      "itemSha256": "739b322d7883962f51b2af4c34c925311ec1ccbe7d27df845971c910d35e402a",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-026-050.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-041",
+      "itemSha256": "3b4c65c1851d28be995b48e0ccabc4459dc78dc2fec6df5e5607f75cf5f64e63",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-001-050.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-042",
+      "itemSha256": "4ed5a12615b4ad033b2330f3f49b35710167279387ff41cd169d2fd86f3094ff",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-026-050.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-043",
+      "itemSha256": "389fdda3c60b04a28eada787bdd8e16c9613f381bb5f6b9bb6ad9de459f4ad9f",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-001-050.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-044",
+      "itemSha256": "72afcc4e17139bb4c62e3f802d64c84398b1fe06fd7b48eca5b946f386376506",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-001-050.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-045",
+      "itemSha256": "a55a6b15f610469078a27320f9a5cf162d8a2f94915acc577d575a34884c5a2f",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-026-050.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-046",
+      "itemSha256": "5a7821cc695d6a7bcfc3fc5aa595f71b25e566e50035adc51c789cb2b9da7694",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-026-050.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-047",
+      "itemSha256": "b9c3a72054e8b31f6e50fda86da84f5143b67f434206ead07fcfb3a699c4a529",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-001-050.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-048",
+      "itemSha256": "a1da5fa8969917d896406d8c89ec8118d4283cc43069358ad1df7d3289347b47",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-026-050.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-049",
+      "itemSha256": "05fad5e8fa4af232c6d9524fee9901e067ce793509a6553d8710f16b21138594",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-001-050.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-050",
+      "itemSha256": "1a0bc11d4bdf43b58016cd4919612ed00d565b183c09a643d942062721e90ef4",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-026-050.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-051",
+      "itemSha256": "311279f7e86dec1be8151c6d81291169943f0ef6f076e31b1e113d16045bf861",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-051-075.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-052",
+      "itemSha256": "f8cbdf89b4395dd8bc287010704dcd6b2c2e26a72798475482bab12f07e9c289",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-051-075.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-053",
+      "itemSha256": "b4894e0b6d27e21c2d1f0008d1ba210322886b782ed056f11f998056f76339cc",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-051-075.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-054",
+      "itemSha256": "2ccbd3c0286b040bb11c8200a8e2e3d81e800608774ec5ca9425e648efd60123",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-051-075.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-055",
+      "itemSha256": "09bf5e357b6dd8f9a5ad46f3cbcc22564907c375508e424cf238998e661c896b",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-051-075.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-056",
+      "itemSha256": "d0186e1c35a7e1fafdea1841c4e57973a91a5d123c457cc63cf7732ef0892356",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-051-075.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-057",
+      "itemSha256": "9c6c6210bd10eee60c754c554e91d8c1e11ba9959a8b1460d85f22f9aff4d04c",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-051-075.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-058",
+      "itemSha256": "080d4053ba02666b323679ec786f5a86ca279cfcc0dd91ea26d70142784dfc35",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-051-075.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-059",
+      "itemSha256": "0e3ba4e48b12b6980847e93a3290a09f7fcd60dc32ae6fadf362c7a2a99b075a",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-076-100.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-060",
+      "itemSha256": "1b4864fd4f73c01903b45e7b5e016725333ee7f93d8dc39d2f0ed928deb890ed",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-051-075.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-061",
+      "itemSha256": "56d1a335c4909e3a32933e0f87899f14137a5b2bc6fb02baa4e73e5c76d0baf4",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-051-075.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-062",
+      "itemSha256": "223e545114cda1b326b220919ea94d4b2046f0f6be4e55616bb18a86487e0532",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-051-075.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-063",
+      "itemSha256": "fa775c111fb31a4dfbd574c7774b9b0095e94b050ff346651f73c46859b42f44",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-051-075.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-064",
+      "itemSha256": "e2812953855af8bcc7d615cc190b063996a74d7108f5c2c6cfff463c42edac21",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-051-075.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-065",
+      "itemSha256": "c7256c167cb0d69ec0e642889950c0d622f185d720082e13206d8b94771fc550",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-051-075.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-066",
+      "itemSha256": "6da7d1e8e6d38117fa7d97582a2f400238cf498d33892d71a344ce63b3521c6b",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-051-075.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-067",
+      "itemSha256": "16a9d4f5b3e060cd1dcce72aba24719a4e531cee7a0c586b11774c21ea1e4e6f",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-051-075.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-068",
+      "itemSha256": "f16efd788a74391219e4ee40e476709ef9d1f3b9bf2d320912fe991549650c74",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-051-075.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-069",
+      "itemSha256": "5b0d565ba7ecfa0af4f7d4cf44bdda241f7b09cc1cb3895bc9b387f2564dbb32",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-051-075.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-070",
+      "itemSha256": "da381ca37413ec7a33783498c82e127dcbee041cb92c19fe752ae8c4dbd529c2",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-051-075.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-071",
+      "itemSha256": "66cf151a39981770dcc41e3f13d356b91d98ee5a6da579847f988b7032e0af48",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-051-075.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-072",
+      "itemSha256": "4545bac445ca8080eb6535695ab6d905e2a52eb5997be95310858fd865eb4972",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-051-075.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-073",
+      "itemSha256": "6cfcb0fee738a5faa5deb860f70b459c9e95457cf47223aba23e2a210b3674d4",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-051-075.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-074",
+      "itemSha256": "f860d02f7f0b11828d9fd67b31abbb50fd67557bde00d7e7537c081a1a1435bf",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-051-075.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-075",
+      "itemSha256": "de845b634c3872d854e8f4fc8d24c32b285d70244be4ddef315fd7f58e28b99f",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-051-075.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-076",
+      "itemSha256": "8422d8e41cc2e85f26c6788219da5c6a17283f3569d91b356e8654ff5fdee736",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-076-100.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-077",
+      "itemSha256": "d4a4c2acee8c67942d6ffd81d1e2a04496aaea8a1550d20bb6ba60cacfa185c2",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-076-100.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-078",
+      "itemSha256": "59c0f4386729f9e8a25b055ea26fa33006fe00161520e802ac88d5da9054af95",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-076-100.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-079",
+      "itemSha256": "379288909eb3ff59a13c6d307ecafce164df37409fdb087697e3291c322134d4",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-small.followup2.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-080",
+      "itemSha256": "d1c6a15172026edd30e9d56378dc1cbccf83350f56a61dd515391b48fc162b8b",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-076-100.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-081",
+      "itemSha256": "4b43d4234cef4cffea04f53988ae38365681f23c78368f7cc08ade3694d67323",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-076-100.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-082",
+      "itemSha256": "3877092882ff1be5c2255d3c006b7e7cd8b1d51f27e9ddfe7cf6b52cb30b5204",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-076-100.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-083",
+      "itemSha256": "429d52b2947c1bf6d91e33a544381ffbb9c0ffd095bd8dc044d1956dfab9d71b",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-076-100.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-084",
+      "itemSha256": "b2b15656b746b26252ea56cecbb44c635fc96fbe4c2c69c80f86f431b6286e8e",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-076-100.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-085",
+      "itemSha256": "be87b39b78c58e71f1a3a06d7bc687f542da50c26d54a16220362f46b47baac9",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-076-100.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-086",
+      "itemSha256": "f14ce530d24ed0d949e43d1fd1f99c7e88a7f2006d7517b1d90172dbbdd88733",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-076-100.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-087",
+      "itemSha256": "23467fa2e3ceabaa019ec4a31e18b6593bc7d8e7de999a6f2781355f218ea303",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-076-100.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-088",
+      "itemSha256": "590736c06c51f7563b475c0d5074ba0d8552ce32c034ee97a3ac63c3f6a8bf80",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-076-100.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-089",
+      "itemSha256": "05248ad2156243df65da191d39413e75dfa249a852a325b1a5d8e066990f1778",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-076-100.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-090",
+      "itemSha256": "317ce71c2e2e4a134a836619ee67cd9a081d1afbdc0a2423fb72579ab2490681",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-076-100.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-091",
+      "itemSha256": "7f487ccaebd6190b9255d2d53213fb16615aa4c1f7f1b78cb4e74bd74875456f",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-076-100.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-092",
+      "itemSha256": "fa899a29ddcf7727c86ce725a602f5e6743a4b4b8f3a590babd3f2dbbcab2511",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-076-100.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-093",
+      "itemSha256": "a4e6f8985f26b4a0dd8d6773148ee1372493cd3a52a3a74bee2e242e73b1b669",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-076-100.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-094",
+      "itemSha256": "15fd9d12c66ac8e99c6c695d8b7b8b5ba4b420df147fcca720d603844effbc62",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-076-100.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-095",
+      "itemSha256": "6bd05a2d30a924276ef6711789ba5a45bb4ec8db56adaab02a2bba943f49949d",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-small.followup2.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-096",
+      "itemSha256": "a3c642f173931c3014a97e30a8c2b097dcc06f0c8718f4586111d5a9bea73aef",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-small.followup2.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-097",
+      "itemSha256": "75abcb77e0765575cb65d1f2b5c71d9ab38692a403cbbfb03928ec3d3cab3370",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-small.followup2.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-098",
+      "itemSha256": "f9e493001553835aae64e6809923c18ca312eb914dad4d09e60b1d642e5f0942",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-076-100.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-099",
+      "itemSha256": "b9fe9cf009dd1a53fcba2154b25ed2a08bf48a2a1ca905da80b6c442cbfadbed",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-076-100.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-100",
+      "itemSha256": "4788655ecf5cd3075ed3d646e4835ea8b604ae77860ed0b49226e2588d56337c",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-076-100.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-101",
+      "itemSha256": "183bc1be072c670513479ecbb7081b6d4d7f144d1c5bda45ba92aaa91789a638",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-101-125.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-102",
+      "itemSha256": "079306a5804d3af85826040cf6b54e3cb6c19228360b16f53709cc33c74516e5",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-101-125.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-103",
+      "itemSha256": "52850ef40c153cfe66680d82a6bb69401d5d482e128c6f0a316a82d7456c2813",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-101-125.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-104",
+      "itemSha256": "ab10c86a1a0ff39a9f405ff498d6a49c72c1d2118b515f45c285626c28a2cacd",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-101-125.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-105",
+      "itemSha256": "e3925c5b3166dff4b3f719b93fd0ef7265a62f77a433f10be3015ff079f2a0b4",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-101-125.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-106",
+      "itemSha256": "9a748738cb83aad044d62665b1cbad8eb6889315400a249be87a1e4ea719da17",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-101-125.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-107",
+      "itemSha256": "29c0281424faf9e4fe31903927e541774cd3701f62aad0199837b6da9ab500ea",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-101-125.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-108",
+      "itemSha256": "7cc8f281865484ce396a1af096659f063303cf1ec0b903184805cd2ff4dd6629",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-101-125.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-109",
+      "itemSha256": "58441c2f407496b485c5e0921c5a6b136766e9e6da0ed8b00b4fa0df9a351d48",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-101-125.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-110",
+      "itemSha256": "c33ba8c133c5596a1f46c7a058871fe6eb59fe27e27f5e6ce9970f453f36667f",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-101-125.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-111",
+      "itemSha256": "6b4fbec2cb48110062866b35d65c620101e489d41b31ffd1e00e44a075ddcdad",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-101-125.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-112",
+      "itemSha256": "0e811540379d8f6071922aa47a8c3980498ef93bc63e6d678a6549960620078f",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-101-125.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-113",
+      "itemSha256": "6cf86386fceaddf170d572a69b6b645ff0692a0deecccbf8aca0a52433dc9ec6",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-101-125.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-114",
+      "itemSha256": "e673bedb53a7457759ff9b85c57243f97e216b437d27b4d8958a105e3e616f37",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-101-125.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-115",
+      "itemSha256": "b6f5ce27c5549ef7dff65f57230ea3c88d0584411e53b625a2f0a074895e05da",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-101-125.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-116",
+      "itemSha256": "f095c86c3879e85b5856509d6bff8c645484c22d478d44b94cd81b82b3239982",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-101-125.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-117",
+      "itemSha256": "55bb32f7898b97d8ef0231215bacb2a6a70b1aa30def28510cdea98d2c7be1aa",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-101-125.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-118",
+      "itemSha256": "9d23d3e5755d02def799da29eb25ff6353fef8228fbeeedf889007cdd20c0cda",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-101-125.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-119",
+      "itemSha256": "2c9918beab855e895a531d8f71a527d1ba8f7273653a219d33dae1ecefdd360e",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-101-125.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-120",
+      "itemSha256": "f3735de11c8a1d16d70fce2ad635ee92735495a548e55c796abf6a5173636a83",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-101-125.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-121",
+      "itemSha256": "fd4fe33e7890263b2c1781f3b2e112faa7dce2bc7d0d4ae7929d48d12c4ef8c9",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-101-125.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-122",
+      "itemSha256": "1e562398c4be7a98bff1daec8d1aff9941ab0a1505ec5700439e031830651e76",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-101-125.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-123",
+      "itemSha256": "3993b47698048e17085660648fc746b0798a741ab2e590dc9785cadd85bf252c",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-101-125.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-124",
+      "itemSha256": "e3fa62a6552149fa6ea05a8e7f51bb6f502865a281723b754c962dc849305328",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-101-125.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-125",
+      "itemSha256": "b5c4ea4bbba6f8361a26f60d095555de7448813b121f352d4ed7969012be772f",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-101-125.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-126",
+      "itemSha256": "58597ab3fa04e2499660dd07f4ecb157d2d518040f428449e1cc6bfac73fb9e1",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-126-150.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-127",
+      "itemSha256": "dbf1320212e8f5d39a2c6b5b54b7e14e8c0343db9ef9e9e3156c61ef2d7ff05f",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-126-150.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-128",
+      "itemSha256": "283b471a9ce57bafbd570804f7adcc86c039121f4eb78ebf4dfbb73aad744b02",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-126-150.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-129",
+      "itemSha256": "9d7e23985e0cecee6ac65b44ec1cf5c1a0f7e1ca5fb95bd79b573eee0718951f",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-126-150.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-130",
+      "itemSha256": "f76da62501a4d3ed50acb4f4e7b507c6a99dd075406c9b9f161634a122380b4b",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-126-150.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-131",
+      "itemSha256": "173ad592dca79c07b8bf1399c9ded963b38287d949b9227d13cf32a4377a96c8",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-126-150.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-132",
+      "itemSha256": "9a23630ea55339dc4976b884c597608b744fdc3309a37421a8f188b6614932a6",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-126-150.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-133",
+      "itemSha256": "a1cbba35c3d37d6f142fc87cc07a200b9b7107d608eb6a6e6893a31931419277",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-126-150.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-134",
+      "itemSha256": "53ead3f6223e8ca0a13278236d3de88329cf05289169c434873a617cc019120c",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-126-150.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-135",
+      "itemSha256": "ab04aeef558ad832868aaa12a373092e6656176e4632cf1e9167cbab680c4e09",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-126-150.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-136",
+      "itemSha256": "fa538aeba21f16d7d9be6feefed365cf851c47c6f538ded56ab97f8d292578d4",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-126-150.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-137",
+      "itemSha256": "e528d0c0bc93dd09ae3e0296c3e1890532fa79d55b5e98c4e49d22ef0c60617c",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-126-150.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-138",
+      "itemSha256": "dcf267aff5d4bb6842fed77e5fb74f032fb9cdeade442030b3f3a073c2f76dfc",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-126-150.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-139",
+      "itemSha256": "7d5abb80592806a9c6ca65128ceaf4ea79d234412ccd307ceced3c789fb6863f",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-126-150.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-140",
+      "itemSha256": "49e2a4129b99acb1b94449ec193206e866ba305cef3e6b4034095ecf55cfd446",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-126-150.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-141",
+      "itemSha256": "713dcc3e95c7bafcc6eb9add2d326e34f41654eb2b163842ae60367c0f8fbf44",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-126-150.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-142",
+      "itemSha256": "eed57ec1e31079c48aa2bd553ffdc97e99779258ef5d85f695c05e46e129f4b1",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-126-150.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-143",
+      "itemSha256": "1eb4c6f22242aadf9c4d879ae8cc1bcbfd458af54b701d93e706a7b10718b41a",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-126-150.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-144",
+      "itemSha256": "6fc8446e9b8aa276b6b65c14addbf8989ab4d0ce5b0b43483710d86ad0e7a26c",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-126-150.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-145",
+      "itemSha256": "1a38bde4d5fb5365e0be4e55202821edbb59d73b02255903efebd63ae1da594f",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-126-150.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-146",
+      "itemSha256": "f37b78235e7d51beb3dda8ee02dd839746ff6477339cc8f558f60a285cead2fd",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-126-150.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-147",
+      "itemSha256": "dc20981d9818ffe0a8ba45c497542d531e0ed73dafc273034696706cda2e8724",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-126-150.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-148",
+      "itemSha256": "2bda1a0ce91454566d95d1e83a2a8864b44e21bdff99fb7f01536a4ea49514bc",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-126-150.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-149",
+      "itemSha256": "6a9f11040105fe9f6a3b6faadb40f64f0bde0fd4bb965844a7ee2ac31fbdc90f",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-126-150.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-150",
+      "itemSha256": "2c6739e332fa9643398ec9917589bb84c9bac52ea5e84bfbe9178bc2396307f6",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-126-150.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-151",
+      "itemSha256": "c6be3ae279cdb433f181b2786b1a6ed1a7a83cd93b32e9f3d64eae33f071f312",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-151-175.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-152",
+      "itemSha256": "a0517dd09fffc9d14187eeee765d0a655b388093d2e8fe1271533253d419f81a",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-151-175.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-153",
+      "itemSha256": "c4f16ed1cd7c5f41f53f3c94e8d42af1bc0618ab8c34d4d9549c936d934c30d2",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-151-175.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-154",
+      "itemSha256": "62eb4c80d5c3278b5630edbc2a5cde664c5e73a0810c37f54f87d96b9272a71e",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-151-175.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-155",
+      "itemSha256": "79b4184862b2f6455f85a566aa58d36a1bde73feff0c010ef689b84a0e31978f",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-151-175.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-156",
+      "itemSha256": "d77d5f3d437dae9da32f48f75ccd14438bf7187c5d986a5d125e68cd0a94b206",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-151-175.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-157",
+      "itemSha256": "26cfdbe92e1a47307106c59a6367ebe33263c10c5ae1b04ed4e34d8c88229ed0",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-151-175.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-158",
+      "itemSha256": "26ec78aa10104fc51ed7404b32b4568335bcbe9f98362e4976109a5100bc9474",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-151-175.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-159",
+      "itemSha256": "d3a66d214bbc33e77f669cec033b51db2f4ba72e41b122321410f5201434bb57",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-151-175.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-160",
+      "itemSha256": "b085a66d5cc16584b586d3bfa9e9bc8532654b1c4aa9b455ce797b087321e4d5",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-151-175.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-161",
+      "itemSha256": "d7d39cd9977cf08797102dffb781343cacd9997d18d268e51efddc9f66d6781b",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-151-175.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-162",
+      "itemSha256": "35419cdc88f1bca2a803c98c559e2775324ebbef629a7a104ec11f8dab41886e",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-151-175.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-163",
+      "itemSha256": "b880f049f728de2c5ce65544ccb4e6402ea535a332dfd64425b7481f5b8ac401",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-final-metadata.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-164",
+      "itemSha256": "19e47fb929e5937e9866cd0d42abdb6874341c6e050dc404a93600e1164da838",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-151-175.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-165",
+      "itemSha256": "70c616353a5cccf32b99c4bc503554e222e98ee5a9ae136618293dcd2f5808da",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-151-175.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-166",
+      "itemSha256": "df3f0f692e7e66b0e3d4fb923a331ac1719d95782f29ea946b5e56ce83d4e02e",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-151-175.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-167",
+      "itemSha256": "f20932b908446f17b2730d1698a97990567c7fe593e9b45b26f416690f72e9fc",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-151-175.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-168",
+      "itemSha256": "9d4792e545cf1d2af6d3c8f0f13243db7a0d5de7ec9a58cbd37c0764c600ab07",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-151-175.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-169",
+      "itemSha256": "a5673c753320eb7a5f8e7af72d07ab81af9f85496d136d97831d278863f42cbd",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-151-175.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-170",
+      "itemSha256": "80c24a4b3afc3640db022d0a64facae17a1ee760c090af2fc7914a6f6de97c90",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-151-175.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-171",
+      "itemSha256": "81b9d2a993d66e04c44cbad0571a4e4f708e43e95ac014ccb9bf9bb478dd98d5",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-151-175.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-172",
+      "itemSha256": "8c4f2b469c92d7c9e5744be6f8f369a99f0557a8958ac7a11f1ba17833920a86",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-final-metadata.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-173",
+      "itemSha256": "2453e131fed0f46ea67d35cfe9ffbdaddb275bdb878610af6be31f71e6811d68",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-151-175.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-174",
+      "itemSha256": "8744706be46520093ff58e11f6a05ee91280a4571646ac683eefb9f4a45cfab1",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-151-175.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-175",
+      "itemSha256": "03b2514b49a88aa9e519c2171e21625522ea2108d95bcd55a85c55143c545c55",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-151-175.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-176",
+      "itemSha256": "c0ca34442a01018c82895f091ed54c889c222682b040a3d1464898c2a9c157d0",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-176-200.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-177",
+      "itemSha256": "472a5f04614817f494c45389e904424dca65b9bbf714775b28904886a43e8307",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-176-200.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-178",
+      "itemSha256": "44ae4a3e9323263f714fd5f7a52de9f31b2eb05dbe617b391b07a492477c1fe6",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-176-200.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-179",
+      "itemSha256": "4e6e81d3850a1d6cf7a6a0a5f1cea684e26e272c77bc4c6d8716c9c16418200c",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-176-200.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-180",
+      "itemSha256": "93a121fffc0176799339dd9e18fa0f5f7c39d76d922ad7f4d557e7b9b0623ee4",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-176-200.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-181",
+      "itemSha256": "f750d262a6ec971d26975130b5aee87b998a71af3c1a293ffdc6bfecb72a7a38",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-176-200.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-182",
+      "itemSha256": "86cdf44b7340f8cc748d7b680d02fe10d254cc9b30f2e7640959ae47b990524f",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-176-200.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-183",
+      "itemSha256": "30e2165a7920b623675607e5d50a10bbe5a395cc7f4f904ae27b6e819a226ebd",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-176-200.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-184",
+      "itemSha256": "8fb428aa6b08eaeca9e8dd3dedbfa260d5c9ddd6ee661479c6ae8c63fc38a6e1",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-176-200.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-185",
+      "itemSha256": "a4c1c071228c289485c2473971f7ea9e1b67f45be53278032b0b2af4c9e876bd",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-185-replacement.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-186",
+      "itemSha256": "0b3a7fa4d3cbbd75a8a35bec75a1b6cf456a5915bfdd2216f794043cd286e4c0",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-176-200.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-187",
+      "itemSha256": "c2289f48ae833f23ee5071351193dbe4535cd4060a615493cec1171ead95fd74",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-176-200.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-188",
+      "itemSha256": "6c3298de039e09e77766bfd3dd0c6e0745ee976cc41342be839dafaec720664e",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-176-200.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-189",
+      "itemSha256": "ad9f2d801da69b3fa291f669da220ab8fa23ab9e0aa5695c746e750e9d37c452",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-176-200.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-190",
+      "itemSha256": "7aef8d51db2d2f0d01612f66d6adfa03c80b40c74462fc99238c8872d49adeaa",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-176-200.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-191",
+      "itemSha256": "a6c1ceafeac7d2c99351a722eae32d107691bedafe106d5fabccf6cb06110de9",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-176-200.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-192",
+      "itemSha256": "8567a3c8951203b032c2a1d168ba1fffee1d779465ad883ffc537b148fd7ab5b",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-176-200.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-193",
+      "itemSha256": "719fd1c34da50a6ae5cc18ba131d3b7f77149cf3e3b1747f3c88e36e1843f1e7",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-176-200.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-194",
+      "itemSha256": "e537b07e637eb6ff5f51532cdac720dd685e7b7aed17eabe3b5f3e5c8df7c0e2",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-176-200.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-195",
+      "itemSha256": "dcb60c89e23f9242f0ce7e48970be317801803c2797836288809e4d61f157616",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-176-200.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-196",
+      "itemSha256": "9ccf3a3b6a1e1fb42d7423f885d469888af063e1c2554918a6444ea3e025c2e5",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-176-200.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-197",
+      "itemSha256": "5d16bfd29387007439561b0f96414077fcde12a929e3d9bf7c55f1e6c37f6df3",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-176-200.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-198",
+      "itemSha256": "32b462174b2bf92a58b5d0b1567de33abbfb3cfbe229ff34bc0c9cde12cbf410",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-176-200.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-199",
+      "itemSha256": "f712c7278b514f4022d1558a0783c9a82ff734db8f4c6822fa43e7ac1ed546a2",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-176-200.followup1.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    },
+    {
+      "id": "x-safety-200",
+      "itemSha256": "23d685b8b63d924c6c3c5f0e337b3b5ba4225b256d15e0aef5db9843d2e0d3c9",
+      "matchingPassReports": [
+        {
+          "report": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-176-200.review.json",
+          "reviewerTask": "/root/author_health_psych"
+        }
+      ]
+    }
+  ],
+  "limitations": [
+    "Independent AI review is not qualified clinician or psychometric validation.",
+    "Source checks are targeted, not verification of every clinical assertion."
+  ]
+}

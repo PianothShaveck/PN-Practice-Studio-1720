@@ -1,0 +1,328 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:53:54.609381+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/c-final50-review-input/risk-176-200.json",
+  "sourceSha256": "f194329893cdf745c2b27699b05a2ff293d28a88ff445f926787ec3cfd9296cb",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-risk-176",
+      "x-risk-177",
+      "x-risk-178",
+      "x-risk-179",
+      "x-risk-180",
+      "x-risk-181",
+      "x-risk-182",
+      "x-risk-183",
+      "x-risk-184",
+      "x-risk-185",
+      "x-risk-186",
+      "x-risk-187",
+      "x-risk-188",
+      "x-risk-189",
+      "x-risk-190",
+      "x-risk-191",
+      "x-risk-192",
+      "x-risk-193",
+      "x-risk-194",
+      "x-risk-195",
+      "x-risk-196",
+      "x-risk-197",
+      "x-risk-198",
+      "x-risk-199",
+      "x-risk-200"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Read all fifty frozen snapshot items with stem, options, key, rationale, takeaway, exhibit and metadata, and compared root’s precise prior findings. Each assessment below was written manually. These snapshot copies preserve the exact input before the author applies residual fixes.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "ids": [
+        "x-risk-178"
+      ],
+      "url": "https://medlineplus.gov/lab-tests/arterial-blood-gas-abg-test/",
+      "checked": true,
+      "note": "Opened and read CO2 clearance versus oxygenation, pH and gas interpretation. Item states its laboratory ranges; bicarbonate ranges vary. Independently checked arithmetic consistency of supplied values."
+    },
+    {
+      "ids": [
+        "x-risk-181"
+      ],
+      "url": "https://www.niddk.nih.gov/health-information/diagnostic-tests/kidney-biopsy",
+      "checked": true,
+      "note": "Opened recovery/risk sections: monitor pulse/pressure/urine and internal bleeding; early pink urine can occur, worsening pain/dizziness warrant care. Source supports clinical concern but does not remove option-format flaw."
+    },
+    {
+      "ids": [
+        "x-risk-182"
+      ],
+      "url": "https://www.nice.org.uk/guidance/cg32/chapter/Recommendations",
+      "checked": true,
+      "accessMode": "previous targeted primary-source retrieval in this review task",
+      "note": "Previously retrieved recommendations on high-risk refeeding biochemical/fluid surveillance; no feeding/replacement dose prescribed or independently validated here."
+    },
+    {
+      "ids": [
+        "x-risk-186"
+      ],
+      "url": "https://medlineplus.gov/lab-tests/d-dimer-test/",
+      "checked": true,
+      "note": "Opened result interpretation: surgery may elevate D-dimer; symptoms/history and further testing are needed."
+    },
+    {
+      "ids": [
+        "x-risk-187",
+        "x-risk-194"
+      ],
+      "url": "https://www.cancer.gov/about-cancer/treatment/side-effects/infection",
+      "checked": true,
+      "note": "Opened fever/chills urgency and possibility that antipyretics mask signs without resolving the cause."
+    },
+    {
+      "ids": [
+        "x-risk-188"
+      ],
+      "url": "https://www.cancer.gov/about-cancer/treatment/side-effects/bleeding-bruising",
+      "checked": true,
+      "note": "Opened soft toothbrush, electric shaving and aspirin/ibuprofen bleeding-risk advice."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-risk-176",
+      "status": "pass",
+      "assessment": "Deeper excursions/effective secretion clearance and longer walking without increased support are physiological outcomes. Session completion is a process measure; quieter breathing with persistent shallow excursions after sedation does not establish improvement.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c0a4bb19a5265fc85d09a5eca3d196aaa826282226ce6225e9ebf067b5224163"
+    },
+    {
+      "id": "x-risk-177",
+      "status": "pass",
+      "assessment": "The exhibit shows concordant improvement in pulse, pressure, urine and sitting tolerance. Continued reassessment is supported; complete correction, renal-only improvement and equal-intake/output expectations are overinterpretations. The item tests early response rather than selecting an additional fluid prescription.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a5324e57e09b37936e864ffb964ea7397b4c762d085ae1d7a91d94e0acd66306"
+    },
+    {
+      "id": "x-risk-178",
+      "status": "pass",
+      "assessment": "Acidemia with PaCO2 8.0kPa and worsening drowsiness supports impaired ventilation despite oxygen-supported saturation. Added bicarbonate makes the alternatives assessable; values are internally coherent (8.0kPa≈60mmHg, bicarbonate27 gives pH≈7.28). It does not assert a cause or a ventilator setting.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1c1a4ee2d501594ab46c6207fad306c64497ea51fc8500e3dc64a94573c2e278"
+    },
+    {
+      "id": "x-risk-179",
+      "status": "pass",
+      "assessment": "Reduced measured residual plus fullness relief directly supports improved emptying. A diary, toilet frequency and pad use are credible proxy measures but cannot establish the intended retention outcome.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3852f8c8f12f6a6c8332f409e41395bde322a67b10a11d3d1a6ba7e07483d70b"
+    },
+    {
+      "id": "x-risk-180",
+      "status": "pass",
+      "assessment": "Resumed flow/easing accumulation and maintained prescribed suction support restored drain function. Maintained suction is supporting evidence, not proof of lumen patency by itself; the stem asks support. Changed tubing with increasing swelling or absent flow with pain contradicts recovery.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0984a0b495b6e06ac8bb71ce48d41e0f41ecbc115ed9bd57c25481947b2a3d74"
+    },
+    {
+      "id": "x-risk-181",
+      "status": "revise",
+      "assessment": "The clinical key is correct, but it is the sole long quantified trend set, while the three alternatives are brief local findings. This makes detail and option length a giveaway. Make every choice a comparable vital-sign/local-observation set with baseline in the stem.",
+      "issues": [
+        "The clinical key is correct, but it is the sole long quantified trend set, while the three alternatives are brief local findings. This makes detail and option length a giveaway. Make every choice a comparable vital-sign/local-observation set with baseline in the stem."
+      ],
+      "proposedChanges": [
+        {
+          "stem": "Immediately after percutaneous kidney biopsy, pulse was 84/min, blood pressure 124/76 mm Hg and puncture pain 3/10. Four hours later the surface dressing is dry. Which current observation set requires urgent investigation?",
+          "options": [
+            "Pulse 88/min, blood pressure 122/74 mm Hg and puncture pain reduced to 1/10",
+            "Pulse 90/min, blood pressure 120/70 mm Hg and an unchanged small puncture-site bruise",
+            "Pulse 86/min, blood pressure 118/72 mm Hg and urine clearing from initially pale pink",
+            "Pulse 112/min, blood pressure 96/60 mm Hg and flank pain increased to 6/10"
+          ],
+          "why": [
+            "Stable circulation with improving local soreness supports recovery while routine surveillance continues.",
+            "Stable circulation with an unchanged small bruise is less concerning than a worsening systemic pattern.",
+            "Stable circulation with clearing urine is reassuring relative to new haemodynamic deterioration, although monitoring continues.",
+            "Tachycardia, falling pressure and increasing flank pain may reflect concealed bleeding; a dry dressing does not exclude it."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "b2d201b6b4cbf450a12861edacafabf092873c72010a4b66adca0c4e61464e75"
+    },
+    {
+      "id": "x-risk-182",
+      "status": "pass",
+      "assessment": "Marked phosphate decline to0.48mmol/L plus new weakness calls for review before the scheduled feeding increase. Weight gain, absence of gastrointestinal symptoms and unmet calories cannot establish metabolic tolerance. The item avoids prescribing an unsupported replacement or feeding rate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "11784d3d7e800ea7af833df7503216bfcdcf866036670f18a4a6ded84b2117fa"
+    },
+    {
+      "id": "x-risk-183",
+      "status": "pass",
+      "assessment": "Smaller dimensions plus healthy granulation directly support tissue repair. More dressing tasks, analgesic response despite deterioration, and less external drainage over a swollen cavity do not. This is a relatively foundational outcome-versus-process item rather than a complex prioritization item.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "20160406cbcddc640f8f86008e070e6a6c24540b571ebef65941b0e5f3988d3d"
+    },
+    {
+      "id": "x-risk-184",
+      "status": "pass",
+      "assessment": "Sustained attention and organized thinking across repeated observations indicate improvement in core delirium features. Sedated quietness and reduced spontaneous activity may persist with cognitive dysfunction; both negative observations are clinically meaningful.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4e6e63a7bbf4cf475a9e04c9afe73e7ae71a62020d043a4b878e8b625088cf10"
+    },
+    {
+      "id": "x-risk-185",
+      "status": "pass",
+      "assessment": "Final resistance despite partial symptomatic improvement requires communication of both findings for treatment review. A repeat culture must not delay that communication; neither symptoms nor laboratory results independently authorize nurse substitution of antibiotics.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "819488db5f0fd5c1528bbef0c2fdaf9b6dd7b80fdc4d9483060a2c4bd81349fc"
+    },
+    {
+      "id": "x-risk-186",
+      "status": "pass",
+      "assessment": "Postoperative D-dimer elevation is nonspecific and cannot confirm or exclude PE. New pleuritic pain/dyspnoea already prompt diagnostic assessment; the key integrates the result without imposing an unsupported diagnostic algorithm or relying on a normal pulse.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b145c532b735f6ac73569b3bdb470405240e7c4a439c5436248b29b4203a4103"
+    },
+    {
+      "id": "x-risk-187",
+      "status": "pass",
+      "assessment": "New fever/chills with low neutrophils increase infectious urgency more than stable anaemia-type or resolving bleeding observations. The foundation-level distinction is clear and relevant; no numeric ANC treatment threshold is invented.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ec2add794c7304d4cdd7f460bec88c627be23b47d9b2891e66b88e9a52ab069d"
+    },
+    {
+      "id": "x-risk-188",
+      "status": "pass",
+      "assessment": "Gentle oral care/reporting new bleeding and checking nonprescription drugs support thrombocytopenia precautions. Blade shaving and unsupervised ibuprofen are concrete avoidable risks supported by NCI guidance; the selected actions do not overlap contradictory instructions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e2fa4a61b96e42ee1211a765ea9f7265a9f5614a2441836b9517c8bdcc76d7fd"
+    },
+    {
+      "id": "x-risk-189",
+      "status": "pass",
+      "assessment": "Creatinine falls180→130 but remains above75baseline while urine improves15→45mL/h. Together these indicate partial recovery requiring monitoring. Neither normalization nor renal recovery is inferred solely from output; the lab and clinical trends are coherent.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4f76a9cd05ef4dc05294c2177dba0de06edabeea78cf5b36e7db1ebaf6cc74f1"
+    },
+    {
+      "id": "x-risk-190",
+      "status": "pass",
+      "assessment": "Expelled secretions with improved breath sounds directly demonstrate airway clearance. Recorded sessions, correct verbal description and prolonged exhausted coughing are distinct process/knowledge/ineffectiveness alternatives. This remains a foundation-level evaluation item.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "58748850c10dd894f7402e97f3a1f80726a5913b26caf0c7b18b454508a0c3e8"
+    },
+    {
+      "id": "x-risk-191",
+      "status": "pass",
+      "assessment": "Less swelling without distal symptoms and intact device-edge skin support compression tolerance. Cool toes despite oedema reduction and focal rolled-edge constriction require review; benefit is not allowed to outweigh signs of impaired perfusion or pressure.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "451e08a815eb5a249a5235a1b86544c17947df3932be7e8df4d5d0cc49315d84"
+    },
+    {
+      "id": "x-risk-192",
+      "status": "pass",
+      "assessment": "Simultaneous full-minute counts yield a14/min pulse deficit with new irregular palpitations. Symptom/perfusion and rhythm assessment fit a currently stable client; sequential counts and either normal-range rate alone do not resolve the deficit. No arrhythmia diagnosis is asserted.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b399dcaa2f13c14f1430b799ba441afa368f54a997258279b0911d74a63e9839"
+    },
+    {
+      "id": "x-risk-193",
+      "status": "pass",
+      "assessment": "Independently calculated measured intake800+500=1300mL, output900+200=1100mL, balance+200mL. Alternatives correspond to omitted emesis, reversed subtraction and intake-only reporting. Excluding unmeasured losses appropriately limits what the number represents.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9a8b2c503316bc109cc1fea3043e7b2ee47747a3989ba81963bba6d8e61e8c44"
+    },
+    {
+      "id": "x-risk-194",
+      "status": "pass",
+      "assessment": "Antipyretic temperature reduction with persistent rigors/weakness does not establish infection resolution during cytotoxic therapy. Continuing urgent assessment/reporting the original fever is correct; this evaluates treatment response rather than duplicating the first-call decision in172.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e16bb91f6dad825f431ade46e21b8b6faad18fa81ca5e9873f1f7b4cd626ff6d"
+    },
+    {
+      "id": "x-risk-195",
+      "status": "revise",
+      "assessment": "The two review triggers are sound. However, the final option states only target saturation during the usual walk, while its rationale assumes unchanged tolerance. A target saturation alone does not exclude new breathlessness. State unchanged symptoms/tolerance explicitly.",
+      "issues": [
+        "The two review triggers are sound. However, the final option states only target saturation during the usual walk, while its rationale assumes unchanged tolerance. A target saturation alone does not exclude new breathlessness. State unchanged symptoms/tolerance explicitly."
+      ],
+      "proposedChanges": [
+        "Append “with unchanged breathlessness and exercise tolerance” to option3; retain answer[1,2] and the existing rationale."
+      ],
+      "reviewedItemSha256": "3fdd0a956696769facffb4b59ce0045075fe1077384e698208ff87e7c2f3c964"
+    },
+    {
+      "id": "x-risk-196",
+      "status": "pass",
+      "assessment": "A correctly repeated immediate residual420mL exceeds the explicitly individualized350mL threshold despite180mLvoid and partial relief. Applying the plan is justified; no universal catheterization threshold is claimed. The action differs from the pure outcome comparison in179.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8155e86d1bc0932ad93104373eeb75e98cfbf7aeb06b5a582f94a26b51dcf10a"
+    },
+    {
+      "id": "x-risk-197",
+      "status": "pass",
+      "assessment": "Comparable weights with oedema context, consumed intake and current barriers best evaluate the trajectory. Alternative records differ in comparability, served-versus-consumed data and process measures, making a substantive data-quality comparison with parallel datasets.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "75b0fd8336d9efa16d86741806f9bb343626e4b7fc3bba8a6463571c4ad0cc9a"
+    },
+    {
+      "id": "x-risk-198",
+      "status": "pass",
+      "assessment": "Parallel combinations require both improving tissue tolerance and maintained target oxygenation. Reduced pain with inadequate oxygen delivery and less redness with increasing pain are partial improvements that fail the stated combined objective.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3e6c5a472ef4bbeb913ce69868dc24a32f006bc0811ecfb31c306746c13242d9"
+    },
+    {
+      "id": "x-risk-199",
+      "status": "pass",
+      "assessment": "Rehearsing the after-hours contact scenario targets the identified application gap after warning signs are already recalled. Repetition, a routine appointment and another unread leaflet do not verify usable access to help; teach-back is applied concretely.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1542de1083042b438111f41b76a34ec36377c8e0b94e6c2e5c1e1a2a6144dd54"
+    },
+    {
+      "id": "x-risk-200",
+      "status": "pass",
+      "assessment": "Two-person walking assistance after sedation is a meaningful departure from independent cane use. Continued supervised recovery with reassessment addresses actual function; transport wheelchair, unfamiliar walker or resting vital signs alone cannot establish safe discharge readiness.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9422150d7b5ce12303e7ea3b7e2ba709d3b4cc40e20132e3794278e73d086cc5"
+    }
+  ],
+  "reviewerTask": "/root/review_legacy",
+  "reviewType": "Independent recheck of root-reviewed author-c revisions",
+  "authoritativeLiveFiles": [
+    "authoring/c/risk-151-175.json",
+    "authoring/c/risk-176-200.json"
+  ]
+}

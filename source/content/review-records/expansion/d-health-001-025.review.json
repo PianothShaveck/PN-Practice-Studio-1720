@@ -1,0 +1,325 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T16:49:54.641048+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/d/health-001.json",
+  "sourceSha256": "ec799c9765b1a2baeba2b74235b07d71a12627e02d985f78ee5ee8304ac9f959",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-health-001",
+      "x-health-002",
+      "x-health-003",
+      "x-health-004",
+      "x-health-005",
+      "x-health-006",
+      "x-health-007",
+      "x-health-008",
+      "x-health-009",
+      "x-health-010",
+      "x-health-011",
+      "x-health-012",
+      "x-health-013",
+      "x-health-014",
+      "x-health-015",
+      "x-health-016",
+      "x-health-017",
+      "x-health-018",
+      "x-health-019",
+      "x-health-020",
+      "x-health-021",
+      "x-health-022",
+      "x-health-023",
+      "x-health-024",
+      "x-health-025"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-4-active-vaccines/page-20-rubella-vaccine.html",
+      "authority": "Public Health Agency of Canada",
+      "supports": [
+        "x-health-018: vaccinate susceptible nonpregnant people and delay conception at least four weeks"
+      ],
+      "scope": "Specific support for proposed correction."
+    },
+    {
+      "url": "https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-4-immunization-pregnancy-breastfeeding.html",
+      "authority": "Public Health Agency of Canada",
+      "supports": [
+        "x-health-010: maternal vaccination can protect pregnant person and newborn"
+      ],
+      "scope": "Specific claim support, not validation of whole item."
+    },
+    {
+      "url": "https://www.fraserhealth.ca/health-topics-a-to-z/pregnancy-and-baby/pregnancy/your-growing-baby",
+      "authority": "Fraser Health",
+      "supports": [
+        "x-health-013: decreased usual fetal movement after 26 weeks warrants maternity assessment"
+      ],
+      "scope": "Specific support for key; no universal movement count asserted."
+    },
+    {
+      "url": "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/health-effects/before-during-pregnancy.html",
+      "authority": "Health Canada",
+      "supports": [
+        "x-health-016: cannabis not recommended for pregnancy nausea and safer options should be discussed"
+      ],
+      "scope": "Specific claim support."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-health-001",
+      "status": "pass",
+      "assessment": "Preconception review while maintaining prescribed therapy balances fetal concern against breakthrough seizure risk; no independent medication change is recommended.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "03b193cb4ff28bfb2e07aff9222b6a066da70ae0de1c8fc13e97cd35321e4c66"
+    },
+    {
+      "id": "x-health-002",
+      "status": "revise",
+      "assessment": "Exposure assessment is defensible, but routine prenatal ultrasound is an irrelevant test for a client not yet pregnant.",
+      "issues": [
+        "Exposure assessment is defensible, but routine prenatal ultrasound is an irrelevant test for a client not yet pregnant."
+      ],
+      "proposedChanges": [
+        "Replace option 2 with: Recommend changing to the evening shift while awaiting occupational-health advice. Explain that shift change does not establish or control substance-specific exposure."
+      ],
+      "reviewedItemSha256": "1e42447dc1345bdc0b96a0177b0a0a5a5fe1f5014b708f5efc7aa2274bed84ce"
+    },
+    {
+      "id": "x-health-003",
+      "status": "pass",
+      "assessment": "Response supports prevention and continuing care without predicting fetal outcome. The reduction option appropriately notes need for assessment rather than assuming a dependence history.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "67b2bf3755b5d00476af32e882cb0d2cc63a0d76e56bc40fafa77230a38b6e61"
+    },
+    {
+      "id": "x-health-004",
+      "status": "pass",
+      "assessment": "Adequate weight gain does not establish B12 or iron adequacy; source-focused review respects dietary preference and directly tests the cue.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c2a5aab4e48270bc3450a29a59d7e8521c33d70e86877a034d04664e5fc7f511"
+    },
+    {
+      "id": "x-health-005",
+      "status": "revise",
+      "assessment": "All-protein exclusion is an implausibly broad distractor. Multiple-response set is otherwise clinically defensible.",
+      "issues": [
+        "All-protein exclusion is an implausibly broad distractor. Multiple-response set is otherwise clinically defensible."
+      ],
+      "proposedChanges": [
+        "Replace option 3 with: Drink most fluids with meals rather than between meals. Explain that separating fluids from meals may improve tolerance; large combined volumes can worsen nausea."
+      ],
+      "reviewedItemSha256": "1450831e6c7f2918b47668edf3f29827a094b3f9a3b076708324ae592dec82b5"
+    },
+    {
+      "id": "x-health-006",
+      "status": "pass",
+      "assessment": "Food and income supports address an explicitly material barrier; repeated education and tracking are believable but insufficient alternatives.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "cd44ea34e302dc054951008274f1d01c91591d077b9aa5831006536241ce9bc0"
+    },
+    {
+      "id": "x-health-007",
+      "status": "pass",
+      "assessment": "Symptoms and tolerance guide activity adaptation in uncomplicated pregnancy without blanket cessation; listed alternatives all fail to individualize. Include specific warning symptoms in later teaching materials.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3ec7addba3eb3d5126116faa050bd9ab24126d573cc19a97e1c49847077d8f3e"
+    },
+    {
+      "id": "x-health-008",
+      "status": "pass",
+      "assessment": "New bleeding warrants cessation and prompt maternity advice even without pain. Timing and intensity alternatives are plausible inadequate responses.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "135f7a3b701354698c6b068c91a21f20abd143c57b2edca3c692b8caef5bbbca"
+    },
+    {
+      "id": "x-health-009",
+      "status": "pass",
+      "assessment": "Continued hygiene and oral assessment respond to bleeding gums; calcium and hygiene substitution fail to evaluate the cause.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a03dd246074797aa5e3c6b696f5f571412d1a9448182813ed82d4f2eab0ed137"
+    },
+    {
+      "id": "x-health-010",
+      "status": "pass",
+      "assessment": "History plus current pregnancy-specific recommendations and newborn benefit form a defensible multi-response set. It avoids unstable fixed vaccine schedules.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "663e223ef32d770bd6965fcc3855c7302a4c31f0d71fe8943ec631e470c4ccaa"
+    },
+    {
+      "id": "x-health-011",
+      "status": "pass",
+      "assessment": "New partner creates an infection-prevention/screening need regardless of pregnancy or symptoms; counselling is within PN health teaching scope.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "cffd17236f78723b3bed2b92a8e1f2d0cc1def73cdf2f393168e5259c46ef150"
+    },
+    {
+      "id": "x-health-012",
+      "status": "pass",
+      "assessment": "Exploring priorities and future communication respects ongoing consent; birth preferences are not substitute consent.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c425414b634e5c11cad05898c043fab177093584574e4dc43b4b7eb510a01cff"
+    },
+    {
+      "id": "x-health-013",
+      "status": "revise",
+      "assessment": "Prompt assessment for reduced movement is supported; a new exercise routine is an unrealistic competing response.",
+      "issues": [
+        "Prompt assessment for reduced movement is supported; a new exercise routine is an unrealistic competing response."
+      ],
+      "proposedChanges": [
+        "Replace option 3 with: Drink something cold and call only if movement has not increased by bedtime. Explain that attempts to stimulate movement should not postpone contact for a meaningful change."
+      ],
+      "reviewedItemSha256": "b5f444162bf5269d0e416b04a350edffe61659d1ddf778f55490dc1efb47c29b"
+    },
+    {
+      "id": "x-health-014",
+      "status": "revise",
+      "assessment": "Comfort preparation is defensible but teaching a friend to interpret monitoring is too far outside the proposed support role.",
+      "issues": [
+        "Comfort preparation is defensible but teaching a friend to interpret monitoring is too far outside the proposed support role."
+      ],
+      "proposedChanges": [
+        "Replace option 0 with: Practise a fixed breathing schedule for every stage before asking about preferences. Explain that comfort methods should be adapted to the client rather than fixed in advance."
+      ],
+      "reviewedItemSha256": "596a97e1b8e1899c5da5c831d76784cc48aff4b15421ffb3c31624678ac3065d"
+    },
+    {
+      "id": "x-health-015",
+      "status": "revise",
+      "assessment": "Three access interventions are sound; requiring a daytime group before another visit is punitive and implausible.",
+      "issues": [
+        "Three access interventions are sound; requiring a daytime group before another visit is punitive and implausible."
+      ],
+      "proposedChanges": [
+        "Replace option 3 with: Combine all remaining prenatal assessments into one longer visit. Explain that convenience does not replace gestation-specific follow-up needs."
+      ],
+      "reviewedItemSha256": "f8fb452b4aec2c809da95dd0b6fc995e5868cc92a97dbe1fb727aab6de831bb1"
+    },
+    {
+      "id": "x-health-016",
+      "status": "pass",
+      "assessment": "The key corrects the route misconception and seeks assessed alternatives; Health Canada supports avoiding cannabis for pregnancy nausea.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9beee4d04d60eb895a9041f41cde95e6abf38d01f88bbc3a2869db365dcc8e40"
+    },
+    {
+      "id": "x-health-017",
+      "status": "revise",
+      "assessment": "Correct question is useful but the instinct question and emergency-only help suggestion are conspicuously judgmental weak distractors.",
+      "issues": [
+        "Correct question is useful but the instinct question and emergency-only help suggestion are conspicuously judgmental weak distractors."
+      ],
+      "proposedChanges": [
+        "Replace option 0 with: Which infant-care techniques would you like demonstrated before discharge? Replace option 1 with: Would you prefer a telephone check-in at the end of the first week? Explain that these may support teaching/follow-up but do not first map daily practical help."
+      ],
+      "reviewedItemSha256": "67a842064dd0e5b052527f583685f9217771d8cbfed6f3531a8dd4e65105c263"
+    },
+    {
+      "id": "x-health-018",
+      "status": "revise",
+      "assessment": "Key is sound but vaccination at labour and waiting for a rash are weak distractors; rationale could teach the actual Canadian conception interval.",
+      "issues": [
+        "Key is sound but vaccination at labour and waiting for a rash are weak distractors; rationale could teach the actual Canadian conception interval."
+      ],
+      "proposedChanges": [
+        "Use alternative options: Defer vaccination until after the planned pregnancy; Arrange vaccination without discussing a conception interval; Repeat serology after conception before counselling. Update correct rationale with at least four weeks after rubella-containing vaccine, citing Canadian Immunization Guide."
+      ],
+      "reviewedItemSha256": "216524341ffa86604beebf737bbe8f466583c15967c4fccf4026e6e857c39957"
+    },
+    {
+      "id": "x-health-019",
+      "status": "pass",
+      "assessment": "Evidence appraisal is the useful target; testimonials, natural claims and price represent recognizable consumer misconceptions. Difficulty should be foundation if no deeper comparison is added.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "878fd4eadef66a0477c68cc61be6fe390b8c7d3d73a2681e9fe6e2fdd20b890d"
+    },
+    {
+      "id": "x-health-020",
+      "status": "revise",
+      "assessment": "Fourth option is an implausible requirement to refuse help; item duplicates much of 017 unless given a more specific discharge-planning cue.",
+      "issues": [
+        "Fourth option is an implausible requirement to refuse help; item duplicates much of 017 unless given a more specific discharge-planning cue."
+      ],
+      "proposedChanges": [
+        "Recast around a client with scheduled night-shift support and an uncertain follow-up contact. Test feasible rest coverage, symptom contacts and referral arrangements with a credible but inappropriate fixed follow-up assumption."
+      ],
+      "reviewedItemSha256": "caa9f1ba9c51a0e8e2b9dce692274eeb843d69c33d33935193cc6f96312d4cda"
+    },
+    {
+      "id": "x-health-021",
+      "status": "pass",
+      "assessment": "Persistent pinching and slipping warrant observation of attachment and transfer before changing feeding method or frequency.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "88b243ca10628424ac530ce108d17c9d90a1ea9262aa5266ff0b63676356b018"
+    },
+    {
+      "id": "x-health-022",
+      "status": "revise",
+      "assessment": "Suck-swallow pattern is direct evidence; same breast first is irrelevant filler rather than a credible inference about milk transfer.",
+      "issues": [
+        "Suck-swallow pattern is direct evidence; same breast first is irrelevant filler rather than a credible inference about milk transfer."
+      ],
+      "proposedChanges": [
+        "Replace option 3 with: The infant sucks rapidly throughout the entire feed without pauses. Explain that rapid sucking without observed swallowing does not establish transfer."
+      ],
+      "reviewedItemSha256": "6a5a5648b5f52d2fccd6a64a3eed1ae9da9c002fab83d789d3735454823cb698"
+    },
+    {
+      "id": "x-health-023",
+      "status": "pass",
+      "assessment": "Well-grown infant with turning-away cue supports responsive stopping; faster flow and age-only scheduling are recognizable feeding errors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6414fb3eb6db897054ee909314de0778736b5beacdefec7fbcf00bc436937ddc"
+    },
+    {
+      "id": "x-health-024",
+      "status": "pass",
+      "assessment": "Correct concentration plus access support addresses safety and cause simultaneously. Homemade concentration is an unsafe but recognizable caregiver misconception, not the keyed recommendation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "197e7f1fbe296a9cbaaa5f156574eda8e0547c3c86110be1bc31b58f906d3314"
+    },
+    {
+      "id": "x-health-025",
+      "status": "revise",
+      "assessment": "All three evidence sources are valid, but duration-as-sole-indicator is transparently contradicted by the stem and offers almost no discrimination.",
+      "issues": [
+        "All three evidence sources are valid, but duration-as-sole-indicator is transparently contradicted by the stem and offers almost no discrimination."
+      ],
+      "proposedChanges": [
+        "Recast as a single-answer synthesis using concrete newborn age, serial weights, elimination and observed transfer to distinguish adequate intake from a follow-up need. Keep original learning objective and verify any age-specific thresholds against a primary infant-feeding source."
+      ],
+      "reviewedItemSha256": "050807f0ab6a0ada02ee499a39c2961a5b237e659ca1181e52154b867b9c16a2"
+    }
+  ],
+  "batchNote": "Avoid repeating a fixed SATA pattern of three obviously correct actions and one conspicuously unreasonable action across every fifth item. More varied numbers and contexts are needed.",
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

@@ -1,0 +1,827 @@
+[
+  {
+    "id": "x-adaptation-051",
+    "cat": "adaptation",
+    "title": "Act when focal symptoms resolve",
+    "stem": "A client's unilateral arm weakness and difficulty speaking resolve after ten minutes. They now want to resume routine activities. What is most appropriate?",
+    "type": "single",
+    "options": [
+      "Schedule a routine blood-pressure review.",
+      "Ask the client to keep a symptom diary.",
+      "Continue usual follow-up after a normal motor recheck.",
+      "Arrange urgent stroke or TIA assessment."
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Risk-factor management matters, but it does not address the urgency of this new focal neurological episode.",
+      "A diary can supplement the history but should not delay urgent evaluation of a transient deficit.",
+      "Normal current strength does not negate the observed episode or establish that its cause is benign.",
+      "Transient focal deficits can signal a time-sensitive vascular event and short-term stroke risk despite resolution."
+    ],
+    "takeaway": "Transient focal deficits can signal a time-sensitive vascular event and short-term stroke risk despite resolution.",
+    "refs": [
+      "b-neurology"
+    ],
+    "exhibit": null,
+    "subtopic": "Acute neurological symptoms",
+    "learningObjective": "Arrange urgent assessment for a transient focal neurological deficit despite apparent recovery.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-052",
+    "cat": "adaptation",
+    "title": "Recognize a possible posterior circulation event",
+    "stem": "A client suddenly develops severe imbalance, vomiting and double vision. Hand grasps remain equal. Which concern requires urgent assessment?",
+    "type": "single",
+    "options": [
+      "A posterior-circulation stroke.",
+      "Benign positional vertigo.",
+      "Medication-related dizziness.",
+      "Acute gastroenteritis."
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Sudden diplopia and severe imbalance can reflect a posterior brain circulation event despite preserved hand strength.",
+      "Vertigo can cause nausea and imbalance, but new double vision raises concern for a central neurological process.",
+      "Medicines may cause dizziness, but the abrupt combination with diplopia requires urgent neurological evaluation.",
+      "Vomiting may occur with gastrointestinal illness, but it does not explain the new diplopia and severe balance disturbance."
+    ],
+    "takeaway": "Sudden diplopia and severe imbalance can reflect a posterior brain circulation event despite preserved hand strength.",
+    "refs": [
+      "b-neurology"
+    ],
+    "exhibit": null,
+    "subtopic": "Acute neurological symptoms",
+    "learningObjective": "Consider stroke when sudden balance and coordination symptoms occur without typical arm weakness.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-053",
+    "cat": "adaptation",
+    "title": "Escalate a thunderclap headache",
+    "stem": "A client with occasional migraines reports a new headache that reached maximum intensity within seconds and feels unlike previous headaches. What is the priority?",
+    "type": "single",
+    "options": [
+      "Encourage rest in a dark, quiet room.",
+      "Arrange immediate emergency assessment.",
+      "Use the existing migraine rescue plan.",
+      "Arrange a same-week headache follow-up."
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Comfort measures may reduce distress but do not assess a possible intracranial emergency.",
+      "Maximal-at-onset pain that differs from prior migraines requires investigation for an acute intracranial cause.",
+      "An established migraine plan does not establish that this qualitatively different onset has the same cause.",
+      "The abrupt warning pattern needs more urgent evaluation than an outpatient appointment later in the week."
+    ],
+    "takeaway": "Maximal-at-onset pain that differs from prior migraines requires investigation for an acute intracranial cause.",
+    "refs": [
+      "b-neurology"
+    ],
+    "exhibit": null,
+    "subtopic": "Acute neurological symptoms",
+    "learningObjective": "Recognize an abrupt maximal-intensity headache as an emergency rather than assuming usual migraine.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-054",
+    "cat": "adaptation",
+    "title": "Recognize delayed head-injury deterioration",
+    "stem": "A client initially spoke normally after a head injury but is now increasingly difficult to arouse and repeatedly vomiting. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Reduce stimulation and allow uninterrupted sleep.",
+      "Review discharge readiness from the original observations.",
+      "Activate urgent neurological reassessment.",
+      "Administer the prescribed antiemetic."
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Rest does not explain or safely manage progressive loss of responsiveness after injury.",
+      "Earlier normal speech cannot establish discharge readiness after a new decline.",
+      "Progressive difficulty arousing the client and repeated vomiting after a head injury suggest evolving intracranial deterioration.",
+      "Symptom relief does not address declining consciousness; urgent neurological care should proceed."
+    ],
+    "takeaway": "Progressive difficulty arousing the client and repeated vomiting after a head injury suggest evolving intracranial deterioration.",
+    "refs": [
+      "b-neurology"
+    ],
+    "exhibit": null,
+    "subtopic": "Acute neurological symptoms",
+    "learningObjective": "Interpret a decline after initial alertness as possible evolving intracranial injury.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-055",
+    "cat": "adaptation",
+    "title": "Assess comprehension despite expressive aphasia",
+    "stem": "After a stroke, a client has effortful, incomplete spoken phrases. They accurately follow two different spoken instructions that are not demonstrated and answer factual yes/no questions reliably. Which assessment description best fits?",
+    "type": "single",
+    "options": [
+      "Fluent language production with impaired comprehension.",
+      "Isolated dysarthria with intact word production.",
+      "Global language impairment affecting both expression and understanding.",
+      "Expressive language difficulty with relatively preserved comprehension."
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "The speech is not fluent, and the accurate responses argue against comprehension being the main demonstrated deficit.",
+      "Dysarthria affects motor articulation; incomplete effortful language formulation is different from simply slurred but otherwise appropriate speech.",
+      "The consistent comprehension demonstrated here does not support equally severe receptive and expressive impairment.",
+      "The client understands the unmodelled commands and questions but struggles to formulate speech; fuller language assessment is still needed."
+    ],
+    "takeaway": "The client understands the unmodelled commands and questions but struggles to formulate speech; fuller language assessment is still needed.",
+    "refs": [
+      "b-neurology",
+      "b-aphasia"
+    ],
+    "exhibit": null,
+    "subtopic": "Neurological assessment",
+    "learningObjective": "Differentiate expressive language impairment from impaired comprehension and motor articulation using observed responses.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-056",
+    "cat": "adaptation",
+    "title": "Identify neurological deterioration from baseline",
+    "stem": "A client is under observation after an intracranial event. Which findings represent concerning changes from the documented baseline? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "An unchanged pupil difference documented before admission",
+      "The same longstanding hand tremor without functional change",
+      "New difficulty staying awake during assessment",
+      "New unilateral weakness compared with the previous examination",
+      "A pupil becomes newly larger and poorly reactive"
+    ],
+    "answer": [
+      2,
+      3,
+      4
+    ],
+    "why": [
+      "A stable pre-existing asymmetry is less concerning than a new change.",
+      "An unchanged chronic finding does not by itself establish acute deterioration.",
+      "A declining level of consciousness can indicate worsening brain function.",
+      "A new focal deficit requires timely neurological assessment.",
+      "A new pupil change can indicate evolving intracranial compromise."
+    ],
+    "takeaway": "A declining level of consciousness can indicate worsening brain function.",
+    "refs": [
+      "b-neurology"
+    ],
+    "exhibit": null,
+    "subtopic": "Neurological assessment",
+    "learningObjective": "Select new neurological changes that warrant escalation rather than stable pre-existing findings.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-057",
+    "cat": "adaptation",
+    "title": "Escalate a prolonged seizure",
+    "stem": "A generalized seizure continues beyond the client's documented emergency rescue threshold. The nurse is competent and authorized to follow that plan. Which actions are appropriate? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Administer the prescribed rescue medicine according to the plan",
+      "Wait for spontaneous recovery before alerting the team",
+      "Give the next routine oral antiseizure tablet during convulsions",
+      "Restart timing each time limb movements briefly lessen",
+      "Activate the emergency response while supporting airway safety"
+    ],
+    "answer": [
+      0,
+      4
+    ],
+    "why": [
+      "The established threshold authorizes timely rescue treatment rather than continued waiting.",
+      "This delays the response specified for a prolonged seizure.",
+      "Oral administration is unsafe and does not substitute for the rescue route.",
+      "Brief fluctuation does not necessarily mark recovery or a new event.",
+      "Prolonged seizure activity needs prompt assistance and physiological support."
+    ],
+    "takeaway": "Prolonged seizure activity needs prompt assistance and physiological support.",
+    "refs": [
+      "b-neurology"
+    ],
+    "exhibit": null,
+    "subtopic": "Seizure complications",
+    "learningObjective": "Activate emergency treatment when seizure duration exceeds the prescribed rescue threshold.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-058",
+    "cat": "adaptation",
+    "title": "Recognize seizures without recovery",
+    "stem": "A client has another convulsive seizure before regaining consciousness from the first. Which interpretation best guides care?",
+    "type": "single",
+    "options": [
+      "Routine postictal recovery.",
+      "Medication-related sleepiness.",
+      "A continuing seizure emergency.",
+      "Separate self-limited seizure events."
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "New convulsions during unconsciousness are not simply resolving postictal sleep.",
+      "Medication effects may influence arousal but do not adequately explain the repeated active convulsions.",
+      "Repeated convulsions without return to baseline require immediate escalation and support for ventilation and neurological safety.",
+      "The lack of recovery between events is a critical feature that increases urgency."
+    ],
+    "takeaway": "Repeated convulsions without return to baseline require immediate escalation and support for ventilation and neurological safety.",
+    "refs": [
+      "b-neurology"
+    ],
+    "exhibit": null,
+    "subtopic": "Seizure complications",
+    "learningObjective": "Distinguish recurrent seizures without return to baseline from a single resolving postictal period.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-059",
+    "cat": "adaptation",
+    "title": "Evaluate postictal recovery",
+    "stem": "After a brief seizure, which findings support recovery toward baseline? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "The client becomes harder to arouse at each check",
+      "A new unilateral weakness persists on repeated checks",
+      "Another seizure begins before consciousness returns",
+      "Breathing is regular with a maintained airway",
+      "The client becomes progressively more responsive and oriented"
+    ],
+    "answer": [
+      3,
+      4
+    ],
+    "why": [
+      "Progressive loss of responsiveness needs urgent reassessment.",
+      "A persistent focal change warrants neurological evaluation rather than assumed routine recovery.",
+      "Recurrence without recovery indicates a seizure emergency.",
+      "Stable ventilation is necessary during the recovery period.",
+      "Improvement over serial assessments supports resolving postictal effects."
+    ],
+    "takeaway": "Stable ventilation is necessary during the recovery period.",
+    "refs": [
+      "b-neurology"
+    ],
+    "exhibit": null,
+    "subtopic": "Seizure recovery",
+    "learningObjective": "Use airway status and improving mentation to distinguish recovery from continuing deterioration.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-060",
+    "cat": "adaptation",
+    "title": "Document a possible focal seizure",
+    "stem": "A client abruptly stops responding during conversation, makes repetitive chewing movements for about one minute and later cannot recall it. Which report best preserves the clinically important event?",
+    "type": "single",
+    "options": [
+      "Abrupt one-minute episode of chewing and absent response; client later reports amnesia.",
+      "One-minute refusal to answer with chewing; client later unable to explain the behaviour.",
+      "One-minute episode of chewing and anxiety; client then returned to usual conversation.",
+      "Client conversing normally after a brief pause; no current memory of the discussion."
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "This records onset, behaviour, responsiveness, duration and recovery information without assigning intent, supporting seizure assessment.",
+      "Calling the episode refusal assumes intent despite sudden unresponsiveness and amnesia.",
+      "This adds an unestablished emotional interpretation and omits the loss of responsiveness and recall.",
+      "The later state alone understates the stereotyped movements and unresponsiveness during the event."
+    ],
+    "takeaway": "This records onset, behaviour, responsiveness, duration and recovery information without assigning intent, supporting seizure assessment.",
+    "refs": [
+      "b-neurology"
+    ],
+    "exhibit": null,
+    "subtopic": "Seizure recovery",
+    "learningObjective": "Describe observed behaviour and recovery without assuming deliberate nonparticipation.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-061",
+    "cat": "adaptation",
+    "title": "Recognize bulbar weakness in myasthenia",
+    "stem": "A client with myasthenia gravis is being reassessed. Which changes require prompt evaluation for a possible crisis? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "The usual mild evening eyelid droop is unchanged",
+      "Hand strength matches the documented baseline",
+      "The voice becomes weak and speech trails off after a few words",
+      "The cough becomes weak and saliva is difficult to clear",
+      "Breathing becomes shallow with visible fatigue"
+    ],
+    "answer": [
+      2,
+      3,
+      4
+    ],
+    "why": [
+      "An established stable ocular symptom is less urgent than new bulbar or respiratory decline.",
+      "Unchanged limb strength does not itself indicate new crisis.",
+      "Fatiguing bulbar function can accompany significant neuromuscular weakness.",
+      "Reduced clearance threatens airway protection.",
+      "Respiratory muscle weakness can lead to ventilatory failure."
+    ],
+    "takeaway": "Fatiguing bulbar function can accompany significant neuromuscular weakness.",
+    "refs": [
+      "b-neurology"
+    ],
+    "exhibit": null,
+    "subtopic": "Neuromuscular deterioration",
+    "learningObjective": "Identify changes suggesting airway-protection or respiratory risk during myasthenia gravis.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-062",
+    "cat": "adaptation",
+    "title": "Assess ventilation during Guillain-Barré progression",
+    "stem": "A client with Guillain-Barré syndrome has spreading weakness and difficulty taking a deep breath, while saturation remains 97%. Which ordered assessment most directly helps detect declining respiratory muscle function?",
+    "type": "single",
+    "options": [
+      "Auscultation of the lung fields.",
+      "A one-minute respiratory-rate count.",
+      "Serial forced vital-capacity measurements.",
+      "Repeat conventional pulse-oximetry readings."
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Breath sounds may be clear despite respiratory muscle failure, so auscultation is less direct for this question.",
+      "Rate is important but may not reveal declining depth or reserve as directly as serial lung-volume measurements.",
+      "A falling vital capacity can identify declining ventilatory reserve before routine saturation falls; trained staff perform and report the ordered assessment.",
+      "Oximetry remains useful but measures oxygenation rather than respiratory muscle strength."
+    ],
+    "takeaway": "A falling vital capacity can identify declining ventilatory reserve before routine saturation falls; trained staff perform and report the ordered assessment.",
+    "refs": [
+      "b-neurology",
+      "b-gbs-guideline"
+    ],
+    "exhibit": null,
+    "subtopic": "Neuromuscular deterioration",
+    "learningObjective": "Select an ordered respiratory-function measure that can detect declining ventilatory reserve in Guillain-Barré syndrome.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-063",
+    "cat": "adaptation",
+    "title": "Recognize autonomic instability with Guillain-Barré",
+    "stem": "A client with Guillain-Barré syndrome develops marked fluctuations in pulse and blood pressure. Which nursing responses are appropriate? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Use one normal reading to return to the previous observation plan.",
+      "Report possible autonomic involvement promptly.",
+      "Continue the ordered cardiac and blood-pressure monitoring.",
+      "Treat the pressure rises as episodes of pain.",
+      "Reduce measurements to standard once-per-shift checks."
+    ],
+    "answer": [
+      1,
+      2
+    ],
+    "why": [
+      "Intermittent normalization does not establish resolution of autonomic episodes.",
+      "Guillain-Barré syndrome can disrupt autonomic control and produce clinically important pulse and pressure instability.",
+      "Trends help detect intermittent dysrhythmias and pressure changes that a single normal reading can miss.",
+      "Pain can affect pressure, but marked fluctuations during this illness warrant assessment for dysautonomia.",
+      "Routine intervals may miss the current instability and would depart from the ordered monitoring plan."
+    ],
+    "takeaway": "Guillain-Barré syndrome can disrupt autonomic control and produce clinically important pulse and pressure instability.",
+    "refs": [
+      "b-neurology"
+    ],
+    "exhibit": null,
+    "subtopic": "Neuromuscular deterioration",
+    "learningObjective": "Identify cardiovascular changes requiring monitoring during acute peripheral nerve dysfunction.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-064",
+    "cat": "adaptation",
+    "title": "Investigate a reversible trigger of worsening weakness",
+    "stem": "A client with multiple sclerosis develops worse weakness during fever and urinary symptoms. Which nursing actions are indicated now? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Record the episode as permanent disease progression.",
+      "Schedule routine strengthening therapy.",
+      "Recheck neurological function after the antipyretic has taken effect.",
+      "Compare the neurological findings with the established baseline.",
+      "Assess for infection and obtain ordered specimens."
+    ],
+    "answer": [
+      3,
+      4
+    ],
+    "why": [
+      "A transient illness-related worsening is possible, and permanence cannot be established from this episode.",
+      "Rehabilitation may help later, but current weakness with infection symptoms requires acute assessment.",
+      "A later comparison may be useful, but an initial assessment and report should not wait for fever reduction.",
+      "The degree and nature of the change guide urgency; a reversible trigger must not obscure a new neurological problem.",
+      "Fever and infection can worsen existing symptoms, so the acute trigger needs evaluation."
+    ],
+    "takeaway": "The degree and nature of the change guide urgency; a reversible trigger must not obscure a new neurological problem.",
+    "refs": [
+      "b-neurology"
+    ],
+    "exhibit": null,
+    "subtopic": "Multiple sclerosis changes",
+    "learningObjective": "Assess fever and infection before attributing all new multiple-sclerosis symptoms to progression.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-065",
+    "cat": "adaptation",
+    "title": "Respond to autonomic dysreflexia",
+    "stem": "A client with a high spinal cord injury develops a pounding headache, flushing and blood pressure far above baseline. The urinary catheter tubing is kinked. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Lay the client flat to support cerebral perfusion.",
+      "Initiate the dysreflexia protocol and relieve the visible catheter kink.",
+      "Repeat the pressure after scheduled bladder care.",
+      "Administer the prescribed headache analgesic."
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Flat positioning may worsen the hypertensive response; upright positioning is generally part of the immediate protocol.",
+      "The pattern suggests autonomic dysreflexia triggered by bladder distension; the protocol includes prompt upright positioning, trigger relief and continued pressure monitoring.",
+      "The current symptomatic hypertension and visible kink need immediate attention rather than the routine schedule.",
+      "Pain relief does not remove the triggering distension or address the dangerous blood-pressure rise."
+    ],
+    "takeaway": "The pattern suggests autonomic dysreflexia triggered by bladder distension; the protocol includes prompt upright positioning, trigger relief and continued pressure monitoring.",
+    "refs": [
+      "b-neurology"
+    ],
+    "exhibit": null,
+    "subtopic": "Spinal cord emergencies",
+    "learningObjective": "Recognize a hypertensive emergency pattern after high spinal injury and address triggers under protocol.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-066",
+    "cat": "adaptation",
+    "title": "Recognize cauda equina warning symptoms",
+    "stem": "A client with back pain develops urinary retention and numbness around the perineum. Which concern requires urgent evaluation?",
+    "type": "single",
+    "options": [
+      "Uncomplicated lumbar muscle strain.",
+      "Distal peripheral neuropathy.",
+      "Cauda equina compression.",
+      "Isolated lower urinary obstruction."
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "A simple strain does not adequately explain new bladder dysfunction or saddle sensory change.",
+      "Typical distal neuropathy does not fit the acute saddle-and-bladder pattern as well as a compressive spinal process.",
+      "New saddle sensory change and bladder dysfunction suggest compromised sacral nerve function requiring time-sensitive assessment.",
+      "Obstruction may explain retention but does not explain the new perineal sensory loss associated with back pain."
+    ],
+    "takeaway": "New saddle sensory change and bladder dysfunction suggest compromised sacral nerve function requiring time-sensitive assessment.",
+    "refs": [
+      "b-neurology"
+    ],
+    "exhibit": null,
+    "subtopic": "Spinal cord emergencies",
+    "learningObjective": "Escalate new bladder dysfunction and saddle sensory loss with back pain.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-067",
+    "cat": "adaptation",
+    "title": "Escalate new deficits after spinal surgery",
+    "stem": "Four hours after lumbar spinal surgery, which new report requires immediate escalation? All findings are compared with the documented recovery-room baseline.",
+    "type": "single",
+    "options": [
+      "Incisional pain returns as the prescribed analgesic interval ends.",
+      "The unchanged preoperative toe numbness is still present.",
+      "Mild nausea improves after the prescribed antiemetic.",
+      "Both legs are newly weak, and bladder control has been lost."
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Recurrent incisional pain requires treatment assessment, but it is less urgent than new neurological loss.",
+      "A stable pre-existing sensory deficit should be monitored but is not the new emergency finding.",
+      "A responding common postoperative symptom does not carry the urgency of acute motor and bladder dysfunction.",
+      "Acute bilateral motor and bladder change may indicate a compressive or other surgical complication requiring immediate assessment."
+    ],
+    "takeaway": "Acute bilateral motor and bladder change may indicate a compressive or other surgical complication requiring immediate assessment.",
+    "refs": [
+      "b-neurology"
+    ],
+    "exhibit": null,
+    "subtopic": "Spinal cord emergencies",
+    "learningObjective": "Recognize acute postoperative neurological change as a possible compressive complication.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-068",
+    "cat": "adaptation",
+    "title": "Prioritize suspected meningitis deterioration",
+    "stem": "A client has fever, severe headache, neck stiffness and increasing difficulty staying awake. Which concern best explains the need for urgent physiological assessment?",
+    "type": "single",
+    "options": [
+      "Central nervous system infection.",
+      "A familiar migraine episode.",
+      "A tension-type headache.",
+      "An uncomplicated viral upper-respiratory illness."
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "The fever, meningeal symptoms and altered consciousness suggest meningitis or another CNS infection requiring urgent assessment and support.",
+      "Migraine may cause headache and nausea, but fever, neck stiffness and declining arousal require a different urgent evaluation.",
+      "Tension headache does not adequately explain systemic illness or progressive impaired consciousness.",
+      "The neurological and meningeal findings make this more concerning than a routine upper-respiratory infection."
+    ],
+    "takeaway": "The fever, meningeal symptoms and altered consciousness suggest meningitis or another CNS infection requiring urgent assessment and support.",
+    "refs": [
+      "b-neurology"
+    ],
+    "exhibit": null,
+    "subtopic": "Central nervous system infection",
+    "learningObjective": "Recognize fever with meningeal and consciousness changes as an urgent physiological problem.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-069",
+    "cat": "adaptation",
+    "title": "Protect a possible CSF leak",
+    "stem": "After head trauma, a client develops new clear nasal drainage. A skull-base injury is suspected. Which actions are appropriate? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Pack the nostril tightly to stop the fluid",
+      "Insert nasal suction to determine the drainage source",
+      "Treat a bedside glucose strip as definitive proof of CSF",
+      "Report the drainage and follow the diagnostic collection plan",
+      "Discourage nose blowing while awaiting assessment"
+    ],
+    "answer": [
+      3,
+      4
+    ],
+    "why": [
+      "Packing can obstruct drainage and introduce trauma or infection.",
+      "Nasal instrumentation may be hazardous with suspected skull-base injury.",
+      "A nonspecific bedside glucose result cannot confirm the diagnosis.",
+      "The team needs to evaluate a possible cerebrospinal-fluid leak.",
+      "Increased nasal pressure may worsen leakage or introduce complications."
+    ],
+    "takeaway": "The team needs to evaluate a possible cerebrospinal-fluid leak.",
+    "refs": [
+      "b-neurology"
+    ],
+    "exhibit": null,
+    "subtopic": "Head injury complications",
+    "learningObjective": "Avoid obstructing or traumatizing new clear nasal drainage after head injury.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-070",
+    "cat": "adaptation",
+    "title": "Recognize possible shunt malfunction",
+    "stem": "A child with a ventricular shunt develops repeated vomiting, headache and unusual sleepiness. The caregiver says this is not the child's usual behaviour. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Assess for visible swelling along the shunt tract.",
+      "Begin an oral rehydration trial for the vomiting.",
+      "Arrange urgent neurological and shunt assessment.",
+      "Treat the vomiting as gastroenteritis."
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "The tract should be examined, but an absence of swelling would not exclude obstruction or internal malfunction.",
+      "Hydration does not resolve the need to assess the associated headache and altered alertness urgently.",
+      "Headache, vomiting and unusual sleepiness may reflect impaired CSF drainage and raised intracranial pressure.",
+      "Another illness is possible, but the shunt history and neurological change require prompt assessment for malfunction."
+    ],
+    "takeaway": "Headache, vomiting and unusual sleepiness may reflect impaired CSF drainage and raised intracranial pressure.",
+    "refs": [
+      "b-neurology"
+    ],
+    "exhibit": null,
+    "subtopic": "Paediatric neurological deterioration",
+    "learningObjective": "Escalate new vomiting and neurological decline in a child with a cerebrospinal-fluid shunt.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-071",
+    "cat": "adaptation",
+    "title": "Interpret an infant's neurological warning pattern",
+    "stem": "An infant is febrile, feeds poorly and has a bulging fontanelle while calm and upright. What is the best response?",
+    "type": "single",
+    "options": [
+      "Repeat feeding after the fever medicine takes effect.",
+      "Offer smaller, more frequent feeds.",
+      "Repeat the fontanelle assessment while the infant is crying.",
+      "Arrange urgent assessment for possible intracranial disease."
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Feeding support does not address the current neurological warning finding and should not delay assessment.",
+      "This may help some feeding problems, but the systemic and fontanelle findings require broader urgent evaluation.",
+      "Crying can transiently increase fullness and is less informative than the already abnormal calm, upright finding.",
+      "Persistent bulging while calm and upright with fever and poor feeding is concerning for infection or increased pressure."
+    ],
+    "takeaway": "Persistent bulging while calm and upright with fever and poor feeding is concerning for infection or increased pressure.",
+    "refs": [
+      "b-neurology"
+    ],
+    "exhibit": null,
+    "subtopic": "Paediatric neurological deterioration",
+    "learningObjective": "Distinguish a concerning bulging fontanelle pattern from transient fullness during crying.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-072",
+    "cat": "adaptation",
+    "title": "Consider an organic cause of acute behavioural change",
+    "stem": "A previously independent adult develops fever, new bizarre behaviour and a first seizure. What should guide initial care?",
+    "type": "single",
+    "options": [
+      "Arrange urgent medical assessment for an acute brain or systemic process.",
+      "Request a routine psychiatric review of the behaviour.",
+      "Use de-escalation and environmental support.",
+      "Observe for a possible panic-related episode."
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Fever and a first seizure with new behavioural change require urgent physiological evaluation regardless of the unusual behaviour.",
+      "Psychiatric input may become relevant, but the fever and first seizure make medical assessment the initial priority.",
+      "These can support safety during care but do not replace assessment of the underlying physiological emergency.",
+      "Panic does not adequately explain fever and a first seizure, and observation alone could delay essential treatment."
+    ],
+    "takeaway": "Fever and a first seizure with new behavioural change require urgent physiological evaluation regardless of the unusual behaviour.",
+    "refs": [
+      "b-neurology"
+    ],
+    "exhibit": null,
+    "subtopic": "Central nervous system infection",
+    "learningObjective": "Identify fever and new seizures as cues requiring medical assessment of behavioural change.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-073",
+    "cat": "adaptation",
+    "title": "Escalate transient monocular vision loss",
+    "stem": "A client reports a painless dark curtain over one eye for several minutes that has now resolved. What is appropriate?",
+    "type": "single",
+    "options": [
+      "Track future episodes in a home symptom diary.",
+      "Arrange urgent vascular and ophthalmic assessment.",
+      "Arrange routine cardiovascular-risk follow-up.",
+      "Book a routine refraction appointment."
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Recording details can help clinicians, but waiting for recurrence would delay the current evaluation.",
+      "A transient monocular curtain may reflect retinal ischemia or another serious process even after vision returns.",
+      "Long-term risk reduction matters, but it does not replace urgent evaluation of this possible ischemic warning episode.",
+      "Refractive error does not explain the abrupt, transient dark curtain pattern."
+    ],
+    "takeaway": "A transient monocular curtain may reflect retinal ischemia or another serious process even after vision returns.",
+    "refs": [
+      "b-eye"
+    ],
+    "exhibit": null,
+    "subtopic": "Acute visual symptoms",
+    "learningObjective": "Recognize sudden one-eye visual loss as requiring urgent vascular and ophthalmic assessment.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-074",
+    "cat": "adaptation",
+    "title": "Recognize acute angle-closure symptoms",
+    "stem": "A client develops sudden severe eye pain, blurred vision with halos, headache and vomiting. Which complication is most concerning?",
+    "type": "single",
+    "options": [
+      "Conjunctivitis.",
+      "Retinal detachment.",
+      "Acute angle-closure glaucoma.",
+      "Migraine."
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Conjunctivitis usually causes surface irritation or discharge rather than this severe painful visual loss and vomiting pattern.",
+      "Detachment more often causes painless flashes, floaters or a field curtain; this painful syndrome favours angle closure.",
+      "The painful visual and systemic pattern can indicate rapidly elevated intraocular pressure requiring emergency eye assessment.",
+      "Migraine can cause headache and visual symptoms, but severe ocular pain with halos requires consideration of an eye-pressure emergency."
+    ],
+    "takeaway": "The painful visual and systemic pattern can indicate rapidly elevated intraocular pressure requiring emergency eye assessment.",
+    "refs": [
+      "b-glaucoma"
+    ],
+    "exhibit": null,
+    "subtopic": "Acute visual symptoms",
+    "learningObjective": "Identify an acute painful visual-disturbance pattern requiring emergency eye assessment.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-adaptation-075",
+    "cat": "adaptation",
+    "title": "Respond to retinal-detachment warning symptoms",
+    "stem": "A client develops new flashes, many floaters and a shadow spreading across one eye's vision, without pain. What is most appropriate?",
+    "type": "single",
+    "options": [
+      "Arrange a routine refraction appointment next month",
+      "Wait for redness or eye pain to confirm severity",
+      "Advise screen rest as the main treatment",
+      "Urgent ophthalmic assessment for possible retinal detachment"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "A refractive problem does not explain this acute retinal warning pattern.",
+      "Retinal detachment may remain painless and externally quiet.",
+      "Rest does not reattach a threatened retina or replace urgent assessment.",
+      "Retinal separation can threaten vision despite painless symptoms."
+    ],
+    "takeaway": "Retinal separation can threaten vision despite painless symptoms.",
+    "refs": [
+      "b-eye"
+    ],
+    "exhibit": null,
+    "subtopic": "Acute visual symptoms",
+    "learningObjective": "Escalate new flashes, floaters and a visual-field curtain despite absent pain.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  }
+]

@@ -1,0 +1,1625 @@
+{
+  "generatedAt": "2026-10-01T18:25:27.462094+00:00",
+  "createdByTask": "/root/review_legacy",
+  "scope": "b pharmacology001–125 and adaptation001–050; adaptation051–100 belongs to/root and pharmacology126–200 to/root/review_expansion.",
+  "purpose": "Mechanical current-content index of actual manually reasoned review records. This manifest is not a new clinical review and does not grant approval based on schema/hash agreement alone.",
+  "canonicalHashMethod": "sha256(json.dumps(question,sort_keys=True,ensure_ascii=False).encode()) with Python default separators",
+  "counts": {
+    "questions": 175,
+    "currentMatchingPass": 175,
+    "unmatched": 0
+  },
+  "sourceFiles": [
+    {
+      "path": "authoring/b/pharmacology-01.json",
+      "sha256": "ae9a30c432c4738c9f2671032a84c6714fb902550231419056c32b7a82a87bb7"
+    },
+    {
+      "path": "authoring/b/pharmacology-02.json",
+      "sha256": "f859d36ecdca0f29e68af7e705e1ac2b827e61c8a2540b6d84b2a06392a1553a"
+    },
+    {
+      "path": "authoring/b/pharmacology-03.json",
+      "sha256": "e92efcec092430041d959f754508856e585efe318093ac9cf73f69b9b3043975"
+    },
+    {
+      "path": "authoring/b/pharmacology-04.json",
+      "sha256": "5db57f8007486e1c3f5b16df542ef7cf0e176b57e0e13a7e763a470ee42dec33"
+    },
+    {
+      "path": "authoring/b/pharmacology-05.json",
+      "sha256": "90d976323efacbea6f00af84a80f2e22a7931c68e595a6ee1a7b48fc6ca6130a"
+    },
+    {
+      "path": "authoring/b/adaptation-01.json",
+      "sha256": "868673463731df73edc27252546303048448680e7b4dace639b02b583b057a1e"
+    },
+    {
+      "path": "authoring/b/adaptation-02.json",
+      "sha256": "cb9a88c68ba8cad3e1b1be166fc9d08849cd39acb024cc93d69a803d3c8d0db5"
+    }
+  ],
+  "items": [
+    {
+      "id": "x-pharmacology-001",
+      "status": "pass",
+      "reviewedItemSha256": "e2d195e4ab488cb02d5988c11334990826c6cf9a19081af5ea5a19a75f15f318",
+      "sourceFile": "authoring/b/pharmacology-01.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T17:57:51.752772+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-002",
+      "status": "pass",
+      "reviewedItemSha256": "51207a4ef75721180a11982b6c245c1f36bdf04e96ffa3706539f7a18852ee93",
+      "sourceFile": "authoring/b/pharmacology-01.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T17:57:51.752772+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-003",
+      "status": "pass",
+      "reviewedItemSha256": "a6227da5718b7e11d3fc86a55cc3dbd0a3f3f7f0b81afc386a5725982c76ab00",
+      "sourceFile": "authoring/b/pharmacology-01.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T17:57:51.752772+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-004",
+      "status": "pass",
+      "reviewedItemSha256": "ac405fafc90ebc94f2758419c8d25140e4d1561b7a314b764b5d2253cb9788db",
+      "sourceFile": "authoring/b/pharmacology-01.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T17:57:51.752772+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-005",
+      "status": "pass",
+      "reviewedItemSha256": "187aa1570069b6da62a9d5479439789ed58335f6eda6b5d96a2861990c590881",
+      "sourceFile": "authoring/b/pharmacology-01.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T17:57:51.752772+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-006",
+      "status": "pass",
+      "reviewedItemSha256": "b16ab9a0f04d8f180061a8442dd94a78a6aea5801eca5115449875e9ab0dfd74",
+      "sourceFile": "authoring/b/pharmacology-01.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T17:57:51.752772+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-007",
+      "status": "pass",
+      "reviewedItemSha256": "2bab8c8a964ccc409e5223e4dec979d0fa4f4662109ce98628a49a34c0c2dc2e",
+      "sourceFile": "authoring/b/pharmacology-01.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T17:57:51.752772+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-008",
+      "status": "pass",
+      "reviewedItemSha256": "87f249a9560e0a02dbb3d968a0edaebd0d4874612cee767ea560888b40b1defa",
+      "sourceFile": "authoring/b/pharmacology-01.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T17:57:51.752772+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-009",
+      "status": "pass",
+      "reviewedItemSha256": "dc79cb8fdd721dbe5afdab51de01737054783044416b9b20a2333656fcca3761",
+      "sourceFile": "authoring/b/pharmacology-01.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T17:57:51.752772+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-010",
+      "status": "pass",
+      "reviewedItemSha256": "c991dedfa6cb9324b0a549e14fe2d17aefe573846b8f6d59864dc865e97dd56d",
+      "sourceFile": "authoring/b/pharmacology-01.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T17:57:51.752772+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-011",
+      "status": "pass",
+      "reviewedItemSha256": "28d4a91aed862fc34bc8e19b4be4a89834f96385dd040e58f718e8c7e23c394f",
+      "sourceFile": "authoring/b/pharmacology-01.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T17:57:51.752772+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-012",
+      "status": "pass",
+      "reviewedItemSha256": "adcd293cad80d8c61775166c5f3db512ea651c5587834e10ffd360990d9cf706",
+      "sourceFile": "authoring/b/pharmacology-01.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T17:57:51.752772+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-013",
+      "status": "pass",
+      "reviewedItemSha256": "3d25d818cedea92668527be025fdc987f625cc7e4cd308dd2811bd31f5f3285d",
+      "sourceFile": "authoring/b/pharmacology-01.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-014",
+      "status": "pass",
+      "reviewedItemSha256": "b4e17588d83e320f45a69deeea137990a6cc863153bbf71acc03eb14304e5b4b",
+      "sourceFile": "authoring/b/pharmacology-01.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-015",
+      "status": "pass",
+      "reviewedItemSha256": "2ccbbf3d428ced4584f2b486051b0ec20ca144614d29316fc941450a95388271",
+      "sourceFile": "authoring/b/pharmacology-01.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-016",
+      "status": "pass",
+      "reviewedItemSha256": "7442feccd6416f23636dab4e56e892a7228c5fa127c8c279a47998f3fca1e3df",
+      "sourceFile": "authoring/b/pharmacology-01.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-017",
+      "status": "pass",
+      "reviewedItemSha256": "442726d4e51572a82134b52ee0625f3a541b34b5f45bda4661f9ba6d963be17c",
+      "sourceFile": "authoring/b/pharmacology-01.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-018",
+      "status": "pass",
+      "reviewedItemSha256": "380de514e7d2698ee1ea8e93eae2119fd91eeec97edbb3caf59a67e2c25c59ff",
+      "sourceFile": "authoring/b/pharmacology-01.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T17:57:51.752772+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-019",
+      "status": "pass",
+      "reviewedItemSha256": "a652e5990dad085ef2fccbccada4580068281ba7c9619e7b3dae07d31c529b4c",
+      "sourceFile": "authoring/b/pharmacology-01.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-020",
+      "status": "pass",
+      "reviewedItemSha256": "432e2371bde4f2f59139fcb126d24c76876daf06a5ea8885c63b0c43af18c91f",
+      "sourceFile": "authoring/b/pharmacology-01.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T17:57:51.752772+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-021",
+      "status": "pass",
+      "reviewedItemSha256": "090aa46f61b580c78fe0620fe0abdaff8427cb01b1e4e80d8e504bb94ae7da68",
+      "sourceFile": "authoring/b/pharmacology-01.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T17:57:51.752772+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-022",
+      "status": "pass",
+      "reviewedItemSha256": "330557835784e5c54b45c18bfb5dd49e77e32ea2764f236b82cd6daeb04c4fe8",
+      "sourceFile": "authoring/b/pharmacology-01.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-023",
+      "status": "pass",
+      "reviewedItemSha256": "dacdbf816ba80c4dea1a9b69d9645608603d4a6aba87e17148cb29db6599f75d",
+      "sourceFile": "authoring/b/pharmacology-01.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-024",
+      "status": "pass",
+      "reviewedItemSha256": "c6af44d322b41608bd3178e575982a13d4c15651c7d2cc39863d0381c3efba67",
+      "sourceFile": "authoring/b/pharmacology-01.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T17:57:51.752772+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-025",
+      "status": "pass",
+      "reviewedItemSha256": "8b07b4a8522041bfcd672ebe3d4e43b49bafa6e58ba3e72a3672c745378c2309",
+      "sourceFile": "authoring/b/pharmacology-01.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T17:57:51.752772+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-026",
+      "status": "pass",
+      "reviewedItemSha256": "c7c93bd2a120cbdb82f81a4c5632f99a1e640eb8021fb83d4cd86f033f6ff00c",
+      "sourceFile": "authoring/b/pharmacology-02.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:01:54.018964+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-027",
+      "status": "pass",
+      "reviewedItemSha256": "267cdbb098c24d55e82451953182c47d74c3d700c5255819f43bd4cea63ed58a",
+      "sourceFile": "authoring/b/pharmacology-02.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:01:54.018964+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-028",
+      "status": "pass",
+      "reviewedItemSha256": "65e76e71e21e93d04a0ffe5988d61eddb659ad5ef6305a141fc9c2db74c288f6",
+      "sourceFile": "authoring/b/pharmacology-02.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:01:54.018964+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-029",
+      "status": "pass",
+      "reviewedItemSha256": "88a38438d63d36f2fe8ceaa942df14dc9f2ed266a00af3bbeb89656275b94e29",
+      "sourceFile": "authoring/b/pharmacology-02.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:01:54.018964+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-030",
+      "status": "pass",
+      "reviewedItemSha256": "58b3e08dcf12e330e0e54218ba12c02798745284b4e27dca99f1e7ebb2642deb",
+      "sourceFile": "authoring/b/pharmacology-02.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:01:54.018964+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-031",
+      "status": "pass",
+      "reviewedItemSha256": "171d6bd4255c6dcd054a6bdff130d853821d510cb04483f47610d6e06ef709e6",
+      "sourceFile": "authoring/b/pharmacology-02.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:01:54.018964+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-032",
+      "status": "pass",
+      "reviewedItemSha256": "21789834522d3774b44f1dd43120c5f9919a20a1a43c54e8b4c28505a078d62d",
+      "sourceFile": "authoring/b/pharmacology-02.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:01:54.018964+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-033",
+      "status": "pass",
+      "reviewedItemSha256": "eda6b11af98d05a2bf3397523a6c980f7c56b9882f669c3d4f1eaa938902b193",
+      "sourceFile": "authoring/b/pharmacology-02.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:01:54.018964+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-034",
+      "status": "pass",
+      "reviewedItemSha256": "e08ff8d2bd9f7b715d5cd789ea6a9aabd2eac9a214c0fd781e147079b8d64a76",
+      "sourceFile": "authoring/b/pharmacology-02.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:01:54.018964+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-035",
+      "status": "pass",
+      "reviewedItemSha256": "1278a01090d2284c2b4b920ecd11899892e618526a94f59a00ecd86616f261f7",
+      "sourceFile": "authoring/b/pharmacology-02.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-036",
+      "status": "pass",
+      "reviewedItemSha256": "cc2d3de64798d9da09cbd28a25ced8de708f1cb2c4a15e528c14e84f15f2e46d",
+      "sourceFile": "authoring/b/pharmacology-02.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:01:54.018964+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-037",
+      "status": "pass",
+      "reviewedItemSha256": "b29f7fb383fbdaeb50b2eeb2f7da388653b456305c43672aa60a040f5c12851c",
+      "sourceFile": "authoring/b/pharmacology-02.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:01:54.018964+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-038",
+      "status": "pass",
+      "reviewedItemSha256": "6547ec9abfa7920f58106a5045eb837a3e7cc46d40eb00d35f727b58fe75923e",
+      "sourceFile": "authoring/b/pharmacology-02.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-039",
+      "status": "pass",
+      "reviewedItemSha256": "7c8a7b743a55e5b7d92d6b74bfa42861d47d9104801801db95ef1be6c5599493",
+      "sourceFile": "authoring/b/pharmacology-02.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:01:54.018964+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-040",
+      "status": "pass",
+      "reviewedItemSha256": "05b69221c7b8592c5bbf6c70bf71a326262790de4f31575fc4a90f141d37a264",
+      "sourceFile": "authoring/b/pharmacology-02.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-041",
+      "status": "pass",
+      "reviewedItemSha256": "ee64f6878fa38e6482a86089010d42f477ef819ce34527dae13f7472daa6a5cf",
+      "sourceFile": "authoring/b/pharmacology-02.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:01:54.018964+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-042",
+      "status": "pass",
+      "reviewedItemSha256": "ca1882e88389da3a2822f6d96fc4e0139937141084991114ea929b84f6e5751b",
+      "sourceFile": "authoring/b/pharmacology-02.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-043",
+      "status": "pass",
+      "reviewedItemSha256": "d78a94219b19c3124d19a5a58c347bbedd7e5e7d1ac8c185ff7ed358aa16e3f2",
+      "sourceFile": "authoring/b/pharmacology-02.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:01:54.018964+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-044",
+      "status": "pass",
+      "reviewedItemSha256": "42967246e1c6e2b683b8105fce9f9d36b1b30d4b821fd9509631dbc757075a3d",
+      "sourceFile": "authoring/b/pharmacology-02.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-045",
+      "status": "pass",
+      "reviewedItemSha256": "8177dacffee85af566e5be19e0fba54f084e3c35f1a20977db6c9a7cbf377fb7",
+      "sourceFile": "authoring/b/pharmacology-02.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-046",
+      "status": "pass",
+      "reviewedItemSha256": "60b13d9da347492621cc8b718c263259ffb6de343adec14c2f62d430d102d6d4",
+      "sourceFile": "authoring/b/pharmacology-02.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:01:54.018964+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-047",
+      "status": "pass",
+      "reviewedItemSha256": "a2007d6b9fff92586f4968e1fe426b7fd8deddc758af3b19830e938611700e5b",
+      "sourceFile": "authoring/b/pharmacology-02.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-048",
+      "status": "pass",
+      "reviewedItemSha256": "3e9bee5d0427028f701c32b403e98aec39f8da912a5da2b49604dd6b73bda1d4",
+      "sourceFile": "authoring/b/pharmacology-02.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-049",
+      "status": "pass",
+      "reviewedItemSha256": "83e1100178f8c80c44f2a3a6ce455ca5b883d384c1697b85b7de9350a0cc43ab",
+      "sourceFile": "authoring/b/pharmacology-02.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:01:54.018964+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-050",
+      "status": "pass",
+      "reviewedItemSha256": "48164bc5cc5bd559fbad3b6e7fa0c570b7b81f1c460debacdeb87bcf5b1e56ab",
+      "sourceFile": "authoring/b/pharmacology-02.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-051",
+      "status": "pass",
+      "reviewedItemSha256": "f80cdc1e5fb7b70cd6354a0e1a77e1d94d36c4d569d66ee2b25682c4e1c6bca7",
+      "sourceFile": "authoring/b/pharmacology-03.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-051-075.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:04:18.116829+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-052",
+      "status": "pass",
+      "reviewedItemSha256": "e6d236d2d60f771d6bb8d1d6907e07f1a6ba38a91892141ce4187cd48478e790",
+      "sourceFile": "authoring/b/pharmacology-03.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-053",
+      "status": "pass",
+      "reviewedItemSha256": "024684fe70789d230c9c2f8874703d35b65d2f270b185bed147e292540ae581b",
+      "sourceFile": "authoring/b/pharmacology-03.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-051-075.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:04:18.116829+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-054",
+      "status": "pass",
+      "reviewedItemSha256": "6edf2dbfbe8e8e2fce1f19005b1536b853178ebd9412b865a579d8a98cd87801",
+      "sourceFile": "authoring/b/pharmacology-03.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-055",
+      "status": "pass",
+      "reviewedItemSha256": "f32e1f266e8d33df98f90e198484e182f2095ce1519be45069d3b5c8a4f76b07",
+      "sourceFile": "authoring/b/pharmacology-03.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-051-075.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:04:18.116829+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-056",
+      "status": "pass",
+      "reviewedItemSha256": "ca3781d993602f13305cf72b2f99b1f059fbee5b07505b614abf5bb81df1706b",
+      "sourceFile": "authoring/b/pharmacology-03.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-051-075.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:04:18.116829+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-057",
+      "status": "pass",
+      "reviewedItemSha256": "cdcf8662077fd38d8ca882defad250015bf0acd13b59daef293befa280042926",
+      "sourceFile": "authoring/b/pharmacology-03.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-058",
+      "status": "pass",
+      "reviewedItemSha256": "b3a1b9fc627e128fc7d4fccf4689e7a68d39f2ec480ab8d224a36fbc65f3cee8",
+      "sourceFile": "authoring/b/pharmacology-03.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-059",
+      "status": "pass",
+      "reviewedItemSha256": "05c0c5d67674b36f00bcfbcd98a4934fb5866f37dec376ec0835c3e98c8a7dd2",
+      "sourceFile": "authoring/b/pharmacology-03.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-051-075.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:04:18.116829+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-060",
+      "status": "pass",
+      "reviewedItemSha256": "0e14b8e2310a57d8b7233224852313e8b85689ca25aa88c4469e825d5c728205",
+      "sourceFile": "authoring/b/pharmacology-03.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-051-075.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:04:18.116829+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-061",
+      "status": "pass",
+      "reviewedItemSha256": "0af3c06b675884cd57430fe255d3c7fab42dcbe5bde78b5bf2beecd83aa69d62",
+      "sourceFile": "authoring/b/pharmacology-03.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-062",
+      "status": "pass",
+      "reviewedItemSha256": "1cf1503e56c38df07ea15bc226a2c26a2b99e0cbc68d6a81d3b668c37bfb068c",
+      "sourceFile": "authoring/b/pharmacology-03.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-051-075.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:04:18.116829+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-063",
+      "status": "pass",
+      "reviewedItemSha256": "54be783facc422adce1d8fe7e77e64bba87fdf8b479d76f932fac97eca0ccd10",
+      "sourceFile": "authoring/b/pharmacology-03.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-064",
+      "status": "pass",
+      "reviewedItemSha256": "9374c25e1d7c5ca5a66c0902b232c740e6c994ad9d518abdae6b63dade18627e",
+      "sourceFile": "authoring/b/pharmacology-03.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-065",
+      "status": "pass",
+      "reviewedItemSha256": "c2b499c3da6b6b9b14e8b4dded6db7014cefe01ddf27437f750bb0953e5dd08b",
+      "sourceFile": "authoring/b/pharmacology-03.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-051-075.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:04:18.116829+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-066",
+      "status": "pass",
+      "reviewedItemSha256": "733b5066cc0fcffe84c90cde1c346a8d982512f4651ed292ace10ca1f4c1851d",
+      "sourceFile": "authoring/b/pharmacology-03.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-051-075.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:04:18.116829+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-067",
+      "status": "pass",
+      "reviewedItemSha256": "e7d6843564dda8245c2170460570ded9b2bc6b47b65c215d3efb6d2426c0686f",
+      "sourceFile": "authoring/b/pharmacology-03.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-051-075.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:04:18.116829+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-068",
+      "status": "pass",
+      "reviewedItemSha256": "22013e0c121e55fab32aee1f6432f4c2804aee3d45c488eee6d730ca5959d1a0",
+      "sourceFile": "authoring/b/pharmacology-03.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-051-075.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:04:18.116829+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-069",
+      "status": "pass",
+      "reviewedItemSha256": "3d44f25ce34de5e5a05438ff616ce770601ff7d67d045d01ff895367b1394e31",
+      "sourceFile": "authoring/b/pharmacology-03.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-070",
+      "status": "pass",
+      "reviewedItemSha256": "b9aabce04b308e3d9ee7ebdc3c958f8afbdce7a2b93a393924b90390243dfb61",
+      "sourceFile": "authoring/b/pharmacology-03.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-051-075.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:04:18.116829+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-071",
+      "status": "pass",
+      "reviewedItemSha256": "b9ab18ad1b115be69fbfaf7f66638637c396fcb5158edd9fd9618d492174c6f6",
+      "sourceFile": "authoring/b/pharmacology-03.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-051-075.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:04:18.116829+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-072",
+      "status": "pass",
+      "reviewedItemSha256": "a23f0819e88da351138bfa78084368cc995e3a68059a4118e91d6a3a1d0160e4",
+      "sourceFile": "authoring/b/pharmacology-03.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-051-075.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:04:18.116829+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-073",
+      "status": "pass",
+      "reviewedItemSha256": "6c430055062b9fb23ea7c2a04e1f86d163ccbec350801f2484d68adbeab630aa",
+      "sourceFile": "authoring/b/pharmacology-03.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-051-075.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:04:18.116829+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-074",
+      "status": "pass",
+      "reviewedItemSha256": "86bbb5b0f5620c9a983ad3266054bcdcf579b5d5cde0fa3ee1130f831267265b",
+      "sourceFile": "authoring/b/pharmacology-03.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-075",
+      "status": "pass",
+      "reviewedItemSha256": "ffefc6a1928947e0f84c7da4626aa45756ed43f58bf2c1d5bc9c91cd80271e05",
+      "sourceFile": "authoring/b/pharmacology-03.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-051-075.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:04:18.116829+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-076",
+      "status": "pass",
+      "reviewedItemSha256": "b128823c5792b388444f43abbfe906e10d2ae930333674eb521bea2f0b689d1c",
+      "sourceFile": "authoring/b/pharmacology-04.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-076-100.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:07:27.138311+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-077",
+      "status": "pass",
+      "reviewedItemSha256": "a65c102b8a1049e330c7ad734ebc16a7d41fac209bf666989533f15808ca2e29",
+      "sourceFile": "authoring/b/pharmacology-04.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-076-100.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:07:27.138311+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-078",
+      "status": "pass",
+      "reviewedItemSha256": "3c3227f29e85a076a36d1205f2d9a29800af22bf3f8abeabdab9b1e7890d0f42",
+      "sourceFile": "authoring/b/pharmacology-04.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-079",
+      "status": "pass",
+      "reviewedItemSha256": "300660aeaae0b72c0f2e9cedf80eca78389e8fbe5aa74e719b86da729174c13e",
+      "sourceFile": "authoring/b/pharmacology-04.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-080",
+      "status": "pass",
+      "reviewedItemSha256": "a59905ef2b69cb7524e90509ad6f31ac87fb7c7fc978b4946c58a597bdf81478",
+      "sourceFile": "authoring/b/pharmacology-04.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-076-100.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:07:27.138311+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-081",
+      "status": "pass",
+      "reviewedItemSha256": "c6a64df0c18a8e5b78824d3cf19677761143685d8c2ec54c702b0d49c8cb8a6a",
+      "sourceFile": "authoring/b/pharmacology-04.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-076-100.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:07:27.138311+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-082",
+      "status": "pass",
+      "reviewedItemSha256": "249363e40c82027fc89b41cd76cdcf924dbc9aa16030ea4e60635c8ee4207d7c",
+      "sourceFile": "authoring/b/pharmacology-04.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-083",
+      "status": "pass",
+      "reviewedItemSha256": "b658adb53ec83b7abffd2b461164330bc4a96184ade8d136f32b1ca8efa5aa78",
+      "sourceFile": "authoring/b/pharmacology-04.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-084",
+      "status": "pass",
+      "reviewedItemSha256": "325a3afd598ac66d5fe179cd7f8e2aff77e0c04136d4c16a3515d0af8ca43b1f",
+      "sourceFile": "authoring/b/pharmacology-04.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-085",
+      "status": "pass",
+      "reviewedItemSha256": "ae929b4b184e4b03a533e4255e00c242e7758a9f3fa2777b95096b8175545f39",
+      "sourceFile": "authoring/b/pharmacology-04.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-086",
+      "status": "pass",
+      "reviewedItemSha256": "bf1c54ac69601919a14930392c1d7be41830de74baf10c23cf3c4ce94293a8f3",
+      "sourceFile": "authoring/b/pharmacology-04.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-076-100.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:07:27.138311+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-087",
+      "status": "pass",
+      "reviewedItemSha256": "dca9128008269f76f2d034ed2d27b7652c8ecc68eb4440e88def0cd427febf56",
+      "sourceFile": "authoring/b/pharmacology-04.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-076-100.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:07:27.138311+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-088",
+      "status": "pass",
+      "reviewedItemSha256": "4baf072a3fb164c4194e9589093457eb2ba1282f4f2518aa821a4c9200df6655",
+      "sourceFile": "authoring/b/pharmacology-04.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-076-100.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:07:27.138311+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-089",
+      "status": "pass",
+      "reviewedItemSha256": "6f77e4aff60e5ba30a29e8cdcc5bfc7adcc6b88c5920d9e4e0919328248aca91",
+      "sourceFile": "authoring/b/pharmacology-04.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-090",
+      "status": "pass",
+      "reviewedItemSha256": "2c53ab6f206079ed2d131a81a463c697f2cb545814b40b28547819eb6f7fd59b",
+      "sourceFile": "authoring/b/pharmacology-04.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-076-100.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:07:27.138311+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-091",
+      "status": "pass",
+      "reviewedItemSha256": "f3fd07b3781779aeae508334deb3f80c7e9510a2ae4f386ef84df5ba57cda40f",
+      "sourceFile": "authoring/b/pharmacology-04.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-076-100.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:07:27.138311+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-092",
+      "status": "pass",
+      "reviewedItemSha256": "39b2baeb03a91ec65612969047e55606895c7a62796368493b2283db2b363494",
+      "sourceFile": "authoring/b/pharmacology-04.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-076-100.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:07:27.138311+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-093",
+      "status": "pass",
+      "reviewedItemSha256": "4c8330a431466fb4788cd543eb6c8e4158c3ba1dd42f1961d7cff895774238d0",
+      "sourceFile": "authoring/b/pharmacology-04.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-094",
+      "status": "pass",
+      "reviewedItemSha256": "d69f0d4455bcfb733df34f4569954c0b98f7465dc1ac9fc894cb7274c30e1a8d",
+      "sourceFile": "authoring/b/pharmacology-04.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-095",
+      "status": "pass",
+      "reviewedItemSha256": "100153db5e5c14c879e72f3748d0aa3fa8ee3b568634c7a9174e6dc510f05275",
+      "sourceFile": "authoring/b/pharmacology-04.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-076-100.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:07:27.138311+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-096",
+      "status": "pass",
+      "reviewedItemSha256": "5bfd337e28e527b887b07447466409270ff1a70ff204a14964109c5832f9afd9",
+      "sourceFile": "authoring/b/pharmacology-04.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-097",
+      "status": "pass",
+      "reviewedItemSha256": "6f936bfdf790a8713944a81150b2d1b907263fea56d375c0b9e39ba1202eb227",
+      "sourceFile": "authoring/b/pharmacology-04.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-098",
+      "status": "pass",
+      "reviewedItemSha256": "fae8784296990a2f7f2af764b83ed0dc660a8cc68861d0fbe0c7bf97ea52f9c0",
+      "sourceFile": "authoring/b/pharmacology-04.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-099",
+      "status": "pass",
+      "reviewedItemSha256": "8ffc6d93dae90fb85716b03e4f7fb5bf3e478a080f610738371748a7d13154a2",
+      "sourceFile": "authoring/b/pharmacology-04.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-076-100.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:07:27.138311+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-100",
+      "status": "pass",
+      "reviewedItemSha256": "8aaa90a8b9c95c151bd3cd66c883ef0cc9faa96ac6cf35455da0ed805f92b058",
+      "sourceFile": "authoring/b/pharmacology-04.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-076-100.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:07:27.138311+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-101",
+      "status": "pass",
+      "reviewedItemSha256": "204472669c52df7280b9002d02f2d7be7924ccb704ce562a1eb7f9014fd49d2a",
+      "sourceFile": "authoring/b/pharmacology-05.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-101-125.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:09:46.504398+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-102",
+      "status": "pass",
+      "reviewedItemSha256": "bf773bc0024ccaec2260ead512e8ea089c093fa7f6f3468276fc818f7b70acd0",
+      "sourceFile": "authoring/b/pharmacology-05.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-101-125.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:09:46.504398+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-103",
+      "status": "pass",
+      "reviewedItemSha256": "b7bfc50436e3c9920b70bccadd8c561e051de5d655fe77ee64eacf896b46fe54",
+      "sourceFile": "authoring/b/pharmacology-05.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-101-125.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:09:46.504398+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-104",
+      "status": "pass",
+      "reviewedItemSha256": "b57f9e2759d90a7d550bbaf77f4648bac8c97ba42405838020b21067df840624",
+      "sourceFile": "authoring/b/pharmacology-05.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-101-125.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:09:46.504398+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-105",
+      "status": "pass",
+      "reviewedItemSha256": "34f90b5cf75925870590e7f880692aa6ff4531c79aa0ef805c270170c8d37da5",
+      "sourceFile": "authoring/b/pharmacology-05.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-101-125.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:09:46.504398+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-106",
+      "status": "pass",
+      "reviewedItemSha256": "ed345b6548a9819062fc0233ea8776e7453d6bd81967b6912a9d107d9cd9254e",
+      "sourceFile": "authoring/b/pharmacology-05.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-101-125.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:09:46.504398+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-107",
+      "status": "pass",
+      "reviewedItemSha256": "96cc657336bc448041e21184e2e7545dd3007794439e9271e3bf27395c61a4be",
+      "sourceFile": "authoring/b/pharmacology-05.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-101-125.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:09:46.504398+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-108",
+      "status": "pass",
+      "reviewedItemSha256": "98c3a061143a5abc54574584676ac59f5f8c6dc1252b74ec8e4f1f27e600b606",
+      "sourceFile": "authoring/b/pharmacology-05.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-109",
+      "status": "pass",
+      "reviewedItemSha256": "a673e80f9580ab920df31a538fd983a6044516799b5df3feb7fc41e6e6d7e3f4",
+      "sourceFile": "authoring/b/pharmacology-05.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-101-125.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:09:46.504398+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-110",
+      "status": "pass",
+      "reviewedItemSha256": "5a9dd1349b7ce83b74837c17c7a4045f55ee7f828035155e13b0867c11b0d218",
+      "sourceFile": "authoring/b/pharmacology-05.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-101-125.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:09:46.504398+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-111",
+      "status": "pass",
+      "reviewedItemSha256": "778e0a72716dec78459d28dbd420cb7ce7e0d0b718a165841980a1f8c0af96c9",
+      "sourceFile": "authoring/b/pharmacology-05.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-101-125.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:09:46.504398+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-112",
+      "status": "pass",
+      "reviewedItemSha256": "323afb5db9683a5b01db3b77dbde8b7fd1ca5ac09244233bd4a05aef9d5f1fe5",
+      "sourceFile": "authoring/b/pharmacology-05.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-101-125.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:09:46.504398+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-113",
+      "status": "pass",
+      "reviewedItemSha256": "3917395511b484e259ce56d8513b8fb4c5236cad20c55a96e85ea92d4aa3ea1d",
+      "sourceFile": "authoring/b/pharmacology-05.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-114",
+      "status": "pass",
+      "reviewedItemSha256": "998b01d8eebaa31cf3f5862a2f9962e92447efa9b6a91b7a25b467204bccf41d",
+      "sourceFile": "authoring/b/pharmacology-05.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-115",
+      "status": "pass",
+      "reviewedItemSha256": "c36556a56173be8272f4c2ddd40ffb37f1dfa6113cbcb68a9416b239b8e2445b",
+      "sourceFile": "authoring/b/pharmacology-05.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-101-125.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:09:46.504398+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-116",
+      "status": "pass",
+      "reviewedItemSha256": "582c7e8acf0b0c43c332fc31e8a0e963850e300165f74caa7cc503d5ffc99294",
+      "sourceFile": "authoring/b/pharmacology-05.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-101-125.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:09:46.504398+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-117",
+      "status": "pass",
+      "reviewedItemSha256": "0da4a3b71226492c8217eeb825c70e982a4e391e16885ddcbfc2f1d1850eeb73",
+      "sourceFile": "authoring/b/pharmacology-05.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-101-125.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:09:46.504398+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-118",
+      "status": "pass",
+      "reviewedItemSha256": "44b9e182027b6e678a009cb4569e881e42c9f6333811c332416f88d4b33a0729",
+      "sourceFile": "authoring/b/pharmacology-05.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-101-125.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:09:46.504398+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-119",
+      "status": "pass",
+      "reviewedItemSha256": "0920a1ed5f80eee4b8f25250ed9271b5f158964884819fbe54c84f2a7a695fb3",
+      "sourceFile": "authoring/b/pharmacology-05.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-101-125.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:09:46.504398+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-120",
+      "status": "pass",
+      "reviewedItemSha256": "75b085f8c34f9101cb7c54d9d8d8a1b5c8d3bd901fed275e82885703ef3da36c",
+      "sourceFile": "authoring/b/pharmacology-05.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-101-125.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:09:46.504398+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-121",
+      "status": "pass",
+      "reviewedItemSha256": "b47f4a0b6f2a807a0216e1f9767662b682ba605e7d8f13595d5ca854361970b9",
+      "sourceFile": "authoring/b/pharmacology-05.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-101-125.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:09:46.504398+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-122",
+      "status": "pass",
+      "reviewedItemSha256": "7281e3534d0a35518a9385fdb18e9d289878ea201e45ce39eb59065e9a327d41",
+      "sourceFile": "authoring/b/pharmacology-05.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-101-125.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:09:46.504398+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-123",
+      "status": "pass",
+      "reviewedItemSha256": "35416416bd1fc9f20552681bf34a8430bc45f9eb449bf1e5f692607e6cde8d8b",
+      "sourceFile": "authoring/b/pharmacology-05.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-101-125.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:09:46.504398+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-124",
+      "status": "pass",
+      "reviewedItemSha256": "60b84509fdc7dd0dae1717c6ed6ef144e9fbb74920bd9c3c08c34f0e5156e5f6",
+      "sourceFile": "authoring/b/pharmacology-05.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-101-125.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:09:46.504398+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-pharmacology-125",
+      "status": "pass",
+      "reviewedItemSha256": "196d1463d8924b2dd283a514c1c2f045424156d7f511d02b435bba6ab4faa261",
+      "sourceFile": "authoring/b/pharmacology-05.json",
+      "reviewReport": "reviews/expansion/b-pharmacology-101-125.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:09:46.504398+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-001",
+      "status": "pass",
+      "reviewedItemSha256": "5a3b98b2d3bca082ea8cacad1eb48d2826b22c58dac224c03f9e6ac0b36985c9",
+      "sourceFile": "authoring/b/adaptation-01.json",
+      "reviewReport": "reviews/expansion/b-adaptation-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:13:44.802024+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-002",
+      "status": "pass",
+      "reviewedItemSha256": "a96269521ec2af5cfbfc144b936674673d48ae6abd7cb2e5ee2bd2d5c0f53f80",
+      "sourceFile": "authoring/b/adaptation-01.json",
+      "reviewReport": "reviews/expansion/b-adaptation-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:13:44.802024+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-003",
+      "status": "pass",
+      "reviewedItemSha256": "c36a8ca86536ac910fc45ab045fd4b6aed308cf24668c5034c407c0a096ad831",
+      "sourceFile": "authoring/b/adaptation-01.json",
+      "reviewReport": "reviews/expansion/b-adaptation-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:13:44.802024+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-004",
+      "status": "pass",
+      "reviewedItemSha256": "16e6f0f7c022e6103017ae0d4293c8d497dc4a499f970d799c9a325f25acad1b",
+      "sourceFile": "authoring/b/adaptation-01.json",
+      "reviewReport": "reviews/expansion/b-adaptation-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:13:44.802024+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-005",
+      "status": "pass",
+      "reviewedItemSha256": "8939509570d57ac8788414266e042456ef169f559b0ac0d63850082f62515f29",
+      "sourceFile": "authoring/b/adaptation-01.json",
+      "reviewReport": "reviews/expansion/b-adaptation-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:13:44.802024+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-006",
+      "status": "pass",
+      "reviewedItemSha256": "da597a282266a6b2588d87fdbcc337f8810961ebb975ae70efd0fbfb1db45c37",
+      "sourceFile": "authoring/b/adaptation-01.json",
+      "reviewReport": "reviews/expansion/b-adaptation-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:13:44.802024+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-007",
+      "status": "pass",
+      "reviewedItemSha256": "a7cc80770ce6337f3586e33d28189946f36a7028426a1945cce8253335a7539f",
+      "sourceFile": "authoring/b/adaptation-01.json",
+      "reviewReport": "reviews/expansion/b-adaptation-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:13:44.802024+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-008",
+      "status": "pass",
+      "reviewedItemSha256": "372eeae80814894c31dc0aaaa0c0c594dc35aefea83576d3a9169cbce506e60b",
+      "sourceFile": "authoring/b/adaptation-01.json",
+      "reviewReport": "reviews/expansion/b-adaptation-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:13:44.802024+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-009",
+      "status": "pass",
+      "reviewedItemSha256": "94633ebba91fb4aa955e036219e72137e82dcbc1ca3760475e4c32fdb0ebd1a1",
+      "sourceFile": "authoring/b/adaptation-01.json",
+      "reviewReport": "reviews/expansion/b-adaptation-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:13:44.802024+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-010",
+      "status": "pass",
+      "reviewedItemSha256": "3b7128f5e26fe1ddfef3dd12b7395f75a9666f4e93165dc43ea14dbafa3b4ae7",
+      "sourceFile": "authoring/b/adaptation-01.json",
+      "reviewReport": "reviews/expansion/b-adaptation-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:13:44.802024+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-011",
+      "status": "pass",
+      "reviewedItemSha256": "ccfda03409265598d3a5e9f6bb83291df161add9719bda36baf759c6822429a3",
+      "sourceFile": "authoring/b/adaptation-01.json",
+      "reviewReport": "reviews/expansion/b-adaptation-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:13:44.802024+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-012",
+      "status": "pass",
+      "reviewedItemSha256": "3944addd2e5861fa254d2b92a88bf9d603e71e558a745e17d2a87065dca067b1",
+      "sourceFile": "authoring/b/adaptation-01.json",
+      "reviewReport": "reviews/expansion/b-adaptation-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:13:44.802024+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-013",
+      "status": "pass",
+      "reviewedItemSha256": "6b57ab7f419aa553e6ace1843c1bd205efe1d6815ada89989e9a2327c73e9b26",
+      "sourceFile": "authoring/b/adaptation-01.json",
+      "reviewReport": "reviews/expansion/b-adaptation-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:13:44.802024+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-014",
+      "status": "pass",
+      "reviewedItemSha256": "c7d4462f7509228dc94090eeb65f27ff70b239ef9fcfc25df04710b000330b69",
+      "sourceFile": "authoring/b/adaptation-01.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-015",
+      "status": "pass",
+      "reviewedItemSha256": "5c98a44fc7e079f7837222dde5dfb80a5519292679ada093c6041cc5c64450b2",
+      "sourceFile": "authoring/b/adaptation-01.json",
+      "reviewReport": "reviews/expansion/b-adaptation-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:13:44.802024+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-016",
+      "status": "pass",
+      "reviewedItemSha256": "7198520f300b60a1f466bc736a55674859d39c3071bc7a62b20cfbca538fe79d",
+      "sourceFile": "authoring/b/adaptation-01.json",
+      "reviewReport": "reviews/expansion/b-adaptation-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:13:44.802024+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-017",
+      "status": "pass",
+      "reviewedItemSha256": "c731f39dc3e3a761c3e3f0aafb62e1471c5ce2fb28b4ff0fe2f818cf21ec699d",
+      "sourceFile": "authoring/b/adaptation-01.json",
+      "reviewReport": "reviews/expansion/b-adaptation-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:13:44.802024+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-018",
+      "status": "pass",
+      "reviewedItemSha256": "6f5b966fca8f8f7726af52e4ba2b5f88df68fd096f8fcabaa3df07fa986c24f4",
+      "sourceFile": "authoring/b/adaptation-01.json",
+      "reviewReport": "reviews/expansion/b-adaptation-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:13:44.802024+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-019",
+      "status": "pass",
+      "reviewedItemSha256": "a565d0292904ae62ef22b6842e0e5ab679c28ee20b4b33edd9e916facb40e479",
+      "sourceFile": "authoring/b/adaptation-01.json",
+      "reviewReport": "reviews/expansion/b-adaptation-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:13:44.802024+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-020",
+      "status": "pass",
+      "reviewedItemSha256": "201661eccbf755cbc3c2bc400ff3ae4ad4f438cda706e0a128418620d258b85f",
+      "sourceFile": "authoring/b/adaptation-01.json",
+      "reviewReport": "reviews/expansion/b-adaptation-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:13:44.802024+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-021",
+      "status": "pass",
+      "reviewedItemSha256": "8b61ea41bb0d229849c8073ee71a309050b0e900278a7148a080243186d78ab7",
+      "sourceFile": "authoring/b/adaptation-01.json",
+      "reviewReport": "reviews/expansion/b-adaptation-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:13:44.802024+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-022",
+      "status": "pass",
+      "reviewedItemSha256": "e8a2ad9ea041ff54ceb4741351e88c9982ea1169fc04de39dce03c192d8d1698",
+      "sourceFile": "authoring/b/adaptation-01.json",
+      "reviewReport": "reviews/expansion/b-adaptation-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:13:44.802024+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-023",
+      "status": "pass",
+      "reviewedItemSha256": "48b6e8dd490f36bbde42333efc90c560e247da4ff232a086b78d0202ab126c83",
+      "sourceFile": "authoring/b/adaptation-01.json",
+      "reviewReport": "reviews/expansion/b-adaptation-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:13:44.802024+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-024",
+      "status": "pass",
+      "reviewedItemSha256": "73f91fc3d9c15b54c5645cea3c310ad16a1fea33ad04fb34352abc0925814068",
+      "sourceFile": "authoring/b/adaptation-01.json",
+      "reviewReport": "reviews/expansion/b-adaptation-001-025.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:13:44.802024+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-025",
+      "status": "pass",
+      "reviewedItemSha256": "222fdcf5e892f583cfc09033924a53c1d65d84ffa1b17b413b12605b71607762",
+      "sourceFile": "authoring/b/adaptation-01.json",
+      "reviewReport": "reviews/expansion/b-001-125pharm-001-025adapt.final-changed-recheck.json",
+      "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-026",
+      "status": "pass",
+      "reviewedItemSha256": "b746bf0f4cbfe08877a54dc9613db3720b5fe32b3eb59f06070e37d32cbe6d6f",
+      "sourceFile": "authoring/b/adaptation-02.json",
+      "reviewReport": "reviews/expansion/b-adaptation-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:20:05.174959+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-027",
+      "status": "pass",
+      "reviewedItemSha256": "48dbc9fd8468ca8d8311add37b8e18b1d08e79bdca18fe551cd6f53081c814fc",
+      "sourceFile": "authoring/b/adaptation-02.json",
+      "reviewReport": "reviews/expansion/b-adaptation-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:20:05.174959+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-028",
+      "status": "pass",
+      "reviewedItemSha256": "da67ca75eb16a4cfe99d75a29d1def5e2cc2f21ff79c0e059df780eaee24c7c6",
+      "sourceFile": "authoring/b/adaptation-02.json",
+      "reviewReport": "reviews/expansion/b-adaptation-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:20:05.174959+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-029",
+      "status": "pass",
+      "reviewedItemSha256": "2625fc7d0651f337e8d594a36dcbc9da1131822ec8158046779f088117c618e5",
+      "sourceFile": "authoring/b/adaptation-02.json",
+      "reviewReport": "reviews/expansion/b-adaptation-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:20:05.174959+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-030",
+      "status": "pass",
+      "reviewedItemSha256": "3e46290a424d98d686f7d515ea9013453dc27e686afa0357e0dfb2314e5b5c41",
+      "sourceFile": "authoring/b/adaptation-02.json",
+      "reviewReport": "reviews/expansion/b-adaptation-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:20:05.174959+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-031",
+      "status": "pass",
+      "reviewedItemSha256": "125d7ed8b73e3573849c4f66b5195f7a4bf4347b46827853c6c92d5712c0f60d",
+      "sourceFile": "authoring/b/adaptation-02.json",
+      "reviewReport": "reviews/expansion/b-adaptation-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:20:05.174959+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-032",
+      "status": "pass",
+      "reviewedItemSha256": "30ef396d4d7676247b42966337ac445d18e7e596a89101bd6163042efd8fd0ab",
+      "sourceFile": "authoring/b/adaptation-02.json",
+      "reviewReport": "reviews/expansion/b-adaptation-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:20:05.174959+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-033",
+      "status": "pass",
+      "reviewedItemSha256": "4d977686c84a3315b39261b6820323d94d7e639c3dcde32a027f51a52110334a",
+      "sourceFile": "authoring/b/adaptation-02.json",
+      "reviewReport": "reviews/expansion/b-adaptation-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:20:05.174959+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-034",
+      "status": "pass",
+      "reviewedItemSha256": "ce07957914cec8cdf9018ec95224aecf411db0b2978c2da31ff461a715e0ad33",
+      "sourceFile": "authoring/b/adaptation-02.json",
+      "reviewReport": "reviews/expansion/b-adaptation-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:20:05.174959+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-035",
+      "status": "pass",
+      "reviewedItemSha256": "f3ff3811d3f4a5770c67963cfc5ba226aa4678ea4878e582c265304c4584a2f7",
+      "sourceFile": "authoring/b/adaptation-02.json",
+      "reviewReport": "reviews/expansion/b-adaptation-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:20:05.174959+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-036",
+      "status": "pass",
+      "reviewedItemSha256": "f4c6fca4b06fd6d29824f1d26120f9601af4f30afb0a6ba529039b2823bf298e",
+      "sourceFile": "authoring/b/adaptation-02.json",
+      "reviewReport": "reviews/expansion/b-adaptation-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:20:05.174959+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-037",
+      "status": "pass",
+      "reviewedItemSha256": "b9392b6152b9d40ca1794f3bf5aebb4b9a109b653b0bfccc22ffe5f8d839654a",
+      "sourceFile": "authoring/b/adaptation-02.json",
+      "reviewReport": "reviews/expansion/b-adaptation-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:20:05.174959+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-038",
+      "status": "pass",
+      "reviewedItemSha256": "2aa866757d0b2d52bfe423809ccd5faf1e99e66a720e9caabae3a04348363e43",
+      "sourceFile": "authoring/b/adaptation-02.json",
+      "reviewReport": "reviews/expansion/b-adaptation-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:20:05.174959+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-039",
+      "status": "pass",
+      "reviewedItemSha256": "4ba20cd6933360eeb904e648732411c81fa4d555b36a7b3c912abce1507e24cd",
+      "sourceFile": "authoring/b/adaptation-02.json",
+      "reviewReport": "reviews/expansion/b-adaptation-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:20:05.174959+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-040",
+      "status": "pass",
+      "reviewedItemSha256": "0990b53e4fe6cb95caf06fc5e12b5125367507f8f3221ba945d2875892a821d2",
+      "sourceFile": "authoring/b/adaptation-02.json",
+      "reviewReport": "reviews/expansion/b-adaptation-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:20:05.174959+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-041",
+      "status": "pass",
+      "reviewedItemSha256": "e30e3fdcca0fcb6262eac90b464e7c9bacc0e7befd4f2c4d9fe08a96875fd67c",
+      "sourceFile": "authoring/b/adaptation-02.json",
+      "reviewReport": "reviews/expansion/b-adaptation-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:20:05.174959+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-042",
+      "status": "pass",
+      "reviewedItemSha256": "6158c6151fa3b885e15ead665fec9a1a99209b7d410abe996deedfcf7283732e",
+      "sourceFile": "authoring/b/adaptation-02.json",
+      "reviewReport": "reviews/expansion/b-adaptation-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:20:05.174959+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-043",
+      "status": "pass",
+      "reviewedItemSha256": "7326ec7e024683e802390c067e88a5169d693a22b42d9f119afb214514871a3a",
+      "sourceFile": "authoring/b/adaptation-02.json",
+      "reviewReport": "reviews/expansion/b-adaptation-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:20:05.174959+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-044",
+      "status": "pass",
+      "reviewedItemSha256": "a31eac91a4c23e90bf3707c8ced93460b7b57ec1eeda74040a1ba043bc38ec07",
+      "sourceFile": "authoring/b/adaptation-02.json",
+      "reviewReport": "reviews/expansion/b-adaptation-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:20:05.174959+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-045",
+      "status": "pass",
+      "reviewedItemSha256": "4867d5464e1dd3026e1c6dfbf88769979bb31a1e4b1ab31111adcc6b39f74be1",
+      "sourceFile": "authoring/b/adaptation-02.json",
+      "reviewReport": "reviews/expansion/b-adaptation-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:20:05.174959+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-046",
+      "status": "pass",
+      "reviewedItemSha256": "ce3f49227bc44914cd4d9b5981ce05a385911107c68ed1a413cb2bb5d9f19fe6",
+      "sourceFile": "authoring/b/adaptation-02.json",
+      "reviewReport": "reviews/expansion/b-adaptation-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:20:05.174959+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-047",
+      "status": "pass",
+      "reviewedItemSha256": "9b8d90936b8268af4f121ec2f3e9799478eca07500f24b2381689f603f020233",
+      "sourceFile": "authoring/b/adaptation-02.json",
+      "reviewReport": "reviews/expansion/b-adaptation-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:20:05.174959+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-048",
+      "status": "pass",
+      "reviewedItemSha256": "15d5b431132c767f38114546457bffc5fb34a602ba8845036bc27b5df8b4f26c",
+      "sourceFile": "authoring/b/adaptation-02.json",
+      "reviewReport": "reviews/expansion/b-adaptation-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:20:05.174959+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-049",
+      "status": "pass",
+      "reviewedItemSha256": "5722eefd4ed4bfb3872ca0aafb8980d47121478b43e706a870ada1102cb8ec53",
+      "sourceFile": "authoring/b/adaptation-02.json",
+      "reviewReport": "reviews/expansion/b-adaptation-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:20:05.174959+00:00",
+      "reviewerTask": "/root/review_legacy"
+    },
+    {
+      "id": "x-adaptation-050",
+      "status": "pass",
+      "reviewedItemSha256": "02e118df5ca60b323e64c718687cb2f7740d93ce62db6305694f7306e13dcd06",
+      "sourceFile": "authoring/b/adaptation-02.json",
+      "reviewReport": "reviews/expansion/b-adaptation-026-050.legacy-final-recheck.json",
+      "reviewedAt": "2026-10-01T18:20:05.174959+00:00",
+      "reviewerTask": "/root/review_legacy"
+    }
+  ],
+  "limitations": [
+    "Independent AI editorial and clinical-reasoning screening, not external clinician or psychometric validation.",
+    "Pass applies to the exact recorded question content; reference-registry replacement or changed claims need additional review.",
+    "Source checks were targeted to stated high-stakes/uncertain claims; a mapped reference is not a claim of exhaustive source verification.",
+    "Historical reports remain available; only current matching per-question records count."
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T16:51:11.449045+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/b/pharmacology-01.json",
+  "sourceSha256": "e2501c70fff403476ab97255dfe073d00fb9c0c439787fdb993f621f396d3cd4",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-pharmacology-001",
+      "x-pharmacology-002",
+      "x-pharmacology-003",
+      "x-pharmacology-004",
+      "x-pharmacology-005",
+      "x-pharmacology-006",
+      "x-pharmacology-007",
+      "x-pharmacology-008",
+      "x-pharmacology-009",
+      "x-pharmacology-010",
+      "x-pharmacology-011",
+      "x-pharmacology-012",
+      "x-pharmacology-013",
+      "x-pharmacology-014",
+      "x-pharmacology-015",
+      "x-pharmacology-016",
+      "x-pharmacology-017",
+      "x-pharmacology-018",
+      "x-pharmacology-019",
+      "x-pharmacology-020",
+      "x-pharmacology-021",
+      "x-pharmacology-022",
+      "x-pharmacology-023",
+      "x-pharmacology-024",
+      "x-pharmacology-025"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-pharmacology-001",
+      "status": "pass",
+      "assessment": "Changed tablet strength supplies a meaningful cause for the alert; comparison with the current order is the defensible verification step.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f76435d03db767f7ed979b0ba428e4bb370d1b892f75d19161b94ebfa342f84f"
+    },
+    {
+      "id": "x-pharmacology-002",
+      "status": "pass",
+      "assessment": "Documented disposal and prompt replacement preserve controlled-drug accountability and timely analgesia; false administration and delayed replacement are distinct errors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d5677af0080944422d299416f76564e1c79e0ca80623de33164ac0fd5db08a22"
+    },
+    {
+      "id": "x-pharmacology-003",
+      "status": "pass",
+      "assessment": "Stable blood pressure permits clarification of possible undocumented administration before duplicate dosing; vital signs cannot reconstruct administration history.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d19a27e6fc4e775ddba4b3b381a3f80881814e94cd34dd1686abe90a9220beac"
+    },
+    {
+      "id": "x-pharmacology-004",
+      "status": "pass",
+      "assessment": "1.8 mL with 5-mL cup graduations requires finer calibrated oral equipment; the dose provides discrimination.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8a38858ecfea533df804a93d107ffb9dbc9f83a91f3b73c42a15c2fa448dd8e1"
+    },
+    {
+      "id": "x-pharmacology-005",
+      "status": "pass",
+      "assessment": "Early emesis does not establish zero absorption; drug-specific guidance avoids unsupported full or half replacement.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2f37bcfc992773afa60df3122dd061cde66b60bb5ee94d7518f406494f429904"
+    },
+    {
+      "id": "x-pharmacology-006",
+      "status": "pass",
+      "assessment": "Assessing tolerability while respecting refusal addresses the actual barrier and correctly distinguishes isolated nausea from allergy.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0210013e9ce27e78635599b50309ab42ea332717f5feb1d072058df30ee72cab"
+    },
+    {
+      "id": "x-pharmacology-007",
+      "status": "revise",
+      "assessment": "Discard key is sound, but keeping a vial attached to a needle for easier access is a weak implausible distractor.",
+      "issues": [
+        "Discard key is sound, but keeping a vial attached to a needle for easier access is a weak implausible distractor."
+      ],
+      "proposedChanges": [
+        "Replace option 2 with: Withdraw the evening dose into a labelled syringe for bedside storage. Explain that future preparation/storage requires approved pharmacy processes rather than repurposing opened single-dose supply."
+      ],
+      "reviewedItemSha256": "c7bc244a78f03addcc6e3ab472a94f0cd7406f980b51147006f8790be8d0057f"
+    },
+    {
+      "id": "x-pharmacology-008",
+      "status": "pass",
+      "assessment": "Organizer identity and treatment authorization both remain unresolved; old list and compartment placement cannot establish current order.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0cd8f5bd5373972757083475cb042b7f95f847fe0c2a317885c72e3980139004"
+    },
+    {
+      "id": "x-pharmacology-009",
+      "status": "pass",
+      "assessment": "Old-patch check plus application documentation address duplication; alternatives leave exposure, irritation or memory risks.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fe4a171f7519477c0e4154460fb43bb392bf57920d37433fa83e767b7acc08a1"
+    },
+    {
+      "id": "x-pharmacology-010",
+      "status": "pass",
+      "assessment": "Supporting the hand while preventing tip contact responds to observed technique. In real teaching contaminated product disposition should also follow instructions; item asks technique correction.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f7c5098b99c049e18dc990c0ac0b68f0734425121ffe4f36245c9430e96b1611"
+    },
+    {
+      "id": "x-pharmacology-011",
+      "status": "pass",
+      "assessment": "Independent original calculations followed by comparison preserve independence; prior dose, pump movement and revealed answer do not.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "085222d2da21d917e05481299d03cdd5365f87447c822e32c60eef10fae9b13f"
+    },
+    {
+      "id": "x-pharmacology-012",
+      "status": "revise",
+      "assessment": "Stem calls medicines compatible, while distractor rationale argues mixture compatibility is not established. This can imply the very fact the explanation denies.",
+      "issues": [
+        "Stem calls medicines compatible, while distractor rationale argues mixture compatibility is not established. This can imply the very fact the explanation denies."
+      ],
+      "proposedChanges": [
+        "Change stem to: A client receives four immediate-release medicines through a gastric tube. Pharmacy has confirmed that each individual formulation is suitable for the tube; mixing them has not been assessed. Preserve separate administration and prescribed flushing keys."
+      ],
+      "reviewedItemSha256": "8b6627419cea7b78093d0f90b3b44083a0b43574defdb169f4279ea8ae51cedb"
+    },
+    {
+      "id": "x-pharmacology-013",
+      "status": "pass",
+      "assessment": "New renal decline plus a renally eliminated drug and drowsiness support accumulation despite unchanged administration; no independent dose adjustment is advised.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8ed6194e741f8c2f238f76bcd8465331195267c68206d453c0e85eacd55dd647"
+    },
+    {
+      "id": "x-pharmacology-014",
+      "status": "pass",
+      "assessment": "Increasing sedation after combination therapy merits assessment before further doses; respiratory rate alone is insufficient reassurance.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7b4478d91162da9766b12fe9e96c3289e3505b12820cf6b8be135500cdf069ee"
+    },
+    {
+      "id": "x-pharmacology-015",
+      "status": "pass",
+      "assessment": "Post-infusion timing invalidates trough interpretation; reporting actual times enables an authorized sampling/dosing decision.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a92f90ecbffda14f01a6c34bab93f4d143590561e5fd5d79134626ed46098080"
+    },
+    {
+      "id": "x-pharmacology-016",
+      "status": "revise",
+      "assessment": "Medication-name recall is irrelevant filler; sleepy client needs sufficient arousal/swallow safety before oral trial is clearly defensible.",
+      "issues": [
+        "Medication-name recall is irrelevant filler; sleepy client needs sufficient arousal/swallow safety before oral trial is clearly defensible."
+      ],
+      "proposedChanges": [
+        "Specify that the client wakes easily, remains alert during conversation and has no swallowing restriction. Replace option 2 with: Measure the respiratory rate as the only evidence of nausea relief. Explain that this is a safety assessment rather than the intended antiemetic outcome."
+      ],
+      "reviewedItemSha256": "bef88be5df7361a8d46c8de4a63a8b2a8319344c67430c49d9b29210c85306d1"
+    },
+    {
+      "id": "x-pharmacology-017",
+      "status": "pass",
+      "assessment": "Stable client and unknown Y-site compatibility support verification before co-infusion; speed and appearance cannot establish chemical safety.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "078fba6f75060dc041156e08f235ffa59f417662ae0713167d632dec2a93a2dc"
+    },
+    {
+      "id": "x-pharmacology-018",
+      "status": "pass",
+      "assessment": "Detached label with similar solutions makes physical tracing necessary; position, volume and prior diagram are unreliable proxies.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d348f5c5839f1238eb4f4c26d82baef7e102716c52755a506329a75578dfcb3b"
+    },
+    {
+      "id": "x-pharmacology-019",
+      "status": "pass",
+      "assessment": "New resistance with pain requires stopping use and assessing complication; smaller syringe pressure and force are clinically meaningful common errors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6c160a107f4acdf487cfe99d49561fea98981ba4b84af44d78bd7682ebd57224"
+    },
+    {
+      "id": "x-pharmacology-020",
+      "status": "pass",
+      "assessment": "Vein-tracking warmth/tenderness favours phlebitis over cool swelling or adhesive-pattern reaction. Fluid overload is weak but still a recognizable IV complication differential; foundation metadata is more appropriate than application.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c019d19f6f425ebe32d547dffe7dbaea6c274083a707ed0551311ed8fc662421"
+    },
+    {
+      "id": "x-pharmacology-021",
+      "status": "pass",
+      "assessment": "Sublingual dissolution preserves intended route; swallowing, mixing and chewing are recognizable administration misconceptions. Foundation metadata would be more accurate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6573968f88f59edfa64964f1470b64cf2d953372422188592b7eb5a68274c45f"
+    },
+    {
+      "id": "x-pharmacology-022",
+      "status": "pass",
+      "assessment": "Observed coordination difficulty with adequate strength supports a compatible spacer and return demonstration, while device changes require assessment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "147e831ba0d36e764fc914e6186c3c3815f4292a6fbafeb340b93c051fd832e2"
+    },
+    {
+      "id": "x-pharmacology-023",
+      "status": "pass",
+      "assessment": "Labelled enteral equipment plus tracing addresses both identity and route risk; other options rely on position or omit identification.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d60a84d3d3e8f8b21dfa4ca0852be0e5e45f1cd8da04ada0b7c16a2349f865cf"
+    },
+    {
+      "id": "x-pharmacology-024",
+      "status": "pass",
+      "assessment": "Prompt supply coordination and escalation fit time-critical therapy without independent schedule or therapeutic substitution.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d4f7be16245113177d088320f16428bae211448876ca2059eba317e3ec7cb381"
+    },
+    {
+      "id": "x-pharmacology-025",
+      "status": "revise",
+      "assessment": "Correct key is defensible but elbow occlusion does not compete with management of the new facial rash and is topic-divergent.",
+      "issues": [
+        "Correct key is defensible but elbow occlusion does not compete with management of the new facial rash and is topic-divergent."
+      ],
+      "proposedChanges": [
+        "Replace option 3 with: Use a weaker steroid left from a previous prescription on the facial rash. Explain that prior supply does not establish the diagnosis or current treatment authorization."
+      ],
+      "reviewedItemSha256": "1fc41b6e54baa639e84dcaf74c1c49f5cfd226d08bcf1a70a469d2bac2dee640"
+    }
+  ],
+  "sourceNote": "No item-specific source verification performed in this pass. General medication principles screened; final source registry and uncommon product-specific claims must be checked separately.",
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

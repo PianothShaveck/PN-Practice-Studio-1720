@@ -1,0 +1,522 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:01:55.701627+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/a/management-02.json",
+  "sourceSha256": "c949432f5d923261cd1ecf1f5e4d47ea5a61cf4c93f610800004ff942317252d",
+  "coverage": {
+    "sourceItems": 50,
+    "reviewedItems": 50,
+    "reviewedIds": [
+      "x-management-051",
+      "x-management-052",
+      "x-management-053",
+      "x-management-054",
+      "x-management-055",
+      "x-management-056",
+      "x-management-057",
+      "x-management-058",
+      "x-management-059",
+      "x-management-060",
+      "x-management-061",
+      "x-management-062",
+      "x-management-063",
+      "x-management-064",
+      "x-management-065",
+      "x-management-066",
+      "x-management-067",
+      "x-management-068",
+      "x-management-069",
+      "x-management-070",
+      "x-management-071",
+      "x-management-072",
+      "x-management-073",
+      "x-management-074",
+      "x-management-075",
+      "x-management-076",
+      "x-management-077",
+      "x-management-078",
+      "x-management-079",
+      "x-management-080",
+      "x-management-081",
+      "x-management-082",
+      "x-management-083",
+      "x-management-084",
+      "x-management-085",
+      "x-management-086",
+      "x-management-087",
+      "x-management-088",
+      "x-management-089",
+      "x-management-090",
+      "x-management-091",
+      "x-management-092",
+      "x-management-093",
+      "x-management-094",
+      "x-management-095",
+      "x-management-096",
+      "x-management-097",
+      "x-management-098",
+      "x-management-099",
+      "x-management-100"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.bccnm.ca/Documents/standards_practice/nurses/Nurses_ConflictOfInterest.pdf",
+      "authority": "BCCNM",
+      "supports": [
+        "x-management-052: identify/avoid conflicts, disclose and ethically manage without personal gain overriding duty",
+        "x-management-053: gifts can affect objectivity"
+      ],
+      "scope": "Targeted ethical principle support; jurisdiction and exact arrangement still need specification for legal conclusions."
+    },
+    {
+      "url": "https://cno.org/Assets/CNO/Documents/Standard-and-Learning/Practice-Standards/ps-discontinuing-or-declining-to-provide-care-en.pdf",
+      "authority": "CNO",
+      "supports": [
+        "x-management-060: prompt employer/team discussion and continued access/continuity despite conscientious objection"
+      ],
+      "scope": "Specific duty-to-care support."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-management-051",
+      "status": "pass",
+      "assessment": "Formal financial supports address need while avoiding personal debt in the current therapeutic relationship.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1ab0cfb8ffe8571a89f6b8db9d8c3461c70bc2bc4037077578ea1fe67d5b94d4"
+    },
+    {
+      "id": "x-management-052",
+      "status": "revise",
+      "assessment": "Transparent conflict management is directionally correct, but the explanation could imply disclosure alone legitimizes a paid referral arrangement.",
+      "issues": [
+        "Transparent conflict management is directionally correct, but the explanation could imply disclosure alone legitimizes a paid referral arrangement."
+      ],
+      "proposedChanges": [
+        "Make key explicit: Prioritize client needs and disclose and resolve the commission conflict before recommending. Explain that disclosure alone does not make personal financial benefit acceptable; use organizational/regulator safeguards and impartial options. Attach jurisdiction-relevant conflict guidance."
+      ],
+      "reviewedItemSha256": "7fe7a701805341b387bbb328d64f7dbc8c5aa89f1e4fba112649ee7afa20573c"
+    },
+    {
+      "id": "x-management-053",
+      "status": "pass",
+      "assessment": "Respectful discussion and gift-boundary policy handle costly gift without treating client initiation or final visit as automatic permission.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5356fbbf530fb71ef37d793879bf44e7267ecb10fac806818c8ebf7f7741d5a2"
+    },
+    {
+      "id": "x-management-054",
+      "status": "pass",
+      "assessment": "Private trip with a current client changes relationship regardless of coverage or duration; boundary discussion is defensible.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c65161f4e10e419816d59f6df6c3d2ba156717801f1407d3073ef006ae03a5a0"
+    },
+    {
+      "id": "x-management-055",
+      "status": "pass",
+      "assessment": "Available qualified alternate permits disclosure/reassignment for close friendship; concealed exchange bypasses appropriate coordination.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "eb7a12bdbb5fc2232548bec00afcbb5a8ef230c440d1981e330dbbbbbe41af68"
+    },
+    {
+      "id": "x-management-056",
+      "status": "pass",
+      "assessment": "Regulatory approval/testimonials do not justify omitting limitations; balanced independent evidence is appropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "61d694dd6825c96e41cff5abbd9e9667113b83202a3fe5e995a82953d00a3481"
+    },
+    {
+      "id": "x-management-057",
+      "status": "revise",
+      "assessment": "Client-focus key is sound; written client permission before self-disclosure is an implausible invented requirement.",
+      "issues": [
+        "Client-focus key is sound; written client permission before self-disclosure is an implausible invented requirement."
+      ],
+      "proposedChanges": [
+        "Replace option0 with: The topic was unrelated to wound-care teaching. Explain that topic alone is not decisive because limited therapeutic self-disclosure may be appropriate; prolonged displacement of client needs is the concern."
+      ],
+      "reviewedItemSha256": "2a0eb3fd72497f1aa0cc6662d055faa2c6730d62a999811628b0d7ac4fc7e8b3"
+    },
+    {
+      "id": "x-management-058",
+      "status": "pass",
+      "assessment": "Pre-shift dizziness/slowing needs early fitness disclosure and coverage; routine work also requires unimpaired judgment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "630400827262879b4f0f6b2a592d701c0443fa2fdeedb1f04d1f269f2d417102"
+    },
+    {
+      "id": "x-management-059",
+      "status": "pass",
+      "assessment": "Observable slurring/dropped medication warrants immediate client protection and supervisory escalation without inferring the cause.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4d1e9ceeba3dc52000aa56d9e6245cc1b22bf7e72bda15a8c84bd01f5ea2a249"
+    },
+    {
+      "id": "x-management-060",
+      "status": "pass",
+      "assessment": "Early conscientious concern, continuity and respectful role-appropriate information align with duty-to-care guidance; withdrawal before cover creates gap.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "65389b07519001e3f288eb68d21b719ef2f102db6d3694e8423534c1b255bd4f"
+    },
+    {
+      "id": "x-management-061",
+      "status": "pass",
+      "assessment": "Individual pain assessment plus addressing discriminatory behaviour responds to both current care and harmful conduct.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "014b69c82e698c42cb6120c03386aae183cff517630ccdcbf8298c624cf680ed"
+    },
+    {
+      "id": "x-management-062",
+      "status": "pass",
+      "assessment": "Stated name and reliable identification can coexist; unilateral record replacement and family override are inappropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "bdb77adc492e9d5199b3294c3f0197331c8a22387282c36b9723024779ade2ec"
+    },
+    {
+      "id": "x-management-063",
+      "status": "pass",
+      "assessment": "Stable routine care can accommodate prayer while preserving time-sensitive needs and individual preferences.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c40e29f7678cfe187c18ea3b7845b19a81701db7a642b0b07f8a8411d45fa218"
+    },
+    {
+      "id": "x-management-064",
+      "status": "pass",
+      "assessment": "Accessible durable information with usability check supports home independence better than one reading or unchanged family copy.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0d3d6a7842eef2810d3ea7247429ac4cccf71a5c38d8c4b8fb3580d2a1dc2f3e"
+    },
+    {
+      "id": "x-management-065",
+      "status": "pass",
+      "assessment": "Capable client permission defines supporter participation without transferring treatment authority.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5a06dfd2baea45ab72e5b63dd27f4d5fda6fe1ca22a9d5ab2b5082728767d83e"
+    },
+    {
+      "id": "x-management-066",
+      "status": "revise",
+      "assessment": "Collaborative goal review is sound; suspending all therapy until client accepts team goal is a conspicuously coercive distractor.",
+      "issues": [
+        "Collaborative goal review is sound; suspending all therapy until client accepts team goal is a conspicuously coercive distractor."
+      ],
+      "proposedChanges": [
+        "Replace option3 with: Keep the original stair goal and provide only a leaflet on wheelchair access. Explain that information alone does not integrate the client participation priority into measurable rehabilitation goals."
+      ],
+      "reviewedItemSha256": "68386a9d198ec02f6a5af3367e61b0057174112d47571b80ea8d5804c81f9d8a"
+    },
+    {
+      "id": "x-management-067",
+      "status": "pass",
+      "assessment": "Predictability/permission address distress from unannounced approach; repeated exposure or restricting all care does not create a collaborative plan.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "751b9fe22c347aa12d5a1e5e78693b9521e14bed6c418524d34938c648d3e04f"
+    },
+    {
+      "id": "x-management-068",
+      "status": "pass",
+      "assessment": "Urgency and safe alternatives are defensible temporary allocation criteria; convenience and fixed schedules alone overlook need.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "64d3f1c591064b37c638eb1b95c151585071607177e6e10f22882d411f78b174"
+    },
+    {
+      "id": "x-management-069",
+      "status": "revise",
+      "assessment": "Evidence/local authorization key is sound; trial on every client is unrealistic broad adoption.",
+      "issues": [
+        "Evidence/local authorization key is sound; trial on every client is unrealistic broad adoption."
+      ],
+      "proposedChanges": [
+        "Replace option0 with: Trial the free sample on the next similar wound before checking evidence or authorization. Explain that a small trial still needs suitability and approved process."
+      ],
+      "reviewedItemSha256": "53a06c042cfd98d481ed8804ced4cebab36639cbe39c8bed3888ded86ef03ec0"
+    },
+    {
+      "id": "x-management-070",
+      "status": "pass",
+      "assessment": "Workflow review, authorized learning and practical safeguards address near-miss recurrence beyond an individual reminder.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d53779c94c1bf8033bc42028cca702321f6f6400146a140f8f70e8567a9c9edb"
+    },
+    {
+      "id": "x-management-071",
+      "status": "pass",
+      "assessment": "Client explanation directly measures intended learning; leaflets, staff attendance and time are credible process proxies.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8886126cb5059e256317b8d0fe82d204d5956b893eaf6d984448b40a61452770"
+    },
+    {
+      "id": "x-management-072",
+      "status": "revise",
+      "assessment": "Checklist evaluation is sound; liking its appearance is weak filler as an adoption criterion.",
+      "issues": [
+        "Checklist evaluation is sound; liking its appearance is weak filler as an adoption criterion."
+      ],
+      "proposedChanges": [
+        "Replace option2 with: Expand it because handover took less time in the trial. Explain that efficiency alone does not establish completeness, usability or unintended harms."
+      ],
+      "reviewedItemSha256": "c8945e16937301885770d176bf947a5b6990a0bd40da42b6858c38f4f35f9df8"
+    },
+    {
+      "id": "x-management-073",
+      "status": "pass",
+      "assessment": "Client assessment/care/response belong in clinical chart; reporting/discipline do not substitute for care facts.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ad02b183f5690165a71b28df28403a09c66d831e665eac43bf3fff0251c769cf"
+    },
+    {
+      "id": "x-management-074",
+      "status": "pass",
+      "assessment": "Known facts through coordinated disclosure are appropriate without legal speculation, guarantees or waiting for complete investigation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "99981893e538b992eeb02e90fabd07c224307d9764c3d6cc581de1d0880acddb"
+    },
+    {
+      "id": "x-management-075",
+      "status": "pass",
+      "assessment": "Approved audit still requires data minimization and secure purpose-limited handling; future convenience is not authorization.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0d60f02cd46911c9e1ddd49cde7808b0804160cef6c48a6980d7c4ffa804d9c3"
+    },
+    {
+      "id": "x-management-076",
+      "status": "pass",
+      "assessment": "Escalating discrepancy with safe interim practice avoids both uncritical routine and uncoordinated blanket stopping.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7f6d1303e4f50b40f34967fab2a399f006421a176aa0b752451d4209ff349f9f"
+    },
+    {
+      "id": "x-management-077",
+      "status": "pass",
+      "assessment": "Long unused skill needs current learning and supported demonstration; old certification/observation alone do not verify present competence.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "723248ce39bb037e159b7ea728af043cc02633feb466e9f91140791762d7ee42"
+    },
+    {
+      "id": "x-management-078",
+      "status": "pass",
+      "assessment": "Focused question, findings and follow-up support consultation; consultation does not transfer every nursing responsibility.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "989c41a9725491b72c654a92e37f75e0cc6ab98b350ff06d67d6befc26dddda3"
+    },
+    {
+      "id": "x-management-079",
+      "status": "pass",
+      "assessment": "Direct repeat/confirmation supports closed-loop understanding of authorized verbal instruction before action.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1f2caca7fc055cf51b3f3406957ec7df3a47e6f352242883abc4105bbcfde496"
+    },
+    {
+      "id": "x-management-080",
+      "status": "pass",
+      "assessment": "Known allergy handover omission after interruption needs deliberate checkpoint recovery before treatment begins.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a75ad5f2aa1cd3019d7c257ec464b8e8bf1538f76f95415bf0b1db6945ca49a2"
+    },
+    {
+      "id": "x-management-081",
+      "status": "pass",
+      "assessment": "New crushing pressure outranks routine signature; qualified assessment and escalation are appropriate. Foundation priority level would be more accurate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "19a032bc632d8be906dbfd82bc635b8725115722959dc76d0e534005016bd812"
+    },
+    {
+      "id": "x-management-082",
+      "status": "pass",
+      "assessment": "Explicit dose coverage or adjusted attendance protects time-critical care without arbitrary early/late administration.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d1e438d042a63f9f4bbf71d235f1eb8f2d69c65c9756594cfe0912fbc3c284e5"
+    },
+    {
+      "id": "x-management-083",
+      "status": "pass",
+      "assessment": "New instability requires assessment/stabilization and coordinated transport support regardless of scarce test slot.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6de337d29c16f7871c9d0fde75f007d327da8a28e33b8c85fcffa4ec9e531288"
+    },
+    {
+      "id": "x-management-084",
+      "status": "pass",
+      "assessment": "Possible blocked artificial airway requires immediate response; comparison against a blanket request is foundation-level prioritization.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b8aff3d9d555dc36b4d8d6f6f948a6299ce280c7dbf4584b9dc438d0cab6a315"
+    },
+    {
+      "id": "x-management-085",
+      "status": "pass",
+      "assessment": "Delayed departure does not end current care needs; reassessed interim meals/medication plan prevents transition gaps.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7172333de4dc58d2918b8a6e814fd3c9f6ea8713e7f01e833b2b12ff635cf1fc"
+    },
+    {
+      "id": "x-management-086",
+      "status": "pass",
+      "assessment": "Worsening condition despite unanswered urgent referral requires an available escalation pathway matching present urgency.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b6b5f9c6c90c7a042577a85a072e9945b40d524293425c854c543d8c8714aa7f"
+    },
+    {
+      "id": "x-management-087",
+      "status": "pass",
+      "assessment": "Time-sensitive tasks, reassessment flexibility and coordination support adaptive shift planning.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a7692b1c64370c0c22412dc8baec8c7221e2f5557ea8347e3aeb18cfa73101dd"
+    },
+    {
+      "id": "x-management-088",
+      "status": "pass",
+      "assessment": "Nearby qualified response while assigned nurse handles another emergency supports immediate safety and team coordination.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "def72b79b8b8dc8e18b86056243d9da2e89fc247d951b2f6fd0fe5dacd51596d"
+    },
+    {
+      "id": "x-management-089",
+      "status": "revise",
+      "assessment": "Proactive wishes/order clarification is sound; greatest signature count is a weak invented validity test.",
+      "issues": [
+        "Proactive wishes/order clarification is sound; greatest signature count is a weak invented validity test."
+      ],
+      "proposedChanges": [
+        "Replace option0 with: Use the form with the latest visible date without checking whether it reflects current wishes and valid orders. Explain that apparent recency alone does not resolve applicability and validity."
+      ],
+      "reviewedItemSha256": "5b01568b426d895b2cde76464d07f5f64995e9cf4de1e584fd5ebdb850f31278"
+    },
+    {
+      "id": "x-management-090",
+      "status": "revise",
+      "assessment": "Core distinction is correct, but withholding analgesia until no-CPR rescinded is an implausibly extreme distractor.",
+      "issues": [
+        "Core distinction is correct, but withholding analgesia until no-CPR rescinded is an implausibly extreme distractor."
+      ],
+      "proposedChanges": [
+        "Replace option1 with: Use only nonpharmacologic comfort measures despite an available prescribed analgesic. Explain that a no-CPR plan does not itself exclude prescribed symptom treatment; decisions follow broader goals and assessment. Classify foundation."
+      ],
+      "reviewedItemSha256": "3ece1492deaeeded1ffdb06b3a5f5cdf2edcae9234deeae0a9944386de34b45e"
+    },
+    {
+      "id": "x-management-091",
+      "status": "pass",
+      "assessment": "Exploring capable clients own information preferences respects autonomy without assuming family secrecy request controls disclosure.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1291acfaa8534011de7e528a1bd1437cdca7fcea6eba8b2535dee0beaa6d6ac7"
+    },
+    {
+      "id": "x-management-092",
+      "status": "pass",
+      "assessment": "Ethics consultation can support unresolved values/consent conflict without replacing clinical/legal process or assigning unilateral authority.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1cf8696124a8e0045bb90d71174bf89f49d950e8fa85198b9b715cc944fec88b"
+    },
+    {
+      "id": "x-management-093",
+      "status": "pass",
+      "assessment": "Comfort plus desired alertness match expressed goal better than pain alone, dose quantity or task counts.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "84320c2d11ae1636bc1e1b55f15b8d307c455032b96864f7f8b5cbab64b74638"
+    },
+    {
+      "id": "x-management-094",
+      "status": "pass",
+      "assessment": "Local advance-planning resources avoid asserting a universal directive rule and support discussion before crisis.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5ef5a21fd4b87f981136499405dfe1c77a207ae2af3df3c36b505c8572c62a86"
+    },
+    {
+      "id": "x-management-095",
+      "status": "pass",
+      "assessment": "Facilitating client-directed Elder access avoids substituting generic or staff-selected cultural assumptions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "cb0537afb24d9b897d3815ff1e9d844af34e16847d6104ab133a9060f346621f"
+    },
+    {
+      "id": "x-management-096",
+      "status": "pass",
+      "assessment": "Interpreter must relay client response; role clarification preserves language access and decision ownership.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6397d1a2cddc00b6379edaac70fe1819e4f70bea5163f61efe2019b86e33154f"
+    },
+    {
+      "id": "x-management-097",
+      "status": "pass",
+      "assessment": "Accessible communication/direct engagement/support-based understanding respects disability without presuming incapacity.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "080a903ccec2e53e9bd282c0d530f7fc1fc0c35f1766fefeab11f3d8bca8fdba"
+    },
+    {
+      "id": "x-management-098",
+      "status": "pass",
+      "assessment": "Concern, information and follow-up provide continuity after capable refusal without judgmental labels.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fa536610efd455a088bbfb00cb636db48235000fc7a58eb9dd925e2a3b35d629"
+    },
+    {
+      "id": "x-management-099",
+      "status": "pass",
+      "assessment": "Private evidence/standards review and agreed plan prevent inconsistent care while meaningful client participation can follow.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7ae4e9910f1d14aedba0cb4305374bb09ae660197344ea4ca39ba19022082c2b"
+    },
+    {
+      "id": "x-management-100",
+      "status": "pass",
+      "assessment": "Completing required verification preserves personal accountability despite senior pressure or common shortcut culture.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d93e83c04da3611d3ec735f100be3c023ef29ed630622e05965d761b966c4481"
+    }
+  ],
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

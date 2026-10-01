@@ -1,0 +1,63 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:33:59.985510+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/risk-051-075.json",
+  "sourceSha256": "f1319a660222a842128b1dc98c164af45c9cd2ea1e8e4ba75b7efb9b6bc6331d",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 1,
+    "reviewedIds": [
+      "x-risk-069"
+    ],
+    "unreviewedIds": [
+      "x-risk-051",
+      "x-risk-052",
+      "x-risk-053",
+      "x-risk-054",
+      "x-risk-055",
+      "x-risk-056",
+      "x-risk-057",
+      "x-risk-058",
+      "x-risk-059",
+      "x-risk-060",
+      "x-risk-061",
+      "x-risk-062",
+      "x-risk-063",
+      "x-risk-064",
+      "x-risk-065",
+      "x-risk-066",
+      "x-risk-067",
+      "x-risk-068",
+      "x-risk-070",
+      "x-risk-071",
+      "x-risk-072",
+      "x-risk-073",
+      "x-risk-074",
+      "x-risk-075"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-risk-069",
+      "status": "revise",
+      "assessment": "The daylight ambiguity is resolved: the distractor now means sustained daytime darkness, not a short rest. Content is acceptable, but current refs still cite c-postoperative, a wound-healing chapter. Final pass awaits a delirium/sensory-orientation source from the ongoing mapping audit.",
+      "issues": [
+        "The daylight ambiguity is resolved: the distractor now means sustained daytime darkness, not a short rest. Content is acceptable, but current refs still cite c-postoperative, a wound-healing chapter. Final pass awaits a delirium/sensory-orientation source from the ongoing mapping audit."
+      ],
+      "proposedChanges": [
+        "Retain current revised text; replace the unrelated c-postoperative reference with topic-appropriate delirium-prevention guidance and document actual access."
+      ],
+      "reviewedItemSha256": "457573e154b17b21258dddfd00110c0608669b4202fc9327d741a9fc74b766c7"
+    }
+  ],
+  "reviewerTask": "/root/review_legacy"
+}

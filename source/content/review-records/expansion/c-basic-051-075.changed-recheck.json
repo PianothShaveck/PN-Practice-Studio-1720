@@ -1,0 +1,132 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:06:09.590213+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/basic-051-075.json",
+  "sourceSha256": "a0713a1e49415cef3d8b3704363e7cabbe22f41bb42b3239e6f678627ff1c1ce",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 10,
+    "reviewedIds": [
+      "x-basic-057",
+      "x-basic-062",
+      "x-basic-063",
+      "x-basic-066",
+      "x-basic-068",
+      "x-basic-070",
+      "x-basic-071",
+      "x-basic-072",
+      "x-basic-074",
+      "x-basic-075"
+    ],
+    "unreviewedIds": [
+      "x-basic-051",
+      "x-basic-052",
+      "x-basic-053",
+      "x-basic-054",
+      "x-basic-055",
+      "x-basic-056",
+      "x-basic-058",
+      "x-basic-059",
+      "x-basic-060",
+      "x-basic-061",
+      "x-basic-064",
+      "x-basic-065",
+      "x-basic-067",
+      "x-basic-069",
+      "x-basic-073"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-basic-057",
+      "status": "pass",
+      "assessment": "Adaptive utensils preserve demonstrated retained ability. Revised larger spoonful distractor is relevant but can worsen spills; the original unrelated reclining option is removed.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b1f49e2aaf628e2cc87b1f1d90ce0f3cb3192e98c0018fe48dd466f5eaa8d982"
+    },
+    {
+      "id": "x-basic-062",
+      "status": "pass",
+      "assessment": "Distributing a prescribed allowance addresses documented early consumption. Medication-only evening sips is now a plausible inadequate allocation plan. No authority to increase restriction independently is implied.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "393551fe908fe9dcb016c1e3d314b172a8ba55418e39dda98850aa4592b9b1a5"
+    },
+    {
+      "id": "x-basic-063",
+      "status": "pass",
+      "assessment": "Oral hygiene plus counting melted ice respects restriction while treating dryness. Alcohol rinse and unlimited ice are relevant misconceptions rather than unrelated food advice.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fd6601305251ed6d0534922ad15dbade89fc303b058554b49c807d604d4e7a0a"
+    },
+    {
+      "id": "x-basic-066",
+      "status": "pass",
+      "assessment": "Sodium must be compared for the actual consumed quantity. Per-serving-only comparison is a meaningful distractor when package portions differ; calories and natural labels do not establish sodium.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e5f5eb23183a1efb68b33d35555fe791310092516a01fa56e505b67835cd9b7e"
+    },
+    {
+      "id": "x-basic-068",
+      "status": "pass",
+      "assessment": "A tolerated lactose-free equivalent preserves nutrient intake; unnecessary dairy exclusion and unfortified substitution require review. Cream tolerance cannot be assumed from size alone.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4e2a168e4f169cdaa4dcfe6020176988debbf07e64d08d8edd1b5e6c87c32ccc"
+    },
+    {
+      "id": "x-basic-070",
+      "status": "pass",
+      "assessment": "Regular oral cleaning remains necessary with enteral feeding. Swab-only natural-tooth care is now a plausible inadequate alternative; no false idea that tube flushes clean the mouth remains.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0caafe38eedd0047876990796712f82eb42bd1c48e97dee37a3783beafbeddee"
+    },
+    {
+      "id": "x-basic-071",
+      "status": "pass",
+      "assessment": "Stable nausea during advancement prompts assessment and review of prescribed progression. Antiemetic use without reassessing tolerance does not justify continued advancement.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "607d05f2171ef741a029f0c6d577fea8cbdc062af33fdecdcd8a50547f4e2609"
+    },
+    {
+      "id": "x-basic-072",
+      "status": "pass",
+      "assessment": "Comfortable soft alternate-day stool can be normal. Alternatives still share the same fixed-daily-frequency misconception, so difficulty is limited; no clinical or key defect identified in this narrow foundation item.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "306c529fee64411bf081559a6de4db044514f28f7f3ab977e12ff12c6ed717e9"
+    },
+    {
+      "id": "x-basic-074",
+      "status": "pass",
+      "assessment": "Key index2 is retained after shuffling. Gradual fibre plus appropriate fluid addresses abrupt-change bloating; changing to concentrated fibre at the same sudden amount does not fix the cause.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a5199eff1a7870a1244f775b569f52d11f83146fad43a2f121b215486ca17c46"
+    },
+    {
+      "id": "x-basic-075",
+      "status": "pass",
+      "assessment": "Secure foot support corrects the explicit dangling-feet barrier. Forward lean without support and further seat elevation are credible incomplete ergonomic changes; more straining does not fix posture.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f0b681e791cb5c27eb469e729c3a8194fae9d072a3aee99634ebb8da21ff41fc"
+    }
+  ],
+  "reviewScope": "Only the ten previously revised IDs were re-read. Unchanged IDs retain prior matching-hash review; they are deliberately not relabelled here.",
+  "reviewerTask": "/root/review_legacy"
+}

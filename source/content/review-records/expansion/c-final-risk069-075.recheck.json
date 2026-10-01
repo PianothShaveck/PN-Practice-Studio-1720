@@ -1,0 +1,67 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:45:48.074002+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/risk-051-075.json",
+  "sourceSha256": "6ffeee363ad6a1abc287b40df32258744d5b320267c73358a8c65f1667243886",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 2,
+    "reviewedIds": [
+      "x-risk-069",
+      "x-risk-075"
+    ],
+    "unreviewedIds": [
+      "x-risk-051",
+      "x-risk-052",
+      "x-risk-053",
+      "x-risk-054",
+      "x-risk-055",
+      "x-risk-056",
+      "x-risk-057",
+      "x-risk-058",
+      "x-risk-059",
+      "x-risk-060",
+      "x-risk-061",
+      "x-risk-062",
+      "x-risk-063",
+      "x-risk-064",
+      "x-risk-065",
+      "x-risk-066",
+      "x-risk-067",
+      "x-risk-068",
+      "x-risk-070",
+      "x-risk-071",
+      "x-risk-072",
+      "x-risk-073",
+      "x-risk-074"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-risk-069",
+      "status": "pass",
+      "assessment": "Current item fully reread: orientation/sleep and sensory aids help reduce disorientation; sustained daytime darkness and removing clocks undermine cues. NICE delirium reference resolves the last source-only issue.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c0d9492fd250879fee04b21f92187567928d4d590ef045f6f8928104c3debbb1"
+    },
+    {
+      "id": "x-risk-075",
+      "status": "pass",
+      "assessment": "Current item fully reread: safe itch relief and assessment are preferable to objects, warm air or poured lotion. Cast/splint care plus neurovascular sources replace generic assessment; primary cast guidance opened for topical relevance.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9b933e2502721cfdb52977ad83eb098bfadeabc390333fdee5022a0831df4cd3"
+    }
+  ],
+  "reviewerTask": "/root/review_legacy"
+}

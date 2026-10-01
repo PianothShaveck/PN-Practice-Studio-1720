@@ -1,0 +1,197 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:23:48.170014+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/risk-051-075.json",
+  "sourceSha256": "431fceaa2e92a1f8c5cb044a1010621445ea81c867cacd6d0605fadf4e52317b",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 16,
+    "reviewedIds": [
+      "x-risk-053",
+      "x-risk-054",
+      "x-risk-056",
+      "x-risk-059",
+      "x-risk-061",
+      "x-risk-063",
+      "x-risk-065",
+      "x-risk-066",
+      "x-risk-067",
+      "x-risk-069",
+      "x-risk-070",
+      "x-risk-071",
+      "x-risk-072",
+      "x-risk-073",
+      "x-risk-074",
+      "x-risk-075"
+    ],
+    "unreviewedIds": [
+      "x-risk-051",
+      "x-risk-052",
+      "x-risk-055",
+      "x-risk-057",
+      "x-risk-058",
+      "x-risk-060",
+      "x-risk-062",
+      "x-risk-064",
+      "x-risk-068"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-risk-053",
+      "status": "pass",
+      "assessment": "Options now compare realistic aggregation and estimation shortcuts. Separate measured volumes and appearance preserve source-specific trends; supported by primary drain guidance.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "86e4fe700737e7a6bfc7b5216f73a91683b11da55a98e8d5638bed2edf9cd78d"
+    },
+    {
+      "id": "x-risk-054",
+      "status": "pass",
+      "assessment": "Wound separation during removal warrants stopping for assessment. Adding strips or a dressing does not justify continuing removal; the key remains safely scoped.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9845304d4b7abb437479514d93a1fe2064ec176e726ef33d2abb63f87f9f437d"
+    },
+    {
+      "id": "x-risk-056",
+      "status": "pass",
+      "assessment": "Current suction volume and actual replacement are more directly relevant to suspected depletion than mouth-care relief, settings or usual home intake. Options are comparable information.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "259340fb1867802acb410ea37a22a336773016336cda069ec181c758d0500571"
+    },
+    {
+      "id": "x-risk-059",
+      "status": "pass",
+      "assessment": "All alternatives now assess relevant urinary data; a post-void bladder check most directly evaluates incomplete emptying suggested by small frequent voids/fullness.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "05db44687201acc8935443111c0c6a36266f5c04c1a6aa8ea009a45006e1c2d6"
+    },
+    {
+      "id": "x-risk-061",
+      "status": "pass",
+      "assessment": "Revised key explicitly pauses inflow while assessing outflow and applying obstruction protocol. This prevents additional distension; antispasmodic or slowed inflow alone does not resolve patency.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "226f2182606864c557b63c467b7b8a6750d178a29f9d70f654d0bb80696aa9b5"
+    },
+    {
+      "id": "x-risk-063",
+      "status": "pass",
+      "assessment": "Continuous new water-seal bubbling warrants patient/connection assessment. Suction chamber water changes are a plausible chamber-confusion error; prolonged unplanned clamping remains unsafe.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5cac271f32fbfd4ef7e9e28986d9e3fc61eb7a8d68e76ea1b65a9355ccf60cc7"
+    },
+    {
+      "id": "x-risk-065",
+      "status": "pass",
+      "assessment": "Actual cycling and correct fit establish effective prescribed compression. Oversizing for everyone or routine overnight disconnection undermines therapy. Foundation SATA, with limited higher-order difficulty.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f804951d72c0e8f2e050bd2a368f8151f5b91c261731559a8d2b4c75daff0f73"
+    },
+    {
+      "id": "x-risk-066",
+      "status": "pass",
+      "assessment": "New unilateral tender swelling requires assessment/escalation rather than independent compression escalation, massage or harder exercise. The unrelated other-client stocking distractor is removed.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "52fcc3155d8e4b355e0bcc1696137ad92e369a770b7b0d38a3a77ae4817cd658"
+    },
+    {
+      "id": "x-risk-067",
+      "status": "pass",
+      "assessment": "Incision support helps the client perform prescribed effective coughs. Inspiratory spirometry is a relevant adjunct but does not substitute for secretion clearance.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3f27a154413a57fc1c373c010a2d88676be9ff100196802db0c0a82864430ec6"
+    },
+    {
+      "id": "x-risk-069",
+      "status": "revise",
+      "assessment": "Closing blinds during a daytime rest can be a reasonable short-term sleep accommodation, while the rationale assumes continuous daytime dimness. Specify sustained removal of day-night cues.",
+      "issues": [
+        "Closing blinds during a daytime rest can be a reasonable short-term sleep accommodation, while the rationale assumes continuous daytime dimness. Specify sustained removal of day-night cues."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Provide orientation and preserve sleep where feasible",
+            "Remove the clock and calendar to reduce visual clutter",
+            "Keep the blinds closed throughout the daytime to maintain a sleep setting",
+            "Restore accessible sensory aids"
+          ],
+          "why": [
+            "Orientation and appropriate sleep support cognitive function.",
+            "Clock/calendar cues can support orientation rather than being routine clutter.",
+            "Maintaining darkness throughout daytime can disrupt day-night cues; preserve a suitable rhythm.",
+            "Accessible hearing and vision aids help interpret the environment."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "10387184777388bad0ef83bc3e0c3ff52ebfc71fcbcc0dd9d11391d73cbd848e"
+    },
+    {
+      "id": "x-risk-070",
+      "status": "pass",
+      "assessment": "Inspect/offload local device pressure while maintaining oxygen is a sound patient-specific balance. A covering without correcting tension is now a plausible incomplete workaround.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "962d2b05ca3d862dd16840d665b2b3860c4be4199f1bffd38342ebf1a888d153"
+    },
+    {
+      "id": "x-risk-071",
+      "status": "pass",
+      "assessment": "All alternatives interpret healing. Shrinking dimensions and healthy granulation support progress despite stable mild serous drainage; drainage-only plateau/failure inferences are incorrect.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5664a75115575f60e07b38ee63257f7631e410252585303cad6e45e216ad3700"
+    },
+    {
+      "id": "x-risk-072",
+      "status": "pass",
+      "assessment": "All alternatives are home-technique demonstrations. Separate output and secure tubing are correct; combining drains and reclosing an expanded suction bulb reveal relevant errors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b9acba0d94f4bf52b12d3149d29f4b2e952058d22389ae4bd90e51a4c38a0e57"
+    },
+    {
+      "id": "x-risk-073",
+      "status": "pass",
+      "assessment": "Repeated vomiting with increasing distension should pause diet progression for team assessment. Temporary antiemetic response does not establish GI tolerance.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "acbbcd2caaab665b5424c28cf1cd5ee45561c5880c9cc9745c2f80bcee01e6b9"
+    },
+    {
+      "id": "x-risk-074",
+      "status": "pass",
+      "assessment": "The stem explicitly targets distal neurovascular baseline. Distal motor/sensory and perfusion findings fit; local bruise size and movement pain at the injured joint are broader injury data. This should not be generalized to omitting pain from full neurovascular surveillance.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7ce0476ec945918f8e6ff7c208e912dcb3bc2d1c1b19d901e15782d1ef8d1f6c"
+    },
+    {
+      "id": "x-risk-075",
+      "status": "pass",
+      "assessment": "Approved itch relief and assessment of persistent irritation protect hidden skin. Warm air, objects and poured lotion are relevant unsafe cast-care misconceptions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "bffced4e461ac99e9cce26b97ca9a225c90b06f6e796262bdc842eb8e85ebfe7"
+    }
+  ],
+  "reviewScope": "All sixteen revised items reread; nine unchanged prior passes are not relabelled.",
+  "reviewerTask": "/root/review_legacy"
+}

@@ -1,0 +1,100 @@
+[
+  {
+    "id": "x-health-120",
+    "cat": "health",
+    "title": "Diabetes appointment preparation",
+    "stem": "A client has variable glucose readings, sometimes delays refills because of cost, and recently added a nonprescription product. Which preparations provide the detail needed to assess the glucose pattern and current treatment? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Bring meter records with symptoms and meal timing",
+      "Submit the weekly glucose average as the glucose record",
+      "Describe when cost led to delayed refills",
+      "Copy the previous prescription list as the current treatment record"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "why": [
+      "Timed readings and symptoms help the team interpret variability and safety.",
+      "An average can conceal clinically relevant highs, lows and timing patterns.",
+      "Actual access-related interruptions may explain variability and identify a support need.",
+      "The previous prescription list does not represent the newly added product or establish actual current use; reconciliation needs these details."
+    ],
+    "takeaway": "Prepare complete clinically relevant information for chronic-disease review.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Self-advocacy in care",
+    "learningObjective": "Prepare complete clinically relevant information for chronic-disease review.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-136",
+    "cat": "health",
+    "title": "Responding to a wellness supplement claim",
+    "stem": "A client taking several prescriptions wants to add a supplement and asks whether a Canadian product licence makes it suitable for them. What should the nurse recommend first?",
+    "type": "single",
+    "options": [
+      "Review its ingredients against the client's current medicines",
+      "Choose a licensed product and begin the labelled dose",
+      "Separate the supplement from prescriptions by two hours",
+      "Choose a single-ingredient version of the supplement"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Individual medicines and health conditions can change risk; a qualified clinician or pharmacist should review compatibility.",
+      "Licensing and label directions do not establish compatibility with this person's treatment.",
+      "Spacing does not prevent every pharmacological interaction.",
+      "A simpler formulation can still interact with treatment and needs review against the actual medicines and health conditions."
+    ],
+    "takeaway": "Review supplements in the context of the client's medications and conditions.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Consumer health literacy",
+    "learningObjective": "Review supplements in the context of the client's medications and conditions.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-health-150",
+    "cat": "health",
+    "title": "Checking a home plan's feasibility",
+    "stem": "A client correctly demonstrates a simple home dressing change. Which findings demonstrate that the essential resources for the home plan are ready? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "The required dressing supplies are available to the client",
+      "The client identifies a suitable space for the task",
+      "A supply prescription has been faxed to the vendor",
+      "A home-service referral is awaiting acceptance"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "why": [
+      "Actual supply availability establishes that the demonstrated procedure can be carried out.",
+      "A suitable workspace supports practical implementation in the home setting.",
+      "A faxed prescription initiates procurement but does not establish that the supplies can be obtained in time.",
+      "An unaccepted referral does not establish that a home service is available for the plan."
+    ],
+    "takeaway": "Check resources and setting when evaluating a home-care plan.",
+    "refs": [
+      "d-fundamentals"
+    ],
+    "exhibit": null,
+    "subtopic": "Home-care readiness",
+    "learningObjective": "Check resources and setting when evaluating a home-care plan.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  }
+]

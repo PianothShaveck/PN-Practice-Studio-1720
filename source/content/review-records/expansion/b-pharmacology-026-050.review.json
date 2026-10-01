@@ -1,0 +1,300 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T16:55:07.457852+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/b/pharmacology-02.json",
+  "sourceSha256": "b7939385b22dba69cb4b8f4ee5485fb1d9334b6124d771a97a12f49d4650b7fb",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-pharmacology-026",
+      "x-pharmacology-027",
+      "x-pharmacology-028",
+      "x-pharmacology-029",
+      "x-pharmacology-030",
+      "x-pharmacology-031",
+      "x-pharmacology-032",
+      "x-pharmacology-033",
+      "x-pharmacology-034",
+      "x-pharmacology-035",
+      "x-pharmacology-036",
+      "x-pharmacology-037",
+      "x-pharmacology-038",
+      "x-pharmacology-039",
+      "x-pharmacology-040",
+      "x-pharmacology-041",
+      "x-pharmacology-042",
+      "x-pharmacology-043",
+      "x-pharmacology-044",
+      "x-pharmacology-045",
+      "x-pharmacology-046",
+      "x-pharmacology-047",
+      "x-pharmacology-048",
+      "x-pharmacology-049",
+      "x-pharmacology-050"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://pdf.hres.ca/dpd_pm/00068741.PDF",
+      "authority": "Health Canada-hosted manufacturer product monograph",
+      "supports": [
+        "x-pharmacology-029: renal impairment increases digoxin accumulation/toxicity"
+      ],
+      "scope": "Specific drug-risk support."
+    },
+    {
+      "url": "https://pdf.hres.ca/dpd_pm/00048380.PDF",
+      "authority": "Health Canada-hosted manufacturer product monograph",
+      "supports": [
+        "x-pharmacology-031: sildenafil potentiates nitrate hypotension; concurrent use contraindicated"
+      ],
+      "scope": "Specific interaction support; no numeric interval asserted."
+    },
+    {
+      "url": "https://thrombosiscanada.ca/clinical_guides/pdfs/HEPARININDUCEDTHROMBOCYTOPENIA_35.pdf",
+      "authority": "Thrombosis Canada",
+      "supports": [
+        "x-pharmacology-037: timing, platelet decline, thrombosis and cessation of heparin when HIT suspected"
+      ],
+      "scope": "Specific recognition/escalation support; does not authorize independent LPN prescribing."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-pharmacology-026",
+      "status": "pass",
+      "assessment": "Tongue swelling/voice change during ACE therapy is an airway emergency even without rash; emergency assessment is defensible.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ae2b0723d07b28f16395dcf715c55d8626fd725a6147c5b8f3c2e318aaadfbfb"
+    },
+    {
+      "id": "x-pharmacology-027",
+      "status": "pass",
+      "assessment": "New dry cough temporally linked to ACE therapy with no congestion/infection cues supports medication review rather than independent cessation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "84802925e5b76779d820c6294a10bc8113d4c835d795428ba8b6078d2a51816f"
+    },
+    {
+      "id": "x-pharmacology-028",
+      "status": "revise",
+      "assessment": "Key is defensible, but avoiding all fruits/vegetables and recommending salt only on dosing days are weak distractors.",
+      "issues": [
+        "Key is defensible, but avoiding all fruits/vegetables and recommending salt only on dosing days are weak distractors."
+      ],
+      "proposedChanges": [
+        "Replace option 2 with: Separate the salt substitute from spironolactone by two hours. Replace option 3 with: Start it now and review potassium at the usual annual visit. Explain that dose separation does not remove potassium retention and monitoring/review should precede routine use."
+      ],
+      "reviewedItemSha256": "3d6f43a7000ebecf7136e9e7939f057084e770f63a79034f4f688346fa739132"
+    },
+    {
+      "id": "x-pharmacology-029",
+      "status": "pass",
+      "assessment": "Pulse48, new GI/visual symptoms and renal decline support withholding pending urgent toxicity/rhythm review; old therapeutic level does not reassure.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "194d1308f80ebe3525d3cdee8fcba40f2a166612f2e5eb7c2fe9b664ba49d799"
+    },
+    {
+      "id": "x-pharmacology-030",
+      "status": "pass",
+      "assessment": "Muscle pain/weakness plus dark urine warrants urgent muscle/renal injury review; lipid testing and food timing do not address the acute concern.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2e84e6af03d70c0f94aabcdac877ed5d65e954650b136817beb140d77aaea46c"
+    },
+    {
+      "id": "x-pharmacology-031",
+      "status": "pass",
+      "assessment": "Recent sildenafil contraindicates nitrate despite current normal pressure; chest pain still requires urgent alternative assessment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "53f6ef21848f8bbfa0f93ac0ca7bb143fbf61c3091146751afc8577305cfd599"
+    },
+    {
+      "id": "x-pharmacology-032",
+      "status": "pass",
+      "assessment": "Improved edema with stable standing pressure and less exertional dyspnea support benefit; hypotension, hypokalemia or worsening oxygen need do not.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "25dc700990d69e9d8cf6cba76315b7b11fab24c55976f5b1981b20d9782d7416"
+    },
+    {
+      "id": "x-pharmacology-033",
+      "status": "pass",
+      "assessment": "Confusion with sodium124 during thiazide therapy merits withholding pending urgent assessment; additional free water can worsen the problem.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c6ac29f52a5f4a0d5d19a0fb6d97235e04c95f74cdacd86e85f0effa5cf9e424"
+    },
+    {
+      "id": "x-pharmacology-034",
+      "status": "pass",
+      "assessment": "Avoiding abrupt withdrawal and arranging a prescribed change is appropriate for controlled angina; symptom absence may reflect benefit.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5f61cc101b746e64ac6de81effd1a288eb571d490c5efb2ad42ceb00a9929e38"
+    },
+    {
+      "id": "x-pharmacology-035",
+      "status": "revise",
+      "assessment": "Safe positioning/review keys are sound; brisk walking during lightheadedness is implausibly unsafe filler.",
+      "issues": [
+        "Safe positioning/review keys are sound; brisk walking during lightheadedness is implausibly unsafe filler."
+      ],
+      "proposedChanges": [
+        "Replace option 3 with: Give a large glass of water and repeat standing immediately without reviewing fluid restrictions. Explain that a fluid intervention requires context and does not replace initial safe positioning/reassessment."
+      ],
+      "reviewedItemSha256": "d19e5c1127ddc1124a2894e26d07962e44accea47a922166e0c7b1000c6c5fb1"
+    },
+    {
+      "id": "x-pharmacology-036",
+      "status": "pass",
+      "assessment": "Late dosing with nocturia supports earlier timing through the treatment plan; arbitrary dose/frequency change or fluid restriction is unjustified.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d8d47569273cc4aa5a3042616e736d14ad60935993316d0904c8a75a3f41f7b3"
+    },
+    {
+      "id": "x-pharmacology-037",
+      "status": "pass",
+      "assessment": "Day6 platelet drop over50% with possible thrombosis supports suspected HIT, stopping exposure under protocol and urgent escalation. Source supports cessation without waiting for labs when suspicion is intermediate/high.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "da4a5fd251e75ec542e7b00a58cae582150be7aff404578dc869f1098dd2ce2d"
+    },
+    {
+      "id": "x-pharmacology-038",
+      "status": "pass",
+      "assessment": "Head impact during apixaban warrants urgent assessment despite normal initial exam; INR cannot establish absent anticoagulant effect.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "00fd70a699c6819464a6c54a1c1b0c5def9a64a04751cc798be6d804fc24984f"
+    },
+    {
+      "id": "x-pharmacology-039",
+      "status": "pass",
+      "assessment": "Melena with dizziness and no iron/bismuth exposure supports circulation assessment and urgent GI bleeding escalation; screening pathways are insufficient.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "10952228fec16f9c8afa33b3a4b3524f4dfe74289e787ddfc8bd73487f078708"
+    },
+    {
+      "id": "x-pharmacology-040",
+      "status": "pass",
+      "assessment": "Drug/procedure/renal function must inform an authorized perioperative plan; a generic schedule or normal INR is insufficient.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a27e20311cb4b441bfa4225ee1e830e6fa6b203b290249c5665e4de1b91e2b3c"
+    },
+    {
+      "id": "x-pharmacology-041",
+      "status": "pass",
+      "assessment": "Gentle oral care and review of NSAIDs reduce avoidable bleeding; missed-dose advice is appropriately drug-specific rather than universal doubling.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "db47084ef688d1a4526927de72ad37ee4ef0e795fff5710032d1857212032c5e"
+    },
+    {
+      "id": "x-pharmacology-042",
+      "status": "pass",
+      "assessment": "Apixaban still requires clinical/renal/interaction review despite no routine INR titration; correct key distinguishes monitoring purpose.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "64582325e918c0f99eaa77e4def4fab01d3d37790766a38d79a637c150cc3dbc"
+    },
+    {
+      "id": "x-pharmacology-043",
+      "status": "revise",
+      "assessment": "Urgent circulation support is sound, but walking a client with BP78/44 and faintness is cartoonishly unsafe.",
+      "issues": [
+        "Urgent circulation support is sound, but walking a client with BP78/44 and faintness is cartoonishly unsafe."
+      ],
+      "proposedChanges": [
+        "Replace option 1 with: Repeat the blood pressure using the other arm before calling for help. Explain that rapid confirmation can accompany but should not delay response to symptomatic severe hypotension."
+      ],
+      "reviewedItemSha256": "7fa256695473a6d9af6efb0fb3a2095d69bf41bd08300c6acafacc73df332d60"
+    },
+    {
+      "id": "x-pharmacology-044",
+      "status": "pass",
+      "assessment": "Residual edema does not exclude intravascular depletion; weight loss plus dry mouth and postural dizziness supports reassessment for overdiuresis.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "02a4d5562913f31fec1321bff5f406a7d1091332d964431d1e07464125bd9640"
+    },
+    {
+      "id": "x-pharmacology-045",
+      "status": "pass",
+      "assessment": "Edema after amlodipine increase without weight/pulmonary/function change supports drug-effect review, avoiding automatic HF escalation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c536508b46deee8022e8ac8c53f2707b34dfedd95f3d5a8bc1a17829f0154544"
+    },
+    {
+      "id": "x-pharmacology-046",
+      "status": "revise",
+      "assessment": "Holding due rate-slowing doses pending urgent review is defensible; walking to increase pulse is an implausible response to near-syncope.",
+      "issues": [
+        "Holding due rate-slowing doses pending urgent review is defensible; walking to increase pulse is an implausible response to near-syncope."
+      ],
+      "proposedChanges": [
+        "Replace option 1 with: Give metoprolol alone because diltiazem was added more recently. Explain that both slow rate and an arbitrary choice does not resolve symptomatic bradycardia."
+      ],
+      "reviewedItemSha256": "e3eee5c21ef7affbeee88b4e54bb89c359f36a33aae03f1f6bb4c2cd43e91469"
+    },
+    {
+      "id": "x-pharmacology-047",
+      "status": "revise",
+      "assessment": "Renal/potassium trends plus BP/postural symptoms are appropriate, but INR without anticoagulation is irrelevant filler.",
+      "issues": [
+        "Renal/potassium trends plus BP/postural symptoms are appropriate, but INR without anticoagulation is irrelevant filler."
+      ],
+      "proposedChanges": [
+        "Replace option 2 with: Repeat only serum sodium because a diuretic is prescribed. Explain that sodium alone misses ACE-related potassium/renal changes and hemodynamic effects."
+      ],
+      "reviewedItemSha256": "3e98a08dad9e00cd3dffa407980f3acff622343a7e1c58715f6597ff1bc58c93"
+    },
+    {
+      "id": "x-pharmacology-048",
+      "status": "pass",
+      "assessment": "Prescribed nitrate-free interval limits tolerance; it does not remove the need for acute symptom action or authorize extra exposure.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1617ebe398fe2e9cdc63b15ff1222373938d63d12950674434d209509f2f10c3"
+    },
+    {
+      "id": "x-pharmacology-049",
+      "status": "pass",
+      "assessment": "Unexplained warfarin/DOAC overlap needs clarification before uncertain administration; arbitrary prolonged holds also create risk.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9ee235e7f5975f16cae8e660932d071e0ed521a78081e1c748f280dfff351370"
+    },
+    {
+      "id": "x-pharmacology-050",
+      "status": "revise",
+      "assessment": "Schedule intervention is correct; doubling every missed workday dose is an implausibly blunt adherence fix.",
+      "issues": [
+        "Schedule intervention is correct; doubling every missed workday dose is an implausibly blunt adherence fix."
+      ],
+      "proposedChanges": [
+        "Replace option 1 with: Add a reminder alarm at the same clock time each day without discussing the rotating shifts. Explain that a fixed reminder alone may not make the prescribed schedule feasible."
+      ],
+      "reviewedItemSha256": "0b746ebfcb9bf4f066e6cade4bb26e070682a67a8bd9415c8c2c45810f5c014a"
+    }
+  ],
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

@@ -1,0 +1,559 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:31:35.883856+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/basic-176-200.json",
+  "sourceSha256": "bedda08e78e01927ba04142cf8f6c4d60228ada6cec7ee238a5046ade41d25d6",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-basic-176",
+      "x-basic-177",
+      "x-basic-178",
+      "x-basic-179",
+      "x-basic-180",
+      "x-basic-181",
+      "x-basic-182",
+      "x-basic-183",
+      "x-basic-184",
+      "x-basic-185",
+      "x-basic-186",
+      "x-basic-187",
+      "x-basic-188",
+      "x-basic-189",
+      "x-basic-190",
+      "x-basic-191",
+      "x-basic-192",
+      "x-basic-193",
+      "x-basic-194",
+      "x-basic-195",
+      "x-basic-196",
+      "x-basic-197",
+      "x-basic-198",
+      "x-basic-199",
+      "x-basic-200"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-basic-176",
+      "status": "pass",
+      "assessment": "A rehearsed cue explicitly in the therapy plan is appropriate during balanced assisted freezing; pulling, rushing and competing instructions can destabilize. Individualized plan prevents an unsupported universal cue prescription.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7f1a7c7547b98cb38d8f2359e1031c26910d9b16d9b4b230d7cb638534bd04f9"
+    },
+    {
+      "id": "x-basic-177",
+      "status": "pass",
+      "assessment": "Observed better-movement period is a relevant cue for scheduling nonurgent bathing; fixed timing or extra attempts during poor function misses a practical adaptation. No medication timing is independently changed.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3bf7a6c72dfd94a86be7a6f577d2d53a71b2bbbd5196e63e80895745f1f765a8"
+    },
+    {
+      "id": "x-basic-178",
+      "status": "pass",
+      "assessment": "Removing the prosthesis to assess the wrinkle-related pressure area addresses a specific mechanical source; leaving fit unchanged or adding bulk does not. Further prosthesis fitting remains individualized.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ea4aaa6824f84230183ec154faae173a0576fe44055f6cb105c0110e24b975f6"
+    },
+    {
+      "id": "x-basic-179",
+      "status": "revise",
+      "assessment": "Phantom pain should be assessed as real; avoid-discussion option is judgmental filler. Generic transfer source does not support phantom-pain claim.",
+      "issues": [
+        "Phantom pain should be assessed as real; avoid-discussion option is judgmental filler. Generic transfer source does not support phantom-pain claim."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Use relaxation first and assess the absent-foot pain only if it persists",
+            "Assess the pain and discuss the prescribed management plan",
+            "Reassure that absent tissue cannot generate pain",
+            "Record only discomfort in the surgical incision"
+          ],
+          "why": [
+            "An adjunct does not replace initial assessment of a real reported pain experience.",
+            "Phantom pain is a real experience requiring assessment.",
+            "This dismisses a recognized pain phenomenon.",
+            "That omits the distinct pain the client describes."
+          ]
+        },
+        "Replace or supplement c-mobility (transferring/ambulation chapter) with appropriate topic-specific primary guidance and an accurate access note before recheck."
+      ],
+      "reviewedItemSha256": "33b9ebe70129d357dd7811da2ab7dd215b9186ff79d5c3927bea818f0402ca99"
+    },
+    {
+      "id": "x-basic-180",
+      "status": "pass",
+      "assessment": "Prolonged flexed positioning conflicts directly with the prescribed extension programme, while tolerated therapist-directed positions and symptom reporting support it. This is limited plan-application rather than universal amputation-position guidance.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b606be8757c682649d40da746cc3e883b12fc163eae2a817fe0e916a2c08c4c4"
+    },
+    {
+      "id": "x-basic-181",
+      "status": "pass",
+      "assessment": "The directly observed response supports cooler seated washing. No general rule about all people with MS is required; the case establishes the effective adaptation and avoids prescribing heat-tolerance training.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3ce6767314d4ced376362af04166946904ea5e18fa032db8fa4d055a5959cefb"
+    },
+    {
+      "id": "x-basic-182",
+      "status": "revise",
+      "assessment": "Reliable eye-gaze preserves participation, but open-ended spoken questions versus choices is a weak format alternative; communication source needed beyond transfers.",
+      "issues": [
+        "Reliable eye-gaze preserves participation, but open-ended spoken questions versus choices is a weak format alternative; communication source needed beyond transfers."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Interpret silence as agreement",
+            "Use a standard written checklist for the client to mark independently",
+            "Use eye-gaze choices before positioning and care",
+            "Rely on family for every choice"
+          ],
+          "why": [
+            "Motor impairment does not establish consent or preference.",
+            "The client cannot move their hands; use the established accessible eye-gaze method.",
+            "A reliable communication route preserves preferences and participation.",
+            "The client can communicate directly through an established method."
+          ]
+        },
+        "Replace or supplement c-mobility (transferring/ambulation chapter) with appropriate topic-specific primary guidance and an accurate access note before recheck."
+      ],
+      "reviewedItemSha256": "0c6a694db455e71591d2147322a6e7ee7f010f21b460a05b7b094c110af397f2"
+    },
+    {
+      "id": "x-basic-183",
+      "status": "revise",
+      "assessment": "Smaller earlier meal/upright posture addresses the pattern; midday-onward fasting is excessive and transfer source is unrelated to reflux.",
+      "issues": [
+        "Smaller earlier meal/upright posture addresses the pattern; midday-onward fasting is excessive and transfer source is unrelated to reflux."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Use only a bedtime diary without changing the trigger",
+            "Trial an earlier smaller meal and remain upright afterward",
+            "Keep the late meal time but remove one suspected food without changing meal size or recumbency",
+            "Add a larger evening drink before lying down"
+          ],
+          "why": [
+            "Monitoring alone does not address the identified pattern.",
+            "Meal size and recumbency are relevant modifiable triggers.",
+            "Food triggers may matter, but this does not address the observed large late meal and immediate lying down.",
+            "Extra gastric volume may worsen symptoms."
+          ]
+        },
+        "Replace or supplement c-mobility (transferring/ambulation chapter) with appropriate topic-specific primary guidance and an accurate access note before recheck."
+      ],
+      "reviewedItemSha256": "be6cdf1247d5d09a15a288f05b52e737b2c2bc4f89ce628adb6d8e96a097c555"
+    },
+    {
+      "id": "x-basic-184",
+      "status": "revise",
+      "assessment": "Removing sheet contact is a sensible direct comfort intervention; add gout/comfort support, and replace heavy-blanket caricature.",
+      "issues": [
+        "Removing sheet contact is a sensible direct comfort intervention; add gout/comfort support, and replace heavy-blanket caricature."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Use an appropriate support to keep bedding off the toe",
+            "Tuck the sheet tightly to prevent movement",
+            "Use a thinner sheet but tuck it firmly against the foot",
+            "Massage the toe before replacing the sheet"
+          ],
+          "why": [
+            "This removes the specific contact stimulus.",
+            "Tension increases contact pressure on the painful toe.",
+            "Reduced weight does not remove the painful contact stimulus.",
+            "Touch and movement may intensify the acute joint pain."
+          ]
+        },
+        "Replace or supplement c-mobility (transferring/ambulation chapter) with appropriate topic-specific primary guidance and an accurate access note before recheck."
+      ],
+      "reviewedItemSha256": "9354379734bf8833b7e5501b30ccda344553f0eb996cf219294f5d10a1f209fa"
+    },
+    {
+      "id": "x-basic-185",
+      "status": "revise",
+      "assessment": "Individual food/utensil trials with intake monitoring is appropriate for taste change; all protein exclusion is overbroad and transfer reference is unrelated.",
+      "issues": [
+        "Individual food/utensil trials with intake monitoring is appropriate for taste change; all protein exclusion is overbroad and transfer reference is unrelated."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Insist on the usual menu until taste normalizes",
+            "Choose a fixed low-protein menu before asking which foods are tolerated",
+            "Increase every portion before checking preferences",
+            "Trial tolerated foods and utensils while tracking intake"
+          ],
+          "why": [
+            "The current menu is not supporting adequate intake.",
+            "A broad preset restriction can reduce intake and does not identify individual tolerance.",
+            "More disliked food does not address altered taste.",
+            "Individual experiments can identify acceptable options and protect nutrition."
+          ]
+        },
+        "Replace or supplement c-mobility (transferring/ambulation chapter) with appropriate topic-specific primary guidance and an accurate access note before recheck."
+      ],
+      "reviewedItemSha256": "b0d42a79a7521caa2be5f03381ebdf936bfa4f2bc72953a47beee1376ca6aeab"
+    },
+    {
+      "id": "x-basic-186",
+      "status": "revise",
+      "assessment": "Soft cool nonacidic food is appropriate for safe swallowing with painful mucositis, but reference must support oral mucositis rather than transfers. Options are comparable foods and no key ambiguity identified.",
+      "issues": [
+        "Soft cool nonacidic food is appropriate for safe swallowing with painful mucositis, but reference must support oral mucositis rather than transfers. Options are comparable foods and no key ambiguity identified."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Hot tomato soup with crackers",
+            "Salted chips with a fizzy drink",
+            "Smooth cool custard without irritating additions",
+            "Crisp toast with citrus marmalade"
+          ],
+          "why": [
+            "Heat, acidity, and rough pieces may increase discomfort.",
+            "Sharp texture and carbonation can irritate sore tissue.",
+            "A soft nonacidic texture reduces mucosal irritation.",
+            "Rough texture and acidity may aggravate lesions."
+          ]
+        },
+        "Replace or supplement c-mobility (transferring/ambulation chapter) with appropriate topic-specific primary guidance and an accurate access note before recheck."
+      ],
+      "reviewedItemSha256": "ee4d86b280df038bd05de2b8cf8d8b71887e4f707262fd3dcc925fb4d3d52dcc"
+    },
+    {
+      "id": "x-basic-187",
+      "status": "revise",
+      "assessment": "SATA keys are cued by only-options and source is not adequate for swallowing. Use parallel functional assessments with direct individualization focus.",
+      "issues": [
+        "SATA keys are cued by only-options and source is not adequate for swallowing. Use parallel functional assessments with direct individualization focus."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "The usual total duration of the unit meal service",
+            "Trunk support and utensil control",
+            "Swallowing safety and endurance",
+            "The number of staff assigned to the dining area"
+          ],
+          "why": [
+            "A service schedule does not assess the client’s motor, swallowing or endurance needs.",
+            "Postural and motor findings identify practical adaptations.",
+            "These determine safe pace and the level of support.",
+            "Staffing affects delivery but does not establish the individual level of feeding assistance."
+          ],
+          "stem": "A client with involuntary movements spills food and tires during meals. Which assessments most directly determine safe individualized feeding assistance? Select all that apply."
+        },
+        "Replace or supplement c-mobility (transferring/ambulation chapter) with appropriate topic-specific primary guidance and an accurate access note before recheck."
+      ],
+      "reviewedItemSha256": "d6b6afe826ac15c61ac86fbfbd64a10cfd267437b7f27d01f729921734c4cffb"
+    },
+    {
+      "id": "x-basic-188",
+      "status": "revise",
+      "assessment": "Contrast/lighting addresses observed low-vision barrier; more pale food is weak, and transfer source is not low-vision feeding support.",
+      "issues": [
+        "Contrast/lighting addresses observed low-vision barrier; more pale food is weak, and transfer source is not low-vision feeding support."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Use a contrasting plate with adequate lighting",
+            "Use a larger white plate while keeping the same lighting",
+            "Move the plate repeatedly during eating",
+            "Provide verbal food names without adjusting visibility"
+          ],
+          "why": [
+            "Contrast improves visual distinction when acuity remains limited.",
+            "Size alone does not fix poor food-to-plate contrast.",
+            "Movement can make localization less predictable.",
+            "Naming helps but leaves the demonstrated contrast barrier unchanged."
+          ]
+        },
+        "Replace or supplement c-mobility (transferring/ambulation chapter) with appropriate topic-specific primary guidance and an accurate access note before recheck."
+      ],
+      "reviewedItemSha256": "5a7fdb527d02db961349f669434008b5ecd9cf177f912d50ea5b11101569e8d0"
+    },
+    {
+      "id": "x-basic-189",
+      "status": "revise",
+      "assessment": "Emptying/clothing planning supports social participation. All-day fasting is excessive; use an incomplete output-management strategy and an ostomy source.",
+      "issues": [
+        "Emptying/clothing planning supports social participation. All-day fasting is excessive; use an incomplete output-management strategy and an ostomy source."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Skip the meal before the outing to keep the pouch empty",
+            "Advise a very tight belt over the stoma",
+            "Suggest changing the whole appliance after every small output",
+            "Plan pouch emptying and comfortable clothing before leaving"
+          ],
+          "why": [
+            "Skipping food does not reliably eliminate output and may unnecessarily restrict nutrition and participation.",
+            "Compression may cause discomfort and interfere with the appliance.",
+            "Unnecessary changes can irritate skin and increase burden.",
+            "Preparation can reduce bulk while supporting participation."
+          ]
+        },
+        "Replace or supplement c-mobility (transferring/ambulation chapter) with appropriate topic-specific primary guidance and an accurate access note before recheck."
+      ],
+      "reviewedItemSha256": "daff2f0c1965b0e8b97e0e720d4751d6ded38ae1ba40ec2960b31f0da62f4914"
+    },
+    {
+      "id": "x-basic-190",
+      "status": "pass",
+      "assessment": "Large surface-height difference is a specific unsafe setup for a trained lateral board transfer. Correct assistance, taught hand placement and close positioning support the individualized method.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "40af866d095570b803d43d9aa9a4fce9b1162f5cf7de04cca25cea0db38db241"
+    },
+    {
+      "id": "x-basic-191",
+      "status": "revise",
+      "assessment": "Current performance supports graded progression, but newer-aid ownership is irrelevant filler.",
+      "issues": [
+        "Current performance supports graded progression, but newer-aid ownership is irrelevant filler."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "The client completed seated exercises yesterday",
+            "Maintained balance and tolerable symptoms during practice",
+            "The walking aid has been adjusted to the prescribed height",
+            "The planned discharge date is closer"
+          ],
+          "why": [
+            "Seated exercise does not directly establish current standing ability.",
+            "Observed safe performance supports a graded next step.",
+            "Correct equipment setup is necessary but does not alone show current balance or symptom tolerance.",
+            "A schedule cannot replace functional evidence."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "4c5c01fb59a48fb49a498cae4123adb04331af3eec8d9787e1ab25f4968ca949"
+    },
+    {
+      "id": "x-basic-192",
+      "status": "revise",
+      "assessment": "Lever reduces painful grip/twist demand; moisturizer-before-grip is filler. Use a practical but poorly targeted equipment substitution.",
+      "issues": [
+        "Lever reduces painful grip/twist demand; moisturizer-before-grip is filler. Use a practical but poorly targeted equipment substitution."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Use a suitable lever attachment",
+            "Practise tighter gripping until the tap turns",
+            "Ask the client to wash less often",
+            "Replace the small tap with another round tap of the same diameter"
+          ],
+          "why": [
+            "A lever reduces the need for forceful small-joint gripping.",
+            "Greater force may aggravate painful joints.",
+            "Reducing hygiene does not solve the equipment barrier.",
+            "A similar round grip may retain the painful twisting demand; a suitable lever changes the task."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "102b4ffdf9a0130ee7ce823da0d53202e3c89f701cee540c9bf1622b5e533e44"
+    },
+    {
+      "id": "x-basic-193",
+      "status": "revise",
+      "assessment": "Reviewing skin care/removal schedule is appropriate; permanent stopping is an excessive alternative.",
+      "issues": [
+        "Reviewing skin care/removal schedule is appropriate; permanent stopping is an excessive alternative."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Keep the splint on longer to improve adaptation",
+            "Apply powder beneath it without checking compatibility",
+            "Shorten daily wear independently before discussing the prescribed schedule",
+            "Skin care and the prescribed removal schedule"
+          ],
+          "why": [
+            "More uninterrupted wear may worsen moisture irritation.",
+            "Products can affect skin or device fit and require appropriate guidance.",
+            "Changing therapeutic wear time should be coordinated while skin irritation and safe care are reviewed.",
+            "Moisture control and planned inspection can improve tolerance."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "75f563008062dbf78518d285374cd686feda93bd480bf3f1ac95c2e359f4530f"
+    },
+    {
+      "id": "x-basic-194",
+      "status": "pass",
+      "assessment": "The task distinguishes entry access from retained washing ability; bathing-equipment/entry assessment directly targets the barrier. Complete indefinite substitution is unnecessary if safe adaptation is feasible.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a51f19d7ef7ce0e279d6b2b1a3c91ca804cf45073bed077e3bee90750e2c15a3"
+    },
+    {
+      "id": "x-basic-195",
+      "status": "pass",
+      "assessment": "Symptom improvement with intact tissue tolerance is the relevant outcome, rather than maximum height or unchanged equipment. Supplied established elevation plan avoids inventing a vascular indication.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ff47a00f55eaa8fd0475f812bbc9a9f1c1796e19b8e71f225aa099500a7a976d"
+    },
+    {
+      "id": "x-basic-196",
+      "status": "revise",
+      "assessment": "300mL arithmetic is correct but all amounts are simply served/consumed with no reconciliation and source is transfers. Improve practical usefulness by subtracting a measured remainder.",
+      "issues": [
+        "300mL arithmetic is correct but all amounts are simply served/consumed with no reconciliation and source is transfers. Improve practical usefulness by subtracting a measured remainder."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "270mL",
+            "300mL",
+            "240mL",
+            "210mL"
+          ],
+          "why": [
+            "Actual intake is (150−30)+90+60=270mL.",
+            "300mL is the amount served, before subtracting the tea left.",
+            "240mL omits the water rather than subtracting the measured tea remainder.",
+            "210mL subtracts the milk rather than the measured remainder."
+          ],
+          "stem": "A client is served 150mL tea, 90mL milk and 60mL water. They leave 30mL of tea and finish the milk and water. What oral fluid intake should be recorded? Use mL.",
+          "answer": [
+            0
+          ],
+          "takeaway": "Record the amount actually consumed, accounting for measured leftovers."
+        },
+        "Replace or supplement c-mobility (transferring/ambulation chapter) with appropriate topic-specific primary guidance and an accurate access note before recheck."
+      ],
+      "reviewedItemSha256": "9b4f00ab3c68818e9be4b235eb3b487316caaada741764bc477c1237d09a52cb"
+    },
+    {
+      "id": "x-basic-197",
+      "status": "revise",
+      "assessment": "200kcal/100mL ×150mL=300kcal is a useful proportional-intake calculation with plausible errors. Replace unrelated transfer reference with nutrition/intake source.",
+      "issues": [
+        "200kcal/100mL ×150mL=300kcal is a useful proportional-intake calculation with plausible errors. Replace unrelated transfer reference with nutrition/intake source."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "200 kcal",
+            "150 kcal",
+            "400 kcal",
+            "300 kcal"
+          ],
+          "why": [
+            "This assumes only the labelled 100 mL portion was consumed.",
+            "This incorrectly equates millilitres with kilocalories.",
+            "This counts 200 mL rather than the measured 150 mL.",
+            "Two kcal per mL multiplied by 150 mL equals 300 kcal."
+          ]
+        },
+        "Replace or supplement c-mobility (transferring/ambulation chapter) with appropriate topic-specific primary guidance and an accurate access note before recheck."
+      ],
+      "reviewedItemSha256": "3e2ebf62ce2ef19eba341f4d58af7607a296e48e235e56c77d25c7f58cd038a7"
+    },
+    {
+      "id": "x-basic-198",
+      "status": "revise",
+      "assessment": "Agreed discreet request/support addresses reluctance, but family-every-request is an overbroad autonomy error; transfer reference is unrelated.",
+      "issues": [
+        "Agreed discreet request/support addresses reluctance, but family-every-request is an overbroad autonomy error; transfer reference is unrelated."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Offer more absorbent products without discussing the concern",
+            "Ask family to remind staff at each visit instead of agreeing a direct request method",
+            "Agree on a discreet request method and expected support",
+            "Tell the client to wait until routine rounds"
+          ],
+          "why": [
+            "Containment alone does not address reluctance to request help.",
+            "Intermittent reminders do not provide a reliable immediate way for the client to obtain assistance.",
+            "A concrete plan addresses the barrier to seeking assistance.",
+            "Waiting may increase leakage and distress."
+          ]
+        },
+        "Replace or supplement c-mobility (transferring/ambulation chapter) with appropriate topic-specific primary guidance and an accurate access note before recheck."
+      ],
+      "reviewedItemSha256": "379524f869da5d17ff6201a60aaec78191bcd544f47538c30b1c7dea194d4bf0"
+    },
+    {
+      "id": "x-basic-199",
+      "status": "revise",
+      "assessment": "Reassess/negotiate timing fits fatigue after therapy; cancel-therapy-tomorrow is an excessive response.",
+      "issues": [
+        "Reassess/negotiate timing fits fatigue after therapy; cancel-therapy-tomorrow is an excessive response."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Complete both activities consecutively to free the afternoon",
+            "Reassess tolerance and negotiate a later time",
+            "Keep the original time because supplies are ready",
+            "Shorten tomorrow’s therapy before reassessing today’s task sequence"
+          ],
+          "why": [
+            "Additional exertion may exceed the client's present endurance.",
+            "Planned rest can support participation in both activities.",
+            "Preparation does not establish current activity tolerance.",
+            "One tired interval should prompt current pacing review rather than unilateral reduction of rehabilitation."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "d37b657935071c591ed84cb4a10d5a080eb4f100a9a9eb622d8d34ede87de87a"
+    },
+    {
+      "id": "x-basic-200",
+      "status": "revise",
+      "assessment": "Simplification and teach-back fit the stated usability barrier, but memorandum/rarely-present-relative are easy negatives and transfer source is unrelated.",
+      "issues": [
+        "Simplification and teach-back fit the stated usability barrier, but memorandum/rarely-present-relative are easy negatives and transfer source is unrelated."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Simplify it around agreed actions and reassess teach-back",
+            "Add more background information to every step",
+            "Ask the client to highlight the current document and keep the full sequence",
+            "Give the same document to a relative without checking who is available during symptoms"
+          ],
+          "why": [
+            "Usable instructions improve the chance of effective self-care.",
+            "Extra detail may worsen the stated usability problem.",
+            "Highlighting may help some readers but does not necessarily resolve the reported complexity; agree usable actions and check understanding.",
+            "A support person can help, but availability and understanding must be assessed alongside a usable client plan."
+          ]
+        },
+        "Replace or supplement c-mobility (transferring/ambulation chapter) with appropriate topic-specific primary guidance and an accurate access note before recheck."
+      ],
+      "reviewedItemSha256": "d5fd7e014328f6618f0379cd5e56200bfdc260d0d47deb33c8dce0a77e7fbe47"
+    }
+  ],
+  "referenceFinding": "c-mobility is a transferring/ambulation chapter. It supports general functional assistance but cannot substantiate unrelated reflux, mucositis, taste, ostomy, intake or communication claims. Individualized supplied therapy plans limit unsupported generalization for the passed mobility applications.",
+  "reviewerTask": "/root/review_legacy"
+}

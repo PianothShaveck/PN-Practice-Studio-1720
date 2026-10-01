@@ -1,0 +1,68 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:54:30.071267+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/risk-151-175.json",
+  "sourceSha256": "f145396acbc85300626c511bab9f63317c0ec89179f81f04b3c310fc3523c0f3",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 1,
+    "reviewedIds": [
+      "x-risk-163"
+    ],
+    "unreviewedIds": [
+      "x-risk-151",
+      "x-risk-152",
+      "x-risk-153",
+      "x-risk-154",
+      "x-risk-155",
+      "x-risk-156",
+      "x-risk-157",
+      "x-risk-158",
+      "x-risk-159",
+      "x-risk-160",
+      "x-risk-161",
+      "x-risk-162",
+      "x-risk-164",
+      "x-risk-165",
+      "x-risk-166",
+      "x-risk-167",
+      "x-risk-168",
+      "x-risk-169",
+      "x-risk-170",
+      "x-risk-171",
+      "x-risk-172",
+      "x-risk-173",
+      "x-risk-174",
+      "x-risk-175"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.nhs.uk/pregnancy/common-symptoms/vomiting-and-morning-sickness/",
+      "checked": true,
+      "ids": [
+        "x-risk-163"
+      ],
+      "note": "Opened complete page in this review; low urine and standing weakness/dizziness/faintness during vomiting support the warning-sign content. No numeric diagnostic threshold is imported."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-risk-163",
+      "status": "pass",
+      "assessment": "Reread current full item after source correction. Both selected findings directly show volume/circulatory concern during vomiting; food/meal triggers do not. The new focused NHS reference was independently opened and explicitly describes low urine and postural faintness/weakness. No clinical text or key changed.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e3110d70a18270277eccb57b2c2add9dc051adaa45c97b83e26ec6944a6e2970"
+    }
+  ],
+  "reviewerTask": "/root/review_legacy"
+}

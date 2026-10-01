@@ -1,0 +1,160 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:14:53.304544+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/basic-026-050.json",
+  "sourceSha256": "ba17c2eccd258d2e466a66205fe0ce889e7def21084248756be4c282b2e6a43b",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 9,
+    "reviewedIds": [
+      "x-basic-026",
+      "x-basic-029",
+      "x-basic-033",
+      "x-basic-035",
+      "x-basic-036",
+      "x-basic-039",
+      "x-basic-043",
+      "x-basic-046",
+      "x-basic-050"
+    ],
+    "unreviewedIds": [
+      "x-basic-027",
+      "x-basic-028",
+      "x-basic-030",
+      "x-basic-031",
+      "x-basic-032",
+      "x-basic-034",
+      "x-basic-037",
+      "x-basic-038",
+      "x-basic-040",
+      "x-basic-041",
+      "x-basic-042",
+      "x-basic-044",
+      "x-basic-045",
+      "x-basic-047",
+      "x-basic-048",
+      "x-basic-049"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-basic-026",
+      "status": "pass",
+      "assessment": "Protected low working surface reduces drop impact; hot water and excess height are meaningful handling errors. Key is concise and a unique best answer.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0e56682f552eef96d44176ef8bb4c1fa024c2a9424e9487b3b968a2213329d24"
+    },
+    {
+      "id": "x-basic-029",
+      "status": "revise",
+      "assessment": "Clinical advice is reasonable, but the stem supplies the exact correct method and the key repeats it. Test adaptation to observed trauma with comparable oral-care alternatives.",
+      "issues": [
+        "Clinical advice is reasonable, but the stem supplies the exact correct method and the key repeats it. Test adaptation to observed trauma with comparable oral-care alternatives."
+      ],
+      "proposedChanges": [
+        {
+          "stem": "A client has fragile gums and reports bleeding after brushing with a firm toothbrush. There is no active bleeding now. Which change should the nurse recommend while reviewing the individualized oral-care plan?",
+          "options": [
+            "Keep the firm brush and reduce brushing to once daily",
+            "Introduce flossing before each brushing session",
+            "Replace toothbrushing with an alcohol mouth rinse",
+            "Use a soft toothbrush with gentle pressure"
+          ],
+          "why": [
+            "Less frequent cleaning does not address trauma from firm bristles.",
+            "New flossing may add trauma; it should be considered within the individualized plan.",
+            "Rinsing alone does not adequately remove plaque, and alcohol may irritate the tissues.",
+            "Gentler mechanical cleaning addresses the observed source of trauma while preserving oral hygiene."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "dde192770fcc1cc7cf30aa872d2bf684fc8033b29105881a50d286f12b55e714"
+    },
+    {
+      "id": "x-basic-033",
+      "status": "pass",
+      "assessment": "Impaired sensation makes comfort-based testing unsafe; an intact-sensation area or thermometer is a distinct safer method. Two sensory-testing distractors share a misconception, limiting difficulty but not creating ambiguity.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d7ae9444237c1030fc6220b1d3a7a2aae35cb4dc148ce4b64b69ea28efa672f1"
+    },
+    {
+      "id": "x-basic-035",
+      "status": "pass",
+      "assessment": "Restoring foreskin position after retraction prevents constriction. Timing and additional-cleansing alternatives are plausible care-sequence errors; no competing key found.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c43502cad17fa8677297f3c74d47d66945115312ce3d7b428bbcd5134730ea8c"
+    },
+    {
+      "id": "x-basic-036",
+      "status": "pass",
+      "assessment": "Gentle cleaning with fresh surfaces limits tissue damage and contamination. Reusing pads and premature/forceful removal are relevant procedural errors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d361ace689ad21a863341e218604d28af0e97e1cccc2fb1c98e908b1af9eca25"
+    },
+    {
+      "id": "x-basic-039",
+      "status": "revise",
+      "assessment": "The stem names an available suitable electric razor, then asks which device to use. Remove the supplied answer and offer comparable shaving methods.",
+      "issues": [
+        "The stem names an available suitable electric razor, then asks which device to use. Remove the supplied answer and offer comparable shaving methods."
+      ],
+      "proposedChanges": [
+        {
+          "stem": "A client taking warfarin has fragile facial skin and wants help shaving. There is no active bleeding or skin lesion. Which method best reduces the risk of cuts?",
+          "options": [
+            "Apply extra shaving cream and use a blade razor",
+            "Use an electric razor with gentle pressure",
+            "Use a new blade razor against the direction of growth",
+            "Use a blade razor with short repeated strokes"
+          ],
+          "why": [
+            "Cream may reduce friction but does not remove blade-cut risk in fragile skin.",
+            "An electric razor can reduce cuts compared with a blade razor; gentle pressure protects fragile skin.",
+            "A new blade does not remove cutting risk, and shaving against growth may add irritation.",
+            "Repeated blade strokes may increase skin trauma."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "bdead299d9a8f7ea16d7593494843d3fe1b6f985d6fe1cade1eabd58c1f29756"
+    },
+    {
+      "id": "x-basic-043",
+      "status": "pass",
+      "assessment": "Explanation and limited exposure preserve dignity. The wrong actions now represent loss of participation and avoidable exposure; SATA keys are supportable.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ae93ccbcb621613515a58ef1d5d65c474972cdfcfef1614456a8053488eb7b84"
+    },
+    {
+      "id": "x-basic-046",
+      "status": "pass",
+      "assessment": "Painful white patches and intake-limiting ulcer warrant follow-up; intact comfortable mucosa are reassuring comparators. This is a foundation-level finding-recognition item.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b02b72a86f173bedfbe2a92878ba413b7178201690e110f0b11de192ab909604"
+    },
+    {
+      "id": "x-basic-050",
+      "status": "pass",
+      "assessment": "Comfortable completion directly demonstrates useful adaptation; isolated grip, painful completion and staff speed do not achieve the client outcome.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "45d6ff93b8e7965d2847f0cd68fdcfc52002b7ba01fc570ffe28f629efed9d9d"
+    }
+  ],
+  "reviewScope": "Re-read all nine revised items only, including distractor and key cue assessment. No automatic patch-to-pass conversion.",
+  "reviewerTask": "/root/review_legacy"
+}

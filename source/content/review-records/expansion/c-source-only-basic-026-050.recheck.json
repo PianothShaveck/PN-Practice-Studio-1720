@@ -1,0 +1,183 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:43:52.862248+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/basic-026-050.json",
+  "sourceSha256": "601e168f5544db68270dabf60ab3494dcd6f23e0d1335d6c269e0ea50e75f41e",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 8,
+    "reviewedIds": [
+      "x-basic-026",
+      "x-basic-027",
+      "x-basic-028",
+      "x-basic-029",
+      "x-basic-030",
+      "x-basic-031",
+      "x-basic-046",
+      "x-basic-050"
+    ],
+    "unreviewedIds": [
+      "x-basic-032",
+      "x-basic-033",
+      "x-basic-034",
+      "x-basic-035",
+      "x-basic-036",
+      "x-basic-037",
+      "x-basic-038",
+      "x-basic-039",
+      "x-basic-040",
+      "x-basic-041",
+      "x-basic-042",
+      "x-basic-043",
+      "x-basic-044",
+      "x-basic-045",
+      "x-basic-047",
+      "x-basic-048",
+      "x-basic-049"
+    ]
+  },
+  "method": "Each listed stem/topic and new reference mapping was manually examined. Replacing current refs with the recorded oldRefs reproduces a prior independently approved full-item hash; this proves all other fields are unchanged. The present pass approves the manually assessed reference relevance while carrying forward that exact unchanged-content review. It is not a new full clinical review or an automated pass based solely on hash equality.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-basic-026",
+      "status": "pass",
+      "assessment": "Oral-care chapter is directly relevant to denture handling and protected cleaning surfaces. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "49528ecc032c2db59ecd335336361599d9a26aa3e0be8a2fc8aeed75f9edafba"
+    },
+    {
+      "id": "x-basic-027",
+      "status": "pass",
+      "assessment": "Oral-care chapter fits assessment of denture-related pain and mucosal fit concerns. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1533954e7f91cb6820c157b5de1ed2142fe795c2e7d5527b42978d7e2786bb73"
+    },
+    {
+      "id": "x-basic-028",
+      "status": "pass",
+      "assessment": "Oral hygiene is the appropriate topic for assisted natural-tooth cleaning. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "57ee29926518a36258c1e16f53e9e26a9a398cceeffed0d851393c9fe210c52e"
+    },
+    {
+      "id": "x-basic-029",
+      "status": "pass",
+      "assessment": "Oral hygiene fits gentle mechanical cleaning of fragile gums; unchanged individualized-plan limitation remains. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "da16ad261f255663d1f3ecc1cd89ebde8699a6f3a7f9821fa1e369be83853f82"
+    },
+    {
+      "id": "x-basic-030",
+      "status": "pass",
+      "assessment": "Denture care/storage belongs in oral hygiene rather than undifferentiated body hygiene. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6ac77b8123b48c12f5e4dd3c4432438a40dc7a459f3f109394f79cc6c57fbc21"
+    },
+    {
+      "id": "x-basic-031",
+      "status": "pass",
+      "assessment": "Oral-care support is relevant to dry-lip comfort; the stem excludes oxygen-device compatibility issues. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fd3aaf04b244b0e81858e7b61a53f47cca1d9a3aee440546247aaba10743ed32"
+    },
+    {
+      "id": "x-basic-046",
+      "status": "pass",
+      "assessment": "Oral-care chapter is relevant to painful lesions and intake-affecting oral assessment. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7cd35bd86b2b155bd1027c3f6dfcc867dc848ed08cd09715a4022a8fffacdbb2"
+    },
+    {
+      "id": "x-basic-050",
+      "status": "pass",
+      "assessment": "Oral-care plus functional-assistance references fit comfortable adapted toothbrushing. Only refs changed relative to the prior approved item; this is a limited reference-relevance reconciliation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2b8431a0694cf6df7941c573cfa662e967d6343abe57bc1b5c7bca5eb0c97191"
+    }
+  ],
+  "referenceProofs": {
+    "x-basic-026": {
+      "priorPassReport": "c-basic-026-050.changed-recheck.json",
+      "priorPassHash": "0e56682f552eef96d44176ef8bb4c1fa024c2a9424e9487b3b968a2213329d24",
+      "newRefs": [
+        "c-oral"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-027": {
+      "priorPassReport": "c-basic-026-050.legacy-review.json",
+      "priorPassHash": "1e9277d2214987e5b02f4af05122fd7568f7132fb5780e9695c98a6365278f49",
+      "newRefs": [
+        "c-oral"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-028": {
+      "priorPassReport": "c-basic-026-050.legacy-review.json",
+      "priorPassHash": "3a0a614543aa68ce6897c47f6d02358a501fe7004f9606c8a9f26f004eb30445",
+      "newRefs": [
+        "c-oral"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-029": {
+      "priorPassReport": "c-basic-029-039.final-recheck.json",
+      "priorPassHash": "8ca568ced85d93a3b8e712ce5814adf4d4a92cb8e54303890df6ad9de7549c9f",
+      "newRefs": [
+        "c-oral"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-030": {
+      "priorPassReport": "c-basic-026-050.legacy-review.json",
+      "priorPassHash": "dc768a2e2f6997521e1c7b5b0f341f49d652cd71dac1c992472426b119e6bb2b",
+      "newRefs": [
+        "c-oral"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-031": {
+      "priorPassReport": "c-basic-026-050.legacy-review.json",
+      "priorPassHash": "7031b16ca529d02d1fce442206065e541329c7fb3c9bc25482ef3b69b739159f",
+      "newRefs": [
+        "c-oral"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-046": {
+      "priorPassReport": "c-basic-026-050.changed-recheck.json",
+      "priorPassHash": "b02b72a86f173bedfbe2a92878ba413b7178201690e110f0b11de192ab909604",
+      "newRefs": [
+        "c-oral"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    },
+    "x-basic-050": {
+      "priorPassReport": "c-basic-026-050.changed-recheck.json",
+      "priorPassHash": "45d6ff93b8e7965d2847f0cd68fdcfc52002b7ba01fc570ffe28f629efed9d9d",
+      "newRefs": [
+        "c-oral",
+        "c-mobility"
+      ],
+      "onlyRefsChangedProvedByReconstructingPriorApprovedHash": true
+    }
+  },
+  "sourceCheckLimit": "New source names, registered scopes and mapped item topics were inspected. Complete source texts were not independently retrieved for every mapping; no full-source or clinician validation is claimed.",
+  "reviewerTask": "/root/review_legacy"
+}

@@ -1,0 +1,543 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T18:14:51.014906+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/cross-b-psychosocial-all.json",
+  "sourceSha256": "fa2be5061cbaf86ead0e0a6b4411bad15e0bef679829126b644cd50009a7bee6",
+  "coverage": {
+    "sourceItems": 200,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-psychosocial-051",
+      "x-psychosocial-052",
+      "x-psychosocial-053",
+      "x-psychosocial-054",
+      "x-psychosocial-055",
+      "x-psychosocial-056",
+      "x-psychosocial-057",
+      "x-psychosocial-058",
+      "x-psychosocial-059",
+      "x-psychosocial-060",
+      "x-psychosocial-061",
+      "x-psychosocial-062",
+      "x-psychosocial-063",
+      "x-psychosocial-064",
+      "x-psychosocial-065",
+      "x-psychosocial-066",
+      "x-psychosocial-067",
+      "x-psychosocial-068",
+      "x-psychosocial-069",
+      "x-psychosocial-070",
+      "x-psychosocial-071",
+      "x-psychosocial-072",
+      "x-psychosocial-073",
+      "x-psychosocial-074",
+      "x-psychosocial-075"
+    ],
+    "unreviewedIds": [
+      "x-psychosocial-001",
+      "x-psychosocial-002",
+      "x-psychosocial-003",
+      "x-psychosocial-004",
+      "x-psychosocial-005",
+      "x-psychosocial-006",
+      "x-psychosocial-007",
+      "x-psychosocial-008",
+      "x-psychosocial-009",
+      "x-psychosocial-010",
+      "x-psychosocial-011",
+      "x-psychosocial-012",
+      "x-psychosocial-013",
+      "x-psychosocial-014",
+      "x-psychosocial-015",
+      "x-psychosocial-016",
+      "x-psychosocial-017",
+      "x-psychosocial-018",
+      "x-psychosocial-019",
+      "x-psychosocial-020",
+      "x-psychosocial-021",
+      "x-psychosocial-022",
+      "x-psychosocial-023",
+      "x-psychosocial-024",
+      "x-psychosocial-025",
+      "x-psychosocial-026",
+      "x-psychosocial-027",
+      "x-psychosocial-028",
+      "x-psychosocial-029",
+      "x-psychosocial-030",
+      "x-psychosocial-031",
+      "x-psychosocial-032",
+      "x-psychosocial-033",
+      "x-psychosocial-034",
+      "x-psychosocial-035",
+      "x-psychosocial-036",
+      "x-psychosocial-037",
+      "x-psychosocial-038",
+      "x-psychosocial-039",
+      "x-psychosocial-040",
+      "x-psychosocial-041",
+      "x-psychosocial-042",
+      "x-psychosocial-043",
+      "x-psychosocial-044",
+      "x-psychosocial-045",
+      "x-psychosocial-046",
+      "x-psychosocial-047",
+      "x-psychosocial-048",
+      "x-psychosocial-049",
+      "x-psychosocial-050",
+      "x-psychosocial-076",
+      "x-psychosocial-077",
+      "x-psychosocial-078",
+      "x-psychosocial-079",
+      "x-psychosocial-080",
+      "x-psychosocial-081",
+      "x-psychosocial-082",
+      "x-psychosocial-083",
+      "x-psychosocial-084",
+      "x-psychosocial-085",
+      "x-psychosocial-086",
+      "x-psychosocial-087",
+      "x-psychosocial-088",
+      "x-psychosocial-089",
+      "x-psychosocial-090",
+      "x-psychosocial-091",
+      "x-psychosocial-092",
+      "x-psychosocial-093",
+      "x-psychosocial-094",
+      "x-psychosocial-095",
+      "x-psychosocial-096",
+      "x-psychosocial-097",
+      "x-psychosocial-098",
+      "x-psychosocial-099",
+      "x-psychosocial-100",
+      "x-psychosocial-101",
+      "x-psychosocial-102",
+      "x-psychosocial-103",
+      "x-psychosocial-104",
+      "x-psychosocial-105",
+      "x-psychosocial-106",
+      "x-psychosocial-107",
+      "x-psychosocial-108",
+      "x-psychosocial-109",
+      "x-psychosocial-110",
+      "x-psychosocial-111",
+      "x-psychosocial-112",
+      "x-psychosocial-113",
+      "x-psychosocial-114",
+      "x-psychosocial-115",
+      "x-psychosocial-116",
+      "x-psychosocial-117",
+      "x-psychosocial-118",
+      "x-psychosocial-119",
+      "x-psychosocial-120",
+      "x-psychosocial-121",
+      "x-psychosocial-122",
+      "x-psychosocial-123",
+      "x-psychosocial-124",
+      "x-psychosocial-125",
+      "x-psychosocial-126",
+      "x-psychosocial-127",
+      "x-psychosocial-128",
+      "x-psychosocial-129",
+      "x-psychosocial-130",
+      "x-psychosocial-131",
+      "x-psychosocial-132",
+      "x-psychosocial-133",
+      "x-psychosocial-134",
+      "x-psychosocial-135",
+      "x-psychosocial-136",
+      "x-psychosocial-137",
+      "x-psychosocial-138",
+      "x-psychosocial-139",
+      "x-psychosocial-140",
+      "x-psychosocial-141",
+      "x-psychosocial-142",
+      "x-psychosocial-143",
+      "x-psychosocial-144",
+      "x-psychosocial-145",
+      "x-psychosocial-146",
+      "x-psychosocial-147",
+      "x-psychosocial-148",
+      "x-psychosocial-149",
+      "x-psychosocial-150",
+      "x-psychosocial-151",
+      "x-psychosocial-152",
+      "x-psychosocial-153",
+      "x-psychosocial-154",
+      "x-psychosocial-155",
+      "x-psychosocial-156",
+      "x-psychosocial-157",
+      "x-psychosocial-158",
+      "x-psychosocial-159",
+      "x-psychosocial-160",
+      "x-psychosocial-161",
+      "x-psychosocial-162",
+      "x-psychosocial-163",
+      "x-psychosocial-164",
+      "x-psychosocial-165",
+      "x-psychosocial-166",
+      "x-psychosocial-167",
+      "x-psychosocial-168",
+      "x-psychosocial-169",
+      "x-psychosocial-170",
+      "x-psychosocial-171",
+      "x-psychosocial-172",
+      "x-psychosocial-173",
+      "x-psychosocial-174",
+      "x-psychosocial-175",
+      "x-psychosocial-176",
+      "x-psychosocial-177",
+      "x-psychosocial-178",
+      "x-psychosocial-179",
+      "x-psychosocial-180",
+      "x-psychosocial-181",
+      "x-psychosocial-182",
+      "x-psychosocial-183",
+      "x-psychosocial-184",
+      "x-psychosocial-185",
+      "x-psychosocial-186",
+      "x-psychosocial-187",
+      "x-psychosocial-188",
+      "x-psychosocial-189",
+      "x-psychosocial-190",
+      "x-psychosocial-191",
+      "x-psychosocial-192",
+      "x-psychosocial-193",
+      "x-psychosocial-194",
+      "x-psychosocial-195",
+      "x-psychosocial-196",
+      "x-psychosocial-197",
+      "x-psychosocial-198",
+      "x-psychosocial-199",
+      "x-psychosocial-200"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.nhs.uk/mental-health/conditions/post-partum-psychosis/",
+      "checked": "Primary NHS retrieved text identifies postpartum psychosis as an emergency with parent/baby safety risk; supports058 urgency, not the editorial quality of its choices.",
+      "retrieval": "turn258search1"
+    },
+    {
+      "url": "https://www.camh.ca/en/professionals/treating-conditions-and-disorders/suicide-risk/suicide---managing-suicidality",
+      "checked": "Primary CAMH retrieved text supports means safety, optimizing protective factors and coping; informs065/066/070 revisions.",
+      "retrieval": "turn258search2"
+    },
+    {
+      "url": "https://www.camh.ca/en/professionals/treating-conditions-and-disorders/suicide-risk",
+      "checked": "Primary CAMH retrieved text supports direct suicide inquiry in at-risk clients and monitoring; informs062–075 risk-assessment content.",
+      "retrieval": "turn258search4"
+    }
+  ],
+  "items": [
+    {
+      "id": "x-psychosocial-051",
+      "status": "revise",
+      "assessment": "Sustained anhedonia, sleep/function change and worthlessness are relevant; the generic symptom-recognition task is foundational.",
+      "issues": [
+        "Sustained anhedonia, sleep/function change and worthlessness are relevant; the generic symptom-recognition task is foundational."
+      ],
+      "proposedChanges": [
+        "Change difficulty to foundation, retaining clinical content."
+      ],
+      "reviewedItemSha256": "3b1830039ee0029f7b447be9a0041bac03813f332b6aa9239a76d80b2c3487ef"
+    },
+    {
+      "id": "x-psychosocial-052",
+      "status": "revise",
+      "assessment": "Reducing choice burden is appropriate, but removing breakfast and choosing every future meal are exaggerated, punitive distractors.",
+      "issues": [
+        "Reducing choice burden is appropriate, but removing breakfast and choosing every future meal are exaggerated, punitive distractors."
+      ],
+      "proposedChanges": [
+        "Compare offering two choices with giving a written six-item menu, asking a support person for the usual preference or returning after a short break. Describe cognitive overload rather than hunger or fatigue so the limited-choice intervention is best."
+      ],
+      "reviewedItemSha256": "46ca64a5725f4a50c3154962d28ee3f09694ada47a62077fd9c35bdccd43721c"
+    },
+    {
+      "id": "x-psychosocial-053",
+      "status": "revise",
+      "assessment": "Education about energy and supported participation is correct, but withdrawing all support and promising effort-based recovery are implausible.",
+      "issues": [
+        "Education about energy and supported participation is correct, but withdrawing all support and promising effort-based recovery are implausible."
+      ],
+      "proposedChanges": [
+        "Use respectful comparable replies: explain reduced initiation and agree one supported activity; suggest taking over tasks; emphasize a fixed daily target; ask the spouse to remind the client of family responsibilities. Explain why blame and over-assistance can both hinder recovery."
+      ],
+      "reviewedItemSha256": "c8a92a628616913d637e3c3f01ed0922fd10c9cdd79b148285af9a3b8ff91384"
+    },
+    {
+      "id": "x-psychosocial-054",
+      "status": "revise",
+      "assessment": "Resuming a task is meaningful, but diagnostic-name memorization is filler, and the rationale assumes sustained function although the option gives no duration.",
+      "issues": [
+        "Resuming a task is meaningful, but diagnostic-name memorization is filler, and the rationale assumes sustained function although the option gives no duration."
+      ],
+      "proposedChanges": [
+        "Supply a client goal and comparable one-week outcomes, such as task completion with less help, increased knowledge, easier decision-making with staff assistance or brief improved mood. Make sustained independent function explicit."
+      ],
+      "reviewedItemSha256": "968dbe6c45a10b305f7c7c7c6d305278727e58eff6cc24347a61f6b45dbaf4bb"
+    },
+    {
+      "id": "x-psychosocial-055",
+      "status": "revise",
+      "assessment": "Screening leads to clinical assessment, but without-clinical-discussion and excluding-all-concern wording advertise wrong answers, and the key alone is comprehensive.",
+      "issues": [
+        "Screening leads to clinical assessment, but without-clinical-discussion and excluding-all-concern wording advertise wrong answers, and the key alone is comprehensive."
+      ],
+      "proposedChanges": [
+        "Use comparable explanations of screening as a symptom estimate needing assessment, a severity measure directing an immediate treatment choice, a diagnosis requiring confirmation by repeat screening, or a result attributable to current stress. Label foundation unless case-specific interpretation is added."
+      ],
+      "reviewedItemSha256": "66d33cf2f303926e5e375198a3c1923a7221f2763b1123c8d38ec989f88e4d20"
+    },
+    {
+      "id": "x-psychosocial-056",
+      "status": "revise",
+      "assessment": "Follow-up access, warning signs and daily supports are appropriate; ending follow-up after one good night is too implausible.",
+      "issues": [
+        "Follow-up access, warning signs and daily supports are appropriate; ending follow-up after one good night is too implausible."
+      ],
+      "proposedChanges": [
+        "Replace with a credible incomplete discharge plan such as asking the client to arrange follow-up when symptoms return. Explain proactive follow-up rather than adding an omission qualifier. Foundation suits a generic checklist, or supply an actual discharge barrier."
+      ],
+      "reviewedItemSha256": "553afccc61ff319c2f16dd69b87355812908caba446671dd3147da9031322595"
+    },
+    {
+      "id": "x-psychosocial-057",
+      "status": "revise",
+      "assessment": "Six-week persistent impairment warrants assessment, but without-further-questions, focus-only and waiting for infant sleep make the answer trivial.",
+      "issues": [
+        "Six-week persistent impairment warrants assessment, but without-further-questions, focus-only and waiting for infant sleep make the answer trivial."
+      ],
+      "proposedChanges": [
+        "Compare concrete timely options such as scheduling a mood/safety assessment, arranging respite and a later review, focusing on sleep supports or providing routine adjustment education. Keep persistence and functional impairment decisive; no rigid assessment-before-emergency-action rule."
+      ],
+      "reviewedItemSha256": "d3674a8463795edbb092ffaabec102a57bc32f2395a86d515c2b4c49da3f7820"
+    },
+    {
+      "id": "x-psychosocial-058",
+      "status": "revise",
+      "assessment": "The postpartum delusion with severe sleep loss supports urgent parent-infant safety and emergency assessment. Next-month counselling, family debate and independent infant care are weak competitors.",
+      "issues": [
+        "The postpartum delusion with severe sleep loss supports urgent parent-infant safety and emergency assessment. Next-month counselling, family debate and independent infant care are weak competitors."
+      ],
+      "proposedChanges": [
+        "Use plausible competing responses: supervised infant care while arranging urgent psychiatric assessment; supported sleep followed by reassessment; same-week outpatient counselling; assessment for postpartum depression through routine screening. Keep the emergency distinction explicit in rationale and use application unless more competing cues are added."
+      ],
+      "reviewedItemSha256": "8f679c200e17a164d8c565221003598e2d7152d0af9abcd9a2a7f766a83f790b"
+    },
+    {
+      "id": "x-psychosocial-059",
+      "status": "revise",
+      "assessment": "Sustained adolescent irritability and decline merit mood/substance/safety assessment, but solely-homework and waiting-for-spontaneous-sadness choices are giveaways.",
+      "issues": [
+        "Sustained adolescent irritability and decline merit mood/substance/safety assessment, but solely-homework and waiting-for-spontaneous-sadness choices are giveaways."
+      ],
+      "proposedChanges": [
+        "Use parallel assessment domains or interview plans. Relevant alternatives include school stress, sleep/substance patterns, parent-only history and a private mood/safety interview; explain what the current cues make necessary without implying other assessment domains are irrelevant."
+      ],
+      "reviewedItemSha256": "14f04cfe950c031cfc30508c564397182a8054e2ca7015f2966a02659e894b78"
+    },
+    {
+      "id": "x-psychosocial-060",
+      "status": "revise",
+      "assessment": "Hopelessness affecting rehabilitation warrants mood and barriers assessment; only-muscle-strength and waiting until recovery are explicit insufficiency cues, while the key bundles every good action.",
+      "issues": [
+        "Hopelessness affecting rehabilitation warrants mood and barriers assessment; only-muscle-strength and waiting until recovery are explicit insufficiency cues, while the key bundles every good action."
+      ],
+      "proposedChanges": [
+        "Give a specific failed rehabilitation goal and compare asking about mood/meaning, changing exercise timing, offering analgesia review or reducing the session demand. Include relevant existing pain/fatigue findings so one next action is defensible."
+      ],
+      "reviewedItemSha256": "d7e88a565e29507da405ed4fa5ed7d2f0424829f2b3717f83f15f8de09150bb9"
+    },
+    {
+      "id": "x-psychosocial-061",
+      "status": "revise",
+      "assessment": "New suicidality/agitation, possible activation and inability to eat warrant prompt review; gradual return to routine is a plausible positive trend. The generic selection task does not support challenge metadata.",
+      "issues": [
+        "New suicidality/agitation, possible activation and inability to eat warrant prompt review; gradual return to routine is a plausible positive trend. The generic selection task does not support challenge metadata."
+      ],
+      "proposedChanges": [
+        "Retain content and use application or foundation; application is reasonable if the treatment-monitoring context is retained."
+      ],
+      "reviewedItemSha256": "1029b4d04b1e7a3e7b858dec7574008afc9ebb16afe3426df7b7e797619805ea"
+    },
+    {
+      "id": "x-psychosocial-062",
+      "status": "revise",
+      "assessment": "Sudden calm after severe suicidal distress plus giving possessions warrants direct reassessment; monetary value is filler and the comprehensive key is easy to guess.",
+      "issues": [
+        "Sudden calm after severe suicidal distress plus giving possessions warrants direct reassessment; monetary value is filler and the comprehensive key is easy to guess."
+      ],
+      "proposedChanges": [
+        "Replace with credible plans such as updating the safety plan for discharge, exploring which possessions were given away, maintaining current precautions with immediate risk reassessment, or encouraging contact with supports. Preserve the need for timely direct assessment before changing protection."
+      ],
+      "reviewedItemSha256": "837aa790431c4ccef70b1ab97ba13a52cec240c55908dc74b114f2670d62615d"
+    },
+    {
+      "id": "x-psychosocial-063",
+      "status": "revise",
+      "assessment": "Collateral farewell messages must be integrated with the denial, but proof-without-assessment and family-discharge-authority options are overt errors.",
+      "issues": [
+        "Collateral farewell messages must be integrated with the denial, but proof-without-assessment and family-discharge-authority options are overt errors."
+      ],
+      "proposedChanges": [
+        "Use specific competing next actions, such as ask directly about the messages/current intent, repeat the screening instrument, ask family to monitor overnight or ask permission to discuss support contacts. Explain why direct discrepancy assessment is required before disposition; use application."
+      ],
+      "reviewedItemSha256": "7f00a7e6c5f55ca80fa3921948d26f592409e30d58a2da0bfa11094da5fc7556"
+    },
+    {
+      "id": "x-psychosocial-064",
+      "status": "revise",
+      "assessment": "A no-harm promise cannot replace safety assessment, but a written guarantee and invalidating the promise by questioning are cartoon alternatives.",
+      "issues": [
+        "A no-harm promise cannot replace safety assessment, but a written guarantee and invalidating the promise by questioning are cartoon alternatives."
+      ],
+      "proposedChanges": [
+        "Compare concrete plans after the promise: continue direct assessment and current precautions, substitute scheduled check-ins, document the signed agreement for discharge, or involve a chosen support person and reassess later. Keep options similar in length and do not imply any promise guarantees safety."
+      ],
+      "reviewedItemSha256": "ec6ec8266ebf4cb48c989eae2a93f77ba1c8260cdf1a5e5288ca1a19b1cf0bc1"
+    },
+    {
+      "id": "x-psychosocial-065",
+      "status": "revise",
+      "assessment": "The pet is a useful protective connection but does not neutralize an active plan. The alternatives announce false absolutes and challenge is overstated.",
+      "issues": [
+        "The pet is a useful protective connection but does not neutralize an active plan. The alternatives announce false absolutes and challenge is overstated."
+      ],
+      "proposedChanges": [
+        "Ask a bounded next action with a specific available pet-care support: assess intent/access now while incorporating pet responsibility into the plan versus defer for pet arrangements or classify risk low. Avoid a broad comprehensive key against all-or-nothing formulations; use application."
+      ],
+      "reviewedItemSha256": "176e96b95d2e3616d1dcba5d35866c8d1b1b5fcb17bbc8079f40e46c0009adb8"
+    },
+    {
+      "id": "x-psychosocial-066",
+      "status": "revise",
+      "assessment": "Warning signs, contacts and means safety belong in a practical plan. A promise that no crisis will recur is implausible and repeats064.",
+      "issues": [
+        "Warning signs, contacts and means safety belong in a practical plan. A promise that no crisis will recur is implausible and repeats064."
+      ],
+      "proposedChanges": [
+        "Use a credible no-harm agreement as the false replacement for an actionable plan component, explaining that an agreement is insufficient as a protective strategy. Label foundation for the generic component checklist."
+      ],
+      "reviewedItemSha256": "35ef8142e6e0c75089583ae735f35280018c80940f67fee8e60802d78b7255cd"
+    },
+    {
+      "id": "x-psychosocial-067",
+      "status": "revise",
+      "assessment": "Rehearsing a message addresses the stated barrier, but without-discussion and numbers-alone-are-sufficient advertise distractors.",
+      "issues": [
+        "Rehearsing a message addresses the stated barrier, but without-discussion and numbers-alone-are-sufficient advertise distractors."
+      ],
+      "proposedChanges": [
+        "Use concrete alternatives such as writing the contacts on a wallet card, adding text-service details, asking a support person to place calls or practising an opening request. The client's known contacts and difficulty initiating speech should determine the key."
+      ],
+      "reviewedItemSha256": "edbe2b7b05f3d5e6a5411b1e18a62bbefc21e515e1a58980021cb30e1b3a879a"
+    },
+    {
+      "id": "x-psychosocial-068",
+      "status": "revise",
+      "assessment": "Limited necessary sharing is correct, but every-staff-member and family-only-authorization options are extreme and the key is uniquely comprehensive.",
+      "issues": [
+        "Limited necessary sharing is correct, but every-staff-member and family-only-authorization options are extreme and the key is uniquely comprehensive."
+      ],
+      "proposedChanges": [
+        "Use realistic explanations about contacting the immediate care team, seeking permission before escalation, starting with a family call or postponing discussion until formal assessment. State imminent risk and Canadian applicable policy context; avoid universal legal claims."
+      ],
+      "reviewedItemSha256": "f22eaf6b6c2d2dbf0655470c84a00a21d6ee134eb7197b11addc068046e30cd8"
+    },
+    {
+      "id": "x-psychosocial-069",
+      "status": "revise",
+      "assessment": "Continuous observation must persist through transfer, but family-substitution-without-review is an omission cue and sending the client ahead is too obviously unsafe.",
+      "issues": [
+        "Continuous observation must persist through transfer, but family-substitution-without-review is an omission cue and sending the client ahead is too obviously unsafe."
+      ],
+      "proposedChanges": [
+        "Make the transition concrete: named trained receiving observer accepts handoff versus transport staff accompany during a paperwork handoff or an observer follows after escort transfer. Compare specific assignment continuity rather than openly abandoning supervision."
+      ],
+      "reviewedItemSha256": "9112f55a95e8140a6a788e13e567fb6585ac7f85491f112de418e46573314182"
+    },
+    {
+      "id": "x-psychosocial-070",
+      "status": "revise",
+      "assessment": "Means assessment informs protection, but grammar-like form completion, catching dishonesty and replacing support are filler, leaving one reasonable option.",
+      "issues": [
+        "Means assessment informs protection, but grammar-like form completion, catching dishonesty and replacing support are filler, leaving one reasonable option."
+      ],
+      "proposedChanges": [
+        "Provide an actual access finding and ask what additional information or practical plan is needed, such as secure medication storage with a willing support person and verified access. This should test applying access information, distinct from generic safety-plan components066."
+      ],
+      "reviewedItemSha256": "4dddf2fd389e52ad23761a0b8fcd1826031b28b06e41e6b30e2d08226249f9d3"
+    },
+    {
+      "id": "x-psychosocial-071",
+      "status": "revise",
+      "assessment": "Unreachable contacts, inaccessible follow-up and an unclear support role undermine a plan; the clinical key is defensible. Challenge is overstated, and the support option states the omission directly.",
+      "issues": [
+        "Unreachable contacts, inaccessible follow-up and an unclear support role undermine a plan; the clinical key is defensible. Challenge is overstated, and the support option states the omission directly."
+      ],
+      "proposedChanges": [
+        "Use application. Describe a concrete support-person mismatch, such as the person believes the role is only appointment transport while the plan depends on evening check-ins, instead of without-knowing wording."
+      ],
+      "reviewedItemSha256": "5a13bcd033adbf25592138a5494c1d9c92f477c86181f99764111ee16f02b58b"
+    },
+    {
+      "id": "x-psychosocial-072",
+      "status": "revise",
+      "assessment": "Self-injury needs physical care and suicide assessment despite stated nonsuicidal intent, but criticism and delaying wounds until counselling are cartoon unsafe.",
+      "issues": [
+        "Self-injury needs physical care and suicide assessment despite stated nonsuicidal intent, but criticism and delaying wounds until counselling are cartoon unsafe."
+      ],
+      "proposedChanges": [
+        "Supply assessed wound severity and a specific competing decision about further risk assessment, coping history, wound education or follow-up. Preserve both physical and suicide assessment while avoiding a key that merely bundles all good care."
+      ],
+      "reviewedItemSha256": "c30a72cbd3834a1f60f8d443a5f0b32cf1d99496dfdbeeea8d9cc0aa56a6cee2"
+    },
+    {
+      "id": "x-psychosocial-073",
+      "status": "revise",
+      "assessment": "Nonjudgmental exploration is correct; recommending another injury method, avoiding discussion and family validation of distress are implausible alternatives.",
+      "issues": [
+        "Nonjudgmental exploration is correct; recommending another injury method, avoiding discussion and family validation of distress are implausible alternatives."
+      ],
+      "proposedChanges": [
+        "Use respectful dialogue comparing reassurance that staff do not judge, asking what preceded the episode, offering coping education or proposing support-person contact. Ask which best explores the client's distress now."
+      ],
+      "reviewedItemSha256": "501b1e3658cbc69ea4529a26a609854297b3b66e7e9b30c6fded6b50e6d65fe7"
+    },
+    {
+      "id": "x-psychosocial-074",
+      "status": "revise",
+      "assessment": "Early rehearsal of noninjurious coping is sound, but suppression-every-feeling, without-preference and waiting-for-another-injury are explicit giveaways.",
+      "issues": [
+        "Early rehearsal of noninjurious coping is sound, but suppression-every-feeling, without-preference and waiting-for-another-injury are explicit giveaways."
+      ],
+      "proposedChanges": [
+        "Supply the client's agreed coping method and compare practising at early tension, using it after wound care, adding a new strategy or seeking reassurance at peak distress. A specific plan makes timing rather than virtue-language determine the answer."
+      ],
+      "reviewedItemSha256": "2a9d7b96226ee4b81bf315e783507979f391d4b2dc631b1f9fac7df75e60f295"
+    },
+    {
+      "id": "x-psychosocial-075",
+      "status": "revise",
+      "assessment": "Unsent farewell drafts warrant direct risk assessment, but checking grammar is unrelated and deleting-before-assessment advertises the wrong step.",
+      "issues": [
+        "Unsent farewell drafts warrant direct risk assessment, but checking grammar is unrelated and deleting-before-assessment advertises the wrong step."
+      ],
+      "proposedChanges": [
+        "Compare concrete information-gathering actions about current intent/access, intended recipients, past writing habits or support contacts. Avoid restating062/063; focus on preparatory communication despite drafts being unsent and use parallel questions."
+      ],
+      "reviewedItemSha256": "0cc7177813c884574bf381382794a2993380f352a00a00f0b5db50206a822b3a"
+    }
+  ],
+  "reviewerTask": "/root/author_pharm_adaptation",
+  "activeSourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/d/questions.json"
+}

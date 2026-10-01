@@ -1,0 +1,373 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewerTask": "/root",
+  "reviewedAt": "2026-10-01T17:29:05.636512+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/risk-151-175.json",
+  "coverage": {
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-risk-151",
+      "x-risk-152",
+      "x-risk-153",
+      "x-risk-154",
+      "x-risk-155",
+      "x-risk-156",
+      "x-risk-157",
+      "x-risk-158",
+      "x-risk-159",
+      "x-risk-160",
+      "x-risk-161",
+      "x-risk-162",
+      "x-risk-163",
+      "x-risk-164",
+      "x-risk-165",
+      "x-risk-166",
+      "x-risk-167",
+      "x-risk-168",
+      "x-risk-169",
+      "x-risk-170",
+      "x-risk-171",
+      "x-risk-172",
+      "x-risk-173",
+      "x-risk-174",
+      "x-risk-175"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Root read every stem, option, key, rationale and takeaway; compared clinical defensibility, plausible alternatives and objective variety. Concrete editorial directions require author revision and recheck.",
+  "limitations": [
+    "AI editorial review, not qualified clinician or psychometric validation.",
+    "Only listed primary-source checks were performed; generic source links are not individual validation."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://cps.ca/en/documents/position/management-of-well-appearing-febrile-young-infants-aged-90-days",
+      "ids": [
+        "x-risk-151"
+      ],
+      "checked": true,
+      "claim": "Young-infant measured fever merits prompt assessment; not a blanket treatment regimen."
+    },
+    {
+      "url": "https://caringforkids.cps.ca/handouts/health-conditions-and-treatments/jaundice_in_newborns",
+      "ids": [
+        "x-risk-154",
+        "x-risk-155",
+        "x-risk-156"
+      ],
+      "checked": true,
+      "claim": "Early jaundice and feeding concerns require assessment; bilirubin interpretation is age/context dependent."
+    },
+    {
+      "url": "https://caringforkids.cps.ca/handouts/health-conditions-and-treatments/dehydration_and_diarrhea",
+      "ids": [
+        "x-risk-152",
+        "x-risk-158"
+      ],
+      "checked": true,
+      "claim": "Decreased urine and drowsiness/poor oral tolerance require reassessment."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-risk-151",
+      "status": "revise",
+      "assessment": "The fever key is sound, but smiling, waiting for rash and tomorrow are giveaway distractors.",
+      "issues": [
+        "The fever key is sound, but smiling, waiting for rash and tomorrow are giveaway distractors."
+      ],
+      "proposedChanges": [
+        "Retain rectal38.2°C at6weeks and reduced feeding. Compete urgent assessment with giving an antipyretic and repeating temperature before deciding, booking the next available office visit, and treating a recent household viral illness as sufficient explanation. Explain why age-specific risk overrides these otherwise familiar fever approaches; do not assert that every febrile infant needs the same treatment."
+      ],
+      "reviewedItemSha256": "b1a5c4184dd132137436fe6ab09604a5254189d2e1fc4ca91fbf02d687ff20d7"
+    },
+    {
+      "id": "x-risk-152",
+      "status": "revise",
+      "assessment": "The question vaguely asks which changes are useful; stool colour and one normal temperature are weak unrelated negatives.",
+      "issues": [
+        "The question vaguely asks which changes are useful; stool colour and one normal temperature are weak unrelated negatives."
+      ],
+      "proposedChanges": [
+        "Use an infant on an established oral-rehydration plan and ask which NEW findings show deterioration. Correct: urine output falls and unusual drowsiness/poor intake. Wrong options should be credible but reassuring trajectory findings such as taking frequent small feeds and tears returning during crying. Add timing/baseline so the answer requires assessing change."
+      ],
+      "reviewedItemSha256": "b5cbded94311b578c89e5dac2a925f622fb597683ae35070bd90be6a91ebbb28"
+    },
+    {
+      "id": "x-risk-153",
+      "status": "revise",
+      "assessment": "Two options announce incompleteness using Only; parent preferred time is irrelevant.",
+      "issues": [
+        "Two options announce incompleteness using Only; parent preferred time is irrelevant."
+      ],
+      "proposedChanges": [
+        "Use three plausible competing assessments: review cumulative24hour intake; inspect usual bottle/nipple technique; review recent weight trajectory. Preserve current work of breathing and suck-swallow-breathe endurance as first assessment because respiratory pauses are limiting feeding. Explain why important background data follow current respiratory assessment."
+      ],
+      "reviewedItemSha256": "3d18eee2fa6330ba3f67d82414286aaaaf4eb69e5957d8bd04daaf36d8d28404"
+    },
+    {
+      "id": "x-risk-154",
+      "status": "revise",
+      "assessment": "Sunlight-only and waiting one week are implausible alternatives.",
+      "issues": [
+        "Sunlight-only and waiting one week are implausible alternatives."
+      ],
+      "proposedChanges": [
+        "At14hours, newborn jaundice is visible although feeding appears established. Options should compete obtaining bilirubin/clinical review under protocol, intensifying feeding support then reassessing colour, reviewing maternal/infant blood group before deciding to obtain a level, and repeating visual assessment at the next routine observations. Key must not require memorizing a treatment threshold without age/gestation/risk."
+      ],
+      "reviewedItemSha256": "46353236ab8839aa821d705ac73a8563965920f8f06708508d16b81b07fd11c4"
+    },
+    {
+      "id": "x-risk-155",
+      "status": "revise",
+      "assessment": "Adult reference range is a cartoon distractor; current key is also longer and more comprehensive.",
+      "issues": [
+        "Adult reference range is a cartoon distractor; current key is also longer and more comprehensive."
+      ],
+      "proposedChanges": [
+        "Bilirubin report lacks collection age. Compare verifying postnatal age/gestational age/risk against interpreting the laboratory high flag, comparing with a previous un-timed result, and relying on current feeding/output to decide phototherapy. Keep options parallel, all focused on actual bilirubin interpretation."
+      ],
+      "reviewedItemSha256": "15e5e168305b05013c6f6f49c775f5b4961f4f7c4e9262042b871a555633951d"
+    },
+    {
+      "id": "x-risk-156",
+      "status": "revise",
+      "assessment": "Generic feeding deterioration substantially repeats152; brief pause and settling are easy negatives.",
+      "issues": [
+        "Generic feeding deterioration substantially repeats152; brief pause and settling are easy negatives."
+      ],
+      "proposedChanges": [
+        "Differentiate this case by neonatal jaundice follow-up: a newborn with an established feeding and bilirubin follow-up plan now has poor arousal and declining urine. Use age and direction of change; compare against credible normal feeding/transition patterns. Explain the significance of inadequate intake in the jaundice context, rather than repeat generic dehydration teaching."
+      ],
+      "reviewedItemSha256": "a0bcf15b7c7eef451e59adb5207747fbbff623885e12a4e8e09b537857df614e"
+    },
+    {
+      "id": "x-risk-157",
+      "status": "revise",
+      "assessment": "Formula replacement, larger feed and waiting for diarrhea barely compete with urgent obstruction assessment.",
+      "issues": [
+        "Formula replacement, larger feed and waiting for diarrhea barely compete with urgent obstruction assessment."
+      ],
+      "proposedChanges": [
+        "Retain bilious vomiting/distension. Compare urgent assessment/holding further feeds under local protocol with an oral-rehydration trial, a reflux-positioning/feed adjustment, and giving an already-prescribed antiemetic before reassessment. Make those realistic responses to other vomiting scenarios; explain why bilious emesis changes this one."
+      ],
+      "reviewedItemSha256": "10ba81fbd246d4ac5dc7971eccd7bb4f5b8f42eb4795172ef0934a33f94d14d2"
+    },
+    {
+      "id": "x-risk-158",
+      "status": "revise",
+      "assessment": "A weight next week and sweeter drink are irrelevant; overnight delay is too obvious.",
+      "issues": [
+        "A weight next week and sweeter drink are irrelevant; overnight delay is too obvious."
+      ],
+      "proposedChanges": [
+        "Compete prompt reassessment of circulation/hydration route with further smaller more frequent oral aliquots, a prescribed antiemetic then restarting oral intake, and resuming an oral replacement schedule when vomiting pauses. Increasing lethargy and failed small sips should make reassessment clearly prior to extending the home plan."
+      ],
+      "reviewedItemSha256": "fc7a8d6bd12395e3c39071b1c4292dbbe9ff768ec82623f602a21eeb2363f6b0"
+    },
+    {
+      "id": "x-risk-159",
+      "status": "revise",
+      "assessment": "Pad brands, all clots and next visit are unacceptable distractors.",
+      "issues": [
+        "Pad brands, all clots and next visit are unacceptable distractors."
+      ],
+      "proposedChanges": [
+        "Use a postpartum client with heavy loss, pallor, pulse124 and BP88/54. Competing actions: quantify/weigh pads before calling, assist to void as initial uterine-tone intervention, collect a hemoglobin sample before escalation, versus activate hemorrhage response with immediate circulatory assessment/support. Explain that useful assessments/treatments must not delay emergency response. Keep key to authorized nursing protocol."
+      ],
+      "reviewedItemSha256": "1706b94f05574b43b1ea81474891451a11780fa74da3b2ce8c38289b18258e37"
+    },
+    {
+      "id": "x-risk-160",
+      "status": "revise",
+      "assessment": "Only caffeine and next week are giveaways.",
+      "issues": [
+        "Only caffeine and next week are giveaways."
+      ],
+      "proposedChanges": [
+        "Specify recently postpartum with previously normal antenatal BP, now severe headache/visual symptoms/upper abdominal pain. Compete urgent maternity/emergency assessment against a home BP series before deciding, analgesia/rest followed by reassessment, and a later same-day primary-care appointment. Explain why normal pregnancy BP does not exclude postpartum hypertensive disease."
+      ],
+      "reviewedItemSha256": "843127ac15f6711284fc0d76830b5724fc3611d711a559f97c4c994eb864a422"
+    },
+    {
+      "id": "x-risk-161",
+      "status": "revise",
+      "assessment": "Concept/key defensible but case is generic; expected findings should be contextualized.",
+      "issues": [
+        "Concept/key defensible but case is generic; expected findings should be contextualized."
+      ],
+      "proposedChanges": [
+        "Place at day4 after caesarean. Correct new fever/increasing uterine tenderness and foul lochia/worsening pelvic pain. Use plausible expected findings such as cramping during breastfeeds that settles afterwards and incision discomfort restricted to coughing/movement with an otherwise improving course. Explain infection versus normal recovery; avoid broad normal/no-fever giveaways."
+      ],
+      "reviewedItemSha256": "9895ddc341cffd51af87ef0791b509df6ef1c50b8cb719d2c8ea7ca091e7dbda"
+    },
+    {
+      "id": "x-risk-162",
+      "status": "revise",
+      "assessment": "Important warning sign but repeats standard contact-now versus next-visit pattern.",
+      "issues": [
+        "Important warning sign but repeats standard contact-now versus next-visit pattern."
+      ],
+      "proposedChanges": [
+        "Specify32weeks, a meaningful reduction today despite a reassuring assessment yesterday. Compare prompt maternity contact with counting after a meal before calling, relying on yesterday’s reassuring check, and checking with a home Doppler. Explain that prior reassurance or audible heartbeat does not establish current wellbeing. Provide a focused primary fetal-movement reference, not only a generic assessment chapter."
+      ],
+      "reviewedItemSha256": "8b25c38ed91f04405868c4e871e0b1fa29899758a70b36a0df62b8decca5e99a"
+    },
+    {
+      "id": "x-risk-163",
+      "status": "revise",
+      "assessment": "Both wrong options are advertised by Only and neither measures physiological compromise.",
+      "issues": [
+        "Both wrong options are advertised by Only and neither measures physiological compromise."
+      ],
+      "proposedChanges": [
+        "Reframe as Which findings most directly show maternal hydration/circulation compromise during persistent vomiting? Correct objective low measured urine and postural tachycardia/dizziness or comparable weight/observation trend. Compete with nausea triggered by food odours and vomiting clustered after large meals: relevant history but not direct evidence of circulatory compromise. Preserve aligned key/rationales and give enough observation context."
+      ],
+      "reviewedItemSha256": "51193da5523c696db0619c0aaa1f37e0bfc8c6737f0b9b251f517da506a9ec36"
+    },
+    {
+      "id": "x-risk-164",
+      "status": "revise",
+      "assessment": "Actions and irrelevant administrative facts are not grammatically or clinically parallel.",
+      "issues": [
+        "Actions and irrelevant administrative facts are not grammatically or clinically parallel."
+      ],
+      "proposedChanges": [
+        "A child on postoperative day3 develops fever38.6°C, guarding and worsening pain after initial improvement. Options should all be nursing actions: prompt surgical review/assessment, prescribed analgesia then observation, assisted ambulation for presumed gas, and a graded oral-fluid trial for presumed bowel recovery. Explain why reversal of recovery needs evaluation before routine symptom or recovery measures."
+      ],
+      "reviewedItemSha256": "17948b1c8787518bb1ac7eb2cb20edf192dc24970108d88db0351a829903254b"
+    },
+    {
+      "id": "x-risk-165",
+      "status": "revise",
+      "assessment": "Embarrassment, second event and without assessment are giveaways.",
+      "issues": [
+        "Embarrassment, second event and without assessment are giveaways."
+      ],
+      "proposedChanges": [
+        "Exertional syncope preceded by chest tightness should compete with treating presumed dehydration and gradual return, checking glucose and changing pre-exercise snack, and arranging a routine sports review. Key: timely urgent evaluation before return to exertion. Avoid asserting a diagnosis. Add a suitable pediatric/exertional-syncope primary reference."
+      ],
+      "reviewedItemSha256": "948a75c52d65486f4f4348d7ab266650abe59f3d0c1da1de90545084de61ab84"
+    },
+    {
+      "id": "x-risk-166",
+      "status": "revise",
+      "assessment": "Quieter television and diagnosing dementia immediately are implausible alternatives.",
+      "issues": [
+        "Quieter television and diagnosing dementia immediately are implausible alternatives."
+      ],
+      "proposedChanges": [
+        "Use acute fluctuating inattention with collateral baseline; compete reviewing sedating medication/timing, checking physiological contributors now, scheduling cognitive screening, and instituting familiar-environment measures alone as the care focus. Best action must integrate prompt delirium/physiological assessment rather than select the only sensible phrase."
+      ],
+      "reviewedItemSha256": "f659a9f9f39c213cb5d06255286d2d605aee8c3d3e6bc61df9fc828a14e35dce"
+    },
+    {
+      "id": "x-risk-167",
+      "status": "revise",
+      "assessment": "Replacement date and Only alternatives do not compete clinically.",
+      "issues": [
+        "Replacement date and Only alternatives do not compete clinically."
+      ],
+      "proposedChanges": [
+        "Mention that a palpable radial pulse remains despite new fingertip numbness under a swollen hand dressing. Ask which assessment is still necessary: distal sensation/movement/perfusion and constriction versus wound drainage, analgesic response, or inflammatory skin changes. Explain why a palpable pulse does not exclude neurovascular compromise; keep every option an assessment set."
+      ],
+      "reviewedItemSha256": "f0cdc309b5f23186c7f183df8a344fa1983fa5dff328f92aa1639401aaafa828"
+    },
+    {
+      "id": "x-risk-168",
+      "status": "revise",
+      "assessment": "Core concept sound but surface area is a process/cue distractor.",
+      "issues": [
+        "Core concept sound but surface area is a process/cue distractor."
+      ],
+      "proposedChanges": [
+        "Use circumferential burn monitoring with serial findings. Correct worsening distal perfusion and new numbness; wrong controlled pain and an expected superficial drainage change should be clinically relevant to burn care. Explain why distal findings outrank changes that do not indicate limb perfusion compromise."
+      ],
+      "reviewedItemSha256": "20523a484a9318617bfcd4de7e759664b03925fdc18e85fefd3499ec73790003"
+    },
+    {
+      "id": "x-risk-169",
+      "status": "revise",
+      "assessment": "Only pain, routine delay and removing padding are weak contrast with a single reasonable statement.",
+      "issues": [
+        "Only pain, routine delay and removing padding are weak contrast with a single reasonable statement."
+      ],
+      "proposedChanges": [
+        "Present four realistic discharge statements about a temporary splint. Key should recognize new numbness/colour change despite some pain relief. Wrong statements should over-rely on finger motion, relief with elevation, or the fact the device is removable as reassurance against a new warning sign. No explicit Only or indefinitely qualifiers."
+      ],
+      "reviewedItemSha256": "49578c9d20e9162bde7c7b21c70afafa9e41b3d7e7f8a095098db17b6811c9c3"
+    },
+    {
+      "id": "x-risk-170",
+      "status": "revise",
+      "assessment": "Correct four-part history is obviously longer than three trivial alternatives.",
+      "issues": [
+        "Correct four-part history is obviously longer than three trivial alternatives."
+      ],
+      "proposedChanges": [
+        "Make four parallel clinically plausible history sets: mechanism/object/depth/tetanus; prior foot problems/footwear/last analgesic; baseline gait/activity/pain trajectory; home wound cleaning/dressing supplies/follow-up availability. Ask which most directly identifies deep contamination/retained-material and tetanus risks. Avoid implying other information is irrelevant to the whole assessment."
+      ],
+      "reviewedItemSha256": "a6189ed71e9e1d74d292ae114ea859e7adb811b9ecca6d30bd2f9cc28ee079b8"
+    },
+    {
+      "id": "x-risk-171",
+      "status": "revise",
+      "assessment": "Wrong choices Only room noise and Only dementia are filler.",
+      "issues": [
+        "Wrong choices Only room noise and Only dementia are filler."
+      ],
+      "proposedChanges": [
+        "Retain restlessness with repeated tiny voids after catheter removal. Ask which findings most directly evaluate suspected retention. Correct bladder scan/distension and measured post-removal voiding pattern. Use credible alternative assessments of recent sedating medicines and sleep pattern that inform delirium generally but do not quantify emptying; explain this distinction without denying their clinical value."
+      ],
+      "reviewedItemSha256": "8a91d21cffe9979823d7eee18b2dd3fcb745581eff8ba2d366620e6cfdeae6d4"
+    },
+    {
+      "id": "x-risk-172",
+      "status": "revise",
+      "assessment": "Cancel monitoring and judge only voice are implausible.",
+      "issues": [
+        "Cancel monitoring and judge only voice are implausible."
+      ],
+      "proposedChanges": [
+        "Use a client on a specified immunosuppressive regimen with a documented fever plan and measured fever. Compete following urgent assessment instructions with arranging routine CBC before contacting the team, taking a prescribed antipyretic and using its effect to decide, and contacting the usual clinic when it opens. State enough timing/severity so urgent action is clear without copying the key verbatim in the stem."
+      ],
+      "reviewedItemSha256": "01869e8d311b877ab76bbce54d5b4b4d1d9f7da2fc6da5e8943a7eeaefe14828"
+    },
+    {
+      "id": "x-risk-173",
+      "status": "revise",
+      "assessment": "Larger meal, pathology wait and first-day reassurance are weak.",
+      "issues": [
+        "Larger meal, pathology wait and first-day reassurance are weak."
+      ],
+      "proposedChanges": [
+        "After polypectomy, specify new repeated rectal blood and weakness after initially normal recovery. Compete urgent assessment with treating presumed hemorrhoidal bleeding using a usual local measure, monitoring measured stool loss at home, and seeking medication advice about an anticoagulant before assessment. Explain delayed bleeding can be important; do not make a diagnosis from the stem alone."
+      ],
+      "reviewedItemSha256": "48e5f032f2f9be35366c14fbdde204b18fd194ac2f77dc20fd208b3f3d528f0c"
+    },
+    {
+      "id": "x-risk-174",
+      "status": "revise",
+      "assessment": "Omit every symptom check, unsupported standing and guessed weight are caricatures.",
+      "issues": [
+        "Omit every symptom check, unsupported standing and guessed weight are caricatures."
+      ],
+      "proposedChanges": [
+        "Client with heart-failure surveillance cannot safely stand on the home scale. Compete arranging an accessible calibrated weighing method/clinical plan with using ankle circumference as a weight substitute, reporting intake/output in place of weights, and having family steady the person on a standard scale. Explain why access and safety require a workable team plan rather than substituting unvalidated measurements."
+      ],
+      "reviewedItemSha256": "0c1048d8475f416af5629b474f8577b062a2d8657583cf924617d397dd56a63f"
+    },
+    {
+      "id": "x-risk-175",
+      "status": "revise",
+      "assessment": "Behaviour-alone, wait for speech and Only pain score are too easy.",
+      "issues": [
+        "Behaviour-alone, wait for speech and Only pain score are too easy."
+      ],
+      "proposedChanges": [
+        "A familiar caregiver reports a nonverbal adult’s new faster breathing and transfer intolerance. Compare immediate respiratory/circulatory assessment with a musculoskeletal transfer review, a behavioural/environmental support review, and a communication/pain-tool assessment. Explain why the combined new respiratory and functional changes set priority while the other assessments may follow."
+      ],
+      "reviewedItemSha256": "a0494eafd6b2e055d23454320e5204674c5847e4b54e89197e8d1ecbf4010986"
+    }
+  ]
+}

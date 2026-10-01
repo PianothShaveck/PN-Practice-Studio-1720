@@ -1,0 +1,42 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T18:15:25.520629+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/d-health-061-replacement.json",
+  "sourceSha256": "2dbb707088fdff9d2bd2788adfe4c829c9c10bc4f08f338335f0a9481c48b97c",
+  "coverage": {
+    "sourceItems": 1,
+    "reviewedItems": 1,
+    "reviewedIds": [
+      "x-health-061"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.bccancer.bc.ca/screening/breast/how-it-works/understanding-your-results",
+      "claims": "Primary programme result-access information retrieved; item focuses direct result confirmation and updated contact details, not a universal notification deadline."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-health-061",
+      "status": "pass",
+      "assessment": "The replacement tests recovery of a missing screening result after contact changes, rather than interpretation of an abnormal screening test. Direct service contact both establishes the result and restores reliable follow-up; repeating the test, waiting for a reminder and forwarded mail are plausible but less complete responses. No fixed universal result-notification interval is asserted.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ebeb0de2d4b49dc561d05a69448f608d58752cfa5e228a5d2743678d3ab868fa"
+    }
+  ],
+  "activeSourceFile": "authoring/d/questions.json",
+  "replacementReason": "Root identified old health061 as overlapping risk118. New objective independently reviewed in full and accepted.",
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

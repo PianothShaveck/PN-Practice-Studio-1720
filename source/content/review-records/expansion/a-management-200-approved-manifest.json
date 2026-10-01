@@ -1,0 +1,1420 @@
+{
+  "createdAt": "2026-10-01T18:16:43.489936+00:00",
+  "purpose": "Mechanical index of existing individually reasoned matching-hash passes; not a new clinical review or blanket approval.",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/a/management.json",
+  "sourceSha256": "a8c3ffa8870b0ab21a5d32643d6982653f9189541e3bd301cce72e4a7c555adf",
+  "coverage": {
+    "scopeItems": 200,
+    "matchingPasses": 200,
+    "pending": []
+  },
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen, not external clinician or psychometric validation.",
+    "Read the supporting review for each assessment and source limitations. Any whole-item content or metadata change invalidates its recorded hash.",
+    "Only explicitly selected scope is indexed here; other categories/reviewers are not implied approved."
+  ],
+  "items": [
+    {
+      "id": "x-management-001",
+      "status": "pass",
+      "reviewedItemSha256": "5021a152411a39905312036c5bac2fb41197fc042e43c99a18a4366ff0a62daf",
+      "supportingReview": "reviews/expansion/a-management-final-followup.json",
+      "reviewedAt": "2026-10-01T18:02:39.817709+00:00"
+    },
+    {
+      "id": "x-management-002",
+      "status": "pass",
+      "reviewedItemSha256": "aae9d798536609faf17694a574ff33009b818566d665cee01cd2b4423a9307b4",
+      "supportingReview": "reviews/expansion/a-management-jurisprudence.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.768798+00:00"
+    },
+    {
+      "id": "x-management-003",
+      "status": "pass",
+      "reviewedItemSha256": "2c3f5859009724cffee649a0b3b6f7ea73184bd66aa40d612702b9a0ab1fc722",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-004",
+      "status": "pass",
+      "reviewedItemSha256": "a075e7f7dc21574460707562f8179cd78fc4efaf1b834372666f04fc15ea715f",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-005",
+      "status": "pass",
+      "reviewedItemSha256": "c22976d8be9bfa6c866c0cab47dc836f00e46474d78ec654bea25825a16f707f",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-006",
+      "status": "pass",
+      "reviewedItemSha256": "4ee073f6874b12dcd02e6ea3c6110ed9aad3cfd5085b62f75b2747dc65dc85e4",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-007",
+      "status": "pass",
+      "reviewedItemSha256": "7b2d574c746b749e69f2f1e0ad4ebc1bb5495f70d5c3a9d22d251817552e0935",
+      "supportingReview": "reviews/expansion/a-management-final-followup.json",
+      "reviewedAt": "2026-10-01T18:02:39.817709+00:00"
+    },
+    {
+      "id": "x-management-008",
+      "status": "pass",
+      "reviewedItemSha256": "fb4efe3dcc98aacb46dacebde961b8c3737fb068023d7e640ec7379eb809a322",
+      "supportingReview": "reviews/expansion/a-management-jurisprudence.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.768798+00:00"
+    },
+    {
+      "id": "x-management-009",
+      "status": "pass",
+      "reviewedItemSha256": "5731a08ad8c08dcdeb529f840b3f20080521d9cd8fefdf7e17a0fa61f6e87ec8",
+      "supportingReview": "reviews/expansion/a-management-jurisprudence.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.768798+00:00"
+    },
+    {
+      "id": "x-management-010",
+      "status": "pass",
+      "reviewedItemSha256": "ad373a6807993b7e54db6224f458c7cdd8fbb34f76a3edf61d27cabb1e467136",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-011",
+      "status": "pass",
+      "reviewedItemSha256": "9b9eb4d5162b9df9c076c841121a0758fa58a6097f9b8e3fcf4f5d52f98bd64c",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-012",
+      "status": "pass",
+      "reviewedItemSha256": "3859c762fb3103dfdf77469f0efa71f57b9bdf593cfcfc3c3d60a214d2dabe52",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-013",
+      "status": "pass",
+      "reviewedItemSha256": "fa489defa0d1b7e8eed6d88edb2dce6cd205eb2de5f45fd8e34efcaec6306d77",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-014",
+      "status": "pass",
+      "reviewedItemSha256": "00f9531992078502b3cd6e1a18d5bed4dae4dbe5016b2e9254e83467e49b2f80",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-015",
+      "status": "pass",
+      "reviewedItemSha256": "b6e2aa5f38a896db4ab28bde051a2895d8699632bede4fdd78a39508f3e3f6a6",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-016",
+      "status": "pass",
+      "reviewedItemSha256": "380c585437d81c36b7ebcd46aacc982484e89025f637017642a08268a3c3f3be",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-017",
+      "status": "pass",
+      "reviewedItemSha256": "b3f3f21ceea719f26b16d14dde46961abd16c4ead152d5c1f2ca4362c127ab84",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-018",
+      "status": "pass",
+      "reviewedItemSha256": "e6c71a57a48bfaee3010b68814fd3c3dd82af0f76425ded1fa5571eb82cab2e0",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-019",
+      "status": "pass",
+      "reviewedItemSha256": "d9620b0f55d1f7189ca8f62474707d40157b7ba01fab5ddd9ea67ab166c60ec7",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-020",
+      "status": "pass",
+      "reviewedItemSha256": "c9a3ded3b3d786ce00a1c5a8083b0b68a4d160b60a8a3e56ce633b4ff6eeff53",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-021",
+      "status": "pass",
+      "reviewedItemSha256": "bcb585ccda68ad20e1363f9dd95b45d1c71827607d66530788e1966c4f5a6246",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-022",
+      "status": "pass",
+      "reviewedItemSha256": "a682f161c8b81734fdaf4d2ac95928f04fc9c9f0f76ac93555388b454fafd6c7",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-023",
+      "status": "pass",
+      "reviewedItemSha256": "19f5f3961df573449ef35c50d235827ae813f462ca116fe40ccf10c19f2079f8",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-024",
+      "status": "pass",
+      "reviewedItemSha256": "3ac53307c4d63a3dcef14a9dfa9c5a8372a0c99393d87706317dee8a844ba233",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-025",
+      "status": "pass",
+      "reviewedItemSha256": "f5ab32791ea51d03e859c9d867b4fe16680a1a96d1574bdf5b788b77d1e842e7",
+      "supportingReview": "reviews/expansion/a-management-001-050.followup1.json",
+      "reviewedAt": "2026-10-01T16:59:57.257017+00:00"
+    },
+    {
+      "id": "x-management-026",
+      "status": "pass",
+      "reviewedItemSha256": "2c708e515c1dc05527fec5094e6a76b9eaab0362de4dd901edff8274a7eade80",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-027",
+      "status": "pass",
+      "reviewedItemSha256": "266d11513c9989cdf1b437b76b3efd0b2994589b6b3cadcb42b506219fd6353a",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-028",
+      "status": "pass",
+      "reviewedItemSha256": "1fb61dc720de8a6094c21459c2d6700efa3f5d577deb920efdc32645907ec993",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-029",
+      "status": "pass",
+      "reviewedItemSha256": "db17b8093c9127d38f165d1ac9ac35f0179ee853e8b8a856e50985c90dc68490",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-030",
+      "status": "pass",
+      "reviewedItemSha256": "ad2f321c499a0e798131c289b66803e3d5c01c8100d7f7ce21148802776c2309",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-031",
+      "status": "pass",
+      "reviewedItemSha256": "04933cfefaf14e7b4b3b452a7200f9a13fbcb2dd14e3181d3e5c2df78fc12a17",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-032",
+      "status": "pass",
+      "reviewedItemSha256": "dce93a0c3c289d66bc3cbf26a76b9a0876022945ff836f3aaaf51a8516d9b3db",
+      "supportingReview": "reviews/expansion/a-management-001-050.followup1.json",
+      "reviewedAt": "2026-10-01T16:59:57.257017+00:00"
+    },
+    {
+      "id": "x-management-033",
+      "status": "pass",
+      "reviewedItemSha256": "ead420ae23e0fc5f80a39f265fa792390face99d089f7bf82b62ddd5313de5df",
+      "supportingReview": "reviews/expansion/a-management-001-050.followup1.json",
+      "reviewedAt": "2026-10-01T16:59:57.257017+00:00"
+    },
+    {
+      "id": "x-management-034",
+      "status": "pass",
+      "reviewedItemSha256": "1a094d23f2dd8ac227d7bf9e9b38fd67ebd339123af7324a11c8436bd195fc29",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-035",
+      "status": "pass",
+      "reviewedItemSha256": "3af429a7044e8aba72ce0cdc8e164489dc390e93efe72d8db63eba62639fcad4",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-036",
+      "status": "pass",
+      "reviewedItemSha256": "2a74e835e85517480571b3f209938673ce56d8e39028a332e4b3ff209f3c8328",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-037",
+      "status": "pass",
+      "reviewedItemSha256": "0d9f45c572a678d0e0033eee2b9f4a2bab3af1edea1b5047bd0f2578fa896727",
+      "supportingReview": "reviews/expansion/a-management-jurisprudence.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.768798+00:00"
+    },
+    {
+      "id": "x-management-038",
+      "status": "pass",
+      "reviewedItemSha256": "5dbcc19af5363b760ac0d4ce0652b177f140bc99d1b76223713e7e969084aecf",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-039",
+      "status": "pass",
+      "reviewedItemSha256": "916f16f459976bb7d9c45778a003a6a54a604eef9b6be8aebe19caf0d72eefaf",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-040",
+      "status": "pass",
+      "reviewedItemSha256": "da60c012ad2a4d7497edbfe337a36693743ed9cc53348ae6bc747a20fa0112a9",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-041",
+      "status": "pass",
+      "reviewedItemSha256": "e42f4793060baf8a12d02be499017b27b4d9869e38df9100697ec23cbcf62918",
+      "supportingReview": "reviews/expansion/a-management-001-050.followup1.json",
+      "reviewedAt": "2026-10-01T16:59:57.257017+00:00"
+    },
+    {
+      "id": "x-management-042",
+      "status": "pass",
+      "reviewedItemSha256": "83f0c044d6ac796af3ee2e92ec1b597f59429f2dd5b5ee4f04481e8b4073f747",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-043",
+      "status": "pass",
+      "reviewedItemSha256": "a6a2b964bc1eac30e987a74423750522b75e00c97d695616828e7f179b359980",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-044",
+      "status": "pass",
+      "reviewedItemSha256": "bbf61ed4c0435618a0ed12cc82826a75ab6ee369a0836d722a478cefc00666ed",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-045",
+      "status": "pass",
+      "reviewedItemSha256": "b9d44eba3524f9e713494ba3f80da967fc1494403f7c1245dbbe3d0d31853b34",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-046",
+      "status": "pass",
+      "reviewedItemSha256": "b2a658da03f71cea6868acc8e0b35441a8d3d4520ef609999fd8398e4f32fa1d",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-047",
+      "status": "pass",
+      "reviewedItemSha256": "1325a726f9b5c0d5a50be2c609e7fad373d1a32edcd2165a76368a9ceb9e08d1",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-048",
+      "status": "pass",
+      "reviewedItemSha256": "bb05c82dc992492c6a624fe690a083d623c5b813e5b5d08ee5c0f07125e9ced5",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-049",
+      "status": "pass",
+      "reviewedItemSha256": "d8542aff8b3b9db010f3b14944fe133476d7528d50d285341701ba8c66b11647",
+      "supportingReview": "reviews/expansion/a-management-001-050.review.json",
+      "reviewedAt": "2026-10-01T16:53:15.897294+00:00"
+    },
+    {
+      "id": "x-management-050",
+      "status": "pass",
+      "reviewedItemSha256": "2062761de969fbc9a48ded42b582f9bf2dea21bf74b41dec8fb4313e571e2031",
+      "supportingReview": "reviews/expansion/a-management-001-050.followup1.json",
+      "reviewedAt": "2026-10-01T16:59:57.257017+00:00"
+    },
+    {
+      "id": "x-management-051",
+      "status": "pass",
+      "reviewedItemSha256": "1ab0cfb8ffe8571a89f6b8db9d8c3461c70bc2bc4037077578ea1fe67d5b94d4",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-052",
+      "status": "pass",
+      "reviewedItemSha256": "601dabc6e414af75deff844f3b9767d51c052f1ee3bca67a5d2f5fa59f6e0650",
+      "supportingReview": "reviews/expansion/a-management-051-100.followup2.json",
+      "reviewedAt": "2026-10-01T17:35:34.769458+00:00"
+    },
+    {
+      "id": "x-management-053",
+      "status": "pass",
+      "reviewedItemSha256": "5356fbbf530fb71ef37d793879bf44e7267ecb10fac806818c8ebf7f7741d5a2",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-054",
+      "status": "pass",
+      "reviewedItemSha256": "c65161f4e10e419816d59f6df6c3d2ba156717801f1407d3073ef006ae03a5a0",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-055",
+      "status": "pass",
+      "reviewedItemSha256": "eb7a12bdbb5fc2232548bec00afcbb5a8ef230c440d1981e330dbbbbbe41af68",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-056",
+      "status": "pass",
+      "reviewedItemSha256": "61d694dd6825c96e41cff5abbd9e9667113b83202a3fe5e995a82953d00a3481",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-057",
+      "status": "pass",
+      "reviewedItemSha256": "048ac0fa5f0b2a15fe18036576d4740b9b745118f85db8ae19dece557c1bb78a",
+      "supportingReview": "reviews/expansion/a-management-051-100.followup1.json",
+      "reviewedAt": "2026-10-01T17:23:21.775207+00:00"
+    },
+    {
+      "id": "x-management-058",
+      "status": "pass",
+      "reviewedItemSha256": "630400827262879b4f0f6b2a592d701c0443fa2fdeedb1f04d1f269f2d417102",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-059",
+      "status": "pass",
+      "reviewedItemSha256": "4d1e9ceeba3dc52000aa56d9e6245cc1b22bf7e72bda15a8c84bd01f5ea2a249",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-060",
+      "status": "pass",
+      "reviewedItemSha256": "65389b07519001e3f288eb68d21b719ef2f102db6d3694e8423534c1b255bd4f",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-061",
+      "status": "pass",
+      "reviewedItemSha256": "014b69c82e698c42cb6120c03386aae183cff517630ccdcbf8298c624cf680ed",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-062",
+      "status": "pass",
+      "reviewedItemSha256": "bdb77adc492e9d5199b3294c3f0197331c8a22387282c36b9723024779ade2ec",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-063",
+      "status": "pass",
+      "reviewedItemSha256": "c40e29f7678cfe187c18ea3b7845b19a81701db7a642b0b07f8a8411d45fa218",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-064",
+      "status": "pass",
+      "reviewedItemSha256": "0d3d6a7842eef2810d3ea7247429ac4cccf71a5c38d8c4b8fb3580d2a1dc2f3e",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-065",
+      "status": "pass",
+      "reviewedItemSha256": "5a06dfd2baea45ab72e5b63dd27f4d5fda6fe1ca22a9d5ab2b5082728767d83e",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-066",
+      "status": "pass",
+      "reviewedItemSha256": "db5a951169ded78c690c7fa2ad3f4d84779e15acf5425870a822f9c1cc21ca98",
+      "supportingReview": "reviews/expansion/a-management-051-100.followup1.json",
+      "reviewedAt": "2026-10-01T17:23:21.775207+00:00"
+    },
+    {
+      "id": "x-management-067",
+      "status": "pass",
+      "reviewedItemSha256": "751b9fe22c347aa12d5a1e5e78693b9521e14bed6c418524d34938c648d3e04f",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-068",
+      "status": "pass",
+      "reviewedItemSha256": "64d3f1c591064b37c638eb1b95c151585071607177e6e10f22882d411f78b174",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-069",
+      "status": "pass",
+      "reviewedItemSha256": "521f56fecc5206ca5d7d351a078593f6a8eab8b6da937518f5fafbb7d7222dc9",
+      "supportingReview": "reviews/expansion/a-management-051-100.followup2.json",
+      "reviewedAt": "2026-10-01T17:35:34.769458+00:00"
+    },
+    {
+      "id": "x-management-070",
+      "status": "pass",
+      "reviewedItemSha256": "d53779c94c1bf8033bc42028cca702321f6f6400146a140f8f70e8567a9c9edb",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-071",
+      "status": "pass",
+      "reviewedItemSha256": "8886126cb5059e256317b8d0fe82d204d5956b893eaf6d984448b40a61452770",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-072",
+      "status": "pass",
+      "reviewedItemSha256": "d8c63b7a1f3460477e19689e20062ed3a0a4fac2ee94a9a75f0b1a660a13da61",
+      "supportingReview": "reviews/expansion/a-management-051-100.followup1.json",
+      "reviewedAt": "2026-10-01T17:23:21.775207+00:00"
+    },
+    {
+      "id": "x-management-073",
+      "status": "pass",
+      "reviewedItemSha256": "ad02b183f5690165a71b28df28403a09c66d831e665eac43bf3fff0251c769cf",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-074",
+      "status": "pass",
+      "reviewedItemSha256": "99981893e538b992eeb02e90fabd07c224307d9764c3d6cc581de1d0880acddb",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-075",
+      "status": "pass",
+      "reviewedItemSha256": "0d60f02cd46911c9e1ddd49cde7808b0804160cef6c48a6980d7c4ffa804d9c3",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-076",
+      "status": "pass",
+      "reviewedItemSha256": "7f6d1303e4f50b40f34967fab2a399f006421a176aa0b752451d4209ff349f9f",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-077",
+      "status": "pass",
+      "reviewedItemSha256": "723248ce39bb037e159b7ea728af043cc02633feb466e9f91140791762d7ee42",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-078",
+      "status": "pass",
+      "reviewedItemSha256": "989c41a9725491b72c654a92e37f75e0cc6ab98b350ff06d67d6befc26dddda3",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-079",
+      "status": "pass",
+      "reviewedItemSha256": "1f2caca7fc055cf51b3f3406957ec7df3a47e6f352242883abc4105bbcfde496",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-080",
+      "status": "pass",
+      "reviewedItemSha256": "a75ad5f2aa1cd3019d7c257ec464b8e8bf1538f76f95415bf0b1db6945ca49a2",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-081",
+      "status": "pass",
+      "reviewedItemSha256": "ee11df4227590bd89cf0b910c71d15b2fd985117c5e389e346922f8928dd5a7f",
+      "supportingReview": "reviews/expansion/a-management-051-100.followup2.json",
+      "reviewedAt": "2026-10-01T17:35:34.769458+00:00"
+    },
+    {
+      "id": "x-management-082",
+      "status": "pass",
+      "reviewedItemSha256": "d1e438d042a63f9f4bbf71d235f1eb8f2d69c65c9756594cfe0912fbc3c284e5",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-083",
+      "status": "pass",
+      "reviewedItemSha256": "6de337d29c16f7871c9d0fde75f007d327da8a28e33b8c85fcffa4ec9e531288",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-084",
+      "status": "pass",
+      "reviewedItemSha256": "0589cc93157c6a90084e8e5301b4b14141256a42ae240fd879f4a31bc0a813c5",
+      "supportingReview": "reviews/expansion/a-management-051-100.followup2.json",
+      "reviewedAt": "2026-10-01T17:35:34.769458+00:00"
+    },
+    {
+      "id": "x-management-085",
+      "status": "pass",
+      "reviewedItemSha256": "7172333de4dc58d2918b8a6e814fd3c9f6ea8713e7f01e833b2b12ff635cf1fc",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-086",
+      "status": "pass",
+      "reviewedItemSha256": "b6b5f9c6c90c7a042577a85a072e9945b40d524293425c854c543d8c8714aa7f",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-087",
+      "status": "pass",
+      "reviewedItemSha256": "a7692b1c64370c0c22412dc8baec8c7221e2f5557ea8347e3aeb18cfa73101dd",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-088",
+      "status": "pass",
+      "reviewedItemSha256": "def72b79b8b8dc8e18b86056243d9da2e89fc247d951b2f6fd0fe5dacd51596d",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-089",
+      "status": "pass",
+      "reviewedItemSha256": "a5054efe8ca11be0f0bbb99924fd5626d7e399c03491987711ea0c79ddb76aed",
+      "supportingReview": "reviews/expansion/a-management-051-100.followup2.json",
+      "reviewedAt": "2026-10-01T17:35:34.769458+00:00"
+    },
+    {
+      "id": "x-management-090",
+      "status": "pass",
+      "reviewedItemSha256": "baca3d5db4995e2fd40d8e247b942ea3d08a3efc24611d8631653cfe70099c9b",
+      "supportingReview": "reviews/expansion/a-management-051-100.followup1.json",
+      "reviewedAt": "2026-10-01T17:23:21.775207+00:00"
+    },
+    {
+      "id": "x-management-091",
+      "status": "pass",
+      "reviewedItemSha256": "1291acfaa8534011de7e528a1bd1437cdca7fcea6eba8b2535dee0beaa6d6ac7",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-092",
+      "status": "pass",
+      "reviewedItemSha256": "1cf8696124a8e0045bb90d71174bf89f49d950e8fa85198b9b715cc944fec88b",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-093",
+      "status": "pass",
+      "reviewedItemSha256": "84320c2d11ae1636bc1e1b55f15b8d307c455032b96864f7f8b5cbab64b74638",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-094",
+      "status": "pass",
+      "reviewedItemSha256": "5ef5a21fd4b87f981136499405dfe1c77a207ae2af3df3c36b505c8572c62a86",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-095",
+      "status": "pass",
+      "reviewedItemSha256": "cb0537afb24d9b897d3815ff1e9d844af34e16847d6104ab133a9060f346621f",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-096",
+      "status": "pass",
+      "reviewedItemSha256": "6397d1a2cddc00b6379edaac70fe1819e4f70bea5163f61efe2019b86e33154f",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-097",
+      "status": "pass",
+      "reviewedItemSha256": "080a903ccec2e53e9bd282c0d530f7fc1fc0c35f1766fefeab11f3d8bca8fdba",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-098",
+      "status": "pass",
+      "reviewedItemSha256": "fa536610efd455a088bbfb00cb636db48235000fc7a58eb9dd925e2a3b35d629",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-099",
+      "status": "pass",
+      "reviewedItemSha256": "7ae4e9910f1d14aedba0cb4305374bb09ae660197344ea4ca39ba19022082c2b",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-100",
+      "status": "pass",
+      "reviewedItemSha256": "d93e83c04da3611d3ec735f100be3c023ef29ed630622e05965d761b966c4481",
+      "supportingReview": "reviews/expansion/a-management-051-100.review.json",
+      "reviewedAt": "2026-10-01T17:01:55.701627+00:00"
+    },
+    {
+      "id": "x-management-101",
+      "status": "pass",
+      "reviewedItemSha256": "b4dba1d41406459b8fdef47bfce963892c8158202991770d196524764df83038",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-102",
+      "status": "pass",
+      "reviewedItemSha256": "81a4a0a615a0ea9c2a4012425cc6eaab91ce60f8b4bed0a6c2378598b28a1d99",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-103",
+      "status": "pass",
+      "reviewedItemSha256": "6791f44e43fd0060d74ede58de9ccbe345269df67ab43d5b1611cf551258c0ad",
+      "supportingReview": "reviews/expansion/a-management-final-followup.json",
+      "reviewedAt": "2026-10-01T18:02:39.817709+00:00"
+    },
+    {
+      "id": "x-management-104",
+      "status": "pass",
+      "reviewedItemSha256": "0d3bf5a097e14eb3d00568eb6557e5c813e6fe3ddb69cc293f904d2d1561486e",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-105",
+      "status": "pass",
+      "reviewedItemSha256": "11bf523205e1b895f4d2300bc5d4afe113d4c0a222675b5a4a7a8391071dd391",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-106",
+      "status": "pass",
+      "reviewedItemSha256": "8460e47d8539bae42ba11965229522a201b2226bf1f57e5e1367b779f2d58054",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-107",
+      "status": "pass",
+      "reviewedItemSha256": "779d7fb9ea78c9f3325506f32285d13506a357f6950c2dca75a3d476c7baf8ca",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-108",
+      "status": "pass",
+      "reviewedItemSha256": "4a7259416d53aea8e66b506859b3b43e1a20799eb9f3cc2d5aee114752d0cc0c",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-109",
+      "status": "pass",
+      "reviewedItemSha256": "71ca2a632defc16ffe0a1b4f2cec5ec1d5180124e67315d47581cf1b23e920f3",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-110",
+      "status": "pass",
+      "reviewedItemSha256": "e757033a0f133dc214d5011d6248feb6f9611f88b15537e5a5cdbb28da1e4d5e",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-111",
+      "status": "pass",
+      "reviewedItemSha256": "f5d4e8a59a2570c5c7ccf5c197e75ec10b6b84487039c91db914b354ca6fbb68",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-112",
+      "status": "pass",
+      "reviewedItemSha256": "98bbdd8767ab3ece9129dace4ac34c47bc4a45b560ba72b6e5ec3f64266be04d",
+      "supportingReview": "reviews/expansion/a-management-final-followup.json",
+      "reviewedAt": "2026-10-01T18:02:39.817709+00:00"
+    },
+    {
+      "id": "x-management-113",
+      "status": "pass",
+      "reviewedItemSha256": "c0672bf6d8371ad032ba434a265c1bf2270370e9e015597a63d82f8ecfcbbf45",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-114",
+      "status": "pass",
+      "reviewedItemSha256": "2cf2644e7e83e7605158eb62f0fdab6d4bc3d9ff191bb343f8c9093080f4ab61",
+      "supportingReview": "reviews/expansion/a-management-final-followup.json",
+      "reviewedAt": "2026-10-01T18:02:39.817709+00:00"
+    },
+    {
+      "id": "x-management-115",
+      "status": "pass",
+      "reviewedItemSha256": "5e5fa6ae5ca551cee5f0f79084efda0ce3d5a0be4672fab065a60659941c2e30",
+      "supportingReview": "reviews/expansion/a-management-final-followup.json",
+      "reviewedAt": "2026-10-01T18:02:39.817709+00:00"
+    },
+    {
+      "id": "x-management-116",
+      "status": "pass",
+      "reviewedItemSha256": "8df01d680f9b15e462d50f2a3c8c8724e222c5aa229e7ced6a360b70a87f9641",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-117",
+      "status": "pass",
+      "reviewedItemSha256": "501938f90643a000cface18ceb93541019ee5e7414a1feea1b8c5ce8a9ba6225",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-118",
+      "status": "pass",
+      "reviewedItemSha256": "e3940cb5033fe06cd82f9c06318e960d2ace881311ae756ac4f0e5d0cb142f16",
+      "supportingReview": "reviews/expansion/a-management-final-followup.json",
+      "reviewedAt": "2026-10-01T18:02:39.817709+00:00"
+    },
+    {
+      "id": "x-management-119",
+      "status": "pass",
+      "reviewedItemSha256": "c4a81c40581a9b687d8529011a4adde5217ec4df58aa70d515c6694a396b3adc",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-120",
+      "status": "pass",
+      "reviewedItemSha256": "b0b92e26615f7a334eb7250b822394bb9317876054054c79cdc9c5276a5fff52",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-121",
+      "status": "pass",
+      "reviewedItemSha256": "93bfff655849352c83323b5aa7971ff732f6c82fbc2f40c43a6002851bd9d58c",
+      "supportingReview": "reviews/expansion/a-management-final-followup.json",
+      "reviewedAt": "2026-10-01T18:02:39.817709+00:00"
+    },
+    {
+      "id": "x-management-122",
+      "status": "pass",
+      "reviewedItemSha256": "4bb118c30b6f4f9199808ac818642e6c75c1a09a68a7979cb380ced8a3e2f982",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-123",
+      "status": "pass",
+      "reviewedItemSha256": "3a044fb8c9df31a692146e0e49de44b92b2df6ebc1741e8aba59408db43a2627",
+      "supportingReview": "reviews/expansion/a-management-final-followup.json",
+      "reviewedAt": "2026-10-01T18:02:39.817709+00:00"
+    },
+    {
+      "id": "x-management-124",
+      "status": "pass",
+      "reviewedItemSha256": "b1c3624c831a6c7b925fd36b69e242ef1168149b04e0f64454a4adfc04f3fead",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-125",
+      "status": "pass",
+      "reviewedItemSha256": "fc0e556ea70dc5cff843fd85631665eb88f0ca89ef80f4900e5ce82f9405cf7b",
+      "supportingReview": "reviews/expansion/a-management-final-followup2.json",
+      "reviewedAt": "2026-10-01T18:08:08.728819+00:00"
+    },
+    {
+      "id": "x-management-126",
+      "status": "pass",
+      "reviewedItemSha256": "fa1d85538a12b58f1acac7c9544ad7576f9d5f7532be4e7283c5fdbe0736cb73",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-127",
+      "status": "pass",
+      "reviewedItemSha256": "14ead592ed2df27c351cdb7988c670f8a40ef3463b0465b67b6bf86a3fd32ac1",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-128",
+      "status": "pass",
+      "reviewedItemSha256": "87f99fc19cdfb9a677e481f9cb451e60a561443629e8b5c8e924dbe0e847603b",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-129",
+      "status": "pass",
+      "reviewedItemSha256": "8af6e08564ae0f5bda8092356c918266a7a6002237576e7036560fbb69eaa2f1",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-130",
+      "status": "pass",
+      "reviewedItemSha256": "49241d67786dc5921ef4eedf51d68adf5a6be35ee2fbad31ff976bda33437f83",
+      "supportingReview": "reviews/expansion/a-management-final-followup.json",
+      "reviewedAt": "2026-10-01T18:02:39.817709+00:00"
+    },
+    {
+      "id": "x-management-131",
+      "status": "pass",
+      "reviewedItemSha256": "f5b2b6f1ed4213afaac3e58dc8f6cc3e8b57e32f6a00f00467bc113d500c3fc9",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-132",
+      "status": "pass",
+      "reviewedItemSha256": "a80f34cf32123628eaec10ab861aea694c13b8e498f4987e3d5b43cb60dd0164",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-133",
+      "status": "pass",
+      "reviewedItemSha256": "afc11bda2efc2fbd02ff99cd26e8159de74893a4289ef9d6a8cbcfee3317bac4",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-134",
+      "status": "pass",
+      "reviewedItemSha256": "82bac6ecb1e433ac845137bcf1db21844a3d2f8281c0413a0eba764cb2cc83ad",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-135",
+      "status": "pass",
+      "reviewedItemSha256": "88d655b302f26c580e5cbf4ccba5eddd8a3dce0b2a484c6c843338b65bb8eda5",
+      "supportingReview": "reviews/expansion/a-management-final-followup.json",
+      "reviewedAt": "2026-10-01T18:02:39.817709+00:00"
+    },
+    {
+      "id": "x-management-136",
+      "status": "pass",
+      "reviewedItemSha256": "4d29bce0d23aedd7ccd8824cf90b611504c22e49e554b73b2ab2bad4aba89e56",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-137",
+      "status": "pass",
+      "reviewedItemSha256": "1ad52cd2cb5687bb2c495249426daf760c5390629b6d7fcb08b2d829de42f72d",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-138",
+      "status": "pass",
+      "reviewedItemSha256": "71d857a1432807b92421f294261d5f3f3e4d46b6348454e09967cee15d1b04f8",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-139",
+      "status": "pass",
+      "reviewedItemSha256": "597dda63e1ffbffa3295be54adb033844d201365189d940802ff58305e9f20d4",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-140",
+      "status": "pass",
+      "reviewedItemSha256": "025b222a2eaf5fe30552ebd636b09d6ccda74bbcd9d311e806514bd80af4aa8e",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-141",
+      "status": "pass",
+      "reviewedItemSha256": "dc2ac704999a43e2591e9a11fac34b18e9cf152b1deb95e9f2f540b6d620fe5d",
+      "supportingReview": "reviews/expansion/a-management-final-followup.json",
+      "reviewedAt": "2026-10-01T18:02:39.817709+00:00"
+    },
+    {
+      "id": "x-management-142",
+      "status": "pass",
+      "reviewedItemSha256": "01048c5f5be52c5796e6c5ec455604132a9cd3e33f1902509e717f3b12c1ea2f",
+      "supportingReview": "reviews/expansion/a-management-final-followup.json",
+      "reviewedAt": "2026-10-01T18:02:39.817709+00:00"
+    },
+    {
+      "id": "x-management-143",
+      "status": "pass",
+      "reviewedItemSha256": "a65d493096e1e780c42c66b2f017c5bb6cf7bcceffef2efec3c20e59b6c4bd79",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-144",
+      "status": "pass",
+      "reviewedItemSha256": "4be664281f025a51a8c721f9dbb65ded13fb24e024eec3e2adf711bc3fb5a842",
+      "supportingReview": "reviews/expansion/a-management-final-followup.json",
+      "reviewedAt": "2026-10-01T18:02:39.817709+00:00"
+    },
+    {
+      "id": "x-management-145",
+      "status": "pass",
+      "reviewedItemSha256": "07dec83e48c54613e71bc7f7a41f2dc827ec287413a83c27575b926015c878b7",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-146",
+      "status": "pass",
+      "reviewedItemSha256": "5b1fd7881cba8ad9a8ea7a4caaaaf4beff20b02afdf3a5a0dd500d060918d046",
+      "supportingReview": "reviews/expansion/a-management-final-followup.json",
+      "reviewedAt": "2026-10-01T18:02:39.817709+00:00"
+    },
+    {
+      "id": "x-management-147",
+      "status": "pass",
+      "reviewedItemSha256": "3dc6bd755a4dfa22a7e81f08c80137aa7c8863f02c8671ac2ef249a7c1fea6ea",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-148",
+      "status": "pass",
+      "reviewedItemSha256": "b99357832cc78c8d2341651dac734051d23088caa126710a0f160df2cfe9af71",
+      "supportingReview": "reviews/expansion/a-management-final-followup.json",
+      "reviewedAt": "2026-10-01T18:02:39.817709+00:00"
+    },
+    {
+      "id": "x-management-149",
+      "status": "pass",
+      "reviewedItemSha256": "7ad317205b0c95a58b5a58df0d44514fd7fde269a75b65b4e42c7365f038f446",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-150",
+      "status": "pass",
+      "reviewedItemSha256": "8b01bb978ab68cad9f937434e282c9521e8cccc464752755b20e9f127732ec77",
+      "supportingReview": "reviews/expansion/a-management-101-150.followup1.json",
+      "reviewedAt": "2026-10-01T17:35:34.770701+00:00"
+    },
+    {
+      "id": "x-management-151",
+      "status": "pass",
+      "reviewedItemSha256": "0b385c34014ef6b14abfc6cfac0df0e35f2e86e1db159585cdb2ac7f5b9a9327",
+      "supportingReview": "reviews/expansion/a-management-final-followup2.json",
+      "reviewedAt": "2026-10-01T18:08:08.728819+00:00"
+    },
+    {
+      "id": "x-management-152",
+      "status": "pass",
+      "reviewedItemSha256": "a23212ef5f55b90fa9f8d646130d2965d0f38a4758f767a57c8773f012fb726c",
+      "supportingReview": "reviews/expansion/a-management-151-200.followup1.json",
+      "reviewedAt": "2026-10-01T18:05:36.890957+00:00"
+    },
+    {
+      "id": "x-management-153",
+      "status": "pass",
+      "reviewedItemSha256": "edc15617c242cdf17ee2fcc78b39e68fb5b5b75411f8b68cf74a1b112c2fece3",
+      "supportingReview": "reviews/expansion/a-management-final-followup2.json",
+      "reviewedAt": "2026-10-01T18:08:08.728819+00:00"
+    },
+    {
+      "id": "x-management-154",
+      "status": "pass",
+      "reviewedItemSha256": "240c4353201932572a78b9d8ae2286309d8a509885eddac4bbcb4989446506fc",
+      "supportingReview": "reviews/expansion/a-management-151-200.followup1.json",
+      "reviewedAt": "2026-10-01T18:05:36.890957+00:00"
+    },
+    {
+      "id": "x-management-155",
+      "status": "pass",
+      "reviewedItemSha256": "e3cd2fc261f9e59eb6365c89f79dbb25fb43031b514c43ae677b840759a4ac82",
+      "supportingReview": "reviews/expansion/a-management-151-200.followup1.json",
+      "reviewedAt": "2026-10-01T18:05:36.890957+00:00"
+    },
+    {
+      "id": "x-management-156",
+      "status": "pass",
+      "reviewedItemSha256": "40cc9864f8c16cbea8d045f1575b6e7019924d0d58047426ed962b8b104e262b",
+      "supportingReview": "reviews/expansion/a-management-151-200.followup1.json",
+      "reviewedAt": "2026-10-01T18:05:36.890957+00:00"
+    },
+    {
+      "id": "x-management-157",
+      "status": "pass",
+      "reviewedItemSha256": "78818e896e9da6d83f15956880fbfaceef8537594fb7dded93e5730c29da5a1e",
+      "supportingReview": "reviews/expansion/a-management-151-200.followup1.json",
+      "reviewedAt": "2026-10-01T18:05:36.890957+00:00"
+    },
+    {
+      "id": "x-management-158",
+      "status": "pass",
+      "reviewedItemSha256": "78f54c2b4e15e6bb70254aca97ed66f1cb814248b7d5d134094ebda4e1203f0b",
+      "supportingReview": "reviews/expansion/a-management-151-200.followup1.json",
+      "reviewedAt": "2026-10-01T18:05:36.890957+00:00"
+    },
+    {
+      "id": "x-management-159",
+      "status": "pass",
+      "reviewedItemSha256": "283da2567c7597e173f7804b42ed1b46631a5cfb956e3dfcbc6a28d4f9452065",
+      "supportingReview": "reviews/expansion/a-management-159.final-recheck.json",
+      "reviewedAt": "2026-10-01T18:12:51.217931+00:00"
+    },
+    {
+      "id": "x-management-160",
+      "status": "pass",
+      "reviewedItemSha256": "6bc6ae2940b31e7b6fc6e2154cfe7610d60bde059a3189d2cf0740d781287233",
+      "supportingReview": "reviews/expansion/a-management-151-200.followup1.json",
+      "reviewedAt": "2026-10-01T18:05:36.890957+00:00"
+    },
+    {
+      "id": "x-management-161",
+      "status": "pass",
+      "reviewedItemSha256": "e4e226157d2528fdb97d15725dcb5266dc7c47235d3dce2cdf332e21bd0e36c0",
+      "supportingReview": "reviews/expansion/a-management-151-200.followup1.json",
+      "reviewedAt": "2026-10-01T18:05:36.890957+00:00"
+    },
+    {
+      "id": "x-management-162",
+      "status": "pass",
+      "reviewedItemSha256": "123bef51930c2494f31eed8284ffc9cd0b90820e04b90ac31f2689b2436ce117",
+      "supportingReview": "reviews/expansion/a-management-151-200.followup1.json",
+      "reviewedAt": "2026-10-01T18:05:36.890957+00:00"
+    },
+    {
+      "id": "x-management-163",
+      "status": "pass",
+      "reviewedItemSha256": "50a2f6c8b978152cb733f7cdfc4d1895d7ee4f11c0e0b7dcc18d9f64ab551a8e",
+      "supportingReview": "reviews/expansion/a-management-151-200.followup1.json",
+      "reviewedAt": "2026-10-01T18:05:36.890957+00:00"
+    },
+    {
+      "id": "x-management-164",
+      "status": "pass",
+      "reviewedItemSha256": "60efd39aba0f723ac9dc0108afaf602f57e48b6ab11463ff4dc8668a59db9443",
+      "supportingReview": "reviews/expansion/a-management-final-followup2.json",
+      "reviewedAt": "2026-10-01T18:08:08.728819+00:00"
+    },
+    {
+      "id": "x-management-165",
+      "status": "pass",
+      "reviewedItemSha256": "60a5ddb843e1b57d070432b93432bef12aadb1e39572f6af9586508beea74188",
+      "supportingReview": "reviews/expansion/a-management-151-200.followup1.json",
+      "reviewedAt": "2026-10-01T18:05:36.890957+00:00"
+    },
+    {
+      "id": "x-management-166",
+      "status": "pass",
+      "reviewedItemSha256": "2740b28881b543c3170ae941d4f4c6f13a38f5a0fc976a848b2e60cf4d384217",
+      "supportingReview": "reviews/expansion/a-management-final-followup2.json",
+      "reviewedAt": "2026-10-01T18:08:08.728819+00:00"
+    },
+    {
+      "id": "x-management-167",
+      "status": "pass",
+      "reviewedItemSha256": "cb22825a31edf07450e7d2d61a865e68df17f92279b8a5434cc0435a3f4172f0",
+      "supportingReview": "reviews/expansion/a-management-151-200.followup1.json",
+      "reviewedAt": "2026-10-01T18:05:36.890957+00:00"
+    },
+    {
+      "id": "x-management-168",
+      "status": "pass",
+      "reviewedItemSha256": "dd068b899fd0f1a9138e1fef368ebe5586d442ea70bee9207702119e5d02ba0b",
+      "supportingReview": "reviews/expansion/a-management-151-200.followup1.json",
+      "reviewedAt": "2026-10-01T18:05:36.890957+00:00"
+    },
+    {
+      "id": "x-management-169",
+      "status": "pass",
+      "reviewedItemSha256": "4a4d34678cce748165029cdd8517704b406b8dc42fb4ff8bd41098b2b3b5ba5a",
+      "supportingReview": "reviews/expansion/a-management-final-followup2.json",
+      "reviewedAt": "2026-10-01T18:08:08.728819+00:00"
+    },
+    {
+      "id": "x-management-170",
+      "status": "pass",
+      "reviewedItemSha256": "d1d5b6b549edc110d76e783bd47ec7916df474836de42ab26b8200b461f5904f",
+      "supportingReview": "reviews/expansion/a-management-151-200.followup1.json",
+      "reviewedAt": "2026-10-01T18:05:36.890957+00:00"
+    },
+    {
+      "id": "x-management-171",
+      "status": "pass",
+      "reviewedItemSha256": "b6d5c0b1ff40d89169cdd5535b4eee3ebc49b8fd4c8d3bda53953461a0fb1300",
+      "supportingReview": "reviews/expansion/a-management-final-followup2.json",
+      "reviewedAt": "2026-10-01T18:08:08.728819+00:00"
+    },
+    {
+      "id": "x-management-172",
+      "status": "pass",
+      "reviewedItemSha256": "044159aa10aed5632aec8d571702f27c9e05b0e3841545854e7a4f5a4c44bac4",
+      "supportingReview": "reviews/expansion/a-management-151-200.followup1.json",
+      "reviewedAt": "2026-10-01T18:05:36.890957+00:00"
+    },
+    {
+      "id": "x-management-173",
+      "status": "pass",
+      "reviewedItemSha256": "8adacac5bb214d836f953d6c70818c9ebef80fcb4904ea364c5caa3aad239054",
+      "supportingReview": "reviews/expansion/a-management-151-200.followup1.json",
+      "reviewedAt": "2026-10-01T18:05:36.890957+00:00"
+    },
+    {
+      "id": "x-management-174",
+      "status": "pass",
+      "reviewedItemSha256": "9a17d4bf3c31e93718d9bdc3c3548a64bcf7a5673f190005ba21253834139e48",
+      "supportingReview": "reviews/expansion/a-management-151-200.followup1.json",
+      "reviewedAt": "2026-10-01T18:05:36.890957+00:00"
+    },
+    {
+      "id": "x-management-175",
+      "status": "pass",
+      "reviewedItemSha256": "f9af41d49acb97876d5be97ebc73319d5830bc8fa36c5b43c4d022f5cbb38f6c",
+      "supportingReview": "reviews/expansion/a-management-final-followup2.json",
+      "reviewedAt": "2026-10-01T18:08:08.728819+00:00"
+    },
+    {
+      "id": "x-management-176",
+      "status": "pass",
+      "reviewedItemSha256": "10b9a307f170256e8b0f23ad876d72b883bfa78ebd33c2de74b9d4c521c55cd4",
+      "supportingReview": "reviews/expansion/a-management-final-followup2.json",
+      "reviewedAt": "2026-10-01T18:08:08.728819+00:00"
+    },
+    {
+      "id": "x-management-177",
+      "status": "pass",
+      "reviewedItemSha256": "c8d113826eec4947191148ff6b8aa426cc4d8fbc44c06e8d1cfcd260a4f48cb9",
+      "supportingReview": "reviews/expansion/a-management-final-followup2.json",
+      "reviewedAt": "2026-10-01T18:08:08.728819+00:00"
+    },
+    {
+      "id": "x-management-178",
+      "status": "pass",
+      "reviewedItemSha256": "ec5c9aa1b96f799a797732e6a84a953dc7e0454c817d9556b74294fedad1c5a7",
+      "supportingReview": "reviews/expansion/a-management-151-200.followup1.json",
+      "reviewedAt": "2026-10-01T18:05:36.890957+00:00"
+    },
+    {
+      "id": "x-management-179",
+      "status": "pass",
+      "reviewedItemSha256": "035794c7ad8ddac58eea9bb68eea67c27c83a4deec3d9e797dfc8b3b9a786bea",
+      "supportingReview": "reviews/expansion/a-management-151-200.followup1.json",
+      "reviewedAt": "2026-10-01T18:05:36.890957+00:00"
+    },
+    {
+      "id": "x-management-180",
+      "status": "pass",
+      "reviewedItemSha256": "e81ba924e9c132778935f7928cdb077cebabf3437db2e7ef62a1c5fc63c8c32e",
+      "supportingReview": "reviews/expansion/a-management-151-200.followup1.json",
+      "reviewedAt": "2026-10-01T18:05:36.890957+00:00"
+    },
+    {
+      "id": "x-management-181",
+      "status": "pass",
+      "reviewedItemSha256": "c205c28a41a8a3717507296f2f8d8bea6677d167182a42f5b3afdf12c5039cf8",
+      "supportingReview": "reviews/expansion/a-management-151-200.followup1.json",
+      "reviewedAt": "2026-10-01T18:05:36.890957+00:00"
+    },
+    {
+      "id": "x-management-182",
+      "status": "pass",
+      "reviewedItemSha256": "eb18cc3651d0f0bf41d110baa5c4fe61ddda90fb483fbe2443b85c0668fbba73",
+      "supportingReview": "reviews/expansion/a-management-151-200.followup1.json",
+      "reviewedAt": "2026-10-01T18:05:36.890957+00:00"
+    },
+    {
+      "id": "x-management-183",
+      "status": "pass",
+      "reviewedItemSha256": "8b79b613915c8b7b4c7897bb2883fc13036b358fc20f680959418b3c6f65ddab",
+      "supportingReview": "reviews/expansion/a-management-151-200.followup1.json",
+      "reviewedAt": "2026-10-01T18:05:36.890957+00:00"
+    },
+    {
+      "id": "x-management-184",
+      "status": "pass",
+      "reviewedItemSha256": "98de21a3ca84a2ec2967ac7fd853130425cd600a2a4bea39057093dc22c874e5",
+      "supportingReview": "reviews/expansion/a-management-final-followup2.json",
+      "reviewedAt": "2026-10-01T18:08:08.728819+00:00"
+    },
+    {
+      "id": "x-management-185",
+      "status": "pass",
+      "reviewedItemSha256": "c93086c11bcbca36310566aee0a4e7f05b1ea38a160ffcfb18384babd8fdb40c",
+      "supportingReview": "reviews/expansion/a-management-final-followup2.json",
+      "reviewedAt": "2026-10-01T18:08:08.728819+00:00"
+    },
+    {
+      "id": "x-management-186",
+      "status": "pass",
+      "reviewedItemSha256": "a046835695d37daf433c12b2a4c440f3a55b74fe3134a807cfac2eb1c88f8f0d",
+      "supportingReview": "reviews/expansion/a-management-151-200.followup1.json",
+      "reviewedAt": "2026-10-01T18:05:36.890957+00:00"
+    },
+    {
+      "id": "x-management-187",
+      "status": "pass",
+      "reviewedItemSha256": "9dddd24cc1bdaf79b054858d175b4bfd4adb8528a79efddf30d35540420bc4e4",
+      "supportingReview": "reviews/expansion/a-management-151-200.followup1.json",
+      "reviewedAt": "2026-10-01T18:05:36.890957+00:00"
+    },
+    {
+      "id": "x-management-188",
+      "status": "pass",
+      "reviewedItemSha256": "9b6ca9027586bd1551df53331e41986cbd4db8c237290de307aaab2c1d281be0",
+      "supportingReview": "reviews/expansion/a-management-final-followup2.json",
+      "reviewedAt": "2026-10-01T18:08:08.728819+00:00"
+    },
+    {
+      "id": "x-management-189",
+      "status": "pass",
+      "reviewedItemSha256": "ecf666c32a4e228fc4b87413337217c41e5fda7fbf9585e034bc685af7e1e43a",
+      "supportingReview": "reviews/expansion/a-management-final-followup2.json",
+      "reviewedAt": "2026-10-01T18:08:08.728819+00:00"
+    },
+    {
+      "id": "x-management-190",
+      "status": "pass",
+      "reviewedItemSha256": "7c614181672e1aa2228dfeb73c2468ae8800d729271fbe534342967f3b109dcd",
+      "supportingReview": "reviews/expansion/a-management-151-200.followup1.json",
+      "reviewedAt": "2026-10-01T18:05:36.890957+00:00"
+    },
+    {
+      "id": "x-management-191",
+      "status": "pass",
+      "reviewedItemSha256": "ccbd468b7810bb204f5ef159a2e3fc470d2d0a0a7666ac4ce7b68d69ebcee950",
+      "supportingReview": "reviews/expansion/a-management-final-followup2.json",
+      "reviewedAt": "2026-10-01T18:08:08.728819+00:00"
+    },
+    {
+      "id": "x-management-192",
+      "status": "pass",
+      "reviewedItemSha256": "d2e056ddc74506cdacf7143df04a021336c16bbcad5c2acd336879b95f8690b6",
+      "supportingReview": "reviews/expansion/a-management-final-followup2.json",
+      "reviewedAt": "2026-10-01T18:08:08.728819+00:00"
+    },
+    {
+      "id": "x-management-193",
+      "status": "pass",
+      "reviewedItemSha256": "6e2e59d16159b6cf8ed1cc1941ed0f3f513a51d61361775fcc8f5793e642379c",
+      "supportingReview": "reviews/expansion/a-management-151-200.followup1.json",
+      "reviewedAt": "2026-10-01T18:05:36.890957+00:00"
+    },
+    {
+      "id": "x-management-194",
+      "status": "pass",
+      "reviewedItemSha256": "12b067255b060154839a5ebf64ed10b04bab8a88572717213cdebb41b66f0239",
+      "supportingReview": "reviews/expansion/a-management-151-200.followup1.json",
+      "reviewedAt": "2026-10-01T18:05:36.890957+00:00"
+    },
+    {
+      "id": "x-management-195",
+      "status": "pass",
+      "reviewedItemSha256": "2104d30984fe95a1a298a244102233532577ae10d56d51f0d4250c5955a01e20",
+      "supportingReview": "reviews/expansion/a-management-151-200.followup1.json",
+      "reviewedAt": "2026-10-01T18:05:36.890957+00:00"
+    },
+    {
+      "id": "x-management-196",
+      "status": "pass",
+      "reviewedItemSha256": "023153dbbf3019322e679ab0a720476d3770021802bcd9137b06bd5bec21f30e",
+      "supportingReview": "reviews/expansion/a-management-151-200.followup1.json",
+      "reviewedAt": "2026-10-01T18:05:36.890957+00:00"
+    },
+    {
+      "id": "x-management-197",
+      "status": "pass",
+      "reviewedItemSha256": "eaf9c4fd2261983e283592838d19e909465486ff73fc219c3dd14b2e4413f355",
+      "supportingReview": "reviews/expansion/a-management-151-200.followup1.json",
+      "reviewedAt": "2026-10-01T18:05:36.890957+00:00"
+    },
+    {
+      "id": "x-management-198",
+      "status": "pass",
+      "reviewedItemSha256": "a68388c0fc071e03c321aa2214211cc4bb144071a8426078fdab3cdd5728a4fd",
+      "supportingReview": "reviews/expansion/a-management-final-followup2.json",
+      "reviewedAt": "2026-10-01T18:08:08.728819+00:00"
+    },
+    {
+      "id": "x-management-199",
+      "status": "pass",
+      "reviewedItemSha256": "4abd6effb09ae59cf4c471cd4027c9eb4c029b974176bc5bd460da6cdeb65aa1",
+      "supportingReview": "reviews/expansion/a-management-151-200.followup1.json",
+      "reviewedAt": "2026-10-01T18:05:36.890957+00:00"
+    },
+    {
+      "id": "x-management-200",
+      "status": "pass",
+      "reviewedItemSha256": "5a2d26aa5e92209b2384a1687f3b035980e987f73a12a566ae7d36b3c453d643",
+      "supportingReview": "reviews/expansion/a-management-final-followup2.json",
+      "reviewedAt": "2026-10-01T18:08:08.728819+00:00"
+    }
+  ],
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

@@ -1,0 +1,103 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewerTask": "/root/author_risk_basic",
+  "reviewedAt": "2026-10-01T17:57:01.703672+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/legacy-revised.json",
+  "coverage": {
+    "reviewedItems": 9,
+    "reviewedIds": [
+      "management-05",
+      "health-08",
+      "pharmacology-06",
+      "pharmacology-11",
+      "risk-02",
+      "risk-12",
+      "management-17",
+      "safety-14",
+      "basic-13"
+    ],
+    "unreviewedIds": [],
+    "finalMatchingHashPasses": 120,
+    "unchangedPreviouslyReviewedPasses": 111
+  },
+  "method": "Actually re-read every field of the nine revised items and reasoned through the changed clinical choices and rationale alignment. The other 111 current raw items reproduce the hashes of prior individually reasoned passes in legacy-postreview.json. This is a changed-item follow-up, not a new claim to have reread the unchanged items in this pass.",
+  "limitations": [
+    "Independent AI review, not external clinician or psychometric validation.",
+    "Source verification was targeted as recorded in legacy-postreview.json; broad legacy source identifiers are not individual full-page validation."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "management-05",
+      "status": "pass",
+      "assessment": "The stable client permits arranging competent care and planned supervision. Written steps, an analogy with another skill, a brief demonstration and a colleague elsewhere do not establish readiness for independent practice; these are credible distinct competence errors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1695213239326d1126e652edc10909e8a5b5ce2ade9a749b0e568bf434583c61"
+    },
+    {
+      "id": "health-08",
+      "status": "pass",
+      "assessment": "The reading barrier supports plain language, prioritized teach-back and suitable visual demonstrations. Longer written content and using signature as the main comprehension measure are credible ineffective alternatives. All three keyed choices and individual rationales align.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "61e3a55da434916a8114a70841c370795a83ab2578f07f8d445b935b712b9f33"
+    },
+    {
+      "id": "pharmacology-06",
+      "status": "pass",
+      "assessment": "The infusion is stopped and help called in the stem, removing competing immediate actions. Respiratory and circulatory involvement makes prompt IM epinephrine first-line under protocol; antihistamine, bronchodilator and corticosteroid are comparable adjunct medicines that cannot replace it.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b9e4799a3f4c635a6dd6a73496ae43b55b9512fea4eeac1677b394549d6e1c5d"
+    },
+    {
+      "id": "pharmacology-11",
+      "status": "pass",
+      "assessment": "Loop-diuretic exposure connects new weakness and palpitations most directly to potassium depletion. Sodium, renal function and haemoglobin remain clinically relevant alternatives; the rationale appropriately prioritizes potassium alongside assessment rather than dismissing other causes.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ae391bcc1412b56f9ab0d7cca6623e770577120e4a41303731fdff3f8e4f0f63"
+    },
+    {
+      "id": "risk-02",
+      "status": "pass",
+      "assessment": "Potassium 6.4 mmol/L warrants urgent clinical assessment and ECG while a questionable specimen can be verified. Monitoring is correctly conditional on findings and protocol. Intake review or routine/repeat-result delay does not meet the immediate risk; options now have comparable specificity.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "70cfdc118ff7d0febb3e16523c3184d31f891c1198b3681d9544152a01cfa82e"
+    },
+    {
+      "id": "risk-12",
+      "status": "pass",
+      "assessment": "Severe apparent desaturation needs immediate assessment and reliable signal verification despite comfortable appearance. Cold perfusion explains possible error but not a safe routine delay; appearance-only response assessment and a long-term prescription change do not resolve uncertainty safely.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ab2165e15ca032c7d13b401d718f740761bbc84d5a10178a392b61fbfc8c543e"
+    },
+    {
+      "id": "management-17",
+      "status": "pass",
+      "assessment": "The stem specifies response and current safety. The keyed note links pain change to current alertness and respiratory rate; alternative notes contain useful but incomplete observations, or earlier safety findings. The key is no longer uniquely lengthy.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9006fbc0b15df8535e388e54f9c485519797923c4f372dbc9541a4b8d2da6d36"
+    },
+    {
+      "id": "safety-14",
+      "status": "pass",
+      "assessment": "The client already understands the bell, so timely toileting assistance addresses urgency and access. Additional reminders, an alarm or containment with unchanged scheduling are relevant fall-prevention actions but do not solve the identified cause.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "64e36f208184a576eaf676345a302f6a3a31ca21987aa632879002b9344c2b7c"
+    },
+    {
+      "id": "basic-13",
+      "status": "pass",
+      "assessment": "Severe incisional pain is a modifiable barrier to walking. Collaborative assessment, prescribed relief and graded functional reassessment address comfort and recovery; bed exercise substitution, poorly timed walking or declaring a mobility goal met from pain relief are distinct plausible planning errors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "eed61f3a50f385bdbbb8c7e7e7298844a494a6f8d6e3f26dd67b2f376b7c6571"
+    }
+  ]
+}

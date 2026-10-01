@@ -1,0 +1,902 @@
+[
+  {
+    "id": "x-risk-176",
+    "cat": "risk",
+    "title": "Pulmonary prevention outcome",
+    "stem": "A postoperative client is reassessed after an individualized breathing and mobility plan. Which findings best indicate improved lung expansion and clearance? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Chest excursions are deeper and coughing brings up secretions more effectively",
+      "The client tolerates a longer walk without needing increased oxygen support",
+      "The client completes the breathing sessions at the scheduled times",
+      "Breathing sounds quieter after sedating analgesia but chest excursions remain shallow"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "why": [
+      "Deeper ventilation and more effective expectoration demonstrate a physiological response to the plan.",
+      "Improved activity tolerance with unchanged support suggests improved respiratory reserve.",
+      "Completion documents participation but does not show that expansion or clearance improved.",
+      "Quieter behaviour or breathing after sedation does not establish effective ventilation when excursions remain shallow."
+    ],
+    "takeaway": "Evaluate pulmonary prevention through respiratory function and support needs.",
+    "refs": [
+      "c-assessment",
+      "c-spirometer"
+    ],
+    "exhibit": null,
+    "subtopic": "Evaluation of treatment and surveillance",
+    "learningObjective": "Evaluate pulmonary prevention through respiratory function and support needs.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-177",
+    "cat": "risk",
+    "title": "Fluid response trend",
+    "stem": "The exhibit shows observations before and two hours after prescribed treatment for volume depletion. Which interpretation best integrates the response?",
+    "type": "single",
+    "options": [
+      "Blood pressure has recovered, so the fluid deficit is fully corrected",
+      "The urine response shows renal improvement, but the circulation has not improved",
+      "Urine output remains lower than recent fluid intake, so replacement has failed",
+      "Several perfusion indicators have improved, and ordered reassessment should continue"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "A better blood pressure is reassuring but one set of observations does not establish complete replacement or sustained recovery.",
+      "Pulse, blood pressure and postural symptoms also improve, supporting a circulatory response rather than an isolated urine change.",
+      "During replacement, measured urine need not equal recent intake because fluids may be correcting an existing deficit.",
+      "Convergent changes in pulse, pressure, urine and symptoms support early improvement; continued monitoring establishes whether it persists."
+    ],
+    "takeaway": "Use converging clinical trends to evaluate fluid response.",
+    "refs": [
+      "c-assessment"
+    ],
+    "exhibit": [
+      [
+        "Observation",
+        "Before → 2 hours after prescribed treatment"
+      ],
+      [
+        "Pulse",
+        "112/min → 88/min"
+      ],
+      [
+        "Blood pressure",
+        "94/58 mmHg → 114/70 mmHg"
+      ],
+      [
+        "Measured urine",
+        "15 mL/h → 45 mL/h"
+      ],
+      [
+        "Symptoms",
+        "Dizzy sitting → no dizziness sitting"
+      ]
+    ],
+    "subtopic": "Evaluation of treatment and surveillance",
+    "learningObjective": "Use converging clinical trends to evaluate fluid response.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-178",
+    "cat": "risk",
+    "title": "Ventilation despite saturation",
+    "stem": "A client receiving prescribed oxygen becomes increasingly drowsy. The exhibit shows current arterial blood-gas and saturation results. Which interpretation requires the most immediate attention?",
+    "type": "single",
+    "options": [
+      "A primary metabolic disturbance is producing acidemia without impaired ventilation",
+      "Chronic carbon-dioxide retention is fully compensated and explains no new risk",
+      "Ventilation is inadequate despite the apparently acceptable oxygen saturation",
+      "An oxygenation deficit is the principal abnormality shown by the current results"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "The markedly raised arterial carbon dioxide directly indicates impaired ventilation; the bicarbonate does not support a primary metabolic explanation.",
+      "The pH remains acidemic and alertness is worsening, so the findings cannot be dismissed as fully compensated stable retention.",
+      "High carbon dioxide with acidemia and worsening arousal indicates ventilatory insufficiency even while oxygen supports saturation.",
+      "Oxygen saturation alone does not assess carbon-dioxide clearance; the shown urgent pattern is ventilatory failure."
+    ],
+    "takeaway": "Separate oxygenation from ventilation when evaluating respiratory monitoring.",
+    "refs": [
+      "c-abg",
+      "c-oximetry"
+    ],
+    "exhibit": [
+      [
+        "Observation",
+        "Current result"
+      ],
+      [
+        "Oxygen saturation",
+        "95% on prescribed supplemental oxygen"
+      ],
+      [
+        "Arterial pH",
+        "7.28 (reference 7.35–7.45)"
+      ],
+      [
+        "Arterial carbon dioxide",
+        "8.0 kPa (reference 4.7–6.0 kPa)"
+      ],
+      [
+        "Bicarbonate",
+        "27 mmol/L (reference 22–28 mmol/L)"
+      ],
+      [
+        "Alertness",
+        "Increasing drowsiness"
+      ]
+    ],
+    "subtopic": "Evaluation of treatment and surveillance",
+    "learningObjective": "Separate oxygenation from ventilation when evaluating respiratory monitoring.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "challenge",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-179",
+    "cat": "risk",
+    "title": "Bladder retraining outcome",
+    "stem": "After an individualized voiding plan, which finding most strongly suggests improved bladder emptying?",
+    "type": "single",
+    "options": [
+      "A completed diary with unchanged discomfort",
+      "Lower measured residuals with relief of fullness",
+      "More toilet visits with persistent small voids",
+      "Less pad use without output measurements"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Recording is useful but does not demonstrate treatment benefit.",
+      "Objective residual reduction and symptoms address the intended outcome.",
+      "Frequency alone does not establish effective emptying.",
+      "Containment use does not directly measure residual urine."
+    ],
+    "takeaway": "Measure emptying directly when evaluating a retention-focused plan.",
+    "refs": [
+      "c-catheter"
+    ],
+    "exhibit": null,
+    "subtopic": "Evaluation of treatment and surveillance",
+    "learningObjective": "Measure emptying directly when evaluating a retention-focused plan.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-180",
+    "cat": "risk",
+    "title": "Drain patency restored",
+    "stem": "After a kink in a surgical drain is corrected, which findings support restored function? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Drainage resumes and local swelling eases",
+      "The prescribed suction is maintained",
+      "The tubing has been replaced but swelling increases",
+      "Output stays absent with increasing pain"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "why": [
+      "Flow with reduced accumulation supports effective drainage.",
+      "A functioning closed-suction system should sustain its intended state.",
+      "Equipment change alone does not establish improvement.",
+      "Persisting accumulation symptoms argue against restored function."
+    ],
+    "takeaway": "Evaluate device correction by both function and client response.",
+    "refs": [
+      "c-drains"
+    ],
+    "exhibit": null,
+    "subtopic": "Evaluation of treatment and surveillance",
+    "learningObjective": "Evaluate device correction by both function and client response.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-181",
+    "cat": "risk",
+    "title": "Bleeding surveillance after biopsy",
+    "stem": "Four hours after a percutaneous kidney biopsy, which new observation requires urgent investigation even when the surface dressing remains dry?",
+    "type": "single",
+    "options": [
+      "Puncture soreness has fallen from 3/10 to 1/10 while resting",
+      "A small area of bruising at the puncture has not enlarged",
+      "Initially pink urine is becoming clearer with subsequent voids",
+      "Pulse rises from 84 to 112/min, pressure falls from 124/76 to 96/60 mm Hg and flank pain increases"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Improving local soreness is a recovery trend, although routine monitoring still continues.",
+      "An unchanged small bruise is less concerning than progressive systemic and pain changes.",
+      "Clearing urine is reassuring relative to new haemodynamic deterioration, though it does not end surveillance.",
+      "Tachycardia, falling pressure and increasing flank pain may reflect concealed bleeding; a dry dressing does not exclude it."
+    ],
+    "takeaway": "A dry external dressing does not exclude internal blood loss.",
+    "refs": [
+      "c-kidney-biopsy"
+    ],
+    "exhibit": null,
+    "subtopic": "Evaluation of treatment and surveillance",
+    "learningObjective": "A dry external dressing does not exclude internal blood loss.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-182",
+    "cat": "risk",
+    "title": "Refeeding progression decision",
+    "stem": "An undernourished client has new weakness as the feeding rate is due to increase. The exhibit shows the phosphate trend. Which decision is most appropriate?",
+    "type": "single",
+    "options": [
+      "Proceed with the scheduled increase because body weight has begun to rise",
+      "Proceed with the scheduled increase because nausea and abdominal distension are absent",
+      "Seek review of the metabolic change before implementing the scheduled increase",
+      "Proceed with the scheduled increase because delivered calories remain below target"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Weight gain may include fluid shifts and does not establish metabolic tolerance of feeding.",
+      "Gastrointestinal tolerance does not exclude refeeding-related electrolyte depletion.",
+      "The marked fall below the reference range with weakness requires prompt review before advancing nutrition.",
+      "An unmet calorie target does not outweigh evidence that the current progression may be causing a metabolic complication."
+    ],
+    "takeaway": "Use biochemical and clinical tolerance before advancing high-risk nutrition support.",
+    "refs": [
+      "c-refeeding"
+    ],
+    "exhibit": [
+      [
+        "Observation",
+        "Before feeding → today"
+      ],
+      [
+        "Phosphate",
+        "0.92 → 0.48 mmol/L"
+      ],
+      [
+        "Laboratory phosphate range",
+        "0.80–1.50 mmol/L"
+      ],
+      [
+        "Symptoms",
+        "New weakness"
+      ],
+      [
+        "Feeding plan",
+        "Scheduled increase today"
+      ]
+    ],
+    "subtopic": "Evaluation of treatment and surveillance",
+    "learningObjective": "Use biochemical and clinical tolerance before advancing high-risk nutrition support.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "challenge",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-183",
+    "cat": "risk",
+    "title": "Wound healing comparison",
+    "stem": "Which paired observations best support healing of a chronic wound under the current plan?",
+    "type": "single",
+    "options": [
+      "More frequent dressing changes with unchanged dimensions",
+      "Smaller dimensions and increased healthy granulation",
+      "Lower pain after analgesia with unchanged wound deterioration",
+      "Less drainage because the opening seals over a swollen cavity"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Care frequency is a process rather than evidence of healing.",
+      "Both indicate progress in tissue repair.",
+      "Symptom relief alone does not establish healing.",
+      "Reduced external drainage may conceal retained fluid."
+    ],
+    "takeaway": "Interpret wound progress through tissue and size changes rather than task frequency.",
+    "refs": [
+      "c-postoperative"
+    ],
+    "exhibit": null,
+    "subtopic": "Evaluation of treatment and surveillance",
+    "learningObjective": "Interpret wound progress through tissue and size changes rather than task frequency.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-184",
+    "cat": "risk",
+    "title": "Delirium intervention outcome",
+    "stem": "A client with delirium is reassessed after sleep support, sensory aids and treatment of contributing illness. Which findings support cognitive improvement? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "The client sustains attention throughout a conversation",
+      "Thoughts are more organized across repeated observations",
+      "The client is quieter after sedation but continues to lose the thread of questions",
+      "The client makes fewer spontaneous movements and spends less time out of bed"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "why": [
+      "Recovered attention addresses a core feature of delirium rather than behaviour alone.",
+      "Consistent improvement across observations is stronger evidence than one brief lucid interaction.",
+      "Reduced agitation after sedation does not establish recovery of attention or thinking.",
+      "Reduced activity may reflect hypoactivity or sedation and does not by itself show cognitive recovery."
+    ],
+    "takeaway": "Evaluate delirium through attention and cognition rather than quietness alone.",
+    "refs": [
+      "c-delirium"
+    ],
+    "exhibit": null,
+    "subtopic": "Evaluation of treatment and surveillance",
+    "learningObjective": "Evaluate delirium through attention and cognition rather than quietness alone.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-185",
+    "cat": "risk",
+    "title": "Antibiotic culture mismatch",
+    "stem": "A client taking an antibiotic for a culture-confirmed infection feels somewhat better. The final susceptibility report identifies resistance to the prescribed agent. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Continue the planned course without additional review because symptoms have improved",
+      "Obtain a repeat culture and wait for its result before contacting the prescribing team",
+      "Document symptom improvement as evidence that the organism has been cleared",
+      "Send the susceptibility result and current clinical response for prompt treatment review"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Partial symptom improvement does not resolve a mismatch between the organism and the prescribed treatment.",
+      "Another sample may be appropriate if ordered, but it should not delay communicating an actionable final result.",
+      "Symptom improvement does not establish microbiological clearance or invalidate susceptibility testing.",
+      "The team needs both laboratory and clinical information to reassess therapy; the nurse does not independently substitute an antibiotic."
+    ],
+    "takeaway": "Integrate susceptibility results with response when reviewing treatment effectiveness.",
+    "refs": [
+      "c-culture"
+    ],
+    "exhibit": null,
+    "subtopic": "Evaluation of treatment and surveillance",
+    "learningObjective": "Integrate susceptibility results with response when reviewing treatment effectiveness.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-186",
+    "cat": "risk",
+    "title": "Positive clot screen",
+    "stem": "Two days after surgery, a client develops unexplained pleuritic chest pain and shortness of breath. The D-dimer is positive, and diagnostic imaging is being arranged. Which interpretation is most accurate?",
+    "type": "single",
+    "options": [
+      "The result is unlikely to matter because the resting pulse remains within range",
+      "The postoperative setting explains the result sufficiently to exclude a new thrombus",
+      "The result must be interpreted with clinical findings and further diagnostic assessment",
+      "The positive result establishes pulmonary embolism as the cause of the symptoms"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "A single normal pulse does not exclude a clinically important thromboembolic cause of these symptoms.",
+      "Surgery can elevate D-dimer, but that does not safely explain away new chest pain and dyspnoea.",
+      "D-dimer is nonspecific; the symptoms and further testing determine whether a thrombus or another process is present.",
+      "A positive D-dimer alone does not confirm pulmonary embolism."
+    ],
+    "takeaway": "Distinguish a positive clot-screening test from a confirmed diagnosis.",
+    "refs": [
+      "c-d-dimer"
+    ],
+    "exhibit": null,
+    "subtopic": "Evaluation of treatment and surveillance",
+    "learningObjective": "Distinguish a positive clot-screening test from a confirmed diagnosis.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-187",
+    "cat": "risk",
+    "title": "Neutrophil result priority",
+    "stem": "A client on myelosuppressive therapy has a low absolute neutrophil count flagged by the laboratory. Which associated finding most increases urgency?",
+    "type": "single",
+    "options": [
+      "A small old bruise that is fading",
+      "A new fever and chills",
+      "Stable pallor without new symptoms",
+      "An unchanged mild appetite reduction"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "A resolving bruise does not establish a new infectious complication.",
+      "Low neutrophil protection makes infection symptoms particularly concerning.",
+      "Pallor may relate to anaemia but does not carry the same infection cue.",
+      "A stable appetite change is less urgent than new fever."
+    ],
+    "takeaway": "Interpret neutropenia together with signs of infection.",
+    "refs": [
+      "c-cancer-fever",
+      "c-cbc"
+    ],
+    "exhibit": null,
+    "subtopic": "Evaluation of treatment and surveillance",
+    "learningObjective": "Interpret neutropenia together with signs of infection.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-188",
+    "cat": "risk",
+    "title": "Platelet precautions evaluation",
+    "stem": "A client with treatment-related thrombocytopenia discusses home care. Which actions demonstrate appropriate bleeding precautions? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Uses a soft toothbrush and contacts the team about new gum bleeding",
+      "Checks with the team before starting a nonprescription medicine",
+      "Uses a disposable blade razor for a close shave as part of the usual routine",
+      "Adds nonprescription ibuprofen to manage a new mild headache"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "why": [
+      "Gentle oral care reduces trauma, and new bleeding should be reported rather than dismissed.",
+      "Nonprescription medicines can affect platelets or interact with treatment, so review supports safe selection.",
+      "A blade can cause cuts; an appropriate electric razor generally reduces skin injury.",
+      "Ibuprofen can impair platelet function and should not be added without team review in this context."
+    ],
+    "takeaway": "Evaluate bleeding-risk teaching through concrete self-care and reporting behaviours.",
+    "refs": [
+      "c-cancer-bleeding"
+    ],
+    "exhibit": null,
+    "subtopic": "Evaluation of treatment and surveillance",
+    "learningObjective": "Evaluate bleeding-risk teaching through concrete self-care and reporting behaviours.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-189",
+    "cat": "risk",
+    "title": "Renal recovery pattern",
+    "stem": "The exhibit shows trends after treatment for acute kidney dysfunction. Which interpretation best supports the next monitoring plan?",
+    "type": "single",
+    "options": [
+      "Creatinine has fallen, indicating that renal function has returned to the documented baseline",
+      "The urine response provides enough evidence to replace further biochemical checks with output monitoring",
+      "The fall from yesterday is too small to interpret because creatinine must first enter the reference range",
+      "Creatinine and urine output are improving, but the persistent rise above baseline still needs monitoring"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "The current creatinine of 130 µmol/L remains above the documented baseline of 75 µmol/L.",
+      "Improved output does not establish recovered filtration or stable electrolytes; prescribed biochemical monitoring remains relevant.",
+      "The direction of change can inform assessment before full normalization, especially when it agrees with output and clinical findings.",
+      "The trend supports improvement, while the residual abnormality means recovery is incomplete."
+    ],
+    "takeaway": "Evaluate renal recovery against baseline and multiple trends.",
+    "refs": [
+      "c-creatinine",
+      "c-assessment"
+    ],
+    "exhibit": [
+      [
+        "Observation",
+        "Baseline → yesterday → today"
+      ],
+      [
+        "Creatinine",
+        "75 → 180 → 130 µmol/L"
+      ],
+      [
+        "Urine output",
+        "Usual → 15 → 45 mL/h"
+      ],
+      [
+        "Clinical status",
+        "Alert; no new breathlessness"
+      ]
+    ],
+    "subtopic": "Evaluation of treatment and surveillance",
+    "learningObjective": "Evaluate renal recovery against baseline and multiple trends.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "challenge",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-190",
+    "cat": "risk",
+    "title": "Effective airway clearance",
+    "stem": "A client performs prescribed huff coughing after coaching. Which outcome best demonstrates effective clearance?",
+    "type": "single",
+    "options": [
+      "The nurse records all planned sessions",
+      "The client coughs longer but remains exhausted and congested",
+      "Secretions are expelled and breath sounds improve",
+      "The client describes the technique correctly"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Documentation of attempts is a process measure.",
+      "More effort without clearance may indicate an ineffective strategy.",
+      "The observation directly reflects movement of airway secretions.",
+      "Knowledge alone does not demonstrate clearance."
+    ],
+    "takeaway": "Judge airway-clearance techniques by secretion movement and respiratory response.",
+    "refs": [
+      "c-assessment"
+    ],
+    "exhibit": null,
+    "subtopic": "Evaluation of treatment and surveillance",
+    "learningObjective": "Judge airway-clearance techniques by secretion movement and respiratory response.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-191",
+    "cat": "risk",
+    "title": "Compression tolerance evaluation",
+    "stem": "A client starts prescribed compression therapy for venous disease. Which findings support ongoing safe tolerance? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Toes become cooler despite less ankle swelling",
+      "Reduced swelling without new distal pain or numbness",
+      "Skin remains intact at device edges",
+      "A tight rolled top leaves persistent skin indentations"
+    ],
+    "answer": [
+      1,
+      2
+    ],
+    "why": [
+      "Reduced swelling does not excuse compromised distal perfusion.",
+      "Benefit and absence of neurovascular symptoms support tolerance.",
+      "Inspection checks for pressure-related adverse effects.",
+      "Focal constriction indicates a fit or application problem."
+    ],
+    "takeaway": "Evaluate compression benefit together with distal circulation and skin response.",
+    "refs": [
+      "c-assessment"
+    ],
+    "exhibit": null,
+    "subtopic": "Evaluation of treatment and surveillance",
+    "learningObjective": "Evaluate compression benefit together with distal circulation and skin response.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-192",
+    "cat": "risk",
+    "title": "New pulse deficit in context",
+    "stem": "A client who usually has a regular pulse reports new palpitations. Two nurses simultaneously count an irregular apical pulse of 96/min and radial pulse of 82/min for one full minute. Blood pressure is 118/72 mm Hg and the client is alert. What is the most appropriate next step?",
+    "type": "single",
+    "options": [
+      "Assess symptoms and perfusion, and arrange rhythm assessment for the new pulse deficit",
+      "Repeat the two pulse counts at different times to determine which reading is accurate",
+      "Use the radial rate to classify the rhythm as satisfactory because it is within range",
+      "Use the apical rate as the sole finding and recheck routinely if palpitations settle"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "The simultaneous counts show a 14/min deficit, suggesting not every apical beat produces a palpable radial pulse; the new irregularity needs rhythm and clinical assessment.",
+      "Sequential counts would lose the same-time comparison needed to distinguish a true deficit from rate variation.",
+      "A numerically normal radial rate does not exclude an arrhythmia or explain the deficit.",
+      "An apical rate describes ventricular contractions but does not remove the significance of a new irregular rhythm with a peripheral deficit."
+    ],
+    "takeaway": "Interpret a new pulse deficit with rhythm and perfusion findings rather than treating a normal rate as reassuring.",
+    "refs": [
+      "c-assessment",
+      "c-ecg"
+    ],
+    "exhibit": null,
+    "subtopic": "Irregular pulse and peripheral perfusion",
+    "learningObjective": "Interpret a new pulse deficit with rhythm and perfusion findings rather than treating a normal rate as reassuring.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-193",
+    "cat": "risk",
+    "title": "Measured fluid balance",
+    "stem": "During a shift, a client receives 800 mL orally and 500 mL IV; measured urine is 900 mL and emesis 200 mL. What is the recorded measured balance? Exclude unmeasured losses; use mL.",
+    "type": "single",
+    "options": [
+      "Positive 400 mL",
+      "Negative 200 mL",
+      "Positive 1300 mL",
+      "Positive 200 mL"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "This ignores the 200 mL of measured emesis.",
+      "The subtraction direction is reversed.",
+      "This is total intake without subtracting measured output.",
+      "Intake 1300 mL minus measured output 1100 mL equals positive 200 mL."
+    ],
+    "takeaway": "Include all measured routes while stating limits of the balance calculation.",
+    "refs": [
+      "c-assessment"
+    ],
+    "exhibit": null,
+    "subtopic": "Evaluation of treatment and surveillance",
+    "learningObjective": "Include all measured routes while stating limits of the balance calculation.",
+    "reasoningSkill": "calculation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-194",
+    "cat": "risk",
+    "title": "Fever treatment evaluation",
+    "stem": "A client receiving cytotoxic chemotherapy is being assessed after a fever call. The prescribed antipyretic lowers temperature from 38.5 °C to 37.4 °C, but rigors and marked weakness continue. Which plan best reflects this response?",
+    "type": "single",
+    "options": [
+      "Use the lower temperature as the main recovery indicator and reduce observation frequency",
+      "Continue home symptom monitoring and seek further assessment if the fever returns",
+      "Continue urgent infection assessment, reporting the original fever and persistent systemic symptoms",
+      "Repeat temperature at the next medicine interval before deciding whether blood tests are needed"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "The medicine can reduce temperature without treating infection; persistent rigors and weakness are not evidence of recovery.",
+      "Recurrent fever is not required to justify assessment in this immunosuppressed client with ongoing systemic symptoms.",
+      "The response is symptomatic, not proof of infection resolution; the team needs the pretreatment fever and the remaining findings.",
+      "Waiting for another temperature risks delay despite continuing concerning symptoms."
+    ],
+    "takeaway": "Do not equate a lower temperature after antipyretic use with resolution of infection.",
+    "refs": [
+      "c-cancer-fever"
+    ],
+    "exhibit": null,
+    "subtopic": "Evaluation of treatment and surveillance",
+    "learningObjective": "Do not equate a lower temperature after antipyretic use with resolution of infection.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-195",
+    "cat": "risk",
+    "title": "Home oxygen review",
+    "stem": "A client uses prescribed home oxygen. Which reported changes warrant clinical review of the current plan? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "More portable cylinders are used because outings are longer, with unchanged settings and exercise tolerance",
+      "Breathlessness increases during the same walk that was manageable last week",
+      "The client feels a new need to exceed the prescribed settings to manage usual activities",
+      "Saturation remains within the individual target on the prescribed setting during the usual walk"
+    ],
+    "answer": [
+      1,
+      2
+    ],
+    "why": [
+      "Longer time away can explain greater cylinder use without a physiological change, although supply planning may need adjustment.",
+      "Worsening tolerance of a comparable task suggests a change in condition or support needs.",
+      "The perceived need for increased settings requires clinical assessment and an authorized plan, rather than independent adjustment.",
+      "A stable target reading with unchanged tolerance supports the current plan rather than a deterioration trigger."
+    ],
+    "takeaway": "Review changing oxygen needs while following the individualized prescription.",
+    "refs": [
+      "c-oximetry",
+      "c-assessment"
+    ],
+    "exhibit": null,
+    "subtopic": "Evaluation of treatment and surveillance",
+    "learningObjective": "Review changing oxygen needs while following the individualized prescription.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-196",
+    "cat": "risk",
+    "title": "Risk after symptom relief",
+    "stem": "A client on an individualized retention plan voids 180 mL and reports partial relief. An immediate bladder scan, repeated correctly under protocol, shows 420 mL remaining. The prescribed plan requires escalation when postvoid residual exceeds 350 mL. What should the nurse do next?",
+    "type": "single",
+    "options": [
+      "Follow the prescribed persistent-retention plan and report the measured residual",
+      "Encourage another oral drink and wait for the next spontaneous void before acting",
+      "Repeat the scan at the next routine four-hour interval because some urine was passed",
+      "Use the improvement in fullness to continue scheduled toileting without escalation"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "The verified residual exceeds the explicit client-specific threshold despite a measured void and partial symptom relief.",
+      "Additional intake and waiting do not address retained urine that already meets the agreed escalation criterion.",
+      "Passing urine does not negate a verified high residual, so routine delayed reassessment would not follow the plan.",
+      "Subjective relief is useful, but it does not establish adequate emptying when the objective threshold is exceeded."
+    ],
+    "takeaway": "Apply an individualized residual-volume threshold despite partial symptom relief after voiding.",
+    "refs": [
+      "c-catheter"
+    ],
+    "exhibit": null,
+    "subtopic": "Evaluation of treatment and surveillance",
+    "learningObjective": "Apply an individualized residual-volume threshold despite partial symptom relief after voiding.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-197",
+    "cat": "risk",
+    "title": "Nutrition surveillance quality",
+    "stem": "A client’s nutritional risk appears to be worsening while peripheral oedema varies. Which longitudinal record would best support evaluation by the care team?",
+    "type": "single",
+    "options": [
+      "Daily weights from different scales, supplement volumes supplied and the meals most often requested",
+      "Weekly bed weights, tray percentages served and a list of foods the client usually avoids at home",
+      "Current weight, daily oedema grades and the number of scheduled dietitian visits completed",
+      "Comparable weights with oedema noted, measured intake and current barriers to eating over time"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Noncomparable weights and supplied rather than consumed supplements can misrepresent change.",
+      "Served food is not actual intake, and historical avoidance may not identify the present eating barrier.",
+      "Oedema matters, but one weight and completed appointments do not show the intake and weight trajectory.",
+      "Comparable measurements, fluid context and actual intake help distinguish tissue loss, fluid effects and modifiable barriers."
+    ],
+    "takeaway": "Track comparable measurements and actual intake when reviewing nutritional risk.",
+    "refs": [
+      "c-nutrition",
+      "c-albumin"
+    ],
+    "exhibit": null,
+    "subtopic": "Evaluation of treatment and surveillance",
+    "learningObjective": "Track comparable measurements and actual intake when reviewing nutritional risk.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-198",
+    "cat": "risk",
+    "title": "Device-pressure response",
+    "stem": "An oxygen interface is refitted after pressure-related tenderness. Which reassessment best shows tissue improvement while maintaining the prescribed treatment?",
+    "type": "single",
+    "options": [
+      "Tenderness is unchanged, the skin remains intact and saturation stays within the individual target",
+      "Tenderness is reduced, the skin remains intact and saturation falls below the individual target",
+      "Tenderness is reduced, the skin remains intact and saturation stays within the individual target",
+      "Redness is reduced, pressure pain increases and saturation stays within the individual target"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Oxygenation is maintained, but persistent tenderness does not establish improvement of the pressure problem.",
+      "Tissue comfort improves, but the lower saturation suggests the refit may compromise treatment delivery.",
+      "This combines improving tissue tolerance with continuing effective prescribed oxygen support.",
+      "Less visible redness does not outweigh increasing pressure pain, which requires further assessment."
+    ],
+    "takeaway": "Evaluate device adjustments for both tissue benefit and maintained function.",
+    "refs": [
+      "c-pressure",
+      "c-oximetry"
+    ],
+    "exhibit": null,
+    "subtopic": "Evaluation of treatment and surveillance",
+    "learningObjective": "Evaluate device adjustments for both tissue benefit and maintained function.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-199",
+    "cat": "risk",
+    "title": "Risk teaching transfer",
+    "stem": "A client correctly recalls postprocedure warning signs but cannot identify whom to contact after hours. Which teaching action best addresses the remaining gap?",
+    "type": "single",
+    "options": [
+      "Review each warning sign again and ask the client to name the signs from memory",
+      "Rehearse an after-hours symptom scenario and have the client demonstrate how to obtain help",
+      "Arrange an earlier routine follow-up appointment and repeat the appointment details",
+      "Provide another written information sheet and ask the client to read it before going home"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "The signs are already recalled; repeating them does not establish the route for obtaining help.",
+      "A practical scenario checks whether the client can find and use an accessible contact route when a warning occurs.",
+      "Earlier planned follow-up does not solve access to urgent advice outside office hours.",
+      "Another leaflet may help, but demonstrated use is needed to verify the identified application gap."
+    ],
+    "takeaway": "Evaluate whether teaching can be used to obtain help, not merely recalled.",
+    "refs": [
+      "c-endoscopy",
+      "c-teachback"
+    ],
+    "exhibit": null,
+    "subtopic": "Evaluation of treatment and surveillance",
+    "learningObjective": "Evaluate whether teaching can be used to obtain help, not merely recalled.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-risk-200",
+    "cat": "risk",
+    "title": "Functional recovery after sedation",
+    "stem": "Before colonoscopy with sedation, a client walks independently with a cane. In recovery they are alert, vital signs are stable and pain is controlled, but they still need two people to steady them while walking. What follow-up plan best addresses the remaining risk?",
+    "type": "single",
+    "options": [
+      "Continue supervised recovery and reassess walking against baseline before confirming discharge readiness",
+      "Use a wheelchair for departure and have the accompanying adult provide the usual help at home",
+      "Provide a walker in place of the cane and rely on the adult escort to supervise its first use",
+      "Base readiness on alertness and stable vital signs while advising extra rest after arrival home"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "The new assistance requirement shows incomplete functional recovery despite reassuring resting observations and requires reassessment.",
+      "A wheelchair may facilitate transport but does not establish safe transfers or walking once home.",
+      "Changing equipment without demonstrating safe use does not resolve the observed post-sedation instability.",
+      "Alertness and vital signs are necessary observations but do not address the demonstrated fall risk below baseline."
+    ],
+    "takeaway": "Include functional recovery and safe mobility when evaluating discharge readiness after sedation.",
+    "refs": [
+      "c-colonoscopy",
+      "c-mobility"
+    ],
+    "exhibit": null,
+    "subtopic": "Post-sedation discharge readiness",
+    "learningObjective": "Include functional recovery and safe mobility when evaluating discharge readiness after sedation.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  }
+]

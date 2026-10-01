@@ -1,0 +1,264 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T18:20:29.992054+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/cross-b-psychosocial-051-075-029-revised.json",
+  "sourceSha256": "2fa05d3d0f368036ab0a40bfbe08a39fff17e0ee52cdcf1bf78f440ef509f745",
+  "coverage": {
+    "sourceItems": 26,
+    "reviewedItems": 26,
+    "reviewedIds": [
+      "x-psychosocial-029",
+      "x-psychosocial-051",
+      "x-psychosocial-052",
+      "x-psychosocial-053",
+      "x-psychosocial-054",
+      "x-psychosocial-055",
+      "x-psychosocial-056",
+      "x-psychosocial-057",
+      "x-psychosocial-058",
+      "x-psychosocial-059",
+      "x-psychosocial-060",
+      "x-psychosocial-061",
+      "x-psychosocial-062",
+      "x-psychosocial-063",
+      "x-psychosocial-064",
+      "x-psychosocial-065",
+      "x-psychosocial-066",
+      "x-psychosocial-067",
+      "x-psychosocial-068",
+      "x-psychosocial-069",
+      "x-psychosocial-070",
+      "x-psychosocial-071",
+      "x-psychosocial-072",
+      "x-psychosocial-073",
+      "x-psychosocial-074",
+      "x-psychosocial-075"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "All26 complete revised items were reread, including029 and051–075. Clinical rationale, options, metadata and source continuity were checked; earlier targeted source checks remain in initial reports.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-psychosocial-029",
+      "status": "pass",
+      "assessment": "The actual first-request scenario now requires implementing a reduction in family checking through supportive coping, while checklist guidance, another check and reassurance remain recognizable accommodation errors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3497c4d5acddb14e142a8ef320ed8957ba36b7d9948d3a9c0108261334ecca1e"
+    },
+    {
+      "id": "x-psychosocial-051",
+      "status": "pass",
+      "assessment": "Core sustained depressive features are correctly selected and the generic recognition task is now labelled foundation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1587cd51087eb365767713abd6fd617e362839eee7d012950e48cb5016cb33e4"
+    },
+    {
+      "id": "x-psychosocial-052",
+      "status": "pass",
+      "assessment": "The alert hungry client's stated comparison difficulty supports reducing choices while retaining autonomy, rather than changing format or transferring the decision.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f930144c8ac8a8f9c52be8f4ff186e533c7eb3e45375dfa790a12f18d50a92ea"
+    },
+    {
+      "id": "x-psychosocial-053",
+      "status": "pass",
+      "assessment": "The client's wish to participate despite initiation difficulty supports illness education and a manageable supported step; task takeover and family pressure do not match that goal.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "15c5ac96c3ffa6e0e8b8ca1be23ef2af0b81d9e314fd7ee7b431bc48c7e3a3ca"
+    },
+    {
+      "id": "x-psychosocial-054",
+      "status": "pass",
+      "assessment": "Repeated breakfast preparation with fewer prompts directly measures the agreed independent function, unlike knowledge, choice support or intermittent mood change.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "55da57c912cd2f0ebc1a2a26a0f72700d5ffe10c07022d66122ba1dcfef2655e"
+    },
+    {
+      "id": "x-psychosocial-055",
+      "status": "pass",
+      "assessment": "The revised parallel explanations distinguish screening from diagnosis and treatment selection; foundation metadata fits the concept.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a0a8771f0769dca72bec9867855fe56e151c263700744f74fb4140eb88517d86"
+    },
+    {
+      "id": "x-psychosocial-056",
+      "status": "pass",
+      "assessment": "Proactive accessible follow-up, deterioration contacts and practical routines support discharge continuity; waiting for recurrence is a credible incomplete plan. Foundation is appropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "74c7b8e157ead51b239f66c5ff2eba625d66d0d2f8bd7568225cd16bcada1cbd"
+    },
+    {
+      "id": "x-psychosocial-057",
+      "status": "pass",
+      "assessment": "Persistent six-week postpartum hopelessness and functional impairment justify timely assessment and immediate safety inquiry, with respite/sleep/peer support as complementary rather than sufficient plans.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1c294cb23328c68ea5cd6409598c07884981dc8ba0e9adebf36b59092c71b3b5"
+    },
+    {
+      "id": "x-psychosocial-058",
+      "status": "pass",
+      "assessment": "The delusional infant-related belief and severe early postpartum sleep loss require urgent assessment and supervised safety; plausible sleep or outpatient approaches do not match the urgency.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6abfde078ac692979123545740c82b5e7d0b38bc19198beb11715f7180191605"
+    },
+    {
+      "id": "x-psychosocial-059",
+      "status": "pass",
+      "assessment": "A private conversation obtains the adolescent's missing perspective on sustained decline and safety; collateral school-focused plans cannot replace that account.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "500065fcc56c932f03828fbfb81b8875e784bacc7b52d16f63ecdff902248d8e"
+    },
+    {
+      "id": "x-psychosocial-060",
+      "status": "pass",
+      "assessment": "Controlled pain and tolerable therapy make the expressed loss of hope the useful remaining participation barrier to explore; the rationale preserves safety inquiry when indicated.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a3532d7fdb42672c1fd48eebf8696bcee9db7be50e0cb68da65a84918e7d169c"
+    },
+    {
+      "id": "x-psychosocial-061",
+      "status": "pass",
+      "assessment": "Suicidal agitation, activation and inadequate intake are adverse changes, distinct from gradual functional recovery; application metadata no longer overstates challenge.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1d9d709b92118652bb113072f7261324b011cb8a2d62fc83af751789b77b516f"
+    },
+    {
+      "id": "x-psychosocial-062",
+      "status": "pass",
+      "assessment": "Current protection remains in place while unexpected calm and giving possessions require direct reassessment; neither mood appearance nor supportive visitors establish lower risk.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c03fe1e156b1fa763eaf94b147b199ae533cba7036af9cf8095412b4243105eb"
+    },
+    {
+      "id": "x-psychosocial-063",
+      "status": "pass",
+      "assessment": "Direct discussion of farewell messages and present intent resolves the actual discrepancy more effectively than repeating a screen or planning home support before assessing risk.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c9256ac10371af3fefc08ac3aa7070cd34594f897343187b4ef4f27a5ef9ea04"
+    },
+    {
+      "id": "x-psychosocial-064",
+      "status": "pass",
+      "assessment": "A promise does not establish readiness to reduce precautions; ongoing direct assessment and prescribed protection remain the defensible plan.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e8b1a4574a67253544e7099528b952cc62ff43d3ed3d48ad824101ac00c15525"
+    },
+    {
+      "id": "x-psychosocial-065",
+      "status": "pass",
+      "assessment": "The available pet support can facilitate care but does not negate an active suicide plan; intent/access assessment correctly takes priority.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c1a98df03682e42bc9417d8c97ae705cb35a691e0b72bfd88d6160a7e484c6fb"
+    },
+    {
+      "id": "x-psychosocial-066",
+      "status": "pass",
+      "assessment": "The foundational checklist identifies actionable warning signs, contacts and means safety, distinguishing these from reliance on a signed promise.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c766392e949408eaaef11503899051900eb83404d25024dd15d3c92d966e7197"
+    },
+    {
+      "id": "x-psychosocial-067",
+      "status": "pass",
+      "assessment": "The client knows and can reach contacts; rehearsing an opening statement targets the actual communication barrier rather than expanding the list.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "33071527866be37954b995d7172b83940c3a7bcccf679004b7fa2d36295ee9b2"
+    },
+    {
+      "id": "x-psychosocial-068",
+      "status": "pass",
+      "assessment": "The supplied applicable policy and imminent risk support transparent, necessary immediate team sharing; no universal Canadian legal rule is invented.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d92964554210610e9794e099dd80cec327305ef23950c1a0c9530cf59e10805f"
+    },
+    {
+      "id": "x-psychosocial-069",
+      "status": "pass",
+      "assessment": "Named trained acceptance of the continuous-observation role prevents a transfer gap; receiving the chart or entering a room does not itself transfer active observation responsibility.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4182b7388d386c3b6407fa17f22b1fb21179004b25cfd3f7fcebf011ad215082"
+    },
+    {
+      "id": "x-psychosocial-070",
+      "status": "pass",
+      "assessment": "Key/code control determines whether a proposed medication lockbox limits access, making the means-safety task concrete and distinct from a generic plan checklist.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fdd902c24fe32aeaf8a578b0abdb0c7f1888d4cbac6f38d1f454520c379e8d25"
+    },
+    {
+      "id": "x-psychosocial-071",
+      "status": "pass",
+      "assessment": "Unavailable contacts, inaccessible follow-up and a concrete mismatch in the support role identify operational gaps; an early warning sign strengthens the plan.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b06ea20aaac48808320139286330bd12982f02eaca654ea9791de43b6ef04c75"
+    },
+    {
+      "id": "x-psychosocial-072",
+      "status": "pass",
+      "assessment": "With wounds already treated, nonsuicidal stated function still leaves current suicide risk to be directly assessed before routine follow-up planning.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0606243d7920d3f026121d0cc78561afc5b232fa82b35efe514f3d93e7e9ae07"
+    },
+    {
+      "id": "x-psychosocial-073",
+      "status": "pass",
+      "assessment": "The task specifically asks opening exploration; the neutral antecedent/feeling question invites the client's account, while reassurance, coping advice and support contact serve different functions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "467230cffa997a9968977063a6f29a1c68c2b02d13146b161836fe77d885f00b"
+    },
+    {
+      "id": "x-psychosocial-074",
+      "status": "pass",
+      "assessment": "Linking the chosen grounding exercise to the earliest muscle-tension cue implements the client's stated wish to use it sooner; other timing or strategy changes do not.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1b76d0719f55f8abdb69c46401968d1b4463e0b571dccb1c04c4b9623acfd4d4"
+    },
+    {
+      "id": "x-psychosocial-075",
+      "status": "revise",
+      "assessment": "The direct intent inquiry is defensible, but it is twice as long as several alternatives and bundles two questions while the competing options ask one. This leaves a residual comprehensive-key cue.",
+      "issues": [
+        "The direct intent inquiry is defensible, but it is twice as long as several alternatives and bundles two questions while the competing options ask one. This leaves a residual comprehensive-key cue."
+      ],
+      "proposedChanges": [
+        "Shorten option0 to one parallel question: Were you preparing to end your life when you wrote these? In its rationale explain that the answer then informs direct assessment of current thoughts and safety. Preserve the remaining options and answer index."
+      ],
+      "reviewedItemSha256": "3f99c3c2cafd2c51c8cf480a64cf4e6f8f68fb29b09419a97b72a22b2ca17922"
+    }
+  ],
+  "reviewerTask": "/root/author_pharm_adaptation",
+  "activeSourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/d/questions.json"
+}

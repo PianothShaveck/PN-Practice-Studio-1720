@@ -1,0 +1,67 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:45:48.074403+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/risk-076-100.json",
+  "sourceSha256": "549494fa006f71f4908bf72ecb6d59bdb9aefa9eabc289e8de1480eee1814578",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 2,
+    "reviewedIds": [
+      "x-risk-083",
+      "x-risk-087"
+    ],
+    "unreviewedIds": [
+      "x-risk-076",
+      "x-risk-077",
+      "x-risk-078",
+      "x-risk-079",
+      "x-risk-080",
+      "x-risk-081",
+      "x-risk-082",
+      "x-risk-084",
+      "x-risk-085",
+      "x-risk-086",
+      "x-risk-088",
+      "x-risk-089",
+      "x-risk-090",
+      "x-risk-091",
+      "x-risk-092",
+      "x-risk-093",
+      "x-risk-094",
+      "x-risk-095",
+      "x-risk-096",
+      "x-risk-097",
+      "x-risk-098",
+      "x-risk-099",
+      "x-risk-100"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-risk-083",
+      "status": "pass",
+      "assessment": "New alternatives are realistic mistaken clearance criteria: label serving alone, absent symptoms and old normal potassium do not establish safety of potassium chloride substitution. Key and rationale fit prescribed restriction; NIDDK salt-substitute guidance independently verified.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e895327ef57761078643b1edd702fe72d4c9dc682dfd585a144ceeddff92b9a5"
+    },
+    {
+      "id": "x-risk-087",
+      "status": "pass",
+      "assessment": "Current item reread: protect and arrange assessment of a painless lesion because sensory loss can hide worsening. Diabetic-foot source corrects autonomic-neuropathy mismatch; the action does not require inferring diabetes where not stated.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "20467de46cca9e3632437e9f77dc7cab6c0269cf87bc248bc1f21dc62eddd950"
+    }
+  ],
+  "reviewerTask": "/root/review_legacy"
+}

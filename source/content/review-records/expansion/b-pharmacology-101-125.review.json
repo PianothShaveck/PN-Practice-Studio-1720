@@ -1,0 +1,344 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:27:50.650623+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/b-pharmacology-05.json",
+  "sourceSha256": "4fb156edd4af57de53f56b659896668c198d5f9a8bf91ea2e5930ada57c55e6e",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-pharmacology-101",
+      "x-pharmacology-102",
+      "x-pharmacology-103",
+      "x-pharmacology-104",
+      "x-pharmacology-105",
+      "x-pharmacology-106",
+      "x-pharmacology-107",
+      "x-pharmacology-108",
+      "x-pharmacology-109",
+      "x-pharmacology-110",
+      "x-pharmacology-111",
+      "x-pharmacology-112",
+      "x-pharmacology-113",
+      "x-pharmacology-114",
+      "x-pharmacology-115",
+      "x-pharmacology-116",
+      "x-pharmacology-117",
+      "x-pharmacology-118",
+      "x-pharmacology-119",
+      "x-pharmacology-120",
+      "x-pharmacology-121",
+      "x-pharmacology-122",
+      "x-pharmacology-123",
+      "x-pharmacology-124",
+      "x-pharmacology-125"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://pdf.hres.ca/dpd_pm/00024251.PDF",
+      "supports": "101–103: lithium renal handling, sodium depletion/dehydration risk and need to assess suspected toxicity.",
+      "limitation": "2014 primary product monograph used for stable mechanism/risk, not a current individualized dosing protocol."
+    },
+    {
+      "url": "https://pdf.hres.ca/dpd_pm/00065367.PDF",
+      "supports": "103: thiazide-related reduction in lithium clearance and need for close monitoring/authorized management.",
+      "limitation": "No dosing recommendation from this interaction table is incorporated into the item."
+    },
+    {
+      "url": "https://www.canada.ca/content/dam/hc-sc/documents/services/drugs-health-products/medeffect-canada/health-product-infowatch/health-product-infowatch-june-2017/hpiw-ivps_2017-06-eng.pdf",
+      "supports": "111: clozapine can cause severe gastrointestinal hypomotility, obstruction and ileus, with fatal reports.",
+      "limitation": "Safety communication supports the hazard, not an exact acute treatment pathway."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-pharmacology-101",
+      "status": "pass",
+      "assessment": "Fluid loss plus coarse tremor and ataxia supports possible lithium toxicity. An old level, a single drink and symptom suppression do not resolve the current risk; withholding pending prompt assessment is defensible.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "204472669c52df7280b9002d02f2d7be7924ccb704ce562a1eb7f9014fd49d2a"
+    },
+    {
+      "id": "x-pharmacology-102",
+      "status": "revise",
+      "assessment": "Without-mentioning and only-weight qualifiers advertise wrongness; extra coffee is a weak hydration alternative.",
+      "issues": [
+        "Without-mentioning and only-weight qualifiers advertise wrongness; extra coffee is a weak hydration alternative."
+      ],
+      "proposedChanges": [
+        "Use gradual sodium restriction, replacing sweat losses with the usual sports drink, or tracking body weight as competing plans. State the key as Coordinate sodium and hydration changes with the prescriber. Explain lithium handling and individualized consistency in rationales."
+      ],
+      "reviewedItemSha256": "eca9eaed30103b6c37e50a6b03837e3e13624bbf3bd169dc5562ce4757cd1eab"
+    },
+    {
+      "id": "x-pharmacology-103",
+      "status": "revise",
+      "assessment": "The pharmacist explicitly tells the learner the relevant interaction; all distractors use only/focus-only cueing.",
+      "issues": [
+        "The pharmacist explicitly tells the learner the relevant interaction; all distractors use only/focus-only cueing."
+      ],
+      "proposedChanges": [
+        "Remove the flagged-exposure sentence. Use parallel monitoring plans: separate administration times, monitor tremor at routine visits, obtain thyroid tests, or arrange lithium levels/renal review. Specify the new thiazide and recent stable level so the drug interaction must be inferred."
+      ],
+      "reviewedItemSha256": "2a89bc8ae29a6f7739b9933bfacd39c622486391d47b3494159f981f2b0d3fbb"
+    },
+    {
+      "id": "x-pharmacology-104",
+      "status": "revise",
+      "assessment": "As-the-only-intervention makes the timing distractor trivially wrong.",
+      "issues": [
+        "As-the-only-intervention makes the timing distractor trivially wrong."
+      ],
+      "proposedChanges": [
+        "Use Recommend taking the medicine earlier in the day, and explain why activation with new self-harm thoughts requires immediate safety assessment. Preserve urgent risk response and scope."
+      ],
+      "reviewedItemSha256": "efe985a053b4bbee097957ae1fd786d5bdcda8d86976a9706eac36a39f7258ca"
+    },
+    {
+      "id": "x-pharmacology-105",
+      "status": "revise",
+      "assessment": "Without-checking use explicitly advertises a defect and tomorrow is an arbitrary delay.",
+      "issues": [
+        "Without-checking use explicitly advertises a defect and tomorrow is an arbitrary delay."
+      ],
+      "proposedChanges": [
+        "Use four possible priorities/concerns of similar grammar: possible serotonin toxicity, antidepressant discontinuation symptoms, gastroenteritis with dehydration, or anxiety activation. Add relevant dose/adherence and neuromuscular findings to make one syndrome most concerning; avoid asking a PN to diagnose conclusively."
+      ],
+      "reviewedItemSha256": "8104855e7c38bbcb2d6e00d336f4e20ffd90d526a1252f90caebb159f90d63c6"
+    },
+    {
+      "id": "x-pharmacology-106",
+      "status": "revise",
+      "assessment": "Infection without-considering and mild/wait/only-routine labels make the key guessable.",
+      "issues": [
+        "Infection without-considering and mild/wait/only-routine labels make the key guessable."
+      ],
+      "proposedChanges": [
+        "Use parallel unqualified concerns: neuroleptic malignant syndrome, acute dystonia, akathisia, and infection-related delirium. The fever/rigidity/autonomic pattern and exposure distinguish the key; discuss urgency and differential uncertainty in explanations."
+      ],
+      "reviewedItemSha256": "ca0f191a05dbbc25a372bdc786d68e9e9afe975f09b36f218fffb3a75726436c"
+    },
+    {
+      "id": "x-pharmacology-107",
+      "status": "revise",
+      "assessment": "Before-reviewing and without-considering qualifiers cue the wrong options; key is longest and comprehensive.",
+      "issues": [
+        "Before-reviewing and without-considering qualifiers cue the wrong options; key is longest and comprehensive."
+      ],
+      "proposedChanges": [
+        "Compare concise actions: urgent assessment/treatment for acute dystonia, request physiotherapy stretching, report possible tardive dyskinesia, or use the prescribed nausea PRN. Identify the antiemetic and context; explain why recent onset and airway structures matter."
+      ],
+      "reviewedItemSha256": "c84501d9e26261e2ace418c3eb019fd1e1ae269c9e259f54669f5ac90aadf4ed"
+    },
+    {
+      "id": "x-pharmacology-108",
+      "status": "revise",
+      "assessment": "Pacing proves worsening psychosis and record-only refusal are exaggerated.",
+      "issues": [
+        "Pacing proves worsening psychosis and record-only refusal are exaggerated."
+      ],
+      "proposedChanges": [
+        "Use plausible interpretations: worsening psychosis, anxiety about the environment, deliberate avoidance of groups, and medication-related akathisia. Keep each option a short interpretation, with the improved hallucinations and dose timing discriminating the key."
+      ],
+      "reviewedItemSha256": "64801b18d19da8cf3e7afb488505ce968743e84de224f5e6e17d11330e7fb7df"
+    },
+    {
+      "id": "x-pharmacology-109",
+      "status": "revise",
+      "assessment": "Acute panic is not a credible explanation for chronic patterned orofacial movements.",
+      "issues": [
+        "Acute panic is not a credible explanation for chronic patterned orofacial movements."
+      ],
+      "proposedChanges": [
+        "Replace option2 with Arrange a routine dental review for ill-fitting dentures. Add denture status if needed; explain that the movement pattern and exposure require medication review rather than attributing it to an oral mechanical issue."
+      ],
+      "reviewedItemSha256": "cd6582a1ccf9487d37e78362b4baf537f4066568128192de7c74c3c4b3932d67"
+    },
+    {
+      "id": "x-pharmacology-110",
+      "status": "revise",
+      "assessment": "Focusing only on hallucination control is unrelated filler.",
+      "issues": [
+        "Focusing only on hallucination control is unrelated filler."
+      ],
+      "proposedChanges": [
+        "Replace option1 with Arrange a throat swab and routine follow-up. Explain why infectious symptoms during clozapine require prompt current blood-count/clinical review even if the last count was acceptable."
+      ],
+      "reviewedItemSha256": "100db1f8ff4bcbb1a6d79499bb93c1ebcfea816fb8004d29e2d61ca7a8e035fb"
+    },
+    {
+      "id": "x-pharmacology-111",
+      "status": "revise",
+      "assessment": "Review next week and waiting for severe pain make urgency trivial.",
+      "issues": [
+        "Review next week and waiting for severe pain make urgency trivial."
+      ],
+      "proposedChanges": [
+        "Use Offer the prescribed fibre supplement, Encourage an oral fluid trial, Arrange the next routine bowel-regimen review, and Obtain urgent abdominal assessment. Explain why vomiting and distension make routine oral measures inadequate and possible obstruction requires evaluation."
+      ],
+      "reviewedItemSha256": "3ca4bc39726b7d359cdd32d22530acde0fd81c240e621a0b065b9d643f6a6f93"
+    },
+    {
+      "id": "x-pharmacology-112",
+      "status": "revise",
+      "assessment": "Removing all protein and assuming the diagnosis incorrect are cartoon alternatives.",
+      "issues": [
+        "Removing all protein and assuming the diagnosis incorrect are cartoon alternatives."
+      ],
+      "proposedChanges": [
+        "Compare redistributing dietary protein with medication timing review, taking every dose with a protein-rich snack, adding an extra dose after large meals, or accepting reduced mobility as expected progression. Avoid a total-protein-elimination distractor; preserve adequate nutrition and authorized dose planning."
+      ],
+      "reviewedItemSha256": "daa2e193b5ae89b15211da390a04706a8c8e19781b5e9b9e3ba19d155296838b"
+    },
+    {
+      "id": "x-pharmacology-113",
+      "status": "pass",
+      "assessment": "The timing diary captures wearing-off rather than peak performance or weekly tablet totals. This is a direct but useful application of dose-response assessment; alternatives are incomplete measures rather than unsafe actions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d6856b1e6fd58cb305766262b838a982a6a2dd9619fbe917c1b8e514b461ca1f"
+    },
+    {
+      "id": "x-pharmacology-114",
+      "status": "pass",
+      "assessment": "Mechanical plaque care and dental follow-up are appropriate; mouthwash-only and avoiding enlarged gums are credible oral-care misconceptions. Independent medicine stopping is a recognizable medication-safety error.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a8e1f334d6cc187717b15aecef43dc6662730ce4ba3cf055a50138f84c9d00cb"
+    },
+    {
+      "id": "x-pharmacology-115",
+      "status": "revise",
+      "assessment": "Without-communicating the missed doses and defer-until-sleep-normalizes are overtly defective.",
+      "issues": [
+        "Without-communicating the missed doses and defer-until-sleep-normalizes are overtly defective."
+      ],
+      "proposedChanges": [
+        "Use Schedule a routine anxiety review, Recommend sleep-hygiene measures, Attribute symptoms to recurrence of the original anxiety, and Obtain urgent withdrawal assessment. Keep explanations about interruption history, seizure risk and authorized medication planning."
+      ],
+      "reviewedItemSha256": "e9579a00e69ea7eb299d1add796de3643369a06df19f126c269ccb0b2752571a"
+    },
+    {
+      "id": "x-pharmacology-116",
+      "status": "revise",
+      "assessment": "The stem tells the learner the duration mismatch and distractors include a routine sedative after respiratory depression.",
+      "issues": [
+        "The stem tells the learner the duration mismatch and distractors include a routine sedative after respiratory depression."
+      ],
+      "proposedChanges": [
+        "Remove the explicit comparison of opioid and naloxone duration; name a longer-acting exposure. Compare respiratory monitoring, pain-score monitoring, discharge after a single normal assessment, and observation focused on nausea/withdrawal. Explain recurrence risk from antagonist duration."
+      ],
+      "reviewedItemSha256": "05cbe9fd8e88ce1e5cf8b2ab0f83219345ccf6eabc9b95f97b237cf6aef84c11"
+    },
+    {
+      "id": "x-pharmacology-117",
+      "status": "revise",
+      "assessment": "Cutting a fentanyl patch is a cartoon heat-compensation action, and option3 says monitor only.",
+      "issues": [
+        "Cutting a fentanyl patch is a cartoon heat-compensation action, and option3 says monitor only."
+      ],
+      "proposedChanges": [
+        "Replace option0 with Remove the patch during each heating-pad session and reapply afterward; use Lower the pad temperature and inspect the skin for option3. Explain that intermittent removal/reapplication is not an authorized solution and skin appearance does not establish safe absorption. Retain direct-heat avoidance."
+      ],
+      "reviewedItemSha256": "c6f22c723432e85ffa230f1ea11decb7ba2720858c092d45a5de0c4dce72a997"
+    },
+    {
+      "id": "x-pharmacology-118",
+      "status": "pass",
+      "assessment": "The proxy-activation alternatives test realistic misunderstandings of lockouts, predicted pain and logs. Preserving patient self-activation is a defensible safety principle with a clear mechanism.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "44b9e182027b6e678a009cb4569e881e42c9f6333811c332416f88d4b33a0729"
+    },
+    {
+      "id": "x-pharmacology-119",
+      "status": "revise",
+      "assessment": "Waiting for severe pain is an implausible preventive plan; despite-limited-fluid advertises the fibre problem.",
+      "issues": [
+        "Waiting for severe pain is an implausible preventive plan; despite-limited-fluid advertises the fibre problem."
+      ],
+      "proposedChanges": [
+        "Use Begin a bowel regimen after the first missed bowel movement; Increase dietary fibre; Expect bowel effects to fade with tolerance; Review preventive bowel treatment and monitoring. Put fluid limitation into the stem if relevant and explain why fibre alone may be unsuitable."
+      ],
+      "reviewedItemSha256": "82f699fb2cd637856c18c74f4bfafcba9a37082ffc4d7cb0f453a1e44542f16a"
+    },
+    {
+      "id": "x-pharmacology-120",
+      "status": "revise",
+      "assessment": "Without-reviewing totals and combination-products-less-risk cue easy elimination.",
+      "issues": [
+        "Without-reviewing totals and combination-products-less-risk cue easy elimination."
+      ],
+      "proposedChanges": [
+        "Use Separate the products by one hour and Use the usual adult dose printed on each label. Explain cumulative ingredient exposure; add actual labelled doses if seeking application beyond recognition."
+      ],
+      "reviewedItemSha256": "71afba1edd26f32156752303702f96414cd16a60f6291008fa63d9d49c3c5d11"
+    },
+    {
+      "id": "x-pharmacology-121",
+      "status": "revise",
+      "assessment": "As-the-only-adjustment and ask-only dysuria qualifiers advertise errors.",
+      "issues": [
+        "As-the-only-adjustment and ask-only dysuria qualifiers advertise errors."
+      ],
+      "proposedChanges": [
+        "Use Give naproxen with food; Ask about urinary burning; Review urine colour for bleeding; Assess hydration/renal function and the medicine plan. Keep vomiting/oliguria data and explain why renal perfusion concern dominates."
+      ],
+      "reviewedItemSha256": "5c9e06ab21d8bfa24bde75cff3f18601dfb12e0805f806577c7180b35d2863b4"
+    },
+    {
+      "id": "x-pharmacology-122",
+      "status": "pass",
+      "assessment": "Daily-versus-weekly methotrexate discrepancy is a meaningful high-risk transition error. Administration before clarification is unsafe because last dose/day is unknown; frequency confirmation is defensible.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7281e3534d0a35518a9385fdb18e9d289878ea201e45ce39eb59065e9a327d41"
+    },
+    {
+      "id": "x-pharmacology-123",
+      "status": "revise",
+      "assessment": "Diagnosis-is-correct after one tablet is implausible and option types differ between explanation and actions.",
+      "issues": [
+        "Diagnosis-is-correct after one tablet is implausible and option types differ between explanation and actions."
+      ],
+      "proposedChanges": [
+        "Make all four statements explanations: urate lowering over time with separate flare care; immediate inflammation relief; as-needed use during joint pain; or prevention of pain only while each dose is active. Explain the difference in treatment purpose, and classify foundation if keeping a direct teaching item."
+      ],
+      "reviewedItemSha256": "997f701a72258121056193cb7a616786158c1dd75fffd2ca97561f6f27c4a353"
+    },
+    {
+      "id": "x-pharmacology-124",
+      "status": "revise",
+      "assessment": "Without-comparing potency and without-individualized-review clauses disclose why options are wrong.",
+      "issues": [
+        "Without-comparing potency and without-individualized-review clauses disclose why options are wrong."
+      ],
+      "proposedChanges": [
+        "Use Assess how well the previous opioid controlled pain and Use the published equianalgesic table dose as the two competing actions. Explain limitations in rationales, including incomplete cross-tolerance and client-specific review; avoid autonomous dose conversion by a PN."
+      ],
+      "reviewedItemSha256": "fb289906bc0bfe0aaf8a73e62a0ef3e8650d1bfa29b6e38241779a0a824c7220"
+    },
+    {
+      "id": "x-pharmacology-125",
+      "status": "pass",
+      "assessment": "The selected outcomes integrate function and alert breathing. Lower pain with difficult arousal and sleeping through all activities are plausible but unsafe definitions of success; rationale appropriately prioritizes tolerability.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "196d1463d8924b2dd283a514c1c2f045424156d7f511d02b435bba6ab4faa261"
+    }
+  ],
+  "activeSourceFile": "authoring/b/pharmacology-05.json",
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

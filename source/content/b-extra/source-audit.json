@@ -1,0 +1,517 @@
+{
+  "authorTask": "/root",
+  "date": "2026-10-01",
+  "items": 100,
+  "method": "Original clinical cases; targeted primary/institutional retrieval supports selected premises. References are further reading, not blanket individual clinical validation. Medical facts were paraphrased; no official or proprietary test-bank questions were copied.",
+  "limitations": [
+    "Not qualified clinical review or psychometric validation.",
+    "All sources were identified via retrieval; some were assessed from search excerpts rather than full-page retrieval.",
+    "A linked chapter may support the broad principle without validating every distractor.",
+    "International references support general clinical principles, not Canadian provincial authority."
+  ],
+  "sources": [
+    {
+      "key": "ba-uppergi",
+      "url": "https://openstax.org/books/medical-surgical-nursing/pages/19-4-disorders-of-the-upper-gi-system",
+      "method": "page opened or searched within",
+      "scope": "GI bleeding and upper GI complications"
+    },
+    {
+      "key": "ba-hepatic",
+      "url": "https://openstax.org/books/medical-surgical-nursing/pages/19-6-hepatic-and-biliary-disorders",
+      "method": "page opened or searched within",
+      "scope": "Cirrhosis, ascites and hepatic encephalopathy"
+    },
+    {
+      "key": "ba-pancreatitis",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/pancreatitis/treatment",
+      "method": "relevant search result/excerpt identified; no full-page claim",
+      "scope": "Supportive treatment, nutrition and complications"
+    },
+    {
+      "key": "ba-pancreatic-insufficiency",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/exocrine-pancreatic-insufficiency/treatment",
+      "method": "page opened or searched within",
+      "scope": "Enzyme replacement with meals and snacks"
+    },
+    {
+      "key": "ba-obstruction",
+      "url": "https://medlineplus.gov/intestinalobstruction.html",
+      "method": "page opened or searched within",
+      "scope": "Symptoms and risks of intestinal obstruction"
+    },
+    {
+      "key": "ba-crohns",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/crohns-disease/definition-facts",
+      "method": "relevant search result/excerpt identified; no full-page claim",
+      "scope": "Obstruction as a complication of Crohn disease"
+    },
+    {
+      "key": "ba-ulcerative-colitis",
+      "url": "https://openstax.org/books/medical-surgical-nursing/pages/19-5-disorders-of-the-lower-gi-system",
+      "method": "relevant search result/excerpt identified; no full-page claim",
+      "scope": "Severe colitis and abdominal complications"
+    },
+    {
+      "key": "ba-ostomy",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/ostomy-surgery-bowel/complications",
+      "method": "page opened or searched within",
+      "scope": "Stoma blood supply, dehydration and obstruction"
+    },
+    {
+      "key": "ba-ileostomy",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/ostomy-surgery-bowel/after",
+      "method": "page opened or searched within",
+      "scope": "Fluid absorption changes and distal mucus production"
+    },
+    {
+      "key": "ba-reflux",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/acid-reflux-ger-gerd-adults/symptoms-causes",
+      "method": "relevant search result/excerpt identified; no full-page claim",
+      "scope": "Dysphagia and unexplained weight loss as warning symptoms"
+    },
+    {
+      "key": "ba-food-impaction",
+      "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/bezoars-and-foreign-bodies/esophageal-foreign-bodies?media=print",
+      "method": "page opened or searched within",
+      "scope": "Complete obstruction and inability to manage secretions"
+    },
+    {
+      "key": "ba-dumping",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/dumping-syndrome/eating-diet-nutrition",
+      "method": "page opened or searched within",
+      "scope": "Meal size, fluid timing and concentrated sugars"
+    },
+    {
+      "key": "ba-esophagectomy",
+      "url": "https://www.uhn.ca/PatientsFamilies/Health_Information/Health_Topics/Documents/Esophagectomy.pdf",
+      "method": "page opened or searched within",
+      "scope": "Recovery and postoperative warning signs; general context"
+    },
+    {
+      "key": "ba-ulcer",
+      "url": "https://medlineplus.gov/ency/article/000206.htm",
+      "method": "relevant search result/excerpt identified; no full-page claim",
+      "scope": "Sudden severe abdominal pain as a warning symptom"
+    },
+    {
+      "key": "ba-bariatric",
+      "url": "https://www.uhn.ca/PatientsFamilies/Health_Information/Health_Topics/Documents/After_Your_Gastric_Bypass_Surgery.pdf",
+      "method": "page opened or searched within",
+      "scope": "New or worsening postoperative pain and urgent assessment"
+    },
+    {
+      "key": "ba-cholangitis",
+      "url": "https://www.msdmanuals.com/professional/hepatic-and-biliary-disorders/gallbladder-and-bile-duct-disorders/choledocholithiasis-and-cholangitis",
+      "method": "relevant search result/excerpt identified; no full-page claim",
+      "scope": "Biliary obstruction, fever and haemodynamic deterioration"
+    },
+    {
+      "key": "ba-anaemia",
+      "url": "https://cdn.cancer.ca/en/treatments/side-effects/low-red-blood-cell-count",
+      "method": "page opened or searched within",
+      "scope": "Symptoms and activity pacing"
+    },
+    {
+      "key": "ba-platelets",
+      "url": "https://cdn.cancer.ca/en/treatments/side-effects/low-platelet-count",
+      "method": "page opened or searched within",
+      "scope": "Bleeding risk after minor injury"
+    },
+    {
+      "key": "ba-neutropenia",
+      "url": "https://cancer.ca/en/treatments/side-effects/low-white-blood-cell-count",
+      "method": "relevant search result/excerpt identified; no full-page claim",
+      "scope": "Infection risk in neutropenia"
+    },
+    {
+      "key": "ba-mucositis",
+      "url": "https://cancer.ca/en/treatments/side-effects/sore-mouth-and-throat",
+      "method": "page opened or searched within",
+      "scope": "Pain, swallowing and nutritional consequences"
+    },
+    {
+      "key": "ba-tls",
+      "url": "https://cancer.ca/en/treatments/side-effects/tumour-lysis-syndrome",
+      "method": "page opened or searched within",
+      "scope": "Combined metabolic changes after cancer treatment"
+    },
+    {
+      "key": "ba-svcs",
+      "url": "https://cancer.ca/en/treatments/side-effects/superior-vena-cava-syndrome",
+      "method": "page opened or searched within",
+      "scope": "Symptoms and supportive treatment"
+    },
+    {
+      "key": "ba-cord",
+      "url": "https://cancer.ca/en/treatments/side-effects/spinal-cord-compression",
+      "method": "page opened or searched within",
+      "scope": "New neurological and bladder symptoms require urgent assessment"
+    },
+    {
+      "key": "ba-hypercalcaemia",
+      "url": "https://cancer.ca/en/treatments/side-effects/high-calcium-levels",
+      "method": "page opened or searched within",
+      "scope": "Metabolic symptoms and hydration treatment"
+    },
+    {
+      "key": "ba-bone-mets",
+      "url": "https://cancer.ca/en/cancer-information/cancer-types/metastatic/bone-metastases",
+      "method": "page opened or searched within",
+      "scope": "Fragility and pathological fractures"
+    },
+    {
+      "key": "ba-lymphoedema",
+      "url": "https://cdn.cancer.ca/en/treatments/side-effects/lymphedema",
+      "method": "page opened or searched within",
+      "scope": "Lymphatic swelling and skin/infection risks"
+    },
+    {
+      "key": "ba-malignant-obstruction",
+      "url": "https://cancer.ca/en/treatments/side-effects/bowel-obstruction",
+      "method": "relevant search result/excerpt identified; no full-page claim",
+      "scope": "Obstruction symptoms and need for assessment"
+    },
+    {
+      "key": "ba-diarrhoea",
+      "url": "https://cancer.ca/en/treatments/side-effects/diarrhea",
+      "method": "page opened or searched within",
+      "scope": "Treatment-related diarrhoea and dehydration"
+    },
+    {
+      "key": "ba-ascites",
+      "url": "https://cancer.ca/en/treatments/side-effects/fluid-in-the-abdomen-ascites",
+      "method": "page opened or searched within",
+      "scope": "Symptom burden and treatment options"
+    },
+    {
+      "key": "ba-epistaxis",
+      "url": "https://www.nhs.uk/conditions/nosebleed/",
+      "method": "page opened or searched within",
+      "scope": "Position and sustained nasal pressure"
+    },
+    {
+      "key": "ba-sickle",
+      "url": "https://cps.ca/en/documents/position/acute-complications-with-sickle-cell",
+      "method": "page opened or searched within",
+      "scope": "Pain, hydration and splenic sequestration"
+    },
+    {
+      "key": "ba-sickle-acs",
+      "url": "https://www.cdc.gov/sickle-cell/complications/acute-chest-syndrome.html",
+      "method": "relevant search result/excerpt identified; no full-page claim",
+      "scope": "New respiratory symptoms in sickle cell disease"
+    },
+    {
+      "key": "ba-haemophilia",
+      "url": "https://www1.wfh.org/publications/files/pdf-1863.pdf",
+      "method": "relevant search result/excerpt identified; no full-page claim",
+      "scope": "Acute joint bleed protection and haemostatic treatment"
+    },
+    {
+      "key": "ba-transfusion",
+      "url": "https://professionaleducation.blood.ca/en/transfusion/clinical-guide/transfusion-reactions",
+      "method": "page opened or searched within",
+      "scope": "Acute and delayed reactions and investigation"
+    },
+    {
+      "key": "ba-radiation",
+      "url": "https://www.bccancer.bc.ca/our-services/treatments/radiation-therapy/side-effects-management/primary-skin-care-of-radiation-therapy-side-effects",
+      "method": "page opened or searched within",
+      "scope": "Assessing skin reactions and suitable protective care"
+    },
+    {
+      "key": "ba-burns",
+      "url": "https://openstax.org/books/medical-surgical-nursing/pages/14-2-burns",
+      "method": "page opened or searched within",
+      "scope": "Electrical/deep burns, systemic consequences and thermal/fluid care"
+    },
+    {
+      "key": "ba-chemical",
+      "url": "https://www.nhs.uk/conditions/acid-and-chemical-burns/",
+      "method": "page opened or searched within",
+      "scope": "Safe removal of contaminant and irrigation"
+    },
+    {
+      "key": "ba-burn-first-aid",
+      "url": "https://www.nhs.uk/conditions/burns-and-scalds/",
+      "method": "relevant search result/excerpt identified; no full-page claim",
+      "scope": "Water cooling, avoidance of ice and keeping uninjured areas warm"
+    },
+    {
+      "key": "ba-burn-rehab",
+      "url": "https://www.chelwest.nhs.uk/your-visit/patient-leaflets/burns/scar-tissue-and-contractures-initial-stage",
+      "method": "page opened or searched within",
+      "scope": "Individualized stretching, positioning and splinting"
+    },
+    {
+      "key": "ba-fractures",
+      "url": "https://openstax.org/books/medical-surgical-nursing/pages/13-3-bone-fractures",
+      "method": "page opened or searched within",
+      "scope": "Fat embolism, external fixation and recovery"
+    },
+    {
+      "key": "ba-compartment",
+      "url": "https://orthoinfo.aaos.org/en/diseases--conditions/compartment-syndrome/",
+      "method": "page opened or searched within",
+      "scope": "Acute compartment syndrome signs and urgency"
+    },
+    {
+      "key": "ba-hip",
+      "url": "https://dchft.nhs.uk/leaflets/post-hip-replacement-symptom-checker/",
+      "method": "page opened or searched within",
+      "scope": "Acute pain and loss of weight-bearing with dislocation"
+    },
+    {
+      "key": "ba-traction",
+      "url": "https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Skin_traction/",
+      "method": "page opened or searched within",
+      "scope": "Alignment, prescribed weights and free suspension"
+    },
+    {
+      "key": "ba-osteomyelitis",
+      "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/further-reading/infection",
+      "method": "relevant search result/excerpt identified; no full-page claim",
+      "scope": "Bone infection management and treatment monitoring"
+    },
+    {
+      "key": "ba-paediatric-joint",
+      "url": "https://cps.ca/en/documents/position/osteoarticular-infections-in-children",
+      "method": "relevant search result/excerpt identified; no full-page claim",
+      "scope": "Febrile child with acute joint pain and loss of weight-bearing"
+    },
+    {
+      "key": "ba-neurovascular",
+      "url": "https://openstax.org/books/medical-surgical-nursing/pages/13-3-bone-fractures",
+      "method": "relevant search result/excerpt identified; no full-page claim",
+      "scope": "Serial neurovascular assessment around injury/immobilization"
+    },
+    {
+      "key": "ba-amputation",
+      "url": "https://www.nhs.uk/tests-and-treatments/amputation/",
+      "method": "page opened or searched within",
+      "scope": "Phantom pain, residual-limb care and postoperative problems"
+    },
+    {
+      "key": "ba-heat",
+      "url": "https://www.redcross.ca/training-and-certification/first-aid-tips-and-resources/first-aid-tips/summer-safety/heat-stroke-heat-exhaustion",
+      "method": "page opened or searched within",
+      "scope": "Altered cognition, urgent cooling and emergency support"
+    },
+    {
+      "key": "ba-cold",
+      "url": "https://www.redcross.ca/training-and-certification/first-aid-tips-and-resources/first-aid-tips/winter-safety-and-clothing/cold-related-emergencies",
+      "method": "page opened or searched within",
+      "scope": "Hypothermia recognition and protection of frostbitten tissue"
+    },
+    {
+      "key": "ba-drowning",
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/Drowning/",
+      "method": "page opened or searched within",
+      "scope": "Respiratory assessment after submersion"
+    },
+    {
+      "key": "ba-pph",
+      "url": "https://openstax.org/books/maternal-newborn-nursing/pages/21-2-postpartum-hemorrhage",
+      "method": "page opened or searched within",
+      "scope": "Atony, trauma and concealed bleeding"
+    },
+    {
+      "key": "ba-pregnancy",
+      "url": "https://openstax.org/books/maternal-newborn-nursing/pages/12-2-conditions-limited-to-pregnancy",
+      "method": "page opened or searched within",
+      "scope": "Hypertensive complications, vomiting and placental bleeding"
+    },
+    {
+      "key": "ba-ectopic",
+      "url": "https://openstax.org/books/maternal-newborn-nursing/pages/12-2-conditions-limited-to-pregnancy",
+      "method": "page opened or searched within",
+      "scope": "Ectopic pregnancy warning symptoms"
+    },
+    {
+      "key": "ba-cord-prolapse",
+      "url": "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/umbilical-cord-prolapse-in-late-pregnancy/",
+      "method": "Full official RCOG patient guidance opened; emergency positioning and skilled pressure relief read",
+      "scope": "Emergency activation, knee-chest pressure relief, skilled elevation of presenting part"
+    },
+    {
+      "key": "ba-newborn-glucose",
+      "url": "https://cps.ca/en/documents/position/newborns-at-risk-for-low-blood-glucose",
+      "method": "page opened or searched within",
+      "scope": "Immediate treatment of symptomatic hypoglycaemia"
+    },
+    {
+      "key": "ba-newborn-respiratory",
+      "url": "https://www.merckmanuals.com/professional/pediatrics/respiratory-problems-in-neonates/overview-of-perinatal-respiratory-disorders?media=print",
+      "method": "relevant search result/excerpt identified; no full-page claim",
+      "scope": "Tachypnoea, work of breathing and cyanosis"
+    },
+    {
+      "key": "ba-pyloric",
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/Pyloric_Stenosis/",
+      "method": "page opened or searched within",
+      "scope": "Stabilization before surgery"
+    },
+    {
+      "key": "ba-intussusception",
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/intussusception/",
+      "method": "page opened or searched within",
+      "scope": "Intermittent symptoms and urgent assessment"
+    },
+    {
+      "key": "ba-bronchiolitis",
+      "url": "https://cps.ca/en/documents/position/bronchiolitis",
+      "method": "page opened or searched within",
+      "scope": "Feeding/hydration support, gentle nasal clearance and discharge assessment"
+    },
+    {
+      "key": "ba-croup",
+      "url": "https://cps.ca/en/documents/position/acute-management-of-croup",
+      "method": "page opened or searched within",
+      "scope": "Minimizing distress, severity assessment, treatment response and dangerous alternatives"
+    },
+    {
+      "key": "ba-child-dehydration",
+      "url": "https://caringforkids.cps.ca/handouts/health-conditions-and-treatments/dehydration_and_diarrhea",
+      "method": "relevant search result/excerpt identified; no full-page claim",
+      "scope": "Small frequent oral rehydration volumes and reassessment"
+    },
+    {
+      "key": "ba-child-abdomen",
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/Abdominal_pain/",
+      "method": "page opened or searched within",
+      "scope": "Changing abdominal signs and referred genital causes"
+    },
+    {
+      "key": "ba-child-dka",
+      "url": "https://cps.ca/en/documents/position/current-recommendations-for-management-of-paediatric-diabetic-ketoacidosis",
+      "method": "page opened or searched within",
+      "scope": "Neurological warning signs during treatment"
+    },
+    {
+      "key": "ba-dumping-symptoms",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/dumping-syndrome/symptoms-causes",
+      "method": "page opened or searched within",
+      "scope": "Distinction between early dumping and delayed hypoglycaemia"
+    },
+    {
+      "key": "ba-transfusion-handling",
+      "url": "https://nacblood.ca/en/resource/infection-prevention-and-control-considerations-return-blood-components-and-products",
+      "method": "page opened or searched within",
+      "scope": "Retention and return of component bag and attached tubing when required after a reaction"
+    },
+    {
+      "key": "ba-newborn-feeding",
+      "url": "https://www.aafp.org/afp/2015/1201/p994",
+      "method": "Full AAFP clinical review opened; Other Support section read",
+      "scope": "Oral feeding interruption during neonatal respiratory distress to reduce aspiration risk"
+    }
+  ],
+  "targetedChecks": [
+    {
+      "sourceKey": "ba-pancreatic-insufficiency",
+      "ids": [
+        "x-adaptation-108"
+      ],
+      "claim": "Enzyme delivery with meals is supported; the case asks a focused use assessment."
+    },
+    {
+      "sourceKey": "ba-dumping-symptoms",
+      "ids": [
+        "x-adaptation-118",
+        "x-adaptation-120"
+      ],
+      "claim": "Early and late symptom timing and delayed hypoglycaemia were checked."
+    },
+    {
+      "sourceKey": "ba-ascites",
+      "ids": [
+        "x-adaptation-148"
+      ],
+      "claim": "Symptom-directed drainage is an available treatment option."
+    },
+    {
+      "sourceKey": "ba-transfusion-handling",
+      "ids": [
+        "x-adaptation-136"
+      ],
+      "claim": "Bag and tubing are retained/returned when required under institutional reaction procedures."
+    },
+    {
+      "sourceKey": "ba-transfusion",
+      "ids": [
+        "x-adaptation-137",
+        "x-adaptation-138"
+      ],
+      "claim": "Congestion pattern and delayed haemolysis features were checked in the Canadian guide."
+    },
+    {
+      "sourceKey": "ba-burn-rehab",
+      "ids": [
+        "x-adaptation-158"
+      ],
+      "claim": "Individualized stretching/splinting and addressing exercise-limiting pain are supported."
+    },
+    {
+      "sourceKey": "ba-compartment",
+      "ids": [
+        "x-adaptation-160"
+      ],
+      "claim": "Acute pain/neurological warning pattern and urgent assessment are supported."
+    },
+    {
+      "sourceKey": "ba-traction",
+      "ids": [
+        "x-adaptation-162"
+      ],
+      "claim": "Prescribed weights should hang freely; position and alignment matter."
+    },
+    {
+      "sourceKey": "ba-newborn-glucose",
+      "ids": [
+        "x-adaptation-185"
+      ],
+      "claim": "Symptomatic glucose1.7mmol/L at6hours requires immediate treatment, not routine feeding surveillance."
+    },
+    {
+      "sourceKey": "ba-pyloric",
+      "ids": [
+        "x-adaptation-188"
+      ],
+      "claim": "Hydration/electrolyte/acid-base correction precedes operative management."
+    },
+    {
+      "sourceKey": "ba-intussusception",
+      "ids": [
+        "x-adaptation-189"
+      ],
+      "claim": "Intermittent distress/pallor/vomiting may be important despite well intervals."
+    },
+    {
+      "sourceKey": "ba-bronchiolitis",
+      "ids": [
+        "x-adaptation-190",
+        "x-adaptation-191",
+        "x-adaptation-192"
+      ],
+      "claim": "Feeding/hydration support, gentle nasal suction and discharge clinical recovery criteria were checked."
+    },
+    {
+      "sourceKey": "ba-croup",
+      "ids": [
+        "x-adaptation-193",
+        "x-adaptation-194",
+        "x-adaptation-195",
+        "x-adaptation-196"
+      ],
+      "claim": "Minimal agitation, fatigue/poor-air-entry severity, transient epinephrine effect and dangerous drooling differential were checked."
+    },
+    {
+      "sourceKey": "ba-child-dka",
+      "ids": [
+        "x-adaptation-200"
+      ],
+      "claim": "Worsening headache/vomiting/consciousness after initial improvement are cerebral-injury warnings."
+    }
+  ]
+}

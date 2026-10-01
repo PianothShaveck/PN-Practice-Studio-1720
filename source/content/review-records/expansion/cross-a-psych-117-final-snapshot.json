@@ -1,0 +1,34 @@
+[
+  {
+    "id": "x-psychosocial-117",
+    "cat": "psychosocial",
+    "title": "Withdrawal and a scoring tool",
+    "stem": "During monitored alcohol withdrawal, a client becomes more tremulous and diaphoretic but remains oriented. The documented protocol directs immediate clinician notification when symptoms worsen and pulse exceeds 110/min; pulse is now 116/min. No rescue dose is authorized. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Repeat the full assessment at the next routine hourly interval",
+      "Offer fluids and recheck the pulse after a rest period",
+      "Increase observations to every 15 minutes",
+      "Notify the clinician now with the assessment findings"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "The stated escalation threshold has been met, so waiting for the routine interval delays the required response.",
+      "Supportive care may continue, but should not postpone notification of worsening signs above the defined threshold.",
+      "Closer monitoring may be needed, but does not replace the indicated clinician notification once the stated threshold has been met.",
+      "Prompt communication follows the supplied protocol and allows an authorized treatment decision."
+    ],
+    "takeaway": "Respond to worsening withdrawal using both clinical assessment and authorized protocols.",
+    "refs": [
+      "d-alcohol-ca"
+    ],
+    "exhibit": null,
+    "subtopic": "Withdrawal monitoring",
+    "learningObjective": "Respond to worsening withdrawal using both clinical assessment and authorized protocols.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  }
+]

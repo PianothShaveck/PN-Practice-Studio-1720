@@ -1,0 +1,815 @@
+[
+  {
+    "id": "x-psychosocial-076",
+    "cat": "psychosocial",
+    "title": "A support person's role",
+    "stem": "A client wants a sibling to check in each evening as part of a suicide safety plan. The sibling agrees to call the crisis team if the client reports an urge to act on suicidal thoughts. Which question best verifies preparation for this role?",
+    "type": "single",
+    "options": [
+      "Which evenings are usually easiest for you to telephone?",
+      "Would you prefer keeping the contact numbers on paper or your phone?",
+      "Have you helped another family member through distress before?",
+      "What would you say and do if that urge is reported during a call?"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Scheduling supports feasibility but does not demonstrate the planned response to the warning sign.",
+      "Contact format matters, but does not establish that the sibling understands the trigger and action.",
+      "Experience may inform support needs, but does not verify this specific agreed role.",
+      "A brief scenario lets the sibling demonstrate recognition, response and help-seeking using the actual plan."
+    ],
+    "takeaway": "Define concrete support roles without transferring all responsibility to family.",
+    "refs": [
+      "d-suicide"
+    ],
+    "exhibit": null,
+    "subtopic": "Suicide family support",
+    "learningObjective": "Define concrete support roles without transferring all responsibility to family.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-077",
+    "cat": "psychosocial",
+    "title": "Crisis resources in Canada",
+    "stem": "Which statements about a Canadian client's crisis-contact plan are appropriate? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Call or text 9-8-8 for suicide crisis support",
+      "Use emergency services when immediate safety is at risk",
+      "Use 9-8-8 instead of emergency services during an immediate life-threatening event",
+      "Keep contact methods in a format the client can access"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "why": [
+      "Canada's 9-8-8 service offers around-the-clock crisis support.",
+      "Immediate danger requires an emergency response.",
+      "Suicide crisis support does not replace emergency medical response when life is immediately threatened.",
+      "Usability matters when concentration and coping are impaired."
+    ],
+    "takeaway": "Distinguish crisis support from emergency response and make contacts accessible.",
+    "refs": [
+      "d-crisis-ca"
+    ],
+    "exhibit": null,
+    "subtopic": "Canadian crisis resources",
+    "learningObjective": "Distinguish crisis support from emergency response and make contacts accessible.",
+    "reasoningSkill": "teaching",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-078",
+    "cat": "psychosocial",
+    "title": "Suicide risk after an acute loss",
+    "stem": "An intoxicated client who lost housing yesterday says, \"Nothing matters; I may as well die.\" They are awake, breathing normally and physically stable, but cannot sustain a full interview. Which plan is appropriate now?",
+    "type": "single",
+    "options": [
+      "Complete the risk interview after sobriety and decide observation then",
+      "Provide current protection and medical assessment, then reassess as alertness improves",
+      "Begin housing applications and review the statement after accommodation is found",
+      "Offer supportive counselling and arrange a follow-up appointment tomorrow"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "A fuller later interview is needed, but current protection should not wait for sobriety.",
+      "Immediate safety and physical needs can be addressed while arranging a more reliable repeated assessment as intoxication resolves.",
+      "Housing is a major practical need but does not first address the current self-harm statement and impaired assessment.",
+      "Counselling and follow-up alone do not establish a safe plan during the current intoxication and expressed risk."
+    ],
+    "takeaway": "Provide immediate safety care when intoxication limits a complete suicide assessment.",
+    "refs": [
+      "d-suicide"
+    ],
+    "exhibit": null,
+    "subtopic": "Acute suicide-risk context",
+    "learningObjective": "Provide immediate safety care when intoxication limits a complete suicide assessment.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-079",
+    "cat": "psychosocial",
+    "title": "Risk documentation",
+    "stem": "During suicide assessment, a client reports an urge to overdose, identifies medication at home and agrees to remain for urgent review. The nurse initiates the required observation and contacts the clinician. Which entry accurately summarizes the current findings and response?",
+    "type": "single",
+    "options": [
+      "Client agrees to stay; cooperative behaviour suggests the crisis has passed.",
+      "Client identifies home medication; family involvement will make discharge safe.",
+      "Reports overdose urge and access; observation started and urgent review requested.",
+      "Screening indicates elevated risk; plan to repeat the score after reassurance."
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Agreement to remain does not establish that the crisis or risk has resolved.",
+      "Family involvement may help, but safe discharge has not been established from these findings.",
+      "This records the specific reported risk and actions actually taken without unsupported reassurance.",
+      "This omits the concrete findings and records a plan different from the response described."
+    ],
+    "takeaway": "Document suicide-risk evidence and the actions taken.",
+    "refs": [
+      "d-suicide"
+    ],
+    "exhibit": null,
+    "subtopic": "Suicide documentation",
+    "learningObjective": "Document suicide-risk evidence and the actions taken.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-080",
+    "cat": "psychosocial",
+    "title": "Emerging mania",
+    "stem": "A client with bipolar disorder has slept very little for three nights, feels unusually energetic and has spent money needed for rent. Their previous episode began with the same pattern. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Arrange prompt review with the treating team",
+      "Begin sleep-hygiene coaching and review next week",
+      "Schedule the usual monthly mood follow-up",
+      "Start a mood diary for discussion at the next visit"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "The personal recurrence pattern and current financial consequence warrant prompt assessment and possible care-plan adjustment.",
+      "Sleep support can help but is insufficient as the sole response to already escalating symptoms and impaired decisions.",
+      "The routine interval may delay assessment of a meaningful current change.",
+      "Tracking is useful, but should complement rather than postpone review of the current escalation."
+    ],
+    "takeaway": "Recognize reduced sleep and impulsivity as possible early mania.",
+    "refs": [
+      "d-bipolar"
+    ],
+    "exhibit": null,
+    "subtopic": "Bipolar relapse recognition",
+    "learningObjective": "Recognize reduced sleep and impulsivity as possible early mania.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-081",
+    "cat": "psychosocial",
+    "title": "Nutrition during mania",
+    "stem": "A client experiencing mania has eaten little today because they leave meals after a few bites. They swallow safely and accept brief individual support. Which plan best supports intake now?",
+    "type": "single",
+    "options": [
+      "Provide a full plated meal in the busy dining room",
+      "Wait for the next scheduled group meal in an hour",
+      "Offer a menu and ask the client to plan the evening meal",
+      "Offer a sandwich and drink in a quiet brief supported sitting"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "The longer, more stimulating meal setting may reproduce the difficulty already limiting intake.",
+      "Waiting prolongs the identified intake deficit despite an available manageable approach.",
+      "Planning requires sustained attention and does not provide food now.",
+      "A short supported opportunity with manageable food and fluid fits the observed attention and intake needs."
+    ],
+    "takeaway": "Adapt nutrition support to the activity and attention patterns of mania.",
+    "refs": [
+      "d-bipolar"
+    ],
+    "exhibit": null,
+    "subtopic": "Mania physical needs",
+    "learningObjective": "Adapt nutrition support to the activity and attention patterns of mania.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-082",
+    "cat": "psychosocial",
+    "title": "Supporting sleep in mania",
+    "stem": "Which nursing actions fit a coordinated plan for a client with acute mania? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Reduce unnecessary evening stimulation",
+      "Monitor sleep and rest patterns",
+      "Encourage late-night competitive activities to tire the client",
+      "Provide predictable brief interactions"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "why": [
+      "Lower stimulation supports an environment more compatible with rest.",
+      "Sleep trends inform severity and treatment response.",
+      "Competition and stimulation may intensify activation.",
+      "Predictable concise contact reduces overload and conflict."
+    ],
+    "takeaway": "Support rest through environmental adaptation and monitoring during mania.",
+    "refs": [
+      "d-bipolar"
+    ],
+    "exhibit": null,
+    "subtopic": "Mania sleep support",
+    "learningObjective": "Support rest through environmental adaptation and monitoring during mania.",
+    "reasoningSkill": "intervention",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-083",
+    "cat": "psychosocial",
+    "title": "Limit setting during mania",
+    "stem": "A client with mania is about to enter another client's bedroom again. No threat is occurring. Which response provides the clearest immediate boundary?",
+    "type": "single",
+    "options": [
+      "Let us talk about how the other client felt when you entered earlier.",
+      "This is their private room; come with me to the lounge.",
+      "We can arrange a suitable social visit later in the day.",
+      "We will review the unit privacy rules in the next group meeting."
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Explaining impact may help later, but requires more processing before stopping the immediate boundary crossing.",
+      "A short concrete limit and appropriate destination address the action now without shaming the client.",
+      "Planning a later visit does not clearly address the room entry occurring now.",
+      "A later group discussion does not provide the needed immediate direction."
+    ],
+    "takeaway": "Use brief consistent boundaries with a concrete alternative during mania.",
+    "refs": [
+      "d-bipolar"
+    ],
+    "exhibit": null,
+    "subtopic": "Mania behavioural support",
+    "learningObjective": "Use brief consistent boundaries with a concrete alternative during mania.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-084",
+    "cat": "psychosocial",
+    "title": "Impulsive financial decisions",
+    "stem": "A hospitalized client with marked manic distractibility wants to make a large nonurgent purchase and cannot stay with discussion of its financial consequences. What is the most appropriate immediate nursing proposal?",
+    "type": "single",
+    "options": [
+      "Complete a detailed monthly budgeting worksheet together",
+      "Call a chosen supporter to discuss which product is best",
+      "Suggest a pause while the team reviews decision-support needs",
+      "Provide written purchase details for the client to compare now"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "A worksheet may help later but requires sustained processing the client currently cannot demonstrate.",
+      "Support can be valuable, but discussing product choice does not address difficulty considering consequences.",
+      "A reversible pause allows assessment and support without assuming the diagnosis itself removes financial capacity.",
+      "More detail does not resolve the observed current decision-making difficulty."
+    ],
+    "takeaway": "Address impulsive high-impact decisions through delay and appropriate assessment.",
+    "refs": [
+      "d-bipolar"
+    ],
+    "exhibit": null,
+    "subtopic": "Mania judgment",
+    "learningObjective": "Address impulsive high-impact decisions through delay and appropriate assessment.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-085",
+    "cat": "psychosocial",
+    "title": "Communication with pressured speech",
+    "stem": "A client with mania speaks rapidly and changes topics before answering a question about sleep. What approach best helps obtain this information?",
+    "type": "single",
+    "options": [
+      "Ask one brief sleep question and gently redirect to it",
+      "Invite an uninterrupted account of the whole previous day",
+      "Provide a full written history form to complete",
+      "Repeat the original open-ended question at the same length"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "A concrete limited question with calm redirection matches the current attention difficulty.",
+      "A broad narrative may increase topic shifts before obtaining the needed detail.",
+      "A full form adds processing demands and may not fit current distractibility.",
+      "Repeating the same broad demand does not adapt to the observed difficulty."
+    ],
+    "takeaway": "Keep communication concrete and focused during manic distractibility.",
+    "refs": [
+      "d-bipolar"
+    ],
+    "exhibit": null,
+    "subtopic": "Mania communication",
+    "learningObjective": "Keep communication concrete and focused during manic distractibility.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-086",
+    "cat": "psychosocial",
+    "title": "Family plan for bipolar recurrence",
+    "stem": "With the client's agreement, a family bipolar-care plan directs contacting the team after two nights of markedly reduced sleep plus renewed impulsive spending. The family observes both changes today. Which response applies the plan?",
+    "type": "single",
+    "options": [
+      "Continue the sleep diary until the next scheduled appointment",
+      "Ask the client to spend the weekend resting before calling",
+      "Review the family budget together before deciding on contact",
+      "Contact the agreed team now and describe the observed changes"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Records are useful but the specified contact threshold has already been reached.",
+      "Rest support may help, but does not replace the agreed response to this combination.",
+      "Financial support can be part of care but should not delay the planned clinical contact.",
+      "The actual observations meet the individualized threshold, making the agreed team contact appropriate."
+    ],
+    "takeaway": "Build bipolar relapse plans around the client's own early warning pattern.",
+    "refs": [
+      "d-bipolar"
+    ],
+    "exhibit": null,
+    "subtopic": "Bipolar family education",
+    "learningObjective": "Build bipolar relapse plans around the client's own early warning pattern.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-087",
+    "cat": "psychosocial",
+    "title": "Evaluating mania improvement",
+    "stem": "Which findings suggest improvement in a client treated for mania? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Longer sustained sleep periods",
+      "Better ability to remain with a simple task",
+      "Increased impulsive spending plans",
+      "Improved food and fluid intake"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "why": [
+      "Restoring sleep can indicate reduced activation.",
+      "Improved attention supports meaningful functional recovery.",
+      "Growing impulsivity suggests continuing impaired judgment.",
+      "Improved intake addresses a common physical consequence of mania."
+    ],
+    "takeaway": "Evaluate manic recovery through sleep, attention, judgment and basic needs.",
+    "refs": [
+      "d-bipolar"
+    ],
+    "exhibit": null,
+    "subtopic": "Mania outcomes",
+    "learningObjective": "Evaluate manic recovery through sleep, attention, judgment and basic needs.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-088",
+    "cat": "psychosocial",
+    "title": "Mood tracking for bipolar disorder",
+    "stem": "A stable client with bipolar disorder wants to recognize a pattern in which shorter sleep precedes rising energy and spending. Which daily record best helps identify that sequence?",
+    "type": "single",
+    "options": [
+      "Sleep hours, mood, energy and spending changes with dates",
+      "Meal times, daily weight and appetite changes with dates",
+      "Medication times, doses and refill dates each month",
+      "Weekly appointment dates and topics discussed at each visit"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Dated tracking of the relevant variables can show their order and relationship over time.",
+      "Nutrition measures matter in care but do not directly capture the recurrence pattern described.",
+      "Medication records are useful but do not document the sleep-to-activation sequence.",
+      "Visit records show service contact rather than the daily progression of the warning pattern."
+    ],
+    "takeaway": "Track mood alongside sleep, activity and context in bipolar care.",
+    "refs": [
+      "d-bipolar"
+    ],
+    "exhibit": null,
+    "subtopic": "Bipolar self-management",
+    "learningObjective": "Track mood alongside sleep, activity and context in bipolar care.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-089",
+    "cat": "psychosocial",
+    "title": "Feeling well and treatment continuation",
+    "stem": "A client with bipolar disorder feels well and wants to stop follow-up, saying, \"I thought appointments were for when I am ill.\" Which response best supports an informed decision?",
+    "type": "single",
+    "options": [
+      "You could return when the early warning signs begin again.",
+      "Follow-up also supports staying well; what concerns do you have about continuing?",
+      "We can focus future visits on whether you need another prescription.",
+      "You could discuss spacing appointments after the next episode resolves."
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Symptom-triggered contact is useful but does not explain preventive review during stability.",
+      "Explaining the maintenance purpose while exploring concerns supports a shared review rather than automatic cessation.",
+      "Prescription access is one function, but narrowing visits to refills misses broader maintenance needs.",
+      "Waiting for another episode does not address the current misunderstanding about care during wellness."
+    ],
+    "takeaway": "Explain the purpose of maintenance care during bipolar stability.",
+    "refs": [
+      "d-bipolar"
+    ],
+    "exhibit": null,
+    "subtopic": "Bipolar maintenance",
+    "learningObjective": "Explain the purpose of maintenance care during bipolar stability.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-090",
+    "cat": "psychosocial",
+    "title": "Depressive and activated symptoms together",
+    "stem": "A physically stable client reports hopelessness while pacing, sleeping little and describing racing thoughts. Which assessment is the immediate priority?",
+    "type": "single",
+    "options": [
+      "How many hours of sleep occurred on each recent night?",
+      "What purchases have been made during the past week?",
+      "Are there current thoughts of suicide, intent or a plan?",
+      "Were the prescribed medicines taken on schedule this week?"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Sleep history helps characterize the mood pattern but does not establish current self-harm risk.",
+      "Impulsivity matters to the broader assessment but is secondary to the combined hopelessness and activation cue.",
+      "Direct safety inquiry is needed because activation does not protect against risk associated with hopelessness.",
+      "Medication history informs treatment review but should not postpone direct assessment of current danger."
+    ],
+    "takeaway": "Escalate hopelessness accompanied by activation or agitation.",
+    "refs": [
+      "d-bipolar"
+    ],
+    "exhibit": null,
+    "subtopic": "Mixed mood symptoms",
+    "learningObjective": "Escalate hopelessness accompanied by activation or agitation.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-091",
+    "cat": "psychosocial",
+    "title": "Distinguishing reduced need from insomnia",
+    "stem": "A client sleeps two hours nightly yet feels fully rested, unusually powerful and ready to start several major projects. Which interpretation best fits this sleep report?",
+    "type": "single",
+    "options": [
+      "Reduced need for sleep accompanying mood activation",
+      "Insomnia producing daytime exhaustion and impaired energy",
+      "A delayed sleep phase with adequate sleep later in the day",
+      "Worry-related sleep loss followed by fatigue and desire for more rest"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Rested high energy despite very little sleep, together with grandiosity and activation, differs from inability to sleep while tired.",
+      "The client reports feeling rested and highly energetic rather than exhausted.",
+      "The scenario does not describe obtaining normal sleep at a later time.",
+      "Worry-related sleep loss commonly includes wanting sleep and fatigue, which differ from the stated pattern."
+    ],
+    "takeaway": "Assess reduced sleep need together with energy and judgment changes.",
+    "refs": [
+      "d-bipolar"
+    ],
+    "exhibit": null,
+    "subtopic": "Mania recognition",
+    "learningObjective": "Assess reduced sleep need together with energy and judgment changes.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-092",
+    "cat": "psychosocial",
+    "title": "Protecting dignity during disinhibition",
+    "stem": "A client with mania makes another sexual comment to a peer who looks uncomfortable. No physical threat is occurring. Which response best addresses the current boundary?",
+    "type": "single",
+    "options": [
+      "Explain at length how comments can affect relationships",
+      "Ask the peer to describe how the comment made them feel",
+      "Offer a different activity for the whole group",
+      "State that sexual comments must stop and redirect privately"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "A lengthy explanation may exceed current attention and delays a clear immediate limit.",
+      "The peer should not have to manage the boundary through a confrontation.",
+      "Changing activities may redirect attention but leaves the expected behaviour unclear.",
+      "A brief respectful limit addresses the behaviour while private redirection preserves dignity and protects the peer."
+    ],
+    "takeaway": "Address disinhibition with dignity, limits and coordinated reassessment.",
+    "refs": [
+      "d-bipolar"
+    ],
+    "exhibit": null,
+    "subtopic": "Mania interpersonal safety",
+    "learningObjective": "Address disinhibition with dignity, limits and coordinated reassessment.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-093",
+    "cat": "psychosocial",
+    "title": "Selecting manageable activities",
+    "stem": "A client recovering from mania can focus for about five minutes with simple cues but loses track of multistep games. Which elements fit the next activity plan? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "A brief card-sorting task with a staff cue as needed",
+      "A quiet drawing activity with two available materials",
+      "A competitive strategy game requiring several planned moves",
+      "A short rest opportunity between activities"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "why": [
+      "A simple time-limited task matches the observed capacity.",
+      "Low stimulation and limited choice reduce processing demands while preserving activity.",
+      "The multistep competitive task exceeds the current ability described.",
+      "Planned rests can prevent the schedule from exceeding present endurance and attention."
+    ],
+    "takeaway": "Match activity complexity and stimulation to current manic recovery.",
+    "refs": [
+      "d-bipolar"
+    ],
+    "exhibit": null,
+    "subtopic": "Mania activity planning",
+    "learningObjective": "Match activity complexity and stimulation to current manic recovery.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-094",
+    "cat": "psychosocial",
+    "title": "Food-related suspiciousness",
+    "stem": "A client with psychosis has skipped lunch because of fears that food was tampered with. They say they will accept intact packaged portions, which are available now. What is the most feasible immediate meal plan?",
+    "type": "single",
+    "options": [
+      "Ask staff to taste the served meal in front of the client",
+      "Offer sealed portions for the client to open",
+      "Ask a relative to bring a meal later this evening",
+      "Explain the kitchen's food-safety inspection process"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Tasting can become reassurance linked to the belief and may not make the meal acceptable.",
+      "The available acceptable food addresses current intake without agreeing that the other food is poisoned.",
+      "A familiar meal may help later, but delays nourishment when an acceptable option is ready.",
+      "Factual information can be offered, but may not address the immediate barrier as effectively as the accepted food option."
+    ],
+    "takeaway": "Support basic needs without validating a delusion.",
+    "refs": [
+      "d-psychosis"
+    ],
+    "exhibit": null,
+    "subtopic": "Psychosis and nutrition",
+    "learningObjective": "Support basic needs without validating a delusion.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-095",
+    "cat": "psychosocial",
+    "title": "Thought blocking in conversation",
+    "stem": "A client answering fluently suddenly stops mid-sentence and says, \"The thought is gone.\" What should the nurse do first?",
+    "type": "single",
+    "options": [
+      "Finish the sentence using the likely meaning",
+      "Repeat the question immediately in the same words",
+      "Allow a pause, then ask whether the client wants to continue",
+      "Give a written list of possible answers to select"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Finishing may substitute the nurse's assumption for the client's intended meaning.",
+      "Immediate repetition can add pressure before the client has time to recover the thought.",
+      "Time and a gentle readiness check respond to the sudden interruption without forcing or assuming content.",
+      "Choices may support a later difficulty but prematurely narrow the possible response."
+    ],
+    "takeaway": "Allow time and clarify sudden interruptions in thought.",
+    "refs": [
+      "d-psychosis"
+    ],
+    "exhibit": null,
+    "subtopic": "Psychosis communication",
+    "learningObjective": "Allow time and clarify sudden interruptions in thought.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-096",
+    "cat": "psychosocial",
+    "title": "Distinguishing a tangential response",
+    "stem": "Asked what time they went to sleep, a client speaks at a normal pace: \"Sleep reminds me of bedrooms. My old room had blue walls. Blue paint is expensive now.\" Similar replies move away from each question and never give the requested information. Which description best fits this pattern?",
+    "type": "single",
+    "options": [
+      "Tangential responses that do not return to the question",
+      "Circumstantial responses that eventually reach the answer",
+      "Pressured speech with rapid flight from one idea to another",
+      "Thought blocking with abrupt interruption of speech"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "The repeated drift away from the requested point without answering supports a tangential pattern.",
+      "Circumstantial speech includes extra detail but eventually returns to the point, unlike the described replies.",
+      "The normal pace and absence of pressured delivery do not fit rapid flight of ideas as well.",
+      "Speech continues; there is no abrupt loss or cessation of the train of thought."
+    ],
+    "takeaway": "Describe the observed thought pattern using how the response relates to the question.",
+    "refs": [
+      "d-thought-assessment"
+    ],
+    "exhibit": null,
+    "subtopic": "Thought-process assessment",
+    "learningObjective": "Describe the observed thought pattern using how the response relates to the question.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-097",
+    "cat": "psychosocial",
+    "title": "Low initiation in schizophrenia",
+    "stem": "A client with schizophrenia usually needs prompts to begin hygiene but then performs it safely. Today the nurse also notices new drowsiness, slower walking and difficulty staying awake after a medicine change. What should happen next?",
+    "type": "single",
+    "options": [
+      "Increase the frequency of the usual hygiene prompts",
+      "Complete hygiene earlier before the client lies down",
+      "Continue the familiar routine and compare it tomorrow",
+      "Assess the new alertness change and seek a medication review"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "More prompts do not evaluate the new sedation and slowed movement.",
+      "Timing changes may support a stable routine but do not explain a new post-change presentation.",
+      "Waiting may miss a clinically significant treatment effect or another cause.",
+      "The new deviation from baseline warrants assessment of possible medication effects and other causes before treating it as usual low initiation."
+    ],
+    "takeaway": "Support reduced initiation without assuming deliberate noncooperation.",
+    "refs": [
+      "d-psychosis"
+    ],
+    "exhibit": null,
+    "subtopic": "Negative symptoms",
+    "learningObjective": "Support reduced initiation without assuming deliberate noncooperation.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-098",
+    "cat": "psychosocial",
+    "title": "Assessing hallucination impact",
+    "stem": "A client says a voice is telling them to hurt a neighbour. Which questions most directly assess the immediate risk of acting on the command? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "What exactly is the voice telling you to do?",
+      "Do you feel that you might act on what it says?",
+      "When did you first hear a voice in your life?",
+      "How able do you feel to resist the instruction now?",
+      "Which settings usually make the voices more noticeable?"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "why": [
+      "The specific command establishes the potential action and target for focused safety assessment.",
+      "Current likelihood or intent to comply directly informs immediate risk.",
+      "Onset informs the history but is less direct for current command-related danger.",
+      "Perceived control or ability to resist helps determine present protection needs.",
+      "Triggers can guide longer-term coping but do not directly establish whether the client may act now."
+    ],
+    "takeaway": "Assess hallucination content, commands and behavioural effects.",
+    "refs": [
+      "d-psychosis"
+    ],
+    "exhibit": null,
+    "subtopic": "Hallucination assessment",
+    "learningObjective": "Assess hallucination content, commands and behavioural effects.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-099",
+    "cat": "psychosocial",
+    "title": "Coping with noncommand voices",
+    "stem": "A client with distressing noncommand voices chooses quiet music during a simple craft task. Which follow-up finding best supports continuing this coping strategy?",
+    "type": "single",
+    "options": [
+      "The client keeps the music on throughout the session",
+      "Distress falls and the client resumes the chosen task",
+      "The client names several other available coping strategies",
+      "The client describes the music as familiar from childhood"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Use alone does not show whether the strategy improves distress or functioning.",
+      "Improved comfort with resumed activity demonstrates a useful effect; continue reassessing symptoms and safety.",
+      "Knowledge of alternatives may help planning but does not evaluate the selected music strategy.",
+      "Familiarity may matter to preference but does not by itself establish clinical benefit."
+    ],
+    "takeaway": "Evaluate individualized coping strategies for distressing hallucinations.",
+    "refs": [
+      "d-psychosis"
+    ],
+    "exhibit": null,
+    "subtopic": "Hallucination coping",
+    "learningObjective": "Evaluate individualized coping strategies for distressing hallucinations.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-100",
+    "cat": "psychosocial",
+    "title": "Physical deterioration after fear-related fluid refusal",
+    "stem": "A client with psychosis has refused most drinks because they fear an open jug was tampered with and has also vomited repeatedly. The nurse offers acceptable sealed drinks and assesses physical status. Which additional finding requires emergency medical escalation?",
+    "type": "single",
+    "options": [
+      "Dry lips with alert conversation and usual urine output",
+      "Mild thirst while drinking an offered sealed beverage",
+      "Near-fainting on standing with almost no urine for twelve hours",
+      "Nausea after drinking while remaining steady when walking"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Dry lips need assessment and intake support, but preserved alertness and output lack the severe perfusion cues.",
+      "Thirst and accepting fluids warrant continued monitoring but do not indicate the same acute compromise.",
+      "Severe dizziness and prolonged markedly reduced urine after poor intake and vomiting suggest serious dehydration or another circulatory problem requiring emergency assessment.",
+      "Nausea needs ongoing care, but the described stable mobility is less urgent than near-syncope with minimal output."
+    ],
+    "takeaway": "Recognize physical compromise when psychotic fears interfere with adequate intake.",
+    "refs": [
+      "d-dehydration",
+      "d-psychosis"
+    ],
+    "exhibit": null,
+    "subtopic": "Psychosis-related self-care compromise",
+    "learningObjective": "Recognize physical compromise when psychotic fears interfere with adequate intake.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  }
+]

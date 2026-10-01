@@ -1,0 +1,274 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewerTask": "/root/author_risk_basic",
+  "reviewedAt": "2026-10-01T18:32:40.383311+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/d/questions.json",
+  "coverage": {
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-psychosocial-176",
+      "x-psychosocial-177",
+      "x-psychosocial-178",
+      "x-psychosocial-179",
+      "x-psychosocial-180",
+      "x-psychosocial-181",
+      "x-psychosocial-182",
+      "x-psychosocial-183",
+      "x-psychosocial-184",
+      "x-psychosocial-185",
+      "x-psychosocial-186",
+      "x-psychosocial-187",
+      "x-psychosocial-188",
+      "x-psychosocial-189",
+      "x-psychosocial-190",
+      "x-psychosocial-191",
+      "x-psychosocial-192",
+      "x-psychosocial-193",
+      "x-psychosocial-194",
+      "x-psychosocial-195",
+      "x-psychosocial-196",
+      "x-psychosocial-197",
+      "x-psychosocial-198",
+      "x-psychosocial-199",
+      "x-psychosocial-200"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Actually reread all current fields of all25 items, including22 revisions, the author’s additional substantive188 replacement and the three unchanged initial passes. Reasoned each item and its current key/rationales individually before hashing.",
+  "limitations": [
+    "Independent AI review, not clinician or psychometric validation.",
+    "Source checks are targeted; NICE evidence remains retrieved search-result excerpts because direct opens were blocked."
+  ],
+  "sourceChecks": [
+    {
+      "sourceId": "d-boundaries-ca",
+      "url": "https://www.cno.org/standards-learning/practice-support/practice-support-faqs/communicating-with-clients-online?l=en-ca",
+      "accessMode": "opened page",
+      "ref": "turn287view2",
+      "claims": "Nurses should not use personal social-networking relationships with clients and should explain professional boundaries."
+    },
+    {
+      "sourceId": "d-spiritual",
+      "url": "https://openstax.org/books/fundamentals-nursing/pages/35-2-applications-of-spirituality-to-health-care",
+      "accessMode": "opened page, targeted patient-centred spiritual-care section",
+      "ref": "turn287view3",
+      "claims": "Ask what spiritual support the client wants; support their preferences and facilitate an appropriate spiritual resource. No blanket validation of all cultural generalizations in the chapter."
+    },
+    {
+      "sourceId": "d-eating-nice",
+      "url": "https://www.nice.org.uk/guidance/ng69/chapter/recommendations",
+      "accessMode": "prior primary search-result excerpt; subsequent direct open returned403",
+      "ref": "turn287view0",
+      "claims": "Prior excerpt retrieval and relevant physical-risk/coordinated-care support recorded in the first-pass report; no claim of successful full-page opening."
+    },
+    {
+      "sourceId": "d-attention-support",
+      "url": "https://www.nice.org.uk/guidance/ng87/chapter/recommendations",
+      "accessMode": "prior primary search-result excerpt; subsequent direct open returned403",
+      "ref": "turn287view1",
+      "claims": "Prior excerpt supported reduced distractions and shorter focus periods with movement breaks; no claim of successful full-page opening."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-psychosocial-176",
+      "status": "pass",
+      "assessment": "All alternatives now describe plausible activity planning. The observed benefit of a familiar gardening role supports including it rather than replacing it with novelty, group size or recall demands.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e5bf0e9a019c4ba1dec87c052aa60a4d126a22a33e79c293236fb547043dcbf8"
+    },
+    {
+      "id": "x-psychosocial-177",
+      "status": "pass",
+      "assessment": "Concrete fainting, pulse42 and BP86/52 establish immediate cardiovascular concern. The competing psychological, dietary and activity assessments remain relevant but should not delay urgent physical care; application level is appropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "155d0eb1db292f4c06dfa14cd04e36e7a4a5506c3ad8cc65f8e7b1c5e0aaa0b6"
+    },
+    {
+      "id": "x-psychosocial-178",
+      "status": "pass",
+      "assessment": "The revised alternatives are clinically relevant assessments. Palpitations with frequent vomiting distinguish current physical risk from weight trend, trigger exploration or dental effects; body size is not used to dismiss risk.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4f72b8bd434457e5ae706b9bfdcab085a956ac17f6dd6dc7b9545b94f167136b"
+    },
+    {
+      "id": "x-psychosocial-179",
+      "status": "pass",
+      "assessment": "The SATA uses credible supportive actions and recognizable unplanned substitution/comparison errors. Selected actions fit coordinated meal support and neutral language; rationales explain why distress does not justify independent plan changes.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c1300ec07b9f0ace20103c7418b18cc33da21daa0af5069433913356ed227944"
+    },
+    {
+      "id": "x-psychosocial-180",
+      "status": "pass",
+      "assessment": "The replacement genuinely changes the task to correcting a treatment misconception and supporting engagement. Comparable responses offer encouragement, scheduling or result access, but only the key explains the medical purpose while inviting concerns.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3db8bdc9e085f279273a00b51d336f5e171518009a3941b270cd2eaf2de418f7"
+    },
+    {
+      "id": "x-psychosocial-181",
+      "status": "pass",
+      "assessment": "The revised alternatives are plausible attempts at reassurance. The key addresses anxiety and agreed goals without escalating appearance evaluation or repeated checking; the rationales remain conditional rather than banning all discussion of clinical weight.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "dfe9332ef8c5276c80dd14cda5dabee4a35eef245570e5dda4d5026c27cc5608"
+    },
+    {
+      "id": "x-psychosocial-182",
+      "status": "pass",
+      "assessment": "Assessment of the loss-of-control pattern and distress appropriately precedes specific diet or relaxation advice. The NICE source now covers binge eating directly, avoiding the previous anorexia-only topic mismatch.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8311932c45b6454bfde8e2edbe2c8e7dd77cf0165f722a81871733bec237bd60"
+    },
+    {
+      "id": "x-psychosocial-183",
+      "status": "pass",
+      "assessment": "The selected response pauses exercise and assesses current dizziness within the coordinated plan. Lower intensity, paced breathing or future goal-setting cannot establish present safety; revised application metadata is reasonable.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "71eda24bb78f7d8516d1121568eda30465c228e7198fb131d9939032a4dd5ec1"
+    },
+    {
+      "id": "x-psychosocial-184",
+      "status": "pass",
+      "assessment": "Reread unchanged. Selected outcomes reflect coping, physical stability and participation; greater body comparison and reduced disclosure can represent ongoing difficulties. Key and rationales remain consistent.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d8310a79f878f53deffa516a0a62b56e7047e663a35ee5f09a1b7fd65471534f"
+    },
+    {
+      "id": "x-psychosocial-185",
+      "status": "pass",
+      "assessment": "Reread unchanged. The concrete morning-check instruction resolves a specific figurative misunderstanding. This differs from sensory reduction and does not infer inability from autism.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "08388be7b145f955eab8cb3ff3ba3f84d9a78370b3fcfc4a8c0eb9e0c1440486"
+    },
+    {
+      "id": "x-psychosocial-186",
+      "status": "pass",
+      "assessment": "The case now establishes accurate device use and the client’s preference to speak for themselves. Allowing the familiar system and time fits these cues better than caregiver mediation, restricted questions or a new board.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f843f142db88ded336215f55afa70c18d9569ce9e769bda0fe88470cdb44fa5a"
+    },
+    {
+      "id": "x-psychosocial-187",
+      "status": "pass",
+      "assessment": "Predictability is the stated problem. Reviewing the revised sequence addresses it before proceeding; equipment explanations, a break or parent reassurance may help but do not independently clarify the new order.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5249e6b95e0f756b1658e87b8e5ebd46b7fa7afc652901a7803efc410b2094ce"
+    },
+    {
+      "id": "x-psychosocial-188",
+      "status": "pass",
+      "assessment": "The author’s additional replacement was fully read. It distinguishes pacing from one-step sequencing: the child can perform the complete task, and attention returns after movement. Planned shorter blocks use that observed recovery; metadata and NICE ADHD environmental-modification support fit.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "59d737e44223652d350dbf87c7c632efb532c9048682dbd7cf57c930227944c3"
+    },
+    {
+      "id": "x-psychosocial-189",
+      "status": "pass",
+      "assessment": "Reread unchanged. The selected observations identify unresolved triggers and an accommodation request; effective communication and chosen calming activity are positive supports rather than evidence of plan failure.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4d2e4dbe2e30924f33942e8ad1ded8f6fbac0276b39750b916f1ff87fff83c4a"
+    },
+    {
+      "id": "x-psychosocial-190",
+      "status": "pass",
+      "assessment": "The revised choices balance consistency with assessment of a potentially new need. The key does not require rigid refusal, while the alternatives either create an uncoordinated exception or defer hearing the concern.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "bdce91b1d711d2c6ef0cb60888eb43001fc80aacae6cae6623027f492c2daeaf"
+    },
+    {
+      "id": "x-psychosocial-191",
+      "status": "pass",
+      "assessment": "Each response now offers recognizable support. Acknowledging distress and making coverage concrete best addresses abandonment fears; competence reassurance, postponement or coping review alone leave part of the immediate concern unresolved.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d4345ca5b86ac86784e899e587b1fb980137e34082bd5cc44fa7f196914722a9"
+    },
+    {
+      "id": "x-psychosocial-192",
+      "status": "pass",
+      "assessment": "The alternatives now use common rationalizations for personal online contact. The key provides an appropriate boundary and continuing support. Directly opened current CNO guidance supports explaining and maintaining the professional boundary.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7c5b15db546a0453aa83183d290cd25323eeb04be8e49f0c61d6403c02f2668b"
+    },
+    {
+      "id": "x-psychosocial-193",
+      "status": "pass",
+      "assessment": "The alternatives are plausible attempts to settle disagreement. Calm validation, a consistent concise limit and a feasible alternative suit the stated absence of immediate threat better than detailed argument, an appeasing exception or negotiation at peak distress.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "18ceed9dd1500b12ae958b2ed979ed6bfa0ffb7f1d77a8386b32880a179915c1"
+    },
+    {
+      "id": "x-psychosocial-194",
+      "status": "pass",
+      "assessment": "Reflection, consultation and objective needs assessment form a coherent SATA. Stricter generalized rules and detailed personal-frustration disclosure may shift care away from assessed client needs; the revised errors are realistic rather than malicious.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2020befb393d281a81c4d487a95f771e246f92823fd8aca7b2d095cb56f74604"
+    },
+    {
+      "id": "x-psychosocial-195",
+      "status": "pass",
+      "assessment": "Exploring meaning and desired support fits expressed spiritual distress. Biomedical reassurance, positivity and a chart-selected representative can bypass the concern or current preference. The direct spiritual-care chapter supports the revised source mapping.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "907ca9dcbb17ec314aa281230a0265098d48b552503ad1500865496d95c12e1f"
+    },
+    {
+      "id": "x-psychosocial-196",
+      "status": "pass",
+      "assessment": "The key asks the client’s wishes and facilitates suitable support without requiring shared belief. Waiting, replacing the request with relaxation or inferring practice from chart affiliation do not adequately establish current preferences.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2043e24a5210c5968da1ba0ad080046e0af384e1537c90a3ae234d8b1ceb54b5"
+    },
+    {
+      "id": "x-psychosocial-197",
+      "status": "pass",
+      "assessment": "The corrected title identifies caregiver guilt. The choices now compare useful but differently timed approaches; exploring what caring means directly addresses the perceived failure before services or dates are arranged.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "42b262c1ad7123266f9da46541161f0f5a915d4c3df57e42714dfefeb029b236"
+    },
+    {
+      "id": "x-psychosocial-198",
+      "status": "pass",
+      "assessment": "Reduced visible distress does not resolve tonight’s housing need. The revised alternatives are useful clinical follow-up steps, but confirming safe accommodation and workable follow-up is the immediate practical priority.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b5795c5ce1710d9d837ada1bd6d25cc046b0ea33787e0b7fba11e4b3565debfd"
+    },
+    {
+      "id": "x-psychosocial-199",
+      "status": "pass",
+      "assessment": "The added transport agreement makes both availability and consent boundaries concrete. The friend’s closeness does not establish overnight availability or authority for a full care summary; selected actions build a feasible client-defined plan.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e24ae481cccf94c29176379a87992fa44d719972c4e5e293568f3d736d3a5a70"
+    },
+    {
+      "id": "x-psychosocial-200",
+      "status": "pass",
+      "assessment": "All options now represent recognizable adjustment supports. Exploring personally familiar routines and belongings directly addresses the stated loss of familiarity before imposing a generic activity or room-meal plan.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4f7144eaa5504916ab817d83de1293781da6640a776d32d1c3732a6acfb3b9d3"
+    }
+  ]
+}

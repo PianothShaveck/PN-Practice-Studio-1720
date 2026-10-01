@@ -1,0 +1,133 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T16:59:57.257017+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/a/management-01.json",
+  "sourceSha256": "c870a18bffb691187f9aa9e16a8c1fb6a90b1c0f7fe8cee0a78099eeab825a9b",
+  "coverage": {
+    "sourceItems": 50,
+    "reviewedItems": 7,
+    "reviewedIds": [
+      "x-management-007",
+      "x-management-009",
+      "x-management-025",
+      "x-management-032",
+      "x-management-033",
+      "x-management-041",
+      "x-management-050"
+    ],
+    "unreviewedIds": [
+      "x-management-001",
+      "x-management-002",
+      "x-management-003",
+      "x-management-004",
+      "x-management-005",
+      "x-management-006",
+      "x-management-008",
+      "x-management-010",
+      "x-management-011",
+      "x-management-012",
+      "x-management-013",
+      "x-management-014",
+      "x-management-015",
+      "x-management-016",
+      "x-management-017",
+      "x-management-018",
+      "x-management-019",
+      "x-management-020",
+      "x-management-021",
+      "x-management-022",
+      "x-management-023",
+      "x-management-024",
+      "x-management-026",
+      "x-management-027",
+      "x-management-028",
+      "x-management-029",
+      "x-management-030",
+      "x-management-031",
+      "x-management-034",
+      "x-management-035",
+      "x-management-036",
+      "x-management-037",
+      "x-management-038",
+      "x-management-039",
+      "x-management-040",
+      "x-management-042",
+      "x-management-043",
+      "x-management-044",
+      "x-management-045",
+      "x-management-046",
+      "x-management-047",
+      "x-management-048",
+      "x-management-049"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-management-007",
+      "status": "pass",
+      "assessment": "Re-read full revised item: age65 capable wish and most-recent applicability now satisfy the specific Ontario rule.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f4559ca8e35193da744feab7e33593f9da6caf5d29d95014fb40623799f3332f"
+    },
+    {
+      "id": "x-management-009",
+      "status": "pass",
+      "assessment": "Re-read final full item: orientation-only capacity and continuing substitute consent to course completion are realistic competing errors; reassessment remains defensible.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ab4097615f1c679b69fbd191662b1ab55742d39e8f79a9578231481d3ec8665f"
+    },
+    {
+      "id": "x-management-025",
+      "status": "pass",
+      "assessment": "Re-read revised item: awaiting corroborating records is a plausible but insufficient reason to retain no-allergy alert.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f5ab32791ea51d03e859c9d867b4fe16680a1a96d1574bdf5b788b77d1e842e7"
+    },
+    {
+      "id": "x-management-032",
+      "status": "pass",
+      "assessment": "Re-read revised item: explicit absence of supervised competence check removes legitimate supervised-learning ambiguity.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "dce93a0c3c289d66bc3cbf26a76b9a0876022945ff836f3aaaf51a8516d9b3db"
+    },
+    {
+      "id": "x-management-033",
+      "status": "pass",
+      "assessment": "Re-read revised item: completed task box is a plausible process proxy that does not establish care outcome.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ead420ae23e0fc5f80a39f265fa792390face99d089f7bf82b62ddd5313de5df"
+    },
+    {
+      "id": "x-management-041",
+      "status": "pass",
+      "assessment": "Re-read revised item: superseded baseline alone is a credible handover omission error; current restrictions and follow-up ownership are sound.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e42f4793060baf8a12d02be499017b27b4d9869e38df9100697ec23cbcf62918"
+    },
+    {
+      "id": "x-management-050",
+      "status": "pass",
+      "assessment": "Re-read revised vignette: severe dyspnea with limited speech now requires application to an acute presentation rather than copying the instruction.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2062761de969fbc9a48ded42b582f9bf2dea21bf74b41dec8fb4313e571e2031"
+    }
+  ],
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

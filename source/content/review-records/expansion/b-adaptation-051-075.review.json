@@ -1,0 +1,344 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:43:13.218721+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/b-adaptation-03.json",
+  "sourceSha256": "9a9dc4339a37696c6cf05fc15dbf17be1ad464baaae5e1fd49425e1de4e7463e",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-adaptation-051",
+      "x-adaptation-052",
+      "x-adaptation-053",
+      "x-adaptation-054",
+      "x-adaptation-055",
+      "x-adaptation-056",
+      "x-adaptation-057",
+      "x-adaptation-058",
+      "x-adaptation-059",
+      "x-adaptation-060",
+      "x-adaptation-061",
+      "x-adaptation-062",
+      "x-adaptation-063",
+      "x-adaptation-064",
+      "x-adaptation-065",
+      "x-adaptation-066",
+      "x-adaptation-067",
+      "x-adaptation-068",
+      "x-adaptation-069",
+      "x-adaptation-070",
+      "x-adaptation-071",
+      "x-adaptation-072",
+      "x-adaptation-073",
+      "x-adaptation-074",
+      "x-adaptation-075"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.ninds.nih.gov/health-information/disorders/guillain-barre-syndrome",
+      "supports": "062/063: respiratory failure and autonomic heart-rate/BP changes require respiratory and cardiovascular monitoring.",
+      "limitation": "Does not establish a particular vital-capacity threshold or every proposed replacement option."
+    },
+    {
+      "url": "https://arupconsult.com/content/csf-leak-beta-2-transferrin",
+      "supports": "069: glucose oxidase strips are not recommended for CSF-leak diagnosis due to inadequate sensitivity/specificity; targeted laboratory testing is appropriate.",
+      "limitation": "Supports the diagnostic-test misconception only, not the whole trauma-care protocol."
+    },
+    {
+      "url": "https://emergencycarebc.ca/clinical_resource/clinical-summary/basilar-skull-fracture/",
+      "supports": "069: CSF leak can follow skull-base trauma and requires assessment/follow-up for complications.",
+      "limitation": "General clinical context, not a source for every nasal-care step."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-adaptation-051",
+      "status": "revise",
+      "assessment": "Cancelling the event report and assessing only BP advertise inadequate care; key is the only reasonable action.",
+      "issues": [
+        "Cancelling the event report and assessing only BP advertise inadequate care; key is the only reasonable action."
+      ],
+      "proposedChanges": [
+        "Use competing plans: arrange urgent stroke/TIA assessment, schedule routine blood-pressure review, ask for a symptom diary, or continue the usual follow-up after a normal motor recheck. Explain why resolution does not remove short-term risk; avoid omission qualifiers."
+      ],
+      "reviewedItemSha256": "d2ef7ff2794415f29020afa56cfab86560cb80be6003a472018b7b81f7678ee4"
+    },
+    {
+      "id": "x-adaptation-052",
+      "status": "revise",
+      "assessment": "Repeated walking to distinguish anxiety is implausible and unsafe; wait-first medication wording advertises delay.",
+      "issues": [
+        "Repeated walking to distinguish anxiety is implausible and unsafe; wait-first medication wording advertises delay."
+      ],
+      "proposedChanges": [
+        "Use parallel concerns such as posterior-circulation stroke, positional vertigo, medication-related dizziness and gastroenteritis. Supply sudden diplopia and severe imbalance; explain why equal grasps do not exclude stroke. Keep urgent response in rationale."
+      ],
+      "reviewedItemSha256": "47cbc6f6fc07d931e2b7758165d6826fc1c0d4711175d594c18ee2863262eaef"
+    },
+    {
+      "id": "x-adaptation-053",
+      "status": "revise",
+      "assessment": "One-week diary and waiting for weakness are exaggerated delays.",
+      "issues": [
+        "One-week diary and waiting for weakness are exaggerated delays."
+      ],
+      "proposedChanges": [
+        "Compare immediate emergency assessment, using the existing migraine rescue plan, arranging same-week headache follow-up, or resting in a dark room. Explain the significance of maximal-at-onset and unlike-prior pattern rather than requiring cartoon delays."
+      ],
+      "reviewedItemSha256": "de56544c6e8683adc3fee9397d399dd0e23fdc340420221ba32098b75692b80e"
+    },
+    {
+      "id": "x-adaptation-054",
+      "status": "revise",
+      "assessment": "Before-deciding neurological review is an explicit omission cue.",
+      "issues": [
+        "Before-deciding neurological review is an explicit omission cue."
+      ],
+      "proposedChanges": [
+        "Use Administer the prescribed antiemetic for option0. Explain why progressive impaired arousal/repeated vomiting needs urgent neurological response beyond symptom relief; retain change from initial alertness."
+      ],
+      "reviewedItemSha256": "02b9c00932417e487aeb921fb4759b6532fa123213f9e7edf17f1bd6697135f5"
+    },
+    {
+      "id": "x-adaptation-055",
+      "status": "revise",
+      "assessment": "Objective substantially duplicates management105, and demonstrated commands may be imitated despite impaired spoken comprehension.",
+      "issues": [
+        "Objective substantially duplicates management105, and demonstrated commands may be imitated despite impaired spoken comprehension."
+      ],
+      "proposedChanges": [
+        "Change focus to distinguishing expressive language difficulty from comprehension or dysarthria. Include ability to follow unmodelled spoken commands and accurate yes/no responses, and compare those observations with fluent but inappropriate answers, isolated slurred articulation and inconsistent comprehension. Keep PN assessment/communication scope and source-check terminology."
+      ],
+      "reviewedItemSha256": "38285d7300c5acd8070debad77b2274d5ce20f6d7fde5d30565e91b3f2cfa4e3"
+    },
+    {
+      "id": "x-adaptation-056",
+      "status": "pass",
+      "assessment": "New versus documented stable pupil, motor and alertness findings is a meaningful neurological trend assessment. The selected new changes warrant escalation without treating every baseline abnormality as acute.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fb03e94826cadf671f6a3d24cfd94347947e3a9cd501b711ba08871beb82b060"
+    },
+    {
+      "id": "x-adaptation-057",
+      "status": "pass",
+      "assessment": "The prescribed threshold and explicit competence/authorization adequately bound rescue treatment. Continued timing, route safety and emergency support are useful seizure-management distinctions; selected actions implement the rescue plan.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4f2b278d222edafa570d3f204958e3e067d46a4b24640a1c002ed5b76d677747"
+    },
+    {
+      "id": "x-adaptation-058",
+      "status": "revise",
+      "assessment": "Postponing assessment until a verbal history is implausible and is not an interpretation.",
+      "issues": [
+        "Postponing assessment until a verbal history is implausible and is not an interpretation."
+      ],
+      "proposedChanges": [
+        "Use parallel interpretations: continuing seizure emergency, separate self-limited events, routine postictal recovery, or medication-related sleepiness. Explain lack of return to baseline and immediate escalation; avoid definitive diagnosis beyond the observed emergency pattern."
+      ],
+      "reviewedItemSha256": "02a168922d6d2dec592fa086f016ecfa236b98969aa69045c8c7e2fc502c2293"
+    },
+    {
+      "id": "x-adaptation-059",
+      "status": "pass",
+      "assessment": "Regular breathing and progressively improved responsiveness distinguish recovery from recurrent seizures, new focal deficit and declining arousal. Clear serial assessment purpose and defensible keys.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3dd83cabe611021f69fdabfe17357559740275d6e5d7aec508c7136697bec9ec"
+    },
+    {
+      "id": "x-adaptation-060",
+      "status": "revise",
+      "assessment": "Key is the only comprehensive report; only-anxiety and only-normal-after options advertise missing information.",
+      "issues": [
+        "Key is the only comprehensive report; only-anxiety and only-normal-after options advertise missing information."
+      ],
+      "proposedChanges": [
+        "Use four short chart/report excerpts of comparable length, one objectively describing onset, chewing, responsiveness, duration and amnesia; others should plausibly misinterpret intent or omit a clinically decisive event feature. Avoid padding with unrelated details and explain why observed facts support assessment."
+      ],
+      "reviewedItemSha256": "a94819410f31efafae7f2bf47e249105e82984ae96c0f02f1eac92735c689ad1"
+    },
+    {
+      "id": "x-adaptation-061",
+      "status": "pass",
+      "assessment": "New bulbar fatigue, secretion-clearance difficulty and respiratory fatigue distinguish possible crisis from stable ocular/limb findings. Specific changes and explanations support the three keys.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "27b815f597bc6c56685874855a73d470b5bee8be4fd768f48508475c97e58b09"
+    },
+    {
+      "id": "x-adaptation-062",
+      "status": "revise",
+      "assessment": "Exhausting trials and waiting for cyanosis are cartoon unsafe responses; broad key is longest.",
+      "issues": [
+        "Exhausting trials and waiting for cyanosis are cartoon unsafe responses; broad key is longest."
+      ],
+      "proposedChanges": [
+        "Ask which ordered assessment best detects respiratory muscle decline despite preserved saturation. Compare vital capacity/inspiratory-force measurement, routine pulse oximetry, breath-sound auscultation and a simple respiratory-rate count. Verify applicable neuromuscular monitoring guidance; do not supply an unsupported threshold or imply autonomous advanced testing."
+      ],
+      "reviewedItemSha256": "04f1cdc7b879d0cec014ed0cd603094b6355e0550eda522739928ff3064d4556"
+    },
+    {
+      "id": "x-adaptation-063",
+      "status": "revise",
+      "assessment": "Every-rise-as-pain without-reassessment and stopping observations for sleep make wrong options obvious.",
+      "issues": [
+        "Every-rise-as-pain without-reassessment and stopping observations for sleep make wrong options obvious."
+      ],
+      "proposedChanges": [
+        "Use Treat the pressure rises as pain episodes for option3 and Reduce measurements to standard once-per-shift checks for option4. Explain why fluctuating dysautonomia requires the ordered trend monitoring rather than reassuring single values or symptom attribution."
+      ],
+      "reviewedItemSha256": "833adb9a5bc6c1071a9db061967b34c73829f958d0f09a030288bf8da8a9413f"
+    },
+    {
+      "id": "x-adaptation-064",
+      "status": "revise",
+      "assessment": "Question asks assessments but wrong options are plainly non-assessment actions; strenuous testing is exaggerated.",
+      "issues": [
+        "Question asks assessments but wrong options are plainly non-assessment actions; strenuous testing is exaggerated."
+      ],
+      "proposedChanges": [
+        "Ask Which nursing actions are indicated now? Replace option1 with Schedule routine strengthening therapy and option2 with Recheck neurological function after the antipyretic has taken effect. Explain why current comparison and infection assessment are required rather than waiting or testing endurance."
+      ],
+      "reviewedItemSha256": "85ad1907dd3f969aed5e744b504bbc26978f07decd156a82b24de1f0479d2802"
+    },
+    {
+      "id": "x-adaptation-065",
+      "status": "revise",
+      "assessment": "Calling acute symptomatic hypertension a new baseline and postponing the catheter kink to next rounds are implausible.",
+      "issues": [
+        "Calling acute symptomatic hypertension a new baseline and postponing the catheter kink to next rounds are implausible."
+      ],
+      "proposedChanges": [
+        "Use Repeat pressure after scheduled bladder care and Administer the prescribed headache analgesic for options0/2. Explain the immediate protocol response and visible trigger relief; include upright positioning/continued monitoring in rationale if supported by the selected protocol."
+      ],
+      "reviewedItemSha256": "d4c37fa8651e5f862239b99643e1915e85c2218c341d20841c8ec59586d5e4b0"
+    },
+    {
+      "id": "x-adaptation-066",
+      "status": "revise",
+      "assessment": "Waiting for complete paralysis is cartoon delay.",
+      "issues": [
+        "Waiting for complete paralysis is cartoon delay."
+      ],
+      "proposedChanges": [
+        "Compare parallel concerns: cauda equina compression, isolated urinary obstruction, uncomplicated lumbar strain and peripheral neuropathy. The saddle sensory change plus retention should distinguish the urgent neural-compression concern; state urgent action in explanation."
+      ],
+      "reviewedItemSha256": "52cf1e4add71d6c65eb2d428b797f7e053d5ee4eef3b5919d4a1979c990c02d4"
+    },
+    {
+      "id": "x-adaptation-067",
+      "status": "revise",
+      "assessment": "Expected after any spinal operation and walking to see whether deficits resolve are exaggerated; generic report key is cued.",
+      "issues": [
+        "Expected after any spinal operation and walking to see whether deficits resolve are exaggerated; generic report key is cued."
+      ],
+      "proposedChanges": [
+        "Recast as which postoperative report requires immediate escalation, using this new bilateral weakness/bladder change alongside three credible expected or stable postoperative reports. Include timing and baseline so the comparison requires clinical prioritization."
+      ],
+      "reviewedItemSha256": "cc182e1c2fce95a382350df960ffe4c739162566b22d0b0ee274ed323d35b81b"
+    },
+    {
+      "id": "x-adaptation-068",
+      "status": "revise",
+      "assessment": "Lifestyle diary during febrile reduced consciousness is implausible and pain-as-sole-problem advertises inadequacy.",
+      "issues": [
+        "Lifestyle diary during febrile reduced consciousness is implausible and pain-as-sole-problem advertises inadequacy."
+      ],
+      "proposedChanges": [
+        "Use parallel clinical concerns such as CNS infection, familiar migraine, tension headache and uncomplicated viral upper-respiratory illness. Explain the fever/meningism/consciousness cluster and urgent physiological response without requiring definitive PN diagnosis."
+      ],
+      "reviewedItemSha256": "0893e34d9d2d472ba7fdfbc205198a9fca02fbc7603080420e28090541c93140"
+    },
+    {
+      "id": "x-adaptation-069",
+      "status": "pass",
+      "assessment": "The head-trauma context supports possible CSF leak and avoidance of obstructive/instrumenting actions. Reporting/diagnostic collection and avoiding nose blowing are defensible. The glucose-strip misconception is specifically checked against laboratory guidance.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "270e47f579d58d873b8b436360162130bed3f33f31b14f77979fd7986dc9c706"
+    },
+    {
+      "id": "x-adaptation-070",
+      "status": "revise",
+      "assessment": "Before-reviewing-shunt-history advertises the gastroenteritis option's defect.",
+      "issues": [
+        "Before-reviewing-shunt-history advertises the gastroenteritis option's defect."
+      ],
+      "proposedChanges": [
+        "Use Treat the vomiting as gastroenteritis for option3. Explain why the shunt history, headache and new sleepiness require urgent neurological assessment despite another possible cause of vomiting."
+      ],
+      "reviewedItemSha256": "b1a65c4ac0eebcf5092fcbe9e223b68690da0f26bfc1055ead35a310a28d7be0"
+    },
+    {
+      "id": "x-adaptation-071",
+      "status": "revise",
+      "assessment": "Waiting for a longer crying episode is implausible and feeding-as-only-issue is an omission cue.",
+      "issues": [
+        "Waiting for a longer crying episode is implausible and feeding-as-only-issue is an omission cue."
+      ],
+      "proposedChanges": [
+        "Use Repeat feeding after the fever medicine takes effect and Offer smaller frequent feeds for options0/1. Explain why persistent bulging while calm/upright with illness requires urgent evaluation beyond feeding support."
+      ],
+      "reviewedItemSha256": "a795d81c3438f8d010eb9feb1b80ef82dfe8fd3517180a11055d763bca81cb4b"
+    },
+    {
+      "id": "x-adaptation-072",
+      "status": "revise",
+      "assessment": "Calling a seizure voluntary because behaviour is unusual is stigmatizing and implausible; other distractors advertise absent neurological/vital-sign assessment.",
+      "issues": [
+        "Calling a seizure voluntary because behaviour is unusual is stigmatizing and implausible; other distractors advertise absent neurological/vital-sign assessment."
+      ],
+      "proposedChanges": [
+        "Use plausible alternative care emphases: a routine psychiatric review, de-escalation and environmental support, or observation for a possible panic-related episode. Remove without/only/postpone qualifiers. Explain why fever and a first seizure require urgent medical assessment regardless of behavioural presentation."
+      ],
+      "reviewedItemSha256": "63b7825d5e7bba1f7328160c4542e31b65c6a97ddf207d1e27f01976a466b9db"
+    },
+    {
+      "id": "x-adaptation-073",
+      "status": "revise",
+      "assessment": "Several-weeks diary is an exaggerated delay.",
+      "issues": [
+        "Several-weeks diary is an exaggerated delay."
+      ],
+      "proposedChanges": [
+        "Replace option0 with Arrange routine cardiovascular-risk follow-up. Explain why a possible transient retinal ischemic event needs urgent evaluation rather than only long-term prevention planning."
+      ],
+      "reviewedItemSha256": "c9132afb51e024cf4a3b24a283e974261cca9ce760c2989d48ca29a95e85f7aa"
+    },
+    {
+      "id": "x-adaptation-074",
+      "status": "revise",
+      "assessment": "Options advertise delay or missing eye examination; generic emergency key repeats the pattern used in most preceding items.",
+      "issues": [
+        "Options advertise delay or missing eye examination; generic emergency key repeats the pattern used in most preceding items."
+      ],
+      "proposedChanges": [
+        "Ask which complication is most concerning and compare acute angle-closure glaucoma, migraine, conjunctivitis and retinal detachment. The painful red-flag cluster differentiates this from the painless visual-loss cases; keep emergency assessment and uncertainty in rationale."
+      ],
+      "reviewedItemSha256": "ec43069019a44e24703eb34edb5b8c5134005531fd5c349a418ce9f6dee7d749"
+    },
+    {
+      "id": "x-adaptation-075",
+      "status": "pass",
+      "assessment": "Acute flashes, many floaters and spreading painless shadow form a coherent retinal warning pattern. Refraction, waiting for painful redness and screen-rest attribution are recognizable visual-symptom misconceptions; urgent ophthalmic assessment is defensible.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1e5e662ba184e39eb0977c3befb7abbaa59469ae16fdef9289f629a81e2eb0f0"
+    }
+  ],
+  "activeSourceFile": "authoring/b/adaptation-03.json",
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

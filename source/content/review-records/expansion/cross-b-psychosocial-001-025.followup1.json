@@ -1,0 +1,251 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T18:10:59.893564+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/cross-b-psychosocial-001-025-revised.json",
+  "sourceSha256": "1982a6c3a070db609543eef3165b6a1539bfb511c0e88b2d99863b13d3366c3b",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-psychosocial-001",
+      "x-psychosocial-002",
+      "x-psychosocial-003",
+      "x-psychosocial-004",
+      "x-psychosocial-005",
+      "x-psychosocial-006",
+      "x-psychosocial-007",
+      "x-psychosocial-008",
+      "x-psychosocial-009",
+      "x-psychosocial-010",
+      "x-psychosocial-011",
+      "x-psychosocial-012",
+      "x-psychosocial-013",
+      "x-psychosocial-014",
+      "x-psychosocial-015",
+      "x-psychosocial-016",
+      "x-psychosocial-017",
+      "x-psychosocial-018",
+      "x-psychosocial-019",
+      "x-psychosocial-020",
+      "x-psychosocial-021",
+      "x-psychosocial-022",
+      "x-psychosocial-023",
+      "x-psychosocial-024",
+      "x-psychosocial-025"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "All25 complete current items were reread after revisions, including options, answers, rationales, takeaways, refs and metadata. Prior targeted source checks remain in initial report; no new clinical source verification claimed.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-psychosocial-001",
+      "status": "pass",
+      "assessment": "The vague biopsy concern now competes with relevant information, coping and support responses; clarification directly answers the stated task.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3d12259f79edbebc67cfd68fb30667c370decc45f4387e96e4a9a6fa0e8a023d"
+    },
+    {
+      "id": "x-psychosocial-002",
+      "status": "pass",
+      "assessment": "Trembling despite verbal reassurance supports a neutral observation; consent, reassurance and deferral do not clarify the mismatch.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c7f1d46f164bd818775f488f0c725b4eec5052d39d56c7d3b94ba7d2328c8dc7"
+    },
+    {
+      "id": "x-psychosocial-003",
+      "status": "pass",
+      "assessment": "The unknown current need makes acknowledgment plus a focused question preferable to queue information or complaints advice; all options now represent credible replies.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "79487cbaba50412b6027bbffc9744b22983eecab4c3c5a524dd297115d1bf67d"
+    },
+    {
+      "id": "x-psychosocial-004",
+      "status": "pass",
+      "assessment": "The capable client's personal disclosure decision is supported by exploring concerns; advice, general benefits and inviting the child prematurely bypass those concerns.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8f672d16413831a009f1bfa9c99670019fd06d305fbac5e26e6ce730001e46d3"
+    },
+    {
+      "id": "x-psychosocial-005",
+      "status": "pass",
+      "assessment": "The unfamiliar expression and corrected misunderstanding require the client's explanation and verification, while dictionary meaning or an unconfirmed guess remain unreliable.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e506e72046be11ac1e96e522a468264f5779513cc899e1ca1a95a7382fc3ec63"
+    },
+    {
+      "id": "x-psychosocial-006",
+      "status": "pass",
+      "assessment": "No immediate danger is present; respecting a temporary pause while agreeing later contact preserves access and autonomy without treating the pause as universal refusal.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "525128bf116f8ee9e1e86306ca2948ef64094a7f43ac5c910fe483074ed25f31"
+    },
+    {
+      "id": "x-psychosocial-007",
+      "status": "pass",
+      "assessment": "Attentiveness, willingness and lack of fatigue distinguish slower pacing from replacement questionnaires, proxy history or rescheduling.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e04bdd7847f443008a70585df855a93d46c1bf722d821a1fef11f9d388feff4c"
+    },
+    {
+      "id": "x-psychosocial-008",
+      "status": "pass",
+      "assessment": "Tentative observation checks emotional meaning without imposing anger or prematurely reframing and advising.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a860befaffbb4062aa84ce231f27f97a806c99b42f666ca46444f90681c8a374"
+    },
+    {
+      "id": "x-psychosocial-009",
+      "status": "pass",
+      "assessment": "The explicit wish to copy the nurse's divorce choice makes a respectful return to the client's own decision clinically appropriate and supports boundaries.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "12b5386de8bad04e44b6ee9c6947524ba49f2f965ffe981f0507533f8b6ebcb8"
+    },
+    {
+      "id": "x-psychosocial-010",
+      "status": "pass",
+      "assessment": "Direct engagement, adequate time and role clarity support qualified interpretation; the foundational label now matches generic principle recognition.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ef65f12e004ad5bb1bc3b1e6e46b7ae76fcd2b0b8739f469631edd3dbe8e766e"
+    },
+    {
+      "id": "x-psychosocial-011",
+      "status": "pass",
+      "assessment": "The stated problem is lack of warning before closure, so an ending cue and next-contact plan address it more directly than consistent duration or a departure summary.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7492fdedd59d16b2e2a070e480ea59749afad31f9ba9d9996a4ad45b14f998b5"
+    },
+    {
+      "id": "x-psychosocial-012",
+      "status": "pass",
+      "assessment": "Brief reassurance has not resolved recurrence, and the unknown preceding event makes a trigger question preferable to repeating or scheduling reassurance.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c7c33088b609c77e8def0222f4c527f1588b1cf04e775727a5752cec47c2c3af"
+    },
+    {
+      "id": "x-psychosocial-013",
+      "status": "pass",
+      "assessment": "The task specifically asks acknowledgment of immediate feeling; reflection validates hurt without endorsing the global judgment or beginning premature problem-solving.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e427f350389c9625f4bd71a333fb689682af60610c7bfe9175dc09b19ccf3f29"
+    },
+    {
+      "id": "x-psychosocial-014",
+      "status": "pass",
+      "assessment": "Past successful coping directly identifies an existing strategy; housing deadlines, expenses and prospective help instead assess urgency or resources.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5675735e7b68d5a5c7827b7107ce4309553b323c0136a06e22c512e34094b2bc"
+    },
+    {
+      "id": "x-psychosocial-015",
+      "status": "pass",
+      "assessment": "Acknowledgment, clarification and verification repair the information error; apologizing then changing topic leaves meaning unresolved. Foundation metadata is appropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d6965ac39210b44448ca9fa0cafd008dd564c1ecb71183080a554ff392e6bd67"
+    },
+    {
+      "id": "x-psychosocial-016",
+      "status": "pass",
+      "assessment": "Preserved concentration and repeated procedural questions support a short responsive explanation; relaxation, medication and a full leaflet address less specific needs.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b626f90a2f59b49786fbcfe175770891fe0cfaf4068cde0a428193776116e266"
+    },
+    {
+      "id": "x-psychosocial-017",
+      "status": "pass",
+      "assessment": "New pressure and sweating unlike prior panic justify prompt physical assessment and escalation. The alternatives are plausible panic-focused responses whose insufficiency is explained.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e20b81016ddd3e465e3273b929c3fe1f864e259debb6c32c7ca8adeab7429d7a"
+    },
+    {
+      "id": "x-psychosocial-018",
+      "status": "pass",
+      "assessment": "Restored concentration permits rehearsing the early response, matching the future-coping goal more directly than reassurance, trigger avoidance or medication review.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e12c249a22935c2e0d8798d34a743c57e83943502b3bfc3acbb74e49a9261975"
+    },
+    {
+      "id": "x-psychosocial-019",
+      "status": "pass",
+      "assessment": "Previously assessed themes and duration leave current work impairment and coping as the useful missing domain; other questions concern background or later therapy.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b7f6011307d5b0436cb265224683dcfe5bae88bcb970520a53e4b0b16683276b"
+    },
+    {
+      "id": "x-psychosocial-020",
+      "status": "pass",
+      "assessment": "The specific two-minute agreed step, tolerable anxiety and ongoing consent support completion, not progression to a ride or premature stopping.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d363ce1e962893aad574d65f8219e315132b952edc8e010a03ce2a9947a8d88b"
+    },
+    {
+      "id": "x-psychosocial-021",
+      "status": "pass",
+      "assessment": "The short-lived reassurance cycle makes self-directed grounding, paced breathing and cue-action planning appropriate; changing reassurance providers preserves the same pattern.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5d5a46403b6cbceb9b8c5c50f47b4c6d359fb823b1ebc28d0bcc16e4197fcf94"
+    },
+    {
+      "id": "x-psychosocial-022",
+      "status": "pass",
+      "assessment": "The agreed observer role and fear of unexpected speaking make a facilitator agreement the specific useful accommodation; door seating does not resolve that fear.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "887f38b1b1dfd6b511888a8795cbf911a873e07caad8f4501b487376cf542e47"
+    },
+    {
+      "id": "x-psychosocial-023",
+      "status": "pass",
+      "assessment": "The narrowly framed association-history task and ongoing assessment make caffeine timing/quantity the key without implying red-flag or medication histories are unimportant.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e891068b2c02df6ac4bde9a2d7c931bca18c9724bdd9d850e4ca3db8e5aad783"
+    },
+    {
+      "id": "x-psychosocial-024",
+      "status": "pass",
+      "assessment": "Repeated inability to process simple teaching plus nonurgent discharge support addressing distress before another teaching attempt; alternate delivery formats alone do not resolve readiness.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9f0e8d8ac59c6cd5dcd0cefbb6ea20477b180cbf6431f8b6434b0f36f3cb3773"
+    },
+    {
+      "id": "x-psychosocial-025",
+      "status": "pass",
+      "assessment": "The explicit goal combines a shopping trip and personal coping skills; successful independent use of that plan is better evidence than rest improvement or others performing the task.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0a855c3be5c37b1304b79d4eb53e7c00382bad09c02cc1a15bbe356d022662d4"
+    }
+  ],
+  "reviewerTask": "/root/author_pharm_adaptation",
+  "activeSourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/d/questions.json"
+}

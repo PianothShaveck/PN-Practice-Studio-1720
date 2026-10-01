@@ -1,0 +1,509 @@
+{
+  "reviewerTask": "/root/author_risk_basic",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/b-extra/questions.json",
+  "approvedCount": 100,
+  "missingCurrentPass": [],
+  "items": [
+    {
+      "id": "x-adaptation-101",
+      "reviewedItemSha256": "aa2dc3b1855933b4952fc85f6cdd41922029a01a17fbec3cd41eecea24c15ea3",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-102",
+      "reviewedItemSha256": "28577e7a79bec705177a5e7e05d6811085ca4c2392e5193b8e980cac0b78ffc6",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-103",
+      "reviewedItemSha256": "7ccadac6685d9e732973685ac5cd82988f3fffa18e3fdfe299084c550484bcc1",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-104",
+      "reviewedItemSha256": "5121980798188a934607d8cede82a4d97d9af76ec2e0a03bf60e48994f12a496",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-105",
+      "reviewedItemSha256": "7ff62544a96453d54b0c77708afe076338bdcfe53ddcc135e34de0f0a8b25b2f",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-106",
+      "reviewedItemSha256": "a2de929456529acc928274649f9d552546664f4bdf277b09264a3070d9bf9b55",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-107",
+      "reviewedItemSha256": "8becbf89532651e945ea502ac828958b34144051cdfa9a52b98834009bb6e812",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-108",
+      "reviewedItemSha256": "9d0e19db7f02b848f59a4ac3be0ffc53ddfa070ca3326102cbbbe12bfc0068f5",
+      "approvalReport": "c-cross-b-extra-seven.followup.json"
+    },
+    {
+      "id": "x-adaptation-109",
+      "reviewedItemSha256": "d1df46833a66835b254e9d6600cb07721509536fdd01e1ee025f1235bc2f21b2",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-110",
+      "reviewedItemSha256": "420d49f3b8b49fe0d30cb38ecad17f271c8d4409447be5a9dad46ce14a25a335",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-111",
+      "reviewedItemSha256": "fb8bacba006cb0dcf11a2cdb801ce0f0df0adbcae3cfed408d791bb1b788be57",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-112",
+      "reviewedItemSha256": "e822809d4db6af7427f19a4eadde4da7f304f38db0235b793143b426758d90c9",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-113",
+      "reviewedItemSha256": "7f017ea6e0c9a956fd7af834a9649d29d3a41c93c0089036c16a26a74f88a91c",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-114",
+      "reviewedItemSha256": "c5b880b6ebb0e57084c42980688d6a8705b80661d51b93aa6284be98f05d8fc8",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-115",
+      "reviewedItemSha256": "2a62be9424742e3e5e26af2a28c247ee8d548030cf5bbb0cc6e7a0922f4e0c90",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-116",
+      "reviewedItemSha256": "1781954f43560e80e0012720447a455def46c8c08e9cdd360ba02fd2db025748",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-117",
+      "reviewedItemSha256": "bde05ff876f2aa6d4d2056bb71a120ed43ba9144bc7dd0272c45f0aa37c84b57",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-118",
+      "reviewedItemSha256": "f82d6939fc8cbe4fe112490044b290149f9142b4c39dc92d85f7264e1e4e7eec",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-119",
+      "reviewedItemSha256": "db0beb066be185175a15878e8d3c59f39c3aee25e51a6761729495e57ed81614",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-120",
+      "reviewedItemSha256": "01a9e48e204c03bc7ef305a3716967d490538d04ced5cec7fbd5090012d256d7",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-121",
+      "reviewedItemSha256": "ee3b1829786690cbc664bdc235203d461b6d5b620b2c2a07546e0bd9391dcec6",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-122",
+      "reviewedItemSha256": "8e16ee490d8f82a98e322ccedb33aac8d5fd5695a3f0e5d5c190a65bf161ea8f",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-123",
+      "reviewedItemSha256": "dcb9dc4870087db0beca5ed74e430de680616fc8c975fccd1d539fb3a3cdac85",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-124",
+      "reviewedItemSha256": "eee375b2c450a8007b186f9650a9c55c74290cb41233174b7763d93b21b480fd",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-125",
+      "reviewedItemSha256": "e94e46562e485a5230b94a920b449bc798077a8202c538bac05e513975098f39",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-126",
+      "reviewedItemSha256": "892e97f8269f7bd7dab177d81fa591b15524ac47e579f5841dc54e2d6200ace2",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-127",
+      "reviewedItemSha256": "ca705733b421d616ce8fbabf0d818a512a4a10e4c53d6f82952e7600243c9a3d",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-128",
+      "reviewedItemSha256": "beee617f4b7553d729402ffb5f728aaa512a710728654b8824eed22364921e06",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-129",
+      "reviewedItemSha256": "92707864f67dac29d10a522a9b3ba71b41c3cd8ddd44a2e7ff5dc27a9b54ce16",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-130",
+      "reviewedItemSha256": "b869134ad201bdaf6b5609c8e11f56497e834fc77b8c0e1bde1506eaba248fd2",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-131",
+      "reviewedItemSha256": "183568ff179cf703f63c028ada4e184066ea707058478ad2f2aaec394c4efe41",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-132",
+      "reviewedItemSha256": "d83cff9a452f2d00ed3ced24cd815f44c540b80e34c9ce862730717eb5149551",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-133",
+      "reviewedItemSha256": "5728b2cdc3b9f2eacdce45852c6e4a27a5184482f33efbcf52209a09ac811b9b",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-134",
+      "reviewedItemSha256": "5066eaac3fc7400e6f7cf481e3d87b8b7bf1a08bbc8225483ec80780f2028eb3",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-135",
+      "reviewedItemSha256": "32513f9b71769a0925365bdef8235402469984bdf747cbd609335ce5a7cb7adb",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-136",
+      "reviewedItemSha256": "d4a7dfce5af9573b7724ce9d666143432c951d72155260de7b18c9e7f1c8f464",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-137",
+      "reviewedItemSha256": "76edf3cf869976f64b0dd6d2952810a6630e4520fbb386e168877070893f1a17",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-138",
+      "reviewedItemSha256": "cbd5b2bfe301da795290d1dd547f2e17a0bf7e8aa00546ba86b220c7ca8e7965",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-139",
+      "reviewedItemSha256": "2c555804b442d3f2b01994acd8d7b92bc69612f11aee5e7fdae7ec0264956466",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-140",
+      "reviewedItemSha256": "2460b25b2cd7a60afd5c0f44599d62d58b36272a171816b9978a698f1daaffbd",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-141",
+      "reviewedItemSha256": "d1d361f883c79f81011eb1258ad17a57e0303ac95d8017a77360a8e4795395ce",
+      "approvalReport": "c-cross-b-extra-seven.followup.json"
+    },
+    {
+      "id": "x-adaptation-142",
+      "reviewedItemSha256": "08fc5a141c368da07993bcd0584313e8ef240bfe5d596ea8b10e12c68b16e81a",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-143",
+      "reviewedItemSha256": "7324b5d0950fbfe6a151696db0359a4a668ad0cf6acc4b6ebf61481919afc3e2",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-144",
+      "reviewedItemSha256": "023872482b3ab718cb734d1f33ede4c23531f7f6091110531877c5f9554efb6f",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-145",
+      "reviewedItemSha256": "59b204626840ded879b02088984b8b77bdb12c2d70aa69853eced7bbbd6de8da",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-146",
+      "reviewedItemSha256": "58b504f1e902577dae07410c8ac49ee28951c4e28371e54f0bcf58caf3666495",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-147",
+      "reviewedItemSha256": "e70c4077b4f09a4d5ed1fcfca5bd7f34839889f5d6c724f5feb746092f7c3429",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-148",
+      "reviewedItemSha256": "22c99abb16adff1ca9ae9976f7ac05835f04ee0abaf296a718244f8103098df7",
+      "approvalReport": "c-cross-b-extra-seven.followup.json"
+    },
+    {
+      "id": "x-adaptation-149",
+      "reviewedItemSha256": "7cd9858ab76d935ade5ca8a368b0ba81135dac7ad5eb993390194c3f037ea117",
+      "approvalReport": "c-cross-b-extra-seven.followup.json"
+    },
+    {
+      "id": "x-adaptation-150",
+      "reviewedItemSha256": "91637b7c70b6a8d5b53f22b4f1402e7eec5c10731c612ee5a06eb0704b7be38d",
+      "approvalReport": "c-cross-b-extra-101-150.recheck.json"
+    },
+    {
+      "id": "x-adaptation-151",
+      "reviewedItemSha256": "e3232bf9110d30704fa4fdade1ab792e1f5f7d24aaee14c31b4ff21d226da42d",
+      "approvalReport": "c-cross-b-extra-151-175.recheck.json"
+    },
+    {
+      "id": "x-adaptation-152",
+      "reviewedItemSha256": "5de0202cb49aac5f0e7ef867e499842bd870e5f41e35e2b1ddc0e384451331ab",
+      "approvalReport": "c-cross-b-extra-151-175.recheck.json"
+    },
+    {
+      "id": "x-adaptation-153",
+      "reviewedItemSha256": "f33b28b82b53e842a473dd0983eab1c2ab92c83a1a7de0afc039dffcacbfb845",
+      "approvalReport": "c-cross-b-extra-151-175.recheck.json"
+    },
+    {
+      "id": "x-adaptation-154",
+      "reviewedItemSha256": "beb977f09ce808c8d54071d240a8e6793549d4335aa8cb40266aadabacaad8a2",
+      "approvalReport": "c-cross-b-extra-151-175.recheck.json"
+    },
+    {
+      "id": "x-adaptation-155",
+      "reviewedItemSha256": "ba4906787a6682dac30263cbb66e64cca96b5ba392300fe9df66568d6b35ed4d",
+      "approvalReport": "c-cross-b-extra-151-175.recheck.json"
+    },
+    {
+      "id": "x-adaptation-156",
+      "reviewedItemSha256": "57a9f12affe694ec71358b4c0ada1b05c9ee4afd7eec0dec3d55eac3faa2713b",
+      "approvalReport": "c-cross-b-extra-151-175.recheck.json"
+    },
+    {
+      "id": "x-adaptation-157",
+      "reviewedItemSha256": "53ede4c57cdf82786998538d10bbd7aed1f7d7bf2fb4b8f792ec765441d4b649",
+      "approvalReport": "c-cross-b-extra-151-175.recheck.json"
+    },
+    {
+      "id": "x-adaptation-158",
+      "reviewedItemSha256": "ea7ad31f67d3ca187180be386b30d860a8035fea662693401e7fcb6ef33958d5",
+      "approvalReport": "c-cross-b-extra-151-175.recheck.json"
+    },
+    {
+      "id": "x-adaptation-159",
+      "reviewedItemSha256": "035fb0c89d59f95071b4d88e70ed85f932528a2c74970348e60d79ed3793bb65",
+      "approvalReport": "c-cross-b-extra-151-175.recheck.json"
+    },
+    {
+      "id": "x-adaptation-160",
+      "reviewedItemSha256": "5ab2fc209f2e1d95d90777b655458864953c7621a8f327162ad43949758ae798",
+      "approvalReport": "c-cross-b-extra-151-175.recheck.json"
+    },
+    {
+      "id": "x-adaptation-161",
+      "reviewedItemSha256": "efff8f0d835172e2b72f3b87e39d183467286b2c0ceafca710ff8f3cdb9db85c",
+      "approvalReport": "c-cross-b-extra-151-175.recheck.json"
+    },
+    {
+      "id": "x-adaptation-162",
+      "reviewedItemSha256": "19782b101b289111a4f1e7ec4ee8faddaa22912e1f436e5c1fd3073ac717c6da",
+      "approvalReport": "c-cross-b-extra-151-175.recheck.json"
+    },
+    {
+      "id": "x-adaptation-163",
+      "reviewedItemSha256": "3ba338e3c573654792dd93bb65874d684d8103be9a3f24611554b204315a9998",
+      "approvalReport": "c-cross-b-extra-151-175.recheck.json"
+    },
+    {
+      "id": "x-adaptation-164",
+      "reviewedItemSha256": "ec2f228070b1669332f6a160b286229cd8985adbba25ace38217e7969f712070",
+      "approvalReport": "c-cross-b-extra-seven.followup.json"
+    },
+    {
+      "id": "x-adaptation-165",
+      "reviewedItemSha256": "9db485e8234a6694c7f7f3ed899403edcaac7b67de07eca6f39f5f807b82cbbf",
+      "approvalReport": "c-cross-b-extra-151-175.recheck.json"
+    },
+    {
+      "id": "x-adaptation-166",
+      "reviewedItemSha256": "d86e2261b3b3bd54b1fb8eeee738b312ed46129872a5559438e8658270f0a542",
+      "approvalReport": "c-cross-b-extra-151-175.recheck.json"
+    },
+    {
+      "id": "x-adaptation-167",
+      "reviewedItemSha256": "2efcb97994045ff9b5286c0c8a1c858c43eaea602c83ecbbe993494fb2185cc3",
+      "approvalReport": "c-cross-b-extra-seven.followup.json"
+    },
+    {
+      "id": "x-adaptation-168",
+      "reviewedItemSha256": "a145f4f8daef0be123b13c59d0e09accaebaf3f9c7256ad0b1d00f3faab2cb95",
+      "approvalReport": "c-cross-b-extra-151-175.recheck.json"
+    },
+    {
+      "id": "x-adaptation-169",
+      "reviewedItemSha256": "28b1c68ac3cba2e64f11f430ffdc70cf309769520310df52a8626421b76abf96",
+      "approvalReport": "c-cross-b-extra-151-175.recheck.json"
+    },
+    {
+      "id": "x-adaptation-170",
+      "reviewedItemSha256": "8462b160e2b58af424befc8fc9ad2f5883255bffc61620d72b55b69d4c45feb9",
+      "approvalReport": "c-cross-b-extra-151-175.recheck.json"
+    },
+    {
+      "id": "x-adaptation-171",
+      "reviewedItemSha256": "3b6dd645fac18a1e1a86def32ed08ae48781e166af4efdcae0547d6135fee19c",
+      "approvalReport": "c-cross-b-extra-151-175.recheck.json"
+    },
+    {
+      "id": "x-adaptation-172",
+      "reviewedItemSha256": "466563dd868bdee7ed79ac66e748c7d503d0d131fb5fd12794a05f887f27ca8c",
+      "approvalReport": "c-cross-b-extra-151-175.recheck.json"
+    },
+    {
+      "id": "x-adaptation-173",
+      "reviewedItemSha256": "27f5e18f9fdb86c08cd4afc5cdddaa261c2239fd9528414eae149b89aaabc7bb",
+      "approvalReport": "c-cross-b-extra-151-175.recheck.json"
+    },
+    {
+      "id": "x-adaptation-174",
+      "reviewedItemSha256": "4af4c2f69251a4061382580f0279e44f67cbe53a76c36a893c945cbc8cf6ac72",
+      "approvalReport": "c-cross-b-extra-151-175.recheck.json"
+    },
+    {
+      "id": "x-adaptation-175",
+      "reviewedItemSha256": "114add4f032a723de0c49604e2dd9109a8b5e647a2e281b87cbc04cae9803565",
+      "approvalReport": "c-cross-b-extra-seven.followup.json"
+    },
+    {
+      "id": "x-adaptation-176",
+      "reviewedItemSha256": "af146c8bd93114776ac571266c94da36c5b9e6093f9c4ec8ff012f22f9dad010",
+      "approvalReport": "c-cross-b-extra-176-200.recheck.json"
+    },
+    {
+      "id": "x-adaptation-177",
+      "reviewedItemSha256": "356641c9cc897f289874a280912af9ef415badefb7a38abf0fe9d84903050b5b",
+      "approvalReport": "c-cross-b-extra-176-200.recheck.json"
+    },
+    {
+      "id": "x-adaptation-178",
+      "reviewedItemSha256": "5239a63ccfac2db5e57179723b464a5349fb0a64ab9689880f3f97a85b89f15b",
+      "approvalReport": "c-cross-b-extra-176-200.recheck.json"
+    },
+    {
+      "id": "x-adaptation-179",
+      "reviewedItemSha256": "a69a4867771635658ba49c5d8516461ea69bddceaedd3a29eaeafac2ef1a73b5",
+      "approvalReport": "c-cross-b-extra-176-200.recheck.json"
+    },
+    {
+      "id": "x-adaptation-180",
+      "reviewedItemSha256": "2731b974bf41ec571be7ee46d8faf7f94273bd8194db4290183f8169ca9a9b6f",
+      "approvalReport": "c-cross-b-extra-176-200.recheck.json"
+    },
+    {
+      "id": "x-adaptation-181",
+      "reviewedItemSha256": "bcc089406b3bfc62c2fc2fd2e411685bd7a32b1b5ede9b4a51db12b75284c9d3",
+      "approvalReport": "c-cross-b-extra-176-200.recheck.json"
+    },
+    {
+      "id": "x-adaptation-182",
+      "reviewedItemSha256": "abaf579261cba0780538dfe97ba760eb72d8ed21bcbe36ef176c3ed1e82f6050",
+      "approvalReport": "c-cross-b-extra-176-200.recheck.json"
+    },
+    {
+      "id": "x-adaptation-183",
+      "reviewedItemSha256": "08a04d9791f9a8ecb659669be694e29f48648eb38104d607bb345e33ac4d32c5",
+      "approvalReport": "c-cross-b-extra-four.followup.json"
+    },
+    {
+      "id": "x-adaptation-184",
+      "reviewedItemSha256": "90fa246cb4efe771e1a9b0bde6c771b0ed00ab6dbf90c74d5fe4563e7060df0d",
+      "approvalReport": "c-cross-b-extra-176-200.recheck.json"
+    },
+    {
+      "id": "x-adaptation-185",
+      "reviewedItemSha256": "a8fe827ec81b124eed963948fef53704ecc22609cfa241afea1dd051f23db37b",
+      "approvalReport": "c-cross-b-extra-176-200.recheck.json"
+    },
+    {
+      "id": "x-adaptation-186",
+      "reviewedItemSha256": "9e90f49f35e1e9fe87004984122b46e2f8f1b88f68a7d1a7005c4fc2dca54c06",
+      "approvalReport": "c-cross-b-extra-176-200.recheck.json"
+    },
+    {
+      "id": "x-adaptation-187",
+      "reviewedItemSha256": "dd4ece3ace38fa11b3f515ecd3c2a8fa5260b1d11d0a316899571fa9676e3db7",
+      "approvalReport": "c-cross-b-extra-176-200.recheck.json"
+    },
+    {
+      "id": "x-adaptation-188",
+      "reviewedItemSha256": "3d28e34cf2070f17bae8571be450777ae73577bbb284650dc505f10c149ec727",
+      "approvalReport": "c-cross-b-extra-four.followup.json"
+    },
+    {
+      "id": "x-adaptation-189",
+      "reviewedItemSha256": "b6753abb21c9fa00faad79edc6622df9d522afc77a43f0b6de3efcabbca73860",
+      "approvalReport": "c-cross-b-extra-176-200.recheck.json"
+    },
+    {
+      "id": "x-adaptation-190",
+      "reviewedItemSha256": "e9c405da795d41eb3dbb1a2bec8f5eb576714fac3cdbab660249192d8c7be7ae",
+      "approvalReport": "c-cross-b-extra-176-200.recheck.json"
+    },
+    {
+      "id": "x-adaptation-191",
+      "reviewedItemSha256": "0c95d0b427c0f10bd732f399e3b8a97739eb2a17967e66b6ea4107e9b0e0f8bc",
+      "approvalReport": "c-cross-b-extra-176-200.recheck.json"
+    },
+    {
+      "id": "x-adaptation-192",
+      "reviewedItemSha256": "fb52863817345c8489cbe5a0125b0d7dadbdf9539301641cd9ec3ce47904922e",
+      "approvalReport": "c-cross-b-extra-176-200.recheck.json"
+    },
+    {
+      "id": "x-adaptation-193",
+      "reviewedItemSha256": "1058ed5129f6bc27f545084236574a0311bf2ae53ad79a1d58b840a8c702a6f3",
+      "approvalReport": "c-cross-b-extra-176-200.recheck.json"
+    },
+    {
+      "id": "x-adaptation-194",
+      "reviewedItemSha256": "0224c32492f949a68ba7acf594432c1449381824fba72b30fcc9d29559635f95",
+      "approvalReport": "c-cross-b-extra-176-200.recheck.json"
+    },
+    {
+      "id": "x-adaptation-195",
+      "reviewedItemSha256": "a12b4fe69a7f8519700175b181444a93bb359b40311a914e6048a7d4e13f593e",
+      "approvalReport": "c-cross-b-extra-four.followup.json"
+    },
+    {
+      "id": "x-adaptation-196",
+      "reviewedItemSha256": "ff4bcbbd358bb274375a8d2fb10e9db8298875c97e49bfffc1f6142c7940c53c",
+      "approvalReport": "c-cross-b-extra-176-200.recheck.json"
+    },
+    {
+      "id": "x-adaptation-197",
+      "reviewedItemSha256": "22cc786b54223ad4f0c8a3e19c6835b672ab7ec46c1e0fd64761f09f2564b7f0",
+      "approvalReport": "c-cross-b-extra-176-200.recheck.json"
+    },
+    {
+      "id": "x-adaptation-198",
+      "reviewedItemSha256": "6812b5237c9ea19ea6ea813c80e52f6feaf1f1a0cf2fa33595f98975f6f86386",
+      "approvalReport": "c-cross-b-extra-four.followup.json"
+    },
+    {
+      "id": "x-adaptation-199",
+      "reviewedItemSha256": "c339786bf2013a7462bd9e27982f6d4e43ed1be21a9f47cd5c2584fd3d622338",
+      "approvalReport": "c-cross-b-extra-176-200.recheck.json"
+    },
+    {
+      "id": "x-adaptation-200",
+      "reviewedItemSha256": "19aa044e7d174eddd74514e9149a43579ef726b9cece1bc65673e6793a4b9eb8",
+      "approvalReport": "c-cross-b-extra-176-200.recheck.json"
+    }
+  ],
+  "method": "Mechanical current-hash index of separately reasoned review records, not an independent approval step."
+}

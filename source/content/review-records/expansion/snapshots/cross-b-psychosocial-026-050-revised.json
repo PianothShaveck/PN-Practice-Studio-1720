@@ -1,0 +1,812 @@
+[
+  {
+    "id": "x-psychosocial-026",
+    "cat": "psychosocial",
+    "title": "Reassurance in health anxiety",
+    "stem": "A client repeatedly seeks the same reassurance after appropriate assessment. Which approach supports a coordinated plan? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Agree on planned review and symptom-reporting boundaries",
+      "Explore distress and coping without promising absolute certainty",
+      "Offer a new unplanned test every time worry returns",
+      "Ensure genuinely new concerning symptoms receive assessment"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "why": [
+      "Consistency can reduce fragmented reassurance-seeking while preserving care.",
+      "Emotional support does not require impossible guarantees.",
+      "Repeated unplanned testing can reinforce the cycle without addressing distress.",
+      "A known anxiety pattern must not exclude new clinical evaluation."
+    ],
+    "takeaway": "Balance consistent health-anxiety care with assessment of new symptoms.",
+    "refs": [
+      "d-anxiety"
+    ],
+    "exhibit": null,
+    "subtopic": "Health anxiety",
+    "learningObjective": "Balance consistent health-anxiety care with assessment of new symptoms.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-027",
+    "cat": "psychosocial",
+    "title": "Obsessions and compulsions",
+    "stem": "A client has unwanted contamination thoughts and repeated washing. The nurse has assessed skin condition and immediate safety. To establish a baseline for the goal of reducing daily interference, which question is most useful?",
+    "type": "single",
+    "options": [
+      "What do you fear would happen if you delayed washing?",
+      "How much of each day is taken up by washing?",
+      "Which cleaning products do you keep at home?",
+      "Who usually reassures you when you feel contaminated?"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "The feared consequence informs treatment, but does not quantify the daily time displaced by the ritual.",
+      "Time spent establishes a measurable baseline for the stated functional goal.",
+      "Products may contribute to skin problems but are less direct measures of daily interference.",
+      "Family accommodation matters to the plan, but does not establish how much time washing currently consumes."
+    ],
+    "takeaway": "Assess distress and functional interference from obsessive-compulsive symptoms.",
+    "refs": [
+      "d-ocd"
+    ],
+    "exhibit": null,
+    "subtopic": "Obsessive-compulsive assessment",
+    "learningObjective": "Assess distress and functional interference from obsessive-compulsive symptoms.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-028",
+    "cat": "psychosocial",
+    "title": "An interrupted ritual",
+    "stem": "As part of an agreed therapist-directed plan, a client with obsessive-compulsive disorder delays repeat handwashing for two minutes. After one minute they feel anxious but want to finish the step. What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Reassure the client again that their hands are clean",
+      "Suggest trying the two-minute delay at the next visit",
+      "Coach the agreed coping strategy through the remaining minute",
+      "Offer to check the hands before the timer finishes"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Repeated reassurance can become part of the ritual and does not support the agreed response-prevention step.",
+      "The client is willing and able to continue; postponement does not build on the current tolerated effort.",
+      "Support for the agreed manageable step preserves the client's choice and the treatment strategy.",
+      "Checking for the client can reinforce reliance on reassurance rather than support tolerating uncertainty."
+    ],
+    "takeaway": "Respond to ritual-related distress through the coordinated treatment plan.",
+    "refs": [
+      "d-ocd"
+    ],
+    "exhibit": null,
+    "subtopic": "Obsessive-compulsive intervention",
+    "learningObjective": "Respond to ritual-related distress through the coordinated treatment plan.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-029",
+    "cat": "psychosocial",
+    "title": "Family accommodation of rituals",
+    "stem": "A family spends an hour checking locks at a client's request. The treatment team and client agree to reduce family participation gradually while retaining supportive contact. Which family plan fits this approach?",
+    "type": "single",
+    "options": [
+      "Follow the agreed reduction and encourage the client's coping practice",
+      "Use a written checklist to repeat each requested check consistently",
+      "Take over one full lock check before the client goes to bed",
+      "Set a nightly time to reassure the client about each locked door"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "The coordinated reduction addresses accommodation while preserving connection and support.",
+      "A repeated checklist can formalize family participation in the checking ritual.",
+      "Completing a check for the client still provides the ritual reassurance the plan is reducing.",
+      "Scheduled repeated reassurance can maintain the accommodation even when its timing is predictable."
+    ],
+    "takeaway": "Coordinate family responses that reduce ritual accommodation without abandoning support.",
+    "refs": [
+      "d-ocd"
+    ],
+    "exhibit": null,
+    "subtopic": "Family support in OCD",
+    "learningObjective": "Coordinate family responses that reduce ritual accommodation without abandoning support.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-030",
+    "cat": "psychosocial",
+    "title": "Evaluating OCD treatment progress",
+    "stem": "A client's agreed treatment goal is to leave home independently by 09:00 rather than spend an hour checking appliances. Which follow-up finding most directly shows progress toward that goal?",
+    "type": "single",
+    "options": [
+      "Distress falls from seven to four while checking still takes an hour",
+      "The client identifies more triggers but still misses the morning bus",
+      "A relative completes the checks and the client leaves at 09:00",
+      "The client reduces checking to ten minutes and leaves alone at 09:00"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Lower distress is useful, but the stated independent functional goal remains unmet.",
+      "Insight is useful but has not yet changed the targeted daily interference.",
+      "Timeliness has improved through family accommodation rather than the planned independent behaviour.",
+      "Reduced ritual time with independent timely departure demonstrates the specific functional improvement."
+    ],
+    "takeaway": "Evaluate obsessive-compulsive care by distress, ritual time and function.",
+    "refs": [
+      "d-ocd"
+    ],
+    "exhibit": null,
+    "subtopic": "OCD outcomes",
+    "learningObjective": "Evaluate obsessive-compulsive care by distress, ritual time and function.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-031",
+    "cat": "psychosocial",
+    "title": "Supporting planned response prevention",
+    "stem": "A client practising therapist-directed response prevention feels anxious after delaying a ritual. Which nursing actions fit the agreed plan? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Stay supportive while the client uses coping skills",
+      "Record response and share it with the treatment team",
+      "Complete the ritual for the client",
+      "Remind the client of the agreed step without coercion"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "why": [
+      "Support helps tolerate distress without automatically reinforcing the ritual.",
+      "Observations inform adjustment of the coordinated plan.",
+      "Staff completion defeats the purpose of response prevention.",
+      "Predictable collaborative guidance supports the treatment agreement."
+    ],
+    "takeaway": "Support planned response prevention without completing the compulsion.",
+    "refs": [
+      "d-ocd"
+    ],
+    "exhibit": null,
+    "subtopic": "OCD treatment support",
+    "learningObjective": "Support planned response prevention without completing the compulsion.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-032",
+    "cat": "psychosocial",
+    "title": "Compulsive behaviour and skin injury",
+    "stem": "Repeated handwashing has left a client with painful superficial fissures that are currently bleeding slightly. The client agrees to hand care but remains afraid of contamination. Which action takes priority now?",
+    "type": "single",
+    "options": [
+      "Compare gentler cleansers available for the next wash",
+      "Assess and protect the damaged skin using the wound-care plan",
+      "Arrange a treatment-team discussion about the washing ritual",
+      "Practise a coping statement for the next urge to wash"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Gentler products may reduce irritation, but do not first assess and protect the current injury.",
+      "The active skin injury needs prompt physical care; support for the compulsive behaviour should also continue.",
+      "Coordinated treatment is important for preventing recurrence but does not replace care of the present wound.",
+      "Coping practice may support treatment, but the bleeding skin requires attention now."
+    ],
+    "takeaway": "Address physical consequences and psychological drivers of compulsive behaviour.",
+    "refs": [
+      "d-ocd"
+    ],
+    "exhibit": null,
+    "subtopic": "OCD physical consequences",
+    "learningObjective": "Address physical consequences and psychological drivers of compulsive behaviour.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-033",
+    "cat": "psychosocial",
+    "title": "Hoarding and engagement",
+    "stem": "A client is distressed about discarding possessions. Boxes block the only exit, while collections in the bedroom do not obstruct movement. The client agrees to one small safety change today. Which goal should the nurse negotiate first?",
+    "type": "single",
+    "options": [
+      "Sort a small collection in the bedroom",
+      "Arrange valuations for the most important possessions",
+      "Clear a usable path to the exit",
+      "Schedule a service to clear the whole home"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "A manageable sorting task may build confidence, but it does not address the immediate blocked exit.",
+      "Valuation may explore meaning, but leaves the identified evacuation hazard unchanged.",
+      "A clear exit addresses the highest immediate risk within the client's agreed limited change.",
+      "Whole-home clearance exceeds the small change currently agreed and is not necessary to address the first safety priority."
+    ],
+    "takeaway": "Begin hoarding-related care with collaboration and specific safety priorities.",
+    "refs": [
+      "d-ocd"
+    ],
+    "exhibit": null,
+    "subtopic": "Hoarding support",
+    "learningObjective": "Begin hoarding-related care with collaboration and specific safety priorities.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-034",
+    "cat": "psychosocial",
+    "title": "Unwanted intrusive thoughts",
+    "stem": "A client is ashamed of recurrent unwanted images of harming someone and says, \"They frighten me because I do not want them.\" The nurse has not yet assessed current safety. Which question is most important now?",
+    "type": "single",
+    "options": [
+      "Do you feel any urge or intention to act on these images?",
+      "When did the images first begin to trouble you?",
+      "What do you believe having the images means about you?",
+      "Who usually helps you cope when the images occur?"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Direct assessment distinguishes unwanted thoughts from intent or urges and guides further safety assessment; neither risk nor safety should be assumed.",
+      "Onset informs the history, but does not establish present intent or control.",
+      "Meaning and distress matter to treatment, but current safety needs clarification first.",
+      "Support matters to the plan, but does not establish whether the client may act now."
+    ],
+    "takeaway": "Assess intrusive thoughts without equating them automatically with intent.",
+    "refs": [
+      "d-ocd"
+    ],
+    "exhibit": null,
+    "subtopic": "Intrusive-thought assessment",
+    "learningObjective": "Assess intrusive thoughts without equating them automatically with intent.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-035",
+    "cat": "psychosocial",
+    "title": "Unexpected touch during care",
+    "stem": "During a nonurgent assessment, a client startles and asks the nurse to stop touching them. The nurse stops. The client says, \"I need to know before anyone moves the gown.\" What should the nurse do next?",
+    "type": "single",
+    "options": [
+      "Explain the medical purpose of the examination again",
+      "Offer a chaperone for the remainder of the visit",
+      "Offer an appointment on a different day",
+      "Agree on notice and permission before moving the gown"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Purpose may be helpful, but the client has identified unpredictability of contact as the concern.",
+      "A chaperone may provide support, but does not by itself address the requested warning and permission.",
+      "Rescheduling may be chosen, but the expressed concern may be accommodated during this visit.",
+      "An agreed sequence directly restores the specific predictability and choice the client requested."
+    ],
+    "takeaway": "Stop unwanted touch and re-establish choice during trauma-informed care.",
+    "refs": [
+      "d-trauma"
+    ],
+    "exhibit": null,
+    "subtopic": "Trauma-informed physical care",
+    "learningObjective": "Stop unwanted touch and re-establish choice during trauma-informed care.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-036",
+    "cat": "psychosocial",
+    "title": "Trauma-informed planning",
+    "stem": "Which options may help a client who becomes distressed during examinations? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Agree on a stop signal",
+      "Explain each step before contact",
+      "Require a complete trauma narrative before offering accommodations",
+      "Offer choices about positioning or a support person where feasible"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "why": [
+      "A stop signal gives the client a clear way to regain control.",
+      "Predictability reduces unexpected sensations and actions.",
+      "Accommodations do not require detailed disclosure of trauma.",
+      "Feasible choices can increase safety and participation."
+    ],
+    "takeaway": "Offer predictability and choice without requiring trauma disclosure.",
+    "refs": [
+      "d-trauma"
+    ],
+    "exhibit": null,
+    "subtopic": "Trauma-informed planning",
+    "learningObjective": "Offer predictability and choice without requiring trauma disclosure.",
+    "reasoningSkill": "intervention",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-037",
+    "cat": "psychosocial",
+    "title": "Grounding during a flashback",
+    "stem": "A client crouches behind a chair and says they are back at a past assault scene. No current threat is present. They respond when the nurse says their name and can follow one short cue. Which response is best now?",
+    "type": "single",
+    "options": [
+      "Ask which part of the earlier event has returned",
+      "Name the current room and invite noticing the floor beneath their feet",
+      "Offer to call a support person to discuss the episode",
+      "Suggest moving together to a different room in the clinic"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Discussing the trauma content can increase focus on the recalled event rather than the present surroundings.",
+      "A simple present-focused cue fits the client's current ability to engage and can support grounding.",
+      "A support person may help later, but contact is less direct than an available grounding response now.",
+      "Changing location may help some clients but adds movement before orientation to the current safe setting."
+    ],
+    "takeaway": "Use calm present-focused grounding during trauma re-experiencing.",
+    "refs": [
+      "d-ptsd"
+    ],
+    "exhibit": null,
+    "subtopic": "Trauma re-experiencing",
+    "learningObjective": "Use calm present-focused grounding during trauma re-experiencing.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-038",
+    "cat": "psychosocial",
+    "title": "Nightmares and daytime function",
+    "stem": "A trauma survivor reports nightmares and missed morning appointments. Immediate safety has been assessed, and the client wants help attending treatment. Which assessment most directly guides this goal?",
+    "type": "single",
+    "options": [
+      "The timing and content of the original traumatic event",
+      "The names and doses of previously prescribed medicines",
+      "The effect of poor sleep on waking, travel and daytime tasks",
+      "The relatives available for occasional evening telephone contact"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Trauma history may be relevant if the client wishes, but detailed event content is not required to identify the current attendance barrier.",
+      "Past treatment can inform review, but does not directly explain how the present sleep problem affects attending.",
+      "Linking sleep impairment to the practical morning routine identifies where support or treatment adaptation may help.",
+      "Support is useful, but evening contact may not address the actual morning obstacle."
+    ],
+    "takeaway": "Assess the functional and safety effects of trauma-related sleep disturbance.",
+    "refs": [
+      "d-ptsd"
+    ],
+    "exhibit": null,
+    "subtopic": "Trauma assessment",
+    "learningObjective": "Assess the functional and safety effects of trauma-related sleep disturbance.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-039",
+    "cat": "psychosocial",
+    "title": "Disclosure without pressure",
+    "stem": "A client hints at past violence but says they cannot discuss details. What response best supports care?",
+    "type": "single",
+    "options": [
+      "We can discuss what helps you feel safe without requiring details.",
+      "We should complete the full history before deciding what support fits.",
+      "We can ask your partner to explain the parts you cannot discuss.",
+      "We should pause every assessment topic until you can tell the full story."
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Safety supports and accommodations do not require a detailed trauma narrative.",
+      "Requiring full disclosure before support can undermine control and trust.",
+      "Seeking a partner's account may compromise privacy or safety.",
+      "Relevant care can continue with sensitive pacing and the client's consent."
+    ],
+    "takeaway": "Support current safety needs without forcing trauma narration.",
+    "refs": [
+      "d-trauma"
+    ],
+    "exhibit": null,
+    "subtopic": "Trauma disclosure",
+    "learningObjective": "Support current safety needs without forcing trauma narration.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-040",
+    "cat": "psychosocial",
+    "title": "A trauma trigger in the environment",
+    "stem": "A client requests a partly open door during a sensitive conversation. The room opens onto a busy corridor, but a private room with a screened doorway is available. Which proposal best preserves the client's preference and confidentiality?",
+    "type": "single",
+    "options": [
+      "Keep the current door partly open and speak more quietly",
+      "Close the current door and explain the privacy requirement",
+      "Offer a support person while using the current closed room",
+      "Offer the private room with its doorway partly open"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Lower volume does not reliably prevent corridor conversations being overheard.",
+      "The explanation addresses privacy but does not accommodate the expressed door preference when a feasible option exists.",
+      "A support person may help, but the proposed door arrangement remains different from the client's request.",
+      "The available private arrangement can preserve both the requested opening and confidentiality, subject to the client's agreement."
+    ],
+    "takeaway": "Accommodate safe environmental preferences that reduce trauma-related distress.",
+    "refs": [
+      "d-trauma"
+    ],
+    "exhibit": null,
+    "subtopic": "Trauma-sensitive environment",
+    "learningObjective": "Accommodate safe environmental preferences that reduce trauma-related distress.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-041",
+    "cat": "psychosocial",
+    "title": "Avoiding retraumatization",
+    "stem": "Which nursing practices reduce the risk of retraumatization? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Explain the purpose of sensitive questions",
+      "Ask permission before physical contact",
+      "Use surprise to prevent anticipatory anxiety",
+      "Maintain predictable communication about changes"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "why": [
+      "Knowing the purpose supports informed participation.",
+      "Permission supports bodily autonomy and control.",
+      "Unexpected actions may recreate loss of control.",
+      "Predictability reduces uncertainty and supports trust."
+    ],
+    "takeaway": "Use consent and predictable communication throughout trauma-informed care.",
+    "refs": [
+      "d-trauma"
+    ],
+    "exhibit": null,
+    "subtopic": "Trauma-informed principles",
+    "learningObjective": "Use consent and predictable communication throughout trauma-informed care.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-042",
+    "cat": "psychosocial",
+    "title": "Dissociation during an interview",
+    "stem": "During trauma discussion, a client becomes distant and says the room feels unreal. They remain responsive and previously chose naming objects in the room as a grounding strategy. What should the nurse do first?",
+    "type": "single",
+    "options": [
+      "Repeat the last question using simpler wording",
+      "Pause and invite the client to name a nearby object",
+      "Offer a quiet interval alone before resuming",
+      "Change the interview topic to daily activities"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Rephrasing continues the interview demand before addressing the altered sense of the present.",
+      "Pausing and using the agreed simple cue directly supports reorientation; assess safety and possible medical causes if the presentation warrants.",
+      "Quiet may help, but leaving alone does not provide the grounding support the client already selected.",
+      "A less sensitive topic may help later, but first address the current disconnection."
+    ],
+    "takeaway": "Pause trauma exploration when dissociation interferes with engagement.",
+    "refs": [
+      "d-ptsd"
+    ],
+    "exhibit": null,
+    "subtopic": "Dissociation support",
+    "learningObjective": "Pause trauma exploration when dissociation interferes with engagement.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-043",
+    "cat": "psychosocial",
+    "title": "Recovery after a frightening event",
+    "stem": "After witnessing a collision, a client has been medically assessed and is safe. They are shaken, have no transport and want to contact a sibling but their phone is damaged. What is the most useful initial offer?",
+    "type": "single",
+    "options": [
+      "Arrange a future appointment for trauma-symptom screening",
+      "Provide information about formal trauma-focused therapy",
+      "Help contact the sibling and arrange a safe way home",
+      "Invite a detailed discussion of the collision before departure"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Follow-up can be useful but does not address the immediate practical barrier.",
+      "Therapy may become appropriate if symptoms persist or warrant it, but the current request concerns support and transport.",
+      "Practical help matched to the client's expressed need supports immediate stability and connection.",
+      "Detailed retelling is not required to receive support and may not be what the client wants now."
+    ],
+    "takeaway": "Provide needs-based support after trauma without forcing detailed retelling.",
+    "refs": [
+      "d-trauma"
+    ],
+    "exhibit": null,
+    "subtopic": "Early trauma support",
+    "learningObjective": "Provide needs-based support after trauma without forcing detailed retelling.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-044",
+    "cat": "psychosocial",
+    "title": "Trauma care and client control",
+    "stem": "For a nonurgent intimate examination, a client requests a woman examiner and says they would feel able to proceed with that arrangement. An appropriate woman clinician is available later in the same visit. What should the nurse offer?",
+    "type": "single",
+    "options": [
+      "Coordinate the available woman examiner with the client",
+      "Arrange a chaperone for the currently assigned examiner",
+      "Explain the current examiner's experience with the procedure",
+      "Suggest returning to the clinic on another day"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "The feasible arrangement directly matches the preference that the client says would permit care.",
+      "A chaperone may be useful but does not substitute for the expressed examiner preference.",
+      "Credentials address competence rather than the particular arrangement affecting this client's sense of safety.",
+      "A later date may be chosen, but is not necessary when a suitable agreed alternative is available today."
+    ],
+    "takeaway": "Seek feasible examination arrangements that support client control.",
+    "refs": [
+      "d-trauma"
+    ],
+    "exhibit": null,
+    "subtopic": "Trauma-informed choice",
+    "learningObjective": "Seek feasible examination arrangements that support client control.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-045",
+    "cat": "psychosocial",
+    "title": "Evaluating trauma-informed care",
+    "stem": "The nurse changes an examination plan to strengthen predictability and the client's control. Which statement most directly shows those aims were met?",
+    "type": "single",
+    "options": [
+      "I can name two breathing methods that help me settle.",
+      "I understand why this examination was recommended.",
+      "I plan to return even though I still feel nervous.",
+      "I know the next steps and how to ask for a pause."
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Coping skills are useful, but this statement does not demonstrate knowledge of the sequence or control over pausing.",
+      "Understanding the purpose supports consent, but is different from predicting the process and directing a pause.",
+      "Willingness to return is encouraging, but does not establish the two specific aims.",
+      "Knowing the sequence and the available stop signal directly demonstrates predictability and agency."
+    ],
+    "takeaway": "Evaluate trauma-informed care through perceived safety, predictability and control.",
+    "refs": [
+      "d-trauma"
+    ],
+    "exhibit": null,
+    "subtopic": "Trauma-informed evaluation",
+    "learningObjective": "Evaluate trauma-informed care through perceived safety, predictability and control.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-046",
+    "cat": "psychosocial",
+    "title": "Supporting a trusted companion",
+    "stem": "A trauma survivor wants a friend present during education but not during examination. Which actions are appropriate? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Clarify the client's desired boundaries",
+      "Arrange the companion's involvement accordingly",
+      "Assume permission for teaching includes permission for examination",
+      "Recheck preferences if circumstances change"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "why": [
+      "Specific boundaries clarify meaningful consent for involvement.",
+      "Respecting the distinction supports control and privacy.",
+      "Consent for one context does not automatically extend to another.",
+      "Preferences may change and should remain open to review."
+    ],
+    "takeaway": "Treat support-person involvement as specific and revisable.",
+    "refs": [
+      "d-trauma"
+    ],
+    "exhibit": null,
+    "subtopic": "Trauma-informed support",
+    "learningObjective": "Treat support-person involvement as specific and revisable.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-047",
+    "cat": "psychosocial",
+    "title": "Depression hidden by physical complaints",
+    "stem": "An older adult has three weeks of fatigue and poor concentration. Medication and medical reviews are underway. They deny feeling sad but say they have stopped gardening, which they used to enjoy. Which question best explores a possible depressive symptom?",
+    "type": "single",
+    "options": [
+      "Has the new medication changed how you sleep at night?",
+      "Do activities you usually enjoy still give you pleasure?",
+      "Who can help with gardening while your energy is low?",
+      "How many hours of sleep do you get on most nights?"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Medication and sleep effects deserve assessment but do not directly explore the loss of pleasure suggested here.",
+      "Loss of pleasure can occur even when a client does not identify sadness; this question explores that cue in accessible language.",
+      "Practical help may support function but does not clarify why the valued activity stopped.",
+      "Sleep is relevant, but the specific new cue is reduced engagement in a previously enjoyable activity."
+    ],
+    "takeaway": "Assess depression through function and interest as well as reported sadness.",
+    "refs": [
+      "d-depression"
+    ],
+    "exhibit": null,
+    "subtopic": "Depression recognition",
+    "learningObjective": "Assess depression through function and interest as well as reported sadness.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-048",
+    "cat": "psychosocial",
+    "title": "Small tasks during severe depression",
+    "stem": "A client with depression wants to resume showering and can physically perform the task, but says starting feels overwhelming. Which plan best supports the agreed self-care goal?",
+    "type": "single",
+    "options": [
+      "Complete the shower for the client this morning",
+      "Defer showering until the client feels more motivated",
+      "Agree on the first step and provide graded prompting",
+      "Substitute a full assisted bed bath for the planned shower"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Completing the task for the client meets hygiene needs but provides less practice in the desired independent function.",
+      "Waiting for motivation can prolong inactivity when a small supported start is feasible.",
+      "A manageable first step with support targets initiation while preserving participation in the chosen task.",
+      "A less demanding wash may be useful if needed, but the client wants and can attempt the shower with support."
+    ],
+    "takeaway": "Support depressed clients with manageable activities and graded assistance.",
+    "refs": [
+      "d-depression"
+    ],
+    "exhibit": null,
+    "subtopic": "Depression functional support",
+    "learningObjective": "Support depressed clients with manageable activities and graded assistance.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-049",
+    "cat": "psychosocial",
+    "title": "Responding to worthlessness",
+    "stem": "A client with depression says, \"I am useless because I cannot work.\" Which reply best explores the meaning of that belief before problem-solving?",
+    "type": "single",
+    "options": [
+      "Work seems closely tied to your sense of worth; what does it mean to you?",
+      "You still contribute to your family; shall we list those contributions together?",
+      "Would a social worker help you explore financial support while you recover?",
+      "Which parts of your old job might you feel able to do now?"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Reflection followed by an open question invites the client's understanding rather than assuming the problem to solve.",
+      "Identifying strengths can be useful, but begins reframing before understanding the belief.",
+      "Financial support may be relevant, but the statement concerns worth and its personal meaning.",
+      "Capacity assessment may help planning, but does not first explore the connection between work and self-worth."
+    ],
+    "takeaway": "Explore self-worth beliefs without relying on contradiction or comparison.",
+    "refs": [
+      "d-depression"
+    ],
+    "exhibit": null,
+    "subtopic": "Depression communication",
+    "learningObjective": "Explore self-worth beliefs without relying on contradiction or comparison.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-050",
+    "cat": "psychosocial",
+    "title": "Behavioural activation planning",
+    "stem": "A client with depression values tending plants but has stopped. They can tolerate brief activity and agree to try five minutes after breakfast. Which plan best applies this goal?",
+    "type": "single",
+    "options": [
+      "Read a gardening article after breakfast",
+      "Watch a gardening programme during the morning",
+      "Attend an hour-long community gardening group",
+      "Water one plant and review the experience afterward"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Reading may be enjoyable but does not practise the chosen hands-on activity.",
+      "Viewing can provide interest but is less direct than the agreed active step.",
+      "A full group session exceeds the brief starting duration the client currently agrees to.",
+      "A short valued action matches the goal and permits evaluation of how manageable and meaningful it felt."
+    ],
+    "takeaway": "Use brief personally meaningful activities in a coordinated depression plan.",
+    "refs": [
+      "d-depression"
+    ],
+    "exhibit": null,
+    "subtopic": "Depression recovery",
+    "learningObjective": "Use brief personally meaningful activities in a coordinated depression plan.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  }
+]

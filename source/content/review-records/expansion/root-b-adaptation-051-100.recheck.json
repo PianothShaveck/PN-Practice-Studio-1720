@@ -1,0 +1,555 @@
+{
+  "reviewer": "Independent AI re-review by root, not author of b001–100",
+  "reviewerTask": "/root",
+  "reviewedAt": "2026-10-01T18:17:30.381903+00:00",
+  "sourceFile": "authoring/b/questions.json (frozen051–100 snapshot)",
+  "coverage": {
+    "reviewedItems": 50,
+    "reviewedIds": [
+      "x-adaptation-051",
+      "x-adaptation-052",
+      "x-adaptation-053",
+      "x-adaptation-054",
+      "x-adaptation-055",
+      "x-adaptation-056",
+      "x-adaptation-057",
+      "x-adaptation-058",
+      "x-adaptation-059",
+      "x-adaptation-060",
+      "x-adaptation-061",
+      "x-adaptation-062",
+      "x-adaptation-063",
+      "x-adaptation-064",
+      "x-adaptation-065",
+      "x-adaptation-066",
+      "x-adaptation-067",
+      "x-adaptation-068",
+      "x-adaptation-069",
+      "x-adaptation-070",
+      "x-adaptation-071",
+      "x-adaptation-072",
+      "x-adaptation-073",
+      "x-adaptation-074",
+      "x-adaptation-075",
+      "x-adaptation-076",
+      "x-adaptation-077",
+      "x-adaptation-078",
+      "x-adaptation-079",
+      "x-adaptation-080",
+      "x-adaptation-081",
+      "x-adaptation-082",
+      "x-adaptation-083",
+      "x-adaptation-084",
+      "x-adaptation-085",
+      "x-adaptation-086",
+      "x-adaptation-087",
+      "x-adaptation-088",
+      "x-adaptation-089",
+      "x-adaptation-090",
+      "x-adaptation-091",
+      "x-adaptation-092",
+      "x-adaptation-093",
+      "x-adaptation-094",
+      "x-adaptation-095",
+      "x-adaptation-096",
+      "x-adaptation-097",
+      "x-adaptation-098",
+      "x-adaptation-099",
+      "x-adaptation-100"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Actual full reading of all50 current stems, options, keys, rationales, takeaways, metadata and references; independent reasoning and crossbank objective check. Source checks targeted, not claim-by-claim certification.",
+  "limitations": [
+    "AI screen, not qualified clinical or psychometric validation.",
+    "Broad linked textbook references do not establish every claim.",
+    "NCBI linked neurological chapter full open blocked by CAPTCHA in this review."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK613069/",
+      "result": "Full opening blocked by CAPTCHA; not counted as verified source."
+    },
+    {
+      "url": "https://www.ukkidney.org/sites/default/files/RENAL%20ASSOCIATION%20HYPERKALAEMIA%20GUIDELINE%20-%20JULY%202022%20V2_0.pdf",
+      "result": "Retrieved excerpt supports calcium cardiac effect without reducing serum potassium; current guideline requested for replacement."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-adaptation-051",
+      "status": "pass",
+      "assessment": "Transient focal weakness and aphasia retain urgent TIA/stroke significance despite resolution; risk review and a diary do not replace acute assessment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "bf7bd2f2f09fea2c3f8d84f18ee22acf8fd8f384d955208635acd4c8357fecf7"
+    },
+    {
+      "id": "x-adaptation-052",
+      "status": "pass",
+      "assessment": "Abrupt diplopia with imbalance distinguishes a central posterior-circulation concern from peripheral vertigo even with equal hand strength.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "bdc0764c730ee77e3068379961a02bb82b44e6dc70d691ed396180971ac4a3aa"
+    },
+    {
+      "id": "x-adaptation-053",
+      "status": "pass",
+      "assessment": "A maximal-at-onset headache unlike established migraine warrants emergency evaluation; prior rescue treatment cannot establish the cause.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "10c414b037d6f44c45d177024f4b6acb9a3fefc33aa5bce14629676b04a66350"
+    },
+    {
+      "id": "x-adaptation-054",
+      "status": "pass",
+      "assessment": "Serial decline in arousal with repeated vomiting after trauma outweighs the initial normal examination and symptomatic antiemetic care.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1350208143ccc9a6679ecc156d60c2c7137130b6c32101138a506e4b93976916"
+    },
+    {
+      "id": "x-adaptation-055",
+      "status": "pass",
+      "assessment": "Observed comprehension of unmodelled instructions and factual responses supports preserved comprehension with effortful expression; motor articulation is distinguished.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "55d7f4b8c069463fed5eb40457da2febf9773ab10de3220a43b24dd80e2f5533"
+    },
+    {
+      "id": "x-adaptation-056",
+      "status": "pass",
+      "assessment": "New arousal, focal motor and pupil changes are selected; unchanged pre-existing findings are reasonable comparison controls.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fb03e94826cadf671f6a3d24cfd94347947e3a9cd501b711ba08871beb82b060"
+    },
+    {
+      "id": "x-adaptation-057",
+      "status": "revise",
+      "assessment": "Plan-directed rescue and airway support are correct; oral medicine, waiting and restarting the seizure clock are basic safety distinctions. Relabel foundation.",
+      "issues": [
+        "Plan-directed rescue and airway support are correct; oral medicine, waiting and restarting the seizure clock are basic safety distinctions. Relabel foundation."
+      ],
+      "proposedChanges": {
+        "difficulty": "foundation"
+      },
+      "reviewedItemSha256": "4f2b278d222edafa570d3f204958e3e067d46a4b24640a1c002ed5b76d677747"
+    },
+    {
+      "id": "x-adaptation-058",
+      "status": "pass",
+      "assessment": "Failure to recover between recurrent convulsions distinguishes an ongoing emergency from ordinary postictal recovery.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1b0fb6c136519ba3b00e7cd957f92a0bb4705a74f972471dcc0ae54fa7d35a8f"
+    },
+    {
+      "id": "x-adaptation-059",
+      "status": "pass",
+      "assessment": "Improving mentation and regular breathing support recovery; focal deficit, renewed convulsions and declining arousal require review.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3dd83cabe611021f69fdabfe17357559740275d6e5d7aec508c7136697bec9ec"
+    },
+    {
+      "id": "x-adaptation-060",
+      "status": "pass",
+      "assessment": "The keyed event record includes onset, automatisms, responsiveness, duration and subsequent amnesia without attributing intent.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4d19a4fd3756099a5b9a1fe55e5015fc903be532ff49111267c38a6d728b3f9c"
+    },
+    {
+      "id": "x-adaptation-061",
+      "status": "pass",
+      "assessment": "New bulbar weakness, ineffective cough and fatigue threaten airway protection/ventilation despite unchanged ocular or limb findings.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "27b815f597bc6c56685874855a73d470b5bee8be4fd768f48508475c97e58b09"
+    },
+    {
+      "id": "x-adaptation-062",
+      "status": "pass",
+      "assessment": "Serial vital capacity directly assesses ventilatory reserve in GBS; saturation and rate alone can miss respiratory muscle deterioration.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "848e1e5b81a245358b31725ed6f3f04189021e8767db3ab26a0e93c1b9e96521"
+    },
+    {
+      "id": "x-adaptation-063",
+      "status": "pass",
+      "assessment": "Marked cardiovascular fluctuations fit possible dysautonomia and justify ongoing ordered monitoring; one normal reading is insufficient.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d55e4a04926ece526663444fb8d7d04e6fdad137117e8724dc806380dc5ca3f1"
+    },
+    {
+      "id": "x-adaptation-064",
+      "status": "pass",
+      "assessment": "Baseline neurological assessment and infection investigation are appropriate during fever-associated worsening; later reassessment must not replace the initial assessment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "cb5726c234caf3953319dc4c09abb77630bb07b69443d9a48c626dca4592f1d5"
+    },
+    {
+      "id": "x-adaptation-065",
+      "status": "pass",
+      "assessment": "The supplied high spinal injury, headache, marked hypertension and catheter kink fit dysreflexia; explanation includes upright positioning and trigger relief.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2c0756f4e953ce985d1dad4624bd11cbb87e9429164af540a2af2d7e5a59ff4e"
+    },
+    {
+      "id": "x-adaptation-066",
+      "status": "pass",
+      "assessment": "New saddle sensory change with retention and back pain identifies time-sensitive cauda equina concern rather than an isolated urinary problem.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5893e2e7538c775e628d66208943d640f8d2012051342438317f261d07a6402f"
+    },
+    {
+      "id": "x-adaptation-067",
+      "status": "pass",
+      "assessment": "New bilateral motor and bladder dysfunction is distinctly more urgent than unchanged sensory deficits or responding common postoperative symptoms.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ac4bbb2960d9e9a605e8d109e34b3656e86482189e830be907db9e82b9093a3a"
+    },
+    {
+      "id": "x-adaptation-068",
+      "status": "pass",
+      "assessment": "Fever, meningeal symptoms and declining arousal support urgent CNS infection assessment; migraine alone does not explain the full pattern.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "11cba4096279fda7b6c7741accaea2cd1e8f8cdd5478898918876754775df32e"
+    },
+    {
+      "id": "x-adaptation-069",
+      "status": "revise",
+      "assessment": "Avoiding nasal instrumentation/packing and not treating glucose strips as diagnostic are defensible CSF-leak precautions; classify this direct safety knowledge foundation.",
+      "issues": [
+        "Avoiding nasal instrumentation/packing and not treating glucose strips as diagnostic are defensible CSF-leak precautions; classify this direct safety knowledge foundation."
+      ],
+      "proposedChanges": {
+        "difficulty": "foundation"
+      },
+      "reviewedItemSha256": "270e47f579d58d873b8b436360162130bed3f33f31b14f77979fd7986dc9c706"
+    },
+    {
+      "id": "x-adaptation-070",
+      "status": "pass",
+      "assessment": "New headache, vomiting and altered arousal in a child with a shunt warrant urgent assessment; a normal external tract would not exclude malfunction.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3c992ffd2be2c180269e952ce72a25ed7311029890cc7295ca8ba759a5b01243"
+    },
+    {
+      "id": "x-adaptation-071",
+      "status": "pass",
+      "assessment": "Calm upright fontanelle bulging with fever and poor feeding is concerning; crying would confound rather than improve the repeat assessment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "aba24b1d002f6ae5d07d690a8eb17708955b28c62b170f2354e4c3ca438fd7a6"
+    },
+    {
+      "id": "x-adaptation-072",
+      "status": "pass",
+      "assessment": "Fever and first seizure require physiological evaluation of behavioural change; de-escalation remains supportive rather than etiological treatment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9d2401dbc7af7f66f2d473f898f258ef74b289a7e80f2d81678107087e10f966"
+    },
+    {
+      "id": "x-adaptation-073",
+      "status": "revise",
+      "assessment": "Urgent assessment of transient monocular visual loss is defensible, but the attached NEI retinal-detachment page does not directly support the transient ischaemic premise. Add a targeted source.",
+      "issues": [
+        "Urgent assessment of transient monocular visual loss is defensible, but the attached NEI retinal-detachment page does not directly support the transient ischaemic premise. Add a targeted source."
+      ],
+      "proposedChanges": {
+        "request": "Add a primary/official source specifically supporting urgent evaluation of transient monocular visual loss; retinal detachment page alone is insufficient."
+      },
+      "reviewedItemSha256": "578c7d9bea5e11c39f45b77896d922b2cdb144073a90e082d4510c727a2c007d"
+    },
+    {
+      "id": "x-adaptation-074",
+      "status": "pass",
+      "assessment": "Painful halos with vomiting distinguish an angle-closure concern from typical painless retinal detachment or uncomplicated conjunctivitis.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c2c94fc5c3ec387c097d5b30cafb0bf1fc00f9e6d79aa5b8d8c85e0c373fe4cd"
+    },
+    {
+      "id": "x-adaptation-075",
+      "status": "revise",
+      "assessment": "The retinal warning pattern is useful, but every distractor is a remote delay or screen rest. Replace the action set with plausible competing ocular concerns.",
+      "issues": [
+        "The retinal warning pattern is useful, but every distractor is a remote delay or screen rest. Replace the action set with plausible competing ocular concerns."
+      ],
+      "proposedChanges": {
+        "stem": "A client develops new flashes, many floaters and a shadow spreading across one eye's vision, without pain. Which complication most urgently needs to be excluded?",
+        "options": [
+          "An acute angle-closure episode",
+          "Migraine with visual aura",
+          "Progression of a cataract",
+          "Retinal detachment"
+        ],
+        "answer": [
+          3
+        ],
+        "why": [
+          "Angle closure more often causes severe eye pain, halos and systemic symptoms.",
+          "Migraine can cause transient visual phenomena, but a new progressive monocular shadow with flashes and floaters requires retinal assessment.",
+          "Cataract usually causes gradual visual change rather than a sudden field shadow with flashes.",
+          "This painless acute pattern requires urgent ophthalmic evaluation for a retinal tear or detachment."
+        ]
+      },
+      "reviewedItemSha256": "1e5e662ba184e39eb0977c3befb7abbaa59469ae16fdef9289f629a81e2eb0f0"
+    },
+    {
+      "id": "x-adaptation-076",
+      "status": "revise",
+      "assessment": "The key is safe but duplicates legacy risk02 acute hyperkalaemia escalation. Replace with interpretation of cardiac response after prescribed calcium, preserving this ID.",
+      "issues": [
+        "The key is safe but duplicates legacy risk02 acute hyperkalaemia escalation. Replace with interpretation of cardiac response after prescribed calcium, preserving this ID."
+      ],
+      "proposedChanges": {
+        "request": "Substantive distinct replacement: evaluate ECG improvement after prescribed IV calcium in hyperkalaemia while potassium remains high. Explain temporary membrane stabilization, not potassium removal. Supply treatment context and plausible competing interpretations; add current guideline support and return for full reread."
+      },
+      "reviewedItemSha256": "62a59f597bad0cc02f6e91ca94cebc96af7d0f01475cc2afd8e8e3518a9b1d56"
+    },
+    {
+      "id": "x-adaptation-077",
+      "status": "pass",
+      "assessment": "Prompt redraw and notification resolve a potentially false high result while recognizing haemolysis does not prove normal potassium; stable ECG context is specified.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f9e593828f55081ccafcc4f7b8afc9d6985b2262891426ff4f835282b04c47ba"
+    },
+    {
+      "id": "x-adaptation-078",
+      "status": "pass",
+      "assessment": "Low potassium plausibly explains weakness, ileus and rhythm risk; calcium tetany and SIADH distinguish other physiological disturbances.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "80cfd61d1919d5d0dfbadd91e67eb572b9b54cdc1376435cdf2a676b0758e875"
+    },
+    {
+      "id": "x-adaptation-079",
+      "status": "pass",
+      "assessment": "Perioral tingling/carpopedal spasm after thyroid surgery support hypocalcaemia; local haematoma/nerve injury would give different dominant findings.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1a29fabcc863364fe618dc007cbfb3a1ac43b87c83dfe2b9e73498020efe7afc"
+    },
+    {
+      "id": "x-adaptation-080",
+      "status": "revise",
+      "assessment": "Low magnesium and refractory potassium are useful, but the stem explicitly rules out each distractor exposure. Remove this answer-by-exclusion cue.",
+      "issues": [
+        "Low magnesium and refractory potassium are useful, but the stem explicitly rules out each distractor exposure. Remove this answer-by-exclusion cue."
+      ],
+      "proposedChanges": {
+        "stem": "After prolonged diarrhoea has stopped, potassium remains 2.9 mmol/L (reference 3.5–5.0) despite prescribed replacement. Magnesium is 0.40 mmol/L (reference 0.70–1.00). Which identified abnormality may help explain the poor potassium response?",
+        "options": [
+          "Magnesium depletion promoting continued renal potassium loss",
+          "A recent fluid load diluting the serum potassium",
+          "An insulin-related shift of potassium into cells",
+          "A newly increasing gastrointestinal potassium loss"
+        ],
+        "why": [
+          "Marked magnesium depletion can make potassium difficult to correct and warrants coordinated replacement and monitoring.",
+          "Dilution is a possible cause in some settings, but it is not an identified contributor in the supplied findings.",
+          "Insulin can shift potassium, but there is no evidence here of a new insulin exposure; magnesium depletion is demonstrated.",
+          "The reported diarrhoea has stopped; ongoing magnesium depletion is the identified abnormality requiring attention."
+        ]
+      },
+      "reviewedItemSha256": "c9e01359dbcb576af83ebfdf03d1113a4a5687afffac32e3e627e4bbd534bee8"
+    },
+    {
+      "id": "x-adaptation-081",
+      "status": "pass",
+      "assessment": "Seizure with sodium116 is an emergency; controlled correction is appropriately protocol based with airway protection already initiated.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "54d00323e18c1099c1fbe5a13915e239df8b4e443cd254e1adce6ca024d21d32"
+    },
+    {
+      "id": "x-adaptation-082",
+      "status": "pass",
+      "assessment": "The question uses individual prescribed correction limits and multi-system response rather than inventing a universal sodium correction rate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "31e5f64e28ad25ec3a8349ef9d937d41b47bd8db75dcfd3a636221eac4d7fea6"
+    },
+    {
+      "id": "x-adaptation-083",
+      "status": "pass",
+      "assessment": "Insulin redistribution can reveal a whole-body potassium deficit in DKA; the explanation distinguishes serum concentration from stores.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "bce30b2018b047e2b27b0f59fc1ad960b659720c17e1f356581aa9008ebdc010"
+    },
+    {
+      "id": "x-adaptation-084",
+      "status": "pass",
+      "assessment": "Persistent ketones/acidosis despite glucose improvement justify continued protocol insulin with glucose support as indicated; transition criteria are not oversimplified.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6f4fed177023fccb810454f5cc36033eb2076af00eae51003fb016c2f882a560"
+    },
+    {
+      "id": "x-adaptation-085",
+      "status": "pass",
+      "assessment": "Given glucose42/osmolality338 and little acidosis, HHS is the most compatible concern; the rationale appropriately allows overlap.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5bc7bdcdd993f7ce34f4127a70dfd1665b876d43a44cb65924ff9795002a740c"
+    },
+    {
+      "id": "x-adaptation-086",
+      "status": "pass",
+      "assessment": "Large dilute losses and rising sodium after pituitary surgery justify prompt DI assessment; daily weight alone is too slow for rapid losses.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a6b7f81cfcc90d2691be37a02e76a0fe21bdc7f590063cd2c4a91bff7ae9e0ce"
+    },
+    {
+      "id": "x-adaptation-087",
+      "status": "pass",
+      "assessment": "Foundation classification is appropriate for accounting for milk/IV carriers/ice in a supplied total-fluid plan, without defining unauthorized amounts.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "63a4c11ad6bd18bead67fe4b2b76550172839015103176aa59942ed2e30d3607"
+    },
+    {
+      "id": "x-adaptation-088",
+      "status": "pass",
+      "assessment": "Severe multisystem hyperthyroid deterioration during infection supports thyroid-storm concern and does not deny the infection trigger.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "74d86c46b5e3630ff57790173bf8983ca012ac13f9f56c766d2903061e28f262"
+    },
+    {
+      "id": "x-adaptation-089",
+      "status": "pass",
+      "assessment": "Depressed ventilation and arousal take priority over medication reconciliation, warming and confirmatory sampling in severe hypothyroid decline.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f9757bfaf89951537a5b19b59c33670ee7edce777e7080acace680516053dd6c"
+    },
+    {
+      "id": "x-adaptation-090",
+      "status": "revise",
+      "assessment": "The adrenal crisis key is defensible, but adding sole explanation to septic shock advertises the wrong option. Remove that qualifier.",
+      "issues": [
+        "The adrenal crisis key is defensible, but adding sole explanation to septic shock advertises the wrong option. Remove that qualifier."
+      ],
+      "proposedChanges": {
+        "options": [
+          "Diabetic ketoacidosis.",
+          "Thyroid storm.",
+          "Adrenal crisis.",
+          "Septic shock."
+        ]
+      },
+      "reviewedItemSha256": "1f0420a609607e1f660bd9a062c738cc8f1fc6bb3bb0dec9de04b55953999292"
+    },
+    {
+      "id": "x-adaptation-091",
+      "status": "pass",
+      "assessment": "Positional loss of drainage with suprapubic discomfort supports checking the mechanical pathway before fluid loading or renal tests.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "dc20308cf7e3280d7907198bc57b898a5aaf519bdc0aef79c44481793c4ebfd6"
+    },
+    {
+      "id": "x-adaptation-092",
+      "status": "pass",
+      "assessment": "High post-obstructive output plus falling potassium or symptomatic hypotension indicates losses; resolved discomfort does not establish balance.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "069a8eeebb01e63d11be4761b366aecb157bf994329ffed3bc8d1bc6df5dead9"
+    },
+    {
+      "id": "x-adaptation-093",
+      "status": "pass",
+      "assessment": "Pain and cloudy peritoneal effluent warrant prompt dialysis contact and aseptic sampling; waiting for a subsequent bag could delay care.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ddd367c8c67604f7f71f645cf4b5c9bbb0e2d39685382eb6ee93d0c518def752"
+    },
+    {
+      "id": "x-adaptation-094",
+      "status": "pass",
+      "assessment": "New absent thrill and bruit after reassessment raise possible access failure; exercise or oral-fluid review cannot establish restored flow.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "832b2f76a84ce0614f6f4e08bd845e8b2aa3816ccd36e02047900cf7914309ed"
+    },
+    {
+      "id": "x-adaptation-095",
+      "status": "pass",
+      "assessment": "Initial-dialysis headache/vomiting/confusion with measured normal glucose and stable pressure support prompt disequilibrium assessment without definitive nursing diagnosis.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ff59a14bda1593c4822d8c41b4e57acc48d422ab858b4d64e153f7acf51a7079"
+    },
+    {
+      "id": "x-adaptation-096",
+      "status": "pass",
+      "assessment": "Fever/chills and worsening pain with a stone raise infected obstruction concern; routine passage advice does not address source control.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9f4799fa442deabc56ffca0c1ef66245a4bd15aca4e31443881ce2aac947d196"
+    },
+    {
+      "id": "x-adaptation-097",
+      "status": "pass",
+      "assessment": "Cola urine, oedema, hypertension and oliguria support a glomerular pattern; hydration advice alone would misread retention.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "614afd2564c4fe0eb10ca220790c1a7b6c3e053749448c1302c82af32bfe6a88"
+    },
+    {
+      "id": "x-adaptation-098",
+      "status": "pass",
+      "assessment": "Renal decline and rising potassium with rhythm change are meaningful rhabdomyolysis complications; pain or urine colour improvement is not proof of recovery.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "eede6d2659fe72930f5b08d0fb2f2a98e647bdf3d823ca629ff06c33bfe25670"
+    },
+    {
+      "id": "x-adaptation-099",
+      "status": "pass",
+      "assessment": "Diuretic AKI recovery can precede restored concentration/clearance; volume and electrolyte monitoring remain necessary.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "932e44fdf2a1407bd334e9b0d1117ea6cd0f8272cbf41d221b16eee07fefbc62"
+    },
+    {
+      "id": "x-adaptation-100",
+      "status": "revise",
+      "assessment": "Rebound potassium and delayed hypoglycaemia are valid reasons for follow-up, but only/every qualifiers make distractors trivial. Use competing mechanisms.",
+      "issues": [
+        "Rebound potassium and delayed hypoglycaemia are valid reasons for follow-up, but only/every qualifiers make distractors trivial. Use competing mechanisms."
+      ],
+      "proposedChanges": {
+        "options": [
+          "The potassium shift can reverse, and insulin action may outlast the supplied glucose",
+          "The potassium fall shows increased urinary elimination, while glucose loss causes hypoglycaemia",
+          "The fall reflects permanent potassium binding, while glucose raises the measured potassium",
+          "The potassium shift persists until dialysis, while glucose correction determines its duration"
+        ],
+        "why": [
+          "Insulin shifts potassium into cells without removing it; potassium may rebound and delayed hypoglycaemia remains possible, requiring protocol monitoring.",
+          "Insulin does not directly restore renal potassium elimination; glucose uptake, rather than urinary loss alone, contributes to hypoglycaemia.",
+          "Insulin is not a potassium-binding treatment, and the explanation does not account for its cellular actions.",
+          "Redistribution can reverse before definitive elimination, and potassium follow-up is not determined solely by the glucose result."
+        ]
+      },
+      "reviewedItemSha256": "948c7ec6f63f4f9d3ad894e80d55d570df856cff936ffaaf977ad393a127f3fb"
+    }
+  ]
+}

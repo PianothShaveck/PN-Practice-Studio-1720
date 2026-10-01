@@ -1,0 +1,336 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T18:01:37.599552+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/b-extra-adaptation-176-200.json",
+  "sourceSha256": "483d62bf032d17b1d0914f1263079054433e82547a9769bdc8e589151fa660a2",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-adaptation-176",
+      "x-adaptation-177",
+      "x-adaptation-178",
+      "x-adaptation-179",
+      "x-adaptation-180",
+      "x-adaptation-181",
+      "x-adaptation-182",
+      "x-adaptation-183",
+      "x-adaptation-184",
+      "x-adaptation-185",
+      "x-adaptation-186",
+      "x-adaptation-187",
+      "x-adaptation-188",
+      "x-adaptation-189",
+      "x-adaptation-190",
+      "x-adaptation-191",
+      "x-adaptation-192",
+      "x-adaptation-193",
+      "x-adaptation-194",
+      "x-adaptation-195",
+      "x-adaptation-196",
+      "x-adaptation-197",
+      "x-adaptation-198",
+      "x-adaptation-199",
+      "x-adaptation-200"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-adaptation-176",
+      "status": "revise",
+      "assessment": "Fundal massage directly addresses atony, but feeding history, walking during haemorrhage and pressure on a pad are implausible competing interventions.",
+      "issues": [
+        "Fundal massage directly addresses atony, but feeding history, walking during haemorrhage and pressure on a pad are implausible competing interventions."
+      ],
+      "proposedChanges": [
+        "Compare fundal massage with bladder assessment, quantifying blood loss, and checking for genital trauma; preserve the narrow action-directed-at-boggy-uterus question."
+      ],
+      "reviewedItemSha256": "837304413c66d53661e70921b844bbfc14d9f06f9f6940498c28a03051695ba6"
+    },
+    {
+      "id": "x-adaptation-177",
+      "status": "pass",
+      "assessment": "Persistent bleeding despite a firm midline uterus appropriately broadens assessment beyond atony; tone-only reassurance and repeated massage are recognizable anchoring errors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "356641c9cc897f289874a280912af9ef415badefb7a38abf0fe9d84903050b5b"
+    },
+    {
+      "id": "x-adaptation-178",
+      "status": "revise",
+      "assessment": "The seizure protection steps are correct but are direct first-aid recall despite the obstetric setting.",
+      "issues": [
+        "The seizure protection steps are correct but are direct first-aid recall despite the obstetric setting."
+      ],
+      "proposedChanges": [
+        "Classify foundation, and consider replacing the restraint-to-limit-oxygen rationale with a plain familiar limb-restraint proposal. Keep feasible positioning and airway support wording."
+      ],
+      "reviewedItemSha256": "bea07de02e7368c71e40f2d9eb21708b58e9e9023d6170a55144cb61a3a7ea5f"
+    },
+    {
+      "id": "x-adaptation-179",
+      "status": "revise",
+      "assessment": "Intake/hydration recovery is meaningful, but medication-administration completion is a weak process distractor.",
+      "issues": [
+        "Intake/hydration recovery is meaningful, but medication-administration completion is a weak process distractor."
+      ],
+      "proposedChanges": [
+        "Replace that option with a clinical trend, such as unchanged concentrated urine or persistent postural tachycardia, so selection requires response interpretation."
+      ],
+      "reviewedItemSha256": "11198a9810b21a16c81261b927b3ecc7e7b2a832772a9e4c867ff21ac2d9ceb6"
+    },
+    {
+      "id": "x-adaptation-180",
+      "status": "pass",
+      "assessment": "Unknown placental location with late-pregnancy bleeding makes digital examination the specific action requiring clarification; other alternatives are relevant assessment steps.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2731b974bf41ec571be7ee46d8faf7f94273bd8194db4290183f8169ca9a9b6f"
+    },
+    {
+      "id": "x-adaptation-181",
+      "status": "revise",
+      "assessment": "Concealed abruption bleeding is a useful concept, but waiting-for-pad-measurement is not an interpretation and pain-alone is weak.",
+      "issues": [
+        "Concealed abruption bleeding is a useful concept, but waiting-for-pad-measurement is not an interpretation and pain-alone is weak."
+      ],
+      "proposedChanges": [
+        "Use parallel clinical interpretations or compare which observations best indicate severity despite limited external loss; keep blood-pressure/pulse and uterine findings central."
+      ],
+      "reviewedItemSha256": "7a1df7a487da3289b140701203fc3866a45929b2b91dafe7a757dbcf179421ee"
+    },
+    {
+      "id": "x-adaptation-182",
+      "status": "revise",
+      "assessment": "Possible ruptured ectopic pattern is appropriate, but routine ultrasound and waiting-for-heavier-bleeding are obvious delays.",
+      "issues": [
+        "Possible ruptured ectopic pattern is appropriate, but routine ultrasound and waiting-for-heavier-bleeding are obvious delays."
+      ],
+      "proposedChanges": [
+        "Use parallel possible causes/concerns or relevant assessment priorities; the task can ask which concern must be urgently excluded without asserting an independent nursing diagnosis."
+      ],
+      "reviewedItemSha256": "c1aa5e081845bb67923a0bc9bda6d350939c7e450d84d73967aefac87749cfd3"
+    },
+    {
+      "id": "x-adaptation-183",
+      "status": "revise",
+      "assessment": "The key is much longer and bundles the only reasonable response; every alternative is conspicuously unsafe. Generic within-training wording does not test a concrete action.",
+      "issues": [
+        "The key is much longer and bundles the only reasonable response; every alternative is conspicuously unsafe. Generic within-training wording does not test a concrete action."
+      ],
+      "proposedChanges": [
+        "Provide a brief authorized emergency protocol and role competence, then compare realistic pressure-relief/positioning/assessment actions. Avoid teaching cord replacement as the main distractor set."
+      ],
+      "reviewedItemSha256": "6e421bd0725afa24d54a0e61311ee308be8066a04dc7499f8bf263dd94ae0b58"
+    },
+    {
+      "id": "x-adaptation-184",
+      "status": "revise",
+      "assessment": "The expanding-haematoma pattern is distinct and useful, but next-routine delay and walking-to-reduce-pressure are weak.",
+      "issues": [
+        "The expanding-haematoma pattern is distinct and useful, but next-routine delay and walking-to-reduce-pressure are weak."
+      ],
+      "proposedChanges": [
+        "Compare likely explanations such as haematoma, expected oedema, bladder distension and uterine atony, or identify the finding requiring urgent escalation."
+      ],
+      "reviewedItemSha256": "d09a381932175a444c0b2db9ee550f5b6654dc757a50579da41611f69d49585e"
+    },
+    {
+      "id": "x-adaptation-185",
+      "status": "revise",
+      "assessment": "Symptomatic glucose1.7mmol/L warrants immediate treatment, but sole skin-to-skin and every-low-reading-is-transitional are giveaway absolutes.",
+      "issues": [
+        "Symptomatic glucose1.7mmol/L warrants immediate treatment, but sole skin-to-skin and every-low-reading-is-transitional are giveaway absolutes."
+      ],
+      "proposedChanges": [
+        "Use an explicit newborn protocol and compare realistic treatment/confirmation/feeding steps while making clear that confirmatory testing cannot delay symptomatic treatment; do not inadvertently make a permitted interim dextrose-gel action false."
+      ],
+      "reviewedItemSha256": "4915cbb0066fd70ecee74ea1b3aec6db575fcf27f381bdc9a795f26aa2fbe470"
+    },
+    {
+      "id": "x-adaptation-186",
+      "status": "revise",
+      "assessment": "Oral feeding during major respiratory distress is unsafe; faster flow and flatter position are weak options.",
+      "issues": [
+        "Oral feeding during major respiratory distress is unsafe; faster flow and flatter position are weak options."
+      ],
+      "proposedChanges": [
+        "Use credible competing plans such as a smaller paced feed, temporary feed interruption with respiratory review, assessment of intake/weight, and discussion of alternative feeding support; keep one best immediate action."
+      ],
+      "reviewedItemSha256": "02e8ef09363802f82616afe6778aa3f2ceb1ed5805311e25f6cb68c8b826e74f"
+    },
+    {
+      "id": "x-adaptation-187",
+      "status": "pass",
+      "assessment": "Central tongue colour and feeding-related cardiopulmonary symptoms distinguish meaningful concerns from transient peripheral cooling and normal overall tolerance.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "dd4ece3ace38fa11b3f515ecd3c2a8fa5260b1d11d0a316899571fa9676e3db7"
+    },
+    {
+      "id": "x-adaptation-188",
+      "status": "revise",
+      "assessment": "Preoperative fluid/electrolyte correction is valid, but spontaneous muscle relaxation and all-pain-disappeared options are implausible.",
+      "issues": [
+        "Preoperative fluid/electrolyte correction is valid, but spontaneous muscle relaxation and all-pain-disappeared options are implausible."
+      ],
+      "proposedChanges": [
+        "Compare physiological stabilization, aspiration-risk fasting, operative scheduling preparation, and nutritional recovery as parallel explanations; identify the actual dehydration/electrolyte context."
+      ],
+      "reviewedItemSha256": "2587e70627abeb694c0906aa8278a2dfdf3343ac8265ce250b035a7f5d5b3456"
+    },
+    {
+      "id": "x-adaptation-189",
+      "status": "revise",
+      "assessment": "Intermittent intussusception pattern is useful, but larger-feed testing and wait-for-blood advertise unsafe care.",
+      "issues": [
+        "Intermittent intussusception pattern is useful, but larger-feed testing and wait-for-blood advertise unsafe care."
+      ],
+      "proposedChanges": [
+        "Use parallel interpretations such as colic, gastroenteritis, intermittent obstruction and reflux; timing, pallor and vomiting should distinguish the urgent concern."
+      ],
+      "reviewedItemSha256": "09ee01367796f1d585f66bd27bb8b56a66847fcccefcc500b068532dbc647be7"
+    },
+    {
+      "id": "x-adaptation-190",
+      "status": "revise",
+      "assessment": "Feeding/hydration support overlaps186 and the alternatives include improvised cereal and an entire-day delay.",
+      "issues": [
+        "Feeding/hydration support overlaps186 and the alternatives include improvised cereal and an entire-day delay."
+      ],
+      "proposedChanges": [
+        "Differentiate from186 by giving measured intake/urine trends and evaluating a prescribed assisted-feeding/hydration plan rather than repeating route review; use credible clinical alternatives."
+      ],
+      "reviewedItemSha256": "8a8c2c91712a542fc11c9521ebf8b7c5cece966b43d0da9ec4ad1cbf0d56d4ff"
+    },
+    {
+      "id": "x-adaptation-191",
+      "status": "revise",
+      "assessment": "Useful secretion-clearance outcome is appropriate, but procedure count and louder crying are weak process alternatives.",
+      "issues": [
+        "Useful secretion-clearance outcome is appropriate, but procedure count and louder crying are weak process alternatives."
+      ],
+      "proposedChanges": [
+        "Compare clinical response measures such as respiratory pauses, air entry, effort, oxygen need and feeding volume; mucus volume can remain as one plausible proxy error."
+      ],
+      "reviewedItemSha256": "37a3c202d409f487020c75e736497c91326ab3f3f8c70ba2f3028308b9674eec"
+    },
+    {
+      "id": "x-adaptation-192",
+      "status": "revise",
+      "assessment": "Discharge criteria are reasonable, but administrative observation timing is unrelated filler.",
+      "issues": [
+        "Discharge criteria are reasonable, but administrative observation timing is unrelated filler."
+      ],
+      "proposedChanges": [
+        "Replace with a plausible clinical/home-readiness proposal such as adequate saturation only while still receiving supplemental oxygen or a caregiver unable to maintain intake monitoring; avoid an only qualifier doing the discrimination."
+      ],
+      "reviewedItemSha256": "be66ff674f393ff020b0fc50d6d5d59cbe79010a287ba56533fa2dfd71af766f"
+    },
+    {
+      "id": "x-adaptation-193",
+      "status": "revise",
+      "assessment": "Minimizing agitation is sound, but alone/flat/repeated tongue-depressor/every-nonurgent-first create cartoon care.",
+      "issues": [
+        "Minimizing agitation is sound, but alone/flat/repeated tongue-depressor/every-nonurgent-first create cartoon care."
+      ],
+      "proposedChanges": [
+        "Compare feasible examination approaches: parent-held upright assessment, brief separation for weighing, a supine exam, or completing observations in stages. Keep necessary urgent treatment explicit."
+      ],
+      "reviewedItemSha256": "f69dd43944b5d15bae076a1a77a8330294cbb8e21fc2c1fb5496cd7f93a98136"
+    },
+    {
+      "id": "x-adaptation-194",
+      "status": "pass",
+      "assessment": "Quietening stridor with poorer air movement and drowsiness is a meaningful false-improvement pattern; the key explains deterioration rather than sound alone.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0224c32492f949a68ba7acf594432c1449381824fba72b30fcc9d29559635f95"
+    },
+    {
+      "id": "x-adaptation-195",
+      "status": "revise",
+      "assessment": "Transient epinephrine benefit is correct, but permanent airway change and positive viral test are implausible explanations.",
+      "issues": [
+        "Transient epinephrine benefit is correct, but permanent airway change and positive viral test are implausible explanations."
+      ],
+      "proposedChanges": [
+        "Use plausible observation purposes such as recurrence after drug effect, response to coadministered steroid, feeding tolerance, or adverse-effect monitoring; ask specifically why immediate symptom relief alone is insufficient."
+      ],
+      "reviewedItemSha256": "219fdf87ff6854b3cc580ccab82f4ece8b8d29266109589d9c2a303af3075ea2"
+    },
+    {
+      "id": "x-adaptation-196",
+      "status": "revise",
+      "assessment": "Airway-protective handling is clinically appropriate, but all three wrong choices combine provocative manoeuvres with delay.",
+      "issues": [
+        "Airway-protective handling is clinically appropriate, but all three wrong choices combine provocative manoeuvres with delay."
+      ],
+      "proposedChanges": [
+        "Use plausible competing assessment actions such as noninvasive observations, expert airway activation, parent-held positioning and arranging investigations; specify the priority boundary so only one response leads."
+      ],
+      "reviewedItemSha256": "187a9d67a36a6d5d913de38e410533724642e7679d1d915b857af1ca0a640746"
+    },
+    {
+      "id": "x-adaptation-197",
+      "status": "revise",
+      "assessment": "Small measured volumes are appropriate, but rest-of-day withholding and rapid catchup are conspicuously extreme.",
+      "issues": [
+        "Small measured volumes are appropriate, but rest-of-day withholding and rapid catchup are conspicuously extreme."
+      ],
+      "proposedChanges": [
+        "Use realistic delivery alternatives such as smaller frequent portions, a longer pause before retrying the same cup, switching solution taste/formulation, or changing the scheduled total; preserve explicit mild dehydration and reassessment."
+      ],
+      "reviewedItemSha256": "dd05faedb9cca61d94e5a529e74d5ab46bdb3f39d1f42097fe52713120b42dff"
+    },
+    {
+      "id": "x-adaptation-198",
+      "status": "revise",
+      "assessment": "Changed systemic pattern warrants review; a meal trial is implausible in known appendicitis and routine-delay wording telegraphs error.",
+      "issues": [
+        "Changed systemic pattern warrants review; a meal trial is implausible in known appendicitis and routine-delay wording telegraphs error."
+      ],
+      "proposedChanges": [
+        "Ask for interpretation of the pain-location/systemic trend with parallel competing explanations; keep possible perforation rather than definitive diagnosis."
+      ],
+      "reviewedItemSha256": "c600e196737313dbe0ea5f9f83a5ac706117661db016c58ce98f18180a421e04"
+    },
+    {
+      "id": "x-adaptation-199",
+      "status": "revise",
+      "assessment": "Torsion recognition is time-sensitive and useful, but next-morning strain treatment and constipation-first are weak.",
+      "issues": [
+        "Torsion recognition is time-sensitive and useful, but next-morning strain treatment and constipation-first are weak."
+      ],
+      "proposedChanges": [
+        "Use parallel concerns or credible focused assessments without arbitrary delay clauses; retain the private history that reveals the relevant symptom."
+      ],
+      "reviewedItemSha256": "a27ed4061fab3bcf77c07ba510025b7311f834ae8bc49569283b472745920f09"
+    },
+    {
+      "id": "x-adaptation-200",
+      "status": "revise",
+      "assessment": "Neurological deterioration during DKA treatment is important, but reduced observation and assumed first-meal intolerance are weak.",
+      "issues": [
+        "Neurological deterioration during DKA treatment is important, but reduced observation and assumed first-meal intolerance are weak."
+      ],
+      "proposedChanges": [
+        "Use parallel possible complications or clinically relevant urgent actions with clear timing. Differentiate from the adult DKA electrolyte/insulin items through neurological trend interpretation, not just generic emergency escalation."
+      ],
+      "reviewedItemSha256": "2e91ab89dfa66852d8d3cbd32adebefa570221bf16afaa5938b73a18286cf710"
+    }
+  ],
+  "activeSourceFile": "authoring/b-extra/adaptation-176-200.json",
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

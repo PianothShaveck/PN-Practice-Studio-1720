@@ -1,0 +1,550 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T18:24:33.374567+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/b-final-recheck-input/final-changed-input.json",
+  "sourceSha256": "1f71808ee87e05280713623fd44d18e5b44ed97db4acb82aee6a49a004d6d6e1",
+  "coverage": {
+    "sourceItems": 150,
+    "reviewedItems": 43,
+    "reviewedIds": [
+      "x-pharmacology-013",
+      "x-pharmacology-014",
+      "x-pharmacology-015",
+      "x-pharmacology-016",
+      "x-pharmacology-017",
+      "x-pharmacology-019",
+      "x-pharmacology-022",
+      "x-pharmacology-023",
+      "x-pharmacology-035",
+      "x-pharmacology-038",
+      "x-pharmacology-040",
+      "x-pharmacology-042",
+      "x-pharmacology-044",
+      "x-pharmacology-045",
+      "x-pharmacology-047",
+      "x-pharmacology-048",
+      "x-pharmacology-050",
+      "x-pharmacology-052",
+      "x-pharmacology-054",
+      "x-pharmacology-057",
+      "x-pharmacology-058",
+      "x-pharmacology-061",
+      "x-pharmacology-063",
+      "x-pharmacology-064",
+      "x-pharmacology-069",
+      "x-pharmacology-074",
+      "x-pharmacology-078",
+      "x-pharmacology-079",
+      "x-pharmacology-082",
+      "x-pharmacology-083",
+      "x-pharmacology-084",
+      "x-pharmacology-085",
+      "x-pharmacology-089",
+      "x-pharmacology-093",
+      "x-pharmacology-094",
+      "x-pharmacology-096",
+      "x-pharmacology-097",
+      "x-pharmacology-098",
+      "x-pharmacology-108",
+      "x-pharmacology-113",
+      "x-pharmacology-114",
+      "x-adaptation-014",
+      "x-adaptation-025"
+    ],
+    "unreviewedIds": [
+      "x-pharmacology-001",
+      "x-pharmacology-002",
+      "x-pharmacology-003",
+      "x-pharmacology-004",
+      "x-pharmacology-005",
+      "x-pharmacology-006",
+      "x-pharmacology-007",
+      "x-pharmacology-008",
+      "x-pharmacology-009",
+      "x-pharmacology-010",
+      "x-pharmacology-011",
+      "x-pharmacology-012",
+      "x-pharmacology-018",
+      "x-pharmacology-020",
+      "x-pharmacology-021",
+      "x-pharmacology-024",
+      "x-pharmacology-025",
+      "x-pharmacology-026",
+      "x-pharmacology-027",
+      "x-pharmacology-028",
+      "x-pharmacology-029",
+      "x-pharmacology-030",
+      "x-pharmacology-031",
+      "x-pharmacology-032",
+      "x-pharmacology-033",
+      "x-pharmacology-034",
+      "x-pharmacology-036",
+      "x-pharmacology-037",
+      "x-pharmacology-039",
+      "x-pharmacology-041",
+      "x-pharmacology-043",
+      "x-pharmacology-046",
+      "x-pharmacology-049",
+      "x-pharmacology-051",
+      "x-pharmacology-053",
+      "x-pharmacology-055",
+      "x-pharmacology-056",
+      "x-pharmacology-059",
+      "x-pharmacology-060",
+      "x-pharmacology-062",
+      "x-pharmacology-065",
+      "x-pharmacology-066",
+      "x-pharmacology-067",
+      "x-pharmacology-068",
+      "x-pharmacology-070",
+      "x-pharmacology-071",
+      "x-pharmacology-072",
+      "x-pharmacology-073",
+      "x-pharmacology-075",
+      "x-pharmacology-076",
+      "x-pharmacology-077",
+      "x-pharmacology-080",
+      "x-pharmacology-081",
+      "x-pharmacology-086",
+      "x-pharmacology-087",
+      "x-pharmacology-088",
+      "x-pharmacology-090",
+      "x-pharmacology-091",
+      "x-pharmacology-092",
+      "x-pharmacology-095",
+      "x-pharmacology-099",
+      "x-pharmacology-100",
+      "x-pharmacology-101",
+      "x-pharmacology-102",
+      "x-pharmacology-103",
+      "x-pharmacology-104",
+      "x-pharmacology-105",
+      "x-pharmacology-106",
+      "x-pharmacology-107",
+      "x-pharmacology-109",
+      "x-pharmacology-110",
+      "x-pharmacology-111",
+      "x-pharmacology-112",
+      "x-pharmacology-115",
+      "x-pharmacology-116",
+      "x-pharmacology-117",
+      "x-pharmacology-118",
+      "x-pharmacology-119",
+      "x-pharmacology-120",
+      "x-pharmacology-121",
+      "x-pharmacology-122",
+      "x-pharmacology-123",
+      "x-pharmacology-124",
+      "x-pharmacology-125",
+      "x-adaptation-001",
+      "x-adaptation-002",
+      "x-adaptation-003",
+      "x-adaptation-004",
+      "x-adaptation-005",
+      "x-adaptation-006",
+      "x-adaptation-007",
+      "x-adaptation-008",
+      "x-adaptation-009",
+      "x-adaptation-010",
+      "x-adaptation-011",
+      "x-adaptation-012",
+      "x-adaptation-013",
+      "x-adaptation-015",
+      "x-adaptation-016",
+      "x-adaptation-017",
+      "x-adaptation-018",
+      "x-adaptation-019",
+      "x-adaptation-020",
+      "x-adaptation-021",
+      "x-adaptation-022",
+      "x-adaptation-023",
+      "x-adaptation-024"
+    ]
+  },
+  "method": "Every listed current full item was manually reread after author revision, including stem, all options, keyed indices, explanations, takeaway and metadata. The new pharmacology015 objective was read as a new question. Pharmacology040 typography and085 parallel-option refinements were reread at their final versions. This is independent of the item author; proposed revisions by this reviewer were subsequently verified, not represented as independent second-clinician validation.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "ids": [
+        "x-pharmacology-015"
+      ],
+      "url": "https://med.stanford.edu/content/dam/sm/bugsanddrugs/documents/antimicrobial-dosing-protocols/SHC-Vancomycin-Dosing-Guide.pdf",
+      "checked": true,
+      "accessMode": "full primary hospital protocol PDF opened; monitoring/AKI/supratherapeutic sections inspected",
+      "note": "The2023 guide supports reassessing levels with changing renal function and reviewing/holding dosing in supratherapeutic or acute-kidney-injury contexts. Current practice may use AUC-guided monitoring; this question applies an explicit individualized hold order, not a universal trough target. No protocol dose or printed unit typo was imported."
+    },
+    {
+      "ids": [
+        "x-pharmacology-085"
+      ],
+      "url": "https://medlineplus.gov/druginfo/meds/a688016.html",
+      "checked": true,
+      "accessMode": "primary NIH medicine-information search excerpt inspected during initial recheck",
+      "note": "The ciprofloxacin warning directs stopping use, resting and prompt clinician contact for tendon pain/injury. This supports the correct action, including the added withholding component; no personalized replacement antibiotic advice is given."
+    },
+    {
+      "ids": [
+        "x-pharmacology-096"
+      ],
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?audience=consumer&setid=31f9e720-3869-061f-e063-6294a90a43b4",
+      "checked": true,
+      "accessMode": "full official label page opened during initial recheck",
+      "note": "Label identifies hyperkalaemia risk with trimethoprim-sulfamethoxazole, including concomitant ACE inhibition. The item uses a symptomatic supplied potassium elevation to prompt review, not an independent treatment algorithm."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-pharmacology-013",
+      "status": "pass",
+      "assessment": "All fields reread. The duplicate-administration alternative is now a plausible competing exposure explanation rather than an impossible assertion; renal decline plus new drowsiness specifically supports reduced clearance despite an unchanged dose. The unchanged key and revised rationale remain aligned.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3d25d818cedea92668527be025fdc987f625cc7e4cd308dd2811bd31f5f3285d"
+    },
+    {
+      "id": "x-pharmacology-014",
+      "status": "pass",
+      "assessment": "All fields and revised reference mapping reread. Postural assessment is relevant but does not assess the emerging sedation/ventilation risk; normal current rate14 does not establish safety before further central depressants. The CNS source mapping fits better than the prior elimination source; FDA corroboration is recorded separately.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b4e17588d83e320f45a69deeea137990a6cc863153bbf71acc03eb14304e5b4b"
+    },
+    {
+      "id": "x-pharmacology-015",
+      "status": "pass",
+      "assessment": "Entire replacement independently read as new content. Correctly timed24mg/L exceeds the supplied client-specific20mg/L hold parameter, and creatinine80→135 over48hours adds accumulation concern. Holding the0800 dose and reporting is authorized; half-dose selection, delayed creatinine testing or an improvised restart are not. The question does not claim a universal vancomycin target or independently prescribe a renal dose, and differs from the former sample-timing objective.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2ccbbf3d428ced4584f2b486051b0ec20ca144614d29316fc941450a95388271"
+    },
+    {
+      "id": "x-pharmacology-016",
+      "status": "pass",
+      "assessment": "All fields reread. The respiratory-rate alternative now represents a legitimate safety assessment, but nausea plus permitted small-intake tolerance measures the intended response. Explicit wakefulness, safe swallowing and no restriction make the intake assessment appropriate; sedation is not equated with antiemetic benefit.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7442feccd6416f23636dab4e56e892a7228c5fa127c8c279a47998f3fca1e3df"
+    },
+    {
+      "id": "x-pharmacology-017",
+      "status": "pass",
+      "assessment": "All fields reread. Pausing the maintenance infusion is a realistic competing action, but residual solution and interruption/flush suitability remain unknown. Verification is required before contact; slowing flow or watching for cloudiness cannot establish compatibility.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "442726d4e51572a82134b52ee0625f3a541b34b5f45bda4661f9ba6d963be17c"
+    },
+    {
+      "id": "x-pharmacology-019",
+      "status": "pass",
+      "assessment": "All fields reread. Repositioning and slower delivery are plausible mechanical troubleshooting, but do not resolve new pain plus resistance or establish patency. Stopping use and examining the site remains the safe immediate response; forcing pressure is inappropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a652e5990dad085ef2fccbccada4580068281ba7c9619e7b3dae07d31c529b4c"
+    },
+    {
+      "id": "x-pharmacology-022",
+      "status": "pass",
+      "assessment": "All fields reread. Written rehearsal, changing device class and extra puffs represent distinct alternatives. A compatible spacer with observed technique directly addresses persistent timing difficulty; the dry-powder option requires suitability/inspiratory assessment rather than being categorically contraindicated.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "330557835784e5c54b45c18bfb5dd49e77e32ea2764f236b82cd6daeb04c4fe8"
+    },
+    {
+      "id": "x-pharmacology-023",
+      "status": "pass",
+      "assessment": "All fields reread. Every alternative now includes a labelled preparation and plausible safety step. Dedicated enteral equipment plus tracing the actual tube addresses both connector and route identification; location, a medication double-check or oral labelling of a Luer syringe does not provide equivalent protection.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "dacdbf816ba80c4dea1a9b69d9645608603d4a6aba87e17148cb29db6599f75d"
+    },
+    {
+      "id": "x-pharmacology-035",
+      "status": "pass",
+      "assessment": "All fields reread. Safe positioning and reporting positional measurements remain the two appropriate actions for symptomatic orthostasis. Immediate repeated standing after a fluid trial and next-dose approval from supine recovery are now concrete, plausible misconceptions; fluid suitability is not assumed.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1278a01090d2284c2b4b920ecd11899892e618526a94f59a00ecd86616f261f7"
+    },
+    {
+      "id": "x-pharmacology-038",
+      "status": "pass",
+      "assessment": "All fields reread. Holding apixaban then deferring to tomorrow now competes as a real but insufficient plan. A dose decision does not assess occult head injury; normal pupils and absent headache do not exclude bleeding, and INR is not an apixaban-effect test. Urgent pathway review remains appropriate without imposing a universal imaging timing rule.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6547ec9abfa7920f58106a5045eb837a3e7cc46d40eb00d35f727b58fe75923e"
+    },
+    {
+      "id": "x-pharmacology-040",
+      "status": "pass",
+      "assessment": "All fields reread, including the final standard24-hour→standard 24-hour typography correction. A clinic handout interval is a plausible but insufficient substitute for a drug-, renal- and procedure-specific plan. The key does not prescribe an interruption duration or independent dose change.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "05b69221c7b8592c5bbf6c70bf71a326262790de4f31575fc4a90f141d37a264"
+    },
+    {
+      "id": "x-pharmacology-042",
+      "status": "pass",
+      "assessment": "All fields reread. Bruise recording and review at dose change are relevant but incomplete follow-up approaches. Ongoing bleeding, renal and interaction review is required at unchanged apixaban doses; INR titration remains a distinct inappropriate alternative.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ca1882e88389da3a2822f6d96fc4e0139937141084991114ea929b84f6e5751b"
+    },
+    {
+      "id": "x-pharmacology-044",
+      "status": "pass",
+      "assessment": "All fields reread. Expected mobilization with preserved circulating volume is now a clinical competing interpretation. Rapid weight loss with dry mouth and symptomatic standing argues for possible depletion despite clear lungs or residual oedema; no diagnosis is established from oedema alone.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "42967246e1c6e2b683b8105fce9f9d36b1b30d4b821fd9509631dbc757075a3d"
+    },
+    {
+      "id": "x-pharmacology-045",
+      "status": "pass",
+      "assessment": "All fields reread. Elevation/compression followed by a routine visit is a credible symptom-management approach but should not replace evaluation of a new dose-associated change. Stable weight, lungs and exercise tolerance make automatic heart-failure diuresis an unsupported interpretation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8177dacffee85af566e5be19e0fba54f084e3c35f1a20977db6c9a7cbf377fb7"
+    },
+    {
+      "id": "x-pharmacology-047",
+      "status": "pass",
+      "assessment": "All fields reread. The stem supplies ramipril plus hydrochlorothiazide without naming the answer domains. Parallel monitoring pairs make the two selections clear: renal/potassium trends and pressure/postural symptoms. Coagulation, auditory and pancreatic pairs test relevant monitoring distinctions; foundation metadata honestly reflects the recognition demand.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a2007d6b9fff92586f4968e1fe426b7fd8deddc758af3b19830e938611700e5b"
+    },
+    {
+      "id": "x-pharmacology-048",
+      "status": "pass",
+      "assessment": "All fields reread. Each option now explains the same prescribed interval, avoiding an action/definition mismatch. Preventing pharmacological tolerance is correct; skin recovery, slower sleep-time absorption and assumed renal retention are competing mechanism misconceptions. Foundation classification fits.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3e9bee5d0427028f701c32b403e98aec39f8da912a5da2b49604dd6b73bda1d4"
+    },
+    {
+      "id": "x-pharmacology-050",
+      "status": "pass",
+      "assessment": "All fields reread. Repeating known benefits and using a fixed-time alarm are now concrete interventions but do not solve the stated rotating-shift feasibility barrier. Collaborative work on the prescribed schedule fits the identified issue without independently changing the prescription.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "48164bc5cc5bd559fbad3b6e7fa0c570b7b81f1c460debacdeb87bcf5b1e56ab"
+    },
+    {
+      "id": "x-pharmacology-052",
+      "status": "pass",
+      "assessment": "All fields reread. Dose escalation and daily rotation among body regions are plausible responses to variable glucose, but damaged tissue and absorption variability must be addressed. Assessment and a consistent healthy-tissue rotation plan precede assuming treatment failure; moving away from lipohypertrophy can increase absorption.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e6d236d2d60f771d6bb8d1d6907e07f1a6ba38a91892141ce4187cd48478e790"
+    },
+    {
+      "id": "x-pharmacology-054",
+      "status": "pass",
+      "assessment": "All fields reread. Verbal dose recall is a reasonable but incomplete teaching check when the barrier is use of an unfamiliar concentrated-insulin device. Observed pen-specific technique directly addresses the concentration/withdrawal error; old syringe markings and volume are not interchangeable.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6edf2dbfbe8e8e2fce1f19005b1536b853178ebd9412b865a579d8a98cd87801"
+    },
+    {
+      "id": "x-pharmacology-057",
+      "status": "pass",
+      "assessment": "All fields reread. Waiting one hour for another glucose is now a concrete monitoring alternative but underweights persistent vomiting, abdominal pain and deep breathing during empagliflozin use. Urgent ketone/acid-base assessment remains appropriate despite modest glucose, corroborated by Health Canada.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "cdcf8662077fd38d8ca882defad250015bf0acd13b59daef293befa280042926"
+    },
+    {
+      "id": "x-pharmacology-058",
+      "status": "pass",
+      "assessment": "All fields reread. Small drinks, a later smaller-dose request and the earlier nausea plan are plausible intolerance strategies, but severe persistent pain with repeated vomiting changes urgency. Prompt assessment before more semaglutide is the best choice without diagnosing pancreatitis solely from symptoms.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b3a1b9fc627e128fc7d4fccf4689e7a68d39f2ec480ab8d224a36fbc65f3cee8"
+    },
+    {
+      "id": "x-pharmacology-061",
+      "status": "pass",
+      "assessment": "All fields reread. Reusing a previous brief-course taper is now a plausible but unsuitable discontinuation plan after months of therapy. A prescriber-directed plan accounts for adrenal suppression and disease control; the item avoids supplying a universal taper.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0af3c06b675884cd57430fe255d3c7fab42dcbe5bde78b5bf2beecd83aa69d62"
+    },
+    {
+      "id": "x-pharmacology-063",
+      "status": "pass",
+      "assessment": "All fields reread. Moving levothyroxine to bedtime is now a plausible timing misconception, but cannot evaluate excessive exposure after a dose increase. The temporal cluster of palpitations, heat intolerance and tremor warrants thyroid/cardiovascular assessment rather than routine adjustment reassurance.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "54be783facc422adce1d8fe7e77e64bba87fdf8b479d76f932fac97eca0ccd10"
+    },
+    {
+      "id": "x-pharmacology-064",
+      "status": "pass",
+      "assessment": "All fields reread. A thyroid-function test is a relevant but wrong-domain investigation for fever and sore throat during methimazole. Prompt team contact for blood-count guidance evaluates potentially serious marrow toxicity; a normal hormone response would not settle infection risk.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9374c25e1d7c5ca5a66c0902b232c740e6c994ad9d518abdae6b63dade18627e"
+    },
+    {
+      "id": "x-pharmacology-069",
+      "status": "pass",
+      "assessment": "All fields reread. Retaining the home clock for every dose and adjusting by appetite are plausible travel shortcuts, but can mismatch dose intervals, meals and glucose needs. An individualized schedule and accessible supplies/treatment remain the two appropriate preparations; freezing risk is correctly explained.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3d44f25ce34de5e5a05438ff616ce770601ff7d67d045d01ff895367b1394e31"
+    },
+    {
+      "id": "x-pharmacology-074",
+      "status": "pass",
+      "assessment": "All fields reread. Repeating glucose after the meal is a plausible monitoring alternative but cannot authorize a dose outside the current scale. Prescriber contact or an existing escalation instruction is appropriate; neither numerical extrapolation nor assuming the highest listed dose is an order.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "86bbb5b0f5620c9a983ad3266054bcdcf579b5d5cde0fa3ee1130f831267265b"
+    },
+    {
+      "id": "x-pharmacology-078",
+      "status": "pass",
+      "assessment": "All fields reread. Switching classes because of the broad beta-lactam label is now a real competing strategy, but does not interpret the actual reaction risk. Asking reaction/timing/treatment details remains best; the rationale avoids asserting all penicillins and cephalosporins have identical cross-reactivity.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3c3227f29e85a076a36d1205f2d9a29800af22bf3f8abeabdab9b1e7890d0f42"
+    },
+    {
+      "id": "x-pharmacology-079",
+      "status": "pass",
+      "assessment": "All fields reread. Waiting for next-clinic sampling is a plausible diagnostic plan but delays hydration assessment and possible infection review during frequent diarrhoea with thirst. Absence of fever does not establish routine intolerance, and antimotility therapy before evaluating colitis may be inappropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "300660aeaae0b72c0f2e9cedf80eca78389e8fbe5aa74e719b86da729174c13e"
+    },
+    {
+      "id": "x-pharmacology-082",
+      "status": "pass",
+      "assessment": "All fields reread. Comparing intake is relevant to hydration but cannot approve gentamicin dosing after reduced urine output and rising creatinine. The old concentration predates the change, supporting prompt current level/dose review; the item does not independently select a new dose.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "249363e40c82027fc89b41cd76cdcf924dbc9aa16030ea4e60635c8ee4207d7c"
+    },
+    {
+      "id": "x-pharmacology-083",
+      "status": "pass",
+      "assessment": "All fields reread. Slowing then automatically restoring the old vancomycin rate is a plausible infusion response but lacks a reviewed restart plan. Pausing, assessing and reporting protects the client; stable breathing/pressure does not justify continuing unchanged or prove anaphylaxis.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b658adb53ec83b7abffd2b461164330bc4a96184ade8d136f32b1ca8efa5aa78"
+    },
+    {
+      "id": "x-pharmacology-084",
+      "status": "pass",
+      "assessment": "All fields reread. Antihistamine response, a separate thrush explanation and a routine dose reduction are now specific competing approaches. Fever with painful spreading rash and mucosal involvement supports withholding and urgent escalation for possible severe reaction; less itching would not establish safety.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "325a3afd598ac66d5fe179cd7f8e2aff77e0c04136d4c16a3515d0af8ca43b1f"
+    },
+    {
+      "id": "x-pharmacology-085",
+      "status": "pass",
+      "assessment": "All fields reread twice through the final parallel-option revision. Every option now combines an exposure decision, tendon management and follow-up/restart action, removing the uniquely comprehensive key cue. Withholding ciprofloxacin, resting the tendon and contacting the prescriber promptly matches the retrieved warning; reduced loading, stretching and self-directed restart do not establish safety.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ae929b4b184e4b03a533e4255e00c242e7758a9f3fa2777b95096b8175545f39"
+    },
+    {
+      "id": "x-pharmacology-089",
+      "status": "pass",
+      "assessment": "All fields reread. Wider footwear, resuming pyridoxine until the next visit and symptom relief are plausible approaches but do not evaluate new bilateral tingling during isoniazid with missed supplementation. Reporting both the symptom and adherence issue supports a specific treatment review.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6f77e4aff60e5ba30a29e8cdcc5bfc7adcc6b88c5920d9e4e0919328248aca91"
+    },
+    {
+      "id": "x-pharmacology-093",
+      "status": "pass",
+      "assessment": "All fields reread. Separating fluconazole and warfarin by clock time is now a plausible interaction misconception; it does not remove metabolic potentiation. Interaction review and an appropriate anticoagulation-monitoring plan remain appropriate without an unsupported dose recommendation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4c8330a431466fb4788cd543eb6c8e4158c3ba1dd42f1961d7cff895774238d0"
+    },
+    {
+      "id": "x-pharmacology-094",
+      "status": "pass",
+      "assessment": "All fields reread. A regular palpable pulse is now a plausible reassuring observation, but does not assess the QT interval or remove combined drug/electrolyte risk. Clarifying the regimen and correction/monitoring plan is the appropriate safety response rather than timing separation or relying on absent chest pain.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d69f0d4455bcfb733df34f4569954c0b98f7465dc1ac9fc894cb7274c30e1a8d"
+    },
+    {
+      "id": "x-pharmacology-096",
+      "status": "pass",
+      "assessment": "Entire revised case reread. Ramipril plus trimethoprim-sulfamethoxazole, a documented4.4→5.8 potassium trend and new weakness require prompt rhythm/treatment review even with unchanged creatinine and a regular pulse. Tomorrow-only repeat, routine pulse checks and separating doses are distinct misconceptions. The label corroborates the ACE-inhibitor/hyperkalaemia interaction; the case supplies its reference range.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5bfd337e28e527b887b07447466409270ff1a70ff204a14964109c5832f9afd9"
+    },
+    {
+      "id": "x-pharmacology-097",
+      "status": "pass",
+      "assessment": "All fields reread. Applying another antibiotic’s two-hour feed hold is a plausible protocol-transfer error. Product-specific timing or route review appropriately balances the documented mineral interaction and nutritional requirements without prescribing a universal interval.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6f936bfdf790a8713944a81150b2d1b907263fea56d375c0b9e39ba1202eb227"
+    },
+    {
+      "id": "x-pharmacology-098",
+      "status": "pass",
+      "assessment": "All fields reread. Antiemetic response, routine repeat culture and urinary analgesia are now clinical alternatives but do not assess newly systemic/flank symptoms during bladder-focused therapy. Prompt review for possible upper infection is appropriate; symptom relief cannot validate the old regimen.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fae8784296990a2f7f2af764b83ed0dc660a8cc68861d0fbe0c7bf97ea52f9c0"
+    },
+    {
+      "id": "x-pharmacology-108",
+      "status": "pass",
+      "assessment": "All fields reread. Medication-related parkinsonism replaces the judgemental activity-avoidance alternative. Inner restlessness after dose escalation with improving hallucinations supports akathisia; the rationale distinguishes rigidity/slowness/tremor rather than treating all extrapyramidal effects as equivalent.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "98c3a061143a5abc54574584676ac59f5f8c6dc1252b74ec8e4f1f27e600b606"
+    },
+    {
+      "id": "x-pharmacology-113",
+      "status": "pass",
+      "assessment": "All fields reread. The four records now compare relevant symptom/adherence/function information. A diary linking individual doses to onset and duration of recurring stiffness best evaluates wearing-off; one morning score, weekly tablet count and peak walking distance each omit a necessary temporal relationship.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "3917395511b484e259ce56d8513b8fb4c5236cad20c55a96e85ea92d4aa3ea1d"
+    },
+    {
+      "id": "x-pharmacology-114",
+      "status": "pass",
+      "assessment": "All fields reread. Foundation metadata now accurately describes direct oral-care teaching for phenytoin. Gentle mechanical hygiene and dental review remain appropriate; mouthwash alone, avoided enlarged areas and independent abrupt discontinuation are specific safety misconceptions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "998b01d8eebaa31cf3f5862a2f9962e92447efa9b6a91b7a25b467204bccf41d"
+    },
+    {
+      "id": "x-adaptation-014",
+      "status": "pass",
+      "assessment": "Entire final item reread. The new inability to bear upper-limb weight distinguishes the competing forearm-supported forward posture from back-supported upright positioning. All four position descriptions and rationales align with that cue and recumbent breathlessness; evaluation remains required and no universal best posture is claimed.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c7d4462f7509228dc94090eeb65f27ff70b239ef9fcfc25df04710b000330b69"
+    },
+    {
+      "id": "x-adaptation-025",
+      "status": "pass",
+      "assessment": "Entire final item reread. Four parallel acid-base classifications remove the uniquely action-rich key. pH7.28 with PaCO258 and bicarbonate26 against supplied ranges supports respiratory acidosis; the foundational classification and keyed index1 remain correct.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "222fdcf5e892f583cfc09033924a53c1d65d84ffa1b17b413b12605b71607762"
+    }
+  ],
+  "reviewerTask": "/root/review_legacy",
+  "relatedSourceCheckFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/b-pharmacology-final-targeted-source-checks.json",
+  "scopeNote": "43 entries:40 pharmacology revisions, the new015 replacement, and adaptation014/025. Other unchanged items retain their prior hash-matching full-review records; adaptation051–100 is assigned to/root."
+}

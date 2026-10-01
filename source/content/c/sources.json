@@ -1,0 +1,940 @@
+{
+  "c-mobility": {
+    "name": "BCcampus: Immobility and assisting patients",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/3-6-transferring-and-ambulation/",
+    "kind": "Canadian open nursing textbook",
+    "checkedDate": "2026-10-01",
+    "scope": "Movement, functional assistance and immobility; related original applications require individualized rehabilitation plans."
+  },
+  "c-position": {
+    "name": "BCcampus: Positioning patients in bed",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/3-4-positioning-a-patient-in-bed/",
+    "kind": "Canadian open nursing textbook",
+    "checkedDate": "2026-10-01",
+    "scope": "Alignment and positioning principles."
+  },
+  "c-hygiene": {
+    "name": "BCcampus: Personal hygiene care",
+    "url": "https://opentextbc.ca/hcalabtheoryandpractice/chapter/personal-hygiene-care/",
+    "kind": "Canadian open care textbook",
+    "checkedDate": "2026-10-01",
+    "scope": "Personal care principles; nursing assessments are framed separately from HCA scope."
+  },
+  "c-oral": {
+    "name": "BCcampus: Oral hygiene",
+    "url": "https://opentextbc.ca/hcalabtheoryandpractice/chapter/oral-hygiene/",
+    "kind": "Canadian open care textbook",
+    "checkedDate": "2026-10-01",
+    "scope": "Oral cleaning, dentures and adapted assistance."
+  },
+  "c-nutrition": {
+    "name": "BCcampus: Assisting with eating",
+    "url": "https://opentextbc.ca/hcalabtheoryandpractice/chapter/assisting-with-eating/",
+    "kind": "Canadian open care textbook",
+    "checkedDate": "2026-10-01",
+    "scope": "Individual feeding assistance, intake and preferences."
+  },
+  "c-dysphagia": {
+    "name": "Canadian Stroke Best Practices: Swallowing, nutrition and oral care",
+    "url": "https://www.strokebestpractices.ca/recommendations/stroke-rehabilitation-delivery/6-swallowing-nutrition-and-oral-care",
+    "kind": "Canadian clinical guideline",
+    "checkedDate": "2026-10-01",
+    "scope": "Swallowing assessment, individualized texture modification, oral hygiene and enteral support after stroke."
+  },
+  "c-celiac": {
+    "name": "NIDDK: Eating and nutrition for celiac disease",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/celiac-disease/eating-diet-nutrition",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Gluten avoidance and hidden ingredients."
+  },
+  "c-lactose": {
+    "name": "NIDDK: Eating and nutrition for lactose intolerance",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/lactose-intolerance/eating-diet-nutrition",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Individual tolerance and nutritionally suitable substitutions."
+  },
+  "c-elimination": {
+    "name": "NIDDK: Bladder control treatment",
+    "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems/treatment",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Conservative continence strategies and individualized bladder care."
+  },
+  "c-constipation": {
+    "name": "NIDDK: Constipation treatment",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/constipation/treatment",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Bowel routine, fibre, activity and hydration."
+  },
+  "c-catheter": {
+    "name": "BCcampus: Urinary catheters",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/10-3-urinary-catheters/",
+    "kind": "Canadian open nursing textbook",
+    "checkedDate": "2026-10-01",
+    "scope": "Catheter assessment, hygiene and drainage; local policy governs procedures."
+  },
+  "c-ostomy": {
+    "name": "BCcampus: Ostomy care",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/10-6-ostomies/",
+    "kind": "Canadian open nursing textbook",
+    "checkedDate": "2026-10-01",
+    "scope": "Pouch fit, peristomal assessment and self-care."
+  },
+  "c-comfort": {
+    "name": "BCcampus: Pain assessment",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/2-1-1-focused-pain-assessment/",
+    "kind": "Canadian open nursing textbook",
+    "checkedDate": "2026-10-01",
+    "scope": "Pain characteristics, comfort interventions and reassessment."
+  },
+  "c-pain": {
+    "name": "RNAO: Pain prevention, assessment and management, fourth edition",
+    "url": "https://rnao.ca/bpg/guidelines/assessment-and-management-pain",
+    "kind": "Canadian clinical guideline",
+    "checkedDate": "2026-10-01",
+    "scope": "Person-centred pain assessment and management across the lifespan."
+  },
+  "c-assessment": {
+    "name": "BCcampus: Focused Assessments",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/2-5-focussed-respiratory-assessment/",
+    "kind": "Canadian open nursing textbook",
+    "checkedDate": "2026-10-01",
+    "scope": "Focused respiratory, cardiovascular/peripheral vascular, gastrointestinal/genitourinary, musculoskeletal and neurological assessment; the URL slug is narrower than the actual chapter."
+  },
+  "c-vitals": {
+    "name": "BCcampus: Vital signs",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/vital-signs/",
+    "kind": "Canadian open nursing textbook",
+    "checkedDate": "2026-10-01",
+    "scope": "Measurement technique and assessment context."
+  },
+  "c-glucose": {
+    "name": "BCcampus: Glucometer use",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/8-2-glucometer-use/",
+    "kind": "Canadian open nursing textbook",
+    "checkedDate": "2026-10-01",
+    "scope": "Capillary sample technique and glucose measurement."
+  },
+  "c-procedures": {
+    "name": "NIDDK: Diagnostic tests",
+    "url": "https://www.niddk.nih.gov/health-information/diagnostic-tests",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Index for procedure-specific diagnostic information; not a blanket authority for imaging policies."
+  },
+  "c-colonoscopy": {
+    "name": "NIDDK: Colonoscopy",
+    "url": "https://www.niddk.nih.gov/health-information/diagnostic-tests/colonoscopy",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Preparation, sedation recovery and complication warning signs; US screening ages not used."
+  },
+  "c-endoscopy": {
+    "name": "NIDDK: Upper GI endoscopy",
+    "url": "https://www.niddk.nih.gov/health-information/diagnostic-tests/upper-gi-endoscopy",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Preparation, recovery and warning signs."
+  },
+  "c-kidney-biopsy": {
+    "name": "NIDDK: Kidney biopsy",
+    "url": "https://www.niddk.nih.gov/health-information/diagnostic-tests/kidney-biopsy",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Bleeding risks, medication disclosure and post-biopsy monitoring."
+  },
+  "c-liver-biopsy": {
+    "name": "NIDDK: Liver biopsy",
+    "url": "https://www.niddk.nih.gov/health-information/diagnostic-tests/liver-biopsy",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Biopsy preparation and complication monitoring."
+  },
+  "c-cystoscopy": {
+    "name": "NIDDK: Cystoscopy and ureteroscopy",
+    "url": "https://www.niddk.nih.gov/health-information/diagnostic-tests/cystoscopy-ureteroscopy",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Urinary procedural aftercare and warning signs."
+  },
+  "c-ercp": {
+    "name": "NIDDK: ERCP",
+    "url": "https://www.niddk.nih.gov/health-information/diagnostic-tests/endoscopic-retrograde-cholangiopancreatography",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "ERCP preparation and complication recognition."
+  },
+  "c-postoperative": {
+    "name": "BCcampus: Wound healing and assessment",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/wound-assessment/",
+    "kind": "Canadian open nursing textbook",
+    "checkedDate": "2026-10-01",
+    "scope": "Wound observation and healing trends."
+  },
+  "c-drains": {
+    "name": "BCcampus: Drain management",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/4-8-drain-management-and-removal/",
+    "kind": "Canadian open nursing textbook",
+    "checkedDate": "2026-10-01",
+    "scope": "Surgical drain function and assessment."
+  },
+  "c-chest-drain": {
+    "name": "BCcampus: Chest tube drainage systems",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/10-7-chest-drainage-systems/",
+    "kind": "Canadian open nursing textbook",
+    "checkedDate": "2026-10-01",
+    "scope": "Chest-drain monitoring and complication recognition; device-specific policies govern actions."
+  },
+  "c-pressure": {
+    "name": "RNAO: Pressure injury management",
+    "url": "https://rnao.ca/bpg/guidelines/pressure-injuries",
+    "kind": "Canadian clinical guideline",
+    "checkedDate": "2026-10-01",
+    "scope": "Individualized pressure injury risk assessment, prevention and management."
+  },
+  "c-mri": {
+    "name": "ACR/RSNA: MRI safety",
+    "url": "https://www.radiologyinfo.org/en/info/safety-mr",
+    "kind": "Professional society patient guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Implant screening and MRI preparation."
+  },
+  "c-cbc": {
+    "name": "MedlinePlus: Complete blood count",
+    "url": "https://medlineplus.gov/lab-tests/complete-blood-count-cbc/",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Blood count interpretation in context; example ranges are supplied in questions."
+  },
+  "c-sodium": {
+    "name": "MedlinePlus: Sodium blood test",
+    "url": "https://medlineplus.gov/lab-tests/sodium-blood-test/",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Sodium interpretation and clinical context."
+  },
+  "c-electrolytes": {
+    "name": "MedlinePlus: Electrolyte panel",
+    "url": "https://medlineplus.gov/lab-tests/electrolyte-panel/",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Electrolyte abnormalities and potential cardiac effects."
+  },
+  "c-urine-test": {
+    "name": "MedlinePlus: Urinalysis",
+    "url": "https://medlineplus.gov/ency/article/003579.htm",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Urine collection methods and specimen interpretation."
+  },
+  "c-oximetry": {
+    "name": "Health Canada: Pulse oximeters for health care providers",
+    "url": "https://www.canada.ca/en/health-canada/services/drugs-medical-devices/pulse-oximeters/health-care-providers.html",
+    "kind": "Canadian government guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Device limitations including skin pigmentation and interpretation alongside clinical findings."
+  },
+  "c-child-feeding": {
+    "name": "Canadian Paediatric Society: Feeding your baby in the first year",
+    "url": "https://caringforkids.cps.ca/handouts/healthy-living/feeding_your_baby_in_the_first_year",
+    "kind": "Canadian professional guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Developmentally appropriate feeding and food safety."
+  },
+  "c-paced-feeding": {
+    "name": "Peel Public Health: Bottle feeding",
+    "url": "https://peelregion.ca/children-parenting/feeding-baby/bottle-feeding",
+    "kind": "Canadian public health guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Responsive paced feeding and controlling nipple flow."
+  },
+  "c-child-pain": {
+    "name": "Canadian Paediatric Society: Managing procedural pain and distress",
+    "url": "https://cps.ca/en/documents/position/managing-pain-and-distress",
+    "kind": "Canadian professional guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Developmentally appropriate preparation, comfort positions and distraction."
+  },
+  "c-child-dehydration": {
+    "name": "Canadian Paediatric Society: Dehydration and diarrhea",
+    "url": "https://caringforkids.cps.ca/handouts/health-conditions-and-treatments/dehydration_and_diarrhea",
+    "kind": "Canadian professional guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Oral rehydration, tolerance and signs requiring reassessment."
+  },
+  "c-infant-fever": {
+    "name": "Canadian Paediatric Society: Febrile infants aged 90 days or younger",
+    "url": "https://cps.ca/en/documents/position/management-of-well-appearing-febrile-young-infants-aged-90-days",
+    "kind": "Canadian clinical guideline",
+    "checkedDate": "2026-10-01",
+    "scope": "Rectal temperature at least38°C in young infants requires assessment; no drug regimen used."
+  },
+  "c-jaundice": {
+    "name": "Canadian Paediatric Society: Jaundice in newborns",
+    "url": "https://caringforkids.cps.ca/handouts/health-conditions-and-treatments/jaundice_in_newborns",
+    "kind": "Canadian professional guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Early jaundice, feeding warning signs and age-dependent interpretation."
+  },
+  "c-postpartum": {
+    "name": "Public Health Agency of Canada: Postpartum care",
+    "url": "https://www.canada.ca/en/public-health/services/publications/healthy-living/maternity-newborn-care-guidelines-chapter-5.html",
+    "kind": "Canadian government guideline",
+    "checkedDate": "2026-10-01",
+    "scope": "Postpartum comfort, haemorrhage, infection and hypertensive warning signs."
+  },
+  "c-child-vomit": {
+    "name": "SickKids AboutKidsHealth: Vomiting",
+    "url": "https://www.aboutkidshealth.ca/vomiting",
+    "kind": "Canadian hospital guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Vomiting assessment and warning signs including green vomit and dehydration."
+  },
+  "c-refeeding": {
+    "name": "NICE CG32: Adult nutrition support recommendations",
+    "url": "https://www.nice.org.uk/guidance/cg32/chapter/Recommendations",
+    "kind": "Clinical guideline",
+    "checkedDate": "2026-10-01",
+    "scope": "Refeeding-risk electrolyte and fluid monitoring; no exact feeding rate or replacement regimen used."
+  },
+  "c-dialysis": {
+    "name": "NIDDK: Hemodialysis",
+    "url": "https://www.niddk.nih.gov/health-information/kidney-disease/kidney-failure/hemodialysis",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Access protection, low blood pressure and monitoring."
+  },
+  "c-dialysis-access": {
+    "name": "MedlinePlus: Vascular access care for hemodialysis",
+    "url": "https://medlineplus.gov/ency/patientinstructions/000591.htm",
+    "kind": "Clinical reference hosted by government",
+    "checkedDate": "2026-10-01",
+    "scope": "Access thrill, pressure protection and signs requiring review."
+  },
+  "c-contrast": {
+    "name": "ACR/RSNA: Contrast material safety",
+    "url": "https://www.radiologyinfo.org/en/info/safety-contrast",
+    "kind": "Professional society guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Previous reactions, kidney risk and contrast extravasation."
+  },
+  "c-troponin": {
+    "name": "MedlinePlus: Troponin test",
+    "url": "https://medlineplus.gov/lab-tests/troponin-test/",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Cardiac biomarker purpose and interpretation in diagnostic context."
+  },
+  "c-a1c": {
+    "name": "MedlinePlus: Haemoglobin A1C test",
+    "url": "https://medlineplus.gov/lab-tests/hemoglobin-a1c-hba1c-test/",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Longer-term glucose exposure rather than a current reading."
+  },
+  "c-test-prep": {
+    "name": "MedlinePlus: Preparing for laboratory tests",
+    "url": "https://medlineplus.gov/lab-tests/how-to-prepare-for-a-lab-test/",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Test-specific preparation and medicine/fasting clarification."
+  },
+  "c-culture": {
+    "name": "MedlinePlus: Bacteria culture test",
+    "url": "https://medlineplus.gov/lab-tests/bacteria-culture-test/",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Site-specific specimen collection and culture interpretation."
+  },
+  "c-stool-test": {
+    "name": "MedlinePlus: Faecal occult blood test",
+    "url": "https://medlineplus.gov/lab-tests/fecal-occult-blood-test-fobt/",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Method-specific instructions and follow-up of an abnormal screening test."
+  },
+  "c-abg": {
+    "name": "MedlinePlus: Arterial blood gas test",
+    "url": "https://medlineplus.gov/lab-tests/arterial-blood-gas-abg-test/",
+    "kind": "Clinical topic reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Carbon dioxide, oxygen and acid-base interpretation."
+  },
+  "c-d-dimer": {
+    "name": "MedlinePlus: D-dimer test",
+    "url": "https://medlineplus.gov/lab-tests/d-dimer-test/",
+    "kind": "Clinical topic reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Positive D-dimer requires clinical interpretation and further testing."
+  },
+  "c-thyroid": {
+    "name": "MedlinePlus: Thyroid surgery discharge",
+    "url": "https://www.medlineplus.gov/ency/patientinstructions/000293.htm",
+    "kind": "Clinical topic reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Postoperative tingling and warning signs."
+  },
+  "c-eeg": {
+    "name": "MedlinePlus: EEG",
+    "url": "https://medlineplus.gov/ency/article/003931.htm",
+    "kind": "Clinical topic reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Scalp preparation and recording principles."
+  },
+  "c-renal-diet": {
+    "name": "NIDDK: Nutrition for hemodialysis",
+    "url": "https://www.niddk.nih.gov/health-information/kidney-disease/kidney-failure/hemodialysis/eating-nutrition",
+    "kind": "Clinical topic reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Potassium-containing salt substitutes and renal diet restrictions."
+  },
+  "c-tonsil": {
+    "name": "SickKids: Tonsil and adenoid surgery aftercare",
+    "url": "https://www.aboutkidshealth.ca/ta/tonsil-surgery-or-tonsil-and-adenoid-surgery-caring-for-your-child-after-the-operation-ta?language=en",
+    "kind": "Clinical topic reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Bleeding and respiratory warning signs after tonsil surgery."
+  },
+  "c-tube-falls": {
+    "name": "BC Children's Hospital: Feeding tube falls out",
+    "url": "https://www.bcchildrens.ca/sites/g/files/qpdaav156/files/2025-01/what-to-do-feeding-tube-falls-out.pdf",
+    "kind": "Clinical topic reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Dislodged feeding tubes require an individualized approved response and placement verification."
+  },
+  "c-privacy": {
+    "name": "CNO: Professional boundaries and nurse-client relationships",
+    "url": "https://cno.org/Assets/CNO/Documents/Standard-and-Learning/Practice-Standards/41033_therapeutic.pdf",
+    "kind": "Nursing regulator",
+    "checkedDate": "2026-10-01",
+    "scope": "Dignity, privacy, explanation and participation during personal care."
+  },
+  "c-toilet-learning": {
+    "name": "Canadian Paediatric Society: Toilet learning",
+    "url": "https://caringforkids.cps.ca/handouts/behavior-and-development/toilet_learning",
+    "kind": "Canadian professional guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Readiness, supportive routines and toileting setbacks."
+  },
+  "c-diaper-rash": {
+    "name": "Canadian Paediatric Society: Diaper rash",
+    "url": "https://caringforkids.cps.ca/handouts/pregnancy-and-babies/diaper_rash",
+    "kind": "Canadian professional guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Gentle cleansing, barriers and prompt diaper changes."
+  },
+  "c-pregnancy-position": {
+    "name": "NHS: Common health problems in pregnancy",
+    "url": "https://www.nhs.uk/pregnancy/common-symptoms/common-health-problems/",
+    "kind": "Public health service",
+    "checkedDate": "2026-10-01",
+    "scope": "Faintness when supine and side-lying during later pregnancy."
+  },
+  "c-thrush": {
+    "name": "Canadian Paediatric Society: Thrush",
+    "url": "https://caringforkids.cps.ca/handouts/pregnancy-and-babies/thrush",
+    "kind": "Canadian professional guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Persistent oral patches, feeding discomfort and assessment."
+  },
+  "c-juvenile-arthritis": {
+    "name": "Arthritis Society Canada: Juvenile arthritis",
+    "url": "https://arthritis.ca/about-arthritis/arthritis-types/juvenile-arthritis/",
+    "kind": "Canadian disease organization",
+    "checkedDate": "2026-10-01",
+    "scope": "Morning stiffness and functional consequences of juvenile arthritis."
+  },
+  "c-child-sleep": {
+    "name": "Canadian Paediatric Society: Healthy sleep for your baby and child",
+    "url": "https://caringforkids.cps.ca/handouts/healthy-living/healthy_sleep_for_your_baby_and_child",
+    "kind": "Canadian professional guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Age-appropriate sleep routines and settling cues."
+  },
+  "c-sensory-care": {
+    "name": "Canadian Paediatric Society: Autism spectrum disorder post-diagnostic management",
+    "url": "https://cps.ca/en/documents/position/asd-post-diagnostic-management",
+    "kind": "Canadian professional guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Adjusting routine care for sensory sensitivities; a sensory-sensitive vignette does not establish a diagnosis."
+  },
+  "c-hearing": {
+    "name": "HealthLink BC: Hearing loss",
+    "url": "https://www.healthlinkbc.ca/healthwise/hearing-loss",
+    "kind": "Provincial health information",
+    "checkedDate": "2026-10-01",
+    "scope": "Accessible communication and consequences of hearing barriers."
+  },
+  "c-caregiver": {
+    "name": "HealthLink BC: Reducing stress in caregiving",
+    "url": "https://www.healthlinkbc.ca/healthwise/quick-tips-reducing-stress-caregiving",
+    "kind": "Provincial health information",
+    "checkedDate": "2026-10-01",
+    "scope": "Caregiver capacity, practical help and respite."
+  },
+  "c-breastfeeding": {
+    "name": "Canadian Paediatric Society: Breastfeeding",
+    "url": "https://caringforkids.cps.ca/handouts/pregnancy-and-babies/breastfeeding",
+    "kind": "Canadian professional guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Comfortable positioning and feeding support."
+  },
+  "c-phantom-pain": {
+    "name": "Amputee Coalition: Introduction to managing pain",
+    "url": "https://amputee-coalition.org/resources/introduction-to-managing-pain-fs/",
+    "kind": "Patient-care organization",
+    "checkedDate": "2026-10-01",
+    "scope": "Residual-limb and phantom-limb pain assessment."
+  },
+  "c-prosthetic-skin": {
+    "name": "Amputee Coalition: Skin care 101",
+    "url": "https://amputee-coalition.org/skin-care-101/",
+    "kind": "Patient-care organization",
+    "checkedDate": "2026-10-01",
+    "scope": "Residual-limb skin checks and prosthesis-related friction."
+  },
+  "c-parkinson": {
+    "name": "Parkinson Foundation: Freezing",
+    "url": "https://www.parkinson.org/living-with-parkinsons/management/activities-daily-living/freezing",
+    "kind": "Disease organization",
+    "checkedDate": "2026-10-01",
+    "scope": "Freezing episodes, pacing and individualized movement cues."
+  },
+  "c-parkinson-motor": {
+    "name": "Parkinson Canada: Motor symptoms",
+    "url": "https://www.parkinson.ca/what-is-parkinsons/motor-symptoms/",
+    "kind": "Canadian disease organization",
+    "checkedDate": "2026-10-01",
+    "scope": "Bradykinesia and variable movement tolerance."
+  },
+  "c-ms-fatigue": {
+    "name": "MS Canada: Fatigue",
+    "url": "https://mscanada.ca/ms-fatigue",
+    "kind": "Canadian disease organization",
+    "checkedDate": "2026-10-01",
+    "scope": "Heat-sensitive fatigue and energy management."
+  },
+  "c-cancer-taste": {
+    "name": "BC Cancer: Food ideas to cope with taste and smell changes",
+    "url": "https://www.bccancer.bc.ca/nutrition-site/Documents/Patient%20Education/Food%20Ideas%20to%20Cope%20with%20Taste%20and%20Smell%20Changes%20%28Updated%20Mouth%20Rinse%29%20-%20Nov%202025.pdf",
+    "kind": "Provincial cancer agency",
+    "checkedDate": "2026-10-01",
+    "scope": "Food-temperature, odour and taste adaptations during treatment."
+  },
+  "c-cancer-mouth": {
+    "name": "BC Cancer: Dry mouth and mouth pain",
+    "url": "https://www.bccancer.bc.ca/health-info/coping-with-cancer/managing-symptoms-side-effects/dry-mouth-mouth-pain",
+    "kind": "Provincial cancer agency",
+    "checkedDate": "2026-10-01",
+    "scope": "Mouth pain, mucositis and comfortable oral intake."
+  },
+  "c-sleep": {
+    "name": "HealthLink BC: Sleeping better",
+    "url": "https://www.healthlinkbc.ca/healthwise/sleeping-better",
+    "kind": "Provincial health information",
+    "checkedDate": "2026-10-01",
+    "scope": "Sleep environment, habits and symptoms interfering with sleep."
+  },
+  "c-reflux": {
+    "name": "NIDDK: Treatment for GER and GERD",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/acid-reflux-ger-gerd-adults/treatment",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Meal timing, recumbency and individualized reflux management."
+  },
+  "c-als-communication": {
+    "name": "ALS Association: Augmentative and alternative communication",
+    "url": "https://www.als.org/navigating-als/living-with-als/therapies-care/augmentative-alternative-communication",
+    "kind": "Disease organization",
+    "checkedDate": "2026-10-01",
+    "scope": "Eye-gaze and other adapted communication options."
+  },
+  "c-low-vision": {
+    "name": "Brain Injury Canada: Tips for coping with changes in vision",
+    "url": "https://braininjurycanada.ca/en/effects-brain-injury/physical/vision-loss/tips/",
+    "kind": "Canadian patient-care organization",
+    "checkedDate": "2026-10-01",
+    "scope": "Contrast and environmental adaptations for vision loss."
+  },
+  "c-cataract": {
+    "name": "University Health Network: Cataract surgery recovery",
+    "url": "https://www.uhn.ca/Surgery/Eye_Surgery/Cataract_Surgery",
+    "kind": "Canadian hospital",
+    "checkedDate": "2026-10-01",
+    "scope": "Increasing pain and loss of vision after cataract surgery."
+  },
+  "c-nephrostomy": {
+    "name": "MyHealth Alberta: Nephrostomy tube care",
+    "url": "https://myhealth.alberta.ca/Health/aftercareinformation/pages/conditions.aspx?hwid=zc2006",
+    "kind": "Provincial health information",
+    "checkedDate": "2026-10-01",
+    "scope": "Drainage, positioning, displaced tubes and when to seek review."
+  },
+  "c-arthritis-aids": {
+    "name": "Arthritis Society Canada: Assistive devices resource",
+    "url": "https://arthritis.ca/treatment/pain-management/assistive-devices-resource/",
+    "kind": "Canadian disease organization",
+    "checkedDate": "2026-10-01",
+    "scope": "Lever taps and tools that reduce gripping and twisting."
+  },
+  "c-gout": {
+    "name": "HSE: Gout",
+    "url": "https://www2.hse.ie/conditions/gout/",
+    "kind": "Public health service",
+    "checkedDate": "2026-10-01",
+    "scope": "Reducing pressure and bedding contact over an inflamed joint."
+  },
+  "c-vascular-surgery": {
+    "name": "University Health Network: Leg bypass surgery",
+    "url": "https://www.uhn.ca/Surgery/Vascular_Surgery/Leg_Bypass_Surgery",
+    "kind": "Canadian hospital",
+    "checkedDate": "2026-10-01",
+    "scope": "Postoperative limb circulation changes and urgent warning signs."
+  },
+  "c-spine-surgery": {
+    "name": "Cambridge University Hospitals: Recovery following lumbar decompression",
+    "url": "https://www.cuh.nhs.uk/patient-information/post-operative-recovery-following-lumbar-decompression-surgery/",
+    "kind": "Public hospital",
+    "checkedDate": "2026-10-01",
+    "scope": "Urgent new weakness, sensory or bowel/bladder changes after spine surgery."
+  },
+  "c-arterial-access": {
+    "name": "American Heart Association: Peripheral angiogram",
+    "url": "https://www.heart.org/en/health-topics/peripheral-artery-disease/diagnosing-pad/peripheral-angiogram",
+    "kind": "Professional clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Arterial puncture bleeding and distal circulation surveillance."
+  },
+  "c-radial-access": {
+    "name": "Dorset County Hospital: Radial angiogram discharge advice",
+    "url": "https://dchft.nhs.uk/leaflets/discharge-advice-for-patients-following-a-radial-angiogram/",
+    "kind": "Public hospital",
+    "checkedDate": "2026-10-01",
+    "scope": "Cold discoloured or persistently tingling hand after radial access."
+  },
+  "c-central-line": {
+    "name": "NHS Borders: Non-tunnelled central venous catheter care",
+    "url": "https://www.rightdecisions.scot.nhs.uk/nhs-borders-clinical-guidelines/adult-acute-services/nursing/protocol-for-the-care-of-non-tunnelled-central-venous-catheters-cvc-s-excluding-picc-hickman-lines/",
+    "kind": "Public health service clinical guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Respiratory deterioration and possible pneumothorax after central-line insertion."
+  },
+  "c-anaesthesia": {
+    "name": "Healthdirect: General anaesthetic",
+    "url": "https://www.healthdirect.gov.au/general-anaesthetic",
+    "kind": "Public health information",
+    "checkedDate": "2026-10-01",
+    "scope": "Breathing, alertness and postoperative deterioration after anaesthesia."
+  },
+  "c-ng-tube": {
+    "name": "BCcampus: Nasogastric tubes",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/10-2-nasogastric-tubes/",
+    "kind": "Canadian open nursing textbook",
+    "checkedDate": "2026-10-01",
+    "scope": "Gastric decompression, enteral tubes, displacement and position verification."
+  },
+  "c-creatinine": {
+    "name": "MedlinePlus: Creatinine test",
+    "url": "https://medlineplus.gov/lab-tests/creatinine-test/",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Renal function and creatinine interpretation."
+  },
+  "c-sputum": {
+    "name": "MedlinePlus: Sputum culture",
+    "url": "https://medlineplus.gov/lab-tests/sputum-culture/",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Deep respiratory specimens and collection quality."
+  },
+  "c-spirometer": {
+    "name": "MedlinePlus: Using an incentive spirometer",
+    "url": "https://medlineplus.gov/ency/patientinstructions/000451.htm",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Slow deep inspiration and postoperative breathing exercises."
+  },
+  "c-inr": {
+    "name": "MedlinePlus: Prothrombin time and INR",
+    "url": "https://medlineplus.gov/lab-tests/prothrombin-time-test-and-inr-ptinr/",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Clotting results and warfarin monitoring."
+  },
+  "c-albumin": {
+    "name": "MedlinePlus: Albumin blood test",
+    "url": "https://medlineplus.gov/lab-tests/albumin-blood-test/",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Multiple influences on albumin and limits of isolated nutritional interpretation."
+  },
+  "c-blood-culture": {
+    "name": "MedlinePlus: Blood culture",
+    "url": "https://medlineplus.gov/ency/article/003744.htm",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Blood culture purpose and collection considerations."
+  },
+  "c-bronchoscopy": {
+    "name": "MedlinePlus: Bronchoscopy aftercare",
+    "url": "https://medlineplus.gov/ency/patientinstructions/000988.htm",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Post-bronchoscopy airway symptoms and bleeding surveillance."
+  },
+  "c-lumbar-puncture": {
+    "name": "MedlinePlus: CSF collection",
+    "url": "https://medlineplus.gov/ency/article/003428.htm",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Lumbar puncture complications including post-procedure headache."
+  },
+  "c-thoracentesis": {
+    "name": "MedlinePlus: Thoracentesis",
+    "url": "https://www.medlineplus.gov/ency/article/003420.htm",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Pneumothorax and bleeding surveillance after pleural fluid removal."
+  },
+  "c-imaging-pregnancy": {
+    "name": "RadiologyInfo: Can medical imaging hurt a fetus?",
+    "url": "https://www.radiologyinfo.org/en/info/safety-hiw_10",
+    "kind": "Radiology professional guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Communicating possible pregnancy before selecting imaging."
+  },
+  "c-heart-failure": {
+    "name": "Heart and Stroke Foundation of Canada: Heart failure",
+    "url": "https://www.heartandstroke.ca/heart-disease/conditions/heart-failure",
+    "kind": "Canadian disease organization",
+    "checkedDate": "2026-10-01",
+    "scope": "Weight, oedema, dyspnoea and clinical deterioration trends."
+  },
+  "c-delirium": {
+    "name": "NICE CG103: Delirium recommendations",
+    "url": "https://www.nice.org.uk/guidance/cg103/chapter/Recommendations",
+    "kind": "Clinical guideline",
+    "checkedDate": "2026-10-01",
+    "scope": "Multicomponent delirium prevention, orientation, mobility and sleep."
+  },
+  "c-autonomic-neuropathy": {
+    "name": "NIDDK: Autonomic neuropathy",
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/nerve-damage-diabetic-neuropathies/autonomic-neuropathy",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Orthostatic symptoms and other consequences of autonomic nerve damage."
+  },
+  "c-palliative-food": {
+    "name": "Canadian Virtual Hospice: Oral nutrition at the end of life",
+    "url": "https://www.virtualhospice.ca/en_US/Main%2BSite%2BNavigation/Home/For%2BProfessionals/For%2BProfessionals/Quick%2BConsults/Symptoms/Can%2Byou%2Bprovide%2Bsome%2Bguidance%2Babout%2Boral%2Bnutrition%2Bat%2Bthe%2Bend%2Bof%2Blife_.aspx",
+    "kind": "Canadian palliative-care organization",
+    "checkedDate": "2026-10-01",
+    "scope": "Comfort, requested food, mouth care and respectful family discussion near death."
+  },
+  "c-cpap": {
+    "name": "HealthLink BC: CPAP therapy for obstructive sleep apnea",
+    "url": "https://www.healthlinkbc.ca/healthwise/continuous-positive-airway-pressure-cpap-therapy-obstructive-sleep-apnea",
+    "kind": "Provincial health information",
+    "checkedDate": "2026-10-01",
+    "scope": "Mask tolerance and troubleshooting prescribed CPAP."
+  },
+  "c-amputation": {
+    "name": "MyHealth Alberta: Below-the-knee leg amputation aftercare",
+    "url": "https://myhealth.alberta.ca/Health/aftercareinformation/pages/conditions.aspx?hwid=zu2057",
+    "kind": "Provincial health information",
+    "checkedDate": "2026-10-01",
+    "scope": "Positioning and avoiding flexion contracture after amputation."
+  },
+  "c-drug-monitoring": {
+    "name": "MedlinePlus: Therapeutic drug monitoring",
+    "url": "https://medlineplus.gov/lab-tests/therapeutic-drug-monitoring/",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Meaningful sampling times and actual medication exposure."
+  },
+  "c-lung-tests": {
+    "name": "MedlinePlus: Lung function tests",
+    "url": "https://medlineplus.gov/lab-tests/lung-function-tests/",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Preparation and medication instructions depend on test purpose."
+  },
+  "c-neck-surgery": {
+    "name": "University Health Network: Thyroid surgery",
+    "url": "https://www.uhn.ca/Surgery/General_Surgery/Thyroid_Surgery/Pages/default.aspx",
+    "kind": "Canadian hospital",
+    "checkedDate": "2026-10-01",
+    "scope": "Neck swelling and swallowing or breathing difficulty after thyroid surgery."
+  },
+  "c-packing": {
+    "name": "BCcampus: Wound irrigation and packing",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/4-5-complex-dressing-change/",
+    "kind": "Canadian open nursing textbook",
+    "checkedDate": "2026-10-01",
+    "scope": "Documenting inserted and removed packing pieces to avoid retention."
+  },
+  "c-hip-surgery": {
+    "name": "Dorset County Hospital: Post hip replacement symptom checker",
+    "url": "https://dchft.nhs.uk/leaflets/post-hip-replacement-symptom-checker/",
+    "kind": "Public hospital",
+    "checkedDate": "2026-10-01",
+    "scope": "Acute pain and inability to bear weight with possible prosthetic dislocation."
+  },
+  "c-regional-block": {
+    "name": "University Health Network: Managing pain with a peripheral nerve block",
+    "url": "https://www.uhn.ca/PatientsFamilies/Health_Information/Health_Topics/Documents/Managing_Your_Pain_with_Peripheral_Nerve_Block.pdf",
+    "kind": "Canadian hospital",
+    "checkedDate": "2026-10-01",
+    "scope": "Leg weakness, heaviness and numbness after a peripheral block; individualized recovery assessment."
+  },
+  "c-transfers": {
+    "name": "BCcampus: Patient transfers",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/3-7-transfers-and-ambulation/",
+    "kind": "Canadian open nursing textbook",
+    "checkedDate": "2026-10-01",
+    "scope": "Safe transfers, preparation and assistance according to assessed ability."
+  },
+  "c-perineal": {
+    "name": "BCcampus: Perineal care",
+    "url": "https://opentextbc.ca/hcalabtheoryandpractice/chapter/perineal-care/",
+    "kind": "Canadian open care textbook",
+    "checkedDate": "2026-10-01",
+    "scope": "Gentle perineal hygiene and foreskin care."
+  },
+  "c-npwt": {
+    "name": "Cleveland Clinic: Negative-pressure wound therapy",
+    "url": "https://my.clevelandclinic.org/health/treatments/17313-negative-pressure-wound-therapy",
+    "kind": "Hospital clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Seal, suction, alarms and assessment of therapy function."
+  },
+  "c-fetal-movement": {
+    "name": "NHS: Your baby's movements",
+    "url": "https://www.nhs.uk/pregnancy/keeping-well/your-babys-movements/",
+    "kind": "Public health service",
+    "checkedDate": "2026-10-01",
+    "scope": "Prompt reporting of reduced fetal movement despite previous reassurance."
+  },
+  "c-child-syncope": {
+    "name": "Royal Children's Hospital: Chest pain clinical guideline",
+    "url": "https://www.rch.org.au/clinicalguide/guideline_index/chest_pain/",
+    "kind": "Public pediatric hospital guideline",
+    "checkedDate": "2026-10-01",
+    "scope": "Exertional chest symptoms with syncope as concerning clinical history."
+  },
+  "c-neurovascular": {
+    "name": "Royal Children's Hospital: Neurovascular observations",
+    "url": "https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Neurovascular_observations/",
+    "kind": "Public pediatric hospital nursing guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Distal sensation, movement and perfusion with casts, dressings and circumferential burns."
+  },
+  "c-tetanus": {
+    "name": "PHAC: Tetanus toxoid, Canadian Immunization Guide",
+    "url": "https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-4-active-vaccines/page-22-tetanus-toxoid.html",
+    "kind": "Canadian government guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Wound type and immunization history inform tetanus prevention; no schedule tested in the item."
+  },
+  "c-cancer-fever": {
+    "name": "National Cancer Institute: Infection and neutropenia during cancer treatment",
+    "url": "https://www.cancer.gov/about-cancer/treatment/side-effects/infection",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Fever and chills during chemotherapy require prompt team assessment."
+  },
+  "c-peak-flow": {
+    "name": "MedlinePlus: How to use your peak flow meter",
+    "url": "https://medlineplus.gov/ency/patientinstructions/000043.htm",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Personal best, consistent technique and individualized asthma action-plan zones."
+  },
+  "c-above-knee": {
+    "name": "MyHealth Alberta: Above-the-knee leg amputation aftercare",
+    "url": "https://myhealth.alberta.ca/health/AfterCareInformation/pages/conditions.aspx?hwid=ug3839",
+    "kind": "Provincial health information",
+    "checkedDate": "2026-10-01",
+    "scope": "Hip positioning and contracture prevention after above-knee amputation."
+  },
+  "c-ecg": {
+    "name": "MedlinePlus: Electrocardiogram",
+    "url": "https://medlineplus.gov/lab-tests/electrocardiogram/",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Rhythm assessment and evaluation of irregular heartbeats."
+  },
+  "c-fecal-culture": {
+    "name": "MedlinePlus: Fecal culture",
+    "url": "https://medlineplus.gov/ency/article/003758.htm",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Keeping stool specimens free of urine, water and tissue."
+  },
+  "c-bronchiolitis": {
+    "name": "Canadian Paediatric Society: Bronchiolitis recommendations",
+    "url": "https://cps.ca/en/documents/position/bronchiolitis",
+    "kind": "Canadian professional guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Work of breathing, feeding difficulty and hydration assessment in bronchiolitis."
+  },
+  "c-cancer-bleeding": {
+    "name": "National Cancer Institute: Bleeding and bruising during treatment",
+    "url": "https://www.cancer.gov/about-cancer/treatment/side-effects/bleeding-bruising",
+    "kind": "Government clinical information",
+    "checkedDate": "2026-10-01",
+    "scope": "Thrombocytopenia precautions, soft oral care, shaving and nonprescription medicines."
+  },
+  "c-breast-position": {
+    "name": "HealthLink BC: Common breastfeeding positions",
+    "url": "https://www.healthlinkbc.ca/living-well/parenting/parenting-babies-0-12-months/breastfeeding/common-breastfeeding-positions",
+    "kind": "Provincial health information",
+    "checkedDate": "2026-10-01",
+    "scope": "Supported feeding positions, including comfort after caesarean birth."
+  },
+  "c-teachback": {
+    "name": "AHRQ: Use of teach-back",
+    "url": "https://www.ahrq.gov/patient-safety/reports/engage/teachback.html",
+    "kind": "Government patient-safety guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Checking usable understanding and simplifying explanations when teach-back reveals a gap."
+  },
+  "c-diabetic-foot": {
+    "name": "NIDDK: Diabetes and foot problems",
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/foot-problems",
+    "kind": "Primary institutional clinical guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Sensory loss, early injury recognition and foot care in diabetes."
+  },
+  "c-cast-care": {
+    "name": "Washington University Orthopedics: Cast and splint care",
+    "url": "https://www.ortho.wustl.edu/content/Education/5786/Patient-Education/Educational-Materials/Cast-and-Splint-Care.aspx",
+    "kind": "Primary institutional clinical guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Itching, skin protection and avoiding inserted objects beneath a cast."
+  },
+  "c-pregnancy-vomiting": {
+    "name": "NHS: Vomiting and morning sickness",
+    "url": "https://www.nhs.uk/pregnancy/common-symptoms/vomiting-and-morning-sickness/",
+    "kind": "Public health service",
+    "checkedDate": "2026-10-01",
+    "scope": "Vomiting in pregnancy, reduced urine and standing faintness as dehydration warning signs."
+  },
+  "c-postpartum-bladder": {
+    "name": "OpenStax: Physiologic Changes During the Postpartum Period",
+    "url": "https://openstax.org/books/maternal-newborn-nursing/pages/20-1-physiologic-changes-during-the-postpartum-period",
+    "kind": "Open nursing textbook",
+    "checkedDate": "2026-10-01",
+    "scope": "Relationship of bladder distension to fundal elevation, lateral displacement and impaired uterine contraction; bladder management and reassessment."
+  },
+  "c-postpartum-retention": {
+    "name": "Cambridge University Hospitals: Urinary retention following childbirth",
+    "url": "https://www.cuh.nhs.uk/patient-information/urinary-retention-following-childbirth/",
+    "kind": "Public health service",
+    "checkedDate": "2026-10-01",
+    "scope": "Recognition of postpartum incomplete bladder emptying from small voids and assessment of retention; individualized voiding and catheter care."
+  }
+}

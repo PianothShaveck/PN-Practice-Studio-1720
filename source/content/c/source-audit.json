@@ -1,0 +1,1285 @@
+[
+  {
+    "sourceId": "c-mobility",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/3-6-transferring-and-ambulation/",
+    "accessed": true,
+    "supportedTopics": [
+      "Movement, functional assistance and immobility; related original applications require individualized rehabilitation plans."
+    ],
+    "notes": "Retrieved through web open/click or search results on 2026-10-01. This is topic support, not independent clinical validation of each item."
+  },
+  {
+    "sourceId": "c-position",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/3-4-positioning-a-patient-in-bed/",
+    "accessed": true,
+    "supportedTopics": [
+      "Alignment and positioning principles."
+    ],
+    "notes": "Retrieved through web open/click or search results on 2026-10-01. This is topic support, not independent clinical validation of each item."
+  },
+  {
+    "sourceId": "c-hygiene",
+    "url": "https://opentextbc.ca/hcalabtheoryandpractice/chapter/personal-hygiene-care/",
+    "accessed": true,
+    "supportedTopics": [
+      "Personal care principles; nursing assessments are framed separately from HCA scope."
+    ],
+    "notes": "Retrieved through web open/click or search results on 2026-10-01. This is topic support, not independent clinical validation of each item."
+  },
+  {
+    "sourceId": "c-oral",
+    "url": "https://opentextbc.ca/hcalabtheoryandpractice/chapter/oral-hygiene/",
+    "accessed": true,
+    "supportedTopics": [
+      "Oral cleaning, dentures and adapted assistance."
+    ],
+    "notes": "Retrieved through web open/click or search results on 2026-10-01. This is topic support, not independent clinical validation of each item."
+  },
+  {
+    "sourceId": "c-nutrition",
+    "url": "https://opentextbc.ca/hcalabtheoryandpractice/chapter/assisting-with-eating/",
+    "accessed": true,
+    "supportedTopics": [
+      "Individual feeding assistance, intake and preferences."
+    ],
+    "notes": "Retrieved through web open/click or search results on 2026-10-01. This is topic support, not independent clinical validation of each item."
+  },
+  {
+    "sourceId": "c-dysphagia",
+    "url": "https://www.strokebestpractices.ca/recommendations/stroke-rehabilitation-delivery/6-swallowing-nutrition-and-oral-care",
+    "accessed": true,
+    "supportedTopics": [
+      "Swallowing assessment, individualized texture modification, oral hygiene and enteral support after stroke."
+    ],
+    "notes": "Retrieved through web open/click or search results on 2026-10-01. This is topic support, not independent clinical validation of each item."
+  },
+  {
+    "sourceId": "c-celiac",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/celiac-disease/eating-diet-nutrition",
+    "accessed": true,
+    "supportedTopics": [
+      "Gluten avoidance and hidden ingredients."
+    ],
+    "notes": "Retrieved through web open/click or search results on 2026-10-01. This is topic support, not independent clinical validation of each item."
+  },
+  {
+    "sourceId": "c-lactose",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/lactose-intolerance/eating-diet-nutrition",
+    "accessed": true,
+    "supportedTopics": [
+      "Individual tolerance and nutritionally suitable substitutions."
+    ],
+    "notes": "Retrieved through web open/click or search results on 2026-10-01. This is topic support, not independent clinical validation of each item."
+  },
+  {
+    "sourceId": "c-elimination",
+    "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems/treatment",
+    "accessed": true,
+    "supportedTopics": [
+      "Conservative continence strategies and individualized bladder care."
+    ],
+    "notes": "Retrieved through web open/click or search results on 2026-10-01. This is topic support, not independent clinical validation of each item."
+  },
+  {
+    "sourceId": "c-constipation",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/constipation/treatment",
+    "accessed": true,
+    "supportedTopics": [
+      "Bowel routine, fibre, activity and hydration."
+    ],
+    "notes": "Retrieved through web open/click or search results on 2026-10-01. This is topic support, not independent clinical validation of each item."
+  },
+  {
+    "sourceId": "c-catheter",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/10-3-urinary-catheters/",
+    "accessed": true,
+    "supportedTopics": [
+      "Catheter assessment, hygiene and drainage; local policy governs procedures."
+    ],
+    "notes": "Retrieved through web open/click or search results on 2026-10-01. This is topic support, not independent clinical validation of each item."
+  },
+  {
+    "sourceId": "c-ostomy",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/10-6-ostomies/",
+    "accessed": true,
+    "supportedTopics": [
+      "Pouch fit, peristomal assessment and self-care."
+    ],
+    "notes": "Retrieved through web open/click or search results on 2026-10-01. This is topic support, not independent clinical validation of each item."
+  },
+  {
+    "sourceId": "c-comfort",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/2-1-1-focused-pain-assessment/",
+    "accessed": true,
+    "supportedTopics": [
+      "Pain characteristics, comfort interventions and reassessment."
+    ],
+    "notes": "Retrieved through web open/click or search results on 2026-10-01. This is topic support, not independent clinical validation of each item."
+  },
+  {
+    "sourceId": "c-pain",
+    "url": "https://rnao.ca/bpg/guidelines/assessment-and-management-pain",
+    "accessed": true,
+    "supportedTopics": [
+      "Person-centred pain assessment and management across the lifespan."
+    ],
+    "notes": "Retrieved through web open/click or search results on 2026-10-01. This is topic support, not independent clinical validation of each item."
+  },
+  {
+    "sourceId": "c-assessment",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/2-5-focussed-respiratory-assessment/",
+    "accessed": true,
+    "supportedTopics": [
+      "Focused respiratory, cardiovascular/peripheral vascular, gastrointestinal/genitourinary, musculoskeletal and neurological assessment; the URL slug is narrower than the actual chapter."
+    ],
+    "notes": "Opened actual chapter on 2026-10-01, turn138view0. All five focused-system sections were retrieved; does not substitute for disease-specific guidance.",
+    "accessMode": "opened full page"
+  },
+  {
+    "sourceId": "c-vitals",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/vital-signs/",
+    "accessed": true,
+    "supportedTopics": [
+      "Measurement technique and assessment context."
+    ],
+    "notes": "Retrieved through web open/click or search results on 2026-10-01. This is topic support, not independent clinical validation of each item."
+  },
+  {
+    "sourceId": "c-glucose",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/8-2-glucometer-use/",
+    "accessed": true,
+    "supportedTopics": [
+      "Capillary sample technique and glucose measurement."
+    ],
+    "notes": "Retrieved through web open/click or search results on 2026-10-01. This is topic support, not independent clinical validation of each item."
+  },
+  {
+    "sourceId": "c-procedures",
+    "url": "https://www.niddk.nih.gov/health-information/diagnostic-tests",
+    "accessed": true,
+    "supportedTopics": [
+      "Index for procedure-specific diagnostic information; not a blanket authority for imaging policies."
+    ],
+    "notes": "Retrieved through web open/click or search results on 2026-10-01. This is topic support, not independent clinical validation of each item."
+  },
+  {
+    "sourceId": "c-colonoscopy",
+    "url": "https://www.niddk.nih.gov/health-information/diagnostic-tests/colonoscopy",
+    "accessed": true,
+    "supportedTopics": [
+      "Preparation, sedation recovery and complication warning signs; US screening ages not used."
+    ],
+    "notes": "Retrieved through web open/click or search results on 2026-10-01. This is topic support, not independent clinical validation of each item."
+  },
+  {
+    "sourceId": "c-endoscopy",
+    "url": "https://www.niddk.nih.gov/health-information/diagnostic-tests/upper-gi-endoscopy",
+    "accessed": true,
+    "supportedTopics": [
+      "Preparation, recovery and warning signs."
+    ],
+    "notes": "Retrieved through web open/click or search results on 2026-10-01. This is topic support, not independent clinical validation of each item."
+  },
+  {
+    "sourceId": "c-kidney-biopsy",
+    "url": "https://www.niddk.nih.gov/health-information/diagnostic-tests/kidney-biopsy",
+    "accessed": true,
+    "supportedTopics": [
+      "Bleeding risks, medication disclosure and post-biopsy monitoring."
+    ],
+    "notes": "Retrieved through web open/click or search results on 2026-10-01. This is topic support, not independent clinical validation of each item."
+  },
+  {
+    "sourceId": "c-liver-biopsy",
+    "url": "https://www.niddk.nih.gov/health-information/diagnostic-tests/liver-biopsy",
+    "accessed": true,
+    "supportedTopics": [
+      "Biopsy preparation and complication monitoring."
+    ],
+    "notes": "Retrieved through web open/click or search results on 2026-10-01. This is topic support, not independent clinical validation of each item."
+  },
+  {
+    "sourceId": "c-cystoscopy",
+    "url": "https://www.niddk.nih.gov/health-information/diagnostic-tests/cystoscopy-ureteroscopy",
+    "accessed": true,
+    "supportedTopics": [
+      "Urinary procedural aftercare and warning signs."
+    ],
+    "notes": "Retrieved through web open/click or search results on 2026-10-01. This is topic support, not independent clinical validation of each item."
+  },
+  {
+    "sourceId": "c-ercp",
+    "url": "https://www.niddk.nih.gov/health-information/diagnostic-tests/endoscopic-retrograde-cholangiopancreatography",
+    "accessed": true,
+    "supportedTopics": [
+      "ERCP preparation and complication recognition."
+    ],
+    "notes": "Retrieved through web open/click or search results on 2026-10-01. This is topic support, not independent clinical validation of each item."
+  },
+  {
+    "sourceId": "c-postoperative",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/wound-assessment/",
+    "accessed": true,
+    "supportedTopics": [
+      "Wound observation and healing trends."
+    ],
+    "notes": "Retrieved through web open/click or search results on 2026-10-01. This is topic support, not independent clinical validation of each item."
+  },
+  {
+    "sourceId": "c-drains",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/4-8-drain-management-and-removal/",
+    "accessed": true,
+    "supportedTopics": [
+      "Surgical drain function and assessment."
+    ],
+    "notes": "Retrieved through web open/click or search results on 2026-10-01. This is topic support, not independent clinical validation of each item."
+  },
+  {
+    "sourceId": "c-chest-drain",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/10-7-chest-drainage-systems/",
+    "accessed": true,
+    "supportedTopics": [
+      "Chest-drain monitoring and complication recognition; device-specific policies govern actions."
+    ],
+    "notes": "Retrieved through web open/click or search results on 2026-10-01. This is topic support, not independent clinical validation of each item."
+  },
+  {
+    "sourceId": "c-pressure",
+    "url": "https://rnao.ca/bpg/guidelines/pressure-injuries",
+    "accessed": true,
+    "supportedTopics": [
+      "Individualized pressure injury risk assessment, prevention and management."
+    ],
+    "notes": "Retrieved through web open/click or search results on 2026-10-01. This is topic support, not independent clinical validation of each item."
+  },
+  {
+    "sourceId": "c-mri",
+    "url": "https://www.radiologyinfo.org/en/info/safety-mr",
+    "accessed": true,
+    "supportedTopics": [
+      "Implant screening and MRI preparation."
+    ],
+    "notes": "Retrieved through web open/click or search results on 2026-10-01. This is topic support, not independent clinical validation of each item."
+  },
+  {
+    "sourceId": "c-cbc",
+    "url": "https://medlineplus.gov/lab-tests/complete-blood-count-cbc/",
+    "accessed": true,
+    "supportedTopics": [
+      "Blood count interpretation in context; example ranges are supplied in questions."
+    ],
+    "notes": "Retrieved through web open/click or search results on 2026-10-01. This is topic support, not independent clinical validation of each item."
+  },
+  {
+    "sourceId": "c-sodium",
+    "url": "https://medlineplus.gov/lab-tests/sodium-blood-test/",
+    "accessed": true,
+    "supportedTopics": [
+      "Sodium interpretation and clinical context."
+    ],
+    "notes": "Retrieved through web open/click or search results on 2026-10-01. This is topic support, not independent clinical validation of each item."
+  },
+  {
+    "sourceId": "c-electrolytes",
+    "url": "https://medlineplus.gov/lab-tests/electrolyte-panel/",
+    "accessed": true,
+    "supportedTopics": [
+      "Electrolyte abnormalities and potential cardiac effects."
+    ],
+    "notes": "Retrieved through web open/click or search results on 2026-10-01. This is topic support, not independent clinical validation of each item."
+  },
+  {
+    "sourceId": "c-urine-test",
+    "url": "https://medlineplus.gov/ency/article/003579.htm",
+    "accessed": true,
+    "supportedTopics": [
+      "Urine collection methods and specimen interpretation."
+    ],
+    "notes": "Retrieved through web open/click or search results on 2026-10-01. This is topic support, not independent clinical validation of each item."
+  },
+  {
+    "sourceId": "c-oximetry",
+    "url": "https://www.canada.ca/en/health-canada/services/drugs-medical-devices/pulse-oximeters/health-care-providers.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Device limitations including skin pigmentation and interpretation alongside clinical findings."
+    ],
+    "notes": "Retrieved through web open/click or search results on 2026-10-01. This is topic support, not independent clinical validation of each item."
+  },
+  {
+    "sourceId": "c-child-feeding",
+    "url": "https://caringforkids.cps.ca/handouts/healthy-living/feeding_your_baby_in_the_first_year",
+    "accessed": true,
+    "supportedTopics": [
+      "Developmentally appropriate feeding and food safety."
+    ],
+    "notes": "Retrieval mode: search. Search means a returned source excerpt, not a claimed complete-page review. Topic support only, not clinical validation of every authored item."
+  },
+  {
+    "sourceId": "c-paced-feeding",
+    "url": "https://peelregion.ca/children-parenting/feeding-baby/bottle-feeding",
+    "accessed": true,
+    "supportedTopics": [
+      "Responsive paced feeding and controlling nipple flow."
+    ],
+    "notes": "Retrieval mode: search. Search means a returned source excerpt, not a claimed complete-page review. Topic support only, not clinical validation of every authored item."
+  },
+  {
+    "sourceId": "c-child-pain",
+    "url": "https://cps.ca/en/documents/position/managing-pain-and-distress",
+    "accessed": true,
+    "supportedTopics": [
+      "Developmentally appropriate preparation, comfort positions and distraction."
+    ],
+    "notes": "Retrieval mode: open. Search means a returned source excerpt, not a claimed complete-page review. Topic support only, not clinical validation of every authored item."
+  },
+  {
+    "sourceId": "c-child-dehydration",
+    "url": "https://caringforkids.cps.ca/handouts/health-conditions-and-treatments/dehydration_and_diarrhea",
+    "accessed": true,
+    "supportedTopics": [
+      "Oral rehydration, tolerance and signs requiring reassessment."
+    ],
+    "notes": "Retrieval mode: open. Search means a returned source excerpt, not a claimed complete-page review. Topic support only, not clinical validation of every authored item."
+  },
+  {
+    "sourceId": "c-infant-fever",
+    "url": "https://cps.ca/en/documents/position/management-of-well-appearing-febrile-young-infants-aged-90-days",
+    "accessed": true,
+    "supportedTopics": [
+      "Rectal temperature at least38°C in young infants requires assessment; no drug regimen used."
+    ],
+    "notes": "Retrieval mode: search. Search means a returned source excerpt, not a claimed complete-page review. Topic support only, not clinical validation of every authored item."
+  },
+  {
+    "sourceId": "c-jaundice",
+    "url": "https://caringforkids.cps.ca/handouts/health-conditions-and-treatments/jaundice_in_newborns",
+    "accessed": true,
+    "supportedTopics": [
+      "Early jaundice, feeding warning signs and age-dependent interpretation."
+    ],
+    "notes": "Retrieval mode: search. Search means a returned source excerpt, not a claimed complete-page review. Topic support only, not clinical validation of every authored item."
+  },
+  {
+    "sourceId": "c-postpartum",
+    "url": "https://www.canada.ca/en/public-health/services/publications/healthy-living/maternity-newborn-care-guidelines-chapter-5.html",
+    "accessed": true,
+    "supportedTopics": [
+      "Postpartum comfort, haemorrhage, infection and hypertensive warning signs."
+    ],
+    "notes": "Retrieval mode: search. Search means a returned source excerpt, not a claimed complete-page review. Topic support only, not clinical validation of every authored item."
+  },
+  {
+    "sourceId": "c-child-vomit",
+    "url": "https://www.aboutkidshealth.ca/vomiting",
+    "accessed": true,
+    "supportedTopics": [
+      "Vomiting assessment and warning signs including green vomit and dehydration."
+    ],
+    "notes": "Retrieval mode: search. Search means a returned source excerpt, not a claimed complete-page review. Topic support only, not clinical validation of every authored item."
+  },
+  {
+    "sourceId": "c-refeeding",
+    "url": "https://www.nice.org.uk/guidance/cg32/chapter/Recommendations",
+    "accessed": true,
+    "supportedTopics": [
+      "Refeeding-risk electrolyte and fluid monitoring; no exact feeding rate or replacement regimen used."
+    ],
+    "notes": "Retrieval mode: search; direct open403. Search means a returned source excerpt, not a claimed complete-page review. Topic support only, not clinical validation of every authored item."
+  },
+  {
+    "sourceId": "c-dialysis",
+    "url": "https://www.niddk.nih.gov/health-information/kidney-disease/kidney-failure/hemodialysis",
+    "accessed": true,
+    "supportedTopics": [
+      "Access protection, low blood pressure and monitoring."
+    ],
+    "notes": "Retrieval mode: open. Search means a returned source excerpt, not a claimed complete-page review. Topic support only, not clinical validation of every authored item."
+  },
+  {
+    "sourceId": "c-dialysis-access",
+    "url": "https://medlineplus.gov/ency/patientinstructions/000591.htm",
+    "accessed": true,
+    "supportedTopics": [
+      "Access thrill, pressure protection and signs requiring review."
+    ],
+    "notes": "Retrieval mode: open. Search means a returned source excerpt, not a claimed complete-page review. Topic support only, not clinical validation of every authored item."
+  },
+  {
+    "sourceId": "c-contrast",
+    "url": "https://www.radiologyinfo.org/en/info/safety-contrast",
+    "accessed": true,
+    "supportedTopics": [
+      "Previous reactions, kidney risk and contrast extravasation."
+    ],
+    "notes": "Retrieval mode: open. Search means a returned source excerpt, not a claimed complete-page review. Topic support only, not clinical validation of every authored item."
+  },
+  {
+    "sourceId": "c-troponin",
+    "url": "https://medlineplus.gov/lab-tests/troponin-test/",
+    "accessed": true,
+    "supportedTopics": [
+      "Cardiac biomarker purpose and interpretation in diagnostic context."
+    ],
+    "notes": "Retrieval mode: search. Search means a returned source excerpt, not a claimed complete-page review. Topic support only, not clinical validation of every authored item."
+  },
+  {
+    "sourceId": "c-a1c",
+    "url": "https://medlineplus.gov/lab-tests/hemoglobin-a1c-hba1c-test/",
+    "accessed": true,
+    "supportedTopics": [
+      "Longer-term glucose exposure rather than a current reading."
+    ],
+    "notes": "Retrieval mode: search. Search means a returned source excerpt, not a claimed complete-page review. Topic support only, not clinical validation of every authored item."
+  },
+  {
+    "sourceId": "c-test-prep",
+    "url": "https://medlineplus.gov/lab-tests/how-to-prepare-for-a-lab-test/",
+    "accessed": true,
+    "supportedTopics": [
+      "Test-specific preparation and medicine/fasting clarification."
+    ],
+    "notes": "Retrieval mode: search. Search means a returned source excerpt, not a claimed complete-page review. Topic support only, not clinical validation of every authored item."
+  },
+  {
+    "sourceId": "c-culture",
+    "url": "https://medlineplus.gov/lab-tests/bacteria-culture-test/",
+    "accessed": true,
+    "supportedTopics": [
+      "Site-specific specimen collection and culture interpretation."
+    ],
+    "notes": "Retrieval mode: search. Search means a returned source excerpt, not a claimed complete-page review. Topic support only, not clinical validation of every authored item."
+  },
+  {
+    "sourceId": "c-stool-test",
+    "url": "https://medlineplus.gov/lab-tests/fecal-occult-blood-test-fobt/",
+    "accessed": true,
+    "supportedTopics": [
+      "Method-specific instructions and follow-up of an abnormal screening test."
+    ],
+    "notes": "Retrieval mode: search. Search means a returned source excerpt, not a claimed complete-page review. Topic support only, not clinical validation of every authored item."
+  },
+  {
+    "sourceId": "c-abg",
+    "url": "https://medlineplus.gov/lab-tests/arterial-blood-gas-abg-test/",
+    "accessed": true,
+    "supportedTopics": [
+      "Carbon dioxide, oxygen and acid-base interpretation."
+    ],
+    "notes": "Retrieval mode: open. Topic support, not full item validation."
+  },
+  {
+    "sourceId": "c-d-dimer",
+    "url": "https://medlineplus.gov/lab-tests/d-dimer-test/",
+    "accessed": true,
+    "supportedTopics": [
+      "Positive D-dimer requires clinical interpretation and further testing."
+    ],
+    "notes": "Retrieval mode: open. Topic support, not full item validation."
+  },
+  {
+    "sourceId": "c-thyroid",
+    "url": "https://www.medlineplus.gov/ency/patientinstructions/000293.htm",
+    "accessed": true,
+    "supportedTopics": [
+      "Postoperative tingling and warning signs."
+    ],
+    "notes": "Retrieval mode: open. Topic support, not full item validation."
+  },
+  {
+    "sourceId": "c-eeg",
+    "url": "https://medlineplus.gov/ency/article/003931.htm",
+    "accessed": true,
+    "supportedTopics": [
+      "Scalp preparation and recording principles."
+    ],
+    "notes": "Retrieval mode: open. Topic support, not full item validation."
+  },
+  {
+    "sourceId": "c-renal-diet",
+    "url": "https://www.niddk.nih.gov/health-information/kidney-disease/kidney-failure/hemodialysis/eating-nutrition",
+    "accessed": true,
+    "supportedTopics": [
+      "Potassium-containing salt substitutes and renal diet restrictions."
+    ],
+    "notes": "Retrieval mode: search. Topic support, not full item validation."
+  },
+  {
+    "sourceId": "c-tonsil",
+    "url": "https://www.aboutkidshealth.ca/ta/tonsil-surgery-or-tonsil-and-adenoid-surgery-caring-for-your-child-after-the-operation-ta?language=en",
+    "accessed": true,
+    "supportedTopics": [
+      "Bleeding and respiratory warning signs after tonsil surgery."
+    ],
+    "notes": "Retrieval mode: search. Topic support, not full item validation."
+  },
+  {
+    "sourceId": "c-tube-falls",
+    "url": "https://www.bcchildrens.ca/sites/g/files/qpdaav156/files/2025-01/what-to-do-feeding-tube-falls-out.pdf",
+    "accessed": true,
+    "supportedTopics": [
+      "Dislodged feeding tubes require an individualized approved response and placement verification."
+    ],
+    "notes": "Retrieval mode: search. Topic support, not full item validation."
+  },
+  {
+    "sourceId": "c-privacy",
+    "url": "https://cno.org/Assets/CNO/Documents/Standard-and-Learning/Practice-Standards/41033_therapeutic.pdf",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Dignity, privacy, explanation and participation during personal care."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn117search14); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-toilet-learning",
+    "url": "https://caringforkids.cps.ca/handouts/behavior-and-development/toilet_learning",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Readiness, supportive routines and toileting setbacks."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn117search0); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-diaper-rash",
+    "url": "https://caringforkids.cps.ca/handouts/pregnancy-and-babies/diaper_rash",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Gentle cleansing, barriers and prompt diaper changes."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn117search1); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-pregnancy-position",
+    "url": "https://www.nhs.uk/pregnancy/common-symptoms/common-health-problems/",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Faintness when supine and side-lying during later pregnancy."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn117search2); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-thrush",
+    "url": "https://caringforkids.cps.ca/handouts/pregnancy-and-babies/thrush",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Persistent oral patches, feeding discomfort and assessment."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn118search0); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-juvenile-arthritis",
+    "url": "https://arthritis.ca/about-arthritis/arthritis-types/juvenile-arthritis/",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Morning stiffness and functional consequences of juvenile arthritis."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn118search1); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-child-sleep",
+    "url": "https://caringforkids.cps.ca/handouts/healthy-living/healthy_sleep_for_your_baby_and_child",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Age-appropriate sleep routines and settling cues."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn118search2); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-sensory-care",
+    "url": "https://cps.ca/en/documents/position/asd-post-diagnostic-management",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Adjusting routine care for sensory sensitivities; a sensory-sensitive vignette does not establish a diagnosis."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn118search3); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-hearing",
+    "url": "https://www.healthlinkbc.ca/healthwise/hearing-loss",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Accessible communication and consequences of hearing barriers."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn118search4); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-caregiver",
+    "url": "https://www.healthlinkbc.ca/healthwise/quick-tips-reducing-stress-caregiving",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Caregiver capacity, practical help and respite."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn118search17); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-breastfeeding",
+    "url": "https://caringforkids.cps.ca/handouts/pregnancy-and-babies/breastfeeding",
+    "accessed": true,
+    "accessMode": "opened page",
+    "supportedTopics": [
+      "Comfortable positioning and feeding support."
+    ],
+    "notes": "Opened on 2026-10-01, turn164view0. Supports feeding assessment and referral; specific position items additionally use c-breast-position."
+  },
+  {
+    "sourceId": "c-phantom-pain",
+    "url": "https://amputee-coalition.org/resources/introduction-to-managing-pain-fs/",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Residual-limb and phantom-limb pain assessment."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn121search1); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-prosthetic-skin",
+    "url": "https://amputee-coalition.org/skin-care-101/",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Residual-limb skin checks and prosthesis-related friction."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn121search6); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-parkinson",
+    "url": "https://www.parkinson.org/living-with-parkinsons/management/activities-daily-living/freezing",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Freezing episodes, pacing and individualized movement cues."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn121search17); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-parkinson-motor",
+    "url": "https://www.parkinson.ca/what-is-parkinsons/motor-symptoms/",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Bradykinesia and variable movement tolerance."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn121search10); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-ms-fatigue",
+    "url": "https://mscanada.ca/ms-fatigue",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Heat-sensitive fatigue and energy management."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn121search12); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-cancer-taste",
+    "url": "https://www.bccancer.bc.ca/nutrition-site/Documents/Patient%20Education/Food%20Ideas%20to%20Cope%20with%20Taste%20and%20Smell%20Changes%20%28Updated%20Mouth%20Rinse%29%20-%20Nov%202025.pdf",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Food-temperature, odour and taste adaptations during treatment."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn121search48); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-cancer-mouth",
+    "url": "https://www.bccancer.bc.ca/health-info/coping-with-cancer/managing-symptoms-side-effects/dry-mouth-mouth-pain",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Mouth pain, mucositis and comfortable oral intake."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn121search5); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-sleep",
+    "url": "https://www.healthlinkbc.ca/healthwise/sleeping-better",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Sleep environment, habits and symptoms interfering with sleep."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn130search7); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-reflux",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/acid-reflux-ger-gerd-adults/treatment",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Meal timing, recumbency and individualized reflux management."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn130search2); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-als-communication",
+    "url": "https://www.als.org/navigating-als/living-with-als/therapies-care/augmentative-alternative-communication",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Eye-gaze and other adapted communication options."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn130search11); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-low-vision",
+    "url": "https://braininjurycanada.ca/en/effects-brain-injury/physical/vision-loss/tips/",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Contrast and environmental adaptations for vision loss."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn130search45); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-cataract",
+    "url": "https://www.uhn.ca/Surgery/Eye_Surgery/Cataract_Surgery",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Increasing pain and loss of vision after cataract surgery."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn131search0); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-nephrostomy",
+    "url": "https://myhealth.alberta.ca/Health/aftercareinformation/pages/conditions.aspx?hwid=zc2006",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Drainage, positioning, displaced tubes and when to seek review."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn131search1); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-arthritis-aids",
+    "url": "https://arthritis.ca/treatment/pain-management/assistive-devices-resource/",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Lever taps and tools that reduce gripping and twisting."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn131search7); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-gout",
+    "url": "https://www2.hse.ie/conditions/gout/",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Reducing pressure and bedding contact over an inflamed joint."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn131search27); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-vascular-surgery",
+    "url": "https://www.uhn.ca/Surgery/Vascular_Surgery/Leg_Bypass_Surgery",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Postoperative limb circulation changes and urgent warning signs."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn132search15); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-spine-surgery",
+    "url": "https://www.cuh.nhs.uk/patient-information/post-operative-recovery-following-lumbar-decompression-surgery/",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Urgent new weakness, sensory or bowel/bladder changes after spine surgery."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn132search21); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-arterial-access",
+    "url": "https://www.heart.org/en/health-topics/peripheral-artery-disease/diagnosing-pad/peripheral-angiogram",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Arterial puncture bleeding and distal circulation surveillance."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn132search24); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-radial-access",
+    "url": "https://dchft.nhs.uk/leaflets/discharge-advice-for-patients-following-a-radial-angiogram/",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Cold discoloured or persistently tingling hand after radial access."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn132search31); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-central-line",
+    "url": "https://www.rightdecisions.scot.nhs.uk/nhs-borders-clinical-guidelines/adult-acute-services/nursing/protocol-for-the-care-of-non-tunnelled-central-venous-catheters-cvc-s-excluding-picc-hickman-lines/",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Respiratory deterioration and possible pneumothorax after central-line insertion."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn132search42); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-anaesthesia",
+    "url": "https://www.healthdirect.gov.au/general-anaesthetic",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Breathing, alertness and postoperative deterioration after anaesthesia."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn132search36); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-ng-tube",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/10-2-nasogastric-tubes/",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Gastric decompression, enteral tubes, displacement and position verification."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn134search0); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-creatinine",
+    "url": "https://medlineplus.gov/lab-tests/creatinine-test/",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Renal function and creatinine interpretation."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn134search2); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-sputum",
+    "url": "https://medlineplus.gov/lab-tests/sputum-culture/",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Deep respiratory specimens and collection quality."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn134search3); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-spirometer",
+    "url": "https://medlineplus.gov/ency/patientinstructions/000451.htm",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Slow deep inspiration and postoperative breathing exercises."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn134search8); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-inr",
+    "url": "https://medlineplus.gov/lab-tests/prothrombin-time-test-and-inr-ptinr/",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Clotting results and warfarin monitoring."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn134search9); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-albumin",
+    "url": "https://medlineplus.gov/lab-tests/albumin-blood-test/",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Multiple influences on albumin and limits of isolated nutritional interpretation."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn134search12); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-blood-culture",
+    "url": "https://medlineplus.gov/ency/article/003744.htm",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Blood culture purpose and collection considerations."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn134search13); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-bronchoscopy",
+    "url": "https://medlineplus.gov/ency/patientinstructions/000988.htm",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Post-bronchoscopy airway symptoms and bleeding surveillance."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn135search2); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-lumbar-puncture",
+    "url": "https://medlineplus.gov/ency/article/003428.htm",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Lumbar puncture complications including post-procedure headache."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn135search0); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-thoracentesis",
+    "url": "https://www.medlineplus.gov/ency/article/003420.htm",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Pneumothorax and bleeding surveillance after pleural fluid removal."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn135search3); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-imaging-pregnancy",
+    "url": "https://www.radiologyinfo.org/en/info/safety-hiw_10",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Communicating possible pregnancy before selecting imaging."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn135search20); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-heart-failure",
+    "url": "https://www.heartandstroke.ca/heart-disease/conditions/heart-failure",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Weight, oedema, dyspnoea and clinical deterioration trends."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn137search2); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-delirium",
+    "url": "https://www.nice.org.uk/guidance/cg103/chapter/Recommendations",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Multicomponent delirium prevention, orientation, mobility and sleep."
+    ],
+    "notes": "Search excerpts retrieved on 2026-10-01, turn137search3 and turn165search6, including orientation, sensory support and sleep hygiene. Direct open returned403; full-page retrieval not claimed."
+  },
+  {
+    "sourceId": "c-autonomic-neuropathy",
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/nerve-damage-diabetic-neuropathies/autonomic-neuropathy",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Orthostatic symptoms and other consequences of autonomic nerve damage."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn137search5); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-palliative-food",
+    "url": "https://www.virtualhospice.ca/en_US/Main%2BSite%2BNavigation/Home/For%2BProfessionals/For%2BProfessionals/Quick%2BConsults/Symptoms/Can%2Byou%2Bprovide%2Bsome%2Bguidance%2Babout%2Boral%2Bnutrition%2Bat%2Bthe%2Bend%2Bof%2Blife_.aspx",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Comfort, requested food, mouth care and respectful family discussion near death."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn141search2); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-cpap",
+    "url": "https://www.healthlinkbc.ca/healthwise/continuous-positive-airway-pressure-cpap-therapy-obstructive-sleep-apnea",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Mask tolerance and troubleshooting prescribed CPAP."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn141search7); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-amputation",
+    "url": "https://myhealth.alberta.ca/Health/aftercareinformation/pages/conditions.aspx?hwid=zu2057",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Positioning and avoiding flexion contracture after amputation."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn141search26); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-drug-monitoring",
+    "url": "https://medlineplus.gov/lab-tests/therapeutic-drug-monitoring/",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Meaningful sampling times and actual medication exposure."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn141search5); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-lung-tests",
+    "url": "https://medlineplus.gov/lab-tests/lung-function-tests/",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Preparation and medication instructions depend on test purpose."
+    ],
+    "notes": "Retrieved through web research on 2026-10-01 (turn141search8); source-specific search excerpt, not a claim of complete page inspection or clinical validation."
+  },
+  {
+    "sourceId": "c-neck-surgery",
+    "url": "https://www.uhn.ca/Surgery/General_Surgery/Thyroid_Surgery/Pages/default.aspx",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Neck swelling and swallowing or breathing difficulty after thyroid surgery."
+    ],
+    "notes": "Retrieved on 2026-10-01 (turn144search0); search-result excerpt. Topic support, not independent clinical validation."
+  },
+  {
+    "sourceId": "c-packing",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/4-5-complex-dressing-change/",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Documenting inserted and removed packing pieces to avoid retention."
+    ],
+    "notes": "Retrieved on 2026-10-01 (turn144search1); search-result excerpt. Topic support, not independent clinical validation."
+  },
+  {
+    "sourceId": "c-hip-surgery",
+    "url": "https://dchft.nhs.uk/leaflets/post-hip-replacement-symptom-checker/",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Acute pain and inability to bear weight with possible prosthetic dislocation."
+    ],
+    "notes": "Retrieved on 2026-10-01 (turn144search13); search-result excerpt. Topic support, not independent clinical validation."
+  },
+  {
+    "sourceId": "c-regional-block",
+    "url": "https://www.uhn.ca/PatientsFamilies/Health_Information/Health_Topics/Documents/Managing_Your_Pain_with_Peripheral_Nerve_Block.pdf",
+    "accessed": true,
+    "accessMode": "opened page/PDF",
+    "supportedTopics": [
+      "Leg weakness, heaviness and numbness after a peripheral block; individualized recovery assessment."
+    ],
+    "notes": "Retrieved on 2026-10-01 (turn146view0); opened page/PDF. Topic support, not independent clinical validation."
+  },
+  {
+    "sourceId": "c-transfers",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/3-7-transfers-and-ambulation/",
+    "accessed": true,
+    "accessMode": "opened page/PDF",
+    "supportedTopics": [
+      "Safe transfers, preparation and assistance according to assessed ability."
+    ],
+    "notes": "Retrieved on 2026-10-01 (turn146view1); opened page/PDF. Topic support, not independent clinical validation."
+  },
+  {
+    "sourceId": "c-perineal",
+    "url": "https://opentextbc.ca/hcalabtheoryandpractice/chapter/perineal-care/",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Gentle perineal hygiene and foreskin care."
+    ],
+    "notes": "Retrieved on 2026-10-01 (turn146search0); search-result excerpt. Topic support, not independent clinical validation."
+  },
+  {
+    "sourceId": "c-npwt",
+    "url": "https://my.clevelandclinic.org/health/treatments/17313-negative-pressure-wound-therapy",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Seal, suction, alarms and assessment of therapy function."
+    ],
+    "notes": "Retrieved on 2026-10-01 (turn146search13); search-result excerpt. Topic support, not independent clinical validation."
+  },
+  {
+    "sourceId": "c-fetal-movement",
+    "url": "https://www.nhs.uk/pregnancy/keeping-well/your-babys-movements/",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Prompt reporting of reduced fetal movement despite previous reassurance."
+    ],
+    "notes": "Retrieved on 2026-10-01 (turn149search0); search-result excerpt. Topic support, not independent clinical validation."
+  },
+  {
+    "sourceId": "c-child-syncope",
+    "url": "https://www.rch.org.au/clinicalguide/guideline_index/chest_pain/",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Exertional chest symptoms with syncope as concerning clinical history."
+    ],
+    "notes": "Retrieved on 2026-10-01 (turn149search9); search-result excerpt. Topic support, not independent clinical validation."
+  },
+  {
+    "sourceId": "c-neurovascular",
+    "url": "https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Neurovascular_observations/",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Distal sensation, movement and perfusion with casts, dressings and circumferential burns."
+    ],
+    "notes": "Retrieved on 2026-10-01 (turn149search2); search-result excerpt. Topic support, not independent clinical validation."
+  },
+  {
+    "sourceId": "c-tetanus",
+    "url": "https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-4-active-vaccines/page-22-tetanus-toxoid.html",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Wound type and immunization history inform tetanus prevention; no schedule tested in the item."
+    ],
+    "notes": "Retrieved on 2026-10-01 (turn149search3); search-result excerpt. Topic support, not independent clinical validation."
+  },
+  {
+    "sourceId": "c-cancer-fever",
+    "url": "https://www.cancer.gov/about-cancer/treatment/side-effects/infection",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Fever and chills during chemotherapy require prompt team assessment."
+    ],
+    "notes": "Retrieved on 2026-10-01 (turn155search18); search-result excerpt. Topic support, not independent clinical validation."
+  },
+  {
+    "sourceId": "c-peak-flow",
+    "url": "https://medlineplus.gov/ency/patientinstructions/000043.htm",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Personal best, consistent technique and individualized asthma action-plan zones."
+    ],
+    "notes": "Retrieved on 2026-10-01 (turn155search0); search-result excerpt. Topic support, not independent clinical validation."
+  },
+  {
+    "sourceId": "c-above-knee",
+    "url": "https://myhealth.alberta.ca/health/AfterCareInformation/pages/conditions.aspx?hwid=ug3839",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Hip positioning and contracture prevention after above-knee amputation."
+    ],
+    "notes": "Retrieved on 2026-10-01 (turn155search10); search-result excerpt. Topic support, not independent clinical validation."
+  },
+  {
+    "sourceId": "c-ecg",
+    "url": "https://medlineplus.gov/lab-tests/electrocardiogram/",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Rhythm assessment and evaluation of irregular heartbeats."
+    ],
+    "notes": "Retrieved on 2026-10-01 (turn162search0); search-result excerpt. Topic support, not independent clinical validation."
+  },
+  {
+    "sourceId": "c-fecal-culture",
+    "url": "https://medlineplus.gov/ency/article/003758.htm",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Keeping stool specimens free of urine, water and tissue."
+    ],
+    "notes": "Retrieved on 2026-10-01 (turn162search1); search-result excerpt. Topic support, not independent clinical validation."
+  },
+  {
+    "sourceId": "c-bronchiolitis",
+    "url": "https://cps.ca/en/documents/position/bronchiolitis",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Work of breathing, feeding difficulty and hydration assessment in bronchiolitis."
+    ],
+    "notes": "Retrieved on 2026-10-01 (turn162search2); search-result excerpt. Topic support, not independent clinical validation."
+  },
+  {
+    "sourceId": "c-cancer-bleeding",
+    "url": "https://www.cancer.gov/about-cancer/treatment/side-effects/bleeding-bruising",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Thrombocytopenia precautions, soft oral care, shaving and nonprescription medicines."
+    ],
+    "notes": "Retrieved on 2026-10-01 (turn162search6); search-result excerpt. Topic support, not independent clinical validation."
+  },
+  {
+    "sourceId": "c-breast-position",
+    "url": "https://www.healthlinkbc.ca/living-well/parenting/parenting-babies-0-12-months/breastfeeding/common-breastfeeding-positions",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Supported feeding positions, including comfort after caesarean birth."
+    ],
+    "notes": "Retrieved on 2026-10-01 (turn165search3); search-result excerpt. Topic support, not independent clinical validation."
+  },
+  {
+    "sourceId": "c-teachback",
+    "url": "https://www.ahrq.gov/patient-safety/reports/engage/teachback.html",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Checking usable understanding and simplifying explanations when teach-back reveals a gap."
+    ],
+    "notes": "Retrieved on 2026-10-01 (turn165search1); search-result excerpt. Topic support, not independent clinical validation."
+  },
+  {
+    "sourceId": "c-diabetic-foot",
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/foot-problems",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Sensory loss, early injury recognition and foot care in diabetes."
+    ],
+    "notes": "Retrieved on2026-10-01 (turn175search0); topic support, not clinical validation."
+  },
+  {
+    "sourceId": "c-cast-care",
+    "url": "https://www.ortho.wustl.edu/content/Education/5786/Patient-Education/Educational-Materials/Cast-and-Splint-Care.aspx",
+    "accessed": true,
+    "accessMode": "search-result excerpt",
+    "supportedTopics": [
+      "Itching, skin protection and avoiding inserted objects beneath a cast."
+    ],
+    "notes": "Retrieved on2026-10-01 (turn175search20); topic support, not clinical validation."
+  },
+  {
+    "sourceId": "c-pregnancy-vomiting",
+    "url": "https://www.nhs.uk/pregnancy/common-symptoms/vomiting-and-morning-sickness/",
+    "accessed": true,
+    "accessMode": "opened page",
+    "supportedTopics": [
+      "Vomiting in pregnancy, reduced urine and standing faintness as dehydration warning signs."
+    ],
+    "notes": "Directly retrieved on2026-10-01 during final reviewer source recheck; topic support, not clinical validation."
+  },
+  {
+    "sourceId": "c-postpartum-bladder",
+    "url": "https://openstax.org/books/maternal-newborn-nursing/pages/20-1-physiologic-changes-during-the-postpartum-period",
+    "accessed": true,
+    "accessMode": "opened page and focused passage",
+    "supportedTopics": [
+      "Relationship of bladder distension to fundal elevation, lateral displacement and impaired uterine contraction; bladder management and reassessment."
+    ],
+    "notes": "Directly retrieved on 2026-10-01 (turn220view0; focused passage turn221view0). Source supports the clinical principle; original scenario and alternatives were independently authored. Topic support, not clinician validation."
+  },
+  {
+    "sourceId": "c-postpartum-retention",
+    "url": "https://www.cuh.nhs.uk/patient-information/urinary-retention-following-childbirth/",
+    "accessed": true,
+    "accessMode": "opened page and focused passage",
+    "supportedTopics": [
+      "Recognition of postpartum incomplete bladder emptying from small voids and assessment of retention; individualized voiding and catheter care."
+    ],
+    "notes": "Directly retrieved on 2026-10-01 (turn220view1; focused passage turn221view1). Source supports the clinical principle; original scenario and alternatives were independently authored. Topic support, not clinician validation."
+  }
+]

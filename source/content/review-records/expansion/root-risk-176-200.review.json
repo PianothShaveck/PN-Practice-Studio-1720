@@ -1,0 +1,317 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewerTask": "/root",
+  "reviewedAt": "2026-10-01T17:34:51.509517+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/risk-176-200.json",
+  "coverage": {
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-risk-176",
+      "x-risk-177",
+      "x-risk-178",
+      "x-risk-179",
+      "x-risk-180",
+      "x-risk-181",
+      "x-risk-182",
+      "x-risk-183",
+      "x-risk-184",
+      "x-risk-185",
+      "x-risk-186",
+      "x-risk-187",
+      "x-risk-188",
+      "x-risk-189",
+      "x-risk-190",
+      "x-risk-191",
+      "x-risk-192",
+      "x-risk-193",
+      "x-risk-194",
+      "x-risk-195",
+      "x-risk-196",
+      "x-risk-197",
+      "x-risk-198",
+      "x-risk-199",
+      "x-risk-200"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Read every stem, option, key, rationale, exhibit and takeaway; independently checked the measured fluid calculation and assessed plausible alternatives, clinical purpose and response-evaluation logic. Revisions require rereading.",
+  "limitations": [
+    "AI editorial/reasoning screen, not qualified clinical or psychometric validation.",
+    "This slice was not individually verified against external clinical sources; source mappings require a separate honest audit."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-risk-176",
+      "status": "revise",
+      "assessment": "Recorded target is administrative filler.",
+      "issues": [
+        "Recorded target is administrative filler."
+      ],
+      "proposedChanges": [
+        "Replace option3 with a clinically credible respiratory observation that can be mistaken for improvement, such as quieter breathing after sedating analgesia with persisting shallow excursions. Preserve two clearly supported improvements; do not make an achieved inspiratory target a false negative without context."
+      ],
+      "reviewedItemSha256": "7ef6017963155da3f89bb257d7022d647037eef9ff36485cde8b0f045ba88c31"
+    },
+    {
+      "id": "x-risk-177",
+      "status": "revise",
+      "assessment": "Absolute established/failed/stop claims make all competing interpretations implausible.",
+      "issues": [
+        "Absolute established/failed/stop claims make all competing interpretations implausible."
+      ],
+      "proposedChanges": [
+        "Retain the convergent exhibit. Use parallel interpretations that distinguish early perfusion recovery from full recovery, renal-specific recovery, and an intake-output misconception. Avoid claiming that normalization proves complete correction or output must equal intake. Key should recognize early improvement with continued prescribed reassessment."
+      ],
+      "reviewedItemSha256": "c50de6cc14ade50af6deaf64d70eee550cde167d14b4a3b7eb036e58bdad65a2"
+    },
+    {
+      "id": "x-risk-178",
+      "status": "revise",
+      "assessment": "Three negatives repeat the saturation-equals-ventilation fallacy, with only/proves giveaway words.",
+      "issues": [
+        "Three negatives repeat the saturation-equals-ventilation fallacy, with only/proves giveaway words."
+      ],
+      "proposedChanges": [
+        "Use distinct plausible clinical interpretations: impaired ventilation despite oxygenation, a primary metabolic disorder, fully compensated chronic CO2 retention, or an oxygenation problem. If testing acid-base classification add bicarbonate and appropriate ranges; otherwise limit interpretation to ventilatory insufficiency and avoid classifying compensation from incomplete data. Explain each alternative separately."
+      ],
+      "reviewedItemSha256": "ecf16559dbca6c3ce6eb498572a0c4a4cc755a3d0a6cb881f445a74d90fd1251"
+    },
+    {
+      "id": "x-risk-179",
+      "status": "pass",
+      "assessment": "Objective residual reduction plus relief directly measures emptying; frequency, pad use and documentation are relevant but weaker proxies.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "cfca151937183d1bd87b851858203e35a111721bb2416a04bccc5d1c62c79e49"
+    },
+    {
+      "id": "x-risk-180",
+      "status": "pass",
+      "assessment": "Resumed drainage/reduced accumulation and sustained prescribed suction support function; equipment change and ongoing accumulation do not. Suction alone is supporting evidence, not proof of patency.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "0984a0b495b6e06ac8bb71ce48d41e0f41ecbc115ed9bd57c25481947b2a3d74"
+    },
+    {
+      "id": "x-risk-181",
+      "status": "revise",
+      "assessment": "A request about activity restrictions is irrelevant beside deterioration.",
+      "issues": [
+        "A request about activity restrictions is irrelevant beside deterioration."
+      ],
+      "proposedChanges": [
+        "Specify the biopsy site and replace the teaching question with a credible postprocedure finding. For example renal biopsy with improving soreness, unchanged tiny dressing stain, clearing urine versus progressive tachycardia/hypotension/pain. Include enough trend to distinguish concealed bleeding risk without diagnosing it as certain."
+      ],
+      "reviewedItemSha256": "09795947c184fcc5b58ee3eb921ebd60f3b60578cdb01ecd54d1abbb97fa9b2c"
+    },
+    {
+      "id": "x-risk-182",
+      "status": "revise",
+      "assessment": "Only absence of nausea is an explicit cue.",
+      "issues": [
+        "Only absence of nausea is an explicit cue."
+      ],
+      "proposedChanges": [
+        "Make four parallel decisions tied to plausible feeding-tolerance criteria. Remove only, retain falling phosphate and weakness as reason to seek review before advancement, and explain why weight gain, gastrointestinal tolerance and unmet calorie targets do not outweigh this metabolic change."
+      ],
+      "reviewedItemSha256": "b6b01b9f530ebea7b820457efe93faf2b862952ffd119ade9d88b82b9aa22ec4"
+    },
+    {
+      "id": "x-risk-183",
+      "status": "pass",
+      "assessment": "Wound dimensions and granulation directly measure repair; care frequency, analgesic response and sealed drainage do not establish healing.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "20160406cbcddc640f8f86008e070e6a6c24540b571ebef65941b0e5f3988d3d"
+    },
+    {
+      "id": "x-risk-184",
+      "status": "revise",
+      "assessment": "No questions overnight is an ambiguous family-report proxy.",
+      "issues": [
+        "No questions overnight is an ambiguous family-report proxy."
+      ],
+      "proposedChanges": [
+        "Replace option3 with reduced spontaneous movement/time out of bed, which can be mistaken for recovery but may reflect hypoactivity. Explain that calmer behaviour alone does not show restored attention; preserve repeated attention/organized thinking as the positive outcomes."
+      ],
+      "reviewedItemSha256": "c791ac839e4532f3563daa2de01c8eaf1a386c5b26f6ac4f4f24c9cd8098967e"
+    },
+    {
+      "id": "x-risk-185",
+      "status": "revise",
+      "assessment": "Ignore laboratory, independently prescribe and laboratory proves worsening are caricatures.",
+      "issues": [
+        "Ignore laboratory, independently prescribe and laboratory proves worsening are caricatures."
+      ],
+      "proposedChanges": [
+        "Use parallel realistic plans or interpretations: continue unchanged pending the planned end because symptoms improved; send susceptibility and clinical response for treatment review; obtain a repeat culture before contacting the team; use symptom improvement as evidence of microbiological clearance. Avoid implying resistance alone authorizes a nurse to change medication."
+      ],
+      "reviewedItemSha256": "27f1e67d945872842ca640e614d18fd13829b7cda7e53f31b33344cf65e03dc4"
+    },
+    {
+      "id": "x-risk-186",
+      "status": "revise",
+      "assessment": "The options mix interpretation with actions; normal pulse irrelevant and repeat symptoms after discharge are weak.",
+      "issues": [
+        "The options mix interpretation with actions; normal pulse irrelevant and repeat symptoms after discharge are weak."
+      ],
+      "proposedChanges": [
+        "Supply a clinical context, then four parallel interpretations of the positive D-dimer. Key: requires integration with assessment/imaging, does not confirm PE. Distractors can confuse sensitivity/specificity, elevated postoperative values, or a reassuring single vital sign; no diagnostic algorithm without its required data."
+      ],
+      "reviewedItemSha256": "2d838005be99fb015e90a462077a0b942de9a804a30994a6acdda2db3933d014"
+    },
+    {
+      "id": "x-risk-187",
+      "status": "pass",
+      "assessment": "New fever/chills with neutropenia requires urgent infection assessment; stable pallor, resolving bruise and unchanged appetite represent other plausible treatment effects.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b756f63c8bd1431921e0eb2d0616ae2491b7dd7ed351166b81f5f0072a14d93a"
+    },
+    {
+      "id": "x-risk-188",
+      "status": "revise",
+      "assessment": "Despite frequent nicks and persistent nosebleeds routine explicitly advertise unsafe actions.",
+      "issues": [
+        "Despite frequent nicks and persistent nosebleeds routine explicitly advertise unsafe actions."
+      ],
+      "proposedChanges": [
+        "Use realistic demonstrated actions or statements without the giveaway qualifiers: routine close blade shaving or use of a nonprescription drug that can increase bleeding, compared with gentle oral care and checking medicines. Ensure no overlapping option makes the OTC check simultaneously correct and incorrect; explain the specific risk."
+      ],
+      "reviewedItemSha256": "868a48437ce45f89ed1a18f1e72e9a02d89cdf5e8c7c5616e771167187b9d0f5"
+    },
+    {
+      "id": "x-risk-189",
+      "status": "revise",
+      "assessment": "Proves/rules out every alternatives make the key automatic.",
+      "issues": [
+        "Proves/rules out every alternatives make the key automatic."
+      ],
+      "proposedChanges": [
+        "Keep the creatinine/output exhibit. Make interpretations parallel and credible: renal function back to baseline; improving filtration but persistent abnormality; output response is enough to stop biochemical monitoring; interpretation of creatinine change without baseline. The key must integrate the documented baseline and improving trajectory, avoiding redundant alternatives."
+      ],
+      "reviewedItemSha256": "11402e360f87c748a1002ce251eac5167c4d1c45173a22e8ebd3da81aad36cbd"
+    },
+    {
+      "id": "x-risk-190",
+      "status": "pass",
+      "assessment": "Expelled secretions with improved breath sounds directly indicates clearance; session count, effort and verbal knowledge are plausible process measures.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "58748850c10dd894f7402e97f3a1f80726a5913b26caf0c7b18b454508a0c3e8"
+    },
+    {
+      "id": "x-risk-191",
+      "status": "pass",
+      "assessment": "The keyed findings combine venous benefit and skin/neurovascular safety; cooler toes or a constricting roll are adverse findings despite reduced swelling.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "451e08a815eb5a249a5235a1b86544c17947df3932be7e8df4d5d0cc49315d84"
+    },
+    {
+      "id": "x-risk-192",
+      "status": "revise",
+      "assessment": "96 minus82 alone is trivial, explicitly contrary to the requested useful clinical reasoning.",
+      "issues": [
+        "96 minus82 alone is trivial, explicitly contrary to the requested useful clinical reasoning."
+      ],
+      "proposedChanges": [
+        "Retain simultaneous pulse counts but add a meaningful new irregular-pulse scenario. Ask the nurse to interpret the deficit and assess rhythm/perfusion or choose the next appropriate assessment, with plausible alternatives about counting method, symptom correlation and treating one pulse as reliable alone. Do not merely replace the numbers. Supply all data needed and verify the altered key."
+      ],
+      "reviewedItemSha256": "167f3f2eebdde41b67030e228222f989baf32535248be22e6c2454bb033dedda"
+    },
+    {
+      "id": "x-risk-193",
+      "status": "pass",
+      "assessment": "The 1300mL measured intake minus1100mL measured output is+200mL. Alternatives correspond to omission of emesis, reversed subtraction and intake alone; multi-route arithmetic has a clear clinical documentation purpose.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9a8b2c503316bc109cc1fea3043e7b2ee47747a3989ba81963bba6d8e61e8c44"
+    },
+    {
+      "id": "x-risk-194",
+      "status": "revise",
+      "assessment": "Deleting the fever report is absurd; normal temperature excludes infection repeats the same easy cue.",
+      "issues": [
+        "Deleting the fever report is absurd; normal temperature excludes infection repeats the same easy cue."
+      ],
+      "proposedChanges": [
+        "Differentiate from risk172 by evaluating response after antipyretic in a specified immunosuppressed client. Use four plausible next assessment plans or interpretations of ongoing rigors/weakness. Replace record deletion with a relevant monitoring or escalation strategy, and explain why symptomatic temperature reduction does not establish resolution."
+      ],
+      "reviewedItemSha256": "ddb13b92bc81ff3b124ed46e423b5efb81ff8c7bd178f91d554104cf20e1f96e"
+    },
+    {
+      "id": "x-risk-195",
+      "status": "revise",
+      "assessment": "Supplier contact knowledge is administrative filler beside clinical deterioration.",
+      "issues": [
+        "Supplier contact knowledge is administrative filler beside clinical deterioration."
+      ],
+      "proposedChanges": [
+        "Replace option0 with a clinically relevant but stable finding, such as using more portable cylinders because the client spends longer away from home while prescribed settings and exertional tolerance remain unchanged. Preserve changed activity tolerance and perceived need for increased settings as reassessment triggers; no self-titration instruction."
+      ],
+      "reviewedItemSha256": "59662d3c772d9d43fefaa6825163eccd9a78c9fff57ee0853d5f798fc4aa7ef6"
+    },
+    {
+      "id": "x-risk-196",
+      "status": "revise",
+      "assessment": "Any void/scan irrelevant/stop automatically are obvious false absolutes.",
+      "issues": [
+        "Any void/scan irrelevant/stop automatically are obvious false absolutes."
+      ],
+      "proposedChanges": [
+        "Provide measured void, immediate postvoid residual and an explicit individualized escalation threshold/plan. Ask the next nursing action among realistic alternatives such as observe for another void, repeat at a routine interval, assess scan reliability if indicated, or follow the persistent-retention plan. Avoid repeating risk179 outcome-only wording."
+      ],
+      "reviewedItemSha256": "ea946336fc7cfdd219f6a29e237fc2251b43142370090dbf46198027219065fe"
+    },
+    {
+      "id": "x-risk-197",
+      "status": "revise",
+      "assessment": "Two Only alternatives and a bare appetite label make the full-data key conspicuous.",
+      "issues": [
+        "Two Only alternatives and a bare appetite label make the full-data key conspicuous."
+      ],
+      "proposedChanges": [
+        "Use four similar-length plausible longitudinal datasets, varying objective intake, comparable weights, oedema/fluid confounding and eating barriers. Ask which best supports evaluating the nutritional trajectory. No only qualifiers or uniquely exhaustive key."
+      ],
+      "reviewedItemSha256": "ade0bc6b64b8216e03f3e69595d1e0d842997d719e3667bf7738dc05d18173e2"
+    },
+    {
+      "id": "x-risk-198",
+      "status": "revise",
+      "assessment": "Hidden by tape and device slipping off are implausible competitors.",
+      "issues": [
+        "Hidden by tape and device slipping off are implausible competitors."
+      ],
+      "proposedChanges": [
+        "Use four parallel clinical outcome sets combining skin tenderness/erythema and oxygen delivery within the individualized target. Include competing partial improvements with persistent pressure pain or inadequate oxygenation. Key must demonstrate both tissue improvement and continued effective prescribed therapy."
+      ],
+      "reviewedItemSha256": "590bedd6350fba7f4f74c45f2c0238ca7a26a31a31f40aa0af0be67dcaf1912c"
+    },
+    {
+      "id": "x-risk-199",
+      "status": "revise",
+      "assessment": "Family decides, complete after memorizing, repeat full anatomy are weak distractors.",
+      "issues": [
+        "Family decides, complete after memorizing, repeat full anatomy are weak distractors."
+      ],
+      "proposedChanges": [
+        "Ask the next teaching action. Compete rehearsing the accessible after-hours contact route with repeating the warning signs, arranging earlier routine follow-up and providing another written leaflet. Use teach-back of an actual contact scenario to address the identified application gap."
+      ],
+      "reviewedItemSha256": "7957aea038d410f2e7793ccec6b6a50cb07856cc9bcf85010604fc2fa0136e62"
+    },
+    {
+      "id": "x-risk-200",
+      "status": "revise",
+      "assessment": "Generic improve but below baseline plus stop/sole/least burdensome choices does not test a concrete clinical decision.",
+      "issues": [
+        "Generic improve but below baseline plus stop/sole/least burdensome choices does not test a concrete clinical decision."
+      ],
+      "proposedChanges": [
+        "Replace with a distinct case requiring evaluation of a response using a remaining risk or explicit functional goal. Include concrete observations and four plausible follow-up strategies. Avoid another generic improving-volume/creatinine case already covered177/189, and avoid using administrative timing as the obvious wrong answer."
+      ],
+      "reviewedItemSha256": "ea2805158c03a32bf2a50837bac876eee141c5959e00c3ac24ad724d9e1070cf"
+    }
+  ]
+}

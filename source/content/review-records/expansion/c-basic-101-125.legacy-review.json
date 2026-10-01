@@ -1,0 +1,508 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:04:36.451864+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/basic-101-125.json",
+  "sourceSha256": "58dc2d41fac1ce23e81e07e012a1cc4d17d5a2570a0827001fa6ede4ebaee122",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-basic-101",
+      "x-basic-102",
+      "x-basic-103",
+      "x-basic-104",
+      "x-basic-105",
+      "x-basic-106",
+      "x-basic-107",
+      "x-basic-108",
+      "x-basic-109",
+      "x-basic-110",
+      "x-basic-111",
+      "x-basic-112",
+      "x-basic-113",
+      "x-basic-114",
+      "x-basic-115",
+      "x-basic-116",
+      "x-basic-117",
+      "x-basic-118",
+      "x-basic-119",
+      "x-basic-120",
+      "x-basic-121",
+      "x-basic-122",
+      "x-basic-123",
+      "x-basic-124",
+      "x-basic-125"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.bccnm.ca/LPN/PracticeStandards/Pages/consent.aspx",
+      "checked": true,
+      "ids": [
+        "x-basic-111",
+        "x-basic-121",
+        "x-basic-125"
+      ],
+      "note": "Current consent/autonomy standard opened earlier; supports collaborative preferences, not specific pain/terminal-care protocol."
+    },
+    {
+      "url": "https://www.diabetes.ca/getContentAsset/33d37ad7-82dd-4c56-a8ee-48cd7051589a/0f6cf596-933c-4f74-b36a-77091c512445/foot-care.pdf?disposition=inline&language=en",
+      "checked": true,
+      "ids": [
+        "x-basic-108"
+      ],
+      "note": "Reduced-sensation heat avoidance supported by retrieved Diabetes Canada foot-care guidance."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-basic-101",
+      "status": "revise",
+      "assessment": "Behavioural assessment with collateral history is correct, but no-pain-without-rating and family-picked-number distractors are caricatures.",
+      "issues": [
+        "Behavioural assessment with collateral history is correct, but no-pain-without-rating and family-picked-number distractors are caricatures."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Use the client’s previous numerical score as the current score during turning",
+            "Use heart rate as the sole pain measure",
+            "Use the family’s description of usual comfort without observing the client during care",
+            "Use an appropriate behavioural tool and collateral history"
+          ],
+          "why": [
+            "The new behaviour needs current assessment rather than copying a previous score.",
+            "Physiological changes are nonspecific and may be absent.",
+            "Collateral history helps but should be combined with current structured observation.",
+            "Observed behaviours and known baseline can indicate pain when speech is limited."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "86e32d261f01319695188fed7a47a8cac12e3a6ae7d1c8b91ff87eb3e44bcf1b"
+    },
+    {
+      "id": "x-basic-102",
+      "status": "pass",
+      "assessment": "An alert person who can point can still self-report. Visual scale is a meaningful alternative to behavioural-only or proxy assessment; the key is appropriately first-line.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ad4302dfe5c081ab552934e2dd97f666b3a170b47be5790fa9fc89712a5e00ec"
+    },
+    {
+      "id": "x-basic-103",
+      "status": "pass",
+      "assessment": "New site and burning quality need a separate assessment; the prior knee diagnosis cannot explain them. Key does not prematurely diagnose neuropathy.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "378e485e95001fd9529397ed5cbdb8849ad394304f4e429a8143908ff6ce3856"
+    },
+    {
+      "id": "x-basic-104",
+      "status": "pass",
+      "assessment": "The selected goal directly reflects the client’s chosen function and acceptable symptoms. Medication-taking and zero-pain goals are plausible but less patient-centred outcome measures.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1880b2814eb458e0b096195baef2e7f61b74575cd7dfb07da616f3456b0866be"
+    },
+    {
+      "id": "x-basic-105",
+      "status": "revise",
+      "assessment": "Correct graded shared plan, but never-hurts and coercion make answer obvious by tone.",
+      "issues": [
+        "Correct graded shared plan, but never-hurts and coercion make answer obvious by tone."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Describe the usual benefits of exercise without asking what pain the client anticipates",
+            "Ask the client to complete the full planned session before deciding whether the fear was justified",
+            "Cancel all exercise until pain completely disappears",
+            "Explore the fear and plan a paced trial"
+          ],
+          "why": [
+            "General reassurance does not assess this client’s specific barrier.",
+            "An agreed paced trial is safer and more acceptable than using full-session completion as a prerequisite for discussion.",
+            "Avoidance may worsen deconditioning without resolving fear.",
+            "Collaboration addresses anticipation while respecting movement limits."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "f954e36385c6f3db236c7817edf6426db903bd0f43e127b7ab7f8c3d29316dbc"
+    },
+    {
+      "id": "x-basic-106",
+      "status": "pass",
+      "assessment": "Timing, triggers, associated symptoms and treatment response provide useful diary data; selectively recording one worst episode or an isolated score omits relevant pattern information.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "06f662d4565e69bfb86a63ab2361cd8613c7cdaa5b4a6c53f0a2a63e03624cf6"
+    },
+    {
+      "id": "x-basic-107",
+      "status": "pass",
+      "assessment": "Burning during prescribed cold therapy warrants removal and inspection before continuing or changing layers. A prescribed duration does not override a new tissue-warning symptom.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2b5c2d25aad0d68c5560726c2145506b97688671ea92de9813258f531e1e13ee"
+    },
+    {
+      "id": "x-basic-108",
+      "status": "revise",
+      "assessment": "Correct avoidance of heat injury, but high setting and thick blanket are weak compared with common supposedly safe workarounds.",
+      "issues": [
+        "Correct avoidance of heat injury, but high setting and thick blanket are weak compared with common supposedly safe workarounds."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Assess sensation and choose a safer comfort plan",
+            "Use the lowest setting for the usual prescribed interval without checking sensation",
+            "Ask the client to remove it when too hot",
+            "Place a towel over the heating pad and rely on the client to report discomfort"
+          ],
+          "why": [
+            "Reduced sensation can prevent recognition of heat injury.",
+            "A low setting does not remove burn risk when protective sensation is impaired.",
+            "The client may not reliably feel excessive heat.",
+            "A barrier does not make impaired sensation a reliable way to regulate exposure."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "93ee84b1516ab50db3c0d5c82ea2f5e3f5061b8a968264899f1569deab17d00e"
+    },
+    {
+      "id": "x-basic-109",
+      "status": "revise",
+      "assessment": "The preferred adjunct is appropriate; replacing all treatment and disregarding preference are implausible.",
+      "issues": [
+        "The preferred adjunct is appropriate; replacing all treatment and disregarding preference are implausible."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Continue imagery because it is commonly recommended",
+            "Schedule the music only after the client has attempted guided imagery",
+            "Choose a standard relaxation recording without asking which music the client finds comfortable",
+            "Offer preferred music as an adjunct"
+          ],
+          "why": [
+            "A disliked intervention may increase frustration rather than comfort.",
+            "Requiring a disliked strategy first ignores a feasible preferred adjunct.",
+            "The client’s preference should guide an acceptable intervention.",
+            "A chosen acceptable strategy is more likely to support relaxation."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "84a1474eb85db1d45ded818df31ab70533d0b4f043ea38ec1be0a81e8f4ab896"
+    },
+    {
+      "id": "x-basic-110",
+      "status": "pass",
+      "assessment": "Predictable procedural timing is important for anticipatory relief; daily totals or selected low scores can hide under-treated activity pain. No unsupported drug timing or dosing is imposed.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "856104d0becc998e4b139a9af2626f844e4ef3ca91aff3b2fac8ffce36a90107"
+    },
+    {
+      "id": "x-basic-111",
+      "status": "pass",
+      "assessment": "Nonverbal stiffening during touch warrants stopping and clarifying preference; lighter pressure alone does not resolve possible withdrawal of consent.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "71d99151402e64bab09169fdde38908f135cda380a1837ee8526b0651c66622a"
+    },
+    {
+      "id": "x-basic-112",
+      "status": "revise",
+      "assessment": "Targeting food odours is correct, but omitting oral care and pressuring intake are weak unrelated alternatives.",
+      "issues": [
+        "Targeting food odours is correct, but omitting oral care and pressuring intake are weak unrelated alternatives."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Offer tolerated low-odour foods in a ventilated setting",
+            "Provide larger hot meals less often",
+            "Serve the usual hot meal covered, then uncover it fully at the bedside",
+            "Use a strongly scented room freshener before delivering meals"
+          ],
+          "why": [
+            "This reduces the identified stimulus while supporting intake.",
+            "Hot food odours and large portions may worsen symptoms.",
+            "Uncovering a hot meal may still expose the client to the identified odour trigger.",
+            "Another strong odour may worsen nausea instead of reducing the trigger."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "ff0c02c6c1762413333d71f3c2aa5f2241c2621285635870b1ba4603d0318f89"
+    },
+    {
+      "id": "x-basic-113",
+      "status": "pass",
+      "assessment": "For a weak actively vomiting client unable to turn, safe side/upright assistance protects the airway ahead of measuring emesis or detailed history. The exact position is appropriately individualized.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9a03b89c27a9d70744253bd08813ea2145acd41e5a71b27ff0438c39fff513c0"
+    },
+    {
+      "id": "x-basic-114",
+      "status": "revise",
+      "assessment": "Two obvious staff-centred negatives create a weak SATA. Use narrow but plausible incomplete assessments.",
+      "issues": [
+        "Two obvious staff-centred negatives create a weak SATA. Use narrow but plausible incomplete assessments."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Assess only sleepiness after medication, without checking physical needs",
+            "Assess only whether the same behaviour occurred yesterday, without examining the client now",
+            "Toileting need and abdominal fullness",
+            "Skin pressure and positioning"
+          ],
+          "why": [
+            "Medication effects may matter, but a restricted assessment can miss toileting or pressure discomfort.",
+            "Prior behaviour does not exclude a new treatable source of discomfort.",
+            "Elimination discomfort can present as restlessness.",
+            "Mechanical discomfort may drive repeated shifting."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "969e3b7081ff90983ee40b4885b814fcff1834296f570ddb639d86d4fdfbd14e"
+    },
+    {
+      "id": "x-basic-115",
+      "status": "revise",
+      "assessment": "The strongest-available-sedative and tolerate-less-sleep options are caricatures.",
+      "issues": [
+        "The strongest-available-sedative and tolerate-less-sleep options are caricatures."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "A fixed early bedtime for every client",
+            "Usual routine and daytime sleep pattern",
+            "Ask for a sleep medicine before reviewing the long afternoon naps",
+            "Schedule an earlier bedtime without asking about the client’s usual routine"
+          ],
+          "why": [
+            "A generic schedule may conflict with established habits.",
+            "The pattern may explain reduced night-time sleep drive.",
+            "Assess the sleep-wake pattern and modifiable contributors before medication selection.",
+            "A generic earlier bedtime may not address reduced sleep drive after lengthy naps."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "828929744d7437b89d98c285d8782f26e686b7a4dcc09580f85ad417fbad0e18"
+    },
+    {
+      "id": "x-basic-116",
+      "status": "revise",
+      "assessment": "Escalation is appropriate, but earplugs-only and afternoon naps are unrelated to new nocturnal breathlessness.",
+      "issues": [
+        "Escalation is appropriate, but earplugs-only and afternoon naps are unrelated to new nocturnal breathlessness."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Assess the respiratory change and escalate",
+            "Offer a sleep aid as the first response",
+            "Add more pillows and document improved comfort without assessing the change",
+            "Record the awakenings as insomnia and discuss sleep hygiene at the next routine visit"
+          ],
+          "why": [
+            "Sleep interruption may reflect worsening cardiopulmonary status.",
+            "Sedation does not address the possible physiological cause.",
+            "Positioning may relieve symptoms but should not replace assessment of a new cardiopulmonary change.",
+            "Breathing-related awakenings need physiological assessment, not an insomnia label alone."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "12fdc537f16790e34ca387fdfeec1d8ca88342907ec619376e5221638b36475c"
+    },
+    {
+      "id": "x-basic-117",
+      "status": "revise",
+      "assessment": "Large meal and daytime bed rest have little relation to the observed acoustic cause.",
+      "issues": [
+        "Large meal and daytime bed rest have little relation to the observed acoustic cause."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Move the bedtime two hours earlier",
+            "Offer earplugs without discussing whether the client can hear needed alarms or communication",
+            "Cluster all care but leave avoidable hallway conversation unchanged",
+            "Reduce nearby noise and offer acceptable sound protection"
+          ],
+          "why": [
+            "Earlier sleep does not remove hallway noise.",
+            "Sound protection should be acceptable and safe for the individual setting.",
+            "Clustering may help other interruptions but does not address the main identified disturbance.",
+            "This directly addresses the identified disturbance."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "91b54bca49446f849a7a04b67263adbe9544c0c4454e1c036f53e5b8ca409a58"
+    },
+    {
+      "id": "x-basic-118",
+      "status": "pass",
+      "assessment": "Compatible clustering and moving suitable tasks earlier preserve sleep while maintaining required monitoring. Negatives reflect common uncoordinated scheduling and unauthorized omission.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "11c8407ed578d828be605bfa63bb3dd53be1c47a025e4beecdb748659fba6b8e"
+    },
+    {
+      "id": "x-basic-119",
+      "status": "pass",
+      "assessment": "Moving stimulant intake earlier and evaluating response is a specific reasonable trial. Caffeinated substitution and compensatory naps do not remove the likely trigger.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "561e5a5bfa28b6bf6028be4b6124efd566d1ee3490d24f009957891b6e6b1c10"
+    },
+    {
+      "id": "x-basic-120",
+      "status": "pass",
+      "assessment": "Painful CPAP marks require fit/interface assessment; tighter straps or unapproved padding can worsen pressure/leak. Acceptance of withdrawal remains subject to informed refusal, but discussing alternatives is appropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fd0ae96ec36d81f8a71133621713d84902de47e599aabca3b68d4262697468c7"
+    },
+    {
+      "id": "x-basic-121",
+      "status": "revise",
+      "assessment": "Comfort-focused positioning is appropriate; stopping all assessment and analgesia solely to enforce routine are too blatant.",
+      "issues": [
+        "Comfort-focused positioning is appropriate; stopping all assessment and analgesia solely to enforce routine are too blatant."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Continue large turns on a rigid schedule",
+            "Use a pressure-redistributing mattress and omit assessment of the discomfort during positioning",
+            "Repeat the same large turn after an analgesic without asking whether the client prefers smaller shifts",
+            "Agree on tolerated small changes and reassess"
+          ],
+          "why": [
+            "A fixed routine may impose disproportionate distress.",
+            "A mattress does not replace attention to comfort and skin response.",
+            "Analgesia may help, but the agreed plan should reflect tolerance and goals, not assume the original movement must continue.",
+            "Comfort goals and tissue tolerance should guide individual positioning."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "1762dc09369ed9d3ba9ef9e2af425345a453237a58a176996cba9823682388c7"
+    },
+    {
+      "id": "x-basic-122",
+      "status": "revise",
+      "assessment": "The core explanation is humane and safe, but refusing discussion and compulsory portions are caricatures.",
+      "issues": [
+        "The core explanation is humane and safe, but refusing discussion and compulsory portions are caricatures."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Present artificial feeding as the expected next step before discussing the client’s wishes",
+            "Set a calorie target for the family to meet before exploring the client’s comfort",
+            "Offer desired intake as tolerated and discuss comfort goals",
+            "Describe reduced intake only as a nutritional deficit that must be corrected"
+          ],
+          "why": [
+            "The benefits, burdens and goals need individual discussion; escalation is not automatic.",
+            "An imposed target may increase distress and ignores the dying person’s preferences.",
+            "Reduced intake may accompany dying; comfort guides support.",
+            "Reduced intake during dying should be discussed in the context of comfort, wishes and the whole clinical situation."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "0509b400aa564284d62fc51e1936fd90580bda9247f04dd91c3deb013661f823"
+    },
+    {
+      "id": "x-basic-123",
+      "status": "revise",
+      "assessment": "Supported forward sitting is appropriate, but lying flat and removing support to strengthen muscles are overtly wrong.",
+      "issues": [
+        "Supported forward sitting is appropriate, but lying flat and removing support to strengthen muscles are overtly wrong."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Focus only on the saturation number",
+            "Support the position and reassess comfort",
+            "Change to the unit’s standard upright posture despite the client preferring the supported forward position",
+            "Document relief but remove the arm support when the client rests"
+          ],
+          "why": [
+            "Subjective distress matters even when saturation is unchanged.",
+            "An individually helpful supported posture can reduce effort.",
+            "Standard posture should not override a safe individually relieving position without clinical reason.",
+            "The arm support is part of the helpful position and should not be removed without reassessing effect."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "4c7a054da604cb122ccbd15446c573afd14ca19bfd302e08405cff3e5edcacd2"
+    },
+    {
+      "id": "x-basic-124",
+      "status": "revise",
+      "assessment": "Assessing separate symptom benefit is useful; replacing all analgesia and accusing inconsistency are weak.",
+      "issues": [
+        "Assessing separate symptom benefit is useful; replacing all analgesia and accusing inconsistency are weak."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "The intervention improved one agreed symptom",
+            "The strategy failed because pain was unchanged",
+            "Reduce prescribed analgesia without reviewing the persistent pain",
+            "Record only the unchanged pain score because tension is not part of comfort assessment"
+          ],
+          "why": [
+            "A reduced tension response is a meaningful separate outcome.",
+            "Comfort includes more than pain intensity alone.",
+            "Reduced anxiety does not establish adequate analgesia or authorize a dose change.",
+            "The intervention targeted procedural anxiety, so tension is a relevant separate outcome."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "60739cd2756ec5f3464881f6634dac3f0a39190191850f5b02beac943b03680f"
+    },
+    {
+      "id": "x-basic-125",
+      "status": "revise",
+      "assessment": "Meaningful-activity pacing is sound, but cancelling the call for staff routines is an obvious ethical cue.",
+      "issues": [
+        "Meaningful-activity pacing is sound, but cancelling the call for staff routines is an obvious ethical cue."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Complete the full morning hygiene routine before the call because hygiene is normally scheduled first",
+            "Ask the family to reschedule the call without first discussing the client’s priorities",
+            "Combine bathing and the call so both are completed during the same energy period",
+            "Prioritize the meaningful activity with rest around it"
+          ],
+          "why": [
+            "A fixed task sequence may exhaust capacity for the client’s chosen activity.",
+            "Planning should begin with the client’s valued activity and available energy.",
+            "Simultaneous demands may undermine participation and comfort; individualized pacing is preferable.",
+            "Energy conservation should support the client's own priorities."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "b3a20283ad0755d80028110a747bb3c7cf2a2cd72c5ba9825306c5ba69f7d286"
+    }
+  ],
+  "sourceVerificationLimit": "Pain, sleep, CPAP and end-of-life claims were clinically reasoned but not individually externally checked in this batch; report is not clinical validation.",
+  "reviewerTask": "/root/review_legacy"
+}

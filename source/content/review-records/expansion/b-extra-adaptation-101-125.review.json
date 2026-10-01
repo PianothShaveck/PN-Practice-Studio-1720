@@ -1,0 +1,297 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:52:07.609410+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/b-extra-adaptation-101-125.json",
+  "sourceSha256": "e12a3a71e9dcb49b5a9f3ce1a46353e403a1d04392f7ed55a99ab5192d14f38b",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-adaptation-101",
+      "x-adaptation-102",
+      "x-adaptation-103",
+      "x-adaptation-104",
+      "x-adaptation-105",
+      "x-adaptation-106",
+      "x-adaptation-107",
+      "x-adaptation-108",
+      "x-adaptation-109",
+      "x-adaptation-110",
+      "x-adaptation-111",
+      "x-adaptation-112",
+      "x-adaptation-113",
+      "x-adaptation-114",
+      "x-adaptation-115",
+      "x-adaptation-116",
+      "x-adaptation-117",
+      "x-adaptation-118",
+      "x-adaptation-119",
+      "x-adaptation-120",
+      "x-adaptation-121",
+      "x-adaptation-122",
+      "x-adaptation-123",
+      "x-adaptation-124",
+      "x-adaptation-125"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-adaptation-101",
+      "status": "pass",
+      "assessment": "Hemodynamic instability takes priority over plausible diagnostic and preparation tasks; key and rationale are defensible.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "aa2dc3b1855933b4952fc85f6cdd41922029a01a17fbec3cd41eecea24c15ea3"
+    },
+    {
+      "id": "x-adaptation-102",
+      "status": "pass",
+      "assessment": "Constipation and new infectious findings are specific plausible precipitants, while chronic stable findings do not explain the change.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "28577e7a79bec705177a5e7e05d6811085ca4c2392e5193b8e980cac0b78ffc6"
+    },
+    {
+      "id": "x-adaptation-103",
+      "status": "revise",
+      "assessment": "The infection pattern is sound, but the girth alternative advertises an unjustified tomorrow delay.",
+      "issues": [
+        "The infection pattern is sound, but the girth alternative advertises an unjustified tomorrow delay."
+      ],
+      "proposedChanges": [
+        "Use a plain competing assessment such as measuring current girth and weight; explain its lower priority in the rationale."
+      ],
+      "reviewedItemSha256": "a988fbcbff7c1807a8adcbecf6d0cfc606f94066e4615dda7652adf7930a9e76"
+    },
+    {
+      "id": "x-adaptation-104",
+      "status": "revise",
+      "assessment": "Post-drainage circulatory deterioration is clear, but walking and eating are weak responses to marked hypotension and dizziness.",
+      "issues": [
+        "Post-drainage circulatory deterioration is clear, but walking and eating are weak responses to marked hypotension and dizziness."
+      ],
+      "proposedChanges": [
+        "Use credible competing assessments such as checking the puncture site, reviewing volume removed, or repeating a manual blood pressure; retain a concise immediate safety/support response."
+      ],
+      "reviewedItemSha256": "17367a7ae6da94bf0e4642afb14f551bd31835bfe0d83438f34479d45e28844c"
+    },
+    {
+      "id": "x-adaptation-105",
+      "status": "pass",
+      "assessment": "Reduced responsiveness with ongoing hematemesis makes airway protection the immediate priority even while crossmatch preparation is important.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7ff62544a96453d54b0c77708afe076338bdcfe53ddcc135e34de0f0a8b25b2f"
+    },
+    {
+      "id": "x-adaptation-106",
+      "status": "revise",
+      "assessment": "Early feeding premise is useful, but loud bowel sounds and forcing a full meal make alternatives conspicuously weak.",
+      "issues": [
+        "Early feeding premise is useful, but loud bowel sounds and forcing a full meal make alternatives conspicuously weak."
+      ],
+      "proposedChanges": [
+        "Compare the ordered feeding trial with waiting for enzyme normalization, starting with a clear-liquid trial, and choosing an initial meal portion based mainly on calorie targets; explain why current tolerance cues support the order."
+      ],
+      "reviewedItemSha256": "12181c98115c8338bda097a778895255ec6307fb19b2544bee0bbdb03a8073ac"
+    },
+    {
+      "id": "x-adaptation-107",
+      "status": "pass",
+      "assessment": "Respiratory and perfusion deterioration distinguish systemic complications from improving abdominal symptoms.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8becbf89532651e945ea502ac828958b34144051cdfa9a52b98834009bb6e812"
+    },
+    {
+      "id": "x-adaptation-108",
+      "status": "revise",
+      "assessment": "Meal-linked enzyme timing is useful; removing all fat and tracking stool colour are implausible substitutes that make the answer too easy.",
+      "issues": [
+        "Meal-linked enzyme timing is useful; removing all fat and tracking stool colour are implausible substitutes that make the answer too easy."
+      ],
+      "proposedChanges": [
+        "Use a lower-fat meal plan, an increased bedtime enzyme dose, and a food/stool-frequency diary as plausible competing responses. Explain why meal timing addresses the presented error."
+      ],
+      "reviewedItemSha256": "f4b159c9c23d1a32271f57f5028e8047a222a39307c97fb5f0963f0357ce0cc4"
+    },
+    {
+      "id": "x-adaptation-109",
+      "status": "pass",
+      "assessment": "Observed external compression supports correcting the mechanical problem before changing suction, tube position, or symptom treatment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "d1df46833a66835b254e9d6600cb07721509536fdd01e1ee025f1235bc2f21b2"
+    },
+    {
+      "id": "x-adaptation-110",
+      "status": "revise",
+      "assessment": "The bowel ischemia/perforation warning pattern is sound, but walking, oral fluid, and waiting until the next round are weak alternatives.",
+      "issues": [
+        "The bowel ischemia/perforation warning pattern is sound, but walking, oral fluid, and waiting until the next round are weak alternatives."
+      ],
+      "proposedChanges": [
+        "Consider parallel interpretations of the changed pain pattern, or credible competing assessments/ordered symptom treatment without delay clauses."
+      ],
+      "reviewedItemSha256": "f139e06cfccd01a1e45311400989ddb8a76e0d90838043dd52f3aa2704ec1825"
+    },
+    {
+      "id": "x-adaptation-111",
+      "status": "pass",
+      "assessment": "The change from usual diarrhea to vomiting, distension, and absent stool/flatus supports a possible obstructive complication; parallel interpretations are credible.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "fb8bacba006cb0dcf11a2cdb801ce0f0df0adbcae3cfed408d791bb1b788be57"
+    },
+    {
+      "id": "x-adaptation-112",
+      "status": "pass",
+      "assessment": "Fewer stools can coexist with worsening systemic and abdominal signs; the keyed combination addresses a meaningful deterioration trap.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e822809d4db6af7427f19a4eadde4da7f304f38db0235b793143b426758d90c9"
+    },
+    {
+      "id": "x-adaptation-113",
+      "status": "revise",
+      "assessment": "Dusky cool stoma supports urgent perfusion review, but wait/routine modifiers advertise the wrong choices.",
+      "issues": [
+        "Dusky cool stoma supports urgent perfusion review, but wait/routine modifiers advertise the wrong choices."
+      ],
+      "proposedChanges": [
+        "Present the competing actions directly: warm local compress, adjust the barrier opening, or record stoma appearance; keep rationale focused on the perfusion change rather than artificial delay."
+      ],
+      "reviewedItemSha256": "f37758f0f03792215cc69f7b1a0143d04ed6ef4d9ce044b1a1c2221aade2ac25"
+    },
+    {
+      "id": "x-adaptation-114",
+      "status": "pass",
+      "assessment": "Urine decline and orthostatic symptoms are relevant systemic evidence of high-output fluid loss; local healthy findings do not exclude dehydration.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c5b880b6ebb0e57084c42980688d6a8705b80661d51b93aa6284be98f05d8fc8"
+    },
+    {
+      "id": "x-adaptation-115",
+      "status": "revise",
+      "assessment": "The obstruction concern is defensible, but a bulky meal to push contents and irrigation with pouch-cleaning equipment are cartoon unsafe alternatives.",
+      "issues": [
+        "The obstruction concern is defensible, but a bulky meal to push contents and irrigation with pouch-cleaning equipment are cartoon unsafe alternatives."
+      ],
+      "proposedChanges": [
+        "Replace those choices with clinically credible responses a learner might prioritize, such as checking barrier fit or applying the existing hydration plan, and keep the urgent assessment keyed to the combined absent output, pain, distension, and nausea."
+      ],
+      "reviewedItemSha256": "13d293be7778872f17c49e2511976367b9e3491d749aaf91a3a67d454a764e04"
+    },
+    {
+      "id": "x-adaptation-116",
+      "status": "revise",
+      "assessment": "New dysphagia and weight loss are useful alarm features; month/year delays make alternatives easy to reject on wording.",
+      "issues": [
+        "New dysphagia and weight loss are useful alarm features; month/year delays make alternatives easy to reject on wording."
+      ],
+      "proposedChanges": [
+        "Remove the arbitrary delays and compare prompt review with the stated food-trigger, bite-size, and meal-timing strategies as plain actions."
+      ],
+      "reviewedItemSha256": "c620401e9cc366b6b6e513ce812fa9c479b00350a7423611c661e9d453274e59"
+    },
+    {
+      "id": "x-adaptation-117",
+      "status": "pass",
+      "assessment": "Inability to manage saliva with preserved breathing distinguishes urgent esophageal impaction from complete airway obstruction; the fluid/food attempts are recognizable misconceptions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "bde05ff876f2aa6d4d2056bb71a120ed43ba9144bc7dd0272c45f0aa37c84b57"
+    },
+    {
+      "id": "x-adaptation-118",
+      "status": "pass",
+      "assessment": "Timing after a sugary drink supports early dumping; the meal/fluids plan competes with plausible but counterproductive calorie or hypoglycemia responses.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "f82d6939fc8cbe4fe112490044b290149f9142b4c39dc92d85f7264e1e4e7eec"
+    },
+    {
+      "id": "x-adaptation-119",
+      "status": "pass",
+      "assessment": "The combined postoperative pain, fever, tachycardia, and drainage change supports escalation over plausible isolated symptom measures.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "db0beb066be185175a15878e8d3c59f39c3aee25e51a6761729495e57ed81614"
+    },
+    {
+      "id": "x-adaptation-120",
+      "status": "revise",
+      "assessment": "Persistent shock despite absent visible bleeding repeats the same objective as adaptation026/027 and the acute GI-bleed item101.",
+      "issues": [
+        "Persistent shock despite absent visible bleeding repeats the same objective as adaptation026/027 and the acute GI-bleed item101."
+      ],
+      "proposedChanges": [
+        "Replace with the proposed distinct late-dumping scenario, with explicit postprandial timing and glucose data, and a task that distinguishes late from early dumping or evaluates a prevention plan."
+      ],
+      "reviewedItemSha256": "605fd1ec18f730b3c6c91f639280ebe79f8801c73ec9c5ef315e30da3b7baaf6"
+    },
+    {
+      "id": "x-adaptation-121",
+      "status": "revise",
+      "assessment": "Biliary infection with shock is clinically compelling, but meal and warm-comfort options are weak against hypotension, fever, and jaundice.",
+      "issues": [
+        "Biliary infection with shock is clinically compelling, but meal and warm-comfort options are weak against hypotension, fever, and jaundice."
+      ],
+      "proposedChanges": [
+        "Use parallel clinical concerns or relevant competing assessment actions; distinguish complicated biliary infection from biliary colic, pancreatitis, and uncomplicated hepatitis without artificially delayed choices."
+      ],
+      "reviewedItemSha256": "6d2d9b191b3de791996cc708e44fd4557cd0ba61de9895b40ea1ea75c7d20693"
+    },
+    {
+      "id": "x-adaptation-122",
+      "status": "pass",
+      "assessment": "A sudden generalized rigid abdomen changes the priority from usual ulcer symptom treatment to urgent suspected perforation care.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8e16ee490d8f82a98e322ccedb33aac8d5fd5695a3f0e5d5c190a65bf161ea8f"
+    },
+    {
+      "id": "x-adaptation-123",
+      "status": "pass",
+      "assessment": "Tachycardia and new pain/restlessness after bariatric surgery warrant assessment despite no fever; gas pain and analgesia responses represent plausible anchoring errors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "dcb9dc4870087db0beca5ed74e430de680616fc8c975fccd1d539fb3a3cdac85"
+    },
+    {
+      "id": "x-adaptation-124",
+      "status": "revise",
+      "assessment": "Normal mucus secretion from retained bowel is useful teaching; appliance leakage internally is an implausible anatomical mechanism.",
+      "issues": [
+        "Normal mucus secretion from retained bowel is useful teaching; appliance leakage internally is an implausible anatomical mechanism."
+      ],
+      "proposedChanges": [
+        "Replace that distractor with a credible interpretation such as clearance of residual distal stool, and make the clear mucus description/time context sufficient to distinguish it."
+      ],
+      "reviewedItemSha256": "04c7393ad54617968bd7c2dec1bab525ba9f7b204382b09d3cbcf1efc485bba4"
+    },
+    {
+      "id": "x-adaptation-125",
+      "status": "pass",
+      "assessment": "Improvement in attention, orientation, and command-following is more directly relevant than sedation-related quietness or bilirubin trend.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e94e46562e485a5230b94a920b449bc798077a8202c538bac05e513975098f39"
+    }
+  ],
+  "activeSourceFile": "authoring/b-extra/adaptation-101-125.json",
+  "sourceVerificationNote": "Author source registry available; this pass is an item-content review and makes no additional blanket claim that all references substantiate every statement.",
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

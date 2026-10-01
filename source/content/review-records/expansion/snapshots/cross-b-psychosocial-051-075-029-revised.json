@@ -1,0 +1,844 @@
+[
+  {
+    "id": "x-psychosocial-029",
+    "cat": "psychosocial",
+    "title": "Family accommodation of rituals",
+    "stem": "A client's family repeatedly checks locks at their request. The first agreed treatment step is for relatives to stop completing the first requested recheck while remaining supportive. The client asks, \"Please check the door once more.\" Which family response implements this step?",
+    "type": "single",
+    "options": [
+      "I will stay while you practise the coping exercise we discussed.",
+      "I can read the checking list while you check the lock.",
+      "I will check it this once before we use the coping exercise.",
+      "I can tell you again that I saw you lock the door."
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Supportive presence with the agreed coping exercise avoids performing or replacing the requested recheck.",
+      "Guiding another check can maintain the ritual rather than support tolerating the urge.",
+      "Completing the requested first recheck does not implement the agreed reduction step.",
+      "Repeated confirmation can become reassurance accommodation rather than the planned coping response."
+    ],
+    "takeaway": "Coordinate family responses that reduce ritual accommodation without abandoning support.",
+    "refs": [
+      "d-ocd"
+    ],
+    "exhibit": null,
+    "subtopic": "Family support in OCD",
+    "learningObjective": "Coordinate family responses that reduce ritual accommodation without abandoning support.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-051",
+    "cat": "psychosocial",
+    "title": "Assessing depressive impairment",
+    "stem": "Which findings contribute to assessment of a possible depressive episode? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Loss of pleasure in previously valued activities",
+      "Sustained changes in sleep and daily function",
+      "One isolated preference for quiet time",
+      "Persistent feelings of worthlessness"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "why": [
+      "Loss of interest is a relevant depressive symptom.",
+      "Sustained changes help establish impact and pattern.",
+      "A single preference does not establish a depressive syndrome.",
+      "Worthlessness warrants further mood and safety assessment."
+    ],
+    "takeaway": "Assess sustained symptom patterns and functional impact in depression.",
+    "refs": [
+      "d-depression"
+    ],
+    "exhibit": null,
+    "subtopic": "Depression assessment",
+    "learningObjective": "Assess sustained symptom patterns and functional impact in depression.",
+    "reasoningSkill": "recognition",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-052",
+    "cat": "psychosocial",
+    "title": "Depression and decision load",
+    "stem": "A client with depression is hungry and alert but becomes distressed while comparing six breakfast choices, saying, \"I cannot sort them out.\" What should the nurse try?",
+    "type": "single",
+    "options": [
+      "Give the six-item menu in writing to compare",
+      "Offer two acceptable choices and time to respond",
+      "Ask a support person to select the usual breakfast",
+      "Return after a short break with the same menu"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Written information may help memory, but the main difficulty is the number of decisions to compare.",
+      "Reducing choice burden supports participation while retaining the client's decision.",
+      "A familiar choice may help intake but bypasses an opportunity to support the client's own decision.",
+      "A break may help fatigue, but the client is alert and the number of choices remains unchanged."
+    ],
+    "takeaway": "Reduce decision complexity while preserving choice during depression.",
+    "refs": [
+      "d-depression"
+    ],
+    "exhibit": null,
+    "subtopic": "Depression care adaptation",
+    "learningObjective": "Reduce decision complexity while preserving choice during depression.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-053",
+    "cat": "psychosocial",
+    "title": "Family interpretation of depression",
+    "stem": "A spouse says, \"If they cared about us, they would get out of bed.\" The client with depression wants to take part in one morning activity but struggles to begin. Which reply best supports the family?",
+    "type": "single",
+    "options": [
+      "You could take over the morning tasks until their energy returns.",
+      "A fixed daily target may help; remind them of family responsibilities.",
+      "Depression can impair starting tasks; let us plan one supported step.",
+      "Make a chart showing how much each family member completes daily."
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Taking over may ease immediate demands but can reduce opportunities for the participation the client wants.",
+      "A target may help, but responsibility reminders can reinforce blame when initiation is impaired.",
+      "Explanation reduces moral judgment and a manageable supported step fits the client's expressed goal.",
+      "Comparative tracking can intensify blame and does not address how to support the specific initiation difficulty."
+    ],
+    "takeaway": "Explain depressive impairment without removing all expectations for supported activity.",
+    "refs": [
+      "d-depression"
+    ],
+    "exhibit": null,
+    "subtopic": "Family depression education",
+    "learningObjective": "Explain depressive impairment without removing all expectations for supported activity.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-054",
+    "cat": "psychosocial",
+    "title": "Evaluating depression recovery",
+    "stem": "A client recovering from depression chose preparing a simple breakfast independently as a goal. Which one-week outcome most directly demonstrates progress?",
+    "type": "single",
+    "options": [
+      "Prepared breakfast on five mornings with fewer prompts",
+      "Explained how mood can affect daily routines more clearly",
+      "Selected breakfast each day after staff narrowed the choices",
+      "Reported a better mood during two afternoon visits"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Repeated performance with less assistance demonstrates progress toward the stated independent task.",
+      "Understanding is useful, but does not demonstrate the targeted daily function.",
+      "Decision support may be progress in another area, but does not establish independent breakfast preparation.",
+      "Improved mood matters, but does not directly show achievement of this functional goal."
+    ],
+    "takeaway": "Evaluate depression using sustained function and symptom patterns.",
+    "refs": [
+      "d-depression"
+    ],
+    "exhibit": null,
+    "subtopic": "Depression outcome evaluation",
+    "learningObjective": "Evaluate depression using sustained function and symptom patterns.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-055",
+    "cat": "psychosocial",
+    "title": "Depression screening result",
+    "stem": "A client has an elevated depression screening score but has not had a diagnostic assessment. Which explanation is accurate?",
+    "type": "single",
+    "options": [
+      "The score establishes depression when the symptoms feel severe.",
+      "The score identifies which treatment should be started first.",
+      "The score needs a second identical result to establish depression.",
+      "The score identifies symptoms needing clinical and safety assessment."
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "A screening score does not by itself establish a clinical diagnosis.",
+      "Treatment decisions also require clinical assessment, history, preferences and safety considerations.",
+      "Repeating the screening is not a substitute for diagnostic assessment.",
+      "Screening identifies concern and helps guide further assessment; it does not complete that assessment."
+    ],
+    "takeaway": "Use depression screening as a route to clinical assessment.",
+    "refs": [
+      "d-depression"
+    ],
+    "exhibit": null,
+    "subtopic": "Mood screening",
+    "learningObjective": "Use depression screening as a route to clinical assessment.",
+    "reasoningSkill": "teaching",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-056",
+    "cat": "psychosocial",
+    "title": "Supporting depression follow-up",
+    "stem": "Which discharge preparations support continuity for a client recovering from depression? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Confirm a follow-up appointment and an access plan",
+      "Review early worsening signs and whom to contact",
+      "Ask the client to arrange follow-up when symptoms return",
+      "Identify practical support for agreed daily routines"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "why": [
+      "A confirmed feasible appointment supports planned continuity after discharge.",
+      "Recognizing change and knowing an accessible response make the plan usable.",
+      "Waiting for recurrence to arrange care can delay support; proactive follow-up remains useful during recovery.",
+      "Practical help can support participation in meaningful routines after leaving care."
+    ],
+    "takeaway": "Plan depression follow-up around access, recurrence signs and daily supports.",
+    "refs": [
+      "d-depression"
+    ],
+    "exhibit": null,
+    "subtopic": "Depression continuity",
+    "learningObjective": "Plan depression follow-up around access, recurrence signs and daily supports.",
+    "reasoningSkill": "teaching",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-057",
+    "cat": "psychosocial",
+    "title": "Postpartum mood assessment",
+    "stem": "At six weeks postpartum, a client reports persistent hopelessness, poor functioning and inability to enjoy anything. Which plan is most appropriate now?",
+    "type": "single",
+    "options": [
+      "Arrange respite support and review mood at the next routine visit",
+      "Arrange timely mental-health assessment and assess immediate safety",
+      "Provide a sleep-support plan and review after several better nights",
+      "Provide adjustment education and a postpartum peer-group contact"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Respite may help, but persistent impairment and hopelessness require assessment rather than postponement to routine follow-up.",
+      "The sustained symptoms warrant assessment for a perinatal mental-health problem and any immediate safety needs.",
+      "Sleep support is useful, but improved rest cannot be assumed to resolve the full symptom pattern.",
+      "Education and peer support may complement care but do not evaluate the current significant symptoms."
+    ],
+    "takeaway": "Assess persistent postpartum mood symptoms that impair functioning.",
+    "refs": [
+      "d-depression"
+    ],
+    "exhibit": null,
+    "subtopic": "Perinatal mental health",
+    "learningObjective": "Assess persistent postpartum mood symptoms that impair functioning.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-058",
+    "cat": "psychosocial",
+    "title": "Postpartum psychosis warning",
+    "stem": "A client one week postpartum has barely slept and believes the infant is controlled by a dangerous force. What is the priority?",
+    "type": "single",
+    "options": [
+      "Arrange supported sleep and reassess the belief after resting",
+      "Book a counselling appointment later in the same week",
+      "Arrange emergency assessment and supervised parent-infant safety",
+      "Complete routine postpartum-depression screening at the next visit"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Rest is important, but a new delusional belief requires urgent assessment and safety support rather than waiting for sleep.",
+      "A later outpatient appointment is insufficient for possible postpartum psychosis and associated immediate risk.",
+      "Severe sleep loss and the delusional belief raise an emergency concern; maintain immediate safety while arranging urgent care.",
+      "Routine depression screening does not address the urgency or characterize the psychotic presentation."
+    ],
+    "takeaway": "Treat new postpartum psychosis as an emergency.",
+    "refs": [
+      "d-depression"
+    ],
+    "exhibit": null,
+    "subtopic": "Perinatal psychiatric emergency",
+    "learningObjective": "Treat new postpartum psychosis as an emergency.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-059",
+    "cat": "psychosocial",
+    "title": "Adolescent irritability and withdrawal",
+    "stem": "A teenager has been persistently irritable, withdrawn and less successful at school for a month. A parent has described the change, but the nurse has not yet spoken with the teenager privately. Which next step is most useful?",
+    "type": "single",
+    "options": [
+      "Invite a private discussion of mood, functioning and current safety",
+      "Ask the parent to describe the teenager's usual study routine",
+      "Review school assignments to identify the most difficult subject",
+      "Arrange a joint family meeting about homework expectations"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "The teenager's own account is needed to explore depression, stress, substance use and safety; explain confidentiality and its limits.",
+      "The parent's view helps, but has already supplied collateral change and cannot replace the teenager's perspective.",
+      "Learning demands may contribute but are only one part of a broader sustained change.",
+      "Family planning may help later; expectations alone do not assess the underlying change or immediate concerns."
+    ],
+    "takeaway": "Include depression in assessment of sustained adolescent irritability and decline.",
+    "refs": [
+      "d-depression"
+    ],
+    "exhibit": null,
+    "subtopic": "Youth mood assessment",
+    "learningObjective": "Include depression in assessment of sustained adolescent irritability and decline.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-060",
+    "cat": "psychosocial",
+    "title": "Depression with physical illness",
+    "stem": "After a stroke, a client stops the agreed short rehabilitation sessions and says, \"There is no point; nothing will matter again.\" Pain is controlled and the therapist has confirmed the workload is tolerable. What should the nurse explore next?",
+    "type": "single",
+    "options": [
+      "Whether afternoon sessions would be more convenient",
+      "Whether a different analgesic would improve participation",
+      "Whether the session should be shortened to two minutes",
+      "What the loss of hope means and how mood is affecting participation"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Timing may influence attendance, but the expressed barrier is loss of hope rather than an inconvenient schedule.",
+      "Pain has been assessed and controlled; another analgesic change does not directly address the stated concern.",
+      "The workload is tolerable, so reducing it does not clarify the meaning or mood-related barrier.",
+      "The statement warrants exploration of mood and meaning, including safety concerns as indicated, while retaining realistic rehabilitation goals."
+    ],
+    "takeaway": "Assess mood when hopelessness interferes with physical rehabilitation.",
+    "refs": [
+      "d-depression"
+    ],
+    "exhibit": null,
+    "subtopic": "Mood and chronic illness",
+    "learningObjective": "Assess mood when hopelessness interferes with physical rehabilitation.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-061",
+    "cat": "psychosocial",
+    "title": "Monitoring change during treatment",
+    "stem": "Which changes during depression treatment require prompt reassessment? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "New agitation with suicidal thoughts",
+      "Markedly reduced need for sleep with unusual impulsivity",
+      "A gradual return to a valued routine",
+      "New inability to meet basic intake needs"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "why": [
+      "Agitation with suicidality can increase immediate risk.",
+      "A possible mood switch needs timely clinical review.",
+      "Gradual functional improvement is an expected positive outcome.",
+      "Inadequate intake can create urgent physical consequences."
+    ],
+    "takeaway": "Reassess new risk, activation or physical compromise during mood treatment.",
+    "refs": [
+      "d-depression"
+    ],
+    "exhibit": null,
+    "subtopic": "Mood treatment monitoring",
+    "learningObjective": "Reassess new risk, activation or physical compromise during mood treatment.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-062",
+    "cat": "psychosocial",
+    "title": "Sudden calm after suicidal distress",
+    "stem": "A client recently reported intense suicidal thoughts. Today they appear unexpectedly calm after giving away valued possessions. They remain under current protective observation. What should the nurse do next?",
+    "type": "single",
+    "options": [
+      "Update the discharge safety plan to reflect the calmer presentation",
+      "Maintain observation and promptly reassess current suicide risk",
+      "Ask which possessions were given away and who received them",
+      "Encourage a supportive family visit during the afternoon"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Planning discharge before reassessing the concerning change can misinterpret apparent calm as reduced risk.",
+      "The change and possible preparatory behaviour warrant direct current-risk assessment before any reduction in protection.",
+      "The details can inform assessment, but should be linked immediately to intent and safety rather than treated as a belongings issue.",
+      "Connection may help but does not establish the meaning of the sudden change."
+    ],
+    "takeaway": "Reassess suicide risk when behaviour changes despite apparent mood improvement.",
+    "refs": [
+      "d-suicide"
+    ],
+    "exhibit": null,
+    "subtopic": "Dynamic suicide risk",
+    "learningObjective": "Reassess suicide risk when behaviour changes despite apparent mood improvement.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-063",
+    "cat": "psychosocial",
+    "title": "A negative answer with concerning collateral",
+    "stem": "A client denies suicidal thoughts, but a family member reports farewell messages sent last night. Current observation remains in place. Which next action best clarifies the conflicting information?",
+    "type": "single",
+    "options": [
+      "Repeat the same screening form using its usual wording",
+      "Ask the family whether they could supervise at home tonight",
+      "Ask the client directly about the messages and current intent",
+      "Ask permission to add relatives to the future support plan"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "A standard tool may help but does not replace exploring the specific recent behaviour.",
+      "Home support may affect a later plan, but disposition should follow clarification of current risk.",
+      "A direct nonjudgmental discussion integrates the collateral report with the client's account and guides further safety assessment.",
+      "Support preferences matter, but do not first resolve the immediate discrepancy."
+    ],
+    "takeaway": "Integrate collateral information into suicide-risk assessment.",
+    "refs": [
+      "d-suicide"
+    ],
+    "exhibit": null,
+    "subtopic": "Suicide-risk assessment",
+    "learningObjective": "Integrate collateral information into suicide-risk assessment.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-064",
+    "cat": "psychosocial",
+    "title": "Limits of a safety promise",
+    "stem": "A client under suicide precautions says, \"I promise I will not hurt myself.\" Which plan is appropriate after acknowledging the statement?",
+    "type": "single",
+    "options": [
+      "Continue direct risk assessment and the current prescribed precautions",
+      "Replace the current observation with scheduled hourly check-ins",
+      "Document the promise as the basis for discharge readiness",
+      "Contact the chosen support person and reassess risk afterward"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "The promise is part of the conversation but does not establish safety or replace the assessed protective plan.",
+      "Observation changes require appropriate assessment and authorization, not the promise alone.",
+      "A promise does not provide sufficient evidence for discharge readiness.",
+      "Support involvement is useful, but should not defer the nurse's current risk assessment."
+    ],
+    "takeaway": "Do not use a no-harm promise as a substitute for suicide assessment.",
+    "refs": [
+      "d-suicide"
+    ],
+    "exhibit": null,
+    "subtopic": "Suicide prevention planning",
+    "learningObjective": "Do not use a no-harm promise as a substitute for suicide assessment.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-065",
+    "cat": "psychosocial",
+    "title": "Meaningful protective factors",
+    "stem": "A client describes an active suicide plan but says responsibility for a pet helps them resist. A friend is available to care for the pet if urgent treatment is needed. What should the nurse do next?",
+    "type": "single",
+    "options": [
+      "Ask the friend to arrange pet care before continuing the interview",
+      "Begin a plan for a daily pet-care routine at home",
+      "Rate the current risk as low because the client wants to protect the pet",
+      "Ask directly about present intent and access to the planned means"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Pet care can remove a treatment barrier, but should not delay assessment of current danger.",
+      "The routine may be protective, but an active plan requires clarification now.",
+      "A protective connection does not cancel the risk indicated by an active plan.",
+      "Intent and access help determine immediate protection; the pet connection and available help can then be incorporated into care."
+    ],
+    "takeaway": "Assess protective factors without treating them as guarantees against suicide.",
+    "refs": [
+      "d-suicide"
+    ],
+    "exhibit": null,
+    "subtopic": "Suicide-risk formulation",
+    "learningObjective": "Assess protective factors without treating them as guarantees against suicide.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-066",
+    "cat": "psychosocial",
+    "title": "Elements of a safety plan",
+    "stem": "Which components belong in a collaborative suicide safety plan? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "Personal warning signs and coping actions",
+      "People and services the client can contact",
+      "A signed no-harm agreement as the protective strategy",
+      "Steps to reduce access to means of self-harm"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "why": [
+      "Personal patterns help the client recognize when to begin the plan.",
+      "Accessible contacts provide escalating routes for help.",
+      "An agreement does not provide the concrete coping, contact and means-safety actions needed during distress.",
+      "Practical access reduction can decrease opportunities for harm and should fit the individual situation."
+    ],
+    "takeaway": "Build a practical safety plan with warning signs, coping, contacts and means safety.",
+    "refs": [
+      "d-suicide"
+    ],
+    "exhibit": null,
+    "subtopic": "Suicide safety planning",
+    "learningObjective": "Build a practical safety plan with warning signs, coping, contacts and means safety.",
+    "reasoningSkill": "teaching",
+    "difficulty": "foundation",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-067",
+    "cat": "psychosocial",
+    "title": "Practising a crisis plan",
+    "stem": "A client can name and reach their safety-plan contacts but says, \"When distressed, I would not know how to start the conversation.\" What should the nurse do?",
+    "type": "single",
+    "options": [
+      "Copy the existing contacts onto a wallet card",
+      "Rehearse a brief opening request for help together",
+      "Ask a support person to make the calls for the client",
+      "Add another telephone service to the contact list"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "A portable list helps recall, but the client already knows how to reach the contacts.",
+      "Rehearsal directly addresses the stated barrier to initiating help-seeking.",
+      "Assistance may be useful if requested, but practising the client's own opening supports the desired independent contact.",
+      "More contacts do not by themselves help the client begin speaking during distress."
+    ],
+    "takeaway": "Practise how to request help as part of safety planning.",
+    "refs": [
+      "d-suicide"
+    ],
+    "exhibit": null,
+    "subtopic": "Crisis-plan implementation",
+    "learningObjective": "Practise how to request help as part of safety planning.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-068",
+    "cat": "psychosocial",
+    "title": "Confidentiality and acute risk",
+    "stem": "A client discloses an imminent self-harm plan and asks for secrecy. The nurse's applicable policy requires immediate care-team involvement for serious safety risk. Which explanation is best?",
+    "type": "single",
+    "options": [
+      "I will ask your permission again before I alert the team.",
+      "I will begin by asking your family what they think should happen.",
+      "I need to involve the immediate care team to help keep you safe.",
+      "I will discuss information sharing after the formal assessment is complete."
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "The nurse should explain and involve the client where possible, but the stated urgent duty cannot depend on obtaining permission.",
+      "A family opinion does not replace the immediate professional response required by the situation and policy.",
+      "A clear explanation identifies the necessary safety disclosure; share relevant information with those who need it under applicable rules.",
+      "Postponing the explanation and response leaves an imminent concern unaddressed."
+    ],
+    "takeaway": "Explain necessary safety-related sharing without promising absolute secrecy.",
+    "refs": [
+      "d-suicide"
+    ],
+    "exhibit": null,
+    "subtopic": "Confidentiality and suicide risk",
+    "learningObjective": "Explain necessary safety-related sharing without promising absolute secrecy.",
+    "reasoningSkill": "professional-judgement",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-069",
+    "cat": "psychosocial",
+    "title": "Supervision during an urgent assessment",
+    "stem": "A client requires prescribed continuous observation for acute suicide risk during transfer. The current trained observer can accompany the client. Which handoff arrangement maintains continuity?",
+    "type": "single",
+    "options": [
+      "The observer stays until a named trained receiving observer accepts responsibility",
+      "The transporter supervises while both nurses complete the written handoff",
+      "The receiving nurse accepts the chart before finishing another client's care",
+      "The current observer leaves after the client enters the receiving assessment room"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Explicit person-to-person transfer of the observation role preserves the prescribed protection throughout the transition.",
+      "Transport accompaniment does not itself establish that the continuous observation role has been accepted by an appropriate observer.",
+      "Chart acceptance does not ensure that someone is actively maintaining the prescribed observation.",
+      "Arrival in a room does not transfer responsibility unless the receiving observation arrangement is established."
+    ],
+    "takeaway": "Maintain suicide precautions across transitions until appropriately reassessed.",
+    "refs": [
+      "d-suicide"
+    ],
+    "exhibit": null,
+    "subtopic": "Suicide observation continuity",
+    "learningObjective": "Maintain suicide precautions across transitions until appropriately reassessed.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-070",
+    "cat": "psychosocial",
+    "title": "Asking about access to means",
+    "stem": "During collaborative means-safety planning, a client and chosen support person propose keeping potentially harmful medication in a lockbox. What question most directly checks whether the arrangement will restrict the client's access during a crisis?",
+    "type": "single",
+    "options": [
+      "Will the medication bottles keep their original labels?",
+      "Which room will hold the medication box?",
+      "When is the next prescription refill due?",
+      "Who will control the key or access code?"
+    ],
+    "answer": [
+      3
+    ],
+    "why": [
+      "Labels support correct medication use but do not establish restricted access.",
+      "Location matters to a practical plan, but a locked box remains accessible if the client controls its opening.",
+      "Refill timing may affect supply, but does not determine access to the medication already stored.",
+      "Key or code control determines whether the proposed barrier actually limits access; medication delivery needs an agreed safe care plan."
+    ],
+    "takeaway": "Assess access to means to guide concrete protective actions.",
+    "refs": [
+      "d-suicide"
+    ],
+    "exhibit": null,
+    "subtopic": "Suicide means assessment",
+    "learningObjective": "Assess access to means to guide concrete protective actions.",
+    "reasoningSkill": "recognition",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-071",
+    "cat": "psychosocial",
+    "title": "Evaluating a proposed discharge safety plan",
+    "stem": "Which findings indicate that a safety plan needs revision before it can be relied upon? Select all that apply.",
+    "type": "multiple",
+    "options": [
+      "The only listed contact is unreachable overnight",
+      "The client cannot access the promised follow-up service",
+      "The client identifies a personal early warning sign",
+      "The plan relies on evening check-ins, but the support person expects to provide appointment rides"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "why": [
+      "An unavailable contact creates a predictable access gap.",
+      "A plan depending on inaccessible care is not operational.",
+      "Recognizing a warning sign supports plan usefulness.",
+      "The mismatch leaves a planned safety function uncovered and should be clarified with everyone involved."
+    ],
+    "takeaway": "Verify that safety-plan resources are reachable and understood.",
+    "refs": [
+      "d-suicide"
+    ],
+    "exhibit": null,
+    "subtopic": "Suicide discharge planning",
+    "learningObjective": "Verify that safety-plan resources are reachable and understood.",
+    "reasoningSkill": "evaluation",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-072",
+    "cat": "psychosocial",
+    "title": "Self-injury without stated suicidal intent",
+    "stem": "A client reports cutting to relieve distress and denies wanting to die. Superficial wounds have been assessed and treated. The nurse has not yet explored current suicidal thoughts or intent. Which action is needed next?",
+    "type": "single",
+    "options": [
+      "Ask directly about current suicidal thoughts, intent and access",
+      "Review the agreed dressing-change schedule with the client",
+      "Ask which coping activity helped before earlier episodes",
+      "Arrange routine follow-up focused on reducing self-injury"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "The stated function of cutting does not establish absence of suicide risk; direct assessment is still needed.",
+      "Wound teaching matters, but physical care is already addressed and the current safety assessment remains incomplete.",
+      "Coping history is useful, but does not determine whether there is current suicidal intent.",
+      "Follow-up planning should be informed by current risk rather than precede its clarification."
+    ],
+    "takeaway": "Assess both physical injury and suicide risk after self-injury.",
+    "refs": [
+      "d-suicide"
+    ],
+    "exhibit": null,
+    "subtopic": "Self-harm assessment",
+    "learningObjective": "Assess both physical injury and suicide risk after self-injury.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-073",
+    "cat": "psychosocial",
+    "title": "Responding after self-injury disclosure",
+    "stem": "After wounds are assessed, a client says, \"You must think I am attention-seeking.\" Which reply best opens exploration of the distress associated with the episode?",
+    "type": "single",
+    "options": [
+      "The staff are here to help, and we do not judge you.",
+      "What was happening and how were you feeling just before this?",
+      "We can review some coping strategies that may help next time.",
+      "Would you like me to contact someone you trust for support?"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "Reassurance may help rapport, but does not invite the client's account of the episode.",
+      "An open question explores the experience and context without assigning a motive.",
+      "Education may follow, but the relevant coping needs should be understood first.",
+      "Support contact may be useful, but does not directly explore the distress the client is trying to communicate."
+    ],
+    "takeaway": "Respond to self-injury with nonjudgmental assessment of distress and safety.",
+    "refs": [
+      "d-suicide"
+    ],
+    "exhibit": null,
+    "subtopic": "Self-harm communication",
+    "learningObjective": "Respond to self-injury with nonjudgmental assessment of distress and safety.",
+    "reasoningSkill": "intervention",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-074",
+    "cat": "psychosocial",
+    "title": "Choosing safer coping alternatives",
+    "stem": "A client identifies muscle tension as an early sign before self-injury. They chose a brief noninjurious grounding exercise in the treatment plan and want to practise using it sooner. Which plan best fits that aim?",
+    "type": "single",
+    "options": [
+      "Practise the exercise after wound care when another episode occurs",
+      "Replace the exercise with a new strategy at the next visit",
+      "Rehearse the exercise when the first muscle tension appears",
+      "Request staff reassurance once tension reaches its highest level"
+    ],
+    "answer": [
+      2
+    ],
+    "why": [
+      "Post-episode practice may aid learning, but does not move use earlier in the escalation sequence.",
+      "A new method may be considered if needed, but the client has already selected one and wants help with timing.",
+      "Linking the agreed skill to the identified early cue directly addresses the desired change.",
+      "Reassurance may provide support, but waiting for peak tension misses the planned early opportunity."
+    ],
+    "takeaway": "Connect early self-harm cues with rehearsed noninjurious coping.",
+    "refs": [
+      "d-suicide"
+    ],
+    "exhibit": null,
+    "subtopic": "Self-harm prevention",
+    "learningObjective": "Connect early self-harm cues with rehearsed noninjurious coping.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  },
+  {
+    "id": "x-psychosocial-075",
+    "cat": "psychosocial",
+    "title": "Digital messages suggesting risk",
+    "stem": "A client shows farewell messages drafted during a difficult night but never sent. They say they feel embarrassed. Which question best assesses whether the writing reflected preparation for self-harm?",
+    "type": "single",
+    "options": [
+      "When you wrote them, were you planning to end your life, and what are you thinking now?",
+      "Who did you plan to send each of these messages to?",
+      "Have you written emotional letters during difficult times before?",
+      "Which person on your support list would you like to contact?"
+    ],
+    "answer": [
+      0
+    ],
+    "why": [
+      "Direct questions about intent then and now clarify the meaning and current risk; unsent drafts can still be preparatory behaviour.",
+      "Recipients provide context but do not establish the intent behind writing or present danger.",
+      "Past writing habits may inform the history but cannot establish the meaning of this episode.",
+      "Support contact can be useful, but current intent should be explored directly rather than inferred from willingness to connect."
+    ],
+    "takeaway": "Assess the meaning of preparatory or farewell communication.",
+    "refs": [
+      "d-suicide"
+    ],
+    "exhibit": null,
+    "subtopic": "Suicide warning behaviour",
+    "learningObjective": "Assess the meaning of preparatory or farewell communication.",
+    "reasoningSkill": "priority",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  }
+]

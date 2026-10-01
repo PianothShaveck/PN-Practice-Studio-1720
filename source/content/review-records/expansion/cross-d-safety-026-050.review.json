@@ -1,0 +1,494 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:31:15.741685+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/cross-d-safety-snapshot.json",
+  "sourceSha256": "e342198928340b8e1b78b3440be0bdef2f40eadc4adbed1569f1ad51e0bea4cc",
+  "coverage": {
+    "sourceItems": 200,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-safety-026",
+      "x-safety-027",
+      "x-safety-028",
+      "x-safety-029",
+      "x-safety-030",
+      "x-safety-031",
+      "x-safety-032",
+      "x-safety-033",
+      "x-safety-034",
+      "x-safety-035",
+      "x-safety-036",
+      "x-safety-037",
+      "x-safety-038",
+      "x-safety-039",
+      "x-safety-040",
+      "x-safety-041",
+      "x-safety-042",
+      "x-safety-043",
+      "x-safety-044",
+      "x-safety-045",
+      "x-safety-046",
+      "x-safety-047",
+      "x-safety-048",
+      "x-safety-049",
+      "x-safety-050"
+    ],
+    "unreviewedIds": [
+      "x-safety-001",
+      "x-safety-002",
+      "x-safety-003",
+      "x-safety-004",
+      "x-safety-005",
+      "x-safety-006",
+      "x-safety-007",
+      "x-safety-008",
+      "x-safety-009",
+      "x-safety-010",
+      "x-safety-011",
+      "x-safety-012",
+      "x-safety-013",
+      "x-safety-014",
+      "x-safety-015",
+      "x-safety-016",
+      "x-safety-017",
+      "x-safety-018",
+      "x-safety-019",
+      "x-safety-020",
+      "x-safety-021",
+      "x-safety-022",
+      "x-safety-023",
+      "x-safety-024",
+      "x-safety-025",
+      "x-safety-051",
+      "x-safety-052",
+      "x-safety-053",
+      "x-safety-054",
+      "x-safety-055",
+      "x-safety-056",
+      "x-safety-057",
+      "x-safety-058",
+      "x-safety-059",
+      "x-safety-060",
+      "x-safety-061",
+      "x-safety-062",
+      "x-safety-063",
+      "x-safety-064",
+      "x-safety-065",
+      "x-safety-066",
+      "x-safety-067",
+      "x-safety-068",
+      "x-safety-069",
+      "x-safety-070",
+      "x-safety-071",
+      "x-safety-072",
+      "x-safety-073",
+      "x-safety-074",
+      "x-safety-075",
+      "x-safety-076",
+      "x-safety-077",
+      "x-safety-078",
+      "x-safety-079",
+      "x-safety-080",
+      "x-safety-081",
+      "x-safety-082",
+      "x-safety-083",
+      "x-safety-084",
+      "x-safety-085",
+      "x-safety-086",
+      "x-safety-087",
+      "x-safety-088",
+      "x-safety-089",
+      "x-safety-090",
+      "x-safety-091",
+      "x-safety-092",
+      "x-safety-093",
+      "x-safety-094",
+      "x-safety-095",
+      "x-safety-096",
+      "x-safety-097",
+      "x-safety-098",
+      "x-safety-099",
+      "x-safety-100",
+      "x-safety-101",
+      "x-safety-102",
+      "x-safety-103",
+      "x-safety-104",
+      "x-safety-105",
+      "x-safety-106",
+      "x-safety-107",
+      "x-safety-108",
+      "x-safety-109",
+      "x-safety-110",
+      "x-safety-111",
+      "x-safety-112",
+      "x-safety-113",
+      "x-safety-114",
+      "x-safety-115",
+      "x-safety-116",
+      "x-safety-117",
+      "x-safety-118",
+      "x-safety-119",
+      "x-safety-120",
+      "x-safety-121",
+      "x-safety-122",
+      "x-safety-123",
+      "x-safety-124",
+      "x-safety-125",
+      "x-safety-126",
+      "x-safety-127",
+      "x-safety-128",
+      "x-safety-129",
+      "x-safety-130",
+      "x-safety-131",
+      "x-safety-132",
+      "x-safety-133",
+      "x-safety-134",
+      "x-safety-135",
+      "x-safety-136",
+      "x-safety-137",
+      "x-safety-138",
+      "x-safety-139",
+      "x-safety-140",
+      "x-safety-141",
+      "x-safety-142",
+      "x-safety-143",
+      "x-safety-144",
+      "x-safety-145",
+      "x-safety-146",
+      "x-safety-147",
+      "x-safety-148",
+      "x-safety-149",
+      "x-safety-150",
+      "x-safety-151",
+      "x-safety-152",
+      "x-safety-153",
+      "x-safety-154",
+      "x-safety-155",
+      "x-safety-156",
+      "x-safety-157",
+      "x-safety-158",
+      "x-safety-159",
+      "x-safety-160",
+      "x-safety-161",
+      "x-safety-162",
+      "x-safety-163",
+      "x-safety-164",
+      "x-safety-165",
+      "x-safety-166",
+      "x-safety-167",
+      "x-safety-168",
+      "x-safety-169",
+      "x-safety-170",
+      "x-safety-171",
+      "x-safety-172",
+      "x-safety-173",
+      "x-safety-174",
+      "x-safety-175",
+      "x-safety-176",
+      "x-safety-177",
+      "x-safety-178",
+      "x-safety-179",
+      "x-safety-180",
+      "x-safety-181",
+      "x-safety-182",
+      "x-safety-183",
+      "x-safety-184",
+      "x-safety-185",
+      "x-safety-186",
+      "x-safety-187",
+      "x-safety-188",
+      "x-safety-189",
+      "x-safety-190",
+      "x-safety-191",
+      "x-safety-192",
+      "x-safety-193",
+      "x-safety-194",
+      "x-safety-195",
+      "x-safety-196",
+      "x-safety-197",
+      "x-safety-198",
+      "x-safety-199",
+      "x-safety-200"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.canada.ca/en/public-health/services/publications/diseases-conditions/routine-practices-precautions-healthcare-associated-infections/part-b.html",
+      "authority": "PHAC",
+      "supports": [
+        "Handling contaminated linen with minimal agitation",
+        "PPE, contaminated equipment and clean preparation principles"
+      ],
+      "scope": "Retrieved full primary guideline; targeted principles rather than all-item validation"
+    },
+    {
+      "url": "https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html",
+      "authority": "CDC",
+      "supports": [
+        "Closed-system protection and aseptic correction after disconnection",
+        "Sampling through disinfected designated port"
+      ],
+      "scope": "Targeted CAUTI guideline check"
+    }
+  ],
+  "items": [
+    {
+      "id": "x-safety-026",
+      "status": "pass",
+      "assessment": "Point-of-use containment without agitation addresses contaminated linen spread; the incorrect transport and rinsing practices are recognizable workflow errors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "22485f32e6d4859926917aeffae0b75734803a1c4aec1967f2da598df6ec730c"
+    },
+    {
+      "id": "x-safety-027",
+      "status": "revise",
+      "assessment": "Containing the leak is correct, but parking it beside clean supplies and compressing leaking waste are cartoon alternatives.",
+      "issues": [
+        "Containing the leak is correct, but parking it beside clean supplies and compressing leaking waste are cartoon alternatives."
+      ],
+      "proposedChanges": [
+        "Use plausible competing containment/transport actions such as overbagging, transferring contents, continuing to the waste area, or first cleaning visible floor contamination. Make containment before movement decisive."
+      ],
+      "reviewedItemSha256": "08c92a12d8658cc27311af6de64b958166bb46269947254f5d7e75f9f46e4c4d"
+    },
+    {
+      "id": "x-safety-028",
+      "status": "pass",
+      "assessment": "Premature drying fails the labelled wet contact time; label-directed reapplication is appropriate without inventing a universal duration.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "bc5134136edf6e11ca9305a4caebd490d35126349d12782cb5021fcce8ba61c1"
+    },
+    {
+      "id": "x-safety-029",
+      "status": "revise",
+      "assessment": "Cleaning visible soil before disinfection is correct; sterilizing the entire cart is irrelevant and storage until dry is too weak.",
+      "issues": [
+        "Cleaning visible soil before disinfection is correct; sterilizing the entire cart is irrelevant and storage until dry is too weak."
+      ],
+      "proposedChanges": [
+        "Use parallel device-processing actions such as extra disinfectant, water rinse, cleaning according to instructions, or repeating the disinfection cycle. Explain cleaning versus disinfection distinctly."
+      ],
+      "reviewedItemSha256": "25b0e0cef6c83162eb4989d9ea6c89ed0deed9e3f3c9df08fda69a5fbefec8c0"
+    },
+    {
+      "id": "x-safety-030",
+      "status": "revise",
+      "assessment": "Fresh cleaning materials are appropriate, but perfume and moving furniture closer to the toilet are nonclinical filler.",
+      "issues": [
+        "Fresh cleaning materials are appropriate, but perfume and moving furniture closer to the toilet are nonclinical filler."
+      ],
+      "proposedChanges": [
+        "Replace with plausible workflow errors such as reusing a visually clean portion, rinsing the cloth in the same bucket, or rewetting with product. Preserve dirty-to-clean contamination learning."
+      ],
+      "reviewedItemSha256": "3ae4824d47ef93317a63d7c1c87edfe6e2944944eeca728533924d8945a838ca"
+    },
+    {
+      "id": "x-safety-031",
+      "status": "revise",
+      "assessment": "Verified chemical identification is correct; smell, appearance and extra volume form an overly obvious safety rule with little applied context.",
+      "issues": [
+        "Verified chemical identification is correct; smell, appearance and extra volume form an overly obvious safety rule with little applied context."
+      ],
+      "proposedChanges": [
+        "Either label foundation honestly or add a realistic time-pressure/preparation scenario and competing verification/cleanup actions. Avoid making all alternatives simply guess the liquid."
+      ],
+      "reviewedItemSha256": "1e646334983cb7ad7ded31102ae10fe805d387af33e9857fa5b6181c0c309ef5"
+    },
+    {
+      "id": "x-safety-032",
+      "status": "revise",
+      "assessment": "The concept that dedicated equipment still requires cleaning is useful, but this repeats three generalized good actions against explicitly skipping hand hygiene.",
+      "issues": [
+        "The concept that dedicated equipment still requires cleaning is useful, but this repeats three generalized good actions against explicitly skipping hand hygiene."
+      ],
+      "proposedChanges": [
+        "Use a concrete commode-cleaning scenario with two or three clinically relevant selections among five, including realistic misconceptions about dedication, splash protection or cleaning frequency."
+      ],
+      "reviewedItemSha256": "71c9a178fd7c32894a7c5d4f528b891cdc9f4e5da37019e125ca934e92bbaff5"
+    },
+    {
+      "id": "x-safety-033",
+      "status": "pass",
+      "assessment": "Single-use labelling and approved processing instructions should govern use; appearance, hand rub and matching diagnosis do not authorize improvised reuse.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "540480985b4791f9922c8e4d3089a11f5b92c0e2e914e48214419dffece273e1"
+    },
+    {
+      "id": "x-safety-034",
+      "status": "pass",
+      "assessment": "Damp packaging compromises the sterile barrier despite being unopened; drying, inspection and smaller wound size do not restore assurance.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e6c5b13f456333c38bf8658cea055fc39afc0094fd323e136fdd1793a22079de"
+    },
+    {
+      "id": "x-safety-035",
+      "status": "pass",
+      "assessment": "An unattended unobserved field lacks sterility assurance; covering or replacing only an edge cannot resolve unknown contamination.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "de68be70d0a838cfe577370a935451138bbc23d574fe21ceb92d6ff1a5159418"
+    },
+    {
+      "id": "x-safety-036",
+      "status": "revise",
+      "assessment": "Avoiding nonsterile reach-over is correct, but the key is much longer and states its own rationale.",
+      "issues": [
+        "Avoiding nonsterile reach-over is correct, but the key is much longer and states its own rationale."
+      ],
+      "proposedChanges": [
+        "Shorten the key to Reposition supplies or obtain assistance and keep the nonsterile-clothing explanation in the rationale. Use similarly concise procedural alternatives."
+      ],
+      "reviewedItemSha256": "b5473c5dadd3941076b4de312a49cc6b8193627a12e06ff9b874510931309ef5"
+    },
+    {
+      "id": "x-safety-037",
+      "status": "pass",
+      "assessment": "A bed rail is nonsterile even after cleaning, so the contaminated sterile glove must be replaced before invasive-device contact.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4c51f26b236bed5f855032885aa35e0542b4144866642134693d1d69bdf9b476"
+    },
+    {
+      "id": "x-safety-038",
+      "status": "revise",
+      "assessment": "Protocol-guided aseptic replacement after closed-system disconnection is correct; leaving it open until emptying is a cartoon distractor.",
+      "issues": [
+        "Protocol-guided aseptic replacement after closed-system disconnection is correct; leaving it open until emptying is a cartoon distractor."
+      ],
+      "proposedChanges": [
+        "Replace the open-system option with changing the drainage bag and reconnecting the original catheter; explain guideline-based replacement of catheter and collection system after a compromised connection."
+      ],
+      "reviewedItemSha256": "4bf2f4a00ad5dea7b3405f2a1586186bae241c293d0004bab96a3f3f2375f9c5"
+    },
+    {
+      "id": "x-safety-039",
+      "status": "pass",
+      "assessment": "Both floor contamination and elevated-bag backflow require correction; partial positioning fixes, emptying and routine clamping are plausible insufficient alternatives.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6edfdb84ded35222073e6b7d84df73aa1b6a98f0e681bf71e84d86b3a34d67cc"
+    },
+    {
+      "id": "x-safety-040",
+      "status": "pass",
+      "assessment": "Procedure completion triggers review of catheter necessity, continued closed-system care and authorized removal; routine disconnection is an authentic common error.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "739b322d7883962f51b2af4c34c925311ec1ccbe7d27df845971c910d35e402a"
+    },
+    {
+      "id": "x-safety-041",
+      "status": "revise",
+      "assessment": "A disinfected sampling port preserves the system and provides a suitable culture specimen, but floor-spill collection is implausible.",
+      "issues": [
+        "A disinfected sampling port preserves the system and provides a suitable culture specimen, but floor-spill collection is implausible."
+      ],
+      "proposedChanges": [
+        "Replace floor-spill collection with a realistic wrong access method such as puncturing nondesignated catheter tubing; specify use of the designated port according to device instructions."
+      ],
+      "reviewedItemSha256": "c409a7292d3d4eaa0009d062d1da5bc0dda2d57437ef425bb59f70dbffd2e30f"
+    },
+    {
+      "id": "x-safety-042",
+      "status": "pass",
+      "assessment": "A sink used for dirty equipment is an inappropriate injection-preparation location; smaller batches or local wiping do not create adequate clean separation.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "4ed5a12615b4ad033b2330f3f49b35710167279387ff41cd169d2fd86f3094ff"
+    },
+    {
+      "id": "x-safety-043",
+      "status": "revise",
+      "assessment": "Fresh sterile needle/syringe plus stopper disinfection is correct; key length gives away the only fully specified action.",
+      "issues": [
+        "Fresh sterile needle/syringe plus stopper disinfection is correct; key length gives away the only fully specified action."
+      ],
+      "proposedChanges": [
+        "Shorten the key to Disinfect the stopper and use new sterile equipment, retaining needle and syringe detail in the rationale, and align alternative lengths."
+      ],
+      "reviewedItemSha256": "5d61eebff3359f4e6a6d6ee8cf90d329cdd47e21c25bf62bf1c65964d23ebc80"
+    },
+    {
+      "id": "x-safety-044",
+      "status": "revise",
+      "assessment": "Removing the contaminated shared vial and reporting is sound; reserving it for the next client is an implausible salvage strategy.",
+      "issues": [
+        "Removing the contaminated shared vial and reporting is sound; reserving it for the next client is an implausible salvage strategy."
+      ],
+      "proposedChanges": [
+        "Use Reserve it for the client whose syringe entered it as the misconception, explaining that this does not authorize salvage of a contaminated shared vial."
+      ],
+      "reviewedItemSha256": "3bd404c30927ebc37884300d1160ae05a411a5007a898c6fda9880b27231ab16"
+    },
+    {
+      "id": "x-safety-045",
+      "status": "pass",
+      "assessment": "The marked fill line gives an objective replacement trigger; overfilling, loose storage and manipulating contents increase sharps exposure.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a55a6b15f610469078a27320f9a5cf162d8a2f94915acc577d575a34884c5a2f"
+    },
+    {
+      "id": "x-safety-046",
+      "status": "pass",
+      "assessment": "A visible needle in linen requires controlled approved retrieval rather than shaking, manual pickup through gloves or transferring risk to laundry staff.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "5a7821cc695d6a7bcfc3fc5aa595f71b25e566e50035adc51c789cb2b9da7694"
+    },
+    {
+      "id": "x-safety-047",
+      "status": "revise",
+      "assessment": "Immediate eye irrigation is correct, but alcohol and a dry dressing are cartoon responses and the key uniquely bundles follow-up.",
+      "issues": [
+        "Immediate eye irrigation is correct, but alcohol and a dry dressing are cartoon responses and the key uniquely bundles follow-up."
+      ],
+      "proposedChanges": [
+        "Compare appropriate exposure tasks by priority: immediate irrigation, contacting occupational health, notifying the supervisor, or arranging source assessment. Explain irrigation before subsequent coordination."
+      ],
+      "reviewedItemSha256": "fea566847be9b218fa004f9ebda0509fd55573023fe9136ebeb99cd9756e1a00"
+    },
+    {
+      "id": "x-safety-048",
+      "status": "pass",
+      "assessment": "Arranging safe disposal before injection prevents avoidable recapping and transport of an exposed sharp; the plan is clear and within routine nursing safety.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a1da5fa8969917d896406d8c89ec8118d4283cc43069358ad1df7d3289347b47"
+    },
+    {
+      "id": "x-safety-049",
+      "status": "revise",
+      "assessment": "Containment and laboratory guidance are correct; combining blood specimens with food samples is unrelated filler.",
+      "issues": [
+        "Containment and laboratory guidance are correct; combining blood specimens with food samples is unrelated filler."
+      ],
+      "proposedChanges": [
+        "Replace the food-bag option with placing the leaking original tube into a new specimen bag; explain why containment does not establish specimen integrity or suitability for analysis."
+      ],
+      "reviewedItemSha256": "b7d99f3896c61f2645d6ce087b11744be9421391fa84802c16bbf4365f15972f"
+    },
+    {
+      "id": "x-safety-050",
+      "status": "pass",
+      "assessment": "The item appropriately asks for local IPAC handling rather than inventing a universal rule for all room-exposed unopened supplies; outer contamination and package compatibility are distinguished.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "1a0bc11d4bdf43b58016cd4919612ed00d565b183c09a643d942062721e90ef4"
+    }
+  ],
+  "reviewerTask": "/root/author_health_psych",
+  "authorSourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/a/safety.json"
+}

@@ -1,0 +1,371 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:57:51.752772+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/b-final-recheck-input/pharmacology-01.json",
+  "sourceSha256": "6cd53fe8700fb24020d4012fe320bf177ba3709575d93e15ed314df6a103a3f5",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-pharmacology-001",
+      "x-pharmacology-002",
+      "x-pharmacology-003",
+      "x-pharmacology-004",
+      "x-pharmacology-005",
+      "x-pharmacology-006",
+      "x-pharmacology-007",
+      "x-pharmacology-008",
+      "x-pharmacology-009",
+      "x-pharmacology-010",
+      "x-pharmacology-011",
+      "x-pharmacology-012",
+      "x-pharmacology-013",
+      "x-pharmacology-014",
+      "x-pharmacology-015",
+      "x-pharmacology-016",
+      "x-pharmacology-017",
+      "x-pharmacology-018",
+      "x-pharmacology-019",
+      "x-pharmacology-020",
+      "x-pharmacology-021",
+      "x-pharmacology-022",
+      "x-pharmacology-023",
+      "x-pharmacology-024",
+      "x-pharmacology-025"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Full independent reread of all25 current frozen items and prior findings, including clinical text, every option/rationale, key, takeaway and revised metadata. Statuses manually reasoned; exact snapshot hashes preserve the reviewed inputs. No clinical-text carry-forward was inferred from metadata-only claims.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-pharmacology-001",
+      "status": "pass",
+      "assessment": "Changed strength makes barcode alert investigation meaningful; current order/product comparison resolves the discrepancy before dosing. Old dose, unrelated barcode and postadministration repair do not.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e2d195e4ab488cb02d5988c11334990826c6cf9a19081af5ea5a19a75f15f318"
+    },
+    {
+      "id": "x-pharmacology-002",
+      "status": "pass",
+      "assessment": "Prompt accountable disposal and replacement addresses severe pain without false administration records or unattended controlled-drug storage.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "51207a4ef75721180a11982b6c245c1f36bdf04e96ffa3706539f7a18852ee93"
+    },
+    {
+      "id": "x-pharmacology-003",
+      "status": "pass",
+      "assessment": "Stable client with a reported undocumented dose needs administration-history verification. A blank record or stable pressure cannot exclude duplicate exposure.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a6227da5718b7e11d3fc86a55cc3dbd0a3f3f7f0b81afc386a5725982c76ab00"
+    },
+    {
+      "id": "x-pharmacology-004",
+      "status": "pass",
+      "assessment": "A1.8mL dose cannot be accurately measured in5mL cup graduations; the fine calibrated oral syringe addresses a concrete device mismatch.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ac405fafc90ebc94f2758419c8d25140e4d1561b7a314b764b5d2253cb9788db"
+    },
+    {
+      "id": "x-pharmacology-005",
+      "status": "pass",
+      "assessment": "Timing alone does not determine retained absorption after emesis; drug-specific guidance is safer than a full/half replacement or independent interval change.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "187aa1570069b6da62a9d5479439789ed58335f6eda6b5d96a2861990c590881"
+    },
+    {
+      "id": "x-pharmacology-006",
+      "status": "pass",
+      "assessment": "Assessing nausea and agreeing acceptable treatment respects refusal and addresses current tolerability. Isolated nausea does not establish immune allergy or justify permanent class avoidance.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b16ab9a0f04d8f180061a8442dd94a78a6aea5801eca5115449875e9ab0dfd74"
+    },
+    {
+      "id": "x-pharmacology-007",
+      "status": "pass",
+      "assessment": "Single-dose designation remains relevant for same-client future doses; routine storage or bedside pre-drawing is not an authorized sterile preparation process. Foundation label is honest.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "2bab8c8a964ccc409e5223e4dec979d0fa4f4662109ce98628a49a34c0c2dc2e"
+    },
+    {
+      "id": "x-pharmacology-008",
+      "status": "pass",
+      "assessment": "Organizer placement and an old list do not establish product identity/current authorization. Verified identification and intent avoid both duplication and prolonged unexplained omission.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "87f249a9560e0a02dbb3d968a0edaebd0d4874612cee767ea560888b40b1defa"
+    },
+    {
+      "id": "x-pharmacology-009",
+      "status": "pass",
+      "assessment": "Old-patch removal plus time/site recording directly address duplicate exposure; same-site reuse, applying before checking and reconstructed memory records fail the stated problem.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "dc79cb8fdd721dbe5afdab51de01737054783044416b9b20a2333656fcca3761"
+    },
+    {
+      "id": "x-pharmacology-010",
+      "status": "pass",
+      "assessment": "Hand support corrects observed tip contact without promoting corneal placement or imprecise delivery. Foundation label fits; contaminated-product disposition would additionally follow product/local instructions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c991dedfa6cb9324b0a549e14fe2d17aefe573846b8f6d59864dc865e97dd56d"
+    },
+    {
+      "id": "x-pharmacology-011",
+      "status": "pass",
+      "assessment": "Separate original calculations followed by comparison preserve independence; hearing the first result biases the check. Both selected actions fit a policy explicitly requiring this check.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "28d4a91aed862fc34bc8e19b4be4a89834f96385dd040e58f718e8c7e23c394f"
+    },
+    {
+      "id": "x-pharmacology-012",
+      "status": "pass",
+      "assessment": "Individual tube suitability no longer implies mixing compatibility. Separate medicines and prescribed flushing accommodate both dose delivery and fluid restrictions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "adcd293cad80d8c61775166c5f3db512ea651c5587834e10ffd360990d9cf706"
+    },
+    {
+      "id": "x-pharmacology-013",
+      "status": "revise",
+      "assessment": "The key is sound, but “only possible explanation” makes the dosing-error alternative trivially dismissible. A concrete possible duplication is a better competing hypothesis.",
+      "issues": [
+        "The key is sound, but “only possible explanation” makes the dosing-error alternative trivially dismissible. A concrete possible duplication is a better competing hypothesis."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "A duplicate administration during the medication round",
+            "Accumulation despite an unchanged prescribed dose",
+            "Reduced absorption caused by the creatinine rise",
+            "Tolerance requiring a higher dose"
+          ],
+          "why": [
+            "A duplicate dose remains a possible cause to investigate, but the stated renal decline specifically supports reduced clearance even with correct administration.",
+            "Reduced clearance can increase exposure even when administration has not changed.",
+            "The main stated change affects elimination rather than proving poor absorption.",
+            "New drowsiness during renal decline suggests increased effect, not reduced response."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "c03167d2086a98f2e32872f941c1d00803268ae7d66f305b84dd9b8fc1cf2e89"
+    },
+    {
+      "id": "x-pharmacology-014",
+      "status": "revise",
+      "assessment": "Option0 advertises its omission (“only…without reviewing”), making the safe assessment key easier to guess. Use a plausible incomplete monitoring focus.",
+      "issues": [
+        "Option0 advertises its omission (“only…without reviewing”), making the safe assessment key easier to guess. Use a plausible incomplete monitoring focus."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Check blood pressure and review whether orthostatic dizziness is present",
+            "Reassess after the client has completed a full sleep cycle",
+            "Assess sedation and breathing before further sedating doses",
+            "Give the next sedative because respirations exceed 12/min"
+          ],
+          "why": [
+            "Blood pressure and postural symptoms may be relevant, but they do not assess progressive sedation and ventilation after adding another central depressant.",
+            "Waiting may miss progressive sedation and ventilatory impairment.",
+            "Combined effects can progress, so current safety and the regimen need review.",
+            "A single respiratory rate does not establish safety with increasing sedation."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "98f06be5844901407e3becf59054482327c880217ac9365a4aabeb218e305e84"
+    },
+    {
+      "id": "x-pharmacology-015",
+      "status": "pass",
+      "assessment": "A postinfusion sample cannot be interpreted as the ordered trough. Reporting exact times allows appropriate repeat sampling and dosing review rather than unplanned withholding or reduction.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8558ff53ccc5471394cf7e83afa7361e2ca58942533769d4cebaa84259f1be30"
+    },
+    {
+      "id": "x-pharmacology-016",
+      "status": "revise",
+      "assessment": "The safety context is now adequate, but the respiratory-rate alternative announces itself with “only evidence”. Keep the safety measurement without spelling out its insufficiency.",
+      "issues": [
+        "The safety context is now adequate, but the respiratory-rate alternative announces itself with “only evidence”. Keep the safety measurement without spelling out its insufficiency."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Ask about nausea and assess tolerance of a small permitted intake",
+            "Record sleep as proof that nausea resolved",
+            "Measure respiratory rate and compare it with the predose value",
+            "Wait for a full meal before reassessing"
+          ],
+          "why": [
+            "This measures the target symptom and its functional effect.",
+            "Sedation can occur without relief of nausea.",
+            "Respiratory monitoring evaluates medication safety; it does not directly establish nausea relief or tolerance of permitted intake.",
+            "A smaller permitted intake can evaluate response sooner and more tolerably."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "9f4f0f0aba73243a70e6094c2194529b3208940b7d83afbf0f491c6dccdcda65"
+    },
+    {
+      "id": "x-pharmacology-017",
+      "status": "revise",
+      "assessment": "Unknown compatibility is correctly resolved before co-infusion. Option0 signals deliberate nonassessment, rather than a realistic administration alternative.",
+      "issues": [
+        "Unknown compatibility is correctly resolved before co-infusion. Option0 signals deliberate nonassessment, rather than a realistic administration alternative."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Pause the maintenance fluid and give the medicine through the same tubing",
+            "Verify compatibility and an appropriate administration method",
+            "Run the medicine slowly through the Y-site",
+            "Look for cloudiness after starting the medicine"
+          ],
+          "why": [
+            "A pause does not establish compatibility with residual solution or an appropriate flushing/interruption plan; the infusion purpose and administration method still need verification.",
+            "The nurse needs a safe plan before the solutions contact each other.",
+            "A slower rate cannot establish chemical compatibility.",
+            "Some incompatibilities are not visible, and exposure has already occurred."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "4d1583ac8047feb7a0a41572cd7f70539adfd0f4df92ac8647096f6be72f1218"
+    },
+    {
+      "id": "x-pharmacology-018",
+      "status": "pass",
+      "assessment": "Physical bag-to-client tracing resolves detached labelling among similar infusions; pump location, remaining volume and an old diagram are meaningful but unreliable proxies.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "380de514e7d2698ee1ea8e93eae2119fd91eeec97edbb3caf59a67e2c25c59ff"
+    },
+    {
+      "id": "x-pharmacology-019",
+      "status": "revise",
+      "assessment": "New painful resistance correctly triggers stopping use and assessment. Remove the explicit “without reassessment” giveaway from the repositioning distractor.",
+      "issues": [
+        "New painful resistance correctly triggers stopping use and assessment. Remove the explicit “without reassessment” giveaway from the repositioning distractor."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Use a smaller syringe to generate more pressure",
+            "Reposition the arm and begin the medicine at a slower rate",
+            "Flush until blood return appears",
+            "Stop using the catheter and assess the site and patency"
+          ],
+          "why": [
+            "Higher pressure can damage the catheter or surrounding tissue.",
+            "Changing position or rate does not establish patency or resolve the cause of new pain and flushing resistance.",
+            "Continuing against resistance can worsen a catheter complication.",
+            "New pain and resistance suggest a complication requiring assessment."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "d248c77c5eb62c7d0cfff4eb9fd4ab62cced3c398ff241ca8ae0bc1d9e6fa91c"
+    },
+    {
+      "id": "x-pharmacology-020",
+      "status": "pass",
+      "assessment": "Vein-tracking warmth/redness/tenderness favour phlebitis over cool localized infiltration or an adhesive pattern. Foundation difficulty appropriately describes this recognition question.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "432e2371bde4f2f59139fcb126d24c76876daf06a5ea8885c63b0c43af18c91f"
+    },
+    {
+      "id": "x-pharmacology-021",
+      "status": "pass",
+      "assessment": "The named sublingual formulation depends on the prescribed mucosal route; swallowing, chewing or mixing into a drink does not reproduce it. Foundation label is appropriate.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "090aa46f61b580c78fe0620fe0abdaff8427cb01b1e4e80d8e504bb94ae7da68"
+    },
+    {
+      "id": "x-pharmacology-022",
+      "status": "revise",
+      "assessment": "The spacer key addresses observed coordination failure, but two distractors explicitly announce missing assessment. Replace those omission cues with plausible incomplete interventions.",
+      "issues": [
+        "The spacer key addresses observed coordination failure, but two distractors explicitly announce missing assessment. Replace those omission cues with plausible incomplete interventions."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Rehearse the written press-and-breathe sequence before the next dose",
+            "Arrange a dry-powder inhaler to remove the press-and-breathe step",
+            "Trial a compatible spacer with return demonstration",
+            "Add extra puffs to compensate for estimated loss"
+          ],
+          "why": [
+            "The client has already had repeated coaching; repeating the sequence does not directly address the demonstrated timing barrier.",
+            "A dry-powder device may be suitable for some clients, but inspiratory ability and device suitability must be assessed; a compatible spacer directly addresses this demonstrated barrier.",
+            "A spacer reduces the timing coordination required for delivery.",
+            "The delivered amount remains uncertain and the prescription is altered."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "c6b0e456e20f8ee3e863d9c76c8a33cb62ef540d3a72e44d21e5fe72c6cfc834"
+    },
+    {
+      "id": "x-pharmacology-023",
+      "status": "revise",
+      "assessment": "Two alternatives are wrong merely because they say unlabelled or unidentified. Use plausible but incomplete equipment/identification safeguards so the key requires selecting the route-specific combination.",
+      "issues": [
+        "Two alternatives are wrong merely because they say unlabelled or unidentified. Use plausible but incomplete equipment/identification safeguards so the key requires selecting the route-specific combination."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Label a Luer syringe for oral use and place it by the feeding pump",
+            "Use a labelled enteral syringe and select the line nearest the feeding pump",
+            "Use a labelled Luer syringe and have a second nurse confirm the drug",
+            "Use a labelled enteral syringe and trace the tube"
+          ],
+          "why": [
+            "Labelling and location cannot prevent a vascular connection when equipment is compatible with IV access.",
+            "Dedicated equipment and a label help, but equipment position does not verify which tube reaches the intended enteral route.",
+            "A drug check does not remove the vascular connection risk of using IV-compatible equipment for an enteral dose.",
+            "Dedicated equipment and tracing reduce wrong-route connection risk."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "2e936c6cd075b47daee4dba337bc120a26ab1e63a5fcee758c1b5cd1028753fb"
+    },
+    {
+      "id": "x-pharmacology-024",
+      "status": "pass",
+      "assessment": "Prompt pharmacy contact and escalation protects time-critical continuity. Independent timing or drug substitution and passive restocking delay do not resolve the current supply risk.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c6af44d322b41608bd3178e575982a13d4c15651c7d2cc39863d0381c3efba67"
+    },
+    {
+      "id": "x-pharmacology-025",
+      "status": "pass",
+      "assessment": "The ordered elbow treatment does not authorize use on new facial redness. Review protects against wrong diagnosis/site; a thinner or previously prescribed weaker steroid does not resolve authorization.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "8b07b4a8522041bfcd672ebe3d4e43b49bafa6e58ba3e72a3672c745378c2309"
+    }
+  ],
+  "activeSourceFile": "authoring/b/pharmacology-01.json",
+  "reviewerTask": "/root/review_legacy",
+  "sourceLimitations": "No fresh external claim-by-claim verification in this introductory medication-handling slice; bcmed is a general regulator anchor, not direct validation of every procedural statement."
+}

@@ -1,0 +1,531 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:55:59.072572+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/cross-b-psychosocial-all.json",
+  "sourceSha256": "fa2be5061cbaf86ead0e0a6b4411bad15e0bef679829126b644cd50009a7bee6",
+  "coverage": {
+    "sourceItems": 200,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-psychosocial-001",
+      "x-psychosocial-002",
+      "x-psychosocial-003",
+      "x-psychosocial-004",
+      "x-psychosocial-005",
+      "x-psychosocial-006",
+      "x-psychosocial-007",
+      "x-psychosocial-008",
+      "x-psychosocial-009",
+      "x-psychosocial-010",
+      "x-psychosocial-011",
+      "x-psychosocial-012",
+      "x-psychosocial-013",
+      "x-psychosocial-014",
+      "x-psychosocial-015",
+      "x-psychosocial-016",
+      "x-psychosocial-017",
+      "x-psychosocial-018",
+      "x-psychosocial-019",
+      "x-psychosocial-020",
+      "x-psychosocial-021",
+      "x-psychosocial-022",
+      "x-psychosocial-023",
+      "x-psychosocial-024",
+      "x-psychosocial-025"
+    ],
+    "unreviewedIds": [
+      "x-psychosocial-026",
+      "x-psychosocial-027",
+      "x-psychosocial-028",
+      "x-psychosocial-029",
+      "x-psychosocial-030",
+      "x-psychosocial-031",
+      "x-psychosocial-032",
+      "x-psychosocial-033",
+      "x-psychosocial-034",
+      "x-psychosocial-035",
+      "x-psychosocial-036",
+      "x-psychosocial-037",
+      "x-psychosocial-038",
+      "x-psychosocial-039",
+      "x-psychosocial-040",
+      "x-psychosocial-041",
+      "x-psychosocial-042",
+      "x-psychosocial-043",
+      "x-psychosocial-044",
+      "x-psychosocial-045",
+      "x-psychosocial-046",
+      "x-psychosocial-047",
+      "x-psychosocial-048",
+      "x-psychosocial-049",
+      "x-psychosocial-050",
+      "x-psychosocial-051",
+      "x-psychosocial-052",
+      "x-psychosocial-053",
+      "x-psychosocial-054",
+      "x-psychosocial-055",
+      "x-psychosocial-056",
+      "x-psychosocial-057",
+      "x-psychosocial-058",
+      "x-psychosocial-059",
+      "x-psychosocial-060",
+      "x-psychosocial-061",
+      "x-psychosocial-062",
+      "x-psychosocial-063",
+      "x-psychosocial-064",
+      "x-psychosocial-065",
+      "x-psychosocial-066",
+      "x-psychosocial-067",
+      "x-psychosocial-068",
+      "x-psychosocial-069",
+      "x-psychosocial-070",
+      "x-psychosocial-071",
+      "x-psychosocial-072",
+      "x-psychosocial-073",
+      "x-psychosocial-074",
+      "x-psychosocial-075",
+      "x-psychosocial-076",
+      "x-psychosocial-077",
+      "x-psychosocial-078",
+      "x-psychosocial-079",
+      "x-psychosocial-080",
+      "x-psychosocial-081",
+      "x-psychosocial-082",
+      "x-psychosocial-083",
+      "x-psychosocial-084",
+      "x-psychosocial-085",
+      "x-psychosocial-086",
+      "x-psychosocial-087",
+      "x-psychosocial-088",
+      "x-psychosocial-089",
+      "x-psychosocial-090",
+      "x-psychosocial-091",
+      "x-psychosocial-092",
+      "x-psychosocial-093",
+      "x-psychosocial-094",
+      "x-psychosocial-095",
+      "x-psychosocial-096",
+      "x-psychosocial-097",
+      "x-psychosocial-098",
+      "x-psychosocial-099",
+      "x-psychosocial-100",
+      "x-psychosocial-101",
+      "x-psychosocial-102",
+      "x-psychosocial-103",
+      "x-psychosocial-104",
+      "x-psychosocial-105",
+      "x-psychosocial-106",
+      "x-psychosocial-107",
+      "x-psychosocial-108",
+      "x-psychosocial-109",
+      "x-psychosocial-110",
+      "x-psychosocial-111",
+      "x-psychosocial-112",
+      "x-psychosocial-113",
+      "x-psychosocial-114",
+      "x-psychosocial-115",
+      "x-psychosocial-116",
+      "x-psychosocial-117",
+      "x-psychosocial-118",
+      "x-psychosocial-119",
+      "x-psychosocial-120",
+      "x-psychosocial-121",
+      "x-psychosocial-122",
+      "x-psychosocial-123",
+      "x-psychosocial-124",
+      "x-psychosocial-125",
+      "x-psychosocial-126",
+      "x-psychosocial-127",
+      "x-psychosocial-128",
+      "x-psychosocial-129",
+      "x-psychosocial-130",
+      "x-psychosocial-131",
+      "x-psychosocial-132",
+      "x-psychosocial-133",
+      "x-psychosocial-134",
+      "x-psychosocial-135",
+      "x-psychosocial-136",
+      "x-psychosocial-137",
+      "x-psychosocial-138",
+      "x-psychosocial-139",
+      "x-psychosocial-140",
+      "x-psychosocial-141",
+      "x-psychosocial-142",
+      "x-psychosocial-143",
+      "x-psychosocial-144",
+      "x-psychosocial-145",
+      "x-psychosocial-146",
+      "x-psychosocial-147",
+      "x-psychosocial-148",
+      "x-psychosocial-149",
+      "x-psychosocial-150",
+      "x-psychosocial-151",
+      "x-psychosocial-152",
+      "x-psychosocial-153",
+      "x-psychosocial-154",
+      "x-psychosocial-155",
+      "x-psychosocial-156",
+      "x-psychosocial-157",
+      "x-psychosocial-158",
+      "x-psychosocial-159",
+      "x-psychosocial-160",
+      "x-psychosocial-161",
+      "x-psychosocial-162",
+      "x-psychosocial-163",
+      "x-psychosocial-164",
+      "x-psychosocial-165",
+      "x-psychosocial-166",
+      "x-psychosocial-167",
+      "x-psychosocial-168",
+      "x-psychosocial-169",
+      "x-psychosocial-170",
+      "x-psychosocial-171",
+      "x-psychosocial-172",
+      "x-psychosocial-173",
+      "x-psychosocial-174",
+      "x-psychosocial-175",
+      "x-psychosocial-176",
+      "x-psychosocial-177",
+      "x-psychosocial-178",
+      "x-psychosocial-179",
+      "x-psychosocial-180",
+      "x-psychosocial-181",
+      "x-psychosocial-182",
+      "x-psychosocial-183",
+      "x-psychosocial-184",
+      "x-psychosocial-185",
+      "x-psychosocial-186",
+      "x-psychosocial-187",
+      "x-psychosocial-188",
+      "x-psychosocial-189",
+      "x-psychosocial-190",
+      "x-psychosocial-191",
+      "x-psychosocial-192",
+      "x-psychosocial-193",
+      "x-psychosocial-194",
+      "x-psychosocial-195",
+      "x-psychosocial-196",
+      "x-psychosocial-197",
+      "x-psychosocial-198",
+      "x-psychosocial-199",
+      "x-psychosocial-200"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.bccnm.ca/LPN/PracticeStandards/Pages/boundaries.aspx",
+      "supports": "009: therapeutic focus and limited self-disclosure based on client need.",
+      "limitation": "Generic relationship principles, not an assertion of identical provincial legal wording."
+    },
+    {
+      "url": "https://www.camh.ca/en/professionals/treating-conditions-and-disorders/anxiety-disorders",
+      "supports": "017/019/025: assess non-psychiatric causes and functional effects; monitor treatment response.",
+      "limitation": "Does not individually validate each offered response."
+    },
+    {
+      "url": "https://www.camh.ca/-/media/health-info-files/publications/anxiety-disorders-information-guide2024-pdf.pdf",
+      "supports": "020/022: graded exposure and cognitive strategies for anxiety.",
+      "limitation": "Search-retrieved treatment explanation; no individualized exposure regimen imported."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-psychosocial-001",
+      "status": "revise",
+      "assessment": "The clarification key is defensible, but the meals and family-decision statements are remote from the expressed concern and make it the only useful response.",
+      "issues": [
+        "The clarification key is defensible, but the meals and family-decision statements are remote from the expressed concern and make it the only useful response."
+      ],
+      "proposedChanges": [
+        "Replace the two filler responses with plausible information-giving and coping-assessment replies, such as asking what the physician explained or suggesting a previous coping strategy; explain why clarifying this ambiguous statement comes first."
+      ],
+      "reviewedItemSha256": "acf098b1c77fa73a5101a6ff8e02e3f5cbba6f3ee20baf517d0c5d96f24b16b6"
+    },
+    {
+      "id": "x-psychosocial-002",
+      "status": "pass",
+      "assessment": "The mismatch between stated reassurance and visible trembling supports a neutral observation; the alternatives represent recognizable assumptions from consent, reassurance or deferral.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c7f1d46f164bd818775f488f0c725b4eec5052d39d56c7d3b94ba7d2328c8dc7"
+    },
+    {
+      "id": "x-psychosocial-003",
+      "status": "revise",
+      "assessment": "Ranking other clients as more important and requiring written complaints are implausibly dismissive; the key also bundles acknowledgment and assessment.",
+      "issues": [
+        "Ranking other clients as more important and requiring written complaints are implausibly dismissive; the key also bundles acknowledgment and assessment."
+      ],
+      "proposedChanges": [
+        "Compare concise responses that explain the queue, estimate remaining wait, explore the unmet need, or offer the complaint process. Use actual dialogue and explain why clarifying this client's immediate concern is best."
+      ],
+      "reviewedItemSha256": "00524ecfe5455c9370e770d5664ea72b2e5afcec6c1b3cb6667202936657d41f"
+    },
+    {
+      "id": "x-psychosocial-004",
+      "status": "revise",
+      "assessment": "Always-best disclosure and asking the child to decide are overtly wrong, and the key alone is long and comprehensive.",
+      "issues": [
+        "Always-best disclosure and asking the child to decide are overtly wrong, and the key alone is long and comprehensive."
+      ],
+      "proposedChanges": [
+        "Use plausible replies that offer nurse advice, ask permission to contact family, describe general disclosure benefits, or explore the client's concerns. Remove universal wording and retain capable-client decision support."
+      ],
+      "reviewedItemSha256": "f40bbd8235d9befa4418a71381d99aa370fa7c0f45118b0ac3eb0f3ef7447bbe"
+    },
+    {
+      "id": "x-psychosocial-005",
+      "status": "revise",
+      "assessment": "The content is generic communication recall labelled application, and whenever speech slows advertises the interruption error.",
+      "issues": [
+        "The content is generic communication recall labelled application, and whenever speech slows advertises the interruption error."
+      ],
+      "proposedChanges": [
+        "Either label foundation and use Offer possible words when the client pauses as the competing strategy, or supply a sensitive interview where a specific misunderstood expression needs checking."
+      ],
+      "reviewedItemSha256": "b68ac4acaeb32df0babddac77efe18fdbb22b5d6634451ee5bd08a1eba8cb612"
+    },
+    {
+      "id": "x-psychosocial-006",
+      "status": "pass",
+      "assessment": "The explicit absence of immediate safety concern supports respecting a temporary refusal while planning return; declining this conversation does not justify documenting refusal of future support.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "525128bf116f8ee9e1e86306ca2948ef64094a7f43ac5c910fe483074ed25f31"
+    },
+    {
+      "id": "x-psychosocial-007",
+      "status": "revise",
+      "assessment": "Ending because participation is impossible is an exaggerated distractor and all alternatives are obviously countertherapeutic.",
+      "issues": [
+        "Ending because participation is impossible is an exaggerated distractor and all alternatives are obviously countertherapeutic."
+      ],
+      "proposedChanges": [
+        "Compare waiting with one question, offering written responses, inviting a support person, and scheduling a shorter return interview. Supply engagement and fatigue cues that favour supported processing time now."
+      ],
+      "reviewedItemSha256": "e127a240fd4da032ffaea5c1dc4221b9c5fbd01ea610cb5b12909486000d362a"
+    },
+    {
+      "id": "x-psychosocial-008",
+      "status": "pass",
+      "assessment": "Tentative observation appropriately separates perceived emotion from the nurse's fixed attribution, premature positive reframing and unsolicited advice; the client can confirm or correct meaning.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a860befaffbb4062aa84ce231f27f97a806c99b42f666ca46444f90681c8a374"
+    },
+    {
+      "id": "x-psychosocial-009",
+      "status": "revise",
+      "assessment": "Comparing whose divorce was harder and abruptly leaving are cartoon alternatives, making the longest client-focused key guessable.",
+      "issues": [
+        "Comparing whose divorce was harder and abruptly leaving are cartoon alternatives, making the longest client-focused key guessable."
+      ],
+      "proposedChanges": [
+        "Compare brief relevant self-disclosure, answering the factual personal question, exploring why the client asks, and redirecting to current support needs. Establish why detailed disclosure is being requested and preserve one best boundary response."
+      ],
+      "reviewedItemSha256": "4d7885bc5c45546abbc7cf5827f170c7c8dd591b585015d102c3f75477db3172"
+    },
+    {
+      "id": "x-psychosocial-010",
+      "status": "revise",
+      "assessment": "The generic interpreter-practice item is mostly foundation recall under current metadata.",
+      "issues": [
+        "The generic interpreter-practice item is mostly foundation recall under current metadata."
+      ],
+      "proposedChanges": [
+        "Label foundation or add a concrete qualified-interpreter interview with an actual participation problem. Keep direct client address, time and confidentiality, and avoid an unrelated child-trauma filler if enriching the scenario."
+      ],
+      "reviewedItemSha256": "a21fe9dd0147e0492e1ec01bacec4fc6c1d987be35319aab430f14f60ee2fa97"
+    },
+    {
+      "id": "x-psychosocial-011",
+      "status": "revise",
+      "assessment": "Indefinite meetings and assigning another client reassurance are implausible, while the key alone contains a reasonable plan.",
+      "issues": [
+        "Indefinite meetings and assigning another client reassurance are implausible, while the key alone contains a reasonable plan."
+      ],
+      "proposedChanges": [
+        "Use consistent session timing, advance ending notice, an immediate extra session, and a written summary given at departure as competing plans; explain why predictable notice and next contact address this distress."
+      ],
+      "reviewedItemSha256": "01237e3c1d988c3a5cd840d375c913bec7acdd49f5d22d1dd586e840e9bcab16"
+    },
+    {
+      "id": "x-psychosocial-012",
+      "status": "revise",
+      "assessment": "Without-discussion wording and orders to stop asking advertise wrongness rather than presenting competing therapeutic strategies.",
+      "issues": [
+        "Without-discussion wording and orders to stop asking advertise wrongness rather than presenting competing therapeutic strategies."
+      ],
+      "proposedChanges": [
+        "Compare repeated reassurance, a coping exercise, predictable check-ins and exploration of the trigger. Give enough context to favour discovering what brings the fear back before selecting the later plan."
+      ],
+      "reviewedItemSha256": "a66a5d8ee25729dafdc6e4669e207fcbe1f57447670b6cb6b5c084b71335dcf2"
+    },
+    {
+      "id": "x-psychosocial-013",
+      "status": "revise",
+      "assessment": "Selfish-sibling agreement, stop-saying-that and comparison with other clients make the key the only respectful response.",
+      "issues": [
+        "Selfish-sibling agreement, stop-saying-that and comparison with other clients make the key the only respectful response."
+      ],
+      "proposedChanges": [
+        "Use four respectful but distinct replies: validate current hurt, suggest calling the sibling, review possible reasons for absence, or remind the client of prior support. Explain validation before problem-solving."
+      ],
+      "reviewedItemSha256": "939695b7c027eb65f26656678bba86592628455504b5588e5c935553cacce194"
+    },
+    {
+      "id": "x-psychosocial-014",
+      "status": "revise",
+      "assessment": "Blame, family-solve-everything and avoidance are implausible alternatives to a strengths question.",
+      "issues": [
+        "Blame, family-solve-everything and avoidance are implausible alternatives to a strengths question."
+      ],
+      "proposedChanges": [
+        "Use parallel assessment questions about prior coping, current housing deadlines, family resources and financial priorities. The stated task should make previous effective coping the best strengths-focused assessment without demeaning distractors."
+      ],
+      "reviewedItemSha256": "c5e83e4548d10df777fcb16103a9b1a1dc7433cc2cf137119f9bfee7fee3b739"
+    },
+    {
+      "id": "x-psychosocial-015",
+      "status": "revise",
+      "assessment": "Continuing a known error to avoid embarrassment is an exaggerated distractor; generic recall is labelled application.",
+      "issues": [
+        "Continuing a known error to avoid embarrassment is an exaggerated distractor; generic recall is labelled application."
+      ],
+      "proposedChanges": [
+        "Use a believable competing response such as apologizing and moving to the next topic, explain why corrected meaning still needs verification, and label foundation or provide the specific misunderstood exchange."
+      ],
+      "reviewedItemSha256": "949058565c58a48208bb6174deeb632a0f0a56ce735b52669072d0c1d54efde2"
+    },
+    {
+      "id": "x-psychosocial-016",
+      "status": "revise",
+      "assessment": "All information delayed until sedation, a lecture without pauses and medication-only support are overt cues.",
+      "issues": [
+        "All information delayed until sedation, a lecture without pauses and medication-only support are overt cues."
+      ],
+      "proposedChanges": [
+        "Compare a short explanation with questions, a full written leaflet, a relaxation exercise and a request for prescribed anxiolysis. The preserved ability to discuss worries should guide focused teaching."
+      ],
+      "reviewedItemSha256": "6d9afaff779d0435e6ca43ff9e48e513db2b2ea19e3fa0419497bf17d5ff2289"
+    },
+    {
+      "id": "x-psychosocial-017",
+      "status": "revise",
+      "assessment": "Childhood-stress exploration and waiting for therapy are remote from new chest pressure and sweating, and the key is the sole comprehensive response.",
+      "issues": [
+        "Childhood-stress exploration and waiting for therapy are remote from new chest pressure and sweating, and the key is the sole comprehensive response."
+      ],
+      "proposedChanges": [
+        "Use competing immediate actions such as physical assessment and escalation, coached breathing, prescribed anxiety PRN, or comparison with previous panic symptoms. Explain diagnostic overshadowing and why new features warrant urgent physical assessment."
+      ],
+      "reviewedItemSha256": "5f397123dddfffaa126af063558e4f95a5baf9f87f52e1678ec9c8155c7e4824"
+    },
+    {
+      "id": "x-psychosocial-018",
+      "status": "revise",
+      "assessment": "Permanent avoidance and learning only during another crisis are exaggerated alternatives.",
+      "issues": [
+        "Permanent avoidance and learning only during another crisis are exaggerated alternatives."
+      ],
+      "proposedChanges": [
+        "Compare reviewing early cues, arranging extra reassurance visits, limiting immediate triggers, and reviewing medication adherence. Make the question explicitly about developing a future coping response once concentration returns."
+      ],
+      "reviewedItemSha256": "8647e0d658d96afc8ec7288100b734b9c18da6665f9bcd6ff971cbbff7d72278"
+    },
+    {
+      "id": "x-psychosocial-019",
+      "status": "revise",
+      "assessment": "The key lists four useful domains while family optimism and suppressing thoughts are filler; only-probability language gives away the error.",
+      "issues": [
+        "The key lists four useful domains while family optimism and suppressing thoughts are filler; only-probability language gives away the error."
+      ],
+      "proposedChanges": [
+        "Use parallel assessment targets of similar scope, such as functional impact and coping, physical symptoms and duration, family anxiety history, and specific worry triggers. Add context identifying the missing information rather than making all broad assessment choices arguably correct."
+      ],
+      "reviewedItemSha256": "e922917cca29411529e5066ea74649add844d1d999f4f31304b060dc8928b358"
+    },
+    {
+      "id": "x-psychosocial-020",
+      "status": "revise",
+      "assessment": "Unannounced maximum exposure, indefinite avoidance and independent hierarchy changes are exaggerated; the key repeats the agreed-plan wording.",
+      "issues": [
+        "Unannounced maximum exposure, indefinite avoidance and independent hierarchy changes are exaggerated; the key repeats the agreed-plan wording."
+      ],
+      "proposedChanges": [
+        "Supply the actual agreed next step and a tolerance observation. Compare advancing the hierarchy, repeating the current step, adding reassurance, or abandoning the attempt, with context determining the right graded response."
+      ],
+      "reviewedItemSha256": "65aa581ae036ebc472ab054bb1131bb3fd5db69599a88a36119ccf0fdfc789d3"
+    },
+    {
+      "id": "x-psychosocial-021",
+      "status": "revise",
+      "assessment": "Repeated catastrophic review as reassurance is a weak SATA distractor and the stem is generic skill recall.",
+      "issues": [
+        "Repeated catastrophic review as reassurance is a weak SATA distractor and the stem is generic skill recall."
+      ],
+      "proposedChanges": [
+        "Use a plausible misconception such as relying on reassurance from others each time anxiety rises; explain how excessive reassurance can maintain dependence. Label foundation unless an actual coping-plan context is supplied."
+      ],
+      "reviewedItemSha256": "ce5d3afdc1648be782406b94104b675448bc51fd906a41001ec28a13dd68faea"
+    },
+    {
+      "id": "x-psychosocial-022",
+      "status": "revise",
+      "assessment": "Group exclusion and public challenge are cartoon alternatives; the key is again the only reasonable comprehensive action.",
+      "issues": [
+        "Group exclusion and public challenge are cartoon alternatives; the key is again the only reasonable comprehensive action."
+      ],
+      "proposedChanges": [
+        "Compare specific first roles or levels of support with the client's current agreed exposure step, preserving collaboration and avoiding a generic follow-the-plan answer."
+      ],
+      "reviewedItemSha256": "1cbc43c2f383a7f96f8b2d1cdcc91c2f01ed19214db0e3e23658e75efc996045"
+    },
+    {
+      "id": "x-psychosocial-023",
+      "status": "revise",
+      "assessment": "Sugar-free and peer brand are low-value filler, while only family history advertises an omission.",
+      "issues": [
+        "Sugar-free and peer brand are low-value filler, while only family history advertises an omission."
+      ],
+      "proposedChanges": [
+        "Compare caffeine amount/timing, sleep pattern, prescribed stimulant use and rhythm-associated red flags. Ask which history most directly tests the reported drink-symptom association, and avoid implying caffeine attribution replaces medical assessment of palpitations."
+      ],
+      "reviewedItemSha256": "a162959f370daa2f4d6db9dcbd25f94232a2e96c48c7231dfad446491aa9d190"
+    },
+    {
+      "id": "x-psychosocial-024",
+      "status": "revise",
+      "assessment": "Increasing facts per minute and using a signature as learning proof are obvious errors; the key is the longest and only useful action.",
+      "issues": [
+        "Increasing facts per minute and using a signature as learning proof are obvious errors; the key is the longest and only useful action."
+      ],
+      "proposedChanges": [
+        "Compare addressing anxiety, providing written material, arranging a support person's participation, and repeating teach-back. Give current retention/readiness cues that make anxiety support before retrying the best next step."
+      ],
+      "reviewedItemSha256": "35576d6c5cf56bda7fac21070ed68e98127ecd3f42dda8864248bc69cd5fadf4"
+    },
+    {
+      "id": "x-psychosocial-025",
+      "status": "revise",
+      "assessment": "Memorized terminology and silence about worry are filler, while never feeling anxiety is an absolute; the functional key is conspicuously longest.",
+      "issues": [
+        "Memorized terminology and silence about worry are filler, while never feeling anxiety is an absolute; the functional key is conspicuously longest."
+      ],
+      "proposedChanges": [
+        "Use comparable outcome statements: lower resting anxiety, attendance with substantial staff reassurance, successful coping during a planned short trip, and avoidance of the busiest store. Explain why the chosen functional goal best demonstrates progress."
+      ],
+      "reviewedItemSha256": "416d024aa9e3c725f821e9d96d957678440e57ddf018b6d6891007eb7e1d19dc"
+    }
+  ],
+  "reviewerTask": "/root/author_pharm_adaptation",
+  "activeSourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/d/questions.json"
+}

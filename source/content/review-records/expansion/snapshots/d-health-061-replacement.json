@@ -1,0 +1,34 @@
+[
+  {
+    "id": "x-health-061",
+    "cat": "health",
+    "title": "Obtaining an unreceived screening result",
+    "stem": "A client had a screening mammogram several weeks ago and has not obtained the result. Their address and telephone number changed after the visit, and they have no online account. What should the nurse recommend?",
+    "type": "single",
+    "options": [
+      "Wait for the next routine screening reminder at the new address",
+      "Contact the screening service for the result and update contact details",
+      "Book another screening mammogram using the new contact information",
+      "Ask the former household to forward any screening correspondence"
+    ],
+    "answer": [
+      1
+    ],
+    "why": [
+      "A future reminder does not confirm the current result or whether follow-up is needed.",
+      "Direct contact can establish the actual result and restore a reliable route for any further communication.",
+      "Repeating screening does not first resolve the missing result and may duplicate an already completed test.",
+      "Forwarding may help recover mail, but is less reliable than confirming the result directly and correcting the service record."
+    ],
+    "takeaway": "Confirm an unavailable screening result and restore reliable contact rather than infer the result from silence.",
+    "refs": [
+      "d-screen-results"
+    ],
+    "exhibit": null,
+    "subtopic": "Screening result access",
+    "learningObjective": "Confirm an unavailable screening result and restore reliable contact rather than infer the result from silence.",
+    "reasoningSkill": "teaching",
+    "difficulty": "application",
+    "provenance": "ai-authored"
+  }
+]

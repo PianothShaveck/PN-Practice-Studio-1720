@@ -1,0 +1,295 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T16:58:31.318725+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/basic-076-100.json",
+  "sourceSha256": "d086544ac51a716330d80dc1baef3f0761154cf505ba08e4fde80998c405ca3c",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-basic-076",
+      "x-basic-077",
+      "x-basic-078",
+      "x-basic-079",
+      "x-basic-080",
+      "x-basic-081",
+      "x-basic-082",
+      "x-basic-083",
+      "x-basic-084",
+      "x-basic-085",
+      "x-basic-086",
+      "x-basic-087",
+      "x-basic-088",
+      "x-basic-089",
+      "x-basic-090",
+      "x-basic-091",
+      "x-basic-092",
+      "x-basic-093",
+      "x-basic-094",
+      "x-basic-095",
+      "x-basic-096",
+      "x-basic-097",
+      "x-basic-098",
+      "x-basic-099",
+      "x-basic-100"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-basic-076",
+      "status": "pass",
+      "assessment": "Liquid leakage after hard stool in immobility supports retained-stool/overflow assessment before antidiarrhoeal treatment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "55cddc5d3ed47cdc71213864f0cfbaf9bfc4d4c0466e0561d1efa43ce7af58d8"
+    },
+    {
+      "id": "x-basic-077",
+      "status": "pass",
+      "assessment": "Systematic diet/symptom and stool timing/consistency records distinguish patterns from selective reporting.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e66d20b4f194fae1e52dc3ee4f3ab2a5f63be042d9e13a84e461d6338185d699"
+    },
+    {
+      "id": "x-basic-078",
+      "status": "revise",
+      "assessment": "Privacy/position key is defensible; assembling several staff for encouragement is a weak distractor.",
+      "issues": [
+        "Privacy/position key is defensible; assembling several staff for encouragement is a weak distractor."
+      ],
+      "proposedChanges": [
+        "Replace option0 with: Keep the curtain partly open so staff can monitor progress continuously. Explain that observation should preserve necessary safety while reducing the identified privacy barrier."
+      ],
+      "reviewedItemSha256": "79ccaa2eb4794127b00a561b6666cf7271cf80efbf6b3df0e200560d802d0e94"
+    },
+    {
+      "id": "x-basic-079",
+      "status": "revise",
+      "assessment": "Easy-release clothing addresses fastening delay; toileting only once per shift is unrealistically sparse.",
+      "issues": [
+        "Easy-release clothing addresses fastening delay; toileting only once per shift is unrealistically sparse."
+      ],
+      "proposedChanges": [
+        "Replace option0 with: Schedule a toilet offer immediately before the nurse leaves for each break. Explain that staffing times alone do not address the fastening barrier or individualized urgency pattern."
+      ],
+      "reviewedItemSha256": "7b31dd2ee485648d79a237912d79cea4d1502454d72476c59bb3634cc8b33f75"
+    },
+    {
+      "id": "x-basic-080",
+      "status": "pass",
+      "assessment": "Observed dryness with cues supports individualized prompted voiding; waiting for spontaneous requests ignores demonstrated cognitive support need.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "57bf7536de0d8097acc9417053a9d908bdb47907db69c4b57c23d9ca68d40d13"
+    },
+    {
+      "id": "x-basic-081",
+      "status": "pass",
+      "assessment": "Prescribed pelvic-floor consistency is appropriate; bearing down and repeated stop-start voiding are recognized technique errors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e799b2fc16e849353d3ded262eeda56ef64dcb709fb35e4d0655d1c064e309f7"
+    },
+    {
+      "id": "x-basic-082",
+      "status": "revise",
+      "assessment": "Earlier intake is sound; assuming antibiotics without infection cues is unrelated filler.",
+      "issues": [
+        "Earlier intake is sound; assuming antibiotics without infection cues is unrelated filler."
+      ],
+      "proposedChanges": [
+        "Replace option1 with: Use scheduled daytime toilet visits while keeping evening fluid intake unchanged. Explain that daytime scheduling alone does not address the documented nocturnal volume pattern."
+      ],
+      "reviewedItemSha256": "8b92eaed987864ad489ae62cf485987c8f6e7987d1dd60c1887b98192dd9800c"
+    },
+    {
+      "id": "x-basic-083",
+      "status": "pass",
+      "assessment": "Shorter toilet access plus assistance matches retained transfer ability and urgency; catheter convenience is not an indication.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "e25584a0ca0b2b8077fd6680ef5eea2ba7d3f096654f5bfd341e459f554d4ed5"
+    },
+    {
+      "id": "x-basic-084",
+      "status": "revise",
+      "assessment": "Targeted urinal support is sound; immediate catheter insertion for weak grip is an implausibly invasive distractor.",
+      "issues": [
+        "Targeted urinal support is sound; immediate catheter insertion for weak grip is an implausibly invasive distractor."
+      ],
+      "proposedChanges": [
+        "Replace option3 with: Offer the urinal at fixed two-hour intervals without assistance holding it. Explain that scheduled access does not resolve the demonstrated grip and positioning difficulty."
+      ],
+      "reviewedItemSha256": "5b3895cc1bb8543cce062ff75fde4f641012cc32b971b61d48b0f06f13ba285a"
+    },
+    {
+      "id": "x-basic-085",
+      "status": "pass",
+      "assessment": "Permitted head elevation and positional difficulty support a more natural aligned elimination position.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "76ff2fccd72a5a14bbaccd0a7c5cba57ef97f2082b1e28e90352bd672f017b3f"
+    },
+    {
+      "id": "x-basic-086",
+      "status": "pass",
+      "assessment": "Observed taut tubing directly identifies traction; securement/slack adjustment precedes assumptions about infection or size.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ffcff6895abc7a3c0201d9cfb7f31c1415a304440adf1a0fa2600e544d01842b"
+    },
+    {
+      "id": "x-basic-087",
+      "status": "pass",
+      "assessment": "Avoiding outlet contact and securely closing preserve clean drainage; overfilling/contact with collected urine are meaningful device-care errors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7ac204506aaec8bdafaf758628e484929c6d8faa33f88184318b79f2d117cad4"
+    },
+    {
+      "id": "x-basic-088",
+      "status": "revise",
+      "assessment": "Gentle external hygiene key is sound; internal urethral scrubbing and pulling the catheter outward are cartoon unsafe.",
+      "issues": [
+        "Gentle external hygiene key is sound; internal urethral scrubbing and pulling the catheter outward are cartoon unsafe."
+      ],
+      "proposedChanges": [
+        "Replace option1 with: Use an antiseptic wash at every routine clean even when not prescribed. Replace option2 with: Apply antibiotic ointment around the meatus routinely without an indication. Explain routine gentle care and avoiding unnecessary irritation/products; retain closed-system rationale for option3."
+      ],
+      "reviewedItemSha256": "d66e16ceb1de41a2f207fe762b83fafd7069b4707350ea5309c3750840553da3"
+    },
+    {
+      "id": "x-basic-089",
+      "status": "pass",
+      "assessment": "New marks after product change warrant size/skin review; cream alone does not remove mechanical pressure.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a7d5de9ea23695415c9076565f8b7d95a44dfb6c92cfbdc8675db20f204f6952"
+    },
+    {
+      "id": "x-basic-090",
+      "status": "pass",
+      "assessment": "Earlier emptying relieves weight traction; extra tape/belt pressure do not remove loading and frequent complete changes can injure skin.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "7f9c076acc543ee9cb4cfb632d48e3ccea441bd3c53fecad8542a2e659862a4f"
+    },
+    {
+      "id": "x-basic-091",
+      "status": "revise",
+      "assessment": "Remove leaking appliance and assess seal is defensible; reducing food to stop all output is unrealistic.",
+      "issues": [
+        "Remove leaking appliance and assess seal is defensible; reducing food to stop all output is unrealistic."
+      ],
+      "proposedChanges": [
+        "Replace option0 with: Wait until after the next meal so the appliance can be changed when output is expected to slow. Explain that active burning/leakage requires prompt skin protection rather than scheduling delay."
+      ],
+      "reviewedItemSha256": "3f49821a414f66e1bf4e5d9777cb651c050190b111467a41e3d5395e26f29c03"
+    },
+    {
+      "id": "x-basic-092",
+      "status": "revise",
+      "assessment": "Refitting for reduced postoperative swelling is sound; pouch deodorant is irrelevant to exposed skin.",
+      "issues": [
+        "Refitting for reduced postoperative swelling is sound; pouch deodorant is irrelevant to exposed skin."
+      ],
+      "proposedChanges": [
+        "Replace option3 with: Fill the enlarged gap with extra barrier paste without remeasuring. Explain that accessories should not replace correcting an oversized opening as the stoma changes."
+      ],
+      "reviewedItemSha256": "e7fa284a16b79f2caceeea3d336588711920c6819b3fa052cd67fe8a2008f62b"
+    },
+    {
+      "id": "x-basic-093",
+      "status": "pass",
+      "assessment": "Graded participation respects readiness while preserving learning opportunity; immediate full performance or delayed teaching is less suitable.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "885c40ab853147170e7623645acfe870c670441c57fb389b3ca3c8cab41bdd69"
+    },
+    {
+      "id": "x-basic-094",
+      "status": "revise",
+      "assessment": "Checking seal and return demonstration are sound; full pouch safest overnight is an implausible claim.",
+      "issues": [
+        "Checking seal and return demonstration are sound; full pouch safest overnight is an implausible claim."
+      ],
+      "proposedChanges": [
+        "Replace option0 with: Adds tape over a small leak and postpones barrier inspection. Explain that a leak needs assessment of the seal and skin rather than concealment."
+      ],
+      "reviewedItemSha256": "77c521983b9a423e6fe0b63574c8518e0b7692c6d1e15814cb8972410f5974c8"
+    },
+    {
+      "id": "x-basic-095",
+      "status": "pass",
+      "assessment": "Individual foods and pouch options support participation; broad diet restriction and certainty that gas ends do not.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "351a65608c0c163c75e053c91514c180d4cee239aed253dff3bd0746bbaa99c9"
+    },
+    {
+      "id": "x-basic-096",
+      "status": "revise",
+      "assessment": "All distractors are poor: exact minute, every laxative and louder sounds. Rebuild around realistic outcome interpretation.",
+      "issues": [
+        "All distractors are poor: exact minute, every laxative and louder sounds. Rebuild around realistic outcome interpretation."
+      ],
+      "proposedChanges": [
+        "Use alternatives: Bowel movements are now daily but require straining; Abdominal bloating remains despite frequent small stools; Stool frequency has increased but stools are watery. Correct response should retain restored comfort and individual pattern."
+      ],
+      "reviewedItemSha256": "60b4e5751abbb78217ff34728d51ca5fafed17ecced848279bbda223f3e3cc86"
+    },
+    {
+      "id": "x-basic-097",
+      "status": "pass",
+      "assessment": "Barrier plus gentle cleaning/drying addresses frequent stool irritation; friction and prolonged stool contact worsen skin exposure.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6941f9b486eca16b99baac028e63e008d15e79231ca1d7911c0e384db1a9cacb"
+    },
+    {
+      "id": "x-basic-098",
+      "status": "revise",
+      "assessment": "Agreed accessible signal is sound; waiting for a full word and continuously present family are excessively unrealistic.",
+      "issues": [
+        "Agreed accessible signal is sound; waiting for a full word and continuously present family are excessively unrealistic."
+      ],
+      "proposedChanges": [
+        "Replace option1 with: Ask a series of spoken questions only when the client becomes restless. Replace option3 with: Place the call bell within reach without agreeing what a toileting request will mean. Explain that a reliable accessible shared signal directly addresses expressive difficulty."
+      ],
+      "reviewedItemSha256": "37e1431d67cdb32a2f41b57a5cbc9789f01e934cf184d9145f03c783811fc56c"
+    },
+    {
+      "id": "x-basic-099",
+      "status": "pass",
+      "assessment": "Actual diary/sleep pattern should individualize fixed waking rounds; staffing convenience is insufficient and removing all help ignores residual needs.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9a0243ced63baafa9805cfd0e97c2b4fe2ecc7cab0061bd5d8b7784797ee3c69"
+    },
+    {
+      "id": "x-basic-100",
+      "status": "revise",
+      "assessment": "All wrong options are irrelevant filler and the key lacks a defined timeframe/frequency despite asking for a measurable goal.",
+      "issues": [
+        "All wrong options are irrelevant filler and the key lacks a defined timeframe/frequency despite asking for a measurable goal."
+      ],
+      "proposedChanges": [
+        "Ask which goal best measures the success of a plan to reduce afternoon accidents. Use: No more than one leakage episode during afternoon activities over the next seven days (key); Demonstrate easier clothing fastenings by Friday; Record daily fluid intake for seven days; Describe two continence strategies by the next visit. Explain that the latter are useful learning/process measures but do not directly measure the requested continence outcome."
+      ],
+      "reviewedItemSha256": "93fe8cb3383726d4e8eec626c1de2cb3d12cb1478fa2b36671bf60eb5e2dfe52"
+    }
+  ],
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

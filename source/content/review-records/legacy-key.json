@@ -1,0 +1,3407 @@
+{
+  "questions": [
+    {
+      "id": "management-01",
+      "cat": "management",
+      "title": "A change in priority",
+      "stem": "At the start of a shift, which client should the practical nurse assess first?",
+      "options": [
+        "A client awaiting routine discharge teaching",
+        "A client with new stridor after neck surgery",
+        "A client requesting assistance with a scheduled bath",
+        "A client with chronic knee pain unchanged from yesterday"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Teaching can wait until an immediate threat is addressed.",
+        "New stridor suggests upper-airway obstruction. Assess immediately and activate appropriate emergency help.",
+        "Routine personal care is important but not the highest priority here.",
+        "Unchanged chronic pain needs care, but the new airway finding is more urgent."
+      ],
+      "takeaway": "New airway compromise takes priority over stable, routine needs.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "management-02",
+      "cat": "management",
+      "title": "A client declines care",
+      "stem": "A capable adult declines a prescribed dressing change after the nurse explains its purpose. What is the best next action?",
+      "options": [
+        "Ask a relative to overrule the refusal",
+        "Proceed because the treatment is prescribed",
+        "Explore the concern, respect the decision and communicate/document it",
+        "Ask the client to leave the service"
+      ],
+      "answer": [
+        2
+      ],
+      "why": [
+        "A relative does not automatically replace a capable adult’s decision.",
+        "An order does not remove the need for consent.",
+        "Clarify concerns without coercion, explain relevant consequences and communicate the informed refusal.",
+        "Withholding unrelated care would be inappropriate."
+      ],
+      "takeaway": "Consent is an ongoing conversation; a capable client may refuse.",
+      "refs": [
+        "cno",
+        "bc"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "management-03",
+      "cat": "management",
+      "title": "Safe assignment",
+      "stem": "Which task is the best candidate for assignment to a trained unregulated care provider, with clear instructions and supervision consistent with local policy?",
+      "options": [
+        "Assess new chest pain",
+        "Help a stable client with an established bathing routine",
+        "Decide whether a PRN sedative is appropriate",
+        "Teach a newly diagnosed client to adjust insulin"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "New symptoms require nursing assessment.",
+        "A predictable personal-care task may be assigned after checking competence and client needs.",
+        "Medication-related clinical judgment cannot simply be assigned as a routine task.",
+        "Initial teaching and dose adjustment require qualified assessment and instruction."
+      ],
+      "takeaway": "Match client predictability, task, worker competence and supervision.",
+      "refs": [
+        "cno",
+        "bc"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "management-04",
+      "cat": "management",
+      "title": "Need-to-know access",
+      "stem": "A nurse notices a neighbour’s name in the electronic client list but is not involved in their care. What is appropriate?",
+      "options": [
+        "Open the chart only to check whether the neighbour is well",
+        "Read the chart but do not discuss it",
+        "Ask a colleague to open the chart",
+        "Do not access the record without a legitimate care-related purpose"
+      ],
+      "answer": [
+        3
+      ],
+      "why": [
+        "Personal concern is not a care-related reason to access a chart.",
+        "Unauthorized viewing itself breaches privacy.",
+        "Using another person does not make access legitimate.",
+        "Access is limited to an authorized purpose, not curiosity."
+      ],
+      "takeaway": "Confidentiality includes appropriate access, not just avoiding disclosure.",
+      "refs": [
+        "cno",
+        "bc"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "management-05",
+      "cat": "management",
+      "title": "An unfamiliar procedure",
+      "stem": "A nurse is asked to perform a procedure they have never been trained to do. The client is stable. What is the best response?",
+      "options": [
+        "Explain the competence gap and arrange qualified support",
+        "Attempt it because a prescriber ordered it",
+        "Ask the client for instructions",
+        "Complete it and seek training afterward"
+      ],
+      "answer": [
+        0
+      ],
+      "why": [
+        "Recognize limits and arrange safe care, supervision or training.",
+        "An order does not establish the nurse’s competence.",
+        "Consent and client experience do not replace professional competence.",
+        "Training after an avoidable risk does not protect the client."
+      ],
+      "takeaway": "Authority, competence and the care context all matter.",
+      "refs": [
+        "cno",
+        "bc"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "management-06",
+      "cat": "management",
+      "title": "A clear handover",
+      "stem": "Which information belongs in a concise handover for a client with worsening shortness of breath? Select all that apply.",
+      "options": [
+        "Current respiratory findings and vital-sign trends",
+        "Relevant history and interventions already given",
+        "An unrelated disagreement from the previous shift",
+        "The specific assessment or assistance being requested",
+        "The nurse’s unverified assumption that the client is exaggerating"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "why": [
+        "Current findings communicate urgency.",
+        "Relevant background and the response to care support clinical decisions.",
+        "Unrelated disputes distract from the client’s need.",
+        "A clear request closes the communication loop.",
+        "Describe observable findings rather than unsupported labels."
+      ],
+      "takeaway": "Structure handover around situation, background, assessment and recommendation.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "multiple",
+      "exhibit": null
+    },
+    {
+      "id": "management-07",
+      "cat": "management",
+      "title": "An error in the record",
+      "stem": "A nurse discovers an incorrect entry in an electronic client record. What should the nurse do?",
+      "options": [
+        "Delete the record so no one sees the error",
+        "Use the approved correction process that preserves the audit trail",
+        "Ask another nurse to sign a replacement entry",
+        "Leave it unchanged because corrections look suspicious"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Erasing the record can destroy accountability and clinical information.",
+        "A transparent correction preserves the original entry and identifies the change.",
+        "The person responsible should make the correction under policy.",
+        "Known inaccuracies should be corrected appropriately."
+      ],
+      "takeaway": "Correct transparently; never conceal or falsify documentation.",
+      "refs": [
+        "cno",
+        "bc"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "management-08",
+      "cat": "management",
+      "title": "Language and consent",
+      "stem": "A client with limited English needs an explanation of a non-urgent invasive procedure. What is the best approach?",
+      "options": [
+        "Speak louder and ask for a signature",
+        "Use the client’s young child to interpret",
+        "Arrange a qualified interpreter and confirm understanding",
+        "Assume a nod indicates informed agreement"
+      ],
+      "answer": [
+        2
+      ],
+      "why": [
+        "Volume and a signature do not establish comprehension.",
+        "A child should not carry responsibility for complex medical interpretation.",
+        "Qualified interpretation supports accurate communication and meaningful consent.",
+        "A nod may reflect politeness or confusion rather than understanding."
+      ],
+      "takeaway": "Assess understanding, not just apparent agreement.",
+      "refs": [
+        "cno",
+        "bc"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "management-09",
+      "cat": "management",
+      "title": "A client safety concern",
+      "stem": "An unregulated care provider reports that a usually alert client is suddenly confused. What should the nurse do first?",
+      "options": [
+        "Ask them to observe until the next shift",
+        "Document dementia in the care plan",
+        "Ask the family to confirm a diagnosis",
+        "Assess the client promptly and escalate concerning findings"
+      ],
+      "answer": [
+        3
+      ],
+      "why": [
+        "A sudden change may signal an acute problem and should not be deferred.",
+        "New confusion does not establish dementia.",
+        "Family history helps but does not replace prompt assessment.",
+        "Acute change requires assessment for causes such as hypoxia, infection or glucose disturbance."
+      ],
+      "takeaway": "Treat new confusion as a change in condition, not normal aging.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "management-10",
+      "cat": "management",
+      "title": "Planning discharge",
+      "stem": "Which action best supports a safe transition home for a client with several medication changes?",
+      "options": [
+        "Reconcile the medication list and ask the client to explain the plan back",
+        "Hand over all previous lists without discussion",
+        "Tell the client that the pharmacy will explain everything",
+        "Discuss only the newest medication"
+      ],
+      "answer": [
+        0
+      ],
+      "why": [
+        "Reconciliation and teach-back help identify discrepancies and misunderstandings.",
+        "Conflicting lists can cause duplication or omission.",
+        "Pharmacy support is valuable but does not replace nursing responsibilities.",
+        "Changes, discontinued medicines and the whole regimen need consideration."
+      ],
+      "takeaway": "A safe handover includes what changed, how to take it and whom to contact.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "management-11",
+      "cat": "management",
+      "title": "Unsafe workload",
+      "stem": "A nurse believes an assignment exceeds their ability to provide safe care. Which actions are appropriate? Select all that apply.",
+      "options": [
+        "Communicate specific risks promptly to the person responsible",
+        "Leave without arranging continuity of care",
+        "Request a revised assignment or additional qualified support",
+        "Follow the escalation process and document relevant communication",
+        "Accept silently because raising concerns is unprofessional"
+      ],
+      "answer": [
+        0,
+        2,
+        3
+      ],
+      "why": [
+        "Specific concerns allow risks to be addressed.",
+        "Leaving without continuity may expose clients to harm.",
+        "Adjusting workload or support can restore safe care.",
+        "Use organizational escalation and accurate documentation.",
+        "Raising safety concerns is part of accountability."
+      ],
+      "takeaway": "Escalate clearly and help preserve continuity of care.",
+      "refs": [
+        "cno",
+        "bc"
+      ],
+      "type": "multiple",
+      "exhibit": null
+    },
+    {
+      "id": "management-12",
+      "cat": "management",
+      "title": "Culturally safer care",
+      "stem": "A client says previous experiences of discrimination make hospital care frightening. Which response is most therapeutic?",
+      "options": [
+        "Everyone here is treated exactly the same",
+        "Tell me what would help you feel safer while we plan your care",
+        "You should not think about the past",
+        "I know exactly what your community needs"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "This can dismiss the client’s experience and barriers.",
+        "Invite the client’s perspective and collaborate on concrete needs.",
+        "Past harm can affect current trust and should not be dismissed.",
+        "Assumptions replace the individual’s voice."
+      ],
+      "takeaway": "Ask, listen and share decisions rather than making cultural assumptions.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "safety-01",
+      "cat": "safety",
+      "title": "Hand hygiene",
+      "stem": "After removing gloves used during personal care, what should the nurse do?",
+      "options": [
+        "Put on clean gloves without cleaning the hands",
+        "Clean the hands using the method appropriate to the situation",
+        "Clean the hands only if the gloves tore",
+        "Use lotion instead of hand hygiene"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Gloves do not replace hand hygiene.",
+        "Hands may be contaminated during glove removal; clean them after removal.",
+        "Contamination is not limited to visible tears.",
+        "Lotion does not remove or inactivate pathogens."
+      ],
+      "takeaway": "Gloves are a barrier, not a substitute for hand hygiene.",
+      "refs": [
+        "cdc"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "safety-02",
+      "cat": "safety",
+      "title": "Routine infection prevention",
+      "stem": "Which actions support infection prevention? Select all that apply.",
+      "options": [
+        "Clean hands before an aseptic task",
+        "Reuse a syringe for a second client if the needle is changed",
+        "Select protective equipment for the anticipated exposure",
+        "Clean shared equipment between clients",
+        "Wear the same gloves from one client to the next"
+      ],
+      "answer": [
+        0,
+        2,
+        3
+      ],
+      "why": [
+        "Hand hygiene helps protect susceptible sites.",
+        "Changing the needle does not make syringe reuse safe.",
+        "Exposure risk determines the required protection.",
+        "Shared equipment can transmit organisms.",
+        "Gloves must be changed and hands cleaned between clients."
+      ],
+      "takeaway": "Protect each client with consistent routine practices.",
+      "refs": [
+        "cdc"
+      ],
+      "type": "multiple",
+      "exhibit": null
+    },
+    {
+      "id": "safety-03",
+      "cat": "safety",
+      "title": "A sharps injury",
+      "stem": "A nurse sustains a used-needle puncture. After immediately washing the area, what is the priority?",
+      "options": [
+        "Wait to see whether a fever develops",
+        "Finish the shift before reporting",
+        "Promptly report and access the occupational exposure protocol",
+        "Apply glue to seal the wound"
+      ],
+      "answer": [
+        2
+      ],
+      "why": [
+        "Time-sensitive assessment and prophylaxis may be needed before symptoms occur.",
+        "Delaying assessment can limit options.",
+        "Prompt evaluation establishes the exposure risk and time-sensitive management.",
+        "Sealing the puncture is not appropriate exposure management."
+      ],
+      "takeaway": "Treat occupational exposure as time-sensitive.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "safety-04",
+      "cat": "safety",
+      "title": "Preventing a fall",
+      "stem": "An older adult becomes dizzy on standing after a new antihypertensive dose. What should the nurse do first?",
+      "options": [
+        "Encourage them to walk quickly to improve circulation",
+        "Assist them to sit or lie safely and assess",
+        "Leave to find the chart while they stand",
+        "Apply restraints for the remainder of the day"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Walking while dizzy increases injury risk.",
+        "Prevent the immediate fall, then assess symptoms and vital signs.",
+        "Stay with an unstable client or ensure immediate assistance.",
+        "Restraints are not a first-line response to postural dizziness."
+      ],
+      "takeaway": "Stabilize the client before investigating the cause.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "safety-05",
+      "cat": "safety",
+      "title": "Airborne precautions",
+      "stem": "A client is being assessed for infectious pulmonary tuberculosis. Which placement is most appropriate when available?",
+      "options": [
+        "A shared room with another coughing client",
+        "An airborne infection isolation room with the door closed",
+        "Any room with a fan blowing into the hallway",
+        "A positive-pressure protective room"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Cohorting an undiagnosed client may expose others.",
+        "Airborne isolation and appropriate respiratory protection limit spread.",
+        "Blowing air outward may disperse infectious particles.",
+        "Positive-pressure protective rooms are not the appropriate airborne containment measure."
+      ],
+      "takeaway": "Match the precautions to the suspected route of transmission.",
+      "refs": [
+        "isolation"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "safety-06",
+      "cat": "safety",
+      "title": "A sterile field",
+      "stem": "During sterile dressing setup, a nonsterile sleeve touches the centre of the sterile field. What should the nurse do?",
+      "options": [
+        "Continue if the sleeve looks clean",
+        "Cover the area with a sterile towel and continue",
+        "Treat the field as contaminated and establish a new sterile field",
+        "Spray the field with alcohol"
+      ],
+      "answer": [
+        2
+      ],
+      "why": [
+        "Visible cleanliness is not sterility.",
+        "Covering contamination does not reliably restore a sterile field.",
+        "A breach requires replacement of the contaminated setup.",
+        "Alcohol cannot re-sterilize a prepared field."
+      ],
+      "takeaway": "If sterility is breached, replace rather than conceal.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "safety-07",
+      "cat": "safety",
+      "title": "Oxygen safety",
+      "stem": "Which instructions are appropriate for a client using oxygen at home? Select all that apply.",
+      "options": [
+        "Keep oxygen away from smoking and open flames",
+        "Use petroleum jelly around the cannula",
+        "Secure cylinders as instructed by the supplier",
+        "Follow the prescribed flow and equipment instructions",
+        "Allow visitors to smoke if a window is open"
+      ],
+      "answer": [
+        0,
+        2,
+        3
+      ],
+      "why": [
+        "Oxygen supports combustion and increases fire risk.",
+        "Use an approved compatible product instead.",
+        "Securing cylinders reduces tipping and injury risk.",
+        "Use the prescribed settings and safe equipment procedures.",
+        "An open window does not make smoking around oxygen safe."
+      ],
+      "takeaway": "Oxygen supports fire; protect the environment as well as the client.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "multiple",
+      "exhibit": null
+    },
+    {
+      "id": "safety-08",
+      "cat": "safety",
+      "title": "Two identifiers",
+      "stem": "Before administering a medication, which approach best verifies the client’s identity?",
+      "options": [
+        "Use the room number and diagnosis",
+        "Ask a visitor to identify the client",
+        "Compare two approved identifiers with the record and client identification",
+        "Recognize the client from yesterday"
+      ],
+      "answer": [
+        2
+      ],
+      "why": [
+        "Location and diagnosis are not reliable personal identifiers.",
+        "A visitor’s recognition is not the complete identification process.",
+        "Use the organization’s approved identifiers, such as name and date of birth.",
+        "Familiarity does not replace the identification check."
+      ],
+      "takeaway": "Verify identity each time required; do not rely on location or memory.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "safety-09",
+      "cat": "safety",
+      "title": "A clear walking route",
+      "stem": "Which change is most useful for a client at risk of falling during night-time toileting?",
+      "options": [
+        "Place personal items across the room to encourage exercise",
+        "Keep the route lit and clear, with the call bell and walking aid accessible",
+        "Raise the bed to its highest position",
+        "Tell the client to avoid drinking all evening"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Reaching and unnecessary walking can increase risk.",
+        "Accessible assistance and a clear route reduce environmental hazards.",
+        "A high bed makes transfers less safe.",
+        "Routine fluid restriction may cause harm and does not solve the access problem."
+      ],
+      "takeaway": "Plan for the activity that is likely to happen, not only the bed space.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "safety-10",
+      "cat": "safety",
+      "title": "A damaged medication label",
+      "stem": "The label on a prepared syringe is unreadable. What is the safest action?",
+      "options": [
+        "Identify the drug by its colour",
+        "Ask another nurse to guess",
+        "Use it if it came from the correct room",
+        "Do not administer it; obtain a correctly identified preparation"
+      ],
+      "answer": [
+        3
+      ],
+      "why": [
+        "Appearance cannot reliably identify a medication or concentration.",
+        "Consensus on a guess is still unsafe.",
+        "Location does not establish the contents.",
+        "The drug and dose must be verifiable before administration."
+      ],
+      "takeaway": "An unidentified preparation is not safe to administer.",
+      "refs": [
+        "bcmed"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "safety-11",
+      "cat": "safety",
+      "title": "Medication storage",
+      "stem": "A nurse finds two look-alike medication packages stored together after a near miss. What is the best response?",
+      "options": [
+        "Report the near miss and work with the team to reduce selection risk",
+        "Discard every medicine in the storage area",
+        "Keep it quiet because no dose reached a client",
+        "Rely only on remembering the packaging difference"
+      ],
+      "answer": [
+        0
+      ],
+      "why": [
+        "Near-miss reporting can lead to safer storage, labels and checks.",
+        "Indiscriminate disposal does not address the underlying process.",
+        "A near miss provides useful safety information.",
+        "Memory alone is a weak safeguard."
+      ],
+      "takeaway": "Use near misses to improve the system.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "safety-12",
+      "cat": "safety",
+      "title": "A contaminated device",
+      "stem": "A reusable blood-pressure cuff has been used for a client on additional precautions. What is the best action before use for another client?",
+      "options": [
+        "Wipe it on a clean sheet",
+        "Follow the required cleaning/disinfection process and product contact time",
+        "Use it immediately if no soil is visible",
+        "Cover it with a glove"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "A sheet does not disinfect equipment.",
+        "Use the approved process appropriate to the device and exposure.",
+        "Microbial contamination may be invisible.",
+        "An improvised cover does not replace proper reprocessing."
+      ],
+      "takeaway": "Correct product, correct process, correct contact time.",
+      "refs": [
+        "cdc"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "health-01",
+      "cat": "health",
+      "title": "Teach-back",
+      "stem": "Which request best checks a client’s understanding of a new inhaler?",
+      "options": [
+        "Do you understand everything?",
+        "Please show me how you will use this inhaler at home",
+        "You have used inhalers before, right?",
+        "Can you sign to say that teaching was completed?"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "A yes/no question can conceal misunderstanding.",
+        "Demonstration reveals actual technique and allows supportive correction.",
+        "Prior experience does not establish correct current technique.",
+        "A signature does not measure understanding."
+      ],
+      "takeaway": "Ask clients to demonstrate or explain in their own words.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "health-02",
+      "cat": "health",
+      "title": "Readiness to learn",
+      "stem": "A client reports severe postoperative pain when the nurse begins discharge teaching. What is the best initial action?",
+      "options": [
+        "Complete the teaching quickly before giving analgesia",
+        "Give a longer handout instead",
+        "Address the pain and reassess readiness to learn",
+        "Ask the client to memorize the handout overnight"
+      ],
+      "answer": [
+        2
+      ],
+      "why": [
+        "Severe pain can interfere with attention and learning.",
+        "A handout alone does not resolve the barrier.",
+        "Manage the immediate symptom so teaching can be effective.",
+        "Memorization is not a substitute for accessible teaching."
+      ],
+      "takeaway": "Address barriers before adding more information.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "health-03",
+      "cat": "health",
+      "title": "Infant sleep",
+      "stem": "Which advice supports safer sleep for a healthy infant?",
+      "options": [
+        "Place the infant on the abdomen with a pillow",
+        "Place the infant on the back on a firm, flat, separate sleep surface without loose bedding",
+        "Use a sofa so the caregiver can stay close",
+        "Add a weighted blanket to reduce waking"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Prone positioning and pillows increase sleep-related risks.",
+        "Back sleeping on a clear, firm, flat surface supports safer sleep.",
+        "Sofas are not safe infant sleep surfaces.",
+        "Weighted blankets are not recommended for infant sleep."
+      ],
+      "takeaway": "Use a clear, firm, flat sleep space and back positioning.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "health-04",
+      "cat": "health",
+      "title": "Preventing neural tube defects",
+      "stem": "A client planning pregnancy asks why folic acid is discussed before conception. What is the best explanation?",
+      "options": [
+        "It helps reduce neural tube defects during very early development",
+        "It guarantees that the baby will have no abnormalities",
+        "It replaces the need for a balanced diet",
+        "It is only helpful after the third trimester"
+      ],
+      "answer": [
+        0
+      ],
+      "why": [
+        "Neural tube development occurs early, often before pregnancy is recognized.",
+        "It reduces certain risks but cannot guarantee outcomes.",
+        "Supplementation supports rather than replaces nutrition.",
+        "Waiting until late pregnancy misses the key early period."
+      ],
+      "takeaway": "Timing matters: preventive care can begin before pregnancy.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "health-05",
+      "cat": "health",
+      "title": "A vaccination concern",
+      "stem": "A parent is worried about recommended childhood vaccines. Which response best supports informed decision-making?",
+      "options": [
+        "Refuse to discuss concerns",
+        "Ask what worries them and discuss benefits and risks using current local guidance",
+        "Promise that no adverse effects are possible",
+        "Tell them all online information is false"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Avoiding the concern weakens communication.",
+        "Understand the concern and offer accurate, relevant information.",
+        "No intervention is entirely free of possible adverse effects.",
+        "A dismissive generalization does not help evaluate evidence."
+      ],
+      "takeaway": "Explore the concern before providing targeted education.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "health-06",
+      "cat": "health",
+      "title": "Diabetes foot care",
+      "stem": "Which statements indicate appropriate foot-care understanding? Select all that apply.",
+      "options": [
+        "I will inspect my feet daily",
+        "I will walk barefoot outdoors to toughen my skin",
+        "I will check inside my shoes before wearing them",
+        "I will report a new blister or wound promptly",
+        "I will use a heating pad directly on numb feet"
+      ],
+      "answer": [
+        0,
+        2,
+        3
+      ],
+      "why": [
+        "Daily inspection may reveal injuries when sensation is reduced.",
+        "Barefoot walking increases injury risk.",
+        "Small objects or rough areas may injure an insensate foot.",
+        "Early review can reduce complications.",
+        "Reduced sensation increases the risk of burns."
+      ],
+      "takeaway": "Loss of protective sensation calls for daily protection and inspection.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "multiple",
+      "exhibit": null
+    },
+    {
+      "id": "health-07",
+      "cat": "health",
+      "title": "Smoking cessation",
+      "stem": "A client says, “I want to quit smoking, but I have failed before.” Which response is best?",
+      "options": [
+        "If you wanted it enough you would already have stopped",
+        "What helped before, and what made it difficult? We can plan support around that",
+        "There is no benefit after many years of smoking",
+        "Do not consider medication or support"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Blame discourages engagement.",
+        "Explore strengths and barriers, then discuss appropriate supports.",
+        "Stopping can benefit health even after prolonged smoking.",
+        "Evidence-based supports may help and should be discussed when appropriate."
+      ],
+      "takeaway": "Treat previous attempts as information for the next plan.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "health-08",
+      "cat": "health",
+      "title": "Accessible education",
+      "stem": "A client has difficulty reading the discharge instructions. Which changes may help? Select all that apply.",
+      "options": [
+        "Use plain language and short sections",
+        "Provide a dense page of medical abbreviations",
+        "Discuss the most important actions and use teach-back",
+        "Offer suitable pictures or demonstrations",
+        "Assume the client cannot participate in decisions"
+      ],
+      "answer": [
+        0,
+        2,
+        3
+      ],
+      "why": [
+        "Clear language reduces avoidable complexity.",
+        "Abbreviations can make instructions harder to understand.",
+        "Prioritization and teach-back check usable understanding.",
+        "Visual and practical approaches can support learning.",
+        "Reading difficulty does not remove decision-making rights."
+      ],
+      "takeaway": "Adapt the explanation while preserving autonomy.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "multiple",
+      "exhibit": null
+    },
+    {
+      "id": "health-09",
+      "cat": "health",
+      "title": "An older adult’s hearing",
+      "stem": "An older adult with hearing difficulty is learning wound care. What should the nurse do?",
+      "options": [
+        "Speak from behind while organizing supplies",
+        "Shout rapidly to finish the teaching",
+        "Reduce background noise, face the client and check preferred communication supports",
+        "Ask the family to make all decisions"
+      ],
+      "answer": [
+        2
+      ],
+      "why": [
+        "The client may need facial cues and clear sound.",
+        "Shouting and rushing can distort communication.",
+        "Optimize the environment and individual supports.",
+        "Hearing loss does not automatically remove capacity or autonomy."
+      ],
+      "takeaway": "Make communication accessible before judging comprehension.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "health-10",
+      "cat": "health",
+      "title": "Hydration during illness",
+      "stem": "A caregiver asks about a child with diarrhea. Which finding requires prompt clinical assessment?",
+      "options": [
+        "Normal play and usual urine output",
+        "Marked lethargy with very little urine",
+        "Asking for a favourite toy",
+        "A single loose stool with normal drinking"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "These findings are relatively reassuring in this comparison.",
+        "Reduced urine and marked lethargy may indicate significant dehydration or illness.",
+        "Interest in play is not the most concerning finding listed.",
+        "One stool without other changes is less concerning than lethargy and low output."
+      ],
+      "takeaway": "Assess the whole child, including behaviour and urine output.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "health-11",
+      "cat": "health",
+      "title": "A new breast change",
+      "stem": "An adult reports a new persistent breast lump. What is the most appropriate advice?",
+      "options": [
+        "Ignore it if it is painless",
+        "Arrange timely clinical assessment rather than waiting for routine screening",
+        "Wait until it becomes larger",
+        "Assume that a recent normal screening test excludes a problem"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Painless changes still need evaluation.",
+        "New symptoms need diagnostic assessment, independently of a screening schedule.",
+        "Waiting for progression can delay care.",
+        "Screening does not rule out every later or missed abnormality."
+      ],
+      "takeaway": "Screening is for asymptomatic populations; new symptoms need assessment.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "health-12",
+      "cat": "health",
+      "title": "Prenatal warning signs",
+      "stem": "A pregnant client reports a new severe headache, visual changes and upper abdominal pain. What is the most appropriate advice?",
+      "options": [
+        "Wait for the next routine prenatal visit",
+        "Arrange urgent maternity assessment",
+        "Take extra vitamins and rest for several days",
+        "Restrict all fluids without assessment"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "This combination can signal a serious pregnancy complication.",
+        "Urgent assessment is needed for possible pre-eclampsia or another acute problem.",
+        "Vitamins do not address these warning symptoms.",
+        "Unassessed fluid restriction is inappropriate."
+      ],
+      "takeaway": "Recognize warning symptoms and escalate without diagnosing from one symptom.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "psychosocial-01",
+      "cat": "psychosocial",
+      "title": "Therapeutic silence",
+      "stem": "A client begins to cry after receiving difficult news. What is the best initial response?",
+      "options": [
+        "Stay present and invite them to share what they are feeling",
+        "Tell them everything will be fine",
+        "Change the subject immediately",
+        "Explain that other people have worse problems"
+      ],
+      "answer": [
+        0
+      ],
+      "why": [
+        "Presence and an open invitation support expression without pressure.",
+        "Unsupported reassurance can dismiss uncertainty and emotion.",
+        "Changing the subject blocks expression.",
+        "Comparison minimizes the client’s experience."
+      ],
+      "takeaway": "Support expression before trying to solve the emotion.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "psychosocial-02",
+      "cat": "psychosocial",
+      "title": "Assessing suicide risk",
+      "stem": "A client says, “There is no point in living.” What is the best response?",
+      "options": [
+        "You do not really mean that",
+        "Ask directly about suicidal thoughts, intent, plan and access to means",
+        "Promise to keep everything secret",
+        "Leave them alone to reflect"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Dismissing the statement may miss a serious risk.",
+        "Direct assessment helps determine immediate safety needs and escalation.",
+        "Safety concerns cannot always remain confidential.",
+        "Isolation is inappropriate before assessing risk."
+      ],
+      "takeaway": "Ask directly and respond to risk with appropriate safety support.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "psychosocial-03",
+      "cat": "psychosocial",
+      "title": "Responding to hallucinations",
+      "stem": "A client says a voice is ordering them to hurt someone. Which response is the priority?",
+      "options": [
+        "Agree that the voice must be obeyed",
+        "Argue that hearing voices is impossible",
+        "Assess the command, intent and immediate risk, and seek appropriate help",
+        "Ignore it unless the client acts"
+      ],
+      "answer": [
+        2
+      ],
+      "why": [
+        "Do not validate harmful commands.",
+        "Arguing may increase distress and does not assess safety.",
+        "Potential commands to harm require prompt risk assessment and protective action.",
+        "Waiting for harm is unsafe."
+      ],
+      "takeaway": "Assess the content and safety implications without endorsing the hallucination.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "psychosocial-04",
+      "cat": "psychosocial",
+      "title": "Acute panic",
+      "stem": "A client is acutely anxious, breathing rapidly and unable to follow long instructions. What is most helpful initially?",
+      "options": [
+        "Give a detailed lecture about anxiety mechanisms",
+        "Stay with the client, use short calm statements and assess physical safety",
+        "Ask several staff to question the client at once",
+        "Insist that they make several decisions immediately"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Detailed explanations may overwhelm the client in the acute phase.",
+        "A calm presence and simple communication support safety and regulation.",
+        "Multiple simultaneous interactions can increase stimulation.",
+        "Reduce immediate demands while assessing and supporting the client."
+      ],
+      "takeaway": "Match the amount of information to the client’s current ability to process it.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "psychosocial-05",
+      "cat": "psychosocial",
+      "title": "Supporting a grieving client",
+      "stem": "Which response is most appropriate to “I should be over this loss by now”?",
+      "options": [
+        "Everyone finishes grieving within six months",
+        "You must stop talking about it",
+        "There is no single timetable. How is this affecting your daily life?",
+        "The best solution is to keep busy constantly"
+      ],
+      "answer": [
+        2
+      ],
+      "why": [
+        "Grief does not follow a fixed universal timetable.",
+        "Silencing the client blocks assessment and support.",
+        "Acknowledge variation and assess functioning, support and safety.",
+        "Activity may help some people but is not a universal solution."
+      ],
+      "takeaway": "Individualize support and assess impact rather than imposing a timetable.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "psychosocial-06",
+      "cat": "psychosocial",
+      "title": "Responding to a delusion",
+      "stem": "A client says, “The television is sending secret instructions only to me.” Which response is best?",
+      "options": [
+        "Yes, I can hear the instructions too",
+        "That is ridiculous",
+        "I do not receive those messages, but I can see this is distressing for you",
+        "Prove it by writing every message down"
+      ],
+      "answer": [
+        2
+      ],
+      "why": [
+        "This reinforces the delusional belief.",
+        "Ridicule damages trust.",
+        "State your reality while acknowledging the emotion.",
+        "This may deepen engagement with the delusion instead of addressing distress."
+      ],
+      "takeaway": "Validate the feeling, not the false belief.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "psychosocial-07",
+      "cat": "psychosocial",
+      "title": "De-escalation",
+      "stem": "Which actions may help when a client is becoming verbally agitated but has not assaulted anyone? Select all that apply.",
+      "options": [
+        "Use a calm tone and simple choices",
+        "Block the exit to force the client to listen",
+        "Maintain appropriate personal space",
+        "Reduce unnecessary stimulation and call for support as needed",
+        "Threaten punishment to gain compliance"
+      ],
+      "answer": [
+        0,
+        2,
+        3
+      ],
+      "why": [
+        "Calm, clear choices can support a sense of control.",
+        "Blocking escape may escalate fear and risk.",
+        "Personal space helps reduce perceived threat.",
+        "A safer environment and timely support can prevent escalation.",
+        "Threats can intensify agitation."
+      ],
+      "takeaway": "De-escalation combines respect, space and safety planning.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "multiple",
+      "exhibit": null
+    },
+    {
+      "id": "psychosocial-08",
+      "cat": "psychosocial",
+      "title": "Alcohol withdrawal",
+      "stem": "A hospitalized client who abruptly stopped heavy alcohol use develops tremor, sweating and agitation. What should the nurse do?",
+      "options": [
+        "Assume the client is simply uncooperative",
+        "Assess promptly and escalate for withdrawal management under protocol",
+        "Provide alcohol without an order",
+        "Delay assessment until hallucinations occur"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "These symptoms can reflect a medical complication.",
+        "Withdrawal can progress to seizures or delirium and needs timely management.",
+        "Unordered alcohol is not an appropriate independent response.",
+        "Waiting for severe features may allow preventable deterioration."
+      ],
+      "takeaway": "Substance withdrawal can be an acute physiological emergency.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "psychosocial-09",
+      "cat": "psychosocial",
+      "title": "Trauma-informed care",
+      "stem": "Which actions support trauma-informed care during a physical assessment? Select all that apply.",
+      "options": [
+        "Explain each step and ask permission before touch",
+        "Tell the client to comply without questions",
+        "Offer reasonable choices and a way to pause",
+        "Protect privacy and ask about preferences",
+        "Require disclosure of past trauma before care"
+      ],
+      "answer": [
+        0,
+        2,
+        3
+      ],
+      "why": [
+        "Predictability and permission support safety.",
+        "Coercive communication can recreate a loss of control.",
+        "Choice and a pause signal support autonomy.",
+        "Privacy and preferences help build trust.",
+        "Clients do not need to disclose trauma to receive respectful care."
+      ],
+      "takeaway": "Create safety and choice without requiring a trauma history.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "multiple",
+      "exhibit": null
+    },
+    {
+      "id": "psychosocial-10",
+      "cat": "psychosocial",
+      "title": "Dementia and distress",
+      "stem": "A client with dementia repeatedly asks to go home. What is a helpful response?",
+      "options": [
+        "Argue until they remember where they live",
+        "Acknowledge the wish and explore comfort or familiar routines",
+        "Tell them they asked that question ten times",
+        "Restrain them immediately for asking"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Argument can increase distress without restoring memory.",
+        "Address the emotion and possible unmet needs.",
+        "Pointing out repetition may shame or frustrate the client.",
+        "Asking to go home does not itself justify restraints."
+      ],
+      "takeaway": "Look for the need behind the repeated request.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "psychosocial-11",
+      "cat": "psychosocial",
+      "title": "Professional boundaries",
+      "stem": "A client offers the nurse an expensive personal gift in return for extra attention. What is the best response?",
+      "options": [
+        "Accept privately so colleagues do not know",
+        "Accept if the client signs a consent form",
+        "Discuss the meaning respectfully and follow professional boundary and organizational guidance",
+        "Provide extra attention only after accepting"
+      ],
+      "answer": [
+        2
+      ],
+      "why": [
+        "Secrecy can signal a boundary concern.",
+        "A signature does not eliminate the power imbalance.",
+        "Maintain a therapeutic relationship without preferential treatment or exploitation.",
+        "Care should not be contingent on gifts."
+      ],
+      "takeaway": "Warmth and professional boundaries are compatible.",
+      "refs": [
+        "cno",
+        "bc"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "psychosocial-12",
+      "cat": "psychosocial",
+      "title": "Possible intimate-partner violence",
+      "stem": "A client’s partner answers every question and refuses to leave. The client seems fearful. What should the nurse arrange when safe?",
+      "options": [
+        "A private conversation with the client using a safe, routine approach",
+        "A confrontation with the partner in front of the client",
+        "A promise that reporting is never required",
+        "An assumption that the client wants the relationship ended"
+      ],
+      "answer": [
+        0
+      ],
+      "why": [
+        "Privacy supports assessment, choice and safety planning.",
+        "Confrontation may increase danger.",
+        "Explain confidentiality and its applicable limits accurately.",
+        "Avoid imposing decisions; assess needs and support autonomy."
+      ],
+      "takeaway": "Create a safe opportunity to talk privately before making assumptions.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "basic-01",
+      "cat": "basic",
+      "title": "Swallowing difficulty",
+      "stem": "A client coughs repeatedly and develops a wet voice while drinking after a stroke. What should the nurse do first?",
+      "options": [
+        "Encourage larger sips to finish quickly",
+        "Stop oral intake and seek assessment according to the swallowing protocol",
+        "Give thin liquid through a straw",
+        "Lay the client flat and continue feeding"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Larger volumes can increase aspiration risk.",
+        "Stop the exposure and obtain an appropriate swallowing assessment.",
+        "A straw and thin liquids are not automatically safe.",
+        "Supine feeding can increase aspiration risk."
+      ],
+      "takeaway": "New signs of swallowing difficulty require reassessment before more intake.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "basic-02",
+      "cat": "basic",
+      "title": "Pressure injury prevention",
+      "stem": "Which actions support pressure injury prevention for an immobile client? Select all that apply.",
+      "options": [
+        "Inspect skin and reassess risk",
+        "Massage persistent redness over a bony prominence",
+        "Individualize repositioning and offload heels",
+        "Address moisture and nutritional needs",
+        "Assume a special mattress removes the need for assessment"
+      ],
+      "answer": [
+        0,
+        2,
+        3
+      ],
+      "why": [
+        "Inspection detects changes and helps tailor the plan.",
+        "Massage can further injure vulnerable tissue.",
+        "Reducing prolonged pressure is a central preventive measure.",
+        "Moisture and nutrition affect skin integrity.",
+        "Support surfaces supplement, not replace, ongoing care."
+      ],
+      "takeaway": "Use an individualized bundle rather than relying on one device.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "multiple",
+      "exhibit": null
+    },
+    {
+      "id": "basic-03",
+      "cat": "basic",
+      "title": "Supporting independence",
+      "stem": "A client can wash their face and upper body but needs help with the legs. What is the best approach?",
+      "options": [
+        "Perform all care because it is faster",
+        "Encourage the client’s abilities and assist where needed",
+        "Leave the client to manage all washing alone",
+        "Tell the client not to try until fully recovered"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Doing everything can unnecessarily reduce independence.",
+        "Match assistance to ability and preferences.",
+        "Unsupported tasks may be unsafe or inaccessible.",
+        "Partial independence can be preserved during recovery."
+      ],
+      "takeaway": "Help enough to make care safe while preserving what the client can do.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "basic-04",
+      "cat": "basic",
+      "title": "Pain assessment",
+      "stem": "An alert client reports pain of 8/10 while appearing calm. What should guide the assessment?",
+      "options": [
+        "Dismiss the rating because the client is not crying",
+        "Use the client’s report and assess location, character, function and associated findings",
+        "Use only heart rate to decide if pain is real",
+        "Wait for a family member to confirm the pain"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Behaviour varies and cannot exclude pain.",
+        "Self-report is central when the client can communicate; assess the broader context.",
+        "Vital signs alone do not measure pain reliably.",
+        "Family input does not replace the capable client’s report."
+      ],
+      "takeaway": "A calm appearance does not invalidate reported pain.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "basic-05",
+      "cat": "basic",
+      "title": "Evaluating comfort",
+      "stem": "After an ordered analgesic and repositioning, what is the most useful next step?",
+      "options": [
+        "Assume the intervention worked",
+        "Reassess pain, function and adverse effects at an appropriate interval",
+        "Document success before reassessing",
+        "Avoid asking because it may remind the client of pain"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Effectiveness and harms require reassessment.",
+        "Evaluate both relief and safety, considering route and expected onset.",
+        "Document findings actually assessed.",
+        "Reassessment is necessary to adjust the care plan."
+      ],
+      "takeaway": "An intervention is incomplete until its effect is evaluated.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "basic-06",
+      "cat": "basic",
+      "title": "Preventing constipation",
+      "stem": "Which plan best supports bowel function in a stable client without fluid or dietary restrictions?",
+      "options": [
+        "Increase immobility to conserve energy",
+        "Use regular toileting opportunities, suitable fluids, fibre and activity",
+        "Ignore the urge to defecate until bedtime",
+        "Use a laxative after every meal without an order or plan"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Immobility can contribute to constipation.",
+        "Multiple modifiable factors can support bowel regularity.",
+        "Suppressing the urge may worsen constipation.",
+        "Medication use should follow an assessed, appropriate plan."
+      ],
+      "takeaway": "Tailor bowel care to the person and any restrictions.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "basic-07",
+      "cat": "basic",
+      "title": "A urinary drainage system",
+      "stem": "Which actions help maintain a safely functioning indwelling urinary drainage system? Select all that apply.",
+      "options": [
+        "Keep the bag below bladder level without resting it on the floor",
+        "Disconnect the tubing routinely to inspect it",
+        "Prevent dependent loops and kinks that obstruct flow",
+        "Maintain the closed system unless a clinical indication requires change",
+        "Raise the bag above the bladder during transfers"
+      ],
+      "answer": [
+        0,
+        2,
+        3
+      ],
+      "why": [
+        "This supports drainage and reduces contamination risk.",
+        "Unnecessary disconnection increases contamination risk.",
+        "Unobstructed flow helps avoid urinary stasis.",
+        "Preserve the closed system under the care protocol.",
+        "Backflow can occur when the bag is raised."
+      ],
+      "takeaway": "Preserve closed, unobstructed dependent drainage.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "multiple",
+      "exhibit": null
+    },
+    {
+      "id": "basic-08",
+      "cat": "basic",
+      "title": "A safe transfer",
+      "stem": "A client cannot bear weight reliably. What is the safest plan for moving them from bed to chair?",
+      "options": [
+        "Have one nurse lift the client under the arms",
+        "Use the assessed transfer plan and appropriate lift with trained assistance",
+        "Ask the client to jump toward the chair",
+        "Let the strongest family member decide the method"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Manual lifting can injure both client and worker.",
+        "Match equipment and assistance to assessed ability and policy.",
+        "This creates a major fall risk.",
+        "Transfer safety requires assessment, training and appropriate equipment."
+      ],
+      "takeaway": "Choose transfer support from ability, not from staff strength.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "basic-09",
+      "cat": "basic",
+      "title": "Improving sleep",
+      "stem": "Which intervention is most appropriate for a stable inpatient reporting interrupted sleep?",
+      "options": [
+        "Cluster suitable care activities and reduce avoidable noise and light",
+        "Wake the client hourly for nonessential conversation",
+        "Offer caffeine near bedtime",
+        "Use a sedative before assessing possible causes"
+      ],
+      "answer": [
+        0
+      ],
+      "why": [
+        "Reducing avoidable disruption supports rest while maintaining necessary monitoring.",
+        "Unnecessary waking worsens fragmentation.",
+        "Caffeine may impair sleep.",
+        "Assess discomfort, anxiety, environment and other contributors first."
+      ],
+      "takeaway": "Reduce modifiable disruptions without omitting necessary monitoring.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "basic-10",
+      "cat": "basic",
+      "title": "Oral care and aspiration risk",
+      "stem": "A dependent client with reduced alertness needs oral hygiene. What is most appropriate?",
+      "options": [
+        "Pour a cup of water into the mouth",
+        "Use an assessed positioning and suction-assisted oral-care approach under protocol",
+        "Omit oral care entirely",
+        "Ask the client to gargle despite being unable to follow instructions"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Uncontrolled fluid can be aspirated.",
+        "Adapt oral care to airway protection and swallowing ability.",
+        "Poor oral hygiene carries its own risks.",
+        "Gargling requires reliable alertness and airway protection."
+      ],
+      "takeaway": "Modify the technique to the client’s airway and swallowing risk.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "basic-11",
+      "cat": "basic",
+      "title": "Nutrition support",
+      "stem": "An older client has poor appetite and becomes fatigued during meals. Which plan is most appropriate?",
+      "options": [
+        "Remove preferred foods to encourage discipline",
+        "Assess causes and offer small, suitable nutrient-dense meals with assistance as needed",
+        "Assume this is unavoidable with age",
+        "Give only water between meals and no snacks"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Preferences can support intake and should be considered.",
+        "Assess symptoms, swallowing, dental issues and support needs; individualize the plan.",
+        "Low intake warrants assessment rather than dismissal.",
+        "Unnecessary restrictions can worsen intake."
+      ],
+      "takeaway": "Low intake is an assessment cue, not an inevitable feature of aging.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "basic-12",
+      "cat": "basic",
+      "title": "Comfort at end of life",
+      "stem": "A dying client has a dry mouth but cannot safely swallow. What is the most appropriate comfort measure?",
+      "options": [
+        "Force oral fluids to meet a daily target",
+        "Provide frequent gentle mouth care and lip moisture using appropriate products",
+        "Withhold all mouth care",
+        "Tell the family that comfort care is no longer useful"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Forcing fluids can cause aspiration and distress.",
+        "Mouth care can relieve dryness without forcing unsafe intake.",
+        "Dryness and discomfort still deserve care.",
+        "Comfort remains an active priority."
+      ],
+      "takeaway": "Comfort-focused care continues even when oral intake is unsafe.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "pharmacology-01",
+      "cat": "pharmacology",
+      "title": "Medication reconciliation",
+      "stem": "A client’s home medication list differs from the admission orders. What should the nurse do?",
+      "options": [
+        "Automatically administer both lists",
+        "Clarify and reconcile discrepancies with the appropriate team before uncertain doses",
+        "Discard the home list",
+        "Assume all omissions are intentional"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Duplicate therapy can be harmful.",
+        "Determine what is intended and resolve discrepancies.",
+        "The home list is important information for reconciliation.",
+        "Omissions may be intentional or accidental and need clarification."
+      ],
+      "takeaway": "Resolve discrepancies rather than guessing the intended regimen.",
+      "refs": [
+        "bcmed"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "pharmacology-02",
+      "cat": "pharmacology",
+      "title": "Insulin and a delayed meal",
+      "stem": "A client’s meal is unexpectedly delayed just before a scheduled rapid-acting mealtime insulin dose. What should the nurse do?",
+      "options": [
+        "Give the dose and assume food will arrive",
+        "Check glucose and coordinate the dose with meal availability and the prescribed plan",
+        "Double the next dose",
+        "Cancel every insulin dose for the day"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Giving mealtime insulin without expected carbohydrate intake may cause hypoglycemia.",
+        "Assess glucose and clarify timing under the order/protocol rather than making an unsupported change.",
+        "Doubling creates an unsafe dosing change.",
+        "Other insulin components may still be required; do not cancel indiscriminately."
+      ],
+      "takeaway": "Link mealtime insulin timing to the actual meal and prescribed regimen.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "pharmacology-03",
+      "cat": "pharmacology",
+      "title": "Warfarin teaching",
+      "stem": "Which statement by a client taking warfarin indicates appropriate understanding?",
+      "options": [
+        "I will stop all vitamin K foods permanently",
+        "I will keep vitamin K intake reasonably consistent and attend INR monitoring",
+        "I can start any herbal product without checking",
+        "I should double the next dose if I forget one"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Consistency is generally more useful than eliminating nutritious foods.",
+        "Diet changes and INR results affect management; follow the prescribed plan.",
+        "Herbal products may interact and should be reviewed.",
+        "A missed dose should be managed using specific instructions, not automatic doubling."
+      ],
+      "takeaway": "Think consistency, interaction checks and monitoring.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "pharmacology-04",
+      "cat": "pharmacology",
+      "title": "Opioid-related deterioration",
+      "stem": "After an opioid dose, a client is difficult to arouse with slow, shallow respirations. What is the priority?",
+      "options": [
+        "Allow uninterrupted sleep",
+        "Withhold further opioid, call for urgent help and support airway/breathing; follow reversal protocol",
+        "Give another dose for presumed discomfort",
+        "Offer a drink to wake them"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Reduced alertness with hypoventilation can be life-threatening.",
+        "Support ventilation and activate emergency care; give reversal treatment as authorized.",
+        "More opioid may worsen respiratory depression.",
+        "Oral intake is unsafe with reduced alertness."
+      ],
+      "takeaway": "Respiratory depression requires immediate action, not routine reassessment later.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "pharmacology-05",
+      "cat": "pharmacology",
+      "title": "A potassium order",
+      "stem": "A nurse receives an order for concentrated potassium chloride by direct IV push. What should happen?",
+      "options": [
+        "Administer slowly over one minute",
+        "Clarify the unsafe order and do not give direct IV push potassium",
+        "Dilute in a small flush and administer",
+        "Give it if the client’s potassium is low"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Direct IV push potassium can cause fatal dysrhythmias.",
+        "Potassium requires an appropriate diluted infusion under controlled administration policy.",
+        "A small flush does not make the route safe.",
+        "A low laboratory result does not justify an unsafe route."
+      ],
+      "takeaway": "The need for replacement never makes direct IV push potassium safe.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "pharmacology-06",
+      "cat": "pharmacology",
+      "title": "A suspected medication reaction",
+      "stem": "Soon after an antibiotic begins, a client develops wheezing, facial swelling and hypotension. What is the priority?",
+      "options": [
+        "Slow the antibiotic and reassess next hour",
+        "Stop the infusion, activate emergency help and follow the anaphylaxis protocol",
+        "Reassure the client this is an expected effect",
+        "Wait for a skin rash before acting"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Continuing the exposure and delaying action risks further deterioration.",
+        "This suggests anaphylaxis: stop exposure and initiate emergency assessment/treatment, including epinephrine as authorized.",
+        "Airway and circulatory compromise are not routine expected effects.",
+        "Anaphylaxis can occur without a rash."
+      ],
+      "takeaway": "Anaphylaxis is an airway and circulation emergency.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "pharmacology-07",
+      "cat": "pharmacology",
+      "title": "Checking a medication order",
+      "stem": "Which findings require clarification before administration? Select all that apply.",
+      "options": [
+        "The dose is missing",
+        "A documented allergy conflicts with the prescribed medication",
+        "The client’s identity has been verified",
+        "The route is unclear",
+        "The prescription and available concentration have been safely verified"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "why": [
+        "A dose must be clear and appropriate.",
+        "Clarify the allergy and treatment plan before exposing the client.",
+        "Identity verification is a completed safety check, not itself a discrepancy.",
+        "The intended route must be unambiguous.",
+        "Verified information does not itself require clarification."
+      ],
+      "takeaway": "Clarify omissions, ambiguity and relevant contraindications.",
+      "refs": [
+        "bcmed"
+      ],
+      "type": "multiple",
+      "exhibit": null
+    },
+    {
+      "id": "pharmacology-08",
+      "cat": "pharmacology",
+      "title": "IV infiltration",
+      "stem": "A peripheral IV site becomes cool, swollen and painful while a non-vesicant fluid is infusing. What should the nurse do first?",
+      "options": [
+        "Increase the rate to clear the line",
+        "Stop the infusion and assess/manage the site under protocol",
+        "Apply pressure while continuing the infusion",
+        "Ignore it if the pump has not alarmed"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "More fluid may worsen tissue swelling.",
+        "Stop further fluid entry and assess the suspected infiltration.",
+        "Continuing the infusion can increase injury.",
+        "A pump alarm does not reliably identify infiltration."
+      ],
+      "takeaway": "Assess the client and site; do not depend on the pump alarm.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "pharmacology-09",
+      "cat": "pharmacology",
+      "title": "Safe abbreviations",
+      "stem": "Which medication dose notation is clearest and safest?",
+      "options": [
+        ".5 mg",
+        "0.5 mg",
+        "0.50. mg",
+        "5.0 mg when 0.5 mg is intended"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "A missing leading zero increases the risk of misreading.",
+        "Use a leading zero before a decimal and avoid unnecessary trailing zeros.",
+        "Malformed punctuation makes the dose ambiguous.",
+        "This represents a tenfold larger dose than intended."
+      ],
+      "takeaway": "Use a leading zero; avoid unnecessary trailing zeros.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "pharmacology-10",
+      "cat": "pharmacology",
+      "title": "Extended-release tablets",
+      "stem": "A client with swallowing difficulty has an extended-release tablet prescribed. What is the best action?",
+      "options": [
+        "Crush it into applesauce without checking",
+        "Ask the pharmacist/prescriber about a suitable alternative or approved administration method",
+        "Dissolve it in hot water",
+        "Split all tablets into quarters"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Crushing may destroy controlled release and alter absorption.",
+        "Verify formulation-specific handling and arrange an appropriate option.",
+        "Dissolving can also alter release and stability.",
+        "Splitting suitability depends on the particular formulation."
+      ],
+      "takeaway": "The dosage form matters as much as the drug name.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "pharmacology-11",
+      "cat": "pharmacology",
+      "title": "Checking after a diuretic",
+      "stem": "A client taking a loop diuretic reports weakness and palpitations. Which prescribed laboratory test is particularly relevant to review promptly?",
+      "options": [
+        "Serum potassium",
+        "A remote blood-group result",
+        "A routine allergy skin test",
+        "A stool screening test"
+      ],
+      "answer": [
+        0
+      ],
+      "why": [
+        "Loop diuretics can lower potassium; electrolyte disturbance can contribute to weakness and dysrhythmia.",
+        "Blood group does not explain these new symptoms.",
+        "An allergy test is not the relevant immediate investigation.",
+        "Stool screening does not assess the likely electrolyte risk."
+      ],
+      "takeaway": "Connect medication effects with new symptoms and monitoring.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "pharmacology-12",
+      "cat": "pharmacology",
+      "title": "Medication teaching",
+      "stem": "Which instructions support safe use of a new medicine at home? Select all that apply.",
+      "options": [
+        "Explain its purpose and prescribed schedule",
+        "Explain important adverse effects and when to seek help",
+        "Tell the client to share unused doses with relatives",
+        "Check for understanding and relevant nonprescription products",
+        "Tell the client to stop every other medicine automatically"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "why": [
+        "Purpose and timing support appropriate use.",
+        "The client needs clear instructions about concerning effects.",
+        "Prescriptions are individual and should not be shared.",
+        "Teach-back and interaction review identify safety issues.",
+        "Changes to other treatment require an appropriate plan."
+      ],
+      "takeaway": "Teach the purpose, practical use, monitoring and escalation plan.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "multiple",
+      "exhibit": null
+    },
+    {
+      "id": "risk-01",
+      "cat": "risk",
+      "title": "A trend in deterioration",
+      "stem": "A postoperative client’s observations are shown below. What is the best response?",
+      "options": [
+        "Continue routine observations only",
+        "Assess promptly and escalate possible bleeding or circulatory deterioration",
+        "Offer sleep medication",
+        "Document improvement because the temperature is normal"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "The combination shows a concerning trend.",
+        "Falling pressure with rising pulse and reduced urine suggests compromised perfusion.",
+        "Sedation may mask deterioration and does not treat the cause.",
+        "One normal observation does not cancel several abnormal trends."
+      ],
+      "takeaway": "Interpret the pattern, not a single reassuring value.",
+      "refs": [
+        "assessment"
+      ],
+      "type": "single",
+      "exhibit": [
+        [
+          "Observation",
+          "08:00",
+          "10:00"
+        ],
+        [
+          "Heart rate",
+          "84/min",
+          "118/min"
+        ],
+        [
+          "Blood pressure",
+          "122/76 mmHg",
+          "88/54 mmHg"
+        ],
+        [
+          "Urine output",
+          "45 mL/hour",
+          "15 mL/hour"
+        ]
+      ]
+    },
+    {
+      "id": "risk-02",
+      "cat": "risk",
+      "title": "Critical potassium",
+      "stem": "A client’s potassium result is 6.4 mmol/L (reference 3.5–5.0 mmol/L). What should the nurse do?",
+      "options": [
+        "Offer potassium-rich food",
+        "Promptly assess and notify the responsible clinician; arrange cardiac monitoring as indicated",
+        "Ignore it if the client has no symptoms",
+        "Wait for the next routine clinic appointment"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Additional potassium may worsen the problem.",
+        "Marked hyperkalemia can cause dangerous cardiac effects even before obvious symptoms.",
+        "Absence of symptoms does not establish safety.",
+        "This result requires urgent review, with confirmation when appropriate without avoidable delay."
+      ],
+      "takeaway": "Potentially dangerous laboratory results require timely escalation.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "risk-03",
+      "cat": "risk",
+      "title": "After a fall",
+      "stem": "A client is found on the floor after an unwitnessed fall. What should happen before routinely lifting the client?",
+      "options": [
+        "Assess responsiveness, immediate threats and possible injury, and summon help",
+        "Move them quickly to avoid embarrassment",
+        "Ask them to stand and prove they are uninjured",
+        "Complete the incident report first"
+      ],
+      "answer": [
+        0
+      ],
+      "why": [
+        "Assess injury and immediate danger before selecting a safe transfer method.",
+        "Unassessed movement could worsen an injury.",
+        "The client’s ability and injuries are not yet established.",
+        "Clinical safety takes priority over reporting paperwork."
+      ],
+      "takeaway": "Assess first unless the environment creates an immediate danger requiring movement.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "risk-04",
+      "cat": "risk",
+      "title": "Postoperative prevention",
+      "stem": "Which actions can help reduce postoperative complications when appropriate to the client and care plan? Select all that apply.",
+      "options": [
+        "Encourage prescribed deep breathing and supported coughing",
+        "Assist early mobilization when safe",
+        "Maintain complete bed rest for all clients",
+        "Assess pain and support adequate analgesia",
+        "Ignore new calf swelling until discharge"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "why": [
+        "These measures can support lung expansion and secretion clearance.",
+        "Movement helps reduce risks associated with immobility.",
+        "Unnecessary immobility increases complications.",
+        "Pain control can improve breathing and mobility.",
+        "New unilateral swelling needs prompt assessment."
+      ],
+      "takeaway": "Support breathing and mobility while monitoring new symptoms.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "multiple",
+      "exhibit": null
+    },
+    {
+      "id": "risk-05",
+      "cat": "risk",
+      "title": "A changing cast assessment",
+      "stem": "A client with a new lower-leg cast reports worsening pain despite analgesia and numb toes. What is the priority?",
+      "options": [
+        "Reassure them that severe pain is always expected",
+        "Assess neurovascular status and seek urgent review",
+        "Insert an object under the cast",
+        "Wait until the cast is removed at follow-up"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Increasing pain and altered sensation may indicate compromised circulation or compartment pressure.",
+        "Prompt neurovascular assessment and escalation protect the limb.",
+        "Inserting objects can injure the skin and does not address the cause.",
+        "A delayed review may allow serious injury."
+      ],
+      "takeaway": "Pain out of proportion and new sensory changes are warning findings.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "risk-06",
+      "cat": "risk",
+      "title": "Before a procedure",
+      "stem": "A client scheduled for a non-urgent procedure says, “I signed, but I do not know what they are going to do.” What should the nurse do?",
+      "options": [
+        "Treat the signature as sufficient",
+        "Pause preparation and arrange clarification of understanding and consent with the appropriate clinician",
+        "Give sedation to reduce questions",
+        "Ask a visitor to sign another form"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "A signature alone does not establish informed consent.",
+        "Resolve the concern before proceeding with an elective procedure.",
+        "Sedation does not resolve a lack of informed understanding.",
+        "A visitor is not automatically authorized to consent."
+      ],
+      "takeaway": "Unresolved understanding requires clarification, even after signing.",
+      "refs": [
+        "cno",
+        "bc"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "risk-07",
+      "cat": "risk",
+      "title": "Anticoagulation and a head injury",
+      "stem": "A client taking an anticoagulant reports hitting their head and now has a worsening headache. What is the most appropriate action?",
+      "options": [
+        "Suggest sleeping it off",
+        "Arrange urgent clinical assessment",
+        "Stop all medicines permanently",
+        "Wait until visible bruising appears"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Worsening symptoms can indicate intracranial bleeding.",
+        "Head injury with anticoagulation and new symptoms requires urgent assessment.",
+        "Long-term medication decisions require an appropriate clinician.",
+        "Serious bleeding can occur without visible external bruising."
+      ],
+      "takeaway": "Internal bleeding may not be visible.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "risk-08",
+      "cat": "risk",
+      "title": "Monitoring fluid status",
+      "stem": "Which findings are useful when assessing a client for fluid overload? Select all that apply.",
+      "options": [
+        "Change in weight measured consistently",
+        "New breathlessness or crackles",
+        "An isolated old height measurement",
+        "Peripheral edema and intake/output trends",
+        "The colour of the client’s clothing"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "why": [
+        "Consistent weight trends can reflect changes in fluid balance.",
+        "Pulmonary findings may suggest congestion and require assessment.",
+        "An old height does not show a new fluid change.",
+        "Combine these findings with the broader clinical assessment.",
+        "Clothing colour has no diagnostic relevance."
+      ],
+      "takeaway": "Use several converging findings to assess a fluid trend.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "multiple",
+      "exhibit": null
+    },
+    {
+      "id": "risk-09",
+      "cat": "risk",
+      "title": "A wound change",
+      "stem": "A postoperative wound develops spreading redness, warmth, increasing pain and purulent drainage. What is appropriate?",
+      "options": [
+        "Document normal healing only",
+        "Assess the client including systemic signs and report possible infection",
+        "Seal the wound with household adhesive",
+        "Ignore it if the dressing hides the drainage"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "This pattern is concerning for infection rather than uncomplicated healing.",
+        "Assess locally and systemically and communicate for timely management.",
+        "Household products are not appropriate wound treatment.",
+        "Concealing the finding delays assessment and care."
+      ],
+      "takeaway": "Look beyond the wound for signs of systemic illness.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "risk-10",
+      "cat": "risk",
+      "title": "A transfusion reaction",
+      "stem": "Shortly after a blood transfusion starts, a client develops chills, back pain and dyspnea. What is the priority?",
+      "options": [
+        "Increase the rate to finish the unit",
+        "Stop the transfusion and activate the transfusion-reaction protocol with urgent assessment",
+        "Give the next unit instead",
+        "Record it only at the end of the shift"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Increasing exposure may worsen a reaction.",
+        "Stop the suspected exposure, assess urgently and follow protocol for access, notification and investigation.",
+        "Another unit does not resolve the reaction.",
+        "Delaying communication can endanger the client."
+      ],
+      "takeaway": "Stop a suspected transfusion reaction promptly and follow the emergency protocol.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "risk-11",
+      "cat": "risk",
+      "title": "An acute neurological change",
+      "stem": "A client suddenly develops facial asymmetry and arm weakness. Which information is especially important to determine while urgent help is activated?",
+      "options": [
+        "The last time the client was known to be at their usual neurological baseline",
+        "The date of their last dental appointment",
+        "Their preferred discharge meal",
+        "The number of visitors last week"
+      ],
+      "answer": [
+        0
+      ],
+      "why": [
+        "Last-known-well time informs time-sensitive stroke assessment and treatment options.",
+        "This is not the time-critical information.",
+        "Meal preferences can wait.",
+        "Visitor history does not determine the acute stroke timeline."
+      ],
+      "takeaway": "Activate urgent care and establish last known well without delaying help.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "risk-12",
+      "cat": "risk",
+      "title": "Pulse oximeter limitations",
+      "stem": "A pulse oximeter reads 82% on a cold finger, but the client is alert and speaking comfortably. What is best?",
+      "options": [
+        "Ignore the reading permanently",
+        "Immediately give a sedative",
+        "Assess the client and verify sensor placement/perfusion while responding to any clinical distress",
+        "Assume all low readings are artifacts"
+      ],
+      "answer": [
+        2
+      ],
+      "why": [
+        "A low result needs assessment and verification.",
+        "Sedation does not resolve uncertainty and may impair breathing.",
+        "Integrate clinical assessment with signal quality; do not delay urgent support if distress is present.",
+        "Artifact is possible but cannot be assumed."
+      ],
+      "takeaway": "Check the person and the measurement together.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "adaptation-01",
+      "cat": "adaptation",
+      "title": "Hypoglycemia while alert",
+      "stem": "An adult with diabetes is alert, can swallow safely and has mild symptoms with glucose 3.5 mmol/L. Under the treatment protocol, what is appropriate?",
+      "options": [
+        "Give rapid-acting insulin",
+        "Give 15 g of fast-acting carbohydrate and recheck glucose in 15 minutes",
+        "Give only water",
+        "Wait an hour before rechecking"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Insulin would lower glucose further.",
+        "For mild to moderate hypoglycemia, fast-acting carbohydrate and reassessment are appropriate; repeat according to protocol if still low.",
+        "Water does not provide glucose.",
+        "A long delay can allow progression."
+      ],
+      "takeaway": "Treat, recheck and address the cause; oral treatment requires safe swallowing.",
+      "refs": [
+        "glucose"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "adaptation-02",
+      "cat": "adaptation",
+      "title": "A seizure",
+      "stem": "A client begins a generalized tonic-clonic seizure in bed. What should the nurse do?",
+      "options": [
+        "Force a spoon between the teeth",
+        "Hold the limbs down firmly",
+        "Protect from injury, time the seizure and support airway/safety according to protocol",
+        "Give oral water during the seizure"
+      ],
+      "answer": [
+        2
+      ],
+      "why": [
+        "Objects in the mouth can injure the client and obstruct the airway.",
+        "Forceful restraint can cause injury.",
+        "Protect the head/environment, seek help and manage airway safely; escalate prolonged or repeated seizures.",
+        "Oral intake is unsafe during impaired consciousness."
+      ],
+      "takeaway": "Protect, observe and support safety; do not restrain or put objects in the mouth.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "adaptation-03",
+      "cat": "adaptation",
+      "title": "Possible sepsis",
+      "stem": "An adult with a suspected infection becomes confused, breathes rapidly and has a blood pressure of 84/48 mmHg. What is the priority?",
+      "options": [
+        "Wait for the culture result before reporting",
+        "Activate urgent assessment and treatment for possible sepsis/shock",
+        "Encourage the client to walk to the bathroom",
+        "Provide discharge instructions"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Culture results must not delay recognition and emergency escalation.",
+        "Infection with organ dysfunction and hypotension needs urgent care.",
+        "Mobilizing an unstable client is unsafe.",
+        "The client is acutely unstable."
+      ],
+      "takeaway": "Treat deterioration with suspected infection as time-critical.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "adaptation-04",
+      "cat": "adaptation",
+      "title": "Acute chest pain",
+      "stem": "A client develops new crushing chest discomfort with sweating and shortness of breath. What is the most appropriate action?",
+      "options": [
+        "Have them walk to relieve anxiety",
+        "Promptly assess and activate the chest-pain/emergency pathway",
+        "Wait to see if lunch improves the pain",
+        "Assume it is indigestion because the client is young"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Exertion can worsen an acute cardiac problem.",
+        "This symptom pattern requires urgent assessment and protocol-based care.",
+        "Waiting can delay time-sensitive treatment.",
+        "Age alone cannot safely rule out a serious cause."
+      ],
+      "takeaway": "Respond to the pattern and urgency rather than making a reassuring assumption.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "adaptation-05",
+      "cat": "adaptation",
+      "title": "An unresponsive client",
+      "stem": "A nurse finds an adult unresponsive and not breathing normally. What is the appropriate immediate response?",
+      "options": [
+        "Leave to complete documentation",
+        "Activate emergency response and begin the appropriate resuscitation sequence, using an AED as soon as available",
+        "Offer water",
+        "Wait for a family member’s interpretation"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Emergency care takes priority.",
+        "Unresponsiveness with absent/abnormal breathing requires immediate assessment and resuscitation under current BLS guidance.",
+        "Oral intake is unsafe.",
+        "Waiting delays life-saving action."
+      ],
+      "takeaway": "Recognize arrest, call for help and follow current BLS/AED procedures.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "adaptation-06",
+      "cat": "adaptation",
+      "title": "Acute shortness of breath",
+      "stem": "A client becomes severely breathless while lying flat and coughs pink frothy sputum. What is the priority?",
+      "options": [
+        "Encourage extra oral fluids",
+        "Position to support breathing as tolerated, activate urgent help and assess/support oxygenation under protocol",
+        "Keep flat and leave to find the chart",
+        "Offer a meal to improve strength"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Extra fluids can worsen pulmonary fluid overload.",
+        "This may signal acute pulmonary edema and requires urgent respiratory/circulatory care.",
+        "Flat positioning may worsen breathing and leaving delays help.",
+        "Eating during respiratory distress increases risk."
+      ],
+      "takeaway": "Severe respiratory distress takes priority over routine care.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "adaptation-07",
+      "cat": "adaptation",
+      "title": "Suspected pulmonary embolism",
+      "stem": "A postoperative client suddenly develops dyspnea, pleuritic chest pain and tachycardia. What is the best response?",
+      "options": [
+        "Massage the calves",
+        "Activate urgent assessment, limit exertion and support breathing as indicated",
+        "Tell them to walk it off",
+        "Reassess at the next scheduled round"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Massage does not treat a suspected embolism and is inappropriate.",
+        "This pattern may indicate pulmonary embolism and needs prompt assessment.",
+        "Exertion is unsafe during acute cardiopulmonary distress.",
+        "A scheduled delay is inappropriate."
+      ],
+      "takeaway": "Sudden postoperative cardiopulmonary symptoms require urgent escalation.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "adaptation-08",
+      "cat": "adaptation",
+      "title": "Postpartum bleeding",
+      "stem": "Soon after birth, a client has rapidly increasing vaginal bleeding, pallor and dizziness. What is the priority?",
+      "options": [
+        "Count the pads again in two hours",
+        "Activate the obstetric emergency response and immediately assess/support circulation under protocol",
+        "Encourage unassisted walking",
+        "Explain that all postpartum bleeding is normal"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Rapid bleeding with symptoms requires immediate action.",
+        "Possible postpartum hemorrhage is a time-critical emergency.",
+        "Dizziness and blood loss create a fall and perfusion risk.",
+        "Some bleeding is expected, but this pattern is concerning."
+      ],
+      "takeaway": "Judge bleeding by rate and the client’s condition, not by its presence alone.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "adaptation-09",
+      "cat": "adaptation",
+      "title": "Sudden airway obstruction",
+      "stem": "A conscious adult cannot speak, breathe or cough effectively after taking a bite of food. What should the nurse do?",
+      "options": [
+        "Offer water to wash the food down",
+        "Encourage the client to lie down and wait",
+        "Activate help and give the appropriate adult choking interventions according to current resuscitation training",
+        "Perform a blind finger sweep"
+      ],
+      "answer": [
+        2
+      ],
+      "why": [
+        "Water may worsen obstruction and cannot be swallowed safely.",
+        "Waiting delays intervention for a severe obstruction.",
+        "An ineffective cough and inability to speak indicate severe obstruction requiring immediate trained action.",
+        "A blind sweep may push the object deeper."
+      ],
+      "takeaway": "Distinguish an effective cough from a severe obstruction and act promptly.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "adaptation-10",
+      "cat": "adaptation",
+      "title": "Recognizing dehydration",
+      "stem": "Which findings can indicate significant volume depletion in an adult? Select all that apply.",
+      "options": [
+        "Reduced urine output",
+        "Tachycardia with postural symptoms",
+        "A stable pattern of moist mucosa and usual urine output",
+        "Hypotension with worsening weakness",
+        "Sudden improvement in all vital signs"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "why": [
+        "Reduced output may reflect impaired perfusion and needs assessment.",
+        "These may be compensatory and orthostatic signs.",
+        "This is relatively reassuring in the stated comparison.",
+        "This combination may indicate impaired circulation.",
+        "Improved observations do not support worsening volume depletion."
+      ],
+      "takeaway": "Combine losses, intake, vital signs and urine trends.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "multiple",
+      "exhibit": null
+    },
+    {
+      "id": "adaptation-11",
+      "cat": "adaptation",
+      "title": "Severe hypoglycemia",
+      "stem": "A client with diabetes is unresponsive and has a glucose of 2.1 mmol/L. Which action is appropriate?",
+      "options": [
+        "Pour juice into the mouth",
+        "Protect the airway, activate urgent help and give authorized non-oral glucose treatment under protocol",
+        "Wait for the client to wake before treating",
+        "Give scheduled mealtime insulin"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Oral fluid can be aspirated when consciousness is impaired.",
+        "Severe hypoglycemia requires urgent treatment using an appropriate non-oral route, such as IV glucose or glucagon as authorized.",
+        "Delay can cause serious harm.",
+        "Insulin would worsen hypoglycemia."
+      ],
+      "takeaway": "Consciousness and swallowing safety determine whether oral treatment is suitable.",
+      "refs": [
+        "glucose"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "adaptation-12",
+      "cat": "adaptation",
+      "title": "Recognizing respiratory distress",
+      "stem": "Which observations warrant prompt assessment for respiratory deterioration? Select all that apply.",
+      "options": [
+        "New inability to finish a sentence because of breathlessness",
+        "Marked use of accessory muscles",
+        "Stable comfortable breathing at baseline",
+        "New confusion with respiratory symptoms",
+        "Normal conversation without symptoms"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "why": [
+        "Breathlessness that limits speech suggests significant distress.",
+        "Accessory muscle use can reflect increased work of breathing.",
+        "Stable baseline breathing is not an acute warning sign here.",
+        "Altered mental status can occur with severe hypoxia or hypercapnia.",
+        "This does not itself suggest deterioration."
+      ],
+      "takeaway": "Work of breathing and mental status matter as well as oxygen saturation.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "multiple",
+      "exhibit": null
+    },
+    {
+      "id": "management-13",
+      "cat": "management",
+      "title": "Which report changes the priority?",
+      "stem": "Four clients are receiving morning care. Which report requires the practical nurse to interrupt routine medication preparation and assess immediately?",
+      "options": [
+        "A client with stable COPD is at their prescribed oxygen target and reports usual exertional breathlessness",
+        "A client taking an anticoagulant reports a new severe headache and vomiting after a fall last night",
+        "A client awaiting discharge has questions about a medication stopped yesterday",
+        "A client with arthritis requests their prescribed analgesic before physiotherapy"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "A stable finding at the client’s baseline needs ongoing care but is not the most urgent change.",
+        "Anticoagulation, recent head trauma and new neurological symptoms raise concern for intracranial bleeding.",
+        "Reconciliation and education are needed, but acute deterioration takes priority.",
+        "Pre-activity analgesia supports mobility but can wait briefly while the acute risk is assessed."
+      ],
+      "takeaway": "Compare change from baseline and potential harm, not diagnosis labels alone.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "management-14",
+      "cat": "management",
+      "title": "Assignment after a change",
+      "stem": "A care provider has safely assisted a client with walking for several days. Today the client reports new weakness and nearly falls when standing. What should the nurse do before the next walk?",
+      "options": [
+        "Continue the same assignment because the worker is experienced",
+        "Ask the worker to document the change after the next walk",
+        "Reassess the client and revise the assistance and supervision plan",
+        "Ask a second unregulated worker to join without further assessment"
+      ],
+      "answer": [
+        2
+      ],
+      "why": [
+        "Worker competence does not remove the need to reassess a changed client.",
+        "Documentation alone does not establish whether another walk is safe.",
+        "New weakness changes predictability and may change the required equipment or level of support.",
+        "More people do not substitute for an assessment of the new problem."
+      ],
+      "takeaway": "An appropriate assignment can become inappropriate when the client changes.",
+      "refs": [
+        "cno",
+        "bc"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "management-15",
+      "cat": "management",
+      "title": "An unresolved safety concern",
+      "stem": "A nurse reports a sudden deterioration to the responsible clinician but receives instructions for routine observation only. The client continues to worsen. What is the best next action?",
+      "options": [
+        "Follow the original instruction until the next scheduled round",
+        "Continue immediate assessment/support and escalate through the urgent-response chain",
+        "Ask a colleague to document disagreement but make no further contact",
+        "Wait for a family member to request a second opinion"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "A continuing change requires renewed communication and escalation.",
+        "Clear escalation with current findings is needed when the initial response does not address the evolving risk.",
+        "Documentation does not replace action to obtain appropriate clinical help.",
+        "The nurse’s responsibility to act does not depend on a family request."
+      ],
+      "takeaway": "Escalation continues until an unresolved safety concern receives an appropriate response.",
+      "refs": [
+        "cno",
+        "bc"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "management-16",
+      "cat": "management",
+      "title": "A treatment disagreement",
+      "stem": "A capable adult accepts symptom treatment but refuses a proposed blood transfusion. A family member insists it should proceed. What should guide the nurse’s response?",
+      "options": [
+        "The family’s preference takes priority because the treatment could be life-saving",
+        "The client’s informed decision should be respected while alternatives and concerns are addressed",
+        "The nurse should ask the family to sign on behalf of the client",
+        "Any disagreement automatically means the client lacks decision-making capacity"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Potential benefit does not by itself override a capable client’s informed refusal.",
+        "Support understanding, communicate the refusal and collaborate on acceptable alternatives.",
+        "A capable client’s decision is not replaced merely because a relative disagrees.",
+        "A choice others disagree with is not itself evidence of incapacity."
+      ],
+      "takeaway": "Capacity and informed choice matter more than agreement with the recommendation.",
+      "refs": [
+        "cno",
+        "bc"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "management-17",
+      "cat": "management",
+      "title": "A factual progress note",
+      "stem": "Which progress note most clearly communicates an observed response to pain treatment?",
+      "options": [
+        "Client doing much better; no concerns",
+        "Client complained too much before the medicine",
+        "Thirty minutes after the prescribed IV analgesic, client reports pain decreased from 8/10 to 3/10; alert, respirations 16/min",
+        "Pain medication effective as usual"
+      ],
+      "answer": [
+        2
+      ],
+      "why": [
+        "This lacks specific findings and response measures.",
+        "A judgmental label does not describe the clinical response.",
+        "The entry links intervention timing, client report and a relevant safety observation.",
+        "This asserts effectiveness without supporting observations."
+      ],
+      "takeaway": "Document specific assessments and responses rather than vague judgments.",
+      "refs": [
+        "cno",
+        "bc"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "management-18",
+      "cat": "management",
+      "title": "What does a signature mean?",
+      "stem": "A client signs a procedure form, then asks whether they can change their mind before it begins. What is the best response?",
+      "options": [
+        "The signature makes the decision final",
+        "Only the person performing the procedure can discuss withdrawal",
+        "You can withdraw consent; let us discuss your concerns and notify the team",
+        "Withdrawal is allowed only if a family member agrees"
+      ],
+      "answer": [
+        2
+      ],
+      "why": [
+        "Consent may be withdrawn; a signature does not make it irrevocable.",
+        "The nurse should respond to the concern and help communicate it promptly.",
+        "Acknowledge the right to reconsider and support an informed discussion.",
+        "A capable client does not need family permission to withdraw consent."
+      ],
+      "takeaway": "Consent remains active before and during care.",
+      "refs": [
+        "cno",
+        "bc"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "management-19",
+      "cat": "management",
+      "title": "Clarifying a telephone order",
+      "stem": "Under a policy allowing telephone medication orders, the nurse cannot clearly hear the dose. What is the most appropriate next step?",
+      "options": [
+        "Select the usual adult dose and document it",
+        "Ask the prescriber to repeat and clarify, then read back the complete order according to policy",
+        "Record both possible doses and ask the next shift to choose",
+        "Use the dose administered to another client with the same diagnosis"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "A typical dose is not verification of this client’s intended order.",
+        "Clarification and read-back help establish a complete, accurate order before implementation.",
+        "An ambiguous order should not be left unresolved for another shift.",
+        "A diagnosis does not determine an identical dose for every client."
+      ],
+      "takeaway": "Resolve communication ambiguity at the source.",
+      "refs": [
+        "bcmed",
+        "cno"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "management-20",
+      "cat": "management",
+      "title": "A request to disclose information",
+      "stem": "An adult client’s friend asks the nurse for investigation results. The client is alert and available, and no consent to disclose has been established. What should the nurse do?",
+      "options": [
+        "Share only the normal results",
+        "Confirm the client’s wishes and authorization before disclosing information",
+        "Share the results because the friend knows the client’s birth date",
+        "Ask the friend to sign a confidentiality agreement and then disclose"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Normal results are still private health information.",
+        "Establish the client’s consent and the appropriate scope of disclosure.",
+        "Knowing an identifier does not establish permission to receive information.",
+        "A friend’s agreement does not substitute for lawful authorization to disclose."
+      ],
+      "takeaway": "Confirm permission, identity and purpose before disclosure.",
+      "refs": [
+        "cno",
+        "bc"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "pharmacology-13",
+      "cat": "pharmacology",
+      "title": "Recognizing a dosing mismatch",
+      "stem": "A medication order is for 0.25 mg. The available tablets contain 0.5 mg each and are approved for splitting. A colleague prepares two tablets. What should the nurse do?",
+      "options": [
+        "Administer them because the tablet strength is smaller than 1 mg",
+        "Stop and correct the preparation: the prescribed amount is half a tablet",
+        "Give one tablet now and one later",
+        "Ask the client which dose they usually prefer"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Comparing with 1 mg does not determine the required number of tablets.",
+        "0.25 mg ÷ 0.5 mg/tablet = 0.5 tablet; two tablets would contain 1 mg.",
+        "Changing timing does not correct the total dose discrepancy.",
+        "Preference does not resolve a prescribing or preparation discrepancy."
+      ],
+      "takeaway": "Keep dose units visible: prescribed dose divided by available strength.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "pharmacology-14",
+      "cat": "pharmacology",
+      "title": "A per-day order",
+      "stem": "A fictional medicine is ordered at 18 mg/kg/day in three equal doses for a 20 kg child. What amount is prescribed per dose?",
+      "options": [
+        "120 mg",
+        "360 mg",
+        "6 mg",
+        "1,080 mg"
+      ],
+      "answer": [
+        0
+      ],
+      "why": [
+        "18 × 20 = 360 mg/day; dividing by three gives 120 mg/dose.",
+        "360 mg is the daily total, not the amount at each administration.",
+        "6 mg/kg per dose still needs multiplication by the child’s weight.",
+        "Multiplying the daily total by three confuses the number of administrations with the daily dose."
+      ],
+      "takeaway": "Separate the daily total from the amount given at one time. Fictional medicine: calculation only.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "pharmacology-15",
+      "cat": "pharmacology",
+      "title": "Before a scheduled dose",
+      "stem": "A scheduled beta-blocker has a prescribed hold parameter for pulse below 55/min. The nurse obtains a pulse of 48/min and the client reports dizziness. What is best?",
+      "options": [
+        "Administer it because the blood pressure remains above the hold threshold",
+        "Withhold according to the parameter, assess the client and contact the responsible clinician",
+        "Give half the dose without an order",
+        "Ask the client to walk until the pulse reaches 55/min"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Meeting one parameter does not cancel a different hold parameter.",
+        "Follow the prescribed limit and assess/escalate symptomatic bradycardia.",
+        "A new dose requires appropriate authorization.",
+        "Exertion is not a safe way to overcome a medication hold parameter."
+      ],
+      "takeaway": "Use the actual prescribed parameters and assess the client, not just the number.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "pharmacology-16",
+      "cat": "pharmacology",
+      "title": "An IV site that burns",
+      "stem": "A client receiving an IV vesicant reports burning, and swelling is visible near the cannula. What is the best immediate response?",
+      "options": [
+        "Flush the cannula to check patency before stopping",
+        "Stop the infusion and follow the extravasation protocol, retaining access initially if needed for aspiration/treatment",
+        "Remove the cannula immediately and discard it before assessment",
+        "Slow the infusion and apply the same warm compress used for all medications"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Flushing may deliver more vesicant into tissue.",
+        "Stop exposure and follow the medication-specific protocol; access may be needed for aspiration or antidote administration.",
+        "Immediate removal may eliminate useful access before the protocol is implemented.",
+        "Management, including compress type, depends on the specific medicine; continued exposure is unsafe."
+      ],
+      "takeaway": "Suspected extravasation is medication-specific: stop, do not flush, and follow the relevant protocol.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "safety-13",
+      "cat": "safety",
+      "title": "PPE based on the task",
+      "stem": "A nurse will irrigate a wound where splashing of fluid is anticipated. Which protective approach is most appropriate?",
+      "options": [
+        "Gloves alone because blood contact is not certain",
+        "Gloves, protective clothing and face/eye protection appropriate to the anticipated splash",
+        "A respirator for every wound regardless of exposure",
+        "Hand hygiene alone if the wound is not known to be infected"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Gloves do not protect clothing or mucous membranes from splashes.",
+        "Select barriers for the expected exposure of hands, clothing and face.",
+        "Respiratory protection depends on the actual route and risk; it does not replace splash protection.",
+        "Routine practices apply even without a known infection."
+      ],
+      "takeaway": "Anticipated exposure, not just a diagnosis, determines protective equipment.",
+      "refs": [
+        "cdc"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "safety-14",
+      "cat": "safety",
+      "title": "A fall despite precautions",
+      "stem": "A client who understands the call-bell instructions gets up alone at night to urgently urinate. Which revision best addresses the identified problem?",
+      "options": [
+        "Repeat the same instructions more firmly",
+        "Assess toileting patterns and arrange timely assistance with accessible equipment",
+        "Remove the walking aid so the client cannot get up",
+        "Document noncompliance as the only change to the plan"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Education alone has not addressed the urgent need or timing.",
+        "Match support to the predictable activity and reassess contributing factors.",
+        "Removing needed equipment can make an attempted transfer more dangerous.",
+        "A label does not change the conditions that contributed to the fall risk."
+      ],
+      "takeaway": "A useful prevention plan addresses why the unsafe activity occurred.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "health-13",
+      "cat": "health",
+      "title": "A realistic teaching goal",
+      "stem": "After teaching a client newly prescribed a metered-dose inhaler, which outcome best demonstrates learning?",
+      "options": [
+        "The client states that the handout was easy to read",
+        "The client correctly demonstrates the prescribed device technique and identifies when to seek help",
+        "The client can name all medicines used for lung disease",
+        "The client agrees that the nurse explained everything"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Satisfaction with a handout does not verify the required skill.",
+        "Demonstration and an escalation plan show practical understanding.",
+        "Exhaustive drug recall is not the immediate skill needed.",
+        "Agreement can occur without correct technique or understanding."
+      ],
+      "takeaway": "Use a measurable action that matches the client’s real task.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "health-14",
+      "cat": "health",
+      "title": "Interpreting home measurements",
+      "stem": "A client brings home blood-pressure readings taken immediately after climbing stairs with an incorrectly sized cuff. What is the best initial teaching focus?",
+      "options": [
+        "Ask the client to average the readings and change the dose independently",
+        "Review correct technique, equipment fit and the prescribed monitoring/reporting plan",
+        "Stop all home monitoring because the readings vary",
+        "Record only the lowest readings"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Poor technique can mislead management, and dose changes need an appropriate plan.",
+        "Improve measurement quality before interpreting the trend in collaboration with the care team.",
+        "Variation is a reason to review technique rather than abandon useful monitoring.",
+        "Selective reporting hides the actual pattern."
+      ],
+      "takeaway": "Reliable measurement comes before reliable trend interpretation.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "psychosocial-13",
+      "cat": "psychosocial",
+      "title": "A statement of hopelessness",
+      "stem": "A client says they have collected pills and intend to take them tonight. What is the priority?",
+      "options": [
+        "Arrange a routine counselling appointment next month",
+        "Stay with the client, activate immediate safety support and restrict access to means when safe",
+        "Ask the client to promise not to act and then leave them alone",
+        "Complete the full social history before alerting anyone"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "A specific imminent plan requires an immediate response.",
+        "Intent, means and a near-term plan indicate serious immediate risk requiring protective support.",
+        "A promise is not a substitute for an appropriate safety response.",
+        "Further history must not delay action on an imminent threat."
+      ],
+      "takeaway": "Specific intent, means and timing change the urgency of the response.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "psychosocial-14",
+      "cat": "psychosocial",
+      "title": "Confusion or a long-term change?",
+      "stem": "An older adult with mild, stable dementia becomes acutely inattentive and fluctuates between drowsiness and agitation after surgery. What is most appropriate?",
+      "options": [
+        "Attribute it to expected progression of dementia",
+        "Assess for delirium and reversible contributors, and communicate the acute change",
+        "Use memory exercises as the only intervention",
+        "Delay assessment until the client is consistently agitated"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "A sudden fluctuating change is not typical of gradual dementia progression.",
+        "Acute inattention and fluctuating consciousness suggest delirium requiring assessment of causes.",
+        "Cognitive support may help but does not investigate the acute cause.",
+        "Hypoactive or fluctuating states can also represent serious illness."
+      ],
+      "takeaway": "A chronic diagnosis does not explain every new finding.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "basic-13",
+      "cat": "basic",
+      "title": "Reassessing pain before mobilization",
+      "stem": "A client reports incisional pain of 7/10 and refuses planned postoperative walking. Which response best balances comfort and recovery?",
+      "options": [
+        "Cancel all mobilization until the client has no pain",
+        "Assess pain and barriers, provide prescribed relief, then reassess and assist graded activity",
+        "Insist on walking before any analgesia",
+        "Tell the client that pain medication replaces the need to mobilize"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Complete avoidance may increase complications; an individualized plan is needed.",
+        "Address the limiting symptoms and reassess what safe activity is achievable.",
+        "Unmanaged pain can impair participation and breathing.",
+        "Analgesia and safe activity have different complementary purposes."
+      ],
+      "takeaway": "Use comfort interventions to enable function, then evaluate both.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "basic-14",
+      "cat": "basic",
+      "title": "A change in skin integrity",
+      "stem": "A client with reduced mobility has intact skin over the sacrum that remains red and does not blanch with gentle pressure. What is the best response?",
+      "options": [
+        "Massage the area to restore circulation",
+        "Relieve pressure and reassess/document the skin while updating the prevention plan",
+        "Wait for an open wound before changing care",
+        "Place the client on the same area to avoid disturbing the redness"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Massage may increase damage to compromised tissue.",
+        "Persistent non-blanchable redness is an important early warning requiring pressure relief and follow-up.",
+        "Intact skin can already have pressure-related damage.",
+        "Continuing pressure can worsen tissue injury."
+      ],
+      "takeaway": "Act on early tissue changes before skin breakdown progresses.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "risk-13",
+      "cat": "risk",
+      "title": "Distinguishing baseline from deterioration",
+      "stem": "A client with heart failure has the following observations. Which change is the highest priority to report after immediate assessment?",
+      "options": [
+        "A usual mild ankle swelling that resolves overnight",
+        "New breathlessness at rest with oxygen saturation below the prescribed target",
+        "A request to review the low-sodium meal choices",
+        "An unchanged daily weight taken on the same scale"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "A stable baseline finding needs monitoring but is less urgent than new respiratory compromise.",
+        "New resting dyspnea and a low saturation suggest acute respiratory deterioration.",
+        "Nutrition teaching can follow assessment of the urgent symptom.",
+        "A stable weight does not rule out a new acute problem."
+      ],
+      "takeaway": "A stable trend in one measure does not cancel a new red-flag symptom.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "risk-14",
+      "cat": "risk",
+      "title": "A laboratory result in context",
+      "stem": "A client receiving anticoagulation has new black tarry stools and dizziness. Which action is most appropriate?",
+      "options": [
+        "Document the stool colour and wait for the next scheduled INR",
+        "Assess circulation and symptoms and promptly escalate possible bleeding",
+        "Increase dietary fibre as the only response",
+        "Reassure the client because bruising is the only important bleeding sign"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Symptoms of possible bleeding need assessment regardless of scheduled monitoring.",
+        "Melena and dizziness may indicate clinically significant gastrointestinal bleeding.",
+        "Fibre does not address suspected bleeding.",
+        "Important bleeding can be internal and present without bruising."
+      ],
+      "takeaway": "Symptoms can require urgent action before a scheduled laboratory check.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "adaptation-13",
+      "cat": "adaptation",
+      "title": "What changes the immediate plan?",
+      "stem": "A client with low glucose is initially awake but becomes too drowsy to swallow safely while oral treatment is being prepared. What should the nurse do?",
+      "options": [
+        "Continue oral treatment using a straw",
+        "Change to the authorized non-oral emergency pathway and support the airway",
+        "Give the same oral amount more slowly",
+        "Wait for the next glucose check before changing the route"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "A straw does not make swallowing safe with reduced consciousness.",
+        "A loss of safe swallowing changes the route and urgency of treatment.",
+        "Slower administration does not remove aspiration risk.",
+        "Deteriorating consciousness requires an immediate response."
+      ],
+      "takeaway": "Reassess while preparing treatment; a change in condition may invalidate the original plan.",
+      "refs": [
+        "glucose"
+      ],
+      "type": "single",
+      "exhibit": null
+    },
+    {
+      "id": "adaptation-14",
+      "cat": "adaptation",
+      "title": "Conflicting priorities",
+      "stem": "A postoperative client reports sudden dyspnea and looks pale. The nurse is about to give the client’s routine oral medicines. What is the best initial action?",
+      "options": [
+        "Finish the routine medicines so they are not late",
+        "Stop the routine task, assess airway/breathing/circulation and summon appropriate help",
+        "Ask the client to wait while routine documentation is completed",
+        "Offer reassurance first and reassess only if symptoms persist for an hour"
+      ],
+      "answer": [
+        1
+      ],
+      "why": [
+        "Routine scheduling is secondary to a new potential cardiopulmonary threat.",
+        "A new acute change requires prompt assessment and appropriate emergency escalation.",
+        "Routine paperwork should not delay immediate assessment.",
+        "Reassurance without assessment can delay recognition of deterioration."
+      ],
+      "takeaway": "Change priorities when the client changes.",
+      "refs": [
+        "nursing"
+      ],
+      "type": "single",
+      "exhibit": null
+    }
+  ],
+  "sources": {
+    "plan": {
+      "name": "NCSBN · REx-PN test plans",
+      "url": "https://rexpn.com/test-plan.page",
+      "kind": "Official exam"
+    },
+    "prepare": {
+      "name": "NCSBN · Exam preview & candidate tutorial",
+      "url": "https://rexpn.com/prepare.page",
+      "kind": "Official exam"
+    },
+    "faq": {
+      "name": "NCSBN · REx-PN frequently asked questions",
+      "url": "https://rexpn.com/faqs.page",
+      "kind": "Official exam"
+    },
+    "cno": {
+      "name": "CNO · Standards & guidelines (Ontario)",
+      "url": "https://www.cno.org/standards-learning/standards-guidelines?l=en-ca",
+      "kind": "Provincial regulator"
+    },
+    "bc": {
+      "name": "BCCNM · LPN practice standards (British Columbia)",
+      "url": "https://www.bccnm.ca/LPN/PracticeStandards/Pages/Default.aspx",
+      "kind": "Provincial regulator"
+    },
+    "bcmed": {
+      "name": "BCCNM · Medication standard",
+      "url": "https://www.bccnm.ca/LPN/PracticeStandards/Pages/medication.aspx",
+      "kind": "Provincial regulator"
+    },
+    "cdc": {
+      "name": "CDC · Core infection prevention practices",
+      "url": "https://www.cdc.gov/infection-control/hcp/core-practices/",
+      "kind": "Clinical reference"
+    },
+    "isolation": {
+      "name": "CDC · Isolation precautions",
+      "url": "https://www.cdc.gov/infection-control/hcp/isolation-precautions/summary-recommendations.html",
+      "kind": "Clinical reference"
+    },
+    "glucose": {
+      "name": "Diabetes Canada · Hypoglycemia in adults",
+      "url": "https://guidelines.diabetes.ca/GuideLines/media/Docs/cpg/DC-SA-14_Hypoglycemia-in-Adults-JCJD_47_7.pdf",
+      "kind": "Canadian clinical guideline"
+    },
+    "nursing": {
+      "name": "OpenStax · Clinical Nursing Skills",
+      "url": "https://openstax.org/details/books/clinical-nursing-skills",
+      "kind": "Open textbook · US context"
+    },
+    "med": {
+      "name": "OpenStax · Medication administration",
+      "url": "https://openstax.org/books/clinical-nursing-skills/pages/12-introduction",
+      "kind": "Further reading"
+    },
+    "assessment": {
+      "name": "OpenStax · Cardiovascular nursing assessment",
+      "url": "https://openstax.org/books/clinical-nursing-skills/pages/24-3-nursing-assessment",
+      "kind": "Further reading"
+    }
+  }
+}

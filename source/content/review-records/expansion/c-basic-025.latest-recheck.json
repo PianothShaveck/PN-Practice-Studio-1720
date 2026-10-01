@@ -1,0 +1,59 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:06:09.589332+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/basic-001-025.json",
+  "sourceSha256": "95a4cc0ac2b382982146e0582a5b25ba600492e9c6410a89ad41d9a307f43e7e",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 1,
+    "reviewedIds": [
+      "x-basic-025"
+    ],
+    "unreviewedIds": [
+      "x-basic-001",
+      "x-basic-002",
+      "x-basic-003",
+      "x-basic-004",
+      "x-basic-005",
+      "x-basic-006",
+      "x-basic-007",
+      "x-basic-008",
+      "x-basic-009",
+      "x-basic-010",
+      "x-basic-011",
+      "x-basic-012",
+      "x-basic-013",
+      "x-basic-014",
+      "x-basic-015",
+      "x-basic-016",
+      "x-basic-017",
+      "x-basic-018",
+      "x-basic-019",
+      "x-basic-020",
+      "x-basic-021",
+      "x-basic-022",
+      "x-basic-023",
+      "x-basic-024"
+    ]
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [],
+  "items": [
+    {
+      "id": "x-basic-025",
+      "status": "pass",
+      "assessment": "After immediate safe reclining, current symptom/BP response directly measures postural tolerance for the next attempt. Fluid balance and antihypertensive timing are now a plausible causal competitor but do not substitute for directly observed positional response; no competing best answer found.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "9fb67f4dc012d302f7f59b54c3296efe4436e4fa2fbb1dc18cdc3362b92b5e96"
+    }
+  ],
+  "reviewerTask": "/root/review_legacy"
+}

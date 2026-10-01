@@ -1,0 +1,632 @@
+{
+  "b-pk": {
+    "name": "Open RN \u00b7 Excretion",
+    "url": "https://wtcs.pressbooks.pub/pharmacology2e/chapter/1-6-excretion/",
+    "kind": "Open textbook \u00b7 US context",
+    "checkedDate": "2026-10-01",
+    "scope": "Reduced renal function and medication excretion"
+  },
+  "b-cardio-drugs": {
+    "name": "Open RN \u00b7 Cardiovascular and renal medicines",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK594995/",
+    "kind": "Open textbook \u00b7 US context",
+    "checkedDate": "2026-10-01",
+    "scope": "Cardiovascular drug classes; medication monitoring; anticoagulants"
+  },
+  "b-anticoag": {
+    "name": "MedlinePlus \u00b7 Blood thinners",
+    "url": "https://medlineplus.gov/bloodthinners.html",
+    "kind": "Government health information",
+    "checkedDate": "2026-10-01",
+    "scope": "Anticoagulant and antiplatelet purposes; bleeding precautions"
+  },
+  "b-endocrine-drugs": {
+    "name": "Open RN \u00b7 Endocrine medicines",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK595005/",
+    "kind": "Open textbook \u00b7 US context",
+    "checkedDate": "2026-10-01",
+    "scope": "Insulin and diabetes medicines; corticosteroids; thyroid medicines"
+  },
+  "b-antibiotics": {
+    "name": "Open RN \u00b7 Antimicrobial administration considerations",
+    "url": "https://wtcs.pressbooks.pub/pharmacology/chapter/3-3-administration-considerations/",
+    "kind": "Open textbook \u00b7 US context",
+    "checkedDate": "2026-10-01",
+    "scope": "Antimicrobial administration and monitoring"
+  },
+  "b-asthma": {
+    "name": "Open RN \u00b7 Asthma",
+    "url": "https://wtcs.pressbooks.pub/healthalts/chapter/6-5-asthma/",
+    "kind": "Open textbook \u00b7 US context",
+    "checkedDate": "2026-10-01",
+    "scope": "Asthma deterioration; treatment response"
+  },
+  "b-copd": {
+    "name": "Open RN \u00b7 COPD",
+    "url": "https://wtcs.pressbooks.pub/healthalts/chapter/6-6-copd/",
+    "kind": "Open textbook \u00b7 US context",
+    "checkedDate": "2026-10-01",
+    "scope": "COPD exacerbation; oxygen and ventilation assessment"
+  },
+  "b-respiratory": {
+    "name": "Open RN \u00b7 Respiratory assessment and interventions",
+    "url": "https://wtcs.pressbooks.pub/healthalts/chapter/6-3-general-respiratory-system-assessment-and-interventions/",
+    "kind": "Open textbook \u00b7 US context",
+    "checkedDate": "2026-10-01",
+    "scope": "Respiratory assessment; oxygenation; airway clearance"
+  },
+  "b-op-postop": {
+    "name": "Open RN \u00b7 Postoperative nursing care",
+    "url": "https://wtcs.pressbooks.pub/healthalts/chapter/2-5-postoperative-nursing-care/",
+    "kind": "Open textbook \u00b7 US context",
+    "checkedDate": "2026-10-01",
+    "scope": "Postoperative deterioration; bleeding recognition"
+  },
+  "b-heart-failure": {
+    "name": "Open RN \u00b7 Heart failure",
+    "url": "https://wtcs.pressbooks.pub/healthalts/chapter/5-8-heart-failure/",
+    "kind": "Open textbook \u00b7 US context",
+    "checkedDate": "2026-10-01",
+    "scope": "Congestion; treatment evaluation"
+  },
+  "b-diabetes": {
+    "name": "Open RN \u00b7 Diabetes mellitus",
+    "url": "https://wtcs.pressbooks.pub/healthalts/chapter/7-5-diabetes-mellitus/",
+    "kind": "Open textbook \u00b7 US context",
+    "checkedDate": "2026-10-01",
+    "scope": "Diabetes assessment; insulin therapy; self-management"
+  },
+  "b-thyroid": {
+    "name": "Open RN \u00b7 Thyroid disorders",
+    "url": "https://wtcs.pressbooks.pub/healthalts/chapter/7-6-thyroid-disorders/",
+    "kind": "Open textbook \u00b7 US context",
+    "checkedDate": "2026-10-01",
+    "scope": "Thyroid excess and deficiency; treatment response"
+  },
+  "b-adrenal": {
+    "name": "Open RN \u00b7 Adrenal disorders",
+    "url": "https://wtcs.pressbooks.pub/healthalts/chapter/7-7-adrenal-disorders/",
+    "kind": "Open textbook \u00b7 US context",
+    "checkedDate": "2026-10-01",
+    "scope": "Adrenal insufficiency; glucocorticoid replacement"
+  },
+  "b-renal": {
+    "name": "Open RN \u00b7 Acute renal failure",
+    "url": "https://wtcs.pressbooks.pub/healthalts/chapter/8-5-acute-renal-failure/",
+    "kind": "Open textbook \u00b7 US context",
+    "checkedDate": "2026-10-01",
+    "scope": "Renal deterioration; fluid and electrolyte assessment"
+  },
+  "b-neuro": {
+    "name": "Open RN \u00b7 Other nervous system disorders",
+    "url": "https://wtcs.pressbooks.pub/healthalts/chapter/9-12-other-nervous-system-disorders/",
+    "kind": "Open textbook \u00b7 US context",
+    "checkedDate": "2026-10-01",
+    "scope": "Neurological deterioration; nervous system disorders"
+  },
+  "b-amlodipine": {
+    "name": "MedlinePlus \u00b7 Amlodipine",
+    "url": "https://medlineplus.gov/druginfo/meds/a692044.html",
+    "kind": "Government-hosted drug information",
+    "checkedDate": "2026-10-01",
+    "scope": "Peripheral edema and antihypertensive effects"
+  },
+  "b-apixaban": {
+    "name": "MedlinePlus \u00b7 Apixaban",
+    "url": "https://medlineplus.gov/druginfo/meds/a613032.html",
+    "kind": "Government-hosted drug information",
+    "checkedDate": "2026-10-01",
+    "scope": "Bleeding; interactions; anticoagulation follow-up"
+  },
+  "b-empagliflozin": {
+    "name": "MedlinePlus \u00b7 Empagliflozin",
+    "url": "https://medlineplus.gov/druginfo/meds/a614043.html",
+    "kind": "Government-hosted drug information",
+    "checkedDate": "2026-10-01",
+    "scope": "SGLT2 therapy and ketoacidosis warnings"
+  },
+  "b-levothyroxine": {
+    "name": "MedlinePlus \u00b7 Levothyroxine",
+    "url": "https://medlineplus.gov/druginfo/meds/a682461.html",
+    "kind": "Government-hosted drug information",
+    "checkedDate": "2026-10-01",
+    "scope": "Replacement therapy; administration and adverse effects"
+  },
+  "b-atorvastatin": {
+    "name": "MedlinePlus \u00b7 Atorvastatin",
+    "url": "https://medlineplus.gov/druginfo/meds/a600045.html",
+    "kind": "Government-hosted drug information",
+    "checkedDate": "2026-10-01",
+    "scope": "Muscle injury warning symptoms"
+  },
+  "b-clopidogrel": {
+    "name": "MedlinePlus \u00b7 Clopidogrel",
+    "url": "https://medlineplus.gov/druginfo/meds/a601040.html",
+    "kind": "Government-hosted drug information",
+    "checkedDate": "2026-10-01",
+    "scope": "Antiplatelet action; bleeding precautions"
+  },
+  "b-metformin": {
+    "name": "MedlinePlus \u00b7 Metformin",
+    "url": "https://medlineplus.gov/druginfo/meds/a696005.html",
+    "kind": "Government-hosted drug information",
+    "checkedDate": "2026-10-01",
+    "scope": "Renal and illness precautions"
+  },
+  "b-prednisone": {
+    "name": "MedlinePlus \u00b7 Prednisone",
+    "url": "https://medlineplus.gov/druginfo/meds/a601102.html",
+    "kind": "Government-hosted drug information",
+    "checkedDate": "2026-10-01",
+    "scope": "Glucocorticoid therapy and adverse effects"
+  },
+  "b-digoxin": {
+    "name": "MedlinePlus \u00b7 Digoxin",
+    "url": "https://medlineplus.gov/druginfo/meds/a682301.html",
+    "kind": "Government-hosted drug information",
+    "checkedDate": "2026-10-01",
+    "scope": "Toxicity symptoms and monitoring"
+  },
+  "b-ramipril": {
+    "name": "MedlinePlus \u00b7 Ramipril",
+    "url": "https://medlineplus.gov/druginfo/meds/a692027.html",
+    "kind": "Government-hosted drug information",
+    "checkedDate": "2026-10-01",
+    "scope": "ACE inhibitor effects and warning symptoms"
+  },
+  "b-desmopressin": {
+    "name": "MedlinePlus \u00b7 Desmopressin",
+    "url": "https://medlineplus.gov/druginfo/meds/a608010.html",
+    "kind": "Government-hosted drug information",
+    "checkedDate": "2026-10-01",
+    "scope": "Antidiuretic action and water balance"
+  },
+  "b-semaglutide": {
+    "name": "MedlinePlus \u00b7 Semaglutide",
+    "url": "https://medlineplus.gov/druginfo/meds/a619057.html",
+    "kind": "Government-hosted drug information",
+    "checkedDate": "2026-10-01",
+    "scope": "Gastrointestinal adverse effects and warning symptoms"
+  },
+  "b-methimazole": {
+    "name": "MedlinePlus \u00b7 Methimazole",
+    "url": "https://medlineplus.gov/druginfo/meds/a682464.html",
+    "kind": "Government-hosted drug information",
+    "checkedDate": "2026-10-01",
+    "scope": "Antithyroid therapy and adverse effects"
+  },
+  "b-alendronate": {
+    "name": "MedlinePlus \u00b7 Alendronate",
+    "url": "https://medlineplus.gov/druginfo/meds/a601011.html",
+    "kind": "Government-hosted drug information",
+    "checkedDate": "2026-10-01",
+    "scope": "Upright administration and esophageal precautions"
+  },
+  "b-spironolactone": {
+    "name": "MedlinePlus \u00b7 Spironolactone",
+    "url": "https://medlineplus.gov/druginfo/meds/a682627.html",
+    "kind": "Government-hosted drug information",
+    "checkedDate": "2026-10-01",
+    "scope": "Potassium supplements and salt-substitute interaction"
+  },
+  "b-furosemide": {
+    "name": "MedlinePlus \u00b7 Furosemide",
+    "url": "https://medlineplus.gov/druginfo/meds/a682858.html",
+    "kind": "Government-hosted drug information",
+    "checkedDate": "2026-10-01",
+    "scope": "Diuresis and fluid/electrolyte effects"
+  },
+  "b-hydrochlorothiazide": {
+    "name": "MedlinePlus \u00b7 Hydrochlorothiazide",
+    "url": "https://medlineplus.gov/druginfo/meds/a682571.html",
+    "kind": "Government-hosted drug information",
+    "checkedDate": "2026-10-01",
+    "scope": "Diuretic therapy and monitoring"
+  },
+  "b-metoprolol": {
+    "name": "MedlinePlus \u00b7 Metoprolol",
+    "url": "https://medlineplus.gov/druginfo/meds/a682864.html",
+    "kind": "Government-hosted drug information",
+    "checkedDate": "2026-10-01",
+    "scope": "Beta blockade and withdrawal precautions"
+  },
+  "b-nitroglycerin": {
+    "name": "MedlinePlus \u00b7 Nitroglycerin",
+    "url": "https://medlineplus.gov/druginfo/meds/a601086.html",
+    "kind": "Government-hosted drug information",
+    "checkedDate": "2026-10-01",
+    "scope": "Sublingual administration; hypotension"
+  },
+  "b-nitroglycerin-patch": {
+    "name": "MedlinePlus \u00b7 Nitroglycerin Patch",
+    "url": "https://medlineplus.gov/druginfo/meds/a601085.html",
+    "kind": "Government-hosted drug information",
+    "checkedDate": "2026-10-01",
+    "scope": "Transdermal nitrate timing and precautions"
+  },
+  "b-sildenafil": {
+    "name": "MedlinePlus \u00b7 Sildenafil",
+    "url": "https://medlineplus.gov/druginfo/meds/a699015.html",
+    "kind": "Government-hosted drug information",
+    "checkedDate": "2026-10-01",
+    "scope": "Nitrate interaction"
+  },
+  "b-co": {
+    "name": "CDC \u00b7 Carbon monoxide clinical guidance",
+    "url": "https://www.cdc.gov/carbon-monoxide/hcp/clinical-guidance/index.html",
+    "kind": "Government clinical guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Carbon monoxide exposure; conventional pulse oximeter limitations"
+  },
+  "b-sglt2": {
+    "name": "Health Canada \u00b7 SGLT2 inhibitors and ketoacidosis",
+    "url": "https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/safety-reviews/summary-safety-review-sglt2-inhibitors-canagliflozin-dapagliflozin-empagliflozin.html",
+    "kind": "Canadian government safety review",
+    "checkedDate": "2026-10-01",
+    "scope": "SGLT2-associated diabetic ketoacidosis"
+  },
+  "b-sickday": {
+    "name": "St. Joseph's Health Care London \u00b7 Type 1 diabetes sick-day management",
+    "url": "https://www.sjhc.london.on.ca/media/9861/download",
+    "kind": "Canadian hospital guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Basal insulin during illness; sick-day monitoring and individualized adjustment"
+  },
+  "b-trach": {
+    "name": "National Tracheostomy Safety Project \u00b7 Adult emergency guidelines",
+    "url": "https://tracheostomy.org.uk/resources/papers/tracheostomy-adult-emergency-guidelines",
+    "kind": "Specialty safety guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Tracheostomy obstruction algorithms; laryngectomy airway anatomy"
+  },
+  "b-laryngectomy": {
+    "name": "National Tracheostomy Safety Project \u00b7 Emergency laryngectomy management",
+    "url": "https://tracheostomy.org.uk/storage/files/Emergency%20laryngectomy%20management.pdf",
+    "kind": "Specialty safety guidance",
+    "checkedDate": "2026-10-01",
+    "scope": "Stoma oxygenation after laryngectomy"
+  },
+  "b-pleural": {
+    "name": "British Thoracic Society \u00b7 Clinical statement on pleural procedures",
+    "url": "https://thorax.bmj.com/content/78/Suppl_3/s43",
+    "kind": "Professional clinical statement",
+    "checkedDate": "2026-10-01",
+    "scope": "Pleural drainage; deterioration and complications"
+  },
+  "b-shock": {
+    "name": "OpenStax \u00b7 Shock overview",
+    "url": "https://openstax.org/books/medical-surgical-nursing/pages/23-1-shock-overview",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Shock mechanisms; perfusion assessment"
+  },
+  "b-cardiovascular": {
+    "name": "Open RN \u00b7 Cardiovascular alterations",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK613064/",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Cardiac and vascular deterioration; rhythm-related perfusion"
+  },
+  "b-neurology": {
+    "name": "Open RN \u00b7 Nervous system alterations",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK613069/",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Neurological deterioration; stroke; neuromuscular disorders"
+  },
+  "b-eye": {
+    "name": "National Eye Institute \u00b7 Retinal detachment",
+    "url": "https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/retinal-detachment",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Retinal warning symptoms; urgent eye assessment"
+  },
+  "b-glaucoma": {
+    "name": "National Eye Institute \u00b7 Glaucoma",
+    "url": "https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/glaucoma",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Acute glaucoma symptoms; urgent eye assessment"
+  },
+  "b-electrolytes": {
+    "name": "OpenStax \u00b7 Fluid and electrolytes",
+    "url": "https://openstax.org/books/clinical-nursing-skills/pages/19-1-fluid-and-electrolytes",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Fluid balance; sodium; potassium; calcium; magnesium"
+  },
+  "b-endocrine-adaptation": {
+    "name": "Open RN \u00b7 Endocrine alterations",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK613062/",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Endocrine emergencies; fluid and glucose patterns"
+  },
+  "b-cns": {
+    "name": "Open RN \u00b7 Central nervous system medicines",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK594993/",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Psychotropic and neurological medication effects; monitoring"
+  },
+  "b-analgesia": {
+    "name": "Open RN \u00b7 Analgesic medicines",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK595001/?report=reader",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Analgesic response; opioid safety; NSAID precautions"
+  },
+  "b-methotrexate": {
+    "name": "ISMP Canada \u00b7 Methotrexate frequency errors",
+    "url": "https://ismpcanada.ca/wp-content/uploads/ISMPCSB2008-02Methotrexate.pdf",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Weekly versus daily low-dose methotrexate safety"
+  },
+  "b-respiratory-drugs": {
+    "name": "Open RN \u00b7 Respiratory medicines",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK594996/",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Inhaled medication delivery; respiratory drug monitoring"
+  },
+  "b-gi-drugs": {
+    "name": "Open RN \u00b7 Gastrointestinal medicines",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK594994/?report=classic",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Bowel medicines; gastrointestinal medication teaching"
+  },
+  "b-montelukast": {
+    "name": "Health Canada \u00b7 August 2020 safety update",
+    "url": "https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/health-product-infowatch/august-2020.html",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Montelukast neuropsychiatric adverse effects"
+  },
+  "b-renal-drugs": {
+    "name": "Kidney Foundation of Canada \u00b7 Living with kidney failure",
+    "url": "https://kidney.ca/KFOC/media/images/PDFs/3-1-3-Book-Two_Living-with-kidney-failure.pdf",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Phosphate binders with meals; active vitamin D; kidney-failure medicines"
+  },
+  "b-topical-medicines": {
+    "name": "MedlinePlus \u00b7 Timolol ophthalmic",
+    "url": "https://www.medlineplus.gov/druginfo/meds/a682043.html",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Punctal pressure; ophthalmic administration; spacing product instructions"
+  },
+  "b-transfusion": {
+    "name": "Canadian Blood Services \u00b7 Blood administration",
+    "url": "https://professionaleducation.blood.ca/en/transfusion/clinical-guide/blood-administration",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Blood identity; administration; compatibility; response to reactions"
+  },
+  "b-transfusion-reactions": {
+    "name": "Canadian Blood Services \u00b7 Transfusion reactions",
+    "url": "https://professionaleducation.blood.ca/en/transfusion/clinical-guide/transfusion-reactions",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Acute and delayed transfusion reactions; circulatory overload"
+  },
+  "b-parenteral-nutrition": {
+    "name": "NICE \u00b7 Nutrition support for adults",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK553310/",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Parenteral nutrition monitoring; refeeding risk; nutrition support"
+  },
+  "b-parenteral": {
+    "name": "Open RN \u00b7 Parenteral medicines",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK596739/",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Parenteral medication administration; injection and infusion safety"
+  },
+  "b-central-lines": {
+    "name": "Open RN \u00b7 Manage central lines",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK594495/",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Central-line complications; sampling; open-hub air entry"
+  },
+  "b-magnesium-obstetric": {
+    "name": "DailyMed \u00b7 Magnesium sulfate in dextrose",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=03ebeabb-8386-4af4-3086-bdf3c3fc4a5a",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Preeclampsia seizure prevention; magnesium toxicity signs"
+  },
+  "b-regional-anesthesia": {
+    "name": "ASRA \u00b7 Local anesthetic systemic toxicity",
+    "url": "https://asra.com/news-publications/asra-updates/blog-landing/legacy-b-blog-posts/2021/02/01/local-anesthetic-systemic-toxicity-%28last%29-a-problem-based-learning-discussion",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Local anesthetic systemic toxicity warning symptoms"
+  },
+  "b-epidural": {
+    "name": "NHS Highland \u00b7 Epidural analgesia guidance",
+    "url": "https://www.rightdecisions.scot.nhs.uk/tam-treatments-and-medicines-nhs-highland/adult-therapeutic-guidelines/acute-pain/epidural-analgesia-guidelines/?searchTerm=fentanyl",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "High-block symptoms; hypotension; stopping an infusion and urgent review"
+  },
+  "b-simvastatin-clarithromycin": {
+    "name": "DailyMed \u00b7 Clarithromycin interaction warnings",
+    "url": "https://www.dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=9143b79c-4c79-43ac-e053-2995a90ad708&type=display",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Clarithromycin and simvastatin; myopathy and rhabdomyolysis risk"
+  },
+  "b-clozapine-bowel": {
+    "name": "Health Canada \u00b7 June 2017 safety update",
+    "url": "https://www.canada.ca/content/dam/hc-sc/documents/services/drugs-health-products/medeffect-canada/health-product-infowatch/health-product-infowatch-june-2017/hpiw-ivps_2017-06-eng.pdf",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Clozapine gastrointestinal hypomotility and serious complications"
+  },
+  "b-isotretinoin": {
+    "name": "MedlinePlus \u00b7 Isotretinoin",
+    "url": "https://www.medlineplus.gov/druginfo/meds/a681043.html",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Suspected pregnancy or missed period during isotretinoin; immediate stop and prescriber contact"
+  },
+  "b-valproate": {
+    "name": "Health Canada \u00b7 April 2017 safety update",
+    "url": "https://www.canada.ca/content/dam/hc-sc/migration/hc-sc/dhp-mps/alt_formats/pdf/medeff/bulletin/hpiw-ivps_2017-04-eng.pdf",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Valproate pregnancy risks; alternative treatment and contraception review"
+  },
+  "b-lactation": {
+    "name": "National Library of Medicine \u00b7 LactMed",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/?report=reader",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Drug-specific milk transfer and infant exposure assessment"
+  },
+  "b-reye": {
+    "name": "Health Canada \u00b7 Reye syndrome",
+    "url": "https://www.canada.ca/en/health-canada/services/healthy-living/your-health/diseases/reye.html",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Aspirin-containing medicines during childhood viral illness"
+  },
+  "b-oxytocin": {
+    "name": "Provincial Council for Maternal and Child Health \u00b7 Safe administration of oxytocin",
+    "url": "https://www.pcmch.on.ca/wp-content/uploads/2022/02/Safe-Administration-of-Oxytocin-Guidance-Report.pdf",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Oxytocin-related uterine overstimulation; safe administration processes"
+  },
+  "b-uterotonics": {
+    "name": "Society of Obstetricians and Gynaecologists of Canada \u00b7 Guideline 431",
+    "url": "https://sogc.org/common/Uploaded%20files/ACSC/ACSC2025/gui431CPG2212E.pdf",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Ergometrine and hypertension; carboprost and asthma"
+  },
+  "b-rh-immunoglobulin": {
+    "name": "Canadian Blood Services \u00b7 Hemolytic disease and Rh prophylaxis",
+    "url": "https://professionaleducation.blood.ca/en/transfusion/clinical-guide/hemolytic-disease-fetus-and-newborn-and-perinatal-immune",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Prevention of sensitization in an Rh-negative postpartum client"
+  },
+  "b-tacrolimus": {
+    "name": "BC Transplant \u00b7 Tacrolimus",
+    "url": "https://www.transplant.bc.ca/Documents/Medications/Anti%20rejection/Tacrolimus_EN.pdf",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Avoidance of grapefruit and related fruit interactions; tacrolimus monitoring"
+  },
+  "b-immunization-immunocompromised": {
+    "name": "Public Health Agency of Canada \u00b7 Immunization of immunocompromised persons",
+    "url": "https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-8-immunization-immunocompromised-persons.html",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Live and inactivated vaccine planning during immunosuppression"
+  },
+  "b-biologic-tb": {
+    "name": "Public Health Agency of Canada \u00b7 Canadian Tuberculosis Standards chapter 10",
+    "url": "https://www.canada.ca/en/public-health/services/diseases/tuberculosis/health-professionals/canadian-tuberculosis-standards/treatment-active-tuberculosis-special-populations.html",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "TB infection screening before TNF inhibitor therapy; reactivation risk"
+  },
+  "b-oncology-fever": {
+    "name": "Cancer Care Ontario \u00b7 Fever assessment during chemotherapy",
+    "url": "https://www.cancercareontario.ca/en/content/approach-fever-assessment-ambulatory-cancer-patients-receiving-chemotherapy",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Urgent assessment of fever during chemotherapy"
+  },
+  "b-oncology-neutropenia": {
+    "name": "BC Guidelines \u00b7 Palliative pain and symptom management",
+    "url": "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/palliative-pain-management",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Avoiding traumatic rectal interventions with neutropenia or thrombocytopenia"
+  },
+  "b-oral-cancer-medicines": {
+    "name": "Cancer Care Ontario \u00b7 Handling cancer medication at home",
+    "url": "https://www.cancercareontario.ca/en/cancer-treatments/chemotherapy/safely-handle-cancer-medications-body-fluids-home",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Home handling of oral antineoplastics; caregiver exposure prevention"
+  },
+  "b-glargine": {
+    "name": "DailyMed \u00b7 Insulin glargine",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9835904f-64f5-42b3-9ac9-89e4aaa5182a",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Glargine must not be mixed with other insulins"
+  },
+  "b-palliative-dyspnea": {
+    "name": "BC Emergency Health Services \u00b7 Palliative dyspnea",
+    "url": "https://handbook.bcehs.ca/clinical-practice-guidelines/p-palliative-care/p04-palliative-care-dyspnea/",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Opioids in an established palliative breathlessness plan; symptom relief"
+  },
+  "b-nitroglycerin-topical": {
+    "name": "MedlinePlus \u00b7 Nitroglycerin topical",
+    "url": "https://medlineplus.gov/druginfo/meds/a682346.html",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Measuring prescribed ointment with product applicator"
+  },
+  "b-mri-patches": {
+    "name": "FDA \u00b7 Before an MRI exam",
+    "url": "https://www.fda.gov/radiation-emitting-products/mri-magnetic-resonance-imaging/what-patients-should-know-having-mri-exam",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Medication-patch composition and MRI burn risk"
+  },
+  "b-peritoneal-dialysis": {
+    "name": "NIDDK \u00b7 Peritoneal dialysis",
+    "url": "https://www.niddk.nih.gov/health-information/kidney-disease/kidney-failure/peritoneal-dialysis",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Peritonitis symptoms; cloudy effluent and abdominal pain"
+  },
+  "b-tamponade": {
+    "name": "European Society of Cardiology \u00b7 Cardiac tamponade",
+    "url": "https://www.escardio.org/communities/councils/cardiology-practice/scientific-documents-and-publications/ejournal/volume-15/Cardiac-tamponade-a-clinical-challenge/",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Post-procedure tamponade concern; venous congestion and hypotension"
+  },
+  "b-endocarditis": {
+    "name": "National Heart Lung and Blood Institute \u00b7 Endocarditis",
+    "url": "https://www.nhlbi.nih.gov/health/heart-inflammation/endocarditis",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Prosthetic valve infection risk; systemic findings"
+  },
+  "b-endocarditis-emboli": {
+    "name": "UCSF Department of Surgery \u00b7 Endocarditis",
+    "url": "https://tsi.ucsf.edu/condition/endocarditis",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Endocarditis vegetations and systemic embolic complications"
+  },
+  "b-aphasia": {
+    "name": "NIDCD \u00b7 Aphasia",
+    "url": "https://www.nidcd.nih.gov/health/aphasia",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Expressive and receptive language impairment; distinction from speech motor disorders"
+  },
+  "b-gbs-guideline": {
+    "name": "EAN and Peripheral Nerve Society \u00b7 Guillain-Barr\u00e9 guideline",
+    "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/ene.16073",
+    "kind": "Clinical reference",
+    "checkedDate": "2026-10-01",
+    "scope": "Serial forced vital capacity during respiratory decline"
+  }
+}

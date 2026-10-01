@@ -1,0 +1,349 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:56:46.737657+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/reviews/expansion/snapshots/b-pharmacology-07-final.json",
+  "sourceSha256": "340f7b7826e96144c5f1d56a85ed90b6880c778d3e61b09e00a73f6dde5d95f0",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-pharmacology-151",
+      "x-pharmacology-152",
+      "x-pharmacology-153",
+      "x-pharmacology-154",
+      "x-pharmacology-155",
+      "x-pharmacology-156",
+      "x-pharmacology-157",
+      "x-pharmacology-158",
+      "x-pharmacology-159",
+      "x-pharmacology-160",
+      "x-pharmacology-161",
+      "x-pharmacology-162",
+      "x-pharmacology-163",
+      "x-pharmacology-164",
+      "x-pharmacology-165",
+      "x-pharmacology-166",
+      "x-pharmacology-167",
+      "x-pharmacology-168",
+      "x-pharmacology-169",
+      "x-pharmacology-170",
+      "x-pharmacology-171",
+      "x-pharmacology-172",
+      "x-pharmacology-173",
+      "x-pharmacology-174",
+      "x-pharmacology-175"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://professionaleducation.blood.ca/en/transfusion/clinical-guide/transfusion-reactions",
+      "claims": "Supports stopping suspected serious reaction exposure, congestion features of TACO and delayed haemolytic reaction warning pattern. Does not itself establish every local handling procedure."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-pharmacology-151",
+      "status": "revise",
+      "assessment": "Immediate reaction pathway is defensible; giving another unit because the first is cold is an implausible distractor.",
+      "issues": [
+        "Immediate reaction pathway is defensible; giving another unit because the first is cold is an implausible distractor."
+      ],
+      "proposedChanges": [
+        "Replace with a plausible measure such as administering a prescribed antipyretic before implementing the reaction procedure; explain why stopping exposure leads."
+      ],
+      "reviewedItemSha256": "63ad78b956e7accda9b22cec1e4a9031c49b08a0598dbdd9a93a414f2467ba3a"
+    },
+    {
+      "id": "x-pharmacology-152",
+      "status": "revise",
+      "assessment": "The congestion pattern supports TACO; a stable old bruise is unrelated filler.",
+      "issues": [
+        "The congestion pattern supports TACO; a stable old bruise is unrelated filler."
+      ],
+      "proposedChanges": [
+        "Replace the old bruise with a clinically meaningful competing reaction pattern, such as new fever/rigors without congestion. Keep the TACO-supporting rather than definitive-diagnosis wording."
+      ],
+      "reviewedItemSha256": "7f34a74d25888cd9d61ba2718b964d7271f9fb8c38aecd66e7c111e315f4d873"
+    },
+    {
+      "id": "x-pharmacology-153",
+      "status": "revise",
+      "assessment": "Delayed reaction teaching is useful but every key is new/worsening and every wrong choice unchanged/improved, so clinical knowledge is unnecessary.",
+      "issues": [
+        "Delayed reaction teaching is useful but every key is new/worsening and every wrong choice unchanged/improved, so clinical knowledge is unnecessary."
+      ],
+      "proposedChanges": [
+        "Use plausible new but less concerning findings such as mild resolving insertion-site tenderness, and classify foundation unless a follow-up case requires interpretation."
+      ],
+      "reviewedItemSha256": "bc7467e44048531f2e8a509b6264a37fc227b1e46131775321cb68867c9c5547"
+    },
+    {
+      "id": "x-pharmacology-154",
+      "status": "revise",
+      "assessment": "Identity discrepancy resolution is sound and options represent plausible shortcut errors, but task is foundational safety recognition.",
+      "issues": [
+        "Identity discrepancy resolution is sound and options represent plausible shortcut errors, but task is foundational safety recognition."
+      ],
+      "proposedChanges": [
+        "Classify foundation, or add a genuine verification/documentation problem requiring application beyond one mismatched identifier."
+      ],
+      "reviewedItemSha256": "a64397292af8e2e5aac037945f0d428cb7f57d14d8e70c81d15f7378e1fd8838"
+    },
+    {
+      "id": "x-pharmacology-155",
+      "status": "revise",
+      "assessment": "Compatible setup is appropriate; because both solutions are clear is a giveaway.",
+      "issues": [
+        "Compatible setup is appropriate; because both solutions are clear is a giveaway."
+      ],
+      "proposedChanges": [
+        "Use the plain choice of connecting through the existing dextrose line; leave appearance-not-compatibility explanation in rationale. Consider supplying a compatibility excerpt if application is intended."
+      ],
+      "reviewedItemSha256": "b2b24a01507209e08f563fa01e6b4dc8daecb6e830f708c09fc8c4aae74fd54e"
+    },
+    {
+      "id": "x-pharmacology-156",
+      "status": "revise",
+      "assessment": "Review of new baseline fever/chills is sensible; yesterday baseline and transfusion-treats-fever alternatives are implausible.",
+      "issues": [
+        "Review of new baseline fever/chills is sensible; yesterday baseline and transfusion-treats-fever alternatives are implausible."
+      ],
+      "proposedChanges": [
+        "Use credible competing actions such as obtaining ordered cultures, requesting routine premedication, repeating temperature, or reporting current symptoms before starting; specify what assessment is already completed if needed for one key."
+      ],
+      "reviewedItemSha256": "f67a663923011f755fc755ddb5db216fae32cca07f8ef13862cef187bbd6d5f9"
+    },
+    {
+      "id": "x-pharmacology-157",
+      "status": "revise",
+      "assessment": "Clinical bleeding and count are useful; only/alone/principal markers make distractors easy.",
+      "issues": [
+        "Clinical bleeding and count are useful; only/alone/principal markers make distractors easy."
+      ],
+      "proposedChanges": [
+        "Use comparable outcome clusters without limitation qualifiers, such as bleeding/count, haemoglobin/exertional tolerance, temperature/chills, and fluid balance/pressure; keep efficacy distinct from general safety monitoring."
+      ],
+      "reviewedItemSha256": "e2ea24e62a7930a35617f6950924faa398d194def2dd1cecca5fb7d1d76971c3"
+    },
+    {
+      "id": "x-pharmacology-158",
+      "status": "revise",
+      "assessment": "The component-role explanation is correct but direct factual recall; solely fluid intake is weak.",
+      "issues": [
+        "The component-role explanation is correct but direct factual recall; solely fluid intake is weak."
+      ],
+      "proposedChanges": [
+        "Classify foundation and replace fluid-only rationale with a credible role confusion such as raising oxygen-carrying capacity."
+      ],
+      "reviewedItemSha256": "873377b240c8ecf945759def426178683b84a362d235a257b5079245413d1f5a"
+    },
+    {
+      "id": "x-pharmacology-159",
+      "status": "revise",
+      "assessment": "Interruption glucose plan is valid; saline as nutrition and double-rate catchup are weak obvious errors.",
+      "issues": [
+        "Interruption glucose plan is valid; saline as nutrition and double-rate catchup are weak obvious errors."
+      ],
+      "proposedChanges": [
+        "Provide an interruption order/protocol and compare plausible rate/solution/glucose-monitoring responses; otherwise use focused interpretation of hypoglycaemia risk rather than generic call-plan against cartoon choices."
+      ],
+      "reviewedItemSha256": "e310ea33133c1a2f70db5968a9d112cd73f0568d356a8836a753e0cd28fc43ff"
+    },
+    {
+      "id": "x-pharmacology-160",
+      "status": "revise",
+      "assessment": "SATA monitoring domains are correct, but sole-appetite and stopping-all-labs alternatives are implausible.",
+      "issues": [
+        "SATA monitoring domains are correct, but sole-appetite and stopping-all-labs alternatives are implausible."
+      ],
+      "proposedChanges": [
+        "Use concrete monitoring proposals with realistic timing or clinical purpose, or a case with actual trends requiring selection rather than universal monitoring domains."
+      ],
+      "reviewedItemSha256": "dfaec317df7056c3f979710b83a51b762ae1cb03d68630983c867cacd38f5f59"
+    },
+    {
+      "id": "x-pharmacology-161",
+      "status": "pass",
+      "assessment": "The central formulation and available peripheral access require route/formulation clarification; patency and slower infusion are credible misconceptions that do not establish venous suitability.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "c3f62037348c6c1bfd6078e79a013992c15704968511b41bed33160a57870f20"
+    },
+    {
+      "id": "x-pharmacology-162",
+      "status": "revise",
+      "assessment": "Dedicated access and compatibility checks are sound; clear-appearance proof and convenience-despite-access wording advertise errors.",
+      "issues": [
+        "Dedicated access and compatibility checks are sound; clear-appearance proof and convenience-despite-access wording advertise errors."
+      ],
+      "proposedChanges": [
+        "Present specific co-infusion or lumen-use choices directly and place the missing compatibility/manipulation reasoning in explanations."
+      ],
+      "reviewedItemSha256": "090ce7de342abb68e2acb7f0536597c278ec3bab3945d541002e24315d6111d5"
+    },
+    {
+      "id": "x-pharmacology-163",
+      "status": "revise",
+      "assessment": "Refeeding phosphate depletion is clinically useful, but calorie-alone and unrelated-because-IV wording make rejection trivial.",
+      "issues": [
+        "Refeeding phosphate depletion is clinically useful, but calorie-alone and unrelated-because-IV wording make rejection trivial."
+      ],
+      "proposedChanges": [
+        "Use parallel possible mechanisms or clinical interpretations: refeeding shift, renal retention, inadequate ongoing intake, or fluid dilution, with case data supporting the key."
+      ],
+      "reviewedItemSha256": "c1b7d4c0a91dbb84b82e05cfe69b2d896ada46054dfd45e76576cf48833e7ac9"
+    },
+    {
+      "id": "x-pharmacology-164",
+      "status": "revise",
+      "assessment": "Isotonic volume replacement role is correct, but this is direct solution-purpose recall and complete-nutrition/every-electrolyte alternatives are weak.",
+      "issues": [
+        "Isotonic volume replacement role is correct, but this is direct solution-purpose recall and complete-nutrition/every-electrolyte alternatives are weak."
+      ],
+      "proposedChanges": [
+        "Classify foundation; compare extracellular volume support, intracellular free-water replacement, oncotic pressure expansion, and glucose supply as parallel purposes."
+      ],
+      "reviewedItemSha256": "f09f5ba6348346d215887d0b38fe2e8baaee92c1bfef5d54675bb8a86ae7c364"
+    },
+    {
+      "id": "x-pharmacology-165",
+      "status": "revise",
+      "assessment": "Monitoring concentration/rate and sodium/neuro status is correct; thirst-rate adjustment and monitoring-can-stop are weak.",
+      "issues": [
+        "Monitoring concentration/rate and sodium/neuro status is correct; thirst-rate adjustment and monitoring-can-stop are weak."
+      ],
+      "proposedChanges": [
+        "Use a supplied correction protocol and actual trends to decide which findings require action, or compare concrete appropriate monitoring tasks with plausible timing errors."
+      ],
+      "reviewedItemSha256": "2670c99d0d9efed1c5fde262497d7af4f26553d557daf5ab3e8a94e3aaff0e78"
+    },
+    {
+      "id": "x-pharmacology-166",
+      "status": "revise",
+      "assessment": "New renal impairment should trigger potassium-plan review; faster-to-test-sooner is implausible and sole-adjustment cues the error.",
+      "issues": [
+        "New renal impairment should trigger potassium-plan review; faster-to-test-sooner is implausible and sole-adjustment cues the error."
+      ],
+      "proposedChanges": [
+        "Use plain plausible alternatives such as more dilute administration, obtaining a new potassium result, reviewing fluid balance, or clarifying the replacement order; distinguish the best action with current lab/ordered parameters."
+      ],
+      "reviewedItemSha256": "f103b4f162807faa1c4108f2f674d08ce097eb91aaecb73857896fe14eb36049"
+    },
+    {
+      "id": "x-pharmacology-167",
+      "status": "revise",
+      "assessment": "The magnesium-toxicity pattern is correct; sedative and BP-alone alternatives are cartoon unsafe.",
+      "issues": [
+        "The magnesium-toxicity pattern is correct; sedative and BP-alone alternatives are cartoon unsafe."
+      ],
+      "proposedChanges": [
+        "Use relevant competing concerns or immediate actions such as reflex recheck, respiratory support, stopping exposure and notifying under protocol; make the first-action boundary clear without making every distractor unsafe."
+      ],
+      "reviewedItemSha256": "3f7ca019fa3d4983cb5585e55273e9416767bded17819c478eba09b7727f99ac"
+    },
+    {
+      "id": "x-pharmacology-168",
+      "status": "revise",
+      "assessment": "The different drug purposes are correct, but fever contingency and interchangeable medicines are weak.",
+      "issues": [
+        "The different drug purposes are correct, but fever contingency and interchangeable medicines are weak."
+      ],
+      "proposedChanges": [
+        "Use parallel paired purposes, such as seizure prevention/BP control, fluid removal/BP control, uterine relaxation/seizure prevention, or reversed roles. Classify foundation."
+      ],
+      "reviewedItemSha256": "8f82dd4ca925c1aa51c6c9552e1da2aa19ef7e365a6207880f8e40a7efe9b3a4"
+    },
+    {
+      "id": "x-pharmacology-169",
+      "status": "revise",
+      "assessment": "Sampling contamination is a valuable interpretation, but ignore and assume wording creates two obvious errors.",
+      "issues": [
+        "Sampling contamination is a valuable interpretation, but ignore and assume wording creates two obvious errors."
+      ],
+      "proposedChanges": [
+        "Use competing concrete responses: protocol dose adjustment, redraw from an appropriate site, verify infusion programming, or repeat the same-lumen sample. Key must include safe interim protocol guidance rather than ignoring a possible true high result."
+      ],
+      "reviewedItemSha256": "ef077e2d7c1c9301b777b46d438e0fd5614450883f3595c2ed2663b5bdfb976f"
+    },
+    {
+      "id": "x-pharmacology-170",
+      "status": "revise",
+      "assessment": "Excess block pattern is important; more analgesic, dressing-round delay and mobilization are implausible.",
+      "issues": [
+        "Excess block pattern is important; more analgesic, dressing-round delay and mobilization are implausible."
+      ],
+      "proposedChanges": [
+        "Compare high block with opioid sedation, vasovagal response or hypovolaemia using a sufficient clinical pattern, or use credible immediate protocol actions."
+      ],
+      "reviewedItemSha256": "61c7a24aeb01c2d060d45d19b6275774553d1edc7a122ad69513cfee110b7455"
+    },
+    {
+      "id": "x-pharmacology-171",
+      "status": "revise",
+      "assessment": "Early systemic local-anaesthetic toxicity is correct; continue-until-complete, solely-anxiety and confirms-numbness alternatives are too obvious.",
+      "issues": [
+        "Early systemic local-anaesthetic toxicity is correct; continue-until-complete, solely-anxiety and confirms-numbness alternatives are too obvious."
+      ],
+      "proposedChanges": [
+        "Give plausible competing clinical interpretations or preparatory actions. Retain stop-exposure and emergency readiness but remove giveaway qualifiers."
+      ],
+      "reviewedItemSha256": "3c066ecf04730273c241718211915b2a56590e0381a412b2d51a23b611c5777b"
+    },
+    {
+      "id": "x-pharmacology-172",
+      "status": "revise",
+      "assessment": "Occlusion of the open system is appropriate; checking a dressing date is irrelevant and before-assessing wording cues error.",
+      "issues": [
+        "Occlusion of the open system is appropriate; checking a dressing date is irrelevant and before-assessing wording cues error."
+      ],
+      "proposedChanges": [
+        "Use credible competing immediate actions such as obtaining oxygen, checking current vital signs, sealing the connection, and contacting the team; specify the first physical action to make occlusion uniquely best."
+      ],
+      "reviewedItemSha256": "48c40b43b8408627fde0c089cbdb9a9f0851bdb1ad6eae215f7bb57fcb9bda11"
+    },
+    {
+      "id": "x-pharmacology-173",
+      "status": "pass",
+      "assessment": "Prescribed flush volume/rate resolves residual drug without a bolus; disconnecting an empty bag and faster completion are recognizable delivery errors.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6c982a218941e3f90e592873da37ec91384cd83aa97f145e2cf43ec987f0bc3d"
+    },
+    {
+      "id": "x-pharmacology-174",
+      "status": "revise",
+      "assessment": "Blood-bank return process is sound; family-held cooling is implausible.",
+      "issues": [
+        "Blood-bank return process is sound; family-held cooling is implausible."
+      ],
+      "proposedChanges": [
+        "Replace family cooling with a plausible proposed storage choice such as an ordinary ice-filled cooler, and remove arbitrary next-round delay. Keep validated storage distinction explicit in explanation."
+      ],
+      "reviewedItemSha256": "925ad3e9bdba196f2ecd4923defc9df61e742ef66f04b40fc97f2f1101b49d2a"
+    },
+    {
+      "id": "x-pharmacology-175",
+      "status": "revise",
+      "assessment": "Avoiding rubbing is correct, but longer massage, same bruise and dose-by-bruise options are weak.",
+      "issues": [
+        "Avoiding rubbing is correct, but longer massage, same bruise and dose-by-bruise options are weak."
+      ],
+      "proposedChanges": [
+        "Use plausible postinjection technique alternatives (gentle pressure, brief massage, rubbing with alcohol, adhesive dressing pressure) and classify foundation; ensure only the stated product-supported technique is keyed."
+      ],
+      "reviewedItemSha256": "a27865df0499c429a86cb01c4951d972db42beb75f4a79d0bd389592f9a19442"
+    }
+  ],
+  "activeSourceFile": "authoring/b/pharmacology-07.json",
+  "reviewerTask": "/root/review_expansion",
+  "provenanceAmendment": "Reviewer task identity added after review; original reviewedAt and all item content hashes unchanged."
+}

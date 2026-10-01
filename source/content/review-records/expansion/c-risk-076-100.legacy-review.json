@@ -1,0 +1,563 @@
+{
+  "reviewer": "independent AI content reviewer",
+  "reviewedAt": "2026-10-01T17:18:41.914157+00:00",
+  "sourceFile": "/workspace/scratch/d175be9aaf88/bank-expansion/authoring/c/risk-076-100.json",
+  "sourceSha256": "88e34fb487feeb9f6144c46597ed1c7336769e6f90066ce1a09602c95330f1c2",
+  "coverage": {
+    "sourceItems": 25,
+    "reviewedItems": 25,
+    "reviewedIds": [
+      "x-risk-076",
+      "x-risk-077",
+      "x-risk-078",
+      "x-risk-079",
+      "x-risk-080",
+      "x-risk-081",
+      "x-risk-082",
+      "x-risk-083",
+      "x-risk-084",
+      "x-risk-085",
+      "x-risk-086",
+      "x-risk-087",
+      "x-risk-088",
+      "x-risk-089",
+      "x-risk-090",
+      "x-risk-091",
+      "x-risk-092",
+      "x-risk-093",
+      "x-risk-094",
+      "x-risk-095",
+      "x-risk-096",
+      "x-risk-097",
+      "x-risk-098",
+      "x-risk-099",
+      "x-risk-100"
+    ],
+    "unreviewedIds": []
+  },
+  "method": "Each listed item was read with its stem, all options, keyed answer(s), explanations and takeaway. Statuses are manually reasoned, not inferred from a schema or automated pass rule.",
+  "limitations": [
+    "Independent AI editorial/clinical-reasoning screen; not external clinician validation or psychometric validation.",
+    "Pass applies only to the recorded content hash. New or changed content requires further review.",
+    "No comparison against proprietary examination items; originality judged from author provenance and item content.",
+    "Cross-bank learning-objective overlap remains provisional until all batches are available.",
+    "Source checks below support only the explicitly associated claims; other category references are general reading unless specifically verified."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.canada.ca/en/health-canada/services/drugs-medical-devices/pulse-oximeters/health-care-providers.html",
+      "checked": true,
+      "ids": [
+        "x-risk-077"
+      ],
+      "note": "Health Canada primary guidance retrieved: skin pigmentation can affect oximeter accuracy and occult hypoxaemia; readings must be interpreted with signs/symptoms, not fixed race-based correction."
+    },
+    {
+      "url": "https://www.diabetes.ca/getContentAsset/33d37ad7-82dd-4c56-a8ee-48cd7051589a/0f6cf596-933c-4f74-b36a-77091c512445/foot-care.pdf?disposition=inline&language=en",
+      "checked": true,
+      "ids": [
+        "x-risk-087"
+      ],
+      "note": "Primary Diabetes Canada foot guidance was retrieved in earlier review: inspect/protect injuries despite reduced sensation. This does not establish individualized triage timing."
+    }
+  ],
+  "items": [
+    {
+      "id": "x-risk-076",
+      "status": "revise",
+      "assessment": "Increasing support despite same saturation is important, but device brand is irrelevant filler and the keys are easy by only/unchanged phrasing.",
+      "issues": [
+        "Increasing support despite same saturation is important, but device brand is irrelevant filler and the keys are easy by only/unchanged phrasing."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "The increased requirement despite a similar saturation",
+            "That saturation is unchanged, so status is unchanged",
+            "The current saturation and target range, omitting the flow-rate change",
+            "The admission room-air saturation and original oxygen prescription"
+          ],
+          "why": [
+            "Stable saturation achieved with more support can conceal worsening function.",
+            "The oxygen requirement is part of the clinical trend.",
+            "The increase in support is necessary to interpret the apparently stable saturation.",
+            "The original values provide context but omit the current deterioration in support needs."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "e3a88cc04019ca46d9bfc6f57bc0652cf543a60290cb369f0372c76868b99b65"
+    },
+    {
+      "id": "x-risk-077",
+      "status": "revise",
+      "assessment": "Clinical action is correct and supported by Health Canada; dismiss/indefinitely are excessive cues. Replace with plausible measurement-first delays.",
+      "issues": [
+        "Clinical action is correct and supported by Health Canada; dismiss/indefinitely are excessive cues. Replace with plausible measurement-first delays."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Accept the displayed saturation and investigate anxiety as the main cause",
+            "Subtract a fixed percentage from every reading",
+            "Change the probe site and await the next routine observation before escalating",
+            "Assess the whole clinical picture and escalate the mismatch"
+          ],
+          "why": [
+            "An apparently acceptable reading does not exclude hypoxaemia or another serious cause of worsening dyspnoea.",
+            "No universal numerical correction is established for individuals.",
+            "Measurement verification is useful but must not delay assessment and escalation of worsening symptoms.",
+            "Device limitations can contribute to missed hypoxaemia."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "12d67c6ce1989d56b285a8e00c839c6824dec4ad5f71b4f4f077ce136e5091ce"
+    },
+    {
+      "id": "x-risk-078",
+      "status": "revise",
+      "assessment": "SATA distractors contain only while key options are comprehensive. Narrow the stem to respiratory response and make alternatives comparable process/systemic measures.",
+      "issues": [
+        "SATA distractors contain only while key options are comprehensive. Narrow the stem to respiratory response and make alternatives comparable process/systemic measures."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "The time at which the latest antibiotic dose was given",
+            "Completion of the prescribed sputum specimen collection",
+            "Work of breathing and activity tolerance",
+            "Oxygen requirement and respiratory-rate trend"
+          ],
+          "why": [
+            "Dose timing measures treatment delivery rather than respiratory response.",
+            "Specimen collection supports diagnosis but does not show whether respiratory function improved.",
+            "These reflect functional respiratory response.",
+            "Support needs and rate help identify improvement or worsening."
+          ],
+          "stem": "Which observations most directly evaluate respiratory improvement during treatment of a respiratory infection? Select all that apply."
+        }
+      ],
+      "reviewedItemSha256": "ea27f08856758a71cb904b9523b4570f00abe2168445da39d15bf4816c2f47f0"
+    },
+    {
+      "id": "x-risk-079",
+      "status": "revise",
+      "assessment": "Cup preference and future appointment are filler among acute findings. Use parallel relevant findings.",
+      "issues": [
+        "Cup preference and future appointment are filler among acute findings. Use parallel relevant findings."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Respiratory rate remaining at the documented baseline",
+            "Increasing drowsiness with poorer airway clearance",
+            "Small amounts of sputum becoming easier to expectorate",
+            "Mild incisional discomfort unchanged from baseline"
+          ],
+          "why": [
+            "A stable rate is less concerning than new drowsiness with impaired airway clearance.",
+            "Reduced alertness threatens ongoing airway protection.",
+            "Improved clearance is less urgent than a decline in alertness and cough effectiveness.",
+            "Stable discomfort is less urgent than declining airway protection."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "dccce5e52398aae7acf941c28b77058831db8ea07b025d7655c3fc773cf00a11"
+    },
+    {
+      "id": "x-risk-080",
+      "status": "revise",
+      "assessment": "Three only-options cue the comprehensive key. Use plausible single-domain summaries without artificial qualifiers.",
+      "issues": [
+        "Three only-options cue the comprehensive key. Use plausible single-domain summaries without artificial qualifiers."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Intake and estimated losses with current observations",
+            "Stool frequency and the last bowel movement time",
+            "Reported thirst and the amount of water offered",
+            "Usual weight and pre-illness drinking habits"
+          ],
+          "why": [
+            "The combined pattern suggests clinically important volume depletion.",
+            "This describes part of the loss but misses its amount and the current perfusion response.",
+            "Offered water is not necessarily consumed or sufficient; integrate actual intake, losses and observations.",
+            "Baseline habits give context but do not characterize the current deficit."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "6233385dff954123b8f1957ef5a4f661510fe88f139b2892157953e7245db130"
+    },
+    {
+      "id": "x-risk-081",
+      "status": "pass",
+      "assessment": "Individualized action-plan thresholds avoid generic numeric rules; increased breathlessness and rapid excess weight are appropriate triggers. Inconsistent measurement needs correction but does not itself establish clinical worsening.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "77e2021a8622d3970eb264963ef4aff0a1ad89ead4671ac565efb3ed3c3965fb"
+    },
+    {
+      "id": "x-risk-082",
+      "status": "revise",
+      "assessment": "Stem asks what to assess while alternatives include assumption and preference. Use comparable physiological concerns.",
+      "issues": [
+        "Stem asks what to assess while alternatives include assumption and preference. Use comparable physiological concerns."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Reduced renal production from fluid depletion",
+            "Urine concentration after reduced overnight drinking",
+            "Possible bladder retention",
+            "Increased urine loss from an unrecorded diuretic dose"
+          ],
+          "why": [
+            "Dehydration is possible, but normal intake with pressure and prostate enlargement makes retention the more direct concern.",
+            "Concentration does not explain lower abdominal pressure and very limited emptying.",
+            "Obstruction can reduce voided output without stopping urine production.",
+            "Diuretic-related excess output does not fit the described pressure with minimal voiding."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "2db6c6a536dfa77a0467c98464f1360e82a3501408aea0f3331e9c86066cafef"
+    },
+    {
+      "id": "x-risk-083",
+      "status": "pass",
+      "assessment": "A new unilateral painful change cannot be attributed to chronic bilateral oedema; assessment and escalation are appropriate. Massage and routine weight review are inadequate. This overlaps risk066 and should be separated in practice sessions.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "a611206057d521ae05cec37a07a0b97de2e556cb88f16ccfed304ac7ba432ca5"
+    },
+    {
+      "id": "x-risk-084",
+      "status": "revise",
+      "assessment": "Acute declining consciousness needs immediate assessment, not communication alone. Add responsiveness/airway/breathing check and remove only-pain filler.",
+      "issues": [
+        "Acute declining consciousness needs immediate assessment, not communication alone. Add responsiveness/airway/breathing check and remove only-pain filler."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Check responsiveness, airway and breathing while activating urgent review",
+            "Give the prescribed analgesic and repeat orientation after it takes effect",
+            "Wait for the next routine observation time",
+            "Assume tiredness because it is evening"
+          ],
+          "why": [
+            "Declining consciousness requires immediate patient assessment and urgent escalation with baseline comparison.",
+            "Analgesia does not address new impaired arousal and must not delay urgent assessment.",
+            "An acute change requires assessment sooner than routine timing.",
+            "Time of day does not safely explain a new decline."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "7061abab405af5071097db24d81b1089f88d64ea6182d6495bc67ce6a05291c4"
+    },
+    {
+      "id": "x-risk-085",
+      "status": "pass",
+      "assessment": "Sudden unprecedented severe headache and associated neurological decline are appropriate urgent red flags; familiar responsive or mild gradual patterns lack those supplied red flags. Item does not claim the latter can never need assessment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "b8713795f13563cf8f38980fb769b4b257f6a6e29948ebc31851d57de9d9bf1e"
+    },
+    {
+      "id": "x-risk-086",
+      "status": "revise",
+      "assessment": "Clinical key is too generic for unusual unresponsiveness and oral fluids is an obvious dangerous distractor. Make immediate safety assessment explicit.",
+      "issues": [
+        "Clinical key is too generic for unusual unresponsiveness and oral fluids is an obvious dangerous distractor. Make immediate safety assessment explicit."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Place the client in their usual sleep position and reassess at the next scheduled check",
+            "Wait for the next scheduled medication round",
+            "Assess airway, breathing and responsiveness and obtain urgent review",
+            "Assume all post-seizure sleep is expected"
+          ],
+          "why": [
+            "Atypical prolonged unresponsiveness requires immediate reassessment rather than assuming sleep.",
+            "Medication timing does not justify delaying evaluation.",
+            "A prolonged altered state differs from the known recovery pattern and may indicate an ongoing emergency.",
+            "The atypical duration needs reassessment."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "6912cd3af5211485f04b9ccd8204eaf272ed7491b6fb8a600eef0fd927919538"
+    },
+    {
+      "id": "x-risk-087",
+      "status": "pass",
+      "assessment": "Protecting a painless lesion and arranging foot assessment recognizes sensory-loss risk; continued pressure or independent blister opening are relevant misconceptions. Routine skin care does not replace lesion assessment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "28e8f63f1fbdf91b06c5f84405b938eea8414702c572217dce8bfcd84929728e"
+    },
+    {
+      "id": "x-risk-088",
+      "status": "pass",
+      "assessment": "Vomiting/no meal changes the prandial-insulin context. Current glucose and authorized individualized plan review are appropriate; the item avoids universal withholding of all insulin and avoids inventing a dose.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ac229486f42cf584c6e0999f99c2524177e33a709c63d25cd5c8654f3ced3184"
+    },
+    {
+      "id": "x-risk-089",
+      "status": "revise",
+      "assessment": "Two only distractors reveal SATA keys. Specify assessment of extent and injury-related risk, preserving real alternative observations.",
+      "issues": [
+        "Two only distractors reveal SATA keys. Specify assessment of extent and injury-related risk, preserving real alternative observations."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Recent falls or other trauma",
+            "The colour changes in a single resolving bruise",
+            "Whether the anticoagulant was taken before or after breakfast",
+            "Bleeding from gums, urine, or stool"
+          ],
+          "why": [
+            "Injury history changes the assessment of occult bleeding risk.",
+            "A resolving local bruise does not assess the new pattern’s extent or injury exposure.",
+            "Meal timing does not directly assess the extent of bleeding or recent injury.",
+            "Other sites help assess the extent of bleeding."
+          ],
+          "stem": "A client taking an anticoagulant develops multiple unexplained bruises. Which additional findings most directly assess the extent of bleeding or injury-related bleeding risk? Select all that apply."
+        }
+      ],
+      "reviewedItemSha256": "750e3a3d5d248457db1e23e061bb437f2625b85eb85adfed7c2d0eb3bdafb587"
+    },
+    {
+      "id": "x-risk-090",
+      "status": "revise",
+      "assessment": "Expected ageing and weeks-long delay are cartoon alternatives. Use realistic causal misattribution while preserving acute-illness key.",
+      "issues": [
+        "Expected ageing and weeks-long delay are cartoon alternatives. Use realistic causal misattribution while preserving acute-illness key."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Treat the reduced intake as the main cause and monitor after nutritional supplements",
+            "Use a routine cough suppressant and reassess at the next scheduled review",
+            "Assess for acute illness despite the normal temperature",
+            "Exclude infection because fever is absent"
+          ],
+          "why": [
+            "Poor intake may be a manifestation of acute illness; new cough and functional decline warrant assessment now.",
+            "Symptom suppression does not evaluate the associated acute functional deterioration.",
+            "Older adults may show infection through functional and cognitive changes.",
+            "No fever does not reliably rule out infection."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "8dc92fc15e8f68f2606b47cc953819571e6678c5133323a061a507c33865a18b"
+    },
+    {
+      "id": "x-risk-091",
+      "status": "revise",
+      "assessment": "Report question options are only/all claims; use relevant alternative summaries.",
+      "issues": [
+        "Report question options are only/all claims; use relevant alternative summaries."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "The diabetes history and most recent glucose result",
+            "Position-linked symptoms and measured pressure changes",
+            "The pressure after seated recovery and the duration of rest",
+            "Recent antihypertensive timing and the usual baseline pressure"
+          ],
+          "why": [
+            "Glucose is relevant, but this omits the measured positional pressure response associated with symptoms.",
+            "These document orthostatic intolerance needing plan review.",
+            "Recovery information alone omits the symptomatic standing response.",
+            "These may help identify causes but should accompany the direct position-linked observations."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "5916f42a4c8aef078d71cb90e3fb775bddb397fcd64318a0eb23c5f4442d8bac"
+    },
+    {
+      "id": "x-risk-092",
+      "status": "revise",
+      "assessment": "Snack preference is filler and repeated only cues the keys. Ask specifically for acute changes with parallel findings.",
+      "issues": [
+        "Snack preference is filler and repeated only cues the keys. Ask specifically for acute changes with parallel findings."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "The new change in mental status",
+            "The abdominal trend with weight and symptoms",
+            "Prominent abdominal veins unchanged from prior assessment",
+            "Usual mild ankle swelling without recent increase"
+          ],
+          "why": [
+            "This may reflect a serious complication requiring assessment.",
+            "Fluid accumulation and associated symptoms need evaluation.",
+            "This chronic stable observation is less urgent than the new neurological and fluid trends.",
+            "The unchanged baseline adds less urgency than new confusion and increasing abdominal girth."
+          ],
+          "stem": "A client with chronic liver disease has increasing abdominal girth and new confusion. Which findings indicate current deterioration that should be promptly communicated? Select all that apply."
+        }
+      ],
+      "reviewedItemSha256": "b7a8bd68ee3309705d888397554862b45e7938fb7539ad4fa76fd7e1de643c35"
+    },
+    {
+      "id": "x-risk-093",
+      "status": "revise",
+      "assessment": "Odour/appliance-order distractors are unrelated to acute dehydration. Use plausible self-management errors.",
+      "issues": [
+        "Odour/appliance-order distractors are unrelated to acute dehydration. Use plausible self-management errors."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Reduce oral fluids to slow the intestinal output",
+            "Increase plain water and defer contacting the team until the next day",
+            "Change to a larger pouch and review output at the next routine visit",
+            "Assess hydration and promptly contact the team"
+          ],
+          "why": [
+            "Reducing intake may worsen dehydration and requires individualized team advice.",
+            "Symptomatic high losses need prompt assessment; fluid and electrolyte replacement should follow an individualized plan.",
+            "A larger appliance manages containment but does not address dizziness and low urine output.",
+            "High losses with perfusion symptoms suggest dehydration risk."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "40396fe5031c0cf5401878a46348862a8548c58590e2db8fe243fee3dd040f4a"
+    },
+    {
+      "id": "x-risk-094",
+      "status": "revise",
+      "assessment": "Larger meal is a weak filler distractor. Replace with a plausible comfort-first delay.",
+      "issues": [
+        "Larger meal is a weak filler distractor. Replace with a plausible comfort-first delay."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Increase fibre as the immediate treatment",
+            "Give the prescribed antiemetic and reassess after the next bowel-care round",
+            "Assess and urgently seek clinical review",
+            "Administer the usual laxative before assessment"
+          ],
+          "why": [
+            "Fibre does not address a possible obstructed bowel.",
+            "Symptom relief must not delay urgent assessment of possible obstruction.",
+            "The pattern may indicate obstruction rather than routine constipation.",
+            "Stimulating the bowel may be inappropriate with suspected obstruction."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "5b759313ca290a6a839a97016b16fc80df9875aa34edbb7c4e5f6d1ed0eee989"
+    },
+    {
+      "id": "x-risk-095",
+      "status": "revise",
+      "assessment": "Interpretation question mixes action with diagnosis and uses permanent-ruleout caricature. Make parallel plausible interpretations.",
+      "issues": [
+        "Interpretation question mixes action with diagnosis and uses permanent-ruleout caricature. Make parallel plausible interpretations."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "The meal symptoms can be managed under the existing plan because the earlier screen was normal",
+            "A reassessment is needed despite the earlier screen",
+            "The weight loss is nutritional, since a swallowing problem would have been found on the screen",
+            "The coughing is unlikely to affect intake if it occurs only during some meals"
+          ],
+          "why": [
+            "A previous screen does not address later cough and weight loss.",
+            "A screen is time-specific and does not override subsequent concerns.",
+            "Screening is time-specific and may miss later or more complex swallowing problems.",
+            "Intermittent symptoms may still be clinically important and require reassessment."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "a2cc71e4ffdd703e38b3735760a4e4e044fc629ded1a7de50cac26aa735234c2"
+    },
+    {
+      "id": "x-risk-096",
+      "status": "pass",
+      "assessment": "Fluid weight can conceal tissue loss; poor intake and reduced muscle bulk justify comprehensive nutritional assessment despite stable scale weight. No single anthropometric measure substitutes for assessment.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "81ff7de4a1440873bcff13297702b457eec81c0a59c9809a517eec955837a9ae"
+    },
+    {
+      "id": "x-risk-097",
+      "status": "pass",
+      "assessment": "Fatigue and increased assistance represent changed capacity requiring mobility-plan reassessment. Different preferred time alone and an unchanged aid do not establish functional decline. Preference should still inform planning.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "6413132537c795b900bb17198b00758fa56e73b2c05d72083c135b24c1441411"
+    },
+    {
+      "id": "x-risk-098",
+      "status": "revise",
+      "assessment": "Stopping all oxygen until discharge is implausible. Replace with relevant pressure workaround; key correctly overrides a global low-risk score.",
+      "issues": [
+        "Stopping all oxygen until discharge is implausible. Replace with relevant pressure workaround; key correctly overrides a global low-risk score."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Repeat the score without inspecting the site",
+            "Add padding over the tender point before checking the skin or device fit",
+            "Assess the device contact area directly",
+            "Dismiss pressure risk because the score is low"
+          ],
+          "why": [
+            "Rescoring alone can miss the local problem.",
+            "Padding may not remove the pressure and may alter fit; inspect the contact area first.",
+            "A global score may not capture localized device pressure.",
+            "A score does not override a new clinical symptom."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "7546891aa5eb0cf6b8c37264f0a483942de5f9bcf62d83834a85052f68f8980d"
+    },
+    {
+      "id": "x-risk-099",
+      "status": "pass",
+      "assessment": "Improved urine/postural symptoms and pulse/alertness are physiological responses. Intake balance or completed fluid bag are process measures; this is a useful evaluation distinction.",
+      "issues": [],
+      "proposedChanges": [],
+      "reviewedItemSha256": "ddf24ce30df426543da261b73492af0acd63be72bc4801d717a0ffc01dc18322"
+    },
+    {
+      "id": "x-risk-100",
+      "status": "revise",
+      "assessment": "Cancel-followup and immediate discharge are too absolute. Use realistic premature-normalization alternatives.",
+      "issues": [
+        "Cancel-followup and immediate discharge are too absolute. Use realistic premature-normalization alternatives."
+      ],
+      "proposedChanges": [
+        {
+          "options": [
+            "Reassess and escalate the evolving symptoms",
+            "Repeat routine observations after a rest period because consciousness has returned",
+            "Attribute the palpitations to anxiety from the faint and provide reassurance",
+            "Focus only on the minor elbow bruise"
+          ],
+          "why": [
+            "Transient recovery does not explain or resolve the event's cause.",
+            "New palpitations after unexplained syncope require timely assessment, not routine deferred monitoring.",
+            "Anxiety is possible, but the evolving circulatory symptoms need assessment before attribution.",
+            "The evolving circulatory symptoms take priority over a minor injury."
+          ]
+        }
+      ],
+      "reviewedItemSha256": "fc2be21bfe7282ae6ee1b53cc5e17bc14094e5b976d78be3ed171d41ae57eef2"
+    }
+  ],
+  "overlapNotes": [
+    "risk083 and066 test the same unilateral calf-change concern in different baseline contexts. Separate in practice sets; full-bank objective deduplication remains needed.",
+    "Multiple acute-change questions still share an assess/escalate response. Proposed changes improve distractors but do not establish high difficulty or psychometric discrimination."
+  ],
+  "reviewerTask": "/root/review_legacy"
+}
